@@ -1,0 +1,95 @@
+<resources>
+    <string name="action_settings">Ustawienia</string>
+    <string name="play_sound_periodically">Odtwarzaj dźwięki</string>
+    <string name="repeat_every">Powtarzaj co</string>
+    <string name="vibrate">Wibracje</string>
+    <string name="sound_volume">Głośność dźwięku</string>
+    <string name="test">Testuj</string>
+    <string name="off">Wyłączone</string>
+    <string name="on">Włączone</string>
+    <string name="text_seek_volume">Głośność</string>
+    <string name="pref_choose_audio_stream">Strumień dźwięku</string>
+    <string name="period_text">Okres</string>
+    <string name="sound_text">Dźwięk</string>
+    <string name="set">Ustaw</string>
+    <string name="cancel">Anuluj</string>
+    <string name="quiet_hours_title">Ciche godziny</string>
+    <string name="quiet_hours_times_title">Ciche godziny pomiędzy</string>
+    <string name="quiet_hours_from">Ciche godziny od</string>
+    <string name="quiet_hours_to">Ciche godziny do</string>
+    <string name="light_up_screen_title">Rozświetl ekran podczas powiadomienia</string>
+    <string name="light_up_screen_off">Ekran będzie wyłączony</string>
+    <string name="light_up_screen_on">Włącz na krótko ekran</string>
+    <string name="quiet_days_title">Ciche dni</string>
+    <string name="days_none">Żaden</string>
+    <string name="action_send_logs">Zgłoś problem</string>
+    <string name="action_about">O programie</string>
+    <string name="about_dialog_title">O programie</string>
+    <string name="ok">Ok</string>
+    <string name="action_support">Kontakt ze wsparciem</string>
+    <string name="about_authors">Autorzy</string>
+    <string name="about_version">Wersja:</string>
+    <string name="pref_advanced">Ustawienia zaawansowane</string>
+    <string name="title_advanced_settings">Ustawienia zaawansowane</string>
+    <string name="pref_time_offset_title">Przesunięcie czasu</string>
+    <string name="pref_time_offset_summary">Przesunięcie od docelowego czasu w sekundach</string>
+    <string name="while_music">Wyłącz podczas odtwarzania muzyki</string>
+    <string name="while_music_on">Powiadomienia wyłączone</string>
+    <string name="while_music_off">Powiadomienia włączone</string>
+    <string name="while_music_toast">Powiadomienia są teraz wyłączone, ponieważ słuchasz muzyki. Możesz zmienić to w Ustawieniach.</string>
+    <string name="late_notif_title">Tryb alarmu włączony</string>
+    <string name="late_notif_message">Zostało wykryte, że powiadomienie było opóźnione o kilka minut co zdaża się na niktórych urządzeniach Samsunga. Żeby temu zapobiec została włączona opcja \"Tryb alarmu\", co powinno poprawić problem. Możesz wyłączyć tą opcję i automatyczne jej włączanie w Ustawieniach zaawansowanych. Jeśli zostanie znalezione lepsze rozwiązanie, aplikacja zostanie zaktualizowana. Jeśli będziesz mieć jeszcze jakieś problemy, proszę skontaktuj się emailowo.</string>
+    <string name="dialog_ok">OK</string>
+    <string name="late_notif_notif_title">BlipBlip - zmiana konfiguracji</string>
+    <string name="late_notif_notif_text">Tryb alarmu został włączony by naprawić opóźnienia</string>
+    <string name="dialog_yes">Tak</string>
+    <string name="dialog_cancel">Anuluj</string>
+    <string name="disable_alarm_mode_title">Ostrzeżenie</string>
+    <string name="disable_alarm_mode_message">Zostało wcześniej wykryte, że urządzenie może być narażone na problem, który powoduje, że powiadomienia są opóźnione o kilka minut. Ta opcja została włączona, by temu zapobiec. Jeśli ją wyłączysz, problem może powrócić.</string>
+    <string name="notif_as_alarm_off">Zwykłe powiadomienia</string>
+    <string name="notif_as_alarm_on">Powiadomienia działają jak alarmy (budziki) – naprawia 3–5 minutowe opóźnienia powiadomień na niektórych urządzeniach Samsunga</string>
+    <string name="notif_as_alarm_title">Tryb alarmu</string>
+    <string name="auto_notif_as_alarm_title">Automatyczny tryb alarmu</string>
+    <string name="auto_notif_as_alarm_on">Włącz Tryb alarmu jeśli zostanie wykryte opóźnienie powiadomienia</string>
+    <string name="auto_notif_as_alarm_off">Nie włączaj Trybu alarmu automatycznie</string>
+    <string name="debug_logs_title">Zapisuj dziennik odpluskwiania</string>
+    <string name="debug_logs_off">Zapisywanie dzienniga wyłączone</string>
+    <string name="debug_logs_on">Zapisuj dziennik dla opcji Zgłoś problem</string>
+    <string name="send_logs_describe">Proszę opisz swój problem:</string>
+    <string name="send">Wyślij</string>
+    <string name="send_email_description">Wyślij email…</string>
+    <string name="app_language">Język</string>
+    <string name="system_default_language">Domyślny systemowy</string>
+    <string-array name="sound_names">
+        <item>BlipBlip</item>
+        <item>Zegarek Casio</item>
+        <item>Gong</item>
+        <item>Dzwon okrętowy</item>
+        <item>Podwójny dzwon okrętowy</item>
+        <item>Kukułka</item>
+    </string-array>
+    <string-array name="days_of_week"> <!-- Must start from Monday -->
+        <item>poniedziałek</item>
+        <item>wtorek</item>
+        <item>środa</item>
+        <item>czwartek</item>
+        <item>piątek</item>
+        <item>sobota</item>
+        <item>niedziela</item>
+    </string-array>
+    <string name="period_1_minute">1 minuta</string>
+    <string name="period_5_minutes">5 minut</string>
+    <string name="period_15_minutes">15 minut</string>
+    <string name="period_30_minutes">30 minut</string>
+    <string name="period_60_minutes">1 godzina</string>
+    <string-array name="pref_audio_stream_titles">
+        <item>Dzwonek telefonu</item>
+        <item>Budzik</item>
+        <item>Muzyka</item>
+    </string-array>
+    <string name="about_coding">Kodowanie</string>
+    <string name="about_graphics">Grafika</string>
+    <string name="about_more_apps">Więcej aplikacji</string>
+    <string name="about_send_feedback">Wyślij komentarz</string>
+    <string name="about_community">Społeczność Google+</string>
+</resources>
