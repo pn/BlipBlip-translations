@@ -17,7 +17,7 @@
     <string name="quiet_hours_times_title">Ciche godziny pomiędzy</string>
     <string name="quiet_hours_from">Ciche godziny od</string>
     <string name="quiet_hours_to">Ciche godziny do</string>
-    <string name="light_up_screen_title">Rozświetl ekran podczas powiadomienia</string>
+    <string name="light_up_screen_title">Włącz ekran podczas powiadomienia</string>
     <string name="light_up_screen_off">Ekran będzie wyłączony</string>
     <string name="light_up_screen_on">Włącz na krótko ekran</string>
     <string name="quiet_days_title">Ciche dni</string>
@@ -90,6 +90,6 @@
     <string name="about_coding">Kodowanie</string>
     <string name="about_graphics">Grafika</string>
     <string name="about_more_apps">Więcej aplikacji</string>
-    <string name="about_send_feedback">Wyślij komentarz</string>
+    <string name="about_send_feedback">Wyślij informację zwrotną</string>
     <string name="about_community">Społeczność Google+</string>
 </resources>
