@@ -89,7 +89,7 @@
     </string-array>
     <string name="about_coding">Coding</string>
     <string name="about_graphics">Graphics</string>
-    <string name="about_more_apps">Graphics</string>
+    <string name="about_more_apps">More Apps</string>
     <string name="about_send_feedback">Send Feedback</string>
     <string name="about_community">Google+ Community</string>
 </resources>
