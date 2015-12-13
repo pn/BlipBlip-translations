@@ -1,9 +1,7 @@
 <resources>
     <string name="action_settings">Ustawienia</string>
     <string name="play_sound_periodically">Odtwarzaj dźwięki</string>
-    <string name="repeat_every">Powtarzaj co</string>
     <string name="vibrate">Wibracje</string>
-    <string name="sound_volume">Głośność dźwięku</string>
     <string name="test">Testuj</string>
     <string name="off">Wyłączone</string>
     <string name="on">Włączone</string>
@@ -25,8 +23,7 @@
     <string name="action_send_logs">Zgłoś problem</string>
     <string name="action_about">O programie</string>
     <string name="about_dialog_title">O programie</string>
-    <string name="ok">Ok</string>
-    <string name="action_support">Kontakt ze wsparciem</string>
+    <string name="ok">OK</string>
     <string name="about_authors">Autorzy</string>
     <string name="about_version">Wersja:</string>
     <string name="pref_advanced">Ustawienia zaawansowane</string>
@@ -42,10 +39,6 @@
     <string name="dialog_ok">OK</string>
     <string name="late_notif_notif_title">BlipBlip - zmiana konfiguracji</string>
     <string name="late_notif_notif_text">Tryb alarmu został włączony by naprawić opóźnienia</string>
-    <string name="dialog_yes">Tak</string>
-    <string name="dialog_cancel">Anuluj</string>
-    <string name="disable_alarm_mode_title">Ostrzeżenie</string>
-    <string name="disable_alarm_mode_message">Zostało wcześniej wykryte, że urządzenie może być narażone na problem, który powoduje, że powiadomienia są opóźnione o kilka minut. Ta opcja została włączona, by temu zapobiec. Jeśli ją wyłączysz, problem może powrócić.</string>
     <string name="notif_as_alarm_off">Zwykłe powiadomienia</string>
     <string name="notif_as_alarm_on">Powiadomienia działają jak alarmy (budziki) – naprawia 3–5 minutowe opóźnienia powiadomień na niektórych urządzeniach Samsunga</string>
     <string name="notif_as_alarm_title">Tryb alarmu</string>
