@@ -34,6 +34,10 @@
     <string name="while_music_on">All notifications disabled</string>
     <string name="while_music_off">Notifications enabled</string>
     <string name="while_music_toast">Notifications are now disabled, because you are listening to music. You can change this in the application\'s Settings.</string>
+    <string name="while_phonecall">Disable during phone call</string>
+    <string name="while_phonecall_on">All notifications disabled</string>
+    <string name="while_phonecall_off">Notifications enabled</string>
+    <string name="while_phonecall_toast">Notifications are now disabled, because you are in a phone call. You can change this in the application\'s Settings.</string>
     <string name="late_notif_title">Alarm mode enabled</string>
     <string name="late_notif_message">It was detected that notification was delayed by several minutes which happens on some Samsung devices. To prevent this \"Alarm mode\" option was enabled which should fix this issue. You can disable this option and automatic enabling of this option in the Advanced Settings. If there will be better workaround found to fix this issue the app will be updated. If you have any more problems, please report them via email.</string>
     <string name="dialog_ok">OK</string>
