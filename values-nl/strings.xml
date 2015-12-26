@@ -1,0 +1,93 @@
+<resources>
+    <string name="action_settings">Instellingen</string>
+    <string name="play_sound_periodically">Geluid periodiek afspelen</string>
+    <string name="vibrate">Trillen</string>
+    <string name="test">Test</string>
+    <string name="off">Uit</string>
+    <string name="on">Aan</string>
+    <string name="text_seek_volume">Volume</string>
+    <string name="pref_choose_audio_stream">Audio stream</string>
+    <string name="period_text">Periode</string>
+    <string name="sound_text">Geluid</string>
+    <string name="set">Instellen</string>
+    <string name="cancel">Annuleren</string>
+    <string name="quiet_hours_title">Stille uren</string>
+    <string name="quiet_hours_times_title">Stille uren tussen</string>
+    <string name="quiet_hours_from">Stille uren van</string>
+    <string name="quiet_hours_to">Stille uren tot</string>
+    <string name="light_up_screen_title">Scherm oplichten bij notificatie</string>
+    <string name="light_up_screen_off">Scherm uit laten</string>
+    <string name="light_up_screen_on">Scherm kort aan zetten</string>
+    <string name="quiet_days_title">Stille dagen</string>
+    <string name="days_none">Geen</string>
+    <string name="action_send_logs">Meld probleem</string>
+    <string name="action_about">Over</string>
+    <string name="about_dialog_title">Over</string>
+    <string name="ok">OK</string>
+    <string name="about_authors">Auteurs</string>
+    <string name="about_version">Versie:</string>
+    <string name="pref_advanced">Geadvanceerde instellingen</string>
+    <string name="title_advanced_settings">Geadvanceerde instellingen</string>
+    <string name="pref_time_offset_title">Tijd verschil</string>
+    <string name="pref_time_offset_summary">Verschil van doeltijd in seconden</string>
+    <string name="while_music">Niet activeren tijdens het afspelen van muziek</string>
+    <string name="while_music_on">Alle notificaties zijn uitgeschakeld</string>
+    <string name="while_music_off">Notificaties zijn ingeschakeld</string>
+    <string name="while_music_toast">Notificaties zijn uitgeschakeld omdat je naar muziek luistert. Je kunt dit veranderen in de instellingen van de applicatie.</string>
+    <string name="while_phonecall">Niet activeren tijdens een telefoongesprek</string>
+    <string name="while_phonecall_on">Alle notificaties zijn uitgeschakeld</string>
+    <string name="while_phonecall_off">Notificaties zijn ingeschakeld</string>
+    <string name="while_phonecall_toast">Notificaties zijn uitgeschakeld omdat je in een telefoongesprek zit. Je kunt dit veranderen in de instellingen van de applicatie.</string>
+    <string name="late_notif_title">Alarm modus ingeschakeld</string>
+    <string name="late_notif_message">Er is gedetecteerd dat notificaties vertraagd zijn met een aantal minuten, dit gebeurt op sommige Samsung apparaten. Om dit te voorkomen is de \"Alarm modus\" ingeschakeld, dit zou het probleem moeten oplossen. Je kunt deze optie uitschakelen en automatisch deze optie aanzetten in de Geadvanceerde Instellingen. Als er een betere oplossing is om dit probleem op te lossen, zal de applicatie geüpdatet worden.Indien je meer problemen hebt, meld deze via de mail.</string>
+    <string name="dialog_ok">OK</string>
+    <string name="late_notif_notif_title">BlipBlip configuratie veranderd</string>
+    <string name="late_notif_notif_text">Alarm modus ingeschakeld om vertraging op te lossen</string>
+    <string name="notif_as_alarm_off">Normale notificaties</string>
+    <string name="notif_as_alarm_on">Notificaties als alarmen – lost het 3–5 minuten vertraging van notificaties op op sommige Samsung apparaten</string>
+    <string name="notif_as_alarm_title">Alarm modus</string>
+    <string name="auto_notif_as_alarm_title">Alarm Modus automatisch inschakelen</string>
+    <string name="auto_notif_as_alarm_on">Alarm modus inschakelen als notificatie vertraging is gedetecteerd</string>
+    <string name="auto_notif_as_alarm_off">Alarm modus niet automatisch inschakelen</string>
+    <string name="debug_logs_title">Debug logs verzamelen</string>
+    <string name="debug_logs_off">Schrijven van logs uitgeschakeld</string>
+    <string name="debug_logs_on">Logs opslaan om een probleem te melden</string>
+    <string name="send_logs_describe">Beschrijf je probleem (bij voorkeur in het Engels):</string>
+    <string name="send">Versturen</string>
+    <string name="send_email_description">Email versturen</string>
+    <string name="app_language">Taal</string>
+    <string name="system_default_language">Systeem standaard</string>
+    <string-array name="sound_names">
+        <item>BlipBlip</item>
+        <item>Casio watch</item>
+        <item>Gong</item>
+        <item>Ship\'s bell</item>
+        <item>Double ship\'s bell</item>
+        <item>Cuckoo</item>
+    </string-array>
+    <string-array name="days_of_week"> <!-- Must start from Monday -->
+        <item>Maandag</item>
+        <item>Dinsdag</item>
+        <item>Woensdag</item>
+        <item>Donderdag</item>
+        <item>Vrijdag</item>
+        <item>Zaterdag</item>
+        <item>Zondag</item>
+    </string-array>
+    <string name="period_1_minute">1 minuut</string>
+    <string name="period_5_minutes">5 minuten</string>
+    <string name="period_15_minutes">15 minuten</string>
+    <string name="period_30_minutes">30 minuten</string>
+    <string name="period_60_minutes">1 uur</string>
+    <string-array name="pref_audio_stream_titles">
+        <item>Ring</item>
+        <item>Alarm</item>
+        <item>Media</item>
+    </string-array>
+    <string name="about_coding">Programmeren</string>
+    <string name="about_graphics">Grafisch</string>
+    <string name="about_more_apps">Meer applicaties</string>
+    <string name="about_send_feedback">Feedback versturen</string>
+    <string name="about_community">Google+ Community</string>
+    <string name="language_improve_translations">Vertalingen toevoegen of verbeteren</string>
+</resources>
