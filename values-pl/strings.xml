@@ -90,4 +90,9 @@
     <string name="about_send_feedback">Wyślij informację zwrotną</string>
     <string name="about_community">Społeczność Google+</string>
     <string name="language_improve_translations">Dodaj lub popraw tłumaczenia</string>
+    <string name="action_share">Podziel się aplikacją</string>
+    <string name="action_rate">Oceń aplikację</string>
+    <string name="share_title">Sprawdź aplikację BlipBlip!</string>
+    <string name="share_text">Wypróbuj aplikację BlipBlip (powiadomienie o pełnej godzinie) na androida</string>
+    <string name="share_chooser_title">Prześlij aplikację!</string>
 </resources>

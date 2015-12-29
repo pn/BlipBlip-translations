@@ -90,4 +90,9 @@
     <string name="about_send_feedback">Send Feedback</string>
     <string name="about_community">Google+ Community</string>
     <string name="language_improve_translations">Add or improve translations</string>
+    <string name="action_share">Share app</string>
+    <string name="action_rate">Rate us</string>
+    <string name="share_title">Check out BlipBlip hourly chime app!</string>
+    <string name="share_text">Check out BlipBlip hourly chime android app</string>
+    <string name="share_chooser_title">Share the app!</string>
 </resources>
