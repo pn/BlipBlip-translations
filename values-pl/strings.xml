@@ -96,4 +96,7 @@
     <string name="share_text">Wypróbuj aplikację BlipBlip (powiadomienie o pełnej godzinie) na androida</string>
     <string name="share_chooser_title">Prześlij aplikację!</string>
     <string name="notification_status_title">BlipBlip jest uruchomiony</string>
+    <string name="pref_notification_status_title">Wyświetl powiadomienie</string>
+    <string name="pref_notification_status_on">Wyświetl powiadomienie kiedy aplikacja działa, żeby zapobiec zabiciu jej przez system</string>
+    <string name="pref_notification_status_off">Ukryj powiadomienie - zwiększa ryzyko zabicia aplikacji przez system</string>
 </resources>

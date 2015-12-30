@@ -96,4 +96,7 @@
     <string name="share_text">Check out BlipBlip hourly chime android app</string>
     <string name="share_chooser_title">Share the app!</string>
     <string name="notification_status_title">BlipBlip is running</string>
+    <string name="pref_notification_status_title">Display notification</string>
+    <string name="pref_notification_status_on">Show notification when app is running to prevent killing by OS</string>
+    <string name="pref_notification_status_off">Hide notification - greater chance the app will be killed by OS</string>
 </resources>
