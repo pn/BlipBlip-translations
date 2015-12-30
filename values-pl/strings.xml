@@ -52,7 +52,7 @@
     <string name="debug_logs_title">Zapisuj dziennik odpluskwiania</string>
     <string name="debug_logs_off">Zapisywanie dzienniga wyłączone</string>
     <string name="debug_logs_on">Zapisuj dziennik dla opcji Zgłoś problem</string>
-    <string name="send_logs_describe">Proszę opisz swój problem:</string>
+    <string name="send_logs_describe">Proszę opisz swój problem z aplikacją:</string>
     <string name="send">Wyślij</string>
     <string name="send_email_description">Wyślij email…</string>
     <string name="app_language">Język</string>
@@ -99,4 +99,11 @@
     <string name="pref_notification_status_title">Wyświetl powiadomienie</string>
     <string name="pref_notification_status_on">Wyświetl powiadomienie kiedy aplikacja działa, żeby zapobiec zabiciu jej przez system</string>
     <string name="pref_notification_status_off">Ukryj powiadomienie - zwiększa ryzyko zabicia aplikacji przez system</string>
+    <string name="rate_us_title">Wystaw ocenę!</string>
+    <string name="rate_us_message">Dziękuję za poświęcony czas na ocenę aplikacji.</string>
+    <string name="rate_us_fivestars">5 gwiazdek!</string>
+    <string name="rate_us_onetofourstars">1–4 gwiazdek</string>
+    <string name="feedback_improvement_title">BlipBlip można usprawnić</string>
+    <string name="feedback_improvement_message">Proszę napisz co moglibyśmy usprawnić, żebyś był(a) zadowolony(a) z aplikacji.</string>
+    <string name="feedback_dialog_bug_found">Znalazłem błąd (załącz logi)</string>
 </resources>

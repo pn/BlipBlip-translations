@@ -99,4 +99,11 @@
     <string name="pref_notification_status_title">Display notification</string>
     <string name="pref_notification_status_on">Show notification when app is running to prevent killing by OS</string>
     <string name="pref_notification_status_off">Hide notification - greater chance the app will be killed by OS</string>
+    <string name="rate_us_title">Rate Us!</string>
+    <string name="rate_us_message">Thank you for taking time to review the app.</string>
+    <string name="rate_us_fivestars">5 stars!</string>
+    <string name="rate_us_onetofourstars">1–4 stars</string>
+    <string name="feedback_improvement_title">BlipBlip needs improvement</string>
+    <string name="feedback_improvement_message">Please tell us what we can improve to make you satisfied with the app.</string>
+    <string name="feedback_dialog_bug_found">I found a bug (attach logs)</string>
 </resources>
