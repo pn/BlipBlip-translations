@@ -108,4 +108,6 @@
     <string name="feedback_improvement_title">BlipBlip można usprawnić</string>
     <string name="feedback_improvement_message">Proszę napisz co moglibyśmy usprawnić, żebyś był(a) zadowolony(a) z aplikacji.</string>
     <string name="feedback_dialog_bug_found">Znalazłem błąd (załącz logi)</string>
+    <string name="audio_stream_change_title">BlipBlip - zmieniono strumień dźwięku</string>
+    <string name="audio_stream_change_message">Proszę zweryfikować głośność powiadomień</string>
 </resources>

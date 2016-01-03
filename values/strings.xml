@@ -108,4 +108,6 @@
     <string name="feedback_improvement_title">BlipBlip needs improvement</string>
     <string name="feedback_improvement_message">Please tell us what we can improve to make you satisfied with the app.</string>
     <string name="feedback_dialog_bug_found">I found a bug (attach logs)</string>
+    <string name="audio_stream_change_title">BlipBlip audio stream changed</string>
+    <string name="audio_stream_change_message">Please verify notification volume</string>
 </resources>
