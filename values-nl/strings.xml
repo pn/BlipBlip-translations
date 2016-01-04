@@ -1,6 +1,6 @@
 <resources>
     <string name="action_settings">Instellingen</string>
-    <string name="play_sound_periodically">Periodic notifications</string>
+    <string name="play_sound_periodically">Periodieke notificatiies</string>
     <string name="vibrate">Trillen</string>
     <string name="test">Test</string>
     <string name="off">Uit</string>
@@ -76,7 +76,7 @@
     </string-array>
     <string name="period_1_minute">1 minuut</string>
     <string name="period_5_minutes">5 minuten</string>
-    <string name="period_10_minutes">10 minutes</string>
+    <string name="period_10_minutes">10 minuten</string>
     <string name="period_15_minutes">15 minuten</string>
     <string name="period_30_minutes">30 minuten</string>
     <string name="period_60_minutes">1 uur</string>
@@ -93,22 +93,22 @@
     <string name="about_send_feedback">Feedback versturen</string>
     <string name="about_community">Google+ Community</string>
     <string name="language_improve_translations">Vertalingen toevoegen of verbeteren</string>
-    <string name="action_share">Share app</string>
-    <string name="action_rate">Rate us</string>
-    <string name="share_title">Check out BlipBlip hourly chime app!</string>
-    <string name="share_text">Check out BlipBlip hourly chime android app</string>
-    <string name="share_chooser_title">Share the app!</string>
-    <string name="notification_status_title">BlipBlip is active</string>
-    <string name="pref_notification_status_title">Display notification</string>
-    <string name="pref_notification_status_on">Show notification when app is running to prevent killing by OS</string>
-    <string name="pref_notification_status_off">Hide notification - greater chance the app will be killed by OS</string>
-    <string name="rate_us_title">Rate Us!</string>
-    <string name="rate_us_message">Thank you for taking time to review the app.</string>
-    <string name="rate_us_fivestars">5 stars!</string>
-    <string name="rate_us_onetofourstars">1–4 stars</string>
-    <string name="feedback_improvement_title">BlipBlip needs improvement</string>
-    <string name="feedback_improvement_message">Please tell us what we can improve to make you satisfied with the app.</string>
-    <string name="feedback_dialog_bug_found">I found a bug (attach logs)</string>
-    <string name="audio_stream_change_title">BlipBlip audio stream changed</string>
-    <string name="audio_stream_change_message">Please verify notification volume</string>
+    <string name="action_share">Deel app</string>
+    <string name="action_rate">Beoordel ons</string>
+    <string name="share_title">Bekijk de BlipBlip uursignaal app!</string>
+    <string name="share_text">Bekijk de BlipBlip uursignaal Android app</string>
+    <string name="share_chooser_title">Deel de app!</string>
+    <string name="notification_status_title">BlipBlip is actief</string>
+    <string name="pref_notification_status_title">Toon notificatie</string>
+    <string name="pref_notification_status_on">Toon de notificatie om te voorkomen dat de app gestopt wordt door de OS</string>
+    <string name="pref_notification_status_off">Ververg notificatie - groter kans dat de app gestopt wordt door de OS</string>
+    <string name="rate_us_title">Beoordeel ons!</string>
+    <string name="rate_us_message">Bedankt voor uw tijd om een review achter te laten.</string>
+    <string name="rate_us_fivestars">5 sterren!</string>
+    <string name="rate_us_onetofourstars">1–4 sterren</string>
+    <string name="feedback_improvement_title">BlipBlip heeft verbetering nodig</string>
+    <string name="feedback_improvement_message">Vertel ons wat we kunnen doen om de applicatie te verbeteren.</string>
+    <string name="feedback_dialog_bug_found">Ik heb een bug gevonden (logs bijvoegen)</string>
+    <string name="audio_stream_change_title">BlipBlip audio stream aangepast</string>
+    <string name="audio_stream_change_message">Gelieve notificatie volume bevestigen</string>
 </resources>
