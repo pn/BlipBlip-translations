@@ -111,4 +111,5 @@
     <string name="feedback_dialog_bug_found">I found a bug (attach logs)</string>
     <string name="audio_stream_change_title">BlipBlip audio stream changed</string>
     <string name="audio_stream_change_message">Please verify notification volume</string>
+    <string name="play_sound_switch">Play sound</string>
 </resources>

@@ -111,4 +111,5 @@
     <string name="feedback_dialog_bug_found">Ik heb een bug gevonden (logs bijvoegen)</string>
     <string name="audio_stream_change_title">BlipBlip audio stream aangepast</string>
     <string name="audio_stream_change_message">Gelieve notificatie volume bevestigen</string>
+    <string name="play_sound_switch">Play sound</string>
 </resources>
