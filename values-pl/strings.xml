@@ -112,4 +112,6 @@
     <string name="audio_stream_change_title">BlipBlip - zmieniono strumień dźwięku</string>
     <string name="audio_stream_change_message">Proszę zweryfikować głośność powiadomień</string>
     <string name="play_sound_switch">Odtwarzanie dźwięku</string>
+    <string name="service_disabled_warning">BlipBlip jest wyłączony</string>
+    <string name="service_enable">Włącz</string>
 </resources>

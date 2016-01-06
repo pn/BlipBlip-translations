@@ -112,4 +112,6 @@
     <string name="audio_stream_change_title">BlipBlip audio stream aangepast</string>
     <string name="audio_stream_change_message">Gelieve notificatie volume bevestigen</string>
     <string name="play_sound_switch">Play sound</string>
+    <string name="service_disabled_warning">BlipBlip is disabled</string>
+    <string name="service_enable">Enable</string>
 </resources>
