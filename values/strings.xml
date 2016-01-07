@@ -122,4 +122,7 @@
         <item>Single long</item>
         <item>Double long</item>
     </string-array>
+    <string name="quiet_day_warning">Notification disabled, because today is \"quiet day\".</string>
+    <string name="change_setting">Change</string>
+    <string name="toast_change_quiet_days">Please change \"Quiet days\" setting to make BlipBlip work today.</string>
 </resources>

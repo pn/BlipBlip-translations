@@ -122,4 +122,7 @@
         <item>Pojedyncza, długa</item>
         <item>Podwójna, długa</item>
     </string-array>
+    <string name="quiet_day_warning">Powiadomienia wyłączone, ponieważ dzisiaj jest \"cichy dzień\".</string>
+    <string name="change_setting">Zmień</string>
+    <string name="toast_change_quiet_days">Proszę zmień ustawienie \"Ciche dni\", żeby BlipBlip mógł dzisiaj działać .</string>
 </resources>
