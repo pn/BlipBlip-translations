@@ -125,4 +125,9 @@
     <string name="quiet_day_warning">Notification disabled, because today is \"quiet day\".</string>
     <string name="change_setting">Change</string>
     <string name="toast_change_quiet_days">Please change \"Quiet days\" setting to make BlipBlip work today.</string>
+    <string name="notification_question_title">Display notification?</string>
+    <string name="notification_question_message">Displaying notification ensures the app will be running without interruptions. If you hide the notification, the app may be later stopped by the system without notifying you. If you disable it you can enable it later in Advanced settings.</string>
+    <string name="dont_show_again">Do not ask again</string>
+    <string name="display_notification">Display</string>
+    <string name="hide_notification">Hide</string>
 </resources>

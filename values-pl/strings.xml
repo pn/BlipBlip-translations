@@ -125,4 +125,9 @@
     <string name="quiet_day_warning">Powiadomienia wyłączone, ponieważ dzisiaj jest \"cichy dzień\".</string>
     <string name="change_setting">Zmień</string>
     <string name="toast_change_quiet_days">Proszę zmień ustawienie \"Ciche dni\", żeby BlipBlip mógł dzisiaj działać .</string>
+    <string name="notification_question_title">Wyświetlać powiadomienie?</string>
+    <string name="notification_question_message">Wyświetlanie powiadomienia zapewnia, że aplikacja będzie działać bez przerwy. Jeśli je ukryjesz to aplikacja może później zostać zamknięta przez system bez powiadomienia Ciebie. Jeśli wyłączysz powiadomienie, możesz je później włączyć w Ustawieniach zaawansowanych.</string>
+    <string name="dont_show_again">Nie pytaj ponownie</string>
+    <string name="display_notification">Wyświetlaj</string>
+    <string name="hide_notification">Ukryj</string>
 </resources>
