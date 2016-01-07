@@ -114,4 +114,12 @@
     <string name="play_sound_switch">Play sound</string>
     <string name="service_disabled_warning">BlipBlip is disabled</string>
     <string name="service_enable">Enable</string>
+    <string-array name="vibration_names">
+        <item>For BlipBlip</item>
+        <item>For Casio watch</item>
+        <item>Single short</item>
+        <item>Double short</item>
+        <item>Single long</item>
+        <item>Double long</item>
+    </string-array>
 </resources>
