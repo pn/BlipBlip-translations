@@ -130,4 +130,5 @@
     <string name="dont_show_again">Do not ask again</string>
     <string name="display_notification">Display</string>
     <string name="hide_notification">Hide</string>
+    <string name="repeat_every">Repeat every</string>
 </resources>
