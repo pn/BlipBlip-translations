@@ -50,7 +50,7 @@
     <string name="auto_notif_as_alarm_on">Włącz Tryb alarmu jeśli zostanie wykryte opóźnienie powiadomienia</string>
     <string name="auto_notif_as_alarm_off">Nie włączaj Trybu alarmu automatycznie</string>
     <string name="debug_logs_title">Zapisuj dziennik odpluskwiania</string>
-    <string name="debug_logs_off">Zapisywanie dzienniga wyłączone</string>
+    <string name="debug_logs_off">Zapisywanie dziennika wyłączone</string>
     <string name="debug_logs_on">Zapisuj dziennik dla opcji Zgłoś problem</string>
     <string name="send_logs_describe">Proszę opisz swój problem z aplikacją:</string>
     <string name="send">Wyślij</string>
