@@ -81,11 +81,9 @@
     <string name="period_30_minutes">30 minut</string>
     <string name="period_60_minutes">1 godzinę</string>
     <string-array name="pref_audio_stream_titles">
-        <item>Powiadomienia</item>
         <item>Dzwonek telefonu</item>
         <item>Budzik</item>
         <item>Muzyka</item>
-        <item>System</item>
     </string-array>
     <string name="about_coding">Kodowanie</string>
     <string name="about_graphics">Grafika</string>
