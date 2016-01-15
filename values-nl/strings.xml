@@ -129,4 +129,5 @@
     <string name="display_notification">Display</string>
     <string name="hide_notification">Hide</string>
     <string name="repeat_every">Repeat every</string>
+    <string name="about_translations">Translations</string>
 </resources>
