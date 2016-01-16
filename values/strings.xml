@@ -130,4 +130,7 @@
     <string name="hide_notification">Hide</string>
     <string name="repeat_every">Repeat every</string>
     <string name="about_translations">Translations</string>
+    <string name="allow_while_idle_title">Allow in low power mode</string>
+    <string name="allow_while_idle_off">When phone enters low power mode some notifications may be skipped.</string>
+    <string name="allow_while_idle_on">Allow to work in low power (Doze/Idle) mode. May not always work for notifications more frequent than 15 minutes. Setting may slightly affect battery usage.</string>
 </resources>

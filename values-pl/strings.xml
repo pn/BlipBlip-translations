@@ -130,4 +130,7 @@
     <string name="hide_notification">Ukryj</string>
     <string name="repeat_every">Powtarzaj co</string>
     <string name="about_translations">Tłumaczenia</string>
+    <string name="allow_while_idle_title">Zezwól na pracę w trybie oszczędnym</string>
+    <string name="allow_while_idle_off">Jeśli telefon będzie w trybie oszczędnym niktóre powiadomienia z aplikacji mogą nie wystąpić.</string>
+    <string name="allow_while_idle_on">Zezwól na pracę w trybie oszczędnym (Doze/Idle). Może nie działać dla powiadomień częstszych niż 15 minut. Ustawienie może mieć niewielki wpływ na zużycie baterii.</string>
 </resources>
