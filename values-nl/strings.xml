@@ -93,13 +93,13 @@
     <string name="language_improve_translations">Vertalingen toevoegen of verbeteren</string>
     <string name="action_share">Deel app</string>
     <string name="action_rate">Beoordel ons</string>
-    <string name="share_title">Bekijk de BlipBlip uursignaal app!</string>
-    <string name="share_text">Bekijk de BlipBlip uursignaal Android app</string>
+    <string name="share_title">Bekijk de BlipBlip app!</string>
+    <string name="share_text">Bekijk de BlipBlip Android app</string>
     <string name="share_chooser_title">Deel de app!</string>
     <string name="notification_status_title">BlipBlip is actief</string>
     <string name="pref_notification_status_title">Toon notificatie</string>
     <string name="pref_notification_status_on">Toon de notificatie om te voorkomen dat de app gestopt wordt door de OS</string>
-    <string name="pref_notification_status_off">Ververg notificatie - groter kans dat de app gestopt wordt door de OS</string>
+    <string name="pref_notification_status_off">Verberg notificatie - groter kans dat de app gestopt wordt door de OS</string>
     <string name="rate_us_title">Beoordeel ons!</string>
     <string name="rate_us_message">Bedankt voor uw tijd om een review achter te laten.</string>
     <string name="rate_us_fivestars">5 sterren!</string>
@@ -110,29 +110,29 @@
     <string name="audio_stream_change_title">BlipBlip audio stream aangepast</string>
     <string name="audio_stream_change_message">Gelieve notificatie volume bevestigen</string>
     <string name="play_sound_switch">Play sound</string>
-    <string name="service_disabled_warning">BlipBlip is disabled</string>
-    <string name="service_enable">Enable</string>
+    <string name="service_disabled_warning">BlipBlip is uitgeschakeld</string>
+    <string name="service_enable">Inschakelen</string>
     <string-array name="vibration_names">
         <item>For BlipBlip</item>
         <item>For Casio watch</item>
-        <item>Single short</item>
-        <item>Double short</item>
-        <item>Single long</item>
-        <item>Double long</item>
+        <item>Enkel kort</item>
+        <item>Dubbel kort</item>
+        <item>Enkel lang</item>
+        <item>Dubbel lang</item>
     </string-array>
-    <string name="quiet_day_warning">Notification disabled, because today is \"quiet day\".</string>
-    <string name="change_setting">Change</string>
-    <string name="toast_change_quiet_days">Please change \"Quiet days\" setting to make BlipBlip work today.</string>
-    <string name="notification_question_title">Display notification?</string>
-    <string name="notification_question_message">Displaying notification ensures the app will be running without interruptions. If you hide the notification, the app may be later stopped by the system without notifying you. If you disable it you can enable it later in Advanced settings.</string>
-    <string name="dont_show_again">Do not ask again</string>
-    <string name="display_notification">Display</string>
-    <string name="hide_notification">Hide</string>
-    <string name="repeat_every">Repeat every</string>
-    <string name="about_translations">Translations</string>
-    <string name="allow_while_idle_title">Allow in low power mode</string>
-    <string name="allow_while_idle_off">When phone enters low power mode some notifications may be skipped.</string>
-    <string name="allow_while_idle_on">Allow to work in low power (Doze/Idle) mode. May not always work for notifications more frequent than 15 minutes. Setting may slightly affect battery usage.</string>
+    <string name="quiet_day_warning">Notificatie uitgeschakeld omdat vandaag een \"stille dag\" is.</string>
+    <string name="change_setting">Aanpassen</string>
+    <string name="toast_change_quiet_days">Verander \"stille dagen\" om BlipBlip te laten werken.</string>
+    <string name="notification_question_title">Notificatie weergeven?</string>
+    <string name="notification_question_message">Notificaties weergeven zorgt ervoor dat de app draait zonder onderbrekingen. Als de notificatie verborgen wordt, kan de app gestopt worden zonder je te waarschuwen. Als je het uitschakeld kun je het later inschakelen in de geavanceerde instellingen.</string>
+    <string name="dont_show_again">Vraag niet nogmaals</string>
+    <string name="display_notification">Weergave</string>
+    <string name="hide_notification">Verbergen</string>
+    <string name="repeat_every">Herhaal elke</string>
+    <string name="about_translations">Vertalingen</string>
+    <string name="allow_while_idle_title">Toestaan energiebesparende modus</string>
+    <string name="allow_while_idle_off">Wanneer de telefoon in de energiebesparende modus komt kunnen sommige notificaties overgeslagen worden.</string>
+    <string name="allow_while_idle_on">Toestaan in energiebesparende(Doze/Idle) modus. Kan niet altijd werken voor notificaties lager dan 15 minuten. Deze optie kan invloed hebben op het batterijverbruik.</string>
     <string name="beta_preference_title">BlipBlip Beta</string>
-    <string name="beta_preference_description">Enable or disable beta version</string>
+    <string name="beta_preference_description">Beta versie aan of uit zetten</string>
 </resources>
