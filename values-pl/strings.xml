@@ -11,10 +11,10 @@
     <string name="sound_text">Dźwięk</string>
     <string name="set">Ustaw</string>
     <string name="cancel">Anuluj</string>
-    <string name="quiet_hours_title">Ciche godziny</string>
-    <string name="quiet_hours_times_title">Ciche godziny pomiędzy</string>
-    <string name="quiet_hours_from">Ciche godziny od</string>
-    <string name="quiet_hours_to">Ciche godziny do</string>
+    <string name="quiet_hours_title">Cichy czas</string>
+    <string name="quiet_hours_times_title">Cichy czas pomiędzy</string>
+    <string name="quiet_hours_from">Cichy czas od</string>
+    <string name="quiet_hours_to">Cichy czas do</string>
     <string name="light_up_screen_title">Włącz ekran podczas powiadomienia</string>
     <string name="light_up_screen_off">Ekran będzie wyłączony</string>
     <string name="light_up_screen_on">Włącz na krótko ekran</string>
