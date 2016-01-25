@@ -1,0 +1,138 @@
+<resources>
+    <string name="action_settings">Beállítások</string>
+    <string name="play_sound_periodically">Ismétlődő figyelmeztetések</string>
+    <string name="vibrate">Vibrálás</string>
+    <string name="test">Teszt</string>
+    <string name="off">Ki</string>
+    <string name="on">Be</string>
+    <string name="text_seek_volume">Hangerő</string>
+    <string name="pref_choose_audio_stream">Hangátvitel</string>
+    <string name="period_text">Periódus</string>
+    <string name="sound_text">Hang</string>
+    <string name="set">Beállít</string>
+    <string name="cancel">Mégse</string>
+    <string name="quiet_hours_title">Csendes időszak</string>
+    <string name="quiet_hours_times_title">Csendes időszak tól-ig</string>
+    <string name="quiet_hours_from">Csendes időszak ettől</string>
+    <string name="quiet_hours_to">Csendes időszak eddig</string>
+    <string name="light_up_screen_title">Képernyő bekapcsolása figyelmeztetéskor</string>
+    <string name="light_up_screen_off">Képernyő kikapcsolva hagyása</string>
+    <string name="light_up_screen_on">Képernyő bekapcsolása rövid időre</string>
+    <string name="quiet_days_title">Csendes napok</string>
+    <string name="days_none">Nincs</string>
+    <string name="action_send_logs">Probléma bejelentése</string>
+    <string name="action_about">Névjegy</string>
+    <string name="about_dialog_title">Névjegy</string>
+    <string name="ok">OK</string>
+    <string name="about_authors">Szerzők</string>
+    <string name="about_version">Verzió:</string>
+    <string name="pref_advanced">Haladó beállítások</string>
+    <string name="title_advanced_settings">Haladó beállítások</string>
+    <string name="pref_time_offset_title">Idő eltérés</string>
+    <string name="pref_time_offset_summary">Eltérés a célidőtől másodpercben</string>
+    <string name="while_music">Letiltás zenelejátszás közben</string>
+    <string name="while_music_on">Minden figyelmeztetés letiltva</string>
+    <string name="while_music_off">Figyelmeztetések engedélyezve</string>
+    <string name="while_music_toast">A figyelmeztetések jelenleg tiltva vannak, mert éppen zenét hallgat. Megváltoztathatja a Beállításokban.</string>
+    <string name="while_phonecall">Letiltás telefonhívás alatt</string>
+    <string name="while_phonecall_on">Minden figyelmeztetés letiltva</string>
+    <string name="while_phonecall_off">Figyelmeztetések engedélyezve</string>
+    <string name="while_phonecall_toast">A figyelmeztetések jelenleg tiltva vannak, mert éppen telefonbeszélgetést folytat. Megváltoztathatja a Beállításokban.</string>
+    <string name="late_notif_title">Riasztás mód engedélyezve</string>
+    <string name="late_notif_message">A figyelmeztetés néhány perces késleltetését észleltük, amely előfordul néhány Samsung készüléken. Ennek megelőzésére a \"Riasztás mód\" beállítás engedélyezésre került, amely meg kell, hogy oldja a problémát. Letilthatja ezt az opciót, illetve az opció automatikus engedélyezését a Haladó Beállításokban. Ha találunk jobb megoldást a probléma orvoslására, az alkalmazás frissítésre kerül. Ha bármi egyéb problémát észlel, kérjük jelezze emailben.</string>
+    <string name="dialog_ok">OK</string>
+    <string name="late_notif_notif_title">BlipBlip konfiguráció megváltoztatva</string>
+    <string name="late_notif_notif_text">Riasztás mód engedélyezve a késés probléma megoldására</string>
+    <string name="notif_as_alarm_off">Szokásos figyelmeztetések</string>
+    <string name="notif_as_alarm_on">Figyelmeztetések kezelése riasztásként – megoldja a néhány Samsung készüléken jelentkező 3–5 perces figyelmeztetési késéseket</string>
+    <string name="notif_as_alarm_title">Riasztás mód</string>
+    <string name="auto_notif_as_alarm_title">Riasztás mód automatikus engedélyezése</string>
+    <string name="auto_notif_as_alarm_on">Riasztás mód engedélyezése a figyelmeztetések késésének észlelése esetén</string>
+    <string name="auto_notif_as_alarm_off">Ne engedélyezze a Riasztás módot automatikusan</string>
+    <string name="debug_logs_title">Hibaelhárítás naplózása</string>
+    <string name="debug_logs_off">Naplózás letiltva</string>
+    <string name="debug_logs_on">Napló mentése a probléma bejelentéséhez</string>
+    <string name="send_logs_describe">Kérjük írja le az alkalmazással kapcsolatos problémát (lehetőség szerint angolul):</string>
+    <string name="send">Küldés</string>
+    <string name="send_email_description">Email küldése…</string>
+    <string name="app_language">Nyelv</string>
+    <string name="system_default_language">Rendszer alapbeállítás</string>
+    <string-array name="sound_names">
+        <item>BlipBlip</item>
+        <item>Casio karóra</item>
+        <item>Gong</item>
+        <item>Hajóharang</item>
+        <item>Dupla hajóharang</item>
+        <item>Kakukk</item>
+    </string-array>
+    <string-array name="days_of_week"> <!-- Must start from Monday -->
+        <item>Hétfő</item>
+        <item>Kedd</item>
+        <item>Szerda</item>
+        <item>Csütörtök</item>
+        <item>Péntek</item>
+        <item>Szombat</item>
+        <item>Vasárnap</item>
+    </string-array>
+    <string name="period_1_minute">1 perc</string>
+    <string name="period_5_minutes">5 perc</string>
+    <string name="period_10_minutes">10 perc</string>
+    <string name="period_15_minutes">15 perc</string>
+    <string name="period_30_minutes">30 perc</string>
+    <string name="period_60_minutes">1 óra</string>
+    <string-array name="pref_audio_stream_titles">
+        <item>Telefoncsörgés</item>
+        <item>Riasztás</item>
+        <item>Média</item>
+    </string-array>
+    <string name="about_coding">Programozás</string>
+    <string name="about_graphics">Grafika</string>
+    <string name="about_more_apps">További alkalmazások</string>
+    <string name="about_send_feedback">Visszajelzés küldése</string>
+    <string name="about_community">Google+ közösség</string>
+    <string name="language_improve_translations">Fordítás hozzáadása, illetve fejlesztése</string>
+    <string name="action_share">Alkalmazás megosztása</string>
+    <string name="action_rate">Értékeljen minket</string>
+    <string name="share_title">Nézze meg a BlipBlip alkalmazást!</string>
+    <string name="share_text">Nézze meg a BlipBlip android alkalmazást!</string>
+    <string name="share_chooser_title">Ossza meg az alkalmazást!</string>
+    <string name="notification_status_title">A BlipBlip aktív</string>
+    <string name="pref_notification_status_title">Figyelmeztetések megjelenítése</string>
+    <string name="pref_notification_status_on">Figyelmeztetések megjelenítése az alkalmazás futása alatt, hogy megelőzzük az operációs rendszer általi leállítást</string>
+    <string name="pref_notification_status_off">Figyelmeztetések elrejtése - nagyobb esély, hogy az operációs rendszer leállítja az alkalmazást</string>
+    <string name="rate_us_title">Értékeljen minket!</string>
+    <string name="rate_us_message">Köszönjük, hogy időt szánt az alkalmazás értékelésére.</string>
+    <string name="rate_us_fivestars">5 csillag!</string>
+    <string name="rate_us_onetofourstars">1–4 csillag</string>
+    <string name="feedback_improvement_title">A BlipBlip fejlesztést igényel</string>
+    <string name="feedback_improvement_message">Kérjük, hogy mondja el, hogyan tehetnénk az Ön számára még jobbá az alkalmazást.</string>
+    <string name="feedback_dialog_bug_found">Hibát találtam (napló csatolása)</string>
+    <string name="audio_stream_change_title">A BlipBlip hangátvitel megváltozott</string>
+    <string name="audio_stream_change_message">Kérjük, erősítse meg a figyelmeztetés hangerejét</string>
+    <string name="play_sound_switch">Hang lejátszása</string>
+    <string name="service_disabled_warning">A BlipBlip letiltva</string>
+    <string name="service_enable">Engedélyezés</string>
+    <string-array name="vibration_names">
+        <item>BlipBlip-hez</item>
+        <item>Casio karórához</item>
+        <item>Szimpla rövid</item>
+        <item>Dupla rövid</item>
+        <item>Szimpla hosszú</item>
+        <item>Dupla hosszú</item>
+    </string-array>
+    <string name="quiet_day_warning">A figyelmeztetések le vanak tiltva, mert a mai \"Csendes nap\".</string>
+    <string name="change_setting">Módosítás</string>
+    <string name="toast_change_quiet_days">Kérjük módosítsa a \"Csendes napok\" beállítást, hogy a BlipBlip működjön ma.</string>
+    <string name="notification_question_title">Megjelenítse a figyelmeztetést?</string>
+    <string name="notification_question_message">A figyelmeztetés megjelenítése biztosítja, hogy az alkalmazás megszakítás nélkül fusson. Ha elrejti a figyelmeztetést, az alkalmazást később a rendszer figyelmeztetés nélkül leállíthatja. Ha letiltja a beállítást, később engedélyezheti a Haladó beállításokban.</string>
+    <string name="dont_show_again">Ne kérdezze meg újra</string>
+    <string name="display_notification">Megjelenítés</string>
+    <string name="hide_notification">Elrejtés</string>
+    <string name="repeat_every">Ismétlődés minden</string>
+    <string name="about_translations">Fordítások</string>
+    <string name="allow_while_idle_title">Engedélyezze energiatakarékos módban</string>
+    <string name="allow_while_idle_off">Mikor a telefon energiatakarékos módba lép, néhány figyelmeztetés kimaradhat.</string>
+    <string name="allow_while_idle_on">Engedélyezés energiatakarékos (Alvó/Tétlen) módban. Lehetséges, hogy nem mindig működik 15 percnél gyakoribb figyelmeztetéseknél. A beállítás kis mértékben befolyásolhatja az akkumlátor használatot.</string>
+    <string name="beta_preference_title">BlipBlip Beta</string>
+    <string name="beta_preference_description">Béta verzió engedélyezése vagy tiltása</string>
+</resources>
