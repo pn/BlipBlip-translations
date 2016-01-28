@@ -84,6 +84,7 @@
         <item>Phone ring</item>
         <item>Alarm</item>
         <item>Media</item>
+        <item>Notification</item>
     </string-array>
     <string name="about_coding">Coding</string>
     <string name="about_graphics">Graphics</string>

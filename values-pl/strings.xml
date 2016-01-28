@@ -84,6 +84,7 @@
         <item>Dzwonek telefonu</item>
         <item>Budzik</item>
         <item>Muzyka</item>
+        <item>Powiadomienia</item>
     </string-array>
     <string name="about_coding">Kodowanie</string>
     <string name="about_graphics">Grafika</string>
