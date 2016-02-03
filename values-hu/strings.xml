@@ -136,4 +136,6 @@
     <string name="allow_while_idle_on">Engedélyezés energiatakarékos (Alvó/Tétlen) módban. Lehetséges, hogy nem mindig működik 15 percnél gyakoribb figyelmeztetéseknél. A beállítás kis mértékben befolyásolhatja az akkumlátor használatot.</string>
     <string name="beta_preference_title">BlipBlip Beta</string>
     <string name="beta_preference_description">Béta verzió engedélyezése vagy tiltása</string>
+    <string name="pref_silent_mode">Silent Mode</string>
+    <string name="pref_vibrate_mode">Vibrate Mode</string>
 </resources>

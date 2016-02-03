@@ -136,4 +136,6 @@
     <string name="allow_while_idle_on">Zezwól na pracę w trybie oszczędnym (Doze/Idle). Może nie działać dla powiadomień częstszych niż 15 minut. Ustawienie może mieć niewielki wpływ na zużycie baterii.</string>
     <string name="beta_preference_title">BlipBlip Beta</string>
     <string name="beta_preference_description">Włącz lub wyłącz wersję beta</string>
+    <string name="pref_silent_mode">Tryb cichy</string>
+    <string name="pref_vibrate_mode">Tryb wibracji</string>
 </resources>
