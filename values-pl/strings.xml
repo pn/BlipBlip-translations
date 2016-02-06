@@ -138,4 +138,27 @@
     <string name="beta_preference_description">Włącz lub wyłącz wersję beta</string>
     <string name="pref_silent_mode">Tryb cichy</string>
     <string name="pref_vibrate_mode">Tryb wibracji</string>
+    <string name="title_silent_mode_settings">Ustawienia trybu cichego</string>
+    <string name="title_vibrate_mode_settings">Ustawienia trybu wibracji</string>
+    <string name="sound_in_silent_mode_title">Dźwięk w trybie cichym</string>
+    <string name="vibrate_in_silent_mode_title">Wibracja w trybie cichym</string>
+    <string name="force_screen_in_silent_mode_title">Wymuszenie włączenia ekranu</string>
+    <string name="sound_in_vibrate_mode_title">Dżwięk w trybie wibracji</string>
+    <string name="vibrate_in_vibrate_mode_title">Wibracja w trybie wibracji</string>
+    <string name="force_vibrate_in_vibrate_mode_title">Wymuś wibracje</string>
+    <string name="force_screen_in_vibrate_mode_title">Wymuś włączenie ekranu</string>
+    <string name="sound_in_silent_mode_on">Zezwól na odtarzanie dźwięku w trybie cichym telefonu</string>
+    <string name="vibrate_in_silent_mode_on">Zezwól na wibracje w trybie cichym telefonu</string>
+    <string name="force_screen_in_silent_mode_on">Rozświetl ekran w trybie cichym nawet jeśli opcja \"Włącz ekran podczas powiadomienia\" jest wyłączona</string>
+    <string name="sound_in_vibrate_mode_on">Zezwól na odtarzanie dźwięku w trybie wibracji</string>
+    <string name="vibrate_in_vibrate_mode_on">Zezwól na wibracje w trybie wibracji</string>
+    <string name="force_vibrate_in_vibrate_mode_on">Wymuś wibracje w trybie wibracji, nawet jeśli wibracje są wyłączone</string>
+    <string name="force_screen_in_vibrate_mode_on">Rozświetl ekran w trybie cichym nawet jeśli opcja \"Włącz ekran podczas powiadomienia\" jest wyłączona</string>
+    <string name="sound_in_silent_mode_off">Wyłącz dźwięk w trybie cichym</string>
+    <string name="vibrate_in_silent_mode_off">Wyłącz wibracje w trybie cichym</string>
+    <string name="force_screen_in_silent_mode_off">Wyłączone</string>
+    <string name="sound_in_vibrate_mode_off">Wyłącz dźwięk w trybie wibracji</string>
+    <string name="vibrate_in_vibrate_mode_off">Wyłącz wibracje w trybie wibracji</string>
+    <string name="force_vibrate_in_vibrate_mode_off">Wyłączone</string>
+    <string name="force_screen_in_vibrate_mode_off">Wyłączone</string>
 </resources>

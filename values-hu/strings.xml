@@ -138,4 +138,27 @@
     <string name="beta_preference_description">Béta verzió engedélyezése vagy tiltása</string>
     <string name="pref_silent_mode">Silent Mode</string>
     <string name="pref_vibrate_mode">Vibrate Mode</string>
+    <string name="title_silent_mode_settings">Silent Mode Settings</string>
+    <string name="title_vibrate_mode_settings">Vibrate Mode Settings</string>
+    <string name="sound_in_silent_mode_title">Sound in Silent mode</string>
+    <string name="vibrate_in_silent_mode_title">Vibrate in Silent mode</string>
+    <string name="force_screen_in_silent_mode_title">Force enable screen</string>
+    <string name="sound_in_vibrate_mode_title">Sound in Vibrate mode</string>
+    <string name="vibrate_in_vibrate_mode_title">Vibrate in Vibrate mode</string>
+    <string name="force_vibrate_in_vibrate_mode_title">Force vibrate</string>
+    <string name="force_screen_in_vibrate_mode_title">Force enable screen</string>
+    <string name="sound_in_silent_mode_on">Allow playing sound in Silent mode</string>
+    <string name="vibrate_in_silent_mode_on">Allow vibration in Silent mode</string>
+    <string name="force_screen_in_silent_mode_on">Light up screen in Silent mode even if \"Light up screen on notification\" option is disabled</string>
+    <string name="sound_in_vibrate_mode_on">Allow playing sound in Vibrate mode</string>
+    <string name="vibrate_in_vibrate_mode_on">Allow vibration in Vibrate mode</string>
+    <string name="force_vibrate_in_vibrate_mode_on">Force vibration in Vibrate mode even if vibration is disabled</string>
+    <string name="force_screen_in_vibrate_mode_on">Light up screen in Vibrate mode even if \"Light up screen on notification\" option is disabled</string>
+    <string name="sound_in_silent_mode_off">Disable sound in Silent mode</string>
+    <string name="vibrate_in_silent_mode_off">Disable vibration in Silent mode</string>
+    <string name="force_screen_in_silent_mode_off">Disabled</string>
+    <string name="sound_in_vibrate_mode_off">Disable sound in Vibrate mode</string>
+    <string name="vibrate_in_vibrate_mode_off">Disable vibration in Vibrate mode</string>
+    <string name="force_vibrate_in_vibrate_mode_off">Disabled</string>
+    <string name="force_screen_in_vibrate_mode_off">Disabled</string>
 </resources>
