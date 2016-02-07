@@ -161,4 +161,6 @@
     <string name="vibrate_in_vibrate_mode_off">Disable vibration in Vibrate mode</string>
     <string name="force_vibrate_in_vibrate_mode_off">Disabled</string>
     <string name="force_screen_in_vibrate_mode_off">Disabled</string>
+    <string name="warning_global_volume">Use volume up/down buttons to change system volume.</string>
+    <string name="warning_understood">Got it</string>
 </resources>
