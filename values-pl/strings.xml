@@ -163,4 +163,15 @@
     <string name="force_screen_in_vibrate_mode_off">Wyłączone</string>
     <string name="warning_global_volume">Użyj przycisków głośności do zmiany głośności systemowej.</string>
     <string name="warning_understood">Rozumiem</string>
+    <string name="next_notification_today">Następne powiadomienie o %1$s</string>
+    <string name="next_notification_tomorrow">Następne powiadomienie jutro o %1$s</string>
+    <string name="next_notification_mon">Następne powiadomienie w poniedziałek o %1$s</string>
+    <string name="next_notification_tue">Następne powiadomienie we wtorek o %1$s</string>
+    <string name="next_notification_wed">Następne powiadomienie w środę o %1$s</string>
+    <string name="next_notification_thu">Następne powiadomienie w czwartek o %1$s</string>
+    <string name="next_notification_fri">Następne powiadomienie w piątek o %1$s</string>
+    <string name="next_notification_sat">Następne powiadomienie w sobotę o %1$s</string>
+    <string name="next_notification_sun">Następne powiadomienie w niedzielę o %1$s</string>
+    <string name="next_notification_off">Wyłączony</string>
+    <string name="next_notification_never">Konflikt ustawień.</string>
 </resources>

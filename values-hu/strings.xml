@@ -163,4 +163,15 @@
     <string name="force_screen_in_vibrate_mode_off">Disabled</string>
     <string name="warning_global_volume">Use volume up/down buttons to change system volume.</string>
     <string name="warning_understood">Got it</string>
+    <string name="next_notification_today">Next notification at %1$s</string>
+    <string name="next_notification_tomorrow">Next notification tomorrow at %1$s</string>
+    <string name="next_notification_mon">Next notification on Monday at %1$s</string>
+    <string name="next_notification_tue">Next notification on Tuesday at %1$s</string>
+    <string name="next_notification_wed">Next notification on Wednesday at %1$s</string>
+    <string name="next_notification_thu">Next notification on Thursday at %1$s</string>
+    <string name="next_notification_fri">Next notification on Friday at %1$s</string>
+    <string name="next_notification_sat">Next notification on Saturday at %1$s</string>
+    <string name="next_notification_sun">Next notification on Sunday at %1$s</string>
+    <string name="next_notification_off">Off</string>
+    <string name="next_notification_never">Conflicting settings.</string>
 </resources>
