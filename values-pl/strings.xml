@@ -34,10 +34,10 @@
     <string name="while_music_on">Powiadomienia wyłączone</string>
     <string name="while_music_off">Powiadomienia włączone</string>
     <string name="while_music_toast">Powiadomienia są teraz wyłączone, ponieważ słuchasz muzyki. Możesz zmienić to w Ustawieniach.</string>
-    <string name="while_phonecall">Disable during phone call</string>
-    <string name="while_phonecall_on">All notifications disabled</string>
-    <string name="while_phonecall_off">Notifications enabled</string>
     <string name="while_phonecall_toast">Powiadomienia są teraz wyłączone, ponieważ trwa rozmowa telefoniczna. Możesz zmienić to w Ustawieniach.</string>
+    <string name="while_phonecall">Wyłącz podczas rozmowy telefonicznej</string>
+    <string name="while_phonecall_on">Powiadomienia wyłączone</string>
+    <string name="while_phonecall_off">Powiadomienia włączone</string>
     <string name="late_notif_title">Tryb alarmu włączony</string>
     <string name="late_notif_message">Zostało wykryte, że powiadomienie było opóźnione o kilka minut co zdaża się na niktórych urządzeniach Samsunga. Żeby temu zapobiec została włączona opcja \"Tryb alarmu\", co powinno poprawić problem. Możesz wyłączyć tą opcję i automatyczne jej włączanie w Ustawieniach zaawansowanych. Jeśli zostanie znalezione lepsze rozwiązanie, aplikacja zostanie zaktualizowana. Jeśli będziesz mieć jeszcze jakieś problemy, proszę skontaktuj się emailowo.</string>
     <string name="dialog_ok">OK</string>
