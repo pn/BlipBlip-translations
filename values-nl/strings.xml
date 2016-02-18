@@ -174,4 +174,9 @@
     <string name="next_notification_sun">Next notification on Sunday at %1$s</string>
     <string name="next_notification_off">Off</string>
     <string name="next_notification_never">Conflicting settings.</string>
+    <string name="warn_sound_disabled_silent_mode">BlipBlip notification sound disabled, because your device is in silent mode.</string>
+    <string name="warn_sound_disabled_vibrate_mode">BlipBlip notification sound disabled, because your device is in vibrate mode.</string>
+    <string name="pref_toast_notifications">Toast notifications</string>
+    <string name="pref_toast_notifications_on">Show toast notification warnings</string>
+    <string name="pref_toast_notifications_off">Hide toast notifications warnings</string>
 </resources>

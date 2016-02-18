@@ -174,4 +174,9 @@
     <string name="next_notification_sun">Następne powiadomienie w niedzielę o %1$s</string>
     <string name="next_notification_off">Wyłączony</string>
     <string name="next_notification_never">Konflikt ustawień.</string>
+    <string name="warn_sound_disabled_silent_mode">Powiadomienia dźwiękowe BlipBlip są wyłączone, ponieważ urządzenie jest w trybie cichym.</string>
+    <string name="warn_sound_disabled_vibrate_mode">Powiadomienia dźwiękowe BlipBlip są wyłączone, ponieważ urządzenie jest w trybie wibracji.</string>
+    <string name="pref_toast_notifications">Powiadomienia w dymkach</string>
+    <string name="pref_toast_notifications_on">Pokazuj ostrzegawcze powiadomienia w dymkach</string>
+    <string name="pref_toast_notifications_off">Ukryj ostrzegawcze powiadomienia w dymkach</string>
 </resources>
