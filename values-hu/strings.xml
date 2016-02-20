@@ -179,4 +179,5 @@
     <string name="day_sunday">Vasárnap</string>
     <string name="day_today">Today</string>
     <string name="day_tomorrow">Tomorrow</string>
+    <string name="silent_day">Silent day</string>
 </resources>
