@@ -65,15 +65,6 @@
         <item>Double ship\'s bell</item>
         <item>Cuckoo</item>
     </string-array>
-    <string-array name="days_of_week"> <!-- Must start from Monday -->
-        <item>Maandag</item>
-        <item>Dinsdag</item>
-        <item>Woensdag</item>
-        <item>Donderdag</item>
-        <item>Vrijdag</item>
-        <item>Zaterdag</item>
-        <item>Zondag</item>
-    </string-array>
     <string name="period_1_minute">1 minuut</string>
     <string name="period_5_minutes">5 minuten</string>
     <string name="period_10_minutes">10 minuten</string>
@@ -179,4 +170,13 @@
     <string name="pref_toast_notifications">Toast notifications</string>
     <string name="pref_toast_notifications_on">Show toast notification warnings</string>
     <string name="pref_toast_notifications_off">Hide toast notifications warnings</string>
+    <string name="day_monday">Maandag</string>
+    <string name="day_tuesday">Dinsdag</string>
+    <string name="day_wednesday">Woensdag</string>
+    <string name="day_thursday">Donderdag</string>
+    <string name="day_friday">Vrijdag</string>
+    <string name="day_saturday">Zaterdag</string>
+    <string name="day_sunday">Zondag</string>
+    <string name="day_today">Today</string>
+    <string name="day_tomorrow">Tomorrow</string>
 </resources>
