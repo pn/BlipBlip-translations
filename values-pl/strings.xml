@@ -180,4 +180,8 @@
     <string name="day_today">Dzisiaj</string>
     <string name="day_tomorrow">Jutro</string>
     <string name="silent_day">Cichy dzień</string>
+    <string name="please_wait">Proszę czekać…</string>
+    <string name="inline_attachments_title">Załączniki w treści</string>
+    <string name="inline_attachments_on">Wstaw załączniki w treści email\'a dla opcji \"Zgłoś problem\".</string>
+    <string name="inline_attachments_off">Użyj zwykłych załączników email w opcji \"Zgłoś problem\".</string>
 </resources>
