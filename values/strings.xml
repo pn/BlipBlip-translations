@@ -184,4 +184,8 @@
     <string name="inline_attachments_title">Inline attachments</string>
     <string name="inline_attachments_on">Insert \"Report problem\" attachment contents inline.</string>
     <string name="inline_attachments_off">Use regular email attachments in \"Report problem\".</string>
+    <string name="pref_experimental">Experimental settings</string>
+    <string name="title_experimental_settings">Experimental settings</string>
+    <string name="pref_visual">Visual settings</string>
+    <string name="title_visual_settings">Visual settings</string>
 </resources>

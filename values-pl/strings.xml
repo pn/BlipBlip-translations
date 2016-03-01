@@ -184,4 +184,8 @@
     <string name="inline_attachments_title">Załączniki w treści</string>
     <string name="inline_attachments_on">Wstaw załączniki w treści email\'a dla opcji \"Zgłoś problem\".</string>
     <string name="inline_attachments_off">Użyj zwykłych załączników email w opcji \"Zgłoś problem\".</string>
+    <string name="pref_experimental">Ustawienia experymentalne</string>
+    <string name="title_experimental_settings">Ustawienia experymentalne</string>
+    <string name="pref_visual">Ustawienia wyglądu</string>
+    <string name="title_visual_settings">Ustawienia wyglądu</string>
 </resources>
