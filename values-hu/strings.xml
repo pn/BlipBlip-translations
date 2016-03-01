@@ -188,4 +188,5 @@
     <string name="title_experimental_settings">Experimental settings</string>
     <string name="pref_visual">Visual settings</string>
     <string name="title_visual_settings">Visual settings</string>
+    <string name="experimental_warning">These are experimental settings and may be removed in the future.</string>
 </resources>
