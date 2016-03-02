@@ -189,4 +189,5 @@
     <string name="pref_visual">Ustawienia wyglądu</string>
     <string name="title_visual_settings">Ustawienia wyglądu</string>
     <string name="experimental_warning">To są ustawienia eksperymentalne i mogą zostać w przyszłości usunięte.</string>
+    <string name="upcoming_notifications">Nadchodzące powiadomienia</string>
 </resources>
