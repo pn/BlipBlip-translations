@@ -1,0 +1,196 @@
+<resources>
+    <string name="action_settings">Einstellungen</string>
+    <string name="play_sound_periodically">regelmäßige Meldung</string>
+    <string name="vibrate">Vibration</string>
+    <string name="test">Test</string>
+    <string name="off">Aus</string>
+    <string name="on">Ein</string>
+    <string name="text_seek_volume">Lautstärke</string>
+    <string name="pref_choose_audio_stream">Ausgabe über</string>
+    <string name="period_text">Periode</string>
+    <string name="sound_text">Ton</string>
+    <string name="set">Set</string>
+    <string name="cancel">Abbruch</string>
+    <string name="quiet_hours_title">Ruhezeit</string>
+    <string name="quiet_hours_times_title">Ruhezeit zwischen</string>
+    <string name="quiet_hours_from">Ruhezeit von</string>
+    <string name="quiet_hours_to">Ruhezeit bis</string>
+    <string name="light_up_screen_title">Bildschirm an bei Nachrichten</string>
+    <string name="light_up_screen_off">Bildschirm aus lassen</string>
+    <string name="light_up_screen_on">Bildsvhirm einschalten</string>
+    <string name="quiet_days_title">Ruhetage</string>
+    <string name="days_none">Ruhetage</string>
+    <string name="action_send_logs">Problem melden</string>
+    <string name="action_about">Impressum</string>
+    <string name="about_dialog_title">Impressum</string>
+    <string name="ok">OK</string>
+    <string name="about_authors">Autor</string>
+    <string name="about_version">Version:</string>
+    <string name="pref_advanced">weitere Einstellungen</string>
+    <string name="title_advanced_settings">weitere Einstellungen</string>
+    <string name="pref_time_offset_title">Zeitversatz</string>
+    <string name="pref_time_offset_summary">Versatz von der Zielzeit in Sekunden</string>
+    <string name="while_music">Aus während Musikwiedergabe</string>
+    <string name="while_music_on">Alle Mitteilungen aus</string>
+    <string name="while_music_off">Mitteilungen an</string>
+    <string name="while_music_toast">BlipBlip- Mitteilungen sind jetzt aus, weil Du Musik hörst.</string>
+    <string name="while_phonecall">Aus bei Anrufen</string>
+    <string name="while_phonecall_on">Alle Mitteilungen aus</string>
+    <string name="while_phonecall_off">Mitteilungen an</string>
+    <string name="while_phonecall_toast">BlipBlip Mitteilungen sind bei laufenden Telefongesprächen  aus.</string>
+    <string name="late_notif_title">Alarm-Modus ein</string>
+    <string name="late_notif_message">Es wurde bemerkt, dass Mitteilungen um einige Minuten verzögert wurden, was bei einigen Samsung-Geräten passiert. Um das zu verhindern wurde die \"Alarm Modus\" Option aktiviert. Du kannst diese in den erweiterten Einstellungen aus und automatisch ein -schalten. Sobald eine bessere Lösung gefunden wird, diesen Fehler zu beseitigen, gibt es ein Update. Wenn Du weitere Probleme hast, beschreibe sie uns bitte per email.</string>
+    <string name="dialog_ok">OK</string>
+    <string name="late_notif_notif_title">BlipBlip Konfiguration geändert</string>
+    <string name="late_notif_notif_text">Alarm-Modus aktiviert, zur Beseitigung des Verzögerungsfehlers</string>
+    <string name="notif_as_alarm_off">normale Mitteilungen</string>
+    <string name="notif_as_alarm_on">Mitteilungen funktionieren als Alarm, um die Verzögerungen zu beenden, die auf einigen Samsung-Geräten auftreten</string>
+    <string name="notif_as_alarm_title">Alarm-Modus</string>
+    <string name="auto_notif_as_alarm_title">Autoaktivierung Alarm-Modus</string>
+    <string name="auto_notif_as_alarm_on">Aktiviert Alarm-Modus, wenn Verzögerungen entdeckt werden</string>
+    <string name="auto_notif_as_alarm_off">Alarm-Modus nicht automatisch</string>
+    <string name="debug_logs_title">Protokollaufzeichnung</string>
+    <string name="debug_logs_off">Aufzeichnung aus</string>
+    <string name="debug_logs_on">Aufzeichnung an für Versand per email</string>
+    <string name="send_logs_describe">Bitte beschreibe Dein Problem mit der App (bevorzugt in Englisch):</string>
+    <string name="send">Senden</string>
+    <string name="send_email_description">email senden</string>
+    <string name="app_language">Sprache</string>
+    <string name="system_default_language">wie im System</string>
+    <string-array name="sound_names">
+        <item>BlipBlip</item>
+        <item>Casio Uhr</item>
+        <item>Gong</item>
+        <item>Schiffsglocke</item>
+        <item>Schiffsglocke 2x</item>
+        <item>Kuckuck</item>
+    </string-array>
+    <string name="period_1_minute">1 Minute</string>
+    <string name="period_5_minutes">5 Minuten</string>
+    <string name="period_10_minutes">10 Minuten</string>
+    <string name="period_15_minutes">15 Minuten</string>
+    <string name="period_30_minutes">30 Minuten</string>
+    <string name="period_60_minutes">1 Stunde</string>
+    <string-array name="pref_audio_stream_titles">
+        <item>Telefonklingeln</item>
+        <item>Wecker</item>
+        <item>Media</item>
+        <item>System-Meldungen</item>
+    </string-array>
+    <string name="about_coding">Verschlüsselung</string>
+    <string name="about_graphics">Grafik</string>
+    <string name="about_more_apps">weitere Apps</string>
+    <string name="about_send_feedback">Sende eine Rückmeldung</string>
+    <string name="about_community">Google+ Community</string>
+    <string name="language_improve_translations">Erstelle oder verbessere Übersetzungen</string>
+    <string name="action_share">Teile die App mit</string>
+    <string name="action_rate">Bewerte uns</string>
+    <string name="share_title">Teste die BlipBlip Stundengong-App!</string>
+    <string name="share_text">Teste die BlipBlip Stundengong-App für Android</string>
+    <string name="share_chooser_title">Teile die App mit!</string>
+    <string name="notification_status_title">BlipBlip ist aktiv</string>
+    <string name="pref_notification_status_title">Display Mitteilung</string>
+    <string name="pref_notification_status_on">Zeigt, dass die App aktiv ist und nicht vom System beendet wurde</string>
+    <string name="pref_notification_status_off">Keine Notiz, das System könnte die App beenden</string>
+    <string name="rate_us_title">Bewerte uns!</string>
+    <string name="rate_us_message">Danke, dass Du Dir die Zeit nimmst, die App zu bewerten.</string>
+    <string name="rate_us_fivestars">5 Sterne!</string>
+    <string name="rate_us_onetofourstars">1–4 Sterne</string>
+    <string name="feedback_improvement_title">BlipBlip möchte besser werden</string>
+    <string name="feedback_improvement_message">Bitte sag uns, was wir verbessern können, damit Du vollauf zufrieden bist.</string>
+    <string name="feedback_dialog_bug_found">Ich fand einen Fehler (Protokolle bitte beifügen)</string>
+    <string name="audio_stream_change_title">BlipBlip hat den Soundweg gewechselt</string>
+    <string name="audio_stream_change_message">Bitte überprüfe die Systemlautstärke</string>
+    <string name="play_sound_switch">Ton abspielen</string>
+    <string name="service_disabled_warning">BlipBlip ist ausgeschaltet</string>
+    <string name="service_enable">Einschalten</string>
+    <string-array name="vibration_names">
+        <item>auf BlipBlip</item>
+        <item>auf Casio Uhr</item>
+        <item>einmal kurz</item>
+        <item>zweimal kurz</item>
+        <item>einmal lang</item>
+        <item>zweimal lang</item>
+    </string-array>
+    <string name="quiet_day_warning">Mitteilungen aus, weil heute ist \"silent day\".</string>
+    <string name="change_setting">Änderung</string>
+    <string name="toast_change_quiet_days">Bitte ändere die \"Silent days\" damit BlipBlip heute arbeitet.</string>
+    <string name="notification_question_title">Display Mitteilung?</string>
+    <string name="notification_question_message">Die Display Mitteilung sichert, dass die App ohne Unterbrechung läuft. Wenn Du sie ausschaltest, kann die App vom System beendet werden, ohne dass Du es erfährst. Wenn Du sie ausgeschaltet hast, kannst Du sie später in den erweiterten Einstellungen wieder einschalten.</string>
+    <string name="dont_show_again">nicht wieder anzeigen</string>
+    <string name="display_notification">Anzeige</string>
+    <string name="hide_notification">ohne</string>
+    <string name="repeat_every">Wiederholung alle</string>
+    <string name="about_translations">Übersetzungen</string>
+    <string name="allow_while_idle_title">Im Energiesparmodus erlaubt</string>
+    <string name="allow_while_idle_off">Im Energiesparmodus werden einige Meldungen nicht angezeigt.</string>
+    <string name="allow_while_idle_on">Erlaubnis im Energiesparmodus (Doze/Idle). Könnte sein, dass Mitteilungen nicht angezeigt werden, die öfter als alle 15 Minuten kommen sollen. Diese Einstellung hat leichte Wirkung auf die Akku-Restlaufzeit.</string>
+    <string name="beta_preference_title">BlipBlip Testversion</string>
+    <string name="beta_preference_description">Ein-/Ausschalten der Testversion</string>
+    <string name="pref_silent_mode">Ruhemodus</string>
+    <string name="pref_vibrate_mode">Vibrationsmodus</string>
+    <string name="title_silent_mode_settings">Einstellung Ruhemodus</string>
+    <string name="title_vibrate_mode_settings">Einstellung Vibrationsmodus</string>
+    <string name="sound_in_silent_mode_title">Ton im Ruhemodus</string>
+    <string name="vibrate_in_silent_mode_title">Vibration im Ruhemodus</string>
+    <string name="force_screen_in_silent_mode_title">Bildschirm einschalten</string>
+    <string name="sound_in_vibrate_mode_title">Ton im Vibrationsmodus</string>
+    <string name="vibrate_in_vibrate_mode_title">Vibration im Vibrationsmodus</string>
+    <string name="force_vibrate_in_vibrate_mode_title">Vibration einschalten</string>
+    <string name="force_screen_in_vibrate_mode_title">Bildschirm einschalten</string>
+    <string name="sound_in_silent_mode_on">Tonausgabe im Nicht-stören-Modus erlaubt</string>
+    <string name="vibrate_in_silent_mode_on"> Vibration im Nicht-stören-Modus erlaubt</string>
+    <string name="force_screen_in_silent_mode_on">Bildschirm einschalten im Nicht-stören-Modus sogar wenn \"Light up screen on notification\" option ausgeschaltet ist</string>
+    <string name="sound_in_vibrate_mode_on">Ton im Vibrationsmodus erlaubt</string>
+    <string name="vibrate_in_vibrate_mode_on">Vibration im Vibrations-Modus erlaubt</string>
+    <string name="force_vibrate_in_vibrate_mode_on">Vibration im Vibrationsmodus, auch wenn Vibration ausgeschaltet ist</string>
+    <string name="force_screen_in_vibrate_mode_on">Bildschirm an im Vibrationsmodus auch wenn \"Light up screen on notification\" ausgeschaltet ist</string>
+    <string name="sound_in_silent_mode_off">Ton aus im Nicht-stören-Modus</string>
+    <string name="vibrate_in_silent_mode_off">Vibration aus im Nicht-stören-Modus</string>
+    <string name="force_screen_in_silent_mode_off">ausgeschaltet</string>
+    <string name="sound_in_vibrate_mode_off">Ton aus im Vibrationsmodus</string>
+    <string name="vibrate_in_vibrate_mode_off">Vibration aus im Vibrationsmodus</string>
+    <string name="force_vibrate_in_vibrate_mode_off">ausgeschaltet</string>
+    <string name="force_screen_in_vibrate_mode_off">ausgeschaltet</string>
+    <string name="warning_global_volume">Benutze die Lautstärketasten um die Systemlautstärke zu ändern.</string>
+    <string name="warning_understood">erhalten</string>
+    <string name="next_notification_today">nächste Meldung um %1$s</string>
+    <string name="next_notification_tomorrow">nächste Meldung morgen um %1$s</string>
+    <string name="next_notification_mon">nächste Meldung Montag um %1$s</string>
+    <string name="next_notification_tue">nächste Meldung Dienstag um %1$s</string>
+    <string name="next_notification_wed">nächste Meldung Mittwoch um %1$s</string>
+    <string name="next_notification_thu">nächste Meldung Donnerstag um %1$s</string>
+    <string name="next_notification_fri">nächste Meldung Freitag um %1$s</string>
+    <string name="next_notification_sat">nächste Meldung Sonnabend um %1$s</string>
+    <string name="next_notification_sun">nächste Meldung Sonntag um %1$s</string>
+    <string name="next_notification_off">Aus</string>
+    <string name="next_notification_never">Konflikt in den Einstellungen.</string>
+    <string name="warn_sound_disabled_silent_mode">BlipBlip Meldungs-Ton ausgeschaltet, weil das Gerät im Nicht-stören-Modus ist.</string>
+    <string name="warn_sound_disabled_vibrate_mode">BlipBlip Meldungs-Ton ausgeschaltet, weil das Gerät im Vibrations-Modus ist.</string>
+    <string name="pref_toast_notifications">Toast notifications</string>
+    <string name="pref_toast_notifications_on">Show toast notification warnings</string>
+    <string name="pref_toast_notifications_off">Hide toast notifications warnings</string>
+    <string name="day_monday">Montag</string>
+    <string name="day_tuesday">Dienstag</string>
+    <string name="day_wednesday">Mittwoch</string>
+    <string name="day_thursday">Donnerstag</string>
+    <string name="day_friday">Freitag</string>
+    <string name="day_saturday">Sonnabend</string>
+    <string name="day_sunday">Sonntag</string>
+    <string name="day_today">Heute</string>
+    <string name="day_tomorrow">morgen</string>
+    <string name="silent_day">Ruhetag</string>
+    <string name="please_wait">Bitte warten…</string>
+    <string name="inline_attachments_title">Anlagen einfügen</string>
+    <string name="inline_attachments_on"> \"Report problem\" Anhänge einfügen.</string>
+    <string name="inline_attachments_off">Nutze die normale Mailfunktion für \"Report problem\".</string>
+    <string name="pref_experimental">Versuchseinstellungen</string>
+    <string name="title_experimental_settings">Versuchseinstellungen</string>
+    <string name="pref_visual">Ansichteinstellungen</string>
+    <string name="title_visual_settings">Ansichteinstellungen</string>
+    <string name="experimental_warning">Diese Versuchseinstellungen können in der Zukunft entfallen.</string>
+    <string name="upcoming_notifications">Bevorstehende Mitteilung</string>
+    <string name="warning">Warnung</string>
+    <string name="app_killed_warning">Die App wurde vor Kurzem beendet. &lt;b&gt;Bitte schalte Batterie-Apps oder Apps die laufende Prozesse beenden aus. &lt;/b&gt;. Diese Apps verursachen solche Fehler. Wenn Du denkst, dass es ein Fehler in unserer App ist, nutze bitte \"Report problem\" Möglichkeit, um ihn zu beschreiben und wir werden Dir nach Möglichkeit helfen.</string>
+    <string name="warning_dont_show_again">Do not show again</string>
+</resources>
