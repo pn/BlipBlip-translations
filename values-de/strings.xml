@@ -112,9 +112,9 @@
         <item>einmal lang</item>
         <item>zweimal lang</item>
     </string-array>
-    <string name="quiet_day_warning">Mitteilungen aus, weil heute ist \"silent day\".</string>
+    <string name="quiet_day_warning">Mitteilungen aus, weil heute ist \"Ruhetage\".</string>
     <string name="change_setting">Änderung</string>
-    <string name="toast_change_quiet_days">Bitte ändere die \"Silent days\" damit BlipBlip heute arbeitet.</string>
+    <string name="toast_change_quiet_days">Bitte ändere die \"Ruhetage\" damit BlipBlip heute arbeitet.</string>
     <string name="notification_question_title">Display Mitteilung?</string>
     <string name="notification_question_message">Die Display Mitteilung sichert, dass die App ohne Unterbrechung läuft. Wenn Du sie ausschaltest, kann die App vom System beendet werden, ohne dass Du es erfährst. Wenn Du sie ausgeschaltet hast, kannst Du sie später in den erweiterten Einstellungen wieder einschalten.</string>
     <string name="dont_show_again">nicht wieder anzeigen</string>
@@ -140,11 +140,11 @@
     <string name="force_screen_in_vibrate_mode_title">Bildschirm einschalten</string>
     <string name="sound_in_silent_mode_on">Tonausgabe im Nicht-stören-Modus erlaubt</string>
     <string name="vibrate_in_silent_mode_on"> Vibration im Nicht-stören-Modus erlaubt</string>
-    <string name="force_screen_in_silent_mode_on">Bildschirm einschalten im Nicht-stören-Modus sogar wenn \"Light up screen on notification\" option ausgeschaltet ist</string>
+    <string name="force_screen_in_silent_mode_on">Bildschirm einschalten im Nicht-stören-Modus sogar wenn \"Bildschirm an bei Nachrichten\" option ausgeschaltet ist</string>
     <string name="sound_in_vibrate_mode_on">Ton im Vibrationsmodus erlaubt</string>
     <string name="vibrate_in_vibrate_mode_on">Vibration im Vibrations-Modus erlaubt</string>
     <string name="force_vibrate_in_vibrate_mode_on">Vibration im Vibrationsmodus, auch wenn Vibration ausgeschaltet ist</string>
-    <string name="force_screen_in_vibrate_mode_on">Bildschirm an im Vibrationsmodus auch wenn \"Light up screen on notification\" ausgeschaltet ist</string>
+    <string name="force_screen_in_vibrate_mode_on">Bildschirm an im Vibrationsmodus auch wenn \"Bildschirm an bei Nachrichten\" ausgeschaltet ist</string>
     <string name="sound_in_silent_mode_off">Ton aus im Nicht-stören-Modus</string>
     <string name="vibrate_in_silent_mode_off">Vibration aus im Nicht-stören-Modus</string>
     <string name="force_screen_in_silent_mode_off">ausgeschaltet</string>
@@ -154,15 +154,15 @@
     <string name="force_screen_in_vibrate_mode_off">ausgeschaltet</string>
     <string name="warning_global_volume">Benutze die Lautstärketasten um die Systemlautstärke zu ändern.</string>
     <string name="warning_understood">erhalten</string>
-    <string name="next_notification_today">nächste Meldung um %1$s</string>
-    <string name="next_notification_tomorrow">nächste Meldung morgen um %1$s</string>
-    <string name="next_notification_mon">nächste Meldung Montag um %1$s</string>
-    <string name="next_notification_tue">nächste Meldung Dienstag um %1$s</string>
-    <string name="next_notification_wed">nächste Meldung Mittwoch um %1$s</string>
-    <string name="next_notification_thu">nächste Meldung Donnerstag um %1$s</string>
-    <string name="next_notification_fri">nächste Meldung Freitag um %1$s</string>
-    <string name="next_notification_sat">nächste Meldung Sonnabend um %1$s</string>
-    <string name="next_notification_sun">nächste Meldung Sonntag um %1$s</string>
+    <string name="next_notification_today">Nächste Meldung um %1$s</string>
+    <string name="next_notification_tomorrow">Nächste Meldung morgen um %1$s</string>
+    <string name="next_notification_mon">Nächste Meldung Montag um %1$s</string>
+    <string name="next_notification_tue">Nächste Meldung Dienstag um %1$s</string>
+    <string name="next_notification_wed">Nächste Meldung Mittwoch um %1$s</string>
+    <string name="next_notification_thu">Nächste Meldung Donnerstag um %1$s</string>
+    <string name="next_notification_fri">Nächste Meldung Freitag um %1$s</string>
+    <string name="next_notification_sat">Nächste Meldung Sonnabend um %1$s</string>
+    <string name="next_notification_sun">Nächste Meldung Sonntag um %1$s</string>
     <string name="next_notification_off">Aus</string>
     <string name="next_notification_never">Konflikt in den Einstellungen.</string>
     <string name="warn_sound_disabled_silent_mode">BlipBlip Meldungs-Ton ausgeschaltet, weil das Gerät im Nicht-stören-Modus ist.</string>
@@ -182,8 +182,8 @@
     <string name="silent_day">Ruhetag</string>
     <string name="please_wait">Bitte warten…</string>
     <string name="inline_attachments_title">Anlagen einfügen</string>
-    <string name="inline_attachments_on"> \"Report problem\" Anhänge einfügen.</string>
-    <string name="inline_attachments_off">Nutze die normale Mailfunktion für \"Report problem\".</string>
+    <string name="inline_attachments_on"> \"Problem melden\" Anhänge einfügen.</string>
+    <string name="inline_attachments_off">Nutze die normale Mailfunktion für \"Problem melden\".</string>
     <string name="pref_experimental">Versuchseinstellungen</string>
     <string name="title_experimental_settings">Versuchseinstellungen</string>
     <string name="pref_visual">Ansichteinstellungen</string>
@@ -191,6 +191,6 @@
     <string name="experimental_warning">Diese Versuchseinstellungen können in der Zukunft entfallen.</string>
     <string name="upcoming_notifications">Bevorstehende Mitteilung</string>
     <string name="warning">Warnung</string>
-    <string name="app_killed_warning">Die App wurde vor Kurzem beendet. &lt;b&gt;Bitte schalte Batterie-Apps oder Apps die laufende Prozesse beenden aus. &lt;/b&gt;. Diese Apps verursachen solche Fehler. Wenn Du denkst, dass es ein Fehler in unserer App ist, nutze bitte \"Report problem\" Möglichkeit, um ihn zu beschreiben und wir werden Dir nach Möglichkeit helfen.</string>
-    <string name="warning_dont_show_again">Do not show again</string>
+    <string name="app_killed_warning">Die App wurde vor Kurzem beendet. &lt;b&gt;Bitte schalte Batterie-Apps oder Apps die laufende Prozesse beenden aus. &lt;/b&gt;. Diese Apps verursachen solche Fehler. Wenn Du denkst, dass es ein Fehler in unserer App ist, nutze bitte \"Problem melden\" Möglichkeit, um ihn zu beschreiben und wir werden Dir nach Möglichkeit helfen.</string>
+    <string name="warning_dont_show_again">Nicht mehr anzeigen</string>
 </resources>
