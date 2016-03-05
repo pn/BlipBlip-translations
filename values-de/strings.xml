@@ -167,9 +167,9 @@
     <string name="next_notification_never">Konflikt in den Einstellungen.</string>
     <string name="warn_sound_disabled_silent_mode">BlipBlip-Ton ausgeschaltet, weil das Gerät im Nicht-stören-Modus ist.</string>
     <string name="warn_sound_disabled_vibrate_mode">BlipBlip-Ton ausgeschaltet, weil das Gerät im Vibrations-Modus ist.</string>
-    <string name="pref_toast_notifications">kurze Bildschimmeldungen und Warnungen</string>
-    <string name="pref_toast_notifications_on">kurze Bildschimmeldungen und Warnungen zeigen</string>
-    <string name="pref_toast_notifications_off">kurze Bildschimmeldungen und Warnungen nicht zeigen</string>
+    <string name="pref_toast_notifications">Kurze Bildschimmeldungen und Warnungen</string>
+    <string name="pref_toast_notifications_on">Kurze Bildschimmeldungen und Warnungen zeigen</string>
+    <string name="pref_toast_notifications_off">Kurze Bildschimmeldungen und Warnungen nicht zeigen</string>
     <string name="day_monday">Montag</string>
     <string name="day_tuesday">Dienstag</string>
     <string name="day_wednesday">Mittwoch</string>
