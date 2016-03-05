@@ -1,49 +1,49 @@
 <resources>
     <string name="action_settings">Einstellungen</string>
-    <string name="play_sound_periodically">regelmäßige Meldung</string>
+    <string name="play_sound_periodically">regelmäßiger BlipBlip-Ton</string>
     <string name="vibrate">Vibration</string>
     <string name="test">Test</string>
     <string name="off">Aus</string>
     <string name="on">Ein</string>
     <string name="text_seek_volume">Lautstärke</string>
-    <string name="pref_choose_audio_stream">Ausgabe über</string>
+    <string name="pref_choose_audio_stream">Ausgabe über Kanal</string>
     <string name="period_text">Periode</string>
     <string name="sound_text">Ton</string>
-    <string name="set">Set</string>
+    <string name="set">setzen</string>
     <string name="cancel">Abbruch</string>
     <string name="quiet_hours_title">Ruhezeit</string>
     <string name="quiet_hours_times_title">Ruhezeit zwischen</string>
     <string name="quiet_hours_from">Ruhezeit von</string>
     <string name="quiet_hours_to">Ruhezeit bis</string>
-    <string name="light_up_screen_title">Bildschirm an bei Nachrichten</string>
+    <string name="light_up_screen_title">Bildschirm an bei BlipBlip-Ton</string>
     <string name="light_up_screen_off">Bildschirm aus lassen</string>
-    <string name="light_up_screen_on">Bildsvhirm einschalten</string>
+    <string name="light_up_screen_on">Bildschirm einschalten</string>
     <string name="quiet_days_title">Ruhetage</string>
-    <string name="days_none">Ruhetage</string>
+    <string name="days_none">keine Ruhetage</string>
     <string name="action_send_logs">Problem melden</string>
     <string name="action_about">Impressum</string>
     <string name="about_dialog_title">Impressum</string>
     <string name="ok">OK</string>
     <string name="about_authors">Autor</string>
     <string name="about_version">Version:</string>
-    <string name="pref_advanced">Weitere Einstellungen</string>
-    <string name="title_advanced_settings">Weitere Einstellungen</string>
+    <string name="pref_advanced">weitere Einstellungen</string>
+    <string name="title_advanced_settings">weitere Einstellungen</string>
     <string name="pref_time_offset_title">Zeitversatz</string>
     <string name="pref_time_offset_summary">Versatz von der Zielzeit in Sekunden</string>
     <string name="while_music">Aus während Musikwiedergabe</string>
-    <string name="while_music_on">Alle Mitteilungen aus</string>
-    <string name="while_music_off">Mitteilungen an</string>
-    <string name="while_music_toast">BlipBlip- Mitteilungen sind jetzt aus, weil Du Musik hörst.</string>
-    <string name="while_phonecall">Aus bei Anrufen</string>
-    <string name="while_phonecall_on">Alle Mitteilungen aus</string>
-    <string name="while_phonecall_off">Mitteilungen an</string>
-    <string name="while_phonecall_toast">BlipBlip Mitteilungen sind bei laufenden Telefongesprächen  aus.</string>
+    <string name="while_music_on">BlipBlip-Ton aus</string>
+    <string name="while_music_off">BlipBlip-Ton an</string>
+    <string name="while_music_toast">BlipBlip- Ton sind jetzt stumm, weil Du Musik hörst.</string>
+    <string name="while_phonecall">Stumm bei Anrufen</string>
+    <string name="while_phonecall_on">BlipBlip-Ton aus</string>
+    <string name="while_phonecall_off">BlipBlip-Ton an</string>
+    <string name="while_phonecall_toast">BlipBlip-Ton ist bei laufenden Telefongesprächen  stumm.</string>
     <string name="late_notif_title">Alarm-Modus ein</string>
     <string name="late_notif_message">Es wurde bemerkt, dass Mitteilungen um einige Minuten verzögert wurden, was bei einigen Samsung-Geräten passiert. Um das zu verhindern wurde die \"Alarm Modus\" Option aktiviert. Du kannst diese in den erweiterten Einstellungen aus und automatisch ein -schalten. Sobald eine bessere Lösung gefunden wird, diesen Fehler zu beseitigen, gibt es ein Update. Wenn Du weitere Probleme hast, beschreibe sie uns bitte per email.</string>
     <string name="dialog_ok">OK</string>
     <string name="late_notif_notif_title">BlipBlip Konfiguration geändert</string>
     <string name="late_notif_notif_text">Alarm-Modus aktiviert, zur Beseitigung des Verzögerungsfehlers</string>
-    <string name="notif_as_alarm_off">normale Mitteilungen</string>
+    <string name="notif_as_alarm_off">normaler Modus</string>
     <string name="notif_as_alarm_on">Mitteilungen funktionieren als Alarm, um die Verzögerungen zu beenden, die auf einigen Samsung-Geräten auftreten</string>
     <string name="notif_as_alarm_title">Alarm-Modus</string>
     <string name="auto_notif_as_alarm_title">Autoaktivierung Alarm-Modus</string>
@@ -105,8 +105,8 @@
     <string name="service_disabled_warning">BlipBlip ist ausgeschaltet</string>
     <string name="service_enable">Einschalten</string>
     <string-array name="vibration_names">
-        <item>auf BlipBlip</item>
-        <item>auf Casio Uhr</item>
+        <item>BlipBlip</item>
+        <item>Casio Uhr</item>
         <item>einmal kurz</item>
         <item>zweimal kurz</item>
         <item>einmal lang</item>
@@ -116,7 +116,7 @@
     <string name="change_setting">Änderung</string>
     <string name="toast_change_quiet_days">Bitte ändere die \"Ruhetage\" damit BlipBlip heute arbeitet.</string>
     <string name="notification_question_title">Display Mitteilung?</string>
-    <string name="notification_question_message">Die Display Mitteilung sichert, dass die App ohne Unterbrechung läuft. Wenn Du sie ausschaltest, kann die App vom System beendet werden, ohne dass Du es erfährst. Wenn Du sie ausgeschaltet hast, kannst Du sie später in den erweiterten Einstellungen wieder einschalten.</string>
+    <string name="notification_question_message">Die Display-Mitteilung sichert, dass die App ohne Unterbrechung läuft. Wenn Du sie ausschaltest, kann die App vom System beendet werden, ohne dass Du es erfährst. Wenn Du die permanente Display-Mitteilung ausgeschaltet hast, kannst Du sie später in den erweiterten Einstellungen wieder einschalten.</string>
     <string name="dont_show_again">nicht wieder anzeigen</string>
     <string name="display_notification">Anzeige</string>
     <string name="hide_notification">ohne</string>
@@ -154,22 +154,22 @@
     <string name="force_screen_in_vibrate_mode_off">ausgeschaltet</string>
     <string name="warning_global_volume">Benutze die Lautstärketasten um die Systemlautstärke zu ändern.</string>
     <string name="warning_understood">erhalten</string>
-    <string name="next_notification_today">Nächste Meldung um %1$s</string>
-    <string name="next_notification_tomorrow">Nächste Meldung morgen um %1$s</string>
-    <string name="next_notification_mon">Nächste Meldung Montag um %1$s</string>
-    <string name="next_notification_tue">Nächste Meldung Dienstag um %1$s</string>
-    <string name="next_notification_wed">Nächste Meldung Mittwoch um %1$s</string>
-    <string name="next_notification_thu">Nächste Meldung Donnerstag um %1$s</string>
-    <string name="next_notification_fri">Nächste Meldung Freitag um %1$s</string>
-    <string name="next_notification_sat">Nächste Meldung Sonnabend um %1$s</string>
-    <string name="next_notification_sun">Nächste Meldung Sonntag um %1$s</string>
+    <string name="next_notification_today">Nächster BlipBlip-Ton um %1$s</string>
+    <string name="next_notification_tomorrow">Nächster BlipBlip-Ton morgen ab %1$s</string>
+    <string name="next_notification_mon">Nächster BlipBlip-Ton Montag ab %1$s</string>
+    <string name="next_notification_tue">Nächster BlipBlip-Ton Dienstag ab %1$s</string>
+    <string name="next_notification_wed">Nächster BlipBlip-Ton Mittwoch ab %1$s</string>
+    <string name="next_notification_thu">Nächster BlipBlip-Ton Donnerstag ab %1$s</string>
+    <string name="next_notification_fri">Nächster BlipBlip-Ton Freitag ab %1$s</string>
+    <string name="next_notification_sat">Nächster BlipBlip-Ton Sonnabend ab %1$s</string>
+    <string name="next_notification_sun">Nächster BlipBlip-Ton Sonntag ab %1$s</string>
     <string name="next_notification_off">Aus</string>
     <string name="next_notification_never">Konflikt in den Einstellungen.</string>
-    <string name="warn_sound_disabled_silent_mode">BlipBlip Meldungs-Ton ausgeschaltet, weil das Gerät im Nicht-stören-Modus ist.</string>
-    <string name="warn_sound_disabled_vibrate_mode">BlipBlip Meldungs-Ton ausgeschaltet, weil das Gerät im Vibrations-Modus ist.</string>
-    <string name="pref_toast_notifications">Toast notifications</string>
-    <string name="pref_toast_notifications_on">Show toast notification warnings</string>
-    <string name="pref_toast_notifications_off">Hide toast notifications warnings</string>
+    <string name="warn_sound_disabled_silent_mode">BlipBlip-Ton ausgeschaltet, weil das Gerät im Nicht-stören-Modus ist.</string>
+    <string name="warn_sound_disabled_vibrate_mode">BlipBlip-Ton ausgeschaltet, weil das Gerät im Vibrations-Modus ist.</string>
+    <string name="pref_toast_notifications">kurze Bildschimmeldungen und Warnungen</string>
+    <string name="pref_toast_notifications_on">kurze Bildschimmeldungen und Warnungen zeigen</string>
+    <string name="pref_toast_notifications_off">kurze Bildschimmeldungen und Warnungen nicht zeigen</string>
     <string name="day_monday">Montag</string>
     <string name="day_tuesday">Dienstag</string>
     <string name="day_wednesday">Mittwoch</string>
@@ -191,6 +191,6 @@
     <string name="experimental_warning">Diese Versuchseinstellungen können in der Zukunft entfallen.</string>
     <string name="upcoming_notifications">Bevorstehende Mitteilung</string>
     <string name="warning">Warnung</string>
-    <string name="app_killed_warning">Die App wurde vor Kurzem beendet. &lt;b&gt;Bitte schalte Batterie-Apps oder Apps die laufende Prozesse beenden aus.&lt;/b&gt; Diese Apps verursachen solche Fehler. Wenn Du denkst, diese Fehler sind in der App oder Du Hilfe benötigt, wenden Sie sich bitte Ihr Problem mit \"Problem melden\" Option beschreiben oder schreiben Sie auf &lt;a href=\"%1$s\">Blip Blip Google+ Community&lt;/a>.</string>
-    <string name="warning_dont_show_again">Nicht mehr anzeigen</string>
+    <string name="app_killed_warning">Die App wurde vor Kurzem unerwartet beendet. &lt;b&gt;Bitte schalte Batterie-Apps oder Apps die laufende Prozesse beenden aus. &lt;/b&gt;. Diese Apps verursachen solche Fehler. Wir wollen Dir gern helfen. Wenn Du denkst, dass es ein Fehler in unserer App ist, nutze bitte die\"Problem melden\" Möglichkeit, um ihn zu beschreiben oder schreibe an &lt;a href=\"%1$s\">BlipBlip Google+ Community&lt;a>.</string>
+    <string name="warning_dont_show_again">nicht mehr anzeigen</string>
 </resources>
