@@ -193,4 +193,5 @@
     <string name="warning">Warnung</string>
     <string name="app_killed_warning">Die App wurde vor Kurzem unerwartet beendet. &lt;b&gt;Bitte schalte Batterie-Apps oder Apps die laufende Prozesse beenden aus.&lt;/b&gt; Diese Apps verursachen solche Fehler. Wir wollen Dir gern helfen. Wenn Du denkst, dass es ein Fehler in unserer App ist, nutze bitte die\"Problem melden\" Möglichkeit, um ihn zu beschreiben oder schreibe an &lt;a href=\"%1$s\">BlipBlip Google+ Community&lt;a>.</string>
     <string name="warning_dont_show_again">nicht mehr anzeigen</string>
+    <string name="play_button_description">Test your settings</string>
 </resources>
