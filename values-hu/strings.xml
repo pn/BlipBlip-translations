@@ -57,14 +57,12 @@
     <string name="send_email_description">Email küldése…</string>
     <string name="app_language">Nyelv</string>
     <string name="system_default_language">Rendszer alapbeállítás</string>
-    <string-array name="sound_names">
-        <item>BlipBlip</item>
-        <item>Casio karóra</item>
-        <item>Gong</item>
-        <item>Hajóharang</item>
-        <item>Dupla hajóharang</item>
-        <item>Kakukk</item>
-    </string-array>
+    <string name="sound_blipblip">BlipBlip</string>
+    <string name="sound_casio_watch">Casio karóra</string>
+    <string name="sound_gong">Gong</string>
+    <string name="sound_ships_bell">Hajóharang</string>
+    <string name="sound_double_ships_bell">Dupla hajóharang</string>
+    <string name="sound_cuckoo">Kakukk</string>
     <string name="period_1_minute">1 perc</string>
     <string name="period_5_minutes">5 perc</string>
     <string name="period_10_minutes">10 perc</string>

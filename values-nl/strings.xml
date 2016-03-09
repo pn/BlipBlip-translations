@@ -57,14 +57,12 @@
     <string name="send_email_description">Email versturen</string>
     <string name="app_language">Taal</string>
     <string name="system_default_language">Systeem standaard</string>
-    <string-array name="sound_names">
-        <item>BlipBlip</item>
-        <item>Casio watch</item>
-        <item>Gong</item>
-        <item>Ship\'s bell</item>
-        <item>Double ship\'s bell</item>
-        <item>Cuckoo</item>
-    </string-array>
+    <string name="sound_blipblip">BlipBlip</string>
+    <string name="sound_casio_watch">Casio watch</string>
+    <string name="sound_gong">Gong</string>
+    <string name="sound_ships_bell">Ship\'s bell</string>
+    <string name="sound_double_ships_bell">Double ship\'s bell</string>
+    <string name="sound_cuckoo">Cuckoo</string>
     <string name="period_1_minute">1 minuut</string>
     <string name="period_5_minutes">5 minuten</string>
     <string name="period_10_minutes">10 minuten</string>

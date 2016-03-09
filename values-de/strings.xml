@@ -57,14 +57,12 @@
     <string name="send_email_description">email senden</string>
     <string name="app_language">Sprache</string>
     <string name="system_default_language">wie im System</string>
-    <string-array name="sound_names">
-        <item>BlipBlip</item>
-        <item>Casio Uhr</item>
-        <item>Gong</item>
-        <item>Schiffsglocke</item>
-        <item>Schiffsglocke 2x</item>
-        <item>Kuckuck</item>
-    </string-array>
+    <string name="sound_blipblip">BlipBlip</string>
+    <string name="sound_casio_watch">Casio Uhr</string>
+    <string name="sound_gong">Gong</string>
+    <string name="sound_ships_bell">Schiffsglocke</string>
+    <string name="sound_double_ships_bell">Schiffsglocke 2x</string>
+    <string name="sound_cuckoo">Kuckuck</string>
     <string name="period_1_minute">1 Minute</string>
     <string name="period_5_minutes">5 Minuten</string>
     <string name="period_10_minutes">10 Minuten</string>

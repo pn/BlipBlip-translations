@@ -57,14 +57,12 @@
     <string name="send_email_description">Send email…</string>
     <string name="app_language">语言</string>
     <string name="system_default_language">系统默认</string>
-    <string-array name="sound_names">
-        <item>BlipBlip</item>
-        <item>卡西欧表</item>
-        <item>锣</item>
-        <item>汽笛</item>
-        <item>两声汽笛</item>
-        <item>布谷鸟</item>
-    </string-array>
+    <string name="sound_blipblip">BlipBlip</string>
+    <string name="sound_casio_watch">卡西欧表</string>
+    <string name="sound_gong">锣</string>
+    <string name="sound_ships_bell">汽笛</string>
+    <string name="sound_double_ships_bell">两声汽笛</string>
+    <string name="sound_cuckoo">布谷鸟</string>
     <string name="period_1_minute">1 分钟</string>
     <string name="period_5_minutes">5 分钟</string>
     <string name="period_10_minutes">10 分钟</string>

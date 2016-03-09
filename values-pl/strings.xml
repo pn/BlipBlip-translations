@@ -57,14 +57,12 @@
     <string name="send_email_description">Wyślij email…</string>
     <string name="app_language">Język</string>
     <string name="system_default_language">Domyślny systemowy</string>
-    <string-array name="sound_names">
-        <item>BlipBlip</item>
-        <item>Zegarek Casio</item>
-        <item>Gong</item>
-        <item>Dzwon okrętowy</item>
-        <item>Podwójny dzwon okrętowy</item>
-        <item>Kukułka</item>
-    </string-array>
+    <string name="sound_blipblip">BlipBlip</string>
+    <string name="sound_casio_watch">Zegarek Casio</string>
+    <string name="sound_gong">Gong</string>
+    <string name="sound_ships_bell">Dzwon okrętowy</string>
+    <string name="sound_double_ships_bell">Podwójny dzwon okrętowy</string>
+    <string name="sound_cuckoo">Kukułka</string>
     <string name="period_1_minute">1 minutę</string>
     <string name="period_5_minutes">5 minut</string>
     <string name="period_10_minutes">10 minut</string>
