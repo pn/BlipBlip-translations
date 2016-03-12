@@ -193,4 +193,7 @@
     <string name="app_killed_warning">Наскоро BlipBlip спря неочаквано. &lt;b&gt;Моля, уверете се, че не използвате режим или приложение за пестене на енергия.&lt;/b&gt; Ако смятате, че това е нередност в приложението или се нуждаете от помощ, моля опишете Вашите неприятности чрез \"Докладване на нередност\" или пишете в &lt;a href=\"%1$s\">Общността на BlipBlip в Google+&lt;/a>.</string>
     <string name="warning_dont_show_again">Не показвай отново</string>
     <string name="play_button_description">Изпробване на Вашите настройки</string>
+    <string name="pref_low_volume_fix">Low volume fix</string>
+    <string name="pref_low_volume_fix_on">Fixes low volume on some Motorola devices with rising volume feature. May delay sound playback by few seconds.</string>
+    <string name="pref_low_volume_fix_off">Disabled. Not needed for most devices.</string>
 </resources>

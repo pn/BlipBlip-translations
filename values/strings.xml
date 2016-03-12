@@ -194,6 +194,6 @@
     <string name="warning_dont_show_again">Do not show again</string>
     <string name="play_button_description">Test your settings</string>
     <string name="pref_low_volume_fix">Low volume fix</string>
-    <string name="pref_low_volume_fix_on">Fixes low volume on some Motorola phone with rising volume feature. May delay sound playback by few seconds.</string>
+    <string name="pref_low_volume_fix_on">Fixes low volume on some Motorola devices with rising volume feature. May delay sound playback by few seconds.</string>
     <string name="pref_low_volume_fix_off">Disabled. Not needed for most devices.</string>
 </resources>

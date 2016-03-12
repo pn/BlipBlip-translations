@@ -193,4 +193,7 @@
     <string name="app_killed_warning">Niedawno BlipBlip został nieoczekiwanie zatrzymany. &lt;b&gt;Proszę upewnij się, że nie używasz żadnych trybów oszczędzania baterii (lub optymalizacji baterii, trybu eco) lub aplikacji (np. tzw. task killers)&lt;/b&gt;. Zazwyczaj są one przyczyną takiego problemu. Jeśli uważasz, że to jest błąd w aplikacji lub potrzebujesz z tym pomocy, proszę opisz swój problem za pomocą opcji \"Zgłoś problem\" lub napisz na forum &lt;a href=\"%1$s\">społeczności Google+ BlipBlip&lt;/a>.</string>
     <string name="warning_dont_show_again">Nie pokazuj ponownie</string>
     <string name="play_button_description">Przetestuj swoje ustawienia</string>
+    <string name="pref_low_volume_fix">Naprawa głośności</string>
+    <string name="pref_low_volume_fix_on">Naprawia niską głośność na niektórych urządzeniach Motoroli z funkcją zwiększania głośności. Może opóźnić dźwięk o kilka sekund.</string>
+    <string name="pref_low_volume_fix_off">Wyłączona. Niepotrzebne na większości urządzeń.</string>
 </resources>
