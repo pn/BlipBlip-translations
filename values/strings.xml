@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="action_settings">Settings</string>
     <string name="play_sound_periodically">Periodic notifications</string>
@@ -192,4 +193,7 @@
     <string name="app_killed_warning">Recently BlipBlip was unexpectedly stopped. &lt;b&gt;Please make sure you are not using any battery optimization (or power saving, eco, etc.) mode or app (e.g. task killers)&lt;/b&gt;. They usually cause such issues. If you think this is bug in the app or need help, please describe your problem using \"Report problem\" option or write on &lt;a href=\"%1$s\">BlipBlip Google+ community&lt;/a>.</string>
     <string name="warning_dont_show_again">Do not show again</string>
     <string name="play_button_description">Test your settings</string>
+    <string name="pref_low_volume_fix">Low volume fix</string>
+    <string name="pref_low_volume_fix_on">Fixes low volume on some Motorola phone with rising volume feature. May delay sound playback by few seconds.</string>
+    <string name="pref_low_volume_fix_off">Disabled. Not needed for most devices.</string>
 </resources>
