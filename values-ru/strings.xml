@@ -46,7 +46,7 @@
     <string name="late_notif_notif_text">Режим тревоги включен для исправления ошибки с отсрочкой</string>
     <string name="notif_as_alarm_title">Режим тревоги</string>
     <string name="notif_as_alarm_off">Режим тревоги отключен</string>
-    <string name="notif_as_alarm_on">Уведомления работают, как тревога (исправляется ошибка, когда случается отсрочка уведомлений на 3-5 минут на некоторых устройствах Samsung)</string>
+    <string name="notif_as_alarm_on">Уведомления работают, как тревога (исправляется ошибка, когда случается отсрочка уведомлений на 3–5 минут на некоторых устройствах Samsung)</string>
     <string name="auto_notif_as_alarm_title">Включать режим тревоги</string>
     <string name="auto_notif_as_alarm_on">Включить режим тревоги, если обнаружена отсрочка уведомления</string>
     <string name="auto_notif_as_alarm_off">Не включать режим тревоги, если обнаружена отсрочка уведомления</string>
@@ -179,7 +179,7 @@
     <string name="day_today">Сегодня</string>
     <string name="day_tomorrow">Завтра</string>
     <string name="silent_day">Тихий день</string>
-    <string name="please_wait">Подождите...</string>
+    <string name="please_wait">Подождите…</string>
     <string name="inline_attachments_title">Простой текст вложений</string>
     <string name="inline_attachments_on">Вставить вложения в виде простого текста в \"Сообщить о проблеме\".</string>
     <string name="inline_attachments_off">Использовать обычные вложения в \"Сообщить о проблеме\".</string>
