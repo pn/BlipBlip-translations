@@ -45,7 +45,7 @@
     <string name="late_notif_notif_title">BlipBlip configuration changed</string>
     <string name="late_notif_notif_text">Alarm mode enabled to fix delay issue</string>
     <string name="notif_as_alarm_off">重复提醒</string>
-    <string name="notif_as_alarm_on">像闹钟一样工作（修复在一些三星设备上的3-5分钟延迟）</string>
+    <string name="notif_as_alarm_on">像闹钟一样工作（修复在一些三星设备上的3–5分钟延迟）</string>
     <string name="notif_as_alarm_title">闹钟模式</string>
     <string name="auto_notif_as_alarm_title">自动开启闹钟模式</string>
     <string name="auto_notif_as_alarm_on">当检测到延迟时自动开启</string>
