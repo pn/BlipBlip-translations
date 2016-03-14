@@ -196,4 +196,10 @@
     <string name="pref_low_volume_fix">Low volume fix</string>
     <string name="pref_low_volume_fix_on">Fixes low volume on some Motorola devices with rising volume feature. May delay sound playback by few seconds.</string>
     <string name="pref_low_volume_fix_off">Disabled. Not needed for most devices.</string>
+    <string name="pref_recover_playback_error">Recover from playing error</string>
+    <string name="pref_recover_playback_error_on">Recovery from playback error enabled. May produce double sound in some cases.</string>
+    <string name="pref_recover_playback_error_off">Recovery from playback error disabled</string>
+    <string name="pref_key_old_playback_mode">Old playback mode</string>
+    <string name="pref_key_old_playback_mode_on">Old sound playback enabled, sound stops working sometimes on some devices.</string>
+    <string name="pref_key_old_playback_mode_off">New, more reliable sound playback enabled. If causing troubles use &quot;Report problem&quot; option.</string>
 </resources>
