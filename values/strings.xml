@@ -202,4 +202,8 @@
     <string name="pref_key_old_playback_mode">Old playback mode</string>
     <string name="pref_key_old_playback_mode_on">Old sound playback enabled, sound stops working sometimes on some devices.</string>
     <string name="pref_key_old_playback_mode_off">New, more reliable sound playback enabled. If causing troubles use &quot;Report problem&quot; option.</string>
+    <string name="pref_fix_delays">Fix delays</string>
+    <string name="pref_fix_delays_on">Try to fix delays happening on some devices with android 5 (usually Samsung). May use more battery.
+        This option is last hope for android 5.0.1 users for the app to work correctly. Users with version 5.0.2 or above can use \"Alarm mode\" or \"Light up screen on notification\" instead.</string>
+    <string name="pref_fix_delays_off">Fixing of notification delays is disabled.</string>
 </resources>
