@@ -7,7 +7,7 @@
     <string name="off">Off</string>
     <string name="on">On</string>
     <string name="text_seek_volume">Volume</string>
-    <string name="pref_choose_audio_stream">Flusso Audio</string>
+    <string name="pref_choose_audio_stream">Flusso audio</string>
     <string name="period_text">Periodo</string>
     <string name="sound_text">Suono</string>
     <string name="set">Imposta</string>
@@ -32,11 +32,11 @@
     <string name="pref_time_offset_title">Differenza orario</string>
     <string name="pref_time_offset_summary">Differenza orario in secondi</string>
     <string name="while_music">Disabilita mentre ascolti musica</string>
-    <string name="while_music_on">Tutte le notifiche disabilitate</string>
+    <string name="while_music_on">Tutte le notifiche sono disabilitate</string>
     <string name="while_music_off">Notifiche abilitate</string>
     <string name="while_music_toast">Le notifiche BlipBlip sono disabilitate, perché stai ascoltando della musica.</string>
     <string name="while_phonecall">Disabilita durante le chiamate telefoniche</string>
-    <string name="while_phonecall_on">Tutte le notifiche disabilitate</string>
+    <string name="while_phonecall_on">Tutte le notifiche sono disabilitate</string>
     <string name="while_phonecall_off">Notifiche abilitate</string>
     <string name="while_phonecall_toast">Le notifiche BlipBlip sono disabilitate, perché è in corso una chiamata telefonica.</string>
     <string name="late_notif_title">Modalità allarme abilitata</string>
@@ -51,8 +51,8 @@
     <string name="auto_notif_as_alarm_on">Abilita modalità allarme se ritardo notifiche rilevato</string>
     <string name="auto_notif_as_alarm_off">Non abilitare la modalità allarme automaticamente</string>
     <string name="debug_logs_title">Raccogli informazioni di debug</string>
-    <string name="debug_logs_off">Scrittura informazioni di debug disabilitata</string>
-    <string name="debug_logs_on">Salva le informazioni per Segnalare un problema via email</string>
+    <string name="debug_logs_off">Raccolta informazioni di debug disabilitata</string>
+    <string name="debug_logs_on">Salva le informazioni per segnalare un problema via email</string>
     <string name="send_logs_describe">Per favore, descrivi il problema che riscontri con l\'applicazione (preferibilmente in inglese):</string>
     <string name="send">Invia</string>
     <string name="send_email_description">Invia email…</string>
@@ -89,7 +89,7 @@
     <string name="share_chooser_title">Condividi l\'applicazione</string>
     <string name="notification_status_title">BlipBlip è attivo</string>
     <string name="pref_notification_status_title">Visualizzazione notifiche</string>
-    <string name="pref_notification_status_on">Mostra notifica quando l\'applicazione è inesecuzione per prevenire la chiusura da parte del SO</string>
+    <string name="pref_notification_status_on">Mostra notifica quando l\'applicazione è in esecuzione per prevenire la chiusura da parte del SO</string>
     <string name="pref_notification_status_off">Nascondi notifica - probabilità maggiore che l\'applicazione venga chiusa dal SO</string>
     <string name="rate_us_title">Valutaci!</string>
     <string name="rate_us_message">Grazie per aver recensito la nostra applicazione.</string>
@@ -105,7 +105,7 @@
     <string name="service_enable">Abilitato</string>
     <string-array name="vibration_names">
         <item>Per BlipBlip</item>
-        <item>Fer orologio Casio </item>
+        <item>Per orologio Casio </item>
         <item>Singolo corto</item>
         <item>Doppio corto</item>
         <item>Singolo lungo</item>
@@ -123,7 +123,7 @@
     <string name="about_translations">Traduzioni</string>
     <string name="allow_while_idle_title">Permetti in modalità risparmio energia</string>
     <string name="allow_while_idle_off">Quando lo smartphone entra in modalità risparmio energia alcune notifiche possono essere ignorate.</string>
-    <string name="allow_while_idle_on">Permette all\'applicazione di funzionare in modalità risparmio energia (Doze/Idle). Potrebbe non funzionare sempre per notifiche più frequenti di 15 minuti. Questa impostazione potrebbe incidere lievemente sul consumo della batteria.</string>
+    <string name="allow_while_idle_on">Permette all\'applicazione di funzionare in modalità risparmio energia (Doze/Idle). Potrebbe non funzionare per notifiche con granularità minore dei 15 minuti. Questa impostazione potrebbe incidere lievemente sul consumo della batteria.</string>
     <string name="beta_preference_title">BlipBlip Beta</string>
     <string name="beta_preference_description">Abilita o disabilita la versione beta</string>
     <string name="pref_silent_mode">Modalità silenziosa</string>
@@ -181,8 +181,8 @@
     <string name="silent_day">Giornata silenziosa</string>
     <string name="please_wait">Attendi per favore…</string>
     <string name="inline_attachments_title">Allegati in linea</string>
-    <string name="inline_attachments_on">Inserisci dei \"Segnala problema\" allegati in linea.</string>
-    <string name="inline_attachments_off">Usa l\'allegato semail standard in \"Segnala problema\".</string>
+    <string name="inline_attachments_on">Inserisci gli allegati in linea in  \"Segnala problema\".</string>
+    <string name="inline_attachments_off">Usa l\'allegato mail standard in \"Segnala problema\".</string>
     <string name="pref_experimental">Impostazioni sperimentali</string>
     <string name="title_experimental_settings">Impostazioni sperimentali</string>
     <string name="pref_visual">Impostazioni visualizzazione</string>
@@ -201,5 +201,5 @@
     <string name="pref_recover_playback_error_off">Recupero da errore di riproduzione disabilitato</string>
     <string name="pref_key_old_playback_mode">Vecchia modalità riproduzione</string>
     <string name="pref_key_old_playback_mode_on">Vecchia modalità riproduzione abilitata, la riproduzione dei suoni si interrompe qualche volta in alcuni dispositivi.</string>
-    <string name="pref_key_old_playback_mode_off">Nuovo, più affidabile riproduzione dei suoni abilitata. Se introduce problemi usa l\'opzione &quot;Segnala problema&quot; .</string>
+    <string name="pref_key_old_playback_mode_off">Nuovo, più affidabile riproduzione dei suoni abilitata. Se introduce problemi usa l\'opzione \"Segnala problema\".</string>
 </resources>
