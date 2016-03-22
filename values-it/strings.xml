@@ -190,7 +190,7 @@
     <string name="experimental_warning">Queste impostazioni sono sperimentali e potrebbero venire rimosse in futuro.</string>
     <string name="upcoming_notifications">Notifiche in arrivo</string>
     <string name="warning">Attenzione</string>
-    <string name="app_killed_warning">Recentemente BlipBlip si è bloccato inaspettatamente. &lt;b&gt;Per favore assicurati che non stai utilizzando modalità di ottimizzazione per la batteria (o risparmio energetico, eco, etc.) o applicazioni  (p.e. task killers)&lt;/b&gt;. Normalmente causano questo tipo di problemi. Se pensi che sia un bug nell\'applicazione o hai bisogno di aiuto, per favore descrivi il problema usando l\'opzione \"Segnala problema\"  o scrivi su &lt;a href=\"%1$s\">BlipBlip Google+ community&lt;/a>.</string>
+    <string name="app_killed_warning">Recentemente BlipBlip si è bloccato inaspettatamente. &lt;b&gt;Per favore assicurati che non stai utilizzando modalità di ottimizzazione per la batteria (o risparmio energetico, eco, etc.) o applicazioni  (p.e. task killers)&lt;/b&gt;. Normalmente causano questo tipo di problemi. Se pensi che sia un bug nell\'applicazione o hai bisogno di aiuto, per favore descrivi il problema usando l\'opzione \"Segnala problema\" o scrivi su &lt;a href=\"%1$s\">BlipBlip Google+ community&lt;/a>.</string> <!-- TODO Add remark about whitelist from english translation and remove this comment -->
     <string name="warning_dont_show_again">Non mostrare più</string>
     <string name="play_button_description">Prova le tue impostazioni</string>
     <string name="pref_low_volume_fix">Fix volume basso</string>
