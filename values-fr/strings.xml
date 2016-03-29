@@ -16,7 +16,7 @@
 <string name="quiet_hours_times_title">Temps de silence entre</string>
 <string name="quiet_hours_from">Temps de silence de</string>
 <string name="quiet_hours_to">Temps de silence à</string>
-<string name="light_up_screen_title">Allumage de l\'écran lors d\'une notification</string>
+<string name="light_up_screen_title">Écran allumé si notification</string>
 <string name="light_up_screen_off">Laisser l\'écran éteint</string>
 <string name="light_up_screen_on">Allumer brièvement l\'écran</string>
 <string name="quiet_days_title">Jours de silence</string>
@@ -31,11 +31,11 @@
 <string name="title_advanced_settings">Paramètres avancés</string>
 <string name="pref_time_offset_title">Décalage horaire</string>
 <string name="pref_time_offset_summary">Décalage entre le temps imparti en secondes</string>
-<string name="while_music">Désactiver lorsque l\'on écoute de la musique</string>
+<string name="while_music">Désactiver avec la musique</string>
 <string name="while_music_on">Toutes les notifications désactivées</string>
 <string name="while_music_off">Notifications activées</string>
 <string name="while_music_toast">Écoute musicale en cours, les notifications de BlipBlip sont désormais désactivées.</string>
-<string name="while_phonecall">Désactiver durant un appel téléphonique</string>
+<string name="while_phonecall">Désactiver durant un appel</string>
 <string name="while_phonecall_on">Toutes les notifications désactivées</string>
 <string name="while_phonecall_off">Notifications activées</string>
 <string name="while_phonecall_toast">Appel téléphonique en cours, les notifications de BlipBlip sont désormais désactivées.</string>
@@ -47,10 +47,10 @@
 <string name="notif_as_alarm_off">Notifications régulières</string>
 <string name="notif_as_alarm_on">Les notifications peuvent rencontrer un délai de quelques minutes sur certains périphériques Samsung</string>
 <string name="notif_as_alarm_title">Mode d\'alarme</string>
-<string name="auto_notif_as_alarm_title">Activation du mode d\'alarme automatique</string>
+<string name="auto_notif_as_alarm_title">Activation du mode d\'alarme auto</string>
 <string name="auto_notif_as_alarm_on">Activer le mode d\'alarme en cas de détection de retard de notificationon</string>
 <string name="auto_notif_as_alarm_off">Ne pas activer le mode alarme automatiquement</string>
-<string name="debug_logs_title">Collecter les journaux de débogage</string>
+<string name="debug_logs_title">Collecte des journaux de débogage</string>
 <string name="debug_logs_off">Journal d\'écriture désactivé</string>
 <string name="debug_logs_on">Enregistrer les journaux d\'erreurs pour reporter les problèmes par email</string>
 <string name="send_logs_describe">Merci de décrire le problème rencontré avec l\'application (de préférence en anglais):</string>
@@ -166,7 +166,7 @@
 <string name="next_notification_never">Conflit dans votre configuration.</string>
 <string name="warn_sound_disabled_silent_mode">Son de notification de BlipBlip désactivé, parce que votre appareil est en mode silencieux.</string>
 <string name="warn_sound_disabled_vibrate_mode">Son de notification de BlipBlip désactivé, parce que votre appareil est en mode vibreur.</string>
-<string name="pref_toast_notifications">Messages et avertissements sur l\'écran</string>
+<string name="pref_toast_notifications">Messages sur l\'écran</string>
 <string name="pref_toast_notifications_on">Afficher les messages et avertissements sur l\'écran</string>
 <string name="pref_toast_notifications_off">Masquer les messages et avertissements sur l\'écran</string>
 <string name="day_monday">Lundi</string>
@@ -181,16 +181,16 @@
 <string name="silent_day">Jour de silence</string>
 <string name="please_wait">Merci de patienter�</string>
 <string name="inline_attachments_title">Pièces jointes en ligne</string>
-<string name="inline_attachments_on">Insérez \"Signaler un Problème"\ dans le contenu de la pièce jointe en ligne.</string>
-<string name="inline_attachments_off">Utilisez les pièces jointes régulières dans \"Signaler un Problème"\</string>
+<string name="inline_attachments_on">Insérez \"Signaler un problème\" dans le contenu de la pièce jointe en ligne.</string>
+<string name="inline_attachments_off">Utilisez les pièces jointes régulières dans \"Signaler un problème\"</string>
 <string name="pref_experimental">Paramètres expérimentaux</string>
 <string name="title_experimental_settings">Paramètres expérimentaux</string>
 <string name="pref_visual">Visual settings</string>
 <string name="title_visual_settings">Paramètres  visuels</string>
-<string name="experimental_warning">Ces paramÃ¨tres expÃ©rimentaux peuvent Ãªtre supprimés dans le futur.</string>
+<string name="experimental_warning">Ces paramètres expérimentaux peuvent être supprimés dans le futur.</string>
 <string name="upcoming_notifications">Notifications à venir</string>
 <string name="warning">Avertissement</string>
-<string name="app_killed_warning">Récemment BlipBlip s\'est arrêté de manière inattendue. Veuillez faire attention à ce que vous n\'utilisez aucune optimisation de la batterie (ou d\'économie d\'énergie, éco, etc.) ou une application (par exemple tueuse de tâche). Elles provoquent habituellement ce genre de désagrément. Si vous avez besoin d\'utiliser ce genre d\'application, ajoutez BlipBlip à la liste blanche des applications autorisées. Si vous pensez qu\'il s\'agit d\'un Bug dans l\'application ou si vous avez besoin d\'aide, veuillez décrire votre problème en utilisant l\'option \"Signaler un Problème\" ou nous écrire sur &lt;a href=\"%1$s\"> Communauté BlipBlip sur Google+&lt;/a></string>
+<string name="app_killed_warning">Récemment BlipBlip s\'est arrêté de manière inattendue. Veuillez faire attention à ce que vous n\'utilisez aucune optimisation de la batterie (ou d\'économie d\'énergie, éco, etc.) ou une application (par exemple tueuse de tâche). Elles provoquent habituellement ce genre de désagrément. Si vous avez besoin d\'utiliser ce genre d\'application, ajoutez BlipBlip à la liste blanche des applications autorisées. Si vous pensez qu\'il s\'agit d\'un Bug dans l\'application ou si vous avez besoin d\'aide, veuillez décrire votre problème en utilisant l\'option \"Signaler un problème\" ou nous écrire sur &lt;a href=\"%1$s\"> Communauté BlipBlip sur Google+&lt;/a></string>
 <string name="warning_dont_show_again">Ne plus afficher</string>
 <string name="play_button_description">Tester votre configuration</string>
 <string name="pref_low_volume_fix">Correction de volume faible</string>
@@ -201,5 +201,5 @@
 <string name="pref_recover_playback_error_off">Récupération d\'erreur de lecture désactivé</string>
 <string name="pref_key_old_playback_mode">Ancien mode de lecture</string>
 <string name="pref_key_old_playback_mode_on">Ancien son de lecture activé, celui-ci risque de ne pas fonctionner quelquefois pas sur certains appareils.</string>
-<string name="pref_key_old_playback_mode_off">Nouveau, son de lecture plus fiable activé. Si vous rencontrez des problèmes, utilisez l\'option : signaler un problème.</string>
+<string name="pref_key_old_playback_mode_off">Nouveau, son de lecture plus fiable activé. Si vous rencontrez des problèmes, utilisez l\'option : \"Signaler un problème\".</string>
 </resources>
