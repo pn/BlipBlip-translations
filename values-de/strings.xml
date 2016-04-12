@@ -103,14 +103,12 @@
     <string name="play_sound_switch">Ton abspielen</string>
     <string name="service_disabled_warning">BlipBlip ist ausgeschaltet</string>
     <string name="service_enable">Einschalten</string>
-    <string-array name="vibration_names">
-        <item>BlipBlip</item>
-        <item>Casio Uhr</item>
-        <item>einmal kurz</item>
-        <item>zweimal kurz</item>
-        <item>einmal lang</item>
-        <item>zweimal lang</item>
-    </string-array>
+    <string name="vibration_blipblip">BlipBlip</string>
+    <string name="vibration_casio_watch">Casio Uhr</string>
+    <string name="vibration_single_short">einmal kurz</string>
+    <string name="vibration_double_short">zweimal kurz</string>
+    <string name="vibration_single_long">einmal lang</string>
+    <string name="vibration_double_long">zweimal lang</string>
     <string name="quiet_day_warning">Mitteilungen aus, weil heute ist \"Ruhetage\".</string>
     <string name="change_setting">Änderung</string>
     <string name="toast_change_quiet_days">Bitte ändere die \"Ruhetage\" damit BlipBlip heute arbeitet.</string>

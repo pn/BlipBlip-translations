@@ -103,14 +103,12 @@
     <string name="play_sound_switch">Reproduzir som</string>
     <string name="service_disabled_warning">BlipBlip está desativado</string>
     <string name="service_enable">ativar</string>
-    <string-array name="vibration_names">
-        <item>Para  BlipBlip</item>
-        <item>Para relógio Casio</item>
-        <item>Curta única</item>
-        <item>Curta dupla</item>
-        <item>Longa única</item>
-        <item>Longa dupla</item>
-    </string-array>
+    <string name="vibration_blipblip">Para BlipBlip</string>
+    <string name="vibration_casio_watch">Para relógio Casio</string>
+    <string name="vibration_single_short">Curta única</string>
+    <string name="vibration_double_short">Curta dupla</string>
+    <string name="vibration_single_long">Longa única</string>
+    <string name="vibration_double_long">Longa dupla</string>
     <string name="quiet_day_warning">Notificação desativada, pois hoje é \"Dia em silêncio\".</string>
     <string name="change_setting">Alterar</string>
     <string name="toast_change_quiet_days">Por favor, altere a configuração \"Dias em silêncio\" para fazer BlipBlip trabalhar hoje.</string>

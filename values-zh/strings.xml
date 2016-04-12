@@ -103,14 +103,12 @@
     <string name="play_sound_switch">Play sound</string>
     <string name="service_disabled_warning">BlipBlip is disabled</string>
     <string name="service_enable">Enable</string>
-    <string-array name="vibration_names">
-        <item>For BlipBlip</item>
-        <item>卡西欧表</item>
-        <item>短促的一次</item>
-        <item>短促的两次</item>
-        <item>较长的一次</item>
-        <item>较长的两次</item>
-    </string-array>
+    <string name="vibration_blipblip">For BlipBlip</string>
+    <string name="vibration_casio_watch">卡西欧表</string>
+    <string name="vibration_single_short">短促的一次</string>
+    <string name="vibration_double_short">短促的两次</string>
+    <string name="vibration_single_long">较长的一次</string>
+    <string name="vibration_double_long">较长的两次</string>
     <string name="quiet_day_warning">Notification disabled, because today is \"silent day\".</string>
     <string name="change_setting">Change</string>
     <string name="toast_change_quiet_days">Please change \"Silent days\" setting to make BlipBlip work today.</string>

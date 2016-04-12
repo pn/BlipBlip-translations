@@ -103,14 +103,12 @@
     <string name="play_sound_switch">Свири звук</string>
     <string name="service_disabled_warning">BlipBlip е изключен</string>
     <string name="service_enable">Включване</string>
-    <string-array name="vibration_names">
-        <item>За BlipBlip</item>
-        <item>За Casio</item>
-        <item>единичен кратък</item>
-        <item>двоен кратък</item>
-        <item>единичен дълъг</item>
-        <item>двоен дълъг</item>
-    </string-array>
+    <string name="vibration_blipblip">За BlipBlip</string>
+    <string name="vibration_casio_watch">За Casio</string>
+    <string name="vibration_single_short">единичен кратък</string>
+    <string name="vibration_double_short">двоен кратък</string>
+    <string name="vibration_single_long">единичен дълъг</string>
+    <string name="vibration_double_long">двоен дълъг</string>
     <string name="quiet_day_warning">Известяването е забранено, понеже днес е \"тих ден\".</string>
     <string name="change_setting">Промяна</string>
     <string name="toast_change_quiet_days">Моля, променете настройката за \"Тихи дни\", за да използвате BlipBlip днес.</string>

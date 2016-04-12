@@ -103,14 +103,12 @@
     <string name="play_sound_switch">Play sound</string>
     <string name="service_disabled_warning">BlipBlip is uitgeschakeld</string>
     <string name="service_enable">Inschakelen</string>
-    <string-array name="vibration_names">
-        <item>For BlipBlip</item>
-        <item>For Casio watch</item>
-        <item>Enkel kort</item>
-        <item>Dubbel kort</item>
-        <item>Enkel lang</item>
-        <item>Dubbel lang</item>
-    </string-array>
+    <string name="vibration_blipblip">For BlipBlip</string>
+    <string name="vibration_casio_watch">For Casio watch</string>
+    <string name="vibration_single_short">Enkel kort</string>
+    <string name="vibration_double_short">Dubbel kort</string>
+    <string name="vibration_single_long">Enkel lang</string>
+    <string name="vibration_double_long">Dubbel lang</string>
     <string name="quiet_day_warning">Notificatie uitgeschakeld omdat vandaag een \"stille dag\" is.</string>
     <string name="change_setting">Aanpassen</string>
     <string name="toast_change_quiet_days">Verander \"stille dagen\" om BlipBlip te laten werken.</string>

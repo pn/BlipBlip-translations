@@ -103,14 +103,12 @@
     <string name="play_sound_switch">Hang lejátszása</string>
     <string name="service_disabled_warning">A BlipBlip letiltva</string>
     <string name="service_enable">Engedélyezés</string>
-    <string-array name="vibration_names">
-        <item>BlipBlip-hez</item>
-        <item>Casio karórához</item>
-        <item>Szimpla rövid</item>
-        <item>Dupla rövid</item>
-        <item>Szimpla hosszú</item>
-        <item>Dupla hosszú</item>
-    </string-array>
+    <string name="vibration_blipblip">BlipBlip-hez</string>
+    <string name="vibration_casio_watch">Casio karórához</string>
+    <string name="vibration_single_short">Szimpla rövid</string>
+    <string name="vibration_double_short">Dupla rövid</string>
+    <string name="vibration_single_long">Szimpla hosszú</string>
+    <string name="vibration_double_long">Dupla hosszú</string>
     <string name="quiet_day_warning">A figyelmeztetések le vanak tiltva, mert a mai \"Csendes nap\".</string>
     <string name="change_setting">Módosítás</string>
     <string name="toast_change_quiet_days">Kérjük módosítsa a \"Csendes napok\" beállítást, hogy a BlipBlip működjön ma.</string>
