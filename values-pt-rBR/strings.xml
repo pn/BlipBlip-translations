@@ -90,7 +90,7 @@
     <string name="notification_status_title">BlipBlip está ativado</string>
     <string name="pref_notification_status_title">Exibir notificação</string>
     <string name="pref_notification_status_on">Exibir notificação quando o aplicativo está em execução para evitar a interrupção pelo sistema operacional</string>
-    <string name="pref_notification_status_off">Ocutar notificação – Maior xance do aplicativo ser interrompido pelo sistema operacional</string>
+    <string name="pref_notification_status_off">Ocutar notificação – Maior chance do aplicativo ser interrompido pelo sistema operacional</string>
     <string name="rate_us_title">Avalie-nos!</string>
     <string name="rate_us_message">Obrigado por rezervar um tempo para avaliar o aplicativo.</string>
     <string name="rate_us_fivestars">5 estrelas!</string>
