@@ -199,5 +199,5 @@
     <string name="pref_recover_playback_error_off">Recuperação de erro de reprodução desativada.</string>
     <string name="pref_key_old_playback_mode">Modo de reprodução obsoleta</string>
     <string name="pref_key_old_playback_mode_on">Modo de reprodução de som obsoleto ativado. Por vezes, em alguns dispositivos, o som para de funcionar.</string>
-    <string name="pref_key_old_playback_mode_off">Atual, Reprodução de som mais confiável abilitado. Se os problemas continuarem, Utilize a opção "Reportar problema".</string>
+    <string name="pref_key_old_playback_mode_off">Atual, Reprodução de som mais confiável habilitado. Se os problemas continuarem, Utilize a opção "Reportar problema".</string>
 </resources>
