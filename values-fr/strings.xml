@@ -68,6 +68,7 @@
 <string name="period_5_minutes">5 minutes</string>
 <string name="period_10_minutes">10 minutes</string>
 <string name="period_15_minutes">15 minutes</string>
+<string name="period_20_minutes">20 minutes</string>
 <string name="period_30_minutes">30 minutes</string>
 <string name="period_60_minutes">1 heure</string>
 <string-array name="pref_audio_stream_titles">

@@ -68,6 +68,7 @@
     <string name="period_5_minutes">5 perc</string>
     <string name="period_10_minutes">10 perc</string>
     <string name="period_15_minutes">15 perc</string>
+    <string name="period_20_minutes">20 perc</string>
     <string name="period_30_minutes">30 perc</string>
     <string name="period_60_minutes">1 óra</string>
     <string-array name="pref_audio_stream_titles">
