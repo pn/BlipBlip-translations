@@ -90,8 +90,8 @@
     <string name="share_chooser_title">Share the app!</string>
     <string name="notification_status_title">BlipBlip is active</string>
     <string name="pref_notification_status_title">Display notification</string>
-    <string name="pref_notification_status_on">Show notification when app is running to prevent killing by OS</string>
-    <string name="pref_notification_status_off">Hide notification - greater chance the app will be killed by OS</string>
+    <string name="pref_notification_status_on">Show notification when app is running to prevent killing by OS</string><!-- not used anymore-->
+    <string name="pref_notification_status_off">Hide notification - greater chance the app will be killed by OS</string><!-- not used anymore-->
     <string name="rate_us_title">Rate Us!</string>
     <string name="rate_us_message">Thank you for taking time to review the app.</string>
     <string name="rate_us_fivestars">5 stars!</string>
@@ -201,4 +201,9 @@
     <string name="pref_key_old_playback_mode">Old playback mode</string>
     <string name="pref_key_old_playback_mode_on">Old sound playback enabled, sound stops working sometimes on some devices.</string>
     <string name="pref_key_old_playback_mode_off">New, more reliable sound playback enabled. If causing troubles use &quot;Report problem&quot; option.</string>
+    <string name="pref_keep_service_title">Background service</string>
+    <string name="pref_keep_service_on">Keep background service always started in the background (may use more memory), notification becomes persistent</string>
+    <string name="pref_keep_service_off">Start background service only when needed (may use less memory)</string>
+    <string name="pref_notification_status_on2">Show notification with next notification time</string>
+    <string name="pref_notification_status_off2">Disable notification</string>
 </resources>
