@@ -206,4 +206,7 @@
     <string name="pref_keep_service_off">Start background service only when needed (may use less memory)</string>
     <string name="pref_notification_status_on2">Show notification with next notification time</string>
     <string name="pref_notification_status_off2">Disable notification</string>
+    <string name="pref_low_notification_priority_title">Low notification priority</string>
+    <string name="pref_low_notification_priority_on">Lowest notification priority. Notification may be hidden.</string>
+    <string name="pref_low_notification_priority_off">Normal notification priority.</string>
 </resources>
