@@ -202,11 +202,14 @@
     <string name="pref_key_old_playback_mode_on">Old sound playback enabled, sound stops working sometimes on some devices.</string>
     <string name="pref_key_old_playback_mode_off">New, more reliable sound playback enabled. If causing troubles use &quot;Report problem&quot; option.</string>
     <string name="pref_keep_service_title">Background service</string>
-    <string name="pref_keep_service_on">Keep background service always started in the background (may use more memory), notification becomes persistent</string>
+    <string name="pref_keep_service_on">Keep background service always started in the background (may use more memory)</string>
     <string name="pref_keep_service_off">Start background service only when needed (may use less memory)</string>
     <string name="pref_notification_status_on2">Show notification with next notification time</string>
     <string name="pref_notification_status_off2">Disable notification</string>
     <string name="pref_low_notification_priority_title">Low notification priority</string>
     <string name="pref_low_notification_priority_on">Lowest notification priority. Notification may be hidden.</string>
     <string name="pref_low_notification_priority_off">Normal notification priority.</string>
+    <string name="pref_persistent_notification_title">Persistent notification</string>
+    <string name="pref_persistent_notification_on">Notification is not dissmissable</string>
+    <string name="pref_persistent_notification_off">Notification is dissmissable</string>
 </resources>
