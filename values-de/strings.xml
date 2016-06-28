@@ -77,7 +77,7 @@
         <item>Media</item>
         <item>System-Meldungen</item>
     </string-array>
-    <string name="about_coding">Verschlüsselung</string>
+    <string name="about_coding">Programmierung</string>
     <string name="about_graphics">Grafik</string>
     <string name="about_more_apps">weitere Apps</string>
     <string name="about_send_feedback">Sende eine Rückmeldung</string>
@@ -159,7 +159,7 @@
     <string name="next_notification_wed">Nächster BlipBlip-Ton Mittwoch ab %1$s</string>
     <string name="next_notification_thu">Nächster BlipBlip-Ton Donnerstag ab %1$s</string>
     <string name="next_notification_fri">Nächster BlipBlip-Ton Freitag ab %1$s</string>
-    <string name="next_notification_sat">Nächster BlipBlip-Ton Sonnabend ab %1$s</string>
+    <string name="next_notification_sat">Nächster BlipBlip-Ton Samstag ab %1$s</string>
     <string name="next_notification_sun">Nächster BlipBlip-Ton Sonntag ab %1$s</string>
     <string name="next_notification_off">Aus</string>
     <string name="next_notification_never">Konflikt in den Einstellungen.</string>
@@ -173,7 +173,7 @@
     <string name="day_wednesday">Mittwoch</string>
     <string name="day_thursday">Donnerstag</string>
     <string name="day_friday">Freitag</string>
-    <string name="day_saturday">Sonnabend</string>
+    <string name="day_saturday">Samstag</string>
     <string name="day_sunday">Sonntag</string>
     <string name="day_today">Heute</string>
     <string name="day_tomorrow">morgen</string>
