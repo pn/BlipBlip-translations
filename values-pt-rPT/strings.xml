@@ -105,8 +105,8 @@ Se encontrar outros problemas, por favor, nos informe por correio electrónico.<
     <string name="play_sound_switch">Reproduzir som</string>
     <string name="service_disabled_warning">BlipBlip encontra-se desactivado</string>
     <string name="service_enable">Activar</string>
-    <string name="vibration_blipblip">Para BlipBlip</string>
-    <string name="vibration_casio_watch">Para Relógio Casio</string>
+    <string name="vibration_blipblip">Como BlipBlip</string>
+    <string name="vibration_casio_watch">Como Relógio Casio</string>
     <string name="vibration_single_short">Curta Única</string>
     <string name="vibration_double_short">Curta Dupla</string>
     <string name="vibration_single_long">Longa Única</string>
