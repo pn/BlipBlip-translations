@@ -207,7 +207,6 @@
     <string name="pref_notification_status_on2">Show notification with next notification time</string>
     <string name="pref_notification_status_off2">Disable notification</string>
     <string name="pref_low_notification_priority_title">Low notification priority</string>
-    <string name="pref_low_notification_priority_on">Lowest notification priority. Notification may be hidden.</string>
     <string name="pref_low_notification_priority_off">Normal notification priority.</string>
     <string name="pref_persistent_notification_title">Persistent notification</string><!-- not used -->
     <string name="pref_persistent_notification_on">Notification is not dismissible</string><!-- not used -->
@@ -220,4 +219,5 @@
     <string name="pref_vibrate_wear_off">Do not vibrate on Android Wear</string>
     <string name="notification_question_message2">Would you like to hide the notification? If you disable it you can enable it later in the settings.</string>
     <string name="pref_notification_settings">Notification settings</string>
+    <string name="pref_low_notification_priority_on">Lowest notification priority. Notification should be hidden from status bar.</string>
 </resources>
