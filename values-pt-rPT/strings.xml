@@ -196,10 +196,4 @@ Se encontrar outros problemas, por favor, nos informe por correio electrónico.<
     <string name="pref_low_volume_fix">Correcção de baixo volume</string>
     <string name="pref_low_volume_fix_on">Corrige o baixo volume em alguns telemóveis da Motorola com a funcionalidade de almentar gradativamente. Pode atrazar por alguns segundos a reprodução de som.</string>
     <string name="pref_low_volume_fix_off">Desactivado. Não é necessário para a maior parte dos telemóveis.</string>
-    <string name="pref_recover_playback_error">Recuperação de erro ao reproduzir</string>
-    <string name="pref_recover_playback_error_on">Recuperação de erro ao reproduzir activada. Em alguns casos, pode produzir alertas duplos de som.</string>
-    <string name="pref_recover_playback_error_off">Recuperação de erro ao reproduzir desactivada.</string>
-    <string name="pref_key_old_playback_mode">Modo antigo de reprodução</string>
-    <string name="pref_key_old_playback_mode_on">Modo antigo de reprodução de som activado. Pode fazer com que, por vezes, os alertas de som deixem de ser reproduzidos em certos dispositivos.</string>
-    <string name="pref_key_old_playback_mode_off">Modo novo de reprodução mais confiável de som. Caso isto venha a apresentar problemas, utilize a opção "Reportar Problemas".</string>
     </resources>

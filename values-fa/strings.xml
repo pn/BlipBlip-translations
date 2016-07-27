@@ -194,10 +194,4 @@
     <string name="pref_low_volume_fix">"حجم صدای کم ثابت"</string>
     <string name="pref_low_volume_fix_on">"رفع حجم کم در برخی از دستگاه های موتورولا با افزایش قابلیت حجم. ممکن است پخش صدا توسط چند ثانیه به تاخیر بیافتد."</string>
     <string name="pref_low_volume_fix_off">"غیرفعال شد. برای اکثر دستگاه ها مورد نیاز نیست."</string>
-    <string name="pref_recover_playback_error">"بازیابی از اجرا خطا"</string>
-    <string name="pref_recover_playback_error_on">"بازیابی از خطای پخش را فعال کنید. ممکن است دوصدایی در برخی موارد تولید کند."</string>
-    <string name="pref_recover_playback_error_off">"بازیابی از خطای پخش غیر فعال"</string>
-    <string name="pref_key_old_playback_mode">"حالت پخش قدیمی"</string>
-    <string name="pref_key_old_playback_mode_on">"پخش صدا قدیمی را فعال کنید، صدا کار متوقف می شود گاهی اوقات در برخی از دستگاه."</string>
-    <string name="pref_key_old_playback_mode_off">"جدید، پخش صدا قابل اطمینان تر را فعال کنید. اگر مشکلات باعث استفاده از \"گزارش مشکل\" گزینه است."</string>
 </resources>

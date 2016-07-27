@@ -198,10 +198,4 @@ Se você precisa usar tais aplicativos, por favor, adicione Blip Blip na lista b
     <string name="pref_low_volume_fix">Correção de volume baixo</string>
     <string name="pref_low_volume_fix_on">Corrige o volume baixo em alguns dispositivos Motorola com recurso volume crescente. Pode atrasar a reprodução de som por alguns segundos.</string>
     <string name="pref_low_volume_fix_off">Desativado. Não é necessário para a maioria dos dispositivos.</string>
-    <string name="pref_recover_playback_error">Recuperação de erro de reprodução</string>
-    <string name="pref_recover_playback_error_on">Recuperação de erro de reprodução ativada. Pode reproduzir som duplo em alguns casos.</string>
-    <string name="pref_recover_playback_error_off">Recuperação de erro de reprodução desativada.</string>
-    <string name="pref_key_old_playback_mode">Modo antigo de reprodução</string>
-    <string name="pref_key_old_playback_mode_on">Modo antigo de reprodução de som ativado. Por vezes, em alguns dispositivos, o som pode deixar de funcionar.</string>
-    <string name="pref_key_old_playback_mode_off">Modo novo de reprodução de som mais confiável. Caso isto venha a apresentar problemas, utilize a opção "Reportar problema".</string>
     </resources>

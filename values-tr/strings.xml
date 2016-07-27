@@ -195,10 +195,4 @@
     <string name="pref_low_volume_fix">Düşük ses düzeltme</string>
     <string name="pref_low_volume_fix_on">Etkin. Bazı Motorola cihazlarında düşük ses sorununu çözer. Ses bir kaç saniye geç çalabilir.</string>
     <string name="pref_low_volume_fix_off">Devre dışı. Çoğu cihaz için lazım değil.</string>
-    <string name="pref_recover_playback_error">Ses çalma hatasını düzelt</string>
-    <string name="pref_recover_playback_error_on">Etkin. Bazen çift sese neden olabilir.</string>
-    <string name="pref_recover_playback_error_off">Devre dışı</string>
-    <string name="pref_key_old_playback_mode">Çalma modları</string>
-    <string name="pref_key_old_playback_mode_on">Eski çalma modu etkin. Bazı cihazlarda ses durdurulabilir.</string>
-    <string name="pref_key_old_playback_mode_off">Yeni çalma modu etkin (daha güvenilir). Sorun çıkardığında "Sorun bildir" seçeneğini kullan.</string>
 </resources>

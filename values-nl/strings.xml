@@ -195,10 +195,4 @@
     <string name="pref_low_volume_fix">Laag volume fix</string>
     <string name="pref_low_volume_fix_on">Lost het probleem op met lage volumes op sommige Motorola apparaten met een oplopende volume funtionaliteit. Dit kan een vertraging veroorzaken van een paar seconden.</string>
     <string name="pref_low_volume_fix_off">Uitgeschakend, niet nodig voor de meeste apparaten.</string>
-    <string name="pref_recover_playback_error">Herstel fout van afspelen</string>
-    <string name="pref_recover_playback_error_on">Herstel fout van afspelen is ingeschakeld. Dit kan dubbele geluiden produceren in sommige gevallen.</string>
-    <string name="pref_recover_playback_error_off">Herstel fout van afspelen is uitgeschakeld.</string>
-    <string name="pref_key_old_playback_mode">Oude afspeel modus</string>
-    <string name="pref_key_old_playback_mode_on">Oude afspeel modus ingeschakeld, het geluid kan soms stoppen met werken op sommige apparaten.</string>
-    <string name="pref_key_old_playback_mode_off">Nieuwe afspeel modus ingeschakeld,  betrouwbaarheid bij het afspelen van geluid is hoger. Als dit problemen veroorzaakt gebruik de &quot;Meld probleem&quot; optie.</string>
 </resources>

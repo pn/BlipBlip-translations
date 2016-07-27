@@ -195,10 +195,4 @@
     <string name="pref_low_volume_fix">Fix volume basso</string>
     <string name="pref_low_volume_fix_on">Risolve il problema del volume basso su alcuni dispositivi Motorola alzando ulteriormente il volume. Potrebbe ritardare la riproduzione dei suoni di qualche secondo.</string>
     <string name="pref_low_volume_fix_off">Disabilitato. Non necessario per la maggior parte dei dispositivi.</string>
-    <string name="pref_recover_playback_error">Recupero da errore di riproduzione</string>
-    <string name="pref_recover_playback_error_on">Recupero da errore di riproduzione abilitato. Potrebbe produrre un doppio suono in alcuni casi.</string>
-    <string name="pref_recover_playback_error_off">Recupero da errore di riproduzione disabilitato</string>
-    <string name="pref_key_old_playback_mode">Vecchia modalità riproduzione</string>
-    <string name="pref_key_old_playback_mode_on">Vecchia modalità riproduzione abilitata, la riproduzione dei suoni si interrompe qualche volta in alcuni dispositivi.</string>
-    <string name="pref_key_old_playback_mode_off">Nuovo, più affidabile riproduzione dei suoni abilitata. Se introduce problemi usa l\'opzione \"Segnala problema\".</string>
 </resources>

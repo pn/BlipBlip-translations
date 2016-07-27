@@ -195,10 +195,4 @@
 <string name="pref_low_volume_fix">Correction de volume faible</string>
 <string name="pref_low_volume_fix_on">Les corrections de volume sur certains appareils Motorola avec fonction augmentation de volume, peuvent retarder la lecture audio de quelques secondes.</string>
 <string name="pref_low_volume_fix_off">Désactivé. Inutile pour la plupart des périphériques.</string>
-<string name="pref_recover_playback_error">Récupérer de l\'erreur de lecture</string>
-<string name="pref_recover_playback_error_on">Récupération d\'erreur de lecture activé. Peut produire son en double dans certains cas.</string>
-<string name="pref_recover_playback_error_off">Récupération d\'erreur de lecture désactivé</string>
-<string name="pref_key_old_playback_mode">Ancien mode de lecture</string>
-<string name="pref_key_old_playback_mode_on">Ancien son de lecture activé, celui-ci risque de ne pas fonctionner quelquefois pas sur certains appareils.</string>
-<string name="pref_key_old_playback_mode_off">Nouveau, son de lecture plus fiable activé. Si vous rencontrez des problèmes, utilisez l\'option : \"Signaler un problème\".</string>
 </resources>
