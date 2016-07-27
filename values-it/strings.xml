@@ -195,4 +195,20 @@
     <string name="pref_low_volume_fix">Fix volume basso</string>
     <string name="pref_low_volume_fix_on">Risolve il problema del volume basso su alcuni dispositivi Motorola alzando ulteriormente il volume. Potrebbe ritardare la riproduzione dei suoni di qualche secondo.</string>
     <string name="pref_low_volume_fix_off">Disabilitato. Non necessario per la maggior parte dei dispositivi.</string>
+    <string name="pref_keep_service_title">Background service</string>
+    <string name="pref_keep_service_on">Keep background service always started in the background (may use more memory). If notification is persistent service becomes foreground.</string>
+    <string name="pref_keep_service_off">Start background service only when needed (may use less memory).</string>
+    <string name="pref_notification_status_on2">Show notification with next notification time</string>
+    <string name="pref_notification_status_off2">Disable notification</string>
+    <string name="pref_low_notification_priority_title">Low notification priority</string>
+    <string name="pref_low_notification_priority_on">Lowest notification priority. Notification should be hidden from status bar.</string>
+    <string name="pref_low_notification_priority_off">Normal notification priority.</string>
+    <string name="pref_dismissible_notification_title">Dismissible notification</string>
+    <string name="pref_dismissible_notification_on">Notification is dismissible.</string>
+    <string name="pref_dismissible_notification_off">Notification is persistent. If background service is enabled it becomes foreground.</string>
+    <string name="pref_vibrate_wear_title">Vibrate on Wear</string>
+    <string name="pref_vibrate_wear_on">If vibration is enabled vibrate also on connected Android Wear device</string>
+    <string name="pref_vibrate_wear_off">Do not vibrate on Android Wear</string>
+    <string name="notification_question_message2">Would you like to hide the notification? If you disable it you can enable it later in the settings.</string>
+    <string name="pref_notification_settings">Notification settings</string>
 </resources>

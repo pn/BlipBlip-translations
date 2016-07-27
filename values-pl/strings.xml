@@ -195,4 +195,20 @@
     <string name="pref_low_volume_fix">Naprawa głośności</string>
     <string name="pref_low_volume_fix_on">Naprawia niską głośność na niektórych urządzeniach Motoroli z funkcją zwiększania głośności. Może opóźnić dźwięk o kilka sekund.</string>
     <string name="pref_low_volume_fix_off">Wyłączona. Niepotrzebne na większości urządzeń.</string>
+    <string name="pref_keep_service_title">Usługa w tle</string>
+    <string name="pref_keep_service_on">Utrzymuj usługę w tle zawsze uruchomioną (może zużywać więcej pamięci). Jeśli powiadomienie jest stałe usługa staje się pierwszoplanową (foreground).</string>
+    <string name="pref_keep_service_off">Uruchom usługę w tle tylko kiedy jest to konieczne (może zużywać więcej pamięci).</string>
+    <string name="pref_notification_status_on2">Pokaż powiadomienie z czasem następnego powiadomienia</string>
+    <string name="pref_notification_status_off2">Nie pokazuj powiadomienia</string>
+    <string name="pref_low_notification_priority_title">Niski priorytet</string>
+    <string name="pref_low_notification_priority_on">Najniższy priorytet powiadomienia. Powiadomienie nie powinno być widoczne na pasku statusu.</string>
+    <string name="pref_low_notification_priority_off">Normalny priorytet powiadomienia.</string>
+    <string name="pref_dismissible_notification_title">Usuwalne powiadomienie</string>
+    <string name="pref_dismissible_notification_on">Powiadomienie można usunąć.</string>
+    <string name="pref_dismissible_notification_off">Powiadomienie jest stałe. Jeśli usługa w tle jest włączona staje się ona wtedy pierwszoplanową.</string>
+    <string name="pref_vibrate_wear_title">Wibruj na Wear</string>
+    <string name="pref_vibrate_wear_on">Jeśli wibracja jest włączona, wibruj również na połączonym urządzeniu Android Wear</string>
+    <string name="pref_vibrate_wear_off">Nie wibruj na urządzeniu Android Wear</string>
+    <string name="notification_question_message2">Czy chciałbyś ukryć powiadomienie? Jeśli jest teraz wyłączysz, możesz je ponownie włączyć później w ustawieniach.</string>
+    <string name="pref_notification_settings">Ustawienia powiadomień</string>
 </resources>
