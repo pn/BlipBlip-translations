@@ -159,8 +159,8 @@
     <string name="next_notification_wed">下次通知将在周三的 %1$s</string>
     <string name="next_notification_thu">下次通知将在周四的 %1$s</string>
     <string name="next_notification_fri">下次通知将在周五的 %1$s</string>
-    <string name="next_notification_sat">下次通知将在周六的 at %1$s</string>
-    <string name="next_notification_sun">下次通知将在周日的 at %1$s</string>
+    <string name="next_notification_sat">下次通知将在周六的 %1$s</string>
+    <string name="next_notification_sun">下次通知将在周日的 %1$s</string>
     <string name="next_notification_off">Off</string>
     <string name="next_notification_never">Conflicting settings.</string>
     <string name="warn_sound_disabled_silent_mode">BlipBlip notification sound disabled, because your device is in silent mode.</string>
