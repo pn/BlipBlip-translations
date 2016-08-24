@@ -221,4 +221,9 @@
     <string name="item_priority_normal">Normalny</string>
     <string name="item_priority_high">Wysoki</string>
     <string name="item_priority_maximum">Maksymalny</string>
+    <string name="pref_notification_title_title">Tytuł powiadomienia</string>
+    <string name="pref_notification_description_title">Opis powiadomienia</string>
+    <string name="pref_custom_texts">Niestandardowe teksty powiadomienia</string>
+    <string name="pref_custom_title">Niestandardowy tytuł</string>
+    <string name="pref_custom_description">Niestandardowy opis</string>
 </resources>
