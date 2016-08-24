@@ -212,4 +212,7 @@ Se encontrar outros problemas, por favor, nos informe por correio electrónico.<
     <string name="pref_vibrate_wear_off">Do not vibrate on Android Wear</string>
     <string name="notification_question_message2">Would you like to hide the notification? If you disable it you can enable it later in the settings.</string>
     <string name="pref_notification_settings">Notification settings</string>
+    <string name="pref_vibrate_on_main_device">Vibrate on main device</string> <!-- Translation note: "device" is used because it can be phone or tablet. Related with pref_vibrate_wear_title option. -->
+    <string name="pref_vibrate_on_main_device_on">Vibrate also on main device.</string> <!-- Similar as above, description of "on" state for the option. -->
+    <string name="pref_vibrate_on_main_device_off">May not vibrate on main device when \"Low notification priority\" option is enabled. May vibrate otherwise.</string> <!-- Description of "off" state for the option. "may" is used because it is not 100% certain right now. Value in double quotes must be same value of name="pref_low_notification_priority_title" -->
 </resources>
