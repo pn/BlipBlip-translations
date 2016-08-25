@@ -226,4 +226,6 @@
     <string name="pref_custom_texts">Niestandardowe teksty powiadomienia</string>
     <string name="pref_custom_title">Niestandardowy tytuł</string>
     <string name="pref_custom_description">Niestandardowy opis</string>
+    <string name="pref_random_title">Losowość</string>
+    <string name="pref_random_description">Ilość sekund o jakie może różnić się czas losowy od dokładnego</string>
 </resources>

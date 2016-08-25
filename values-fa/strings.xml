@@ -225,4 +225,6 @@
     <string name="pref_custom_texts">Custom notification texts</string>
     <string name="pref_custom_title">Custom title</string>
     <string name="pref_custom_description">Custom description</string>
+    <string name="pref_random_title">Randomness</string>
+    <string name="pref_random_description">Number of seconds random time may differ from exact time</string>
 </resources>
