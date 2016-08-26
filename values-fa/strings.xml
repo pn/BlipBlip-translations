@@ -227,4 +227,21 @@
     <string name="pref_custom_description">Custom description</string>
     <string name="pref_random_title">Randomness</string>
     <string name="pref_random_description">Number of seconds random time may differ from exact time</string>
+    <string name="pref_notification_action_buttons">Action buttons</string> <!-- Preference name for choosing which buttons are visible on notification -->
+    <string name="notif_action_play">Play</string> <!-- Description of action button. This should refer to notif_action_play -->
+    <string name="notif_action_play_desc">Play the notification (sound, vibration, etc.) same as from the app.</string>
+    <string name="notif_action_disable_or_enable">Enable/Disable</string> <!-- Description of action button. This refers to notif_action_enable and notif_action -->
+    <string name="notif_action_disable_or_enable_desc">Button for disabling or enabling notifications.</string>
+    <string name="notif_action_skip">Skip</string> <!-- this should refer to notif_button_skip -->
+    <string name="notif_action_skip_desc">Skips next notification.</string>
+    <string name="notif_action_snooze">Snooze</string> <!-- this should refer to notif_button_snooze -->
+    <string name="notif_action_snooze_desc">Snooze ringing alarm or upcoming notification.</string>
+    <string name="notif_action_dismiss">Dismiss</string> <!-- this should refer to notif_button_dismiss -->
+    <string name="notif_action_dismiss_desc">Dismiss ringing alarm.</string>
+    <string name="notif_button_play">Play</string> <!-- Action button label in notification having same action as play button in the app - plays the notificaton for testing purposes. This text should be short, because it will be shown on notification button where there can be 3 of them -->
+    <string name="notif_button_enable">Enable</string> <!-- This text should be short, because it will be shown on notification button where there can be 3 of them. -->
+    <string name="notif_button_disable">Disable</string> <!-- This text should be short, because it will be shown on notification button where there can be 3 of them. -->
+    <string name="notif_button_skip">Skip</string> <!-- This text should be short, because it will be shown on notification button where there can be 3 of them. -->
+    <string name="notif_button_snooze">Snooze</string> <!-- This text should be short, because it will be shown on notification button where there can be 3 of them. -->
+    <string name="notif_button_dismiss">Dismiss</string> <!-- This text should be short, because it will be shown on notification button where there can be 3 of them. -->
 </resources>
