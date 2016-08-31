@@ -245,4 +245,7 @@
     <string name="notif_button_skip">Pomiń</string> <!-- This text should be short, because it will be shown on notification button where there can be 3 of them. -->
     <string name="notif_button_snooze">Drzemka</string> <!-- This text should be short, because it will be shown on notification button where there can be 3 of them. -->
     <string name="notif_button_dismiss">Odwołaj</string> <!-- This text should be short, because it will be shown on notification button where there can be 3 of them. -->
+    <string name="pref_notification_always">Zawsze wyświetlaj</string> <!-- option to always show notification -->
+    <string name="pref_notification_always_on">Wyświetlaj powiadomienie niezależnie od tego czy jest włączone</string>
+    <string name="pref_notification_always_off">Wyświetlaj powiadomienie tylko wtedy kiedy jest włączone</string>
 </resources>

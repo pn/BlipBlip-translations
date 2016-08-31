@@ -248,4 +248,7 @@ Se você precisa usar tais aplicativos, por favor, adicione Blip Blip na lista b
     <string name="notif_button_skip">Skip</string> <!-- This text should be short, because it will be shown on notification button where there can be 3 of them. -->
     <string name="notif_button_snooze">Snooze</string> <!-- This text should be short, because it will be shown on notification button where there can be 3 of them. -->
     <string name="notif_button_dismiss">Dismiss</string> <!-- This text should be short, because it will be shown on notification button where there can be 3 of them. -->
+    <string name="pref_notification_always">Always display</string> <!-- option to always show notification -->
+    <string name="pref_notification_always_on">Display notification regardless if it is enabled</string>
+    <string name="pref_notification_always_off">Display notification only if it is enabled</string>
 </resources>
