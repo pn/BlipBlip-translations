@@ -115,7 +115,7 @@
     <string name="toast_change_quiet_days">Por favor cambia el ajuste de \"Silent days\" para hacer que BlipBlip te notifique hoy.</string>
     <string name="notification_question_title">¿Mostrar en la barra de notificiones?</string>
     <string name="notification_question_message">Al ser mostrado en la barra de notificaciones se asegura que la aplicación funcionará sin interruciones. Si ocultas la notificación, la aplicación podría ser detenida más tarde por el sistema sin notificarle. Si cambia esto luego en la Configuración.</string><!-- not used anymore-->
-    <sting name="dont_show_again">No preguntar de nuevo</string>
+    <string name="dont_show_again">No preguntar de nuevo</string>
     <string name="display_notification">Mostrar</string>
     <string name="hide_notification">Ocultar</string>
     <string name="repeat_every">Repetir cada</string>
@@ -125,7 +125,7 @@
     <string name="allow_while_idle_on">Permitir con batería baja energía el modo (dormido/desocupado). Puede que no siempren funcionen con frecuencias más cortas que 15 minutos. La configuración puede afectar ligeramente el consumo de la batería.</string>
     <string name="beta_preference_title">BlipBlip Beta</string>
     <string name="beta_preference_description">Activar o desactivar la versión Beta</string>
-    <string name="pref_silent_mode"Modo silencioso</string>
+    <string name="pref_silent_mode">Modo silencioso</string>
     <string name="pref_vibrate_mode">Modo vibrar</string>
     <string name="title_silent_mode_settings">Configuración del Modo silencioso</string>
     <string name="title_vibrate_mode_settings">Configuración del Modo vibrar</string>
@@ -196,7 +196,7 @@
     <string name="pref_low_volume_fix_on">Soluciona el problema de bajo volumen en alguno dispositivos marca Motorola con la característica de volumen ascendente. Puede retrasar la reproducción del sonido unos segundos.</string>
     <string name="pref_low_volume_fix_off">Desactivado. No requerido para más dispositivos.</string>
     <string name="pref_keep_service_title">Servicio en segundo plano</string>
-    <string name="pref_keep_service_on"Mantener siempre en segundo plano el servicio iniciado en este modo (puede consumir más memoria). Si la notificación es persistente el servicio pasa a primer plano.</string>
+    <string name="pref_keep_service_on">Mantener siempre en segundo plano el servicio iniciado en este modo (puede consumir más memoria). Si la notificación es persistente el servicio pasa a primer plano.</string>
     <string name="pref_keep_service_off">Iniciar servicio en segundo plano sólo cuando sea requerido (puede consumir menos memoria).</string>
     <string name="pref_notification_status_on2">Mostra notificación la próxima ocasión</string>
     <string name="pref_notification_status_off2">Desactivar notificación</string>
