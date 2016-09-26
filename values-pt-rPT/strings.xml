@@ -249,4 +249,5 @@ Se encontrar outros problemas, por favor, nos informe por correio electrónico.<
     <string name="pref_notification_always">Always display</string> <!-- option to always show notification -->
     <string name="pref_notification_always_on">Display notification regardless if it is enabled</string>
     <string name="pref_notification_always_off">Display notification only if it is enabled</string>
+    <string name="pref_reliability">Reliability settings</string>
 </resources>
