@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="action_settings">Beállítások</string>
-    <string name="play_sound_periodically">Ismétlődő értesítések</string>
     <string name="vibrate">Vibrálás</string>
-    <string name="test">Teszt</string>
-    <string name="off">Ki</string>
-    <string name="on">Be</string>
     <string name="text_seek_volume">Hangerő</string>
     <string name="pref_choose_audio_stream">Hangátvitel</string>
-    <string name="period_text">Periódus</string>
     <string name="sound_text">Hang</string>
     <string name="set">Beállít</string>
     <string name="cancel">Mégse</string>
@@ -88,10 +83,7 @@
     <string name="share_title">Nézze meg a BlipBlip alkalmazást!</string>
     <string name="share_text">Nézze meg a BlipBlip android alkalmazást!</string>
     <string name="share_chooser_title">Ossza meg az alkalmazást!</string>
-    <string name="notification_status_title">A BlipBlip aktív</string>
     <string name="pref_notification_status_title">Értesítések megjelenítése</string>
-    <string name="pref_notification_status_on">Értesítések megjelenítése az alkalmazás futása alatt, hogy megelőzzük az operációs rendszer általi leállítást</string>
-    <string name="pref_notification_status_off">Értesítések elrejtése - nagyobb esély, hogy az operációs rendszer leállítja az alkalmazást</string>
     <string name="rate_us_title">Értékeljen minket!</string>
     <string name="rate_us_message">Köszönjük, hogy időt szánt az alkalmazás értékelésére.</string>
     <string name="rate_us_fivestars">5 csillag!</string>
@@ -99,9 +91,6 @@
     <string name="feedback_improvement_title">A BlipBlip fejlesztést igényel</string>
     <string name="feedback_improvement_message">Kérjük, hogy mondja el, hogyan tehetnénk az Ön számára még jobbá az alkalmazást.</string>
     <string name="feedback_dialog_bug_found">Hibát találtam (napló csatolása)</string>
-    <string name="audio_stream_change_title">A BlipBlip hangátvitel megváltozott</string>
-    <string name="audio_stream_change_message">Kérjük, erősítse meg az értesítés hangerejét</string>
-    <string name="play_sound_switch">Hang lejátszása</string>
     <string name="service_disabled_warning">A BlipBlip letiltva</string>
     <string name="service_enable">Engedélyezés</string>
     <string name="vibration_blipblip">BlipBlip-hez</string>
@@ -114,7 +103,6 @@
     <string name="change_setting">Módosítás</string>
     <string name="toast_change_quiet_days">Kérjük módosítsa a \"Csendes napok\" beállítást, hogy a BlipBlip működjön ma.</string>
     <string name="notification_question_title">Megjelenítse az értesítést?</string>
-    <string name="notification_question_message">Az értesítés megjelenítése biztosítja, hogy az alkalmazás megszakítás nélkül fusson. Ha elrejti az értesítést, az alkalmazást később a rendszer értesítés nélkül leállíthatja. Ha letiltja a beállítást, később engedélyezheti a Haladó beállításokban.</string>
     <string name="dont_show_again">Ne kérdezze meg újra</string>
     <string name="display_notification">Megjelenítés</string>
     <string name="hide_notification">Elrejtés</string>
@@ -198,11 +186,6 @@
     <string name="pref_keep_service_title">Háttér szolgáltatás</string>
     <string name="pref_keep_service_on">A háttér szolgáltatást mindig indítsa el a háttérben (több memóriát igényelhet). Ha az értesítés tartós, a szolgáltatás előtérbe kerül.</string>
     <string name="pref_keep_service_off">Csak akkor indítsa el a háttér szolgáltatást, amikor szükséges (kevesebb memóriát igényelhet).</string>
-    <string name="pref_notification_status_on2">Mutassa az értesítéseket a következő érteítés időpontjával</string>
-    <string name="pref_notification_status_off2">Értesítés letiltása</string>
-    <string name="pref_low_notification_priority_title">Alacsony értesítés priorítás</string>
-    <string name="pref_low_notification_priority_on">Legalacsonyabb értesítés prioritás. Az értesítésekelrejtendőek az állapotsorról.</string>
-    <string name="pref_low_notification_priority_off">Normál értesítés priorítás.</string>
     <string name="pref_dismissible_notification_title">Elmozdítható értesítés</string>
     <string name="pref_dismissible_notification_on">Az értesítés elmozdítható.</string>
     <string name="pref_dismissible_notification_off">Az értesítés tartós. Ha a háttér szolgáltatás engedélyezett, előtérbe kerül.</string>

@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="action_settings">设置</string>
-    <string name="play_sound_periodically">Periodic notifications</string>
     <string name="vibrate">振动</string>
-    <string name="test">测试</string>
-    <string name="off">关闭</string>
-    <string name="on">打开</string>
     <string name="text_seek_volume">音量</string>
     <string name="pref_choose_audio_stream">音频流</string>
-    <string name="period_text">Period</string>
     <string name="sound_text">音效</string>
     <string name="set">确定</string>
     <string name="cancel">取消</string>
@@ -88,10 +83,7 @@
     <string name="share_title">Check out BlipBlip hourly chime app!</string>
     <string name="share_text">Check out BlipBlip hourly chime android app</string>
     <string name="share_chooser_title">分享该应用!</string>
-    <string name="notification_status_title">BlipBlip 已激活</string>
     <string name="pref_notification_status_title">显示通知</string>
-    <string name="pref_notification_status_on">显示通知来防止被系统关闭服务</string>
-    <string name="pref_notification_status_off">OS：隐藏通知（很可能会被系统关闭服务）</string>
     <string name="rate_us_title">Rate Us!</string>
     <string name="rate_us_message">感谢您抽时间给我评价</string>
     <string name="rate_us_fivestars">5 星!</string>
@@ -99,9 +91,6 @@
     <string name="feedback_improvement_title">BlipBlip 需要改进</string>
     <string name="feedback_improvement_message">请务必告诉我们如何做出一个让您喜欢的应用程序。</string>
     <string name="feedback_dialog_bug_found">我发现了一个漏洞(附上日志)</string>
-    <string name="audio_stream_change_title">智能调控 BlipBlip 音量</string>
-    <string name="audio_stream_change_message">请测试通知音量</string>
-    <string name="play_sound_switch">Play sound</string>
     <string name="service_disabled_warning">BlipBlip正被禁用</string>
     <string name="service_enable">启用</string>
     <string name="vibration_blipblip">For BlipBlip</string>
@@ -114,7 +103,6 @@
     <string name="change_setting">修改</string>
     <string name="toast_change_quiet_days">请修改 \"免打扰时段\" 中的设置来确保BlipBlip在今天能通知您。</string>
     <string name="notification_question_title">Display notification?</string>
-    <string name="notification_question_message">Displaying notification ensures the app will be running without interruptions. If you hide the notification, the app may be later stopped by the system without notifying you. If you disable it you can enable it later in Advanced settings.</string>
     <string name="dont_show_again">朕知道了</string>
     <string name="display_notification">显示</string>
     <string name="hide_notification">隐藏</string>
@@ -198,11 +186,6 @@
     <string name="pref_keep_service_title">Background service</string>
     <string name="pref_keep_service_on">Keep background service always started in the background (may use more memory). If notification is persistent service becomes foreground.</string>
     <string name="pref_keep_service_off">Start background service only when needed (may use less memory).</string>
-    <string name="pref_notification_status_on2">Show notification with next notification time</string>
-    <string name="pref_notification_status_off2">Disable notification</string>
-    <string name="pref_low_notification_priority_title">Low notification priority</string>
-    <string name="pref_low_notification_priority_on">Lowest notification priority. Notification should be hidden from status bar.</string>
-    <string name="pref_low_notification_priority_off">Normal notification priority.</string>
     <string name="pref_dismissible_notification_title">Dismissible notification</string>
     <string name="pref_dismissible_notification_on">Notification is dismissible.</string>
     <string name="pref_dismissible_notification_off">Notification is persistent. If background service is enabled it becomes foreground.</string>

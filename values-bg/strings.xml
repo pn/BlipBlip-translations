@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="action_settings">Настройки</string>
-    <string name="play_sound_periodically">Многократно известяване</string>
     <string name="vibrate">Вибриране</string>
-    <string name="test">Проба</string>
-    <string name="off">Изкл</string>
-    <string name="on">Вкл</string>
     <string name="text_seek_volume">Сила на звука</string>
     <string name="pref_choose_audio_stream">Вид звуково известяване</string>
-    <string name="period_text">Интервал</string>
     <string name="sound_text">Мелодия</string>
     <string name="set">Задай</string>
     <string name="cancel">Отказ</string>
@@ -88,10 +83,7 @@
     <string name="share_title">Пробвайте приложението BlipBlip hourly chime!</string>
     <string name="share_text">Пробвайте приложението BlipBlip hourly chime за андроид</string>
     <string name="share_chooser_title">Споделете приложението!</string>
-    <string name="notification_status_title">BlipBlip е включен</string>
     <string name="pref_notification_status_title">Показване на известието</string>
-    <string name="pref_notification_status_on">Показване на известието, за да се предотврати изключване от андроид</string>
-    <string name="pref_notification_status_off">Скриване на известието - твърде вероятно е приложението да бъде изключено от андроид</string>
     <string name="rate_us_title">Оценете ни!</string>
     <string name="rate_us_message">Благодарим Ви за отделеното време.</string>
     <string name="rate_us_fivestars">5 звезди!</string>
@@ -99,9 +91,6 @@
     <string name="feedback_improvement_title">BlipBlip се нуждае от подобрения</string>
     <string name="feedback_improvement_message">Моля, кажете ни какво можем да подобрим, за да сте доволни от приложението.</string>
     <string name="feedback_dialog_bug_found">Открих нередност (добавям записани данни)</string>
-    <string name="audio_stream_change_title">Звуковият поток на BlipBlip бе променен</string>
-    <string name="audio_stream_change_message">Моля, потвърдете силата на звука при известяване</string>
-    <string name="play_sound_switch">Свири звук</string>
     <string name="service_disabled_warning">BlipBlip е изключен</string>
     <string name="service_enable">Включване</string>
     <string name="vibration_blipblip">За BlipBlip</string>
@@ -114,7 +103,6 @@
     <string name="change_setting">Промяна</string>
     <string name="toast_change_quiet_days">Моля, променете настройката за \"Тихи дни\", за да използвате BlipBlip днес.</string>
     <string name="notification_question_title">Показване на известие?</string>
-    <string name="notification_question_message">Показването на известие спомага за гладката работа на приложението. Ако скриете известието, по някое време приложението може да бъде спряно от системата без да ви предупреди. Ако го забраните, може да го разрешите по-късно в допълнителните настройки.</string>
     <string name="dont_show_again">Не питай отново</string>
     <string name="display_notification">Показване</string>
     <string name="hide_notification">Скриване</string>
@@ -198,11 +186,6 @@
     <string name="pref_keep_service_title">Background service</string>
     <string name="pref_keep_service_on">Keep background service always started in the background (may use more memory). If notification is persistent service becomes foreground.</string>
     <string name="pref_keep_service_off">Start background service only when needed (may use less memory).</string>
-    <string name="pref_notification_status_on2">Show notification with next notification time</string>
-    <string name="pref_notification_status_off2">Disable notification</string>
-    <string name="pref_low_notification_priority_title">Low notification priority</string>
-    <string name="pref_low_notification_priority_on">Lowest notification priority. Notification should be hidden from status bar.</string>
-    <string name="pref_low_notification_priority_off">Normal notification priority.</string>
     <string name="pref_dismissible_notification_title">Dismissible notification</string>
     <string name="pref_dismissible_notification_on">Notification is dismissible.</string>
     <string name="pref_dismissible_notification_off">Notification is persistent. If background service is enabled it becomes foreground.</string>

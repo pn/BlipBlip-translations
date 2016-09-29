@@ -1,13 +1,8 @@
 <resources>
     <string name="action_settings">"تنظیمات"</string>
-    <string name="play_sound_periodically">"اطلاعیه های دوره"</string>
     <string name="vibrate">"ویبره"</string>
-    <string name="test">"آزمودن"</string>
-    <string name="off">"غیرفعال"</string>
-    <string name="on">"فعال"</string>
     <string name="text_seek_volume">"حجم صدا"</string>
     <string name="pref_choose_audio_stream">"جریان های صوتی"</string>
-    <string name="period_text">"دوره زمانی"</string>
     <string name="sound_text">"صدا"</string>
     <string name="set">"تنظیم"</string>
     <string name="cancel">"انصراف"</string>
@@ -87,10 +82,7 @@
     <string name="share_title">"بررسی بلیپ بلیپ برنامه ساعت سنج!"</string>
     <string name="share_text">"بررسی بلیپ بلیپ برنامه اندرویدی ساعت سنج!"</string>
     <string name="share_chooser_title">"به اشتراک گذاشتن برنامه!"</string>
-    <string name="notification_status_title">"بلیپ بلیپ فعال است"</string>
     <string name="pref_notification_status_title">"نمایش نوتیفیکیشن ها"</string>
-    <string name="pref_notification_status_on">"نمایش اعلان ها هنگامی که برنامه در حال اجرا توسط سیستم عامل از اجرا نگه داشته میشود"</string>
-    <string name="pref_notification_status_off">"مخفی کردن اعلان ها"</string>
     <string name="rate_us_title">"به ما رای دهید!"</string>
     <string name="rate_us_message">"ازشما بخاطر ثبت نظر متشکریم."</string>
     <string name="rate_us_fivestars">"5 ستاره"</string>
@@ -98,9 +90,6 @@
     <string name="feedback_improvement_title">"بلیپ بلیپ نیاز به بهبود دارد"</string>
     <string name="feedback_improvement_message">"لطفا به ما بگویید چه چیزی می تواند به بهبود نرم افزار کمک کرده و شما را راضی کند."</string>
     <string name="feedback_dialog_bug_found">"من یک مشکل پیدا کردم (گزارشها را پیوست کنید)"</string>
-    <string name="audio_stream_change_title">"بلیپ بلیپ جریان صوتی را تغییر داد"</string>
-    <string name="audio_stream_change_message">"حجم صدای اعلان را لطفا بررسی کنید"</string>
-    <string name="play_sound_switch">"پخش صوت"</string>
     <string name="service_disabled_warning">"بلیپ بلیپ غیر فعال است"</string>
     <string name="service_enable">"فعال"</string>
     <string name="vibration_blipblip">"برای بلیپ بلیپ"</string>
@@ -113,7 +102,6 @@
     <string name="change_setting">"تغییر"</string>
     <string name="toast_change_quiet_days">"لطفا تنظیمات \"روز بیصدا\" را تغییر دهید تا بلیپ بلیپ امروز کار کند"</string>
     <string name="notification_question_title">"نمایش نوتیفیکیشن؟"</string>
-    <string name="notification_question_message">"نمایش اطلاع رسانی تضمین نمیکند که این برنامه بدون وقفه اجرا خواهد شد. اگر اعلان ها پنهان شوند، برنامه ممکن است بعدا توسط سیستم بدون اطلاع شما متوقف شود. اگر شما آن را غیر فعال کنید می توانید آن را بعدا در تنظیمات پیشرفته فعال کنید."</string>
     <string name="dont_show_again">"دوباره نپرس"</string>
     <string name="display_notification">"نمایش"</string>
     <string name="hide_notification">"مخفی کردن"</string>
@@ -197,11 +185,6 @@
     <string name="pref_keep_service_title">Background service</string>
     <string name="pref_keep_service_on">Keep background service always started in the background (may use more memory). If notification is persistent service becomes foreground.</string>
     <string name="pref_keep_service_off">Start background service only when needed (may use less memory).</string>
-    <string name="pref_notification_status_on2">Show notification with next notification time</string>
-    <string name="pref_notification_status_off2">Disable notification</string>
-    <string name="pref_low_notification_priority_title">Low notification priority</string>
-    <string name="pref_low_notification_priority_on">Lowest notification priority. Notification should be hidden from status bar.</string>
-    <string name="pref_low_notification_priority_off">Normal notification priority.</string>
     <string name="pref_dismissible_notification_title">Dismissible notification</string>
     <string name="pref_dismissible_notification_on">Notification is dismissible.</string>
     <string name="pref_dismissible_notification_off">Notification is persistent. If background service is enabled it becomes foreground.</string>

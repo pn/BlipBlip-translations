@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="action_settings">Ayarlar</string>
-    <string name="play_sound_periodically">Periyodik bildirimler</string>
     <string name="vibrate">Titreşim</string>
-    <string name="test">Deneme</string>
-    <string name="off">Kapalı</string>
-    <string name="on">Açık</string>
     <string name="text_seek_volume">Ses seviyesi</string>
     <string name="pref_choose_audio_stream">Ses akışı</string>
-    <string name="period_text">Dönem</string>
     <string name="sound_text">Ses</string>
     <string name="set">Ayarla</string>
     <string name="cancel">İptal</string>
@@ -88,10 +83,7 @@
     <string name="share_title">BliBlip saatlik bildirim uygulamasına göz at.</string>
     <string name="share_text">Android için BlipBlip saatlik bildirim uygulamasına göz at.</string>
     <string name="share_chooser_title">Bu uygulamayı paylaş</string>
-    <string name="notification_status_title">BlipBlip etkin</string>
     <string name="pref_notification_status_title">Ekran bildirimleri</string>
-    <string name="pref_notification_status_on">Durum çubuğunda bildirim gösterilecek. Böylece uygulama sistemden kapatılmaz.</string>
-    <string name="pref_notification_status_off">Bildirim saklı - uygulama belki kapatılabilir</string>
     <string name="rate_us_title">Bizi değerlendir.</string>
     <string name="rate_us_message">Lütfen bizi değerlendir. Teşekkürler.</string>
     <string name="rate_us_fivestars">Beş yıldız!</string>
@@ -99,9 +91,6 @@
     <string name="feedback_improvement_title">BlipBlip\'in düzenlenmesi gerekiyor</string>
     <string name="feedback_improvement_message">Lütfen bize neyin düzenleneceğini söyle, senin için uygulamayı daha iyi yapalım.</string>
     <string name="feedback_dialog_bug_found">Bir hata buldum (günlükleri ekle)</string>
-    <string name="audio_stream_change_title">BlipBlip ses akışı değiştirildi</string>
-    <string name="audio_stream_change_message">Lütfen bildirim ses seviyesini kontrol et</string>
-    <string name="play_sound_switch">Sesi çal</string>
     <string name="service_disabled_warning">BlipBlip devre dışı bırakıldı</string>
     <string name="service_enable">Etkin</string>
     <string name="vibration_blipblip">BlipBlip</string>
@@ -114,7 +103,6 @@
     <string name="change_setting">Değiştir</string>
     <string name="toast_change_quiet_days">Lütfen BlipBlip\'i bugün çalıştırmak için \"Sessiz zaman\" ayarını değiştir.</string>
     <string name="notification_question_title">Ekran bildirimi</string>
-    <string name="notification_question_message">Bildirim etkin olduğunda uygulamanın sistemden kapatılmaması sağlancaktır. Bildirimi sakladığında uygulama belki sistemden aniden durdurulabilir. Eğer şimdi devre dışı bırakırsan, sonra gelişmiş ayarlarda tekrar etkinleştirebilirsin.</string>
     <string name="dont_show_again">Bir daha gösterme</string>
     <string name="display_notification">Göster</string>
     <string name="hide_notification">Sakla</string>
@@ -198,11 +186,6 @@
     <string name="pref_keep_service_title">Background service</string>
     <string name="pref_keep_service_on">Keep background service always started in the background (may use more memory). If notification is persistent service becomes foreground.</string>
     <string name="pref_keep_service_off">Start background service only when needed (may use less memory).</string>
-    <string name="pref_notification_status_on2">Show notification with next notification time</string>
-    <string name="pref_notification_status_off2">Disable notification</string>
-    <string name="pref_low_notification_priority_title">Low notification priority</string>
-    <string name="pref_low_notification_priority_on">Lowest notification priority. Notification should be hidden from status bar.</string>
-    <string name="pref_low_notification_priority_off">Normal notification priority.</string>
     <string name="pref_dismissible_notification_title">Dismissible notification</string>
     <string name="pref_dismissible_notification_on">Notification is dismissible.</string>
     <string name="pref_dismissible_notification_off">Notification is persistent. If background service is enabled it becomes foreground.</string>

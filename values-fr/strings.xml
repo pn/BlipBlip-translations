@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="action_settings">Paramètres</string>
-    <string name="play_sound_periodically">Notifications périodiques</string>
     <string name="vibrate">Vibration</string>
-    <string name="test">Test</string>
-    <string name="off">Allumé</string>
-    <string name="on">Eteint</string>
     <string name="text_seek_volume">Volume</string>
     <string name="pref_choose_audio_stream">Flux audio</string>
-    <string name="period_text">Période</string>
     <string name="sound_text">Son</string>
     <string name="set">Appliquer</string>
     <string name="cancel">Annuler</string>
@@ -88,10 +83,7 @@
     <string name="share_title">Vérifier l\'application BlipBlip Carillon horaire !</string>
     <string name="share_text">Vérifier l\'application BlipBlip Carillon horaire sur Android!</string>
     <string name="share_chooser_title">Partager cette application !</string>
-    <string name="notification_status_title">BlipBlip est actif</string>
     <string name="pref_notification_status_title">Afficher les notifications</string>
-    <string name="pref_notification_status_on">Afficher les notifications lorsque l\'application fonctionne pour empêcher sa fermeture par le système d\'exploitation</string>
-    <string name="pref_notification_status_off">Masquer les notifications lorsque l\'application fonctionne - plus de possibilités de sa fermeture par le systÃ¨me d\'exploitation</string>
     <string name="rate_us_title">Voter pour nous !</string>
     <string name="rate_us_message">Merci pour le temps que vous avez pris pour noter cette application.</string>
     <string name="rate_us_fivestars">5 étoiles!</string>
@@ -99,9 +91,6 @@
     <string name="feedback_improvement_title">BlipBlip doit être amélioré</string>
     <string name="feedback_improvement_message">Merci de nous communiquer ce que nous devrions améliorer pour cette application vous donne entière satisfaction.</string>
     <string name="feedback_dialog_bug_found">J\'ai trouvé un Bug (journal attaché)</string>
-    <string name="audio_stream_change_title">Flux audio BlipBlip changé</string>
-    <string name="audio_stream_change_message">Veuillez vérifier le volume de la notification</string>
-    <string name="play_sound_switch">Jouer le son</string>
     <string name="service_disabled_warning">BlipBlip est désactivé</string>
     <string name="service_enable">Activer</string>
     <string name="vibration_blipblip">Pour BlipBlip</string>
@@ -114,7 +103,6 @@
     <string name="change_setting">Changer</string>
     <string name="toast_change_quiet_days">Merci de modifier la configuration du \"jour de silence\" pour faire fonctionner BlipBlip aujourd\'hui.</string>
     <string name="notification_question_title">Afficher la notification ?</string>
-    <string name="notification_question_message">L\'affichage de la notification garantit que l\'application sera en cours d\'exécution sans interruptions. Si vous masquez la notification, l\'application peut être arrêtée plus tard par le système sans vous avertir. Si vous la désactivez, vous pouvez l\'activer ultérieurement dans les paramètres .</string>
     <string name="dont_show_again">Ne plus me demander</string>
     <string name="display_notification">Afficher</string>
     <string name="hide_notification">Cacher</string>
@@ -198,11 +186,6 @@
     <string name="pref_keep_service_title">Background service</string>
     <string name="pref_keep_service_on">Keep background service always started in the background (may use more memory). If notification is persistent service becomes foreground.</string>
     <string name="pref_keep_service_off">Start background service only when needed (may use less memory).</string>
-    <string name="pref_notification_status_on2">Show notification with next notification time</string>
-    <string name="pref_notification_status_off2">Disable notification</string>
-    <string name="pref_low_notification_priority_title">Low notification priority</string>
-    <string name="pref_low_notification_priority_on">Lowest notification priority. Notification should be hidden from status bar.</string>
-    <string name="pref_low_notification_priority_off">Normal notification priority.</string>
     <string name="pref_dismissible_notification_title">Dismissible notification</string>
     <string name="pref_dismissible_notification_on">Notification is dismissible.</string>
     <string name="pref_dismissible_notification_off">Notification is persistent. If background service is enabled it becomes foreground.</string>

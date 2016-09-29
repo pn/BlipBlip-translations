@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="action_settings">Настройки</string>
-    <string name="play_sound_periodically">Периодические уведомления</string>
     <string name="vibrate">Вибрация</string>
-    <string name="test">Тест</string>
-    <string name="off">Отключено</string>
-    <string name="on">Включено</string>
     <string name="text_seek_volume">Громкость</string>
     <string name="pref_choose_audio_stream">Аудио поток</string>
-    <string name="period_text">Период</string>
     <string name="sound_text">Звук</string>
     <string name="set">Установить</string>
     <string name="cancel">Отмена</string>
@@ -88,10 +83,7 @@
     <string name="share_title">Попробуй BlipBlip для уведомления каждый час!</string>
     <string name="share_text">Попробуй BlipBlip для уведомления каждый час для Андроид</string>
     <string name="share_chooser_title">Поделиться приложением!</string>
-    <string name="notification_status_title">BlipBlip работает</string>
     <string name="pref_notification_status_title">Показ в статусной строке</string>
-    <string name="pref_notification_status_on">Ниже вероятность закрытия приложения системой</string>
-    <string name="pref_notification_status_off">Выше вероятность закрытия приложения системой</string>
     <string name="rate_us_title">Оценить нас!</string>
     <string name="rate_us_message">Спасибо за отзыв о приложении.</string>
     <string name="rate_us_fivestars">5 звёзд!</string>
@@ -99,9 +91,6 @@
     <string name="feedback_improvement_title">BlipBlip требует улучшения</string>
     <string name="feedback_improvement_message">Сообщите, как можно улучшить приложение.</string>
     <string name="feedback_dialog_bug_found">Приложить журнал отладки (логи)</string>
-    <string name="audio_stream_change_title">BlipBlip аудио поток изменён</string>
-    <string name="audio_stream_change_message">Проверьте громкость уведомлений</string>
-    <string name="play_sound_switch">Играть звук</string>
     <string name="service_disabled_warning">BlipBlip отключен</string>
     <string name="service_enable">Включить</string>
     <string name="vibration_blipblip">Для BlipBlip</string>
@@ -114,7 +103,6 @@
     <string name="change_setting">Изменить</string>
     <string name="toast_change_quiet_days">Отмените Тихий день, чтобы BlipBlip работал сегодня.</string>
     <string name="notification_question_title">Показывать уведомления?</string>
-    <string name="notification_question_message">Показ уведомлений гарантирует работу приложения без прерываний. Если уведомления будут скрыты, приложение может быть закрыто системой без уведомления. Если уведомления отключены, их можно включить в Продвинутых настройках.</string>
     <string name="dont_show_again">Больше не спрашивать</string>
     <string name="display_notification">Показывать</string>
     <string name="hide_notification">Скрыть</string>
@@ -198,11 +186,6 @@
     <string name="pref_keep_service_title">Background service</string>
     <string name="pref_keep_service_on">Keep background service always started in the background (may use more memory). If notification is persistent service becomes foreground.</string>
     <string name="pref_keep_service_off">Start background service only when needed (may use less memory).</string>
-    <string name="pref_notification_status_on2">Show notification with next notification time</string>
-    <string name="pref_notification_status_off2">Disable notification</string>
-    <string name="pref_low_notification_priority_title">Low notification priority</string>
-    <string name="pref_low_notification_priority_on">Lowest notification priority. Notification should be hidden from status bar.</string>
-    <string name="pref_low_notification_priority_off">Normal notification priority.</string>
     <string name="pref_dismissible_notification_title">Dismissible notification</string>
     <string name="pref_dismissible_notification_on">Notification is dismissible.</string>
     <string name="pref_dismissible_notification_off">Notification is persistent. If background service is enabled it becomes foreground.</string>

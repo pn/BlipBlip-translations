@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="action_settings">Ustawienia</string>
-    <string name="play_sound_periodically">Okresowe powiadomienia</string>
     <string name="vibrate">Wibracja</string>
-    <string name="test">Testuj</string>
-    <string name="off">Wyłączone</string>
-    <string name="on">Włączone</string>
     <string name="text_seek_volume">Głośność</string>
     <string name="pref_choose_audio_stream">Strumień dźwięku</string>
-    <string name="period_text">Okres</string>
     <string name="sound_text">Dźwięk</string>
     <string name="set">Ustaw</string>
     <string name="cancel">Anuluj</string>
@@ -88,10 +83,7 @@
     <string name="share_title">Sprawdź aplikację BlipBlip!</string>
     <string name="share_text">Wypróbuj aplikację BlipBlip (powiadomienie o pełnej godzinie) na androida</string>
     <string name="share_chooser_title">Prześlij aplikację!</string>
-    <string name="notification_status_title">BlipBlip jest aktywny</string>
     <string name="pref_notification_status_title">Wyświetl powiadomienie</string>
-    <string name="pref_notification_status_on">Wyświetl powiadomienie kiedy aplikacja działa, żeby zapobiec zabiciu jej przez system</string>
-    <string name="pref_notification_status_off">Ukryj powiadomienie - zwiększa ryzyko zabicia aplikacji przez system</string>
     <string name="rate_us_title">Wystaw ocenę!</string>
     <string name="rate_us_message">Dziękuję za poświęcony czas na ocenę aplikacji.</string>
     <string name="rate_us_fivestars">5 gwiazdek!</string>
@@ -99,9 +91,6 @@
     <string name="feedback_improvement_title">BlipBlip można usprawnić</string>
     <string name="feedback_improvement_message">Proszę napisz co moglibyśmy usprawnić, żebyś był(a) zadowolony(a) z aplikacji.</string>
     <string name="feedback_dialog_bug_found">Znalazłem błąd (załącz logi)</string>
-    <string name="audio_stream_change_title">BlipBlip - zmieniono strumień dźwięku</string>
-    <string name="audio_stream_change_message">Proszę zweryfikować głośność powiadomień</string>
-    <string name="play_sound_switch">Odtwarzanie dźwięku</string>
     <string name="service_disabled_warning">BlipBlip jest wyłączony</string>
     <string name="service_enable">Włącz</string>
     <string name="vibration_blipblip">Dla BlipBlip</string>
@@ -114,7 +103,6 @@
     <string name="change_setting">Zmień</string>
     <string name="toast_change_quiet_days">Proszę zmień ustawienie \"Ciche dni\", żeby BlipBlip mógł dzisiaj działać .</string>
     <string name="notification_question_title">Wyświetlać powiadomienie?</string>
-    <string name="notification_question_message">Wyświetlanie powiadomienia zapewnia, że aplikacja będzie działać bez przerwy. Jeśli je ukryjesz to aplikacja może później zostać zamknięta przez system bez powiadomienia Ciebie. Jeśli wyłączysz powiadomienie, możesz je później włączyć w Ustawieniach zaawansowanych.</string>
     <string name="dont_show_again">Nie pytaj ponownie</string>
     <string name="display_notification">Wyświetlaj</string>
     <string name="hide_notification">Ukryj</string>
@@ -198,11 +186,6 @@
     <string name="pref_keep_service_title">Usługa w tle</string>
     <string name="pref_keep_service_on">Utrzymuj usługę w tle zawsze uruchomioną (może zużywać więcej pamięci). Jeśli powiadomienie jest stałe usługa staje się pierwszoplanową (foreground).</string>
     <string name="pref_keep_service_off">Uruchom usługę w tle tylko kiedy jest to konieczne (może zużywać więcej pamięci).</string>
-    <string name="pref_notification_status_on2">Pokaż powiadomienie z czasem następnego powiadomienia</string>
-    <string name="pref_notification_status_off2">Nie pokazuj powiadomienia</string>
-    <string name="pref_low_notification_priority_title">Niski priorytet powiadomienia</string>
-    <string name="pref_low_notification_priority_on">Najniższy priorytet powiadomienia. Powiadomienie nie powinno być widoczne na pasku statusu.</string>
-    <string name="pref_low_notification_priority_off">Normalny priorytet powiadomienia.</string>
     <string name="pref_dismissible_notification_title">Usuwalne powiadomienie</string>
     <string name="pref_dismissible_notification_on">Powiadomienie można usunąć.</string>
     <string name="pref_dismissible_notification_off">Powiadomienie jest stałe. Jeśli usługa w tle jest włączona staje się ona wtedy pierwszoplanową.</string>
