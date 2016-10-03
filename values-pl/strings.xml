@@ -192,7 +192,7 @@
     <string name="pref_vibrate_wear_title">Wibruj na Wear</string>
     <string name="pref_vibrate_wear_on">Jeśli wibracja jest włączona, wibruj również na połączonym urządzeniu Android Wear</string>
     <string name="pref_vibrate_wear_off">Nie wibruj na urządzeniu Android Wear</string>
-    <string name="notification_question_message2">Czy chciałbyś ukryć powiadomienie? Jeśli je teraz wyłączysz, możesz je ponownie włączyć później w ustawieniach.</string>
+    <string name="notification_question_message2">Jeśli je teraz wyłączysz, możesz je ponownie włączyć później w ustawieniach.</string> <!-- Displayed right after notification_question_title text -->
     <string name="pref_notification_settings">Ustawienia powiadomień</string>
     <string name="pref_vibrate_on_main_device">Wibruj na głównym urządzeniu</string> <!-- Translation note: "device" is used because it can be phone or tablet. Related with pref_vibrate_wear_title option. -->
     <string name="pref_vibrate_on_main_device_on">Wibruj również na głównym urządzeniu.</string> <!-- Similar as above, description of "on" state for the option. -->

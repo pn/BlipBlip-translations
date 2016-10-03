@@ -192,7 +192,7 @@
     <string name="pref_vibrate_wear_title">Vibrate on Wear</string>
     <string name="pref_vibrate_wear_on">If vibration is enabled vibrate also on connected Android Wear device</string>
     <string name="pref_vibrate_wear_off">Do not vibrate on Android Wear</string>
-    <string name="notification_question_message2">Szeretné elrejteni az értesítést? Ha letiltja, engedélyezheti később a beállításokban.</string>
+    <string name="notification_question_message2">Ha letiltja, engedélyezheti később a beállításokban.</string> <!-- Displayed right after notification_question_title text -->
     <string name="pref_notification_settings">Értesítési beállítások</string>
     <string name="pref_vibrate_on_main_device">Vibrate on main device</string> <!-- Translation note: "device" is used because it can be phone or tablet. Related with pref_vibrate_wear_title option. -->
     <string name="pref_vibrate_on_main_device_on">Vibrate also on main device.</string> <!-- Similar as above, description of "on" state for the option. -->
