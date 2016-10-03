@@ -237,4 +237,5 @@
     <string name="msg_foreground_service_on">Foreground service enabled.</string> <!-- message displayed when foreground service is enabled without user interacting with this option -->
     <string name="msg_foreground_service_off">Foreground service disabled.</string> <!-- message displayed when foreground service is disabled without user interacting with this option -->
     <string name="notification_settings_updated">Notification settings updated.</string> <!-- message displayed when one of notification settings is updated without user interacting with these options -->
+    <string name="reliability_warning">Changing these settings may impact reliability of the app.</string> <!-- This message should be as short as possible. There is risk of cutting it off if it will be too long -->
 </resources>

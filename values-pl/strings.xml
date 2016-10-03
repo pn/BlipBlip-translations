@@ -238,4 +238,5 @@
     <string name="msg_foreground_service_on">Usługa pierwszoplanowa została włączona.</string> <!-- message displayed when foreground service is enabled without user interacting with this option -->
     <string name="msg_foreground_service_off">Usługa pierwszoplanowa została wyłączona.</string> <!-- message displayed when foreground service is disabled without user interacting with this option -->
     <string name="notification_settings_updated">Ustawienia powiadomień zostały zmienione.</string> <!-- message displayed when one of notification settings is updated without user interacting with these options -->
+    <string name="reliability_warning">Zmiana tych ustawień może powodować zmiany w niezawodności aplikacji.</string>
 </resources>
