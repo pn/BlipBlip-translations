@@ -239,4 +239,6 @@
     <string name="msg_foreground_service_off">Foreground service disabled.</string> <!-- message displayed when foreground service is disabled without user interacting with this option -->
     <string name="notification_settings_updated">Notification settings updated.</string> <!-- message displayed when one of notification settings is updated without user interacting with these options -->
     <string name="reliability_warning">Changing these settings may impact reliability of the app.</string> <!-- This message should be as short as possible. There is risk of cutting it off if it will be too long -->
+    <string name="app_killed_warning2">Recently BlipBlip was unexpectedly stopped. &lt;b&gt;Please make sure you are not using any battery optimization (or power saving, eco, etc.) mode or app (e.g. task killers)&lt;/b&gt;. They usually cause such issues. If you need to use such app, please add BlipBlip to whitelist in that app. If you think this is bug in the app or need help, please describe your problem using \"%1$s\" option.</string> <!-- Text in quotes will be replaced by value of action_send_logs -->
+    <string name="warn_power_saving">To ensure reliable operation please disable all power saving modes.</string> <!-- Please make this as short as possible -->
 </resources>
