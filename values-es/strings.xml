@@ -26,7 +26,7 @@
     <string name="title_advanced_settings">Configuración avanzada</string>
     <string name="pref_time_offset_title">Retraso o adelanto</string>
     <string name="pref_time_offset_summary">Segundos de Retraso o adelanto</string>
-    <string name="while_music">Inactivo mientras se resproduce música</string>
+    <string name="while_music">Inactivo mientras se reproduce música</string>
     <string name="while_music_on">Todas las notificaciones están desactivadas</string>
     <string name="while_music_off">Notificaciones activadas</string>
     <string name="while_music_toast">Las notificaciones de BlipBlip están ahora desactivadas porque se está reproduciendo música.</string>
@@ -87,7 +87,7 @@
     <string name="rate_us_title">¡Califícanos!</string>
     <string name="rate_us_message">Gracias por tomarte el tiempo de revisar esta aplicación.</string>
     <string name="rate_us_fivestars">¡5 estrellas!</string>
-    <string name="rate_us_onetofourstars">14 estrellas</string>
+    <string name="rate_us_onetofourstars">1 a 4 estrellas</string>
     <string name="feedback_improvement_title">BlipBlip necesita mejoras</string>
     <string name="feedback_improvement_message">Por favor dinos en qué podemos mejorar para satisfacer tus expectativas sobre esta aplicación.</string>
     <string name="feedback_dialog_bug_found">Encontré un fallo (adjunta reporte)</string>
@@ -99,9 +99,9 @@
     <string name="vibration_double_short">Doble bip corto</string>
     <string name="vibration_single_long">Bip largo</string>
     <string name="vibration_double_long">Doble bip largo</string>
-    <string name="quiet_day_warning">Notificación desactivada porque hoy es \"silent day\".</string>
+    <string name="quiet_day_warning">Notificación desactivada porque hoy es \"Dia en silencio\".</string>
     <string name="change_setting">Cambiar</string>
-    <string name="toast_change_quiet_days">Por favor cambia el ajuste de \"Silent days\" para hacer que BlipBlip te notifique hoy.</string>
+    <string name="toast_change_quiet_days">Por favor cambia el ajuste de \"Días en silencio\" para hacer que BlipBlip te notifique hoy.</string>
     <string name="notification_question_title">¿Mostrar en la barra de notificiones?</string>
     <string name="dont_show_again">No preguntar de nuevo</string>
     <string name="display_notification">Mostrar</string>
@@ -126,11 +126,11 @@
     <string name="force_screen_in_vibrate_mode_title">Forzar activación de pantalla</string>
     <string name="sound_in_silent_mode_on">Permitir reproducción de sonido en Modo silencioso</string>
     <string name="vibrate_in_silent_mode_on">Permitir vibración en Modo silencioso</string>
-    <string name="force_screen_in_silent_mode_on">Encender la pantalla en Modo silencioso inclusive si la opción \"Light up screen on notification\" está desactivada</string>
+    <string name="force_screen_in_silent_mode_on">Encender la pantalla en Modo silencioso inclusive si la opción \"Encender la pantalla al notificar\" está desactivada</string>
     <string name="sound_in_vibrate_mode_on">Permitir reproducción de sonido en Modo vibrar</string>
     <string name="vibrate_in_vibrate_mode_on">Permitir vibración en Modo vibrar</string>
     <string name="force_vibrate_in_vibrate_mode_on">Forzar vibración en Modo vibrar inclusive si la vibración está desactivada</string>
-    <string name="force_screen_in_vibrate_mode_on">Encender la pantalla en Modo vibrar inclusive si la opción \"Light up screen on notification\" está desactivada</string>
+    <string name="force_screen_in_vibrate_mode_on">Encender la pantalla en Modo vibrar inclusive si la opción \"Encender la pantalla al notificar\" está desactivada</string>
     <string name="sound_in_silent_mode_off">Desactivar el sonido en Modo silencioso</string>
     <string name="vibrate_in_silent_mode_off">Desactivar vibración en Modo silencioso</string>
     <string name="force_screen_in_silent_mode_off">Desactivado</string>
@@ -168,8 +168,8 @@
     <string name="silent_day">Día en silencio</string>
     <string name="please_wait">Por favor espere</string>
     <string name="inline_attachments_title">Adjunto</string>
-    <string name="inline_attachments_on">Coloca adjunto tu \"Report problem\".</string>
-    <string name="inline_attachments_off">Utiliza archivos adjuntos regulares en \"Report problem\".</string>
+    <string name="inline_attachments_on">Coloca adjunto tu \"Reporta un problema\".</string>
+    <string name="inline_attachments_off">Utiliza archivos adjuntos regulares en \"Reporta un problema\".</string>
     <string name="pref_experimental">Configuración experimental</string>
     <string name="title_experimental_settings">Configuración experimental</string>
     <string name="pref_visual">Configuración visual</string>
@@ -189,14 +189,14 @@
     <string name="pref_dismissible_notification_title">Notificación descartable</string>
     <string name="pref_dismissible_notification_on">La notificación es descartable.</string>
     <string name="pref_dismissible_notification_off">La notificación es persistente. Si el servicio en segundo plano está activo, éste pasa a primer plano.</string>
-    <string name="pref_vibrate_wear_title">Vibrar con Wear</string>
+    <string name="pref_vibrate_wear_title">Vibrar con Android Wear</string>
     <string name="pref_vibrate_wear_on">Si la vibración está activada, entonces la vibración también debe manifestarse en el dispositivo Android Wear</string>
-    <string name="pref_vibrate_wear_off">Desactivar vibración en el Android Wear</string>
+    <string name="pref_vibrate_wear_off">Desactivar vibración en Android Wear</string>
     <string name="notification_question_message2">Si la desactivas puedes volver a activarla en la Configuración.</string> <!-- Displayed right after notification_question_title text -->
     <string name="pref_notification_settings">Configuración de notificaciones</string>
-    <string name="pref_vibrate_on_main_device">Vibración en el disposiivo principal</string> <!-- Translation note: "device" is used because it can be phone or tablet. Related with pref_vibrate_wear_title option. -->
+    <string name="pref_vibrate_on_main_device">Vibración en el dispositivo principal</string> <!-- Translation note: "device" is used because it can be phone or tablet. Related with pref_vibrate_wear_title option. -->
     <string name="pref_vibrate_on_main_device_on">Vibrar también en el dispositivo principal.</string> <!-- Similar as above, description of "on" state for the option. -->
-    <string name="pref_vibrate_on_main_device_off">Puede que no vibre en el dispositivo principal cuando la prioridad de notificación está colocada en \"Minimum\". En otro caso debería vibrar.</string> <!-- Description of "off" state for the option. "may" is used because it is not 100% certain right now. Value in double quotes must be same value of name="item_priority_minimum" -->
+    <string name="pref_vibrate_on_main_device_off">Puede que no vibre en el dispositivo principal cuando la prioridad de notificación está colocada en \"Mínimo\". En otro caso debería vibrar.</string> <!-- Description of "off" state for the option. "may" is used because it is not 100% certain right now. Value in double quotes must be same value of name="item_priority_minimum" -->
     <string name="warn_light_up_screen_disable">Desactivando esta opción puede causar que la aplicación no funcione de manera correcta debido a un fallo en Android 5.0.1 (espcialemente en equipos Samsung). Si experimentas algún problema, por favor intenta reactivando esta opción.</string> <!-- Warning shown on android 5.0.1 when disabling option "Light up screen on notification" -->
     <string name="pref_notification_priority">Prioridad de notificación</string> <!-- Option name allowing to choose priority for notification from the list -->
     <string name="item_priority_minimum">Mínima</string>
@@ -231,7 +231,7 @@
     <string name="pref_notification_always">Mostrar siempre</string> <!-- option to always show notification -->
     <string name="pref_notification_always_on">Mostrar notificación aunque esté deshabilitada</string>
     <string name="pref_notification_always_off">Mostrar notificación sólo si está habilitada</string>
-    <string name="pref_reliability">Configuración de Compatibilidad</string> <!-- title of settings section meant for all settings which may improve running of the app without issues -->
+    <string name="pref_reliability">Ajustes de Compatibilidad</string> <!-- title of settings section meant for all settings which may improve running of the app without issues -->
     <string name="pref_foreground_service_title">Servicio en primer plano</string>
     <string name="pref_foreground_service_on">Mostrar notificaciones no descartables y habilitar servicio en segundo plano lo cual puede prevenir que la aplicacion se detenga. Es mejor deshabilitarlo en algunos equipos para prevenir que la aplicación se detenga.</string>
     <string name="pref_foreground_service_off">Servicio en primer plano deshabilitado. Este es el ajuste recomendado.</string>
@@ -240,5 +240,5 @@
     <string name="notification_settings_updated">Configuración de notificacion actualizada.</string> <!-- message displayed when one of notification settings is updated without user interacting with these options -->
     <string name="reliability_warning">Cambiar estos ajustes podría perjudicar el funcionamiento de la aplicación.</string> <!-- This message should be as short as possible. There is risk of cutting it off if it will be too long -->
     <string name="app_killed_warning2">BlipBlip se ha detenido repentinamente &lt;b&gt;Asegúrate que tu equipo no está usando algún modo de ahorro de energía o gestionador automático de recursos &lt;/b&gt;. Estas utilidades usualmente provocan tales conflictos. Si usas normalmente alguna de estas utilidades, por favor agrega BlipBlip a la lista de aplicaciones permitidas. Si crees que esto es un fallo en la aplicación o requieres soporte, favor describe el problema usando la opción \"%1$s\" .</string> <!-- Text in quotes will be replaced by value of action_send_logs -->
-    <string name="warn_power_saving">Para asegurar compatibilidad debes deshabilitar los modos de ahorro de energía.</string> <!-- Please make this as short as possible -->
+    <string name="warn_power_saving">Para asegurar un funcionamiento óptimo debes deshabilitar los modos de ahorro de energía.</string> <!-- Please make this as short as possible -->
 </resources>
