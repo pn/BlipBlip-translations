@@ -177,6 +177,7 @@
     <string name="experimental_warning">Это экспериментальные настройки, которые могут быть удалены в будущем.</string>
     <string name="upcoming_notifications">Будущие уведомления</string>
     <string name="warning">Предупреждение</string>
+    <string name="app_killed_warning">Приложение BlipBlip было отключено. Проверьте, не используется ли режим сохранения энергии или приложение для оптимизации энергозатрат (например, закрыватели приложений). Они могут закрывать приложение BlipBlip. Если отключение приложения случилось по другой причине, сообщите об этом разработчику через \"Сообщить о проблеме\" или через &lt;a href=\"%1$s\">Сообщество BlipBlip в Google+&lt;/a>.</string>
     <string name="warning_dont_show_again">Больше не показывать</string>
     <string name="play_button_description">Проверить настройки</string>
     <string name="pref_low_volume_fix">Исправить низкую громкость</string>
