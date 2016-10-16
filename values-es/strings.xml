@@ -188,7 +188,7 @@
     <string name="pref_keep_service_off">Iniciar servicio en segundo plano sólo cuando sea requerido (puede consumir menos memoria).</string>
     <string name="pref_dismissible_notification_title">Notificación descartable</string>
     <string name="pref_dismissible_notification_on">La notificación es descartable.</string>
-    <string name="pref_dismissible_notification_off">La notificación es persistente. Si el servicio en segundo plano está activo, éste pasa a primer plano.</string>
+    <string name="pref_dismissible_notification_off">La notificación es persistente.</string>
     <string name="pref_vibrate_wear_title">Vibrar con Android Wear</string>
     <string name="pref_vibrate_wear_on">Si la vibración está activada, entonces la vibración también debe manifestarse en el dispositivo Android Wear</string>
     <string name="pref_vibrate_wear_off">Desactivar vibración en Android Wear</string>

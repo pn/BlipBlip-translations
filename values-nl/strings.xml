@@ -188,7 +188,7 @@
     <string name="pref_keep_service_off">Begin achtergrond service alleen wanneer dat nodig is (kan minder geheugen gebruiken).</string>
     <string name="pref_dismissible_notification_title">Verwijderbare notificatie</string>
     <string name="pref_dismissible_notification_on">Notificatie is verwijderbaar.</string>
-    <string name="pref_dismissible_notification_off">Notificatie is blijvend. Als achtergrond service is ingeschakeld wordt het een voorgrond service.</string>
+    <string name="pref_dismissible_notification_off">Notificatie is blijvend.</string>
     <string name="pref_vibrate_wear_title">Trillen op Wear</string>
     <string name="pref_vibrate_wear_on">Als trilling is ingeschakeld, trilt het ook op het verbonden Android Wear-apparaat</string>
     <string name="pref_vibrate_wear_off">Niet trillen op Android Wear</string>

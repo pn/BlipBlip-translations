@@ -188,7 +188,7 @@
     <string name="pref_keep_service_off">Uruchom usługę w tle tylko kiedy jest to konieczne (może zużywać więcej pamięci).</string>
     <string name="pref_dismissible_notification_title">Usuwalne powiadomienie</string>
     <string name="pref_dismissible_notification_on">Powiadomienie można usunąć.</string>
-    <string name="pref_dismissible_notification_off">Powiadomienie jest stałe. Jeśli usługa w tle jest włączona staje się ona wtedy pierwszoplanową.</string>
+    <string name="pref_dismissible_notification_off">Powiadomienie jest stałe.</string>
     <string name="pref_vibrate_wear_title">Wibruj na Wear</string>
     <string name="pref_vibrate_wear_on">Jeśli wibracja jest włączona, wibruj również na połączonym urządzeniu Android Wear</string>
     <string name="pref_vibrate_wear_off">Nie wibruj na urządzeniu Android Wear</string>
