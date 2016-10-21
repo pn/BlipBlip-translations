@@ -321,12 +321,12 @@
     <!--
         Notification Question
     -->
-    <string name="notification_question_title">Показывать уведомления</string>
-    <string name="notification_question_message2">Если отключены, то можно включить позднее в настройках.</string>
+    <string name="notification_question_title">Уведомления BlipBlip</string>
+    <string name="notification_question_message2">Если уведомления о следующем сигнале отключены, то позднее можно включить в настройках программы.</string>
     <!-- Displayed right after notification_question_title text -->
     <string name="dont_show_again">Больше не спрашивать</string>
-    <string name="display_notification">Показывать</string>
-    <string name="hide_notification">Скрыть</string>
+    <string name="display_notification">Включить</string>
+    <string name="hide_notification">Отключить</string>
     <!--
         Logs
     -->
