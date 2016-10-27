@@ -26,14 +26,14 @@
     <string name="title_advanced_settings">Impostazioni avanzate</string>
     <string name="pref_time_offset_title">Differenza orario</string>
     <string name="pref_time_offset_summary">Differenza orario in secondi</string>
-    <string name="while_music">Disabilita mentre ascolti musica</string>
-    <string name="while_music_on">Tutte le notifiche sono disabilitate</string>
-    <string name="while_music_off">Notifiche abilitate</string>
-    <string name="while_music_toast">Le notifiche BlipBlip sono disabilitate, perché è in corso un\'altra riproduzione audio.</string>
+    <string name="while_music">Disabilita su altro flusso audio</string>
+    <string name="while_music_on">Notifiche disabilitate in caso di concomitanza flusso audio</string>
+    <string name="while_music_off">Notifiche riprodotte anche in caso di concomitanza flusso audio</string>
+    <string name="while_music_toast">Notifiche BlipBlip disabilitate su riproduzione di un\'altro flusso audio</string>
     <string name="while_phonecall">Disabilita durante le chiamate telefoniche</string>
-    <string name="while_phonecall_on">Tutte le notifiche sono disabilitate</string>
-    <string name="while_phonecall_off">Notifiche abilitate</string>
-    <string name="while_phonecall_toast">Le notifiche BlipBlip sono disabilitate, perché è in corso una chiamata telefonica.</string>
+    <string name="while_phonecall_on">Notifiche disabilitate in caso di chiamata telefonica</string>
+    <string name="while_phonecall_off">Notifiche riprodotte anche in caso di chiamata telefonica</string>
+    <string name="while_phonecall_toast">Notifiche BlipBlip disabilitate su chiamata telefonica</string>
     <string name="late_notif_title">Modalità allarme abilitata</string>
     <string name="late_notif_message">È stato rilevato che le notifiche sono state ritardate di molti minuti su alcuni dispositivi Samsung. Per prevenire ciò l\'opzione \"Modalità allarme\" è stata abilitata e dovrebbe risolvere questo problema. Puoi disabilitare o abilitare questa opzione nelle Impostazioni avanzate. Se verrà trovata una soluzione migliore per questo problema aggiorneremo l\'applicazione. Se riscontri altri problemi per favore segnalaceli via email.</string>
     <string name="dialog_ok">OK</string>
@@ -43,8 +43,8 @@
     <string name="notif_as_alarm_on">Notifiche visualizzate come allarmi - risolve il ritardo delle notifiche su alcuni dispositivi Samsungs</string>
     <string name="notif_as_alarm_title">Modalità allarme</string>
     <string name="auto_notif_as_alarm_title">Abilitazione automatica modalità allarme</string>
-    <string name="auto_notif_as_alarm_on">Abilita modalità allarme se ritardo notifiche rilevato</string>
-    <string name="auto_notif_as_alarm_off">Non abilitare la modalità allarme automaticamente</string>
+    <string name="auto_notif_as_alarm_on">Modalità allarme abilitata se viene rilevato un ritardo nelle notifiche</string>
+    <string name="auto_notif_as_alarm_off">Modalità allarme non abilitata automaticamente</string>
     <string name="debug_logs_title">Raccogli informazioni di debug</string>
     <string name="debug_logs_off">Raccolta informazioni di debug disabilitata</string>
     <string name="debug_logs_on">Salva le informazioni per segnalare un problema via email</string>
@@ -68,7 +68,7 @@
     <string name="period_60_minutes">1 ora</string>
     <string-array name="pref_audio_stream_titles">
         <item>Suoneria chiamata</item>
-        <item>Alarme</item>
+        <item>Allarme</item>
         <item>Musica e Video</item>
         <item>Notifiche</item>
     </string-array>
@@ -189,7 +189,7 @@
     <string name="pref_dismissible_notification_title">Notifiche cancellabili</string>
     <string name="pref_dismissible_notification_on">La notifica è cancellabile.</string>
     <string name="pref_dismissible_notification_off">La notifica è persistente.</string>
-    <string name="pref_vibrate_wear_title">Vibrazione Indossabile</string>
+    <string name="pref_vibrate_wear_title">Vibrazione indossabile</string>
     <string name="pref_vibrate_wear_on">Se la vibrazione è abilitata vibra anche sul dispositivo indossabile connesso</string>
     <string name="pref_vibrate_wear_off">Non vibrare sul dispositivo indossabile connesso</string>
     <string name="notification_question_message2">Se disabilitato è possibile riabilitarlo nelle impostazioni.</string> <!-- Displayed right after notification_question_title text -->
@@ -198,7 +198,7 @@
     <string name="pref_vibrate_on_main_device_on">Vibra anche sul dispositivo principale.</string> <!-- Similar as above, description of "on" state for the option. -->
     <string name="pref_vibrate_on_main_device_off">Potrebbe non vibrare sul dispositivo principale quando la priorità delle notifiche è impostata a \"Minimo\". Dovrebbe vibrare negli altri casi.</string> <!-- Description of "off" state for the option. "may" is used because it is not 100% certain right now. Value in double quotes must be same value of name="item_priority_minimum" -->
     <string name="warn_light_up_screen_disable">Disabilitando questa opzione l\'applicazione potrebbe non funzionare correttamente a causa di un bug in android 5.0.1 (specialmente sui dispositivi Samsung). Se si riscontrano dei problemi, provare a riabilitare questa opzione.</string> <!-- Warning shown on android 5.0.1 when disabling option "Light up screen on notification" -->
-    <string name="pref_notification_priority">Priorità Notifiche</string> <!-- Option name allowing to choose priority for notification from the list -->
+    <string name="pref_notification_priority">Priorità notifiche</string> <!-- Option name allowing to choose priority for notification from the list -->
     <string name="item_priority_minimum">Minima</string>
     <string name="item_priority_low">Bassa</string>
     <string name="item_priority_normal">Normale</string>
@@ -206,7 +206,7 @@
     <string name="item_priority_maximum">Massima</string>
     <string name="pref_notification_title_title">Titolo Notifica</string>
     <string name="pref_notification_description_title">Descrizione Notifica</string>
-    <string name="pref_custom_texts">Testo notifica personalizzato</string>
+    <string name="pref_custom_texts">Notifica personalizzata</string>
     <string name="pref_custom_title">Titolo personalizzato</string>
     <string name="pref_custom_description">Descrizione personalizzata</string>
     <string name="pref_random_title">Casualità</string>
@@ -229,7 +229,7 @@
     <string name="notif_button_snooze">Rimanda</string> <!-- This text should be short, because it will be shown on notification button where there can be 3 of them. -->
     <string name="notif_button_dismiss">Spegni</string> <!-- This text should be short, because it will be shown on notification button where there can be 3 of them. -->
     <string name="pref_notification_always">Mostra sempre</string> <!-- option to always show notification -->
-    <string name="pref_notification_always_on">Mostra le notifiche comunque</string>
+    <string name="pref_notification_always_on">Mostra sempre le notifiche</string>
     <string name="pref_notification_always_off">Mostra le notifiche solo se abilitate</string>
     <string name="pref_reliability">Impostazioni di Affidabilità</string> <!-- title of settings section meant for all settings which may improve running of the app without issues -->
     <string name="pref_foreground_service_title">Servizio in primo piano</string>
