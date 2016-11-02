@@ -243,4 +243,5 @@
     <string name="warn_power_saving">Per maggior stabilità disabilita qualsiasi modalità di risparmio energetico.</string> <!-- Please make this as short as possible -->
     <string name="warn_notification_skip">Some notifications will be skipped.</string> <!-- Please make this as short as possible. This warning is displayed when user chooses to skip few upcoming notifications. -->
     <string name="warn_alarm_skip">Some alarms will be skipped.</string> <!-- Please make this as short as possible. This warning is displayed when user chooses to skip few upcoming alarms. -->
+    <string name="warn_volume_zero">Current volume is set to zero.</string> <!-- Please make this as short as possible. This warning is displayed when current system volume is set to 0. -->
 </resources>
