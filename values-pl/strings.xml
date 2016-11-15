@@ -45,7 +45,7 @@
     <string name="auto_notif_as_alarm_title">Automatyczny tryb alarmu</string>
     <string name="auto_notif_as_alarm_on">Włącz Tryb alarmu jeśli zostanie wykryte opóźnienie powiadomienia</string>
     <string name="auto_notif_as_alarm_off">Nie włączaj Trybu alarmu automatycznie</string>
-    <string name="debug_logs_title">Zapisuj dziennik odpluskwiania</string>
+    <string name="debug_logs_title">Zapisuj dziennik błędów</string>
     <string name="debug_logs_off">Zapisywanie dziennika wyłączone</string>
     <string name="debug_logs_on">Zapisuj dziennik dla opcji Zgłoś problem</string>
     <string name="send_logs_describe">Proszę opisz swój problem z aplikacją:</string>
@@ -109,7 +109,7 @@
     <string name="repeat_every">Powtarzaj co</string>
     <string name="about_translations">Tłumaczenia</string>
     <string name="allow_while_idle_title">Zezwól na pracę w trybie oszczędnym</string>
-    <string name="allow_while_idle_off">Jeśli telefon będzie w trybie oszczędnym niktóre powiadomienia z aplikacji mogą nie wystąpić.</string>
+    <string name="allow_while_idle_off">Jeśli telefon będzie w trybie oszczędnym niektóre powiadomienia z aplikacji mogą nie wystąpić.</string>
     <string name="allow_while_idle_on">Zezwól na pracę w trybie oszczędnym (Doze/Idle). Może nie działać dla powiadomień częstszych niż 15 minut. Ustawienie może mieć niewielki wpływ na zużycie baterii.</string>
     <string name="beta_preference_title">BlipBlip Beta</string>
     <string name="beta_preference_description">Włącz lub wyłącz wersję beta</string>
@@ -168,10 +168,10 @@
     <string name="silent_day">Cichy dzień</string>
     <string name="please_wait">Proszę czekać…</string>
     <string name="inline_attachments_title">Załączniki w treści</string>
-    <string name="inline_attachments_on">Wstaw załączniki w treści email\'a dla opcji \"Zgłoś problem\".</string>
+    <string name="inline_attachments_on">Wstaw załączniki w treści emaila dla opcji \"Zgłoś problem\".</string>
     <string name="inline_attachments_off">Użyj zwykłych załączników email w opcji \"Zgłoś problem\".</string>
-    <string name="pref_experimental">Ustawienia experymentalne</string>
-    <string name="title_experimental_settings">Ustawienia experymentalne</string>
+    <string name="pref_experimental">Ustawienia eksperymentalne</string>
+    <string name="title_experimental_settings">Ustawienia eksperymentalne</string>
     <string name="pref_visual">Ustawienia wyglądu</string>
     <string name="title_visual_settings">Ustawienia wyglądu</string>
     <string name="experimental_warning">To są ustawienia eksperymentalne i mogą zostać w przyszłości usunięte.</string>
@@ -182,9 +182,9 @@
     <string name="play_button_description">Przetestuj swoje ustawienia</string>
     <string name="pref_low_volume_fix">Naprawa głośności</string>
     <string name="pref_low_volume_fix_on">Naprawia niską głośność na niektórych urządzeniach Motoroli z funkcją zwiększania głośności. Może opóźnić dźwięk o kilka sekund.</string>
-    <string name="pref_low_volume_fix_off">Wyłączona. Niepotrzebne na większości urządzeń.</string>
+    <string name="pref_low_volume_fix_off">Wyłączona. Niepotrzebna na większości urządzeń.</string>
     <string name="pref_keep_service_title">Usługa w tle</string>
-    <string name="pref_keep_service_on">Utrzymuj usługę w tle zawsze uruchomioną (może zużywać więcej pamięci). Jeśli powiadomienie jest stałe usługa staje się pierwszoplanową (foreground).</string>
+    <string name="pref_keep_service_on">Utrzymuj usługę w tle zawsze uruchomioną (może zużywać więcej pamięci). Jeśli powiadomienie jest stałe, usługa staje się pierwszoplanową (foreground).</string>
     <string name="pref_keep_service_off">Uruchom usługę w tle tylko kiedy jest to konieczne (może zużywać więcej pamięci).</string>
     <string name="pref_dismissible_notification_title">Usuwalne powiadomienie</string>
     <string name="pref_dismissible_notification_on">Powiadomienie można usunąć.</string>
