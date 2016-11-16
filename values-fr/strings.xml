@@ -246,4 +246,7 @@
     <string name="warn_volume_zero">Le volume actuel est réglé sur zéro.</string> <!-- Please make this as short as possible. This warning is displayed when current system volume is set to 0. -->
     <string name="huawei_protected_apps_title">Applications protégées par Huawei</string> <!-- Title of dialog window -->
     <string name="huawei_protected_apps_msg">%s doit être activé dans "Applications protégées" pour fonctionner correctement.</string> <!-- %s will be replaced with app name -->
+    <string name="pref_low_mem_restart_title">Low memory restart</string>
+    <string name="pref_low_mem_restart_on">Try restarting app if device is low on memory. This will not work on all devices. It is not needed on most devices (may use a bit more battery).</string>
+    <string name="pref_low_mem_restart_off">Do not try restarting app if device is low on memory.</string>
 </resources>
