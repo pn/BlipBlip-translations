@@ -249,4 +249,14 @@
     <string name="pref_low_mem_restart_title">Restartuj gdy brak pamięci</string>
     <string name="pref_low_mem_restart_on">Próbuje zrestartować aplikację jeśli urządzenie ma mało wolnej pamięci. Nie będzie to działać na niektórych urządzeniach. Nie jest to potrzebne na większości urządzeń (może powodować niewielki wzrost zużycia baterii).</string>
     <string name="pref_low_mem_restart_off">Nie próbuj restartować aplikacji jeśli urżądzenie ma mało wolnej pamięci.</string>
+    <string name="pref_heading_notification_accuracy">Punktualność powiadomień</string>
+    <string name="pref_delay_prevention_title">Zapobiegaj opóźnieniom</string>
+    <string name="pref_delay_prevention_on">Aktywnie próbuje zapobiec opóźnieniom powiadomień, które zdarzają się na niektórych urządzeniach. Może zużywać troszkę więcej baterii.</string>
+    <string name="pref_delay_prevention_off">Nie próbuje zapobiegać opóźnieniom, które mogą wystąpić na niektórych urządzeniach. Zużywa mniej baterii.</string>
+    <string name="pref_aggressive_delay_prevention_title">Agresywnie zapobiegaj opóźnieniom</string>
+    <string name="pref_aggressive_delay_prevention_on">Powiadomienia powinny być częściej dokładne. Może zużywać więcej baterii.</string>
+    <string name="pref_aggressive_delay_prevention_off">Powiadomienia mogą być opóźnione w rzadkich przypadkach. Zużywa mniej baterii.</string>
+    <string name="pref_ignore_delayed_title">Ignoruj spóźnione powiadomienia</string>
+    <string name="pref_ignore_delayed_on">Jeśli powiadomienie zostanie uznane za spóźnione to nie zostanie wyświetlone lub odtworzone.</string>
+    <string name="pref_ignore_delayed_off">Powiadomienia będą wyświetlone lub odtworzone nawet jeśli są spóźnione.</string>
 </resources>

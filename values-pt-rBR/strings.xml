@@ -252,4 +252,14 @@ Se você precisa usar tais aplicativos, por favor, adicione Blip Blip na lista b
     <string name="pref_low_mem_restart_title">Low memory restart</string>
     <string name="pref_low_mem_restart_on">Try restarting app if device is low on memory. This will not work on all devices. It is not needed on most devices (may use a bit more battery).</string>
     <string name="pref_low_mem_restart_off">Do not try restarting app if device is low on memory.</string>
+    <string name="pref_heading_notification_accuracy">Notification accuracy</string> <!-- punctuality -->
+    <string name="pref_delay_prevention_title">Prevent delays</string>
+    <string name="pref_delay_prevention_on">Tries to actively prevent notification delays which happen on some devices. May use more battery.</string>
+    <string name="pref_delay_prevention_off">Does not try to prevent notification delays which may occur on some devices. Uses less battery.</string>
+    <string name="pref_aggressive_delay_prevention_title">Prevent delays aggressively</string>
+    <string name="pref_aggressive_delay_prevention_on">Notifications should be more often accurate. May use more battery.</string>
+    <string name="pref_aggressive_delay_prevention_off">Notifications may be late in rare cases. Uses less battery.</string>
+    <string name="pref_ignore_delayed_title">Ignore delayed notifications</string>
+    <string name="pref_ignore_delayed_on">If notification is considered delayed it won\'t be shown or played.</string>
+    <string name="pref_ignore_delayed_off">Notifications will be shown or played even when they are delayed.</string>
 </resources>
