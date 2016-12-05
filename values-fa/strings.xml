@@ -258,4 +258,10 @@
     <string name="pref_ignore_delayed_title">Ignore delayed notifications</string>
     <string name="pref_ignore_delayed_on">If notification is considered delayed it won\'t be shown or played.</string>
     <string name="pref_ignore_delayed_off">Notifications will be shown or played even when they are delayed.</string>
+    <string name="pref_audio_focus_title">Audio focus</string> <!-- option to improve ability to hear app sounds by decreasing volume of other apps or pausing them -->
+    <string name="pref_audio_focus_on">While app plays sound, audio from other apps will be quieter or paused.</string>
+    <string name="pref_audio_focus_off">Audio from other apps will be played normally.</string>
+    <string name="pref_audio_focus_dont_duck_title">Pause playback</string>
+    <string name="pref_audio_focus_dont_duck_on">While app is playing sound other apps may pause their audio.</string>
+    <string name="pref_audio_focus_dont_duck_off">While app is playing sound other apps may lower volume of their audio.</string>
 </resources>

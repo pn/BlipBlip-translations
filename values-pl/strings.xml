@@ -259,4 +259,10 @@
     <string name="pref_ignore_delayed_title">Ignoruj spóźnione powiadomienia</string>
     <string name="pref_ignore_delayed_on">Jeśli powiadomienie zostanie uznane za spóźnione to nie zostanie wyświetlone lub odtworzone.</string>
     <string name="pref_ignore_delayed_off">Powiadomienia będą wyświetlone lub odtworzone nawet jeśli są spóźnione.</string>
+    <string name="pref_audio_focus_title">Ostrość dźwięku</string>
+    <string name="pref_audio_focus_on">Podczas odtwarzania dźwięku, dźwięki innych aplikacji będą ściszone lub zatrzymane.</string>
+    <string name="pref_audio_focus_off">Dźwięki innych aplikacji będą odtwarzane normalnie.</string>
+    <string name="pref_audio_focus_dont_duck_title">Zatrzymaj odtwarzanie</string>
+    <string name="pref_audio_focus_dont_duck_on">Podczas odtwarzania dźwięku, inne aplikacje mogą zatrzymać odtwarzania dźwięków.</string>
+    <string name="pref_audio_focus_dont_duck_off">Podczas odtwarzania dźwięku, inne aplikacjie mogą ściszyć odtwarzanie dźwięków.</string>
 </resources>
