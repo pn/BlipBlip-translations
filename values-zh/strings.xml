@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="about_authors">&#24320;&#21457;&#32773;</string>
-    <string name="about_coding">&#32534;&#31243;</string>
-    <string name="about_community">Google+&#31038;&#21306;</string>
-    <string name="about_dialog_title">&#20851;&#20110;</string>
+    <string name="about_authors">开发者</string>
+    <string name="about_coding">程序</string>
+    <string name="about_community">Google+社区</string>
+    <string name="about_dialog_title">关于</string>
     <string name="about_graphics">&#32654;&#24037;</string>
     <string name="about_more_apps">&#26356;&#22810;&#24212;&#29992;</string>
     <string name="about_send_feedback">&#21457;&#36865;&#21453;&#39304;</string>
@@ -59,7 +59,7 @@
     <string name="hide_notification">&#38544;&#34255;</string>
     <string name="huawei_protected_apps_msg">%s 需要在保护应用里进行设置才能正常工作</string>
     <string name="huawei_protected_apps_title">华为应用保护</string>
-    <string name="inline_attachments_off">在“报告问题”选项里时常沟通</string>
+    <string name="inline_attachments_off">在“报告问题”选项里联系</string>
     <string name="inline_attachments_on">在“报告问题”里插入内容</string>
     <string name="inline_attachments_title">附件</string>
     <string name="item_priority_high">高</string>
@@ -126,17 +126,17 @@
     <string name="pref_custom_texts">自定义通知文字</string>
     <string name="pref_custom_title">自定义标题</string>
     <string name="pref_dismissible_notification_off">常驻通知</string>
-    <string name="pref_dismissible_notification_on">通知不可清除</string>
-    <string name="pref_dismissible_notification_title">通知可清除</string>
+    <string name="pref_dismissible_notification_on">通知可清除</string>
+    <string name="pref_dismissible_notification_title">通知是否允许清除</string>
     <string name="pref_experimental">实验性设置</string>
-    <string name="pref_foreground_service_off">前台服务已关闭，此设置推荐开启</string>
+    <string name="pref_foreground_service_off">前台服务已关闭，已是推荐的设置</string>
     <string name="pref_foreground_service_on">展示常驻通知并且开启后台服务可以防止进程被杀，在一些设备上建议开启</string>
     <string name="pref_foreground_service_title">前台服务</string>
     <string name="pref_keep_service_off">只在需要时使用后台服务（更节省内存）</string>
     <string name="pref_keep_service_on">保持后台服务（将消耗更多内存）如果通知异常也可能切换到前台服务</string>
     <string name="pref_keep_service_title">后台服务</string>
     <string name="pref_low_mem_restart_off">当设备内存不足时请不要尝试重启应用</string>
-    <string name="pref_low_mem_restart_on">当设备内存不足时重启应用，这在任何设备上都是没用的（还会浪费电量）</string>
+    <string name="pref_low_mem_restart_on">当设备内存不足时重启应用，这不会在所有设备上起作用，通常不需要开启（会消耗一些电量）</string>
     <string name="pref_low_mem_restart_title">低内存重启</string>
     <string name="pref_low_volume_fix">修复音量低</string>
     <string name="pref_low_volume_fix_off">已关闭。大部分设备不需要这个</string>
@@ -157,8 +157,8 @@
     <string name="pref_time_offset_summary">&#19982;&#30446;&#26631;&#26102;&#38388;&#20559;&#24046;/&#31186;</string>
     <string name="pref_time_offset_title">&#26102;&#38388;&#20559;&#31227;</string>
     <string name="pref_toast_notifications">气泡通知</string>
-    <string name="pref_toast_notifications_off">隐藏气泡通知提醒Hide toast notification warnings</string>
-    <string name="pref_toast_notifications_on">显示气泡通知提醒Show toast notification warnings</string>
+    <string name="pref_toast_notifications_off">隐藏气泡通知提醒</string>
+    <string name="pref_toast_notifications_on">显示气泡通知提醒</string>
     <string name="pref_vibrate_mode">&#25391;&#21160;&#27169;&#24335;</string>
     <string name="pref_vibrate_on_main_device">在主设备上振动</string>
     <string name="pref_vibrate_on_main_device_off">当通知优先级设置为最小时可能不会在主设备上振动。反之，则可以振动</string>
@@ -243,29 +243,26 @@
     <string name="while_phonecall_off">&#21551;&#29992;&#36890;&#30693;</string>
     <string name="while_phonecall_on">&#25152;&#26377;&#36890;&#30693;&#24050;&#34987;&#31105;&#29992;</string>
     <string name="while_phonecall_toast">BlipBlip通知已停用，因为你正在通话</string>
-
     <string-array name="pref_audio_stream_titles">
         <item>电话铃</item>
         <item>闹钟</item>
         <item>音乐</item>
         <item>免打扰</item>
     </string-array>
-    <string name="pref_heading_notification_accuracy">Notification accuracy</string> <!-- punctuality -->
-    <string name="pref_delay_prevention_title">Prevent delays</string>
-    <string name="pref_delay_prevention_on">Tries to actively prevent notification delays which happen on some devices. May use more battery.</string>
-    <string name="pref_delay_prevention_off">Does not try to prevent notification delays which may occur on some devices. Uses less battery.</string>
-    <string name="pref_aggressive_delay_prevention_title">Prevent delays aggressively</string>
-    <string name="pref_aggressive_delay_prevention_on">Notifications should be more often accurate. May use more battery.</string>
-    <string name="pref_aggressive_delay_prevention_off">Notifications may be late in rare cases. Uses less battery.</string>
-    <string name="pref_ignore_delayed_title">Ignore delayed notifications</string>
-    <string name="pref_ignore_delayed_on">If notification is considered delayed it won\'t be shown or played.</string>
-    <string name="pref_ignore_delayed_off">Notifications will be shown or played even when they are delayed.</string>
-    <string name="pref_audio_focus_title">Audio focus</string> <!-- option to improve ability to hear app sounds by decreasing volume of other apps or pausing them -->
-    <string name="pref_audio_focus_on">While app plays sound, audio from other apps will be quieter or paused.</string>
-    <string name="pref_audio_focus_off">Audio from other apps will be played normally.</string>
-    <string name="pref_audio_focus_dont_duck_title">Pause playback</string>
-    <string name="pref_audio_focus_dont_duck_on">While app is playing sound other apps may pause their audio.</string>
-    <string name="pref_audio_focus_dont_duck_off">While app is playing sound other apps may lower volume of their audio.</string>
-
-
+    <string name="pref_heading_notification_accuracy">通知调校</string> <!-- punctuality -->
+    <string name="pref_delay_prevention_title">防延迟</string>
+    <string name="pref_delay_prevention_on">尝试阻止在某些设备上出现的通知延迟。可能更耗电</string>
+    <string name="pref_delay_prevention_off">不阻止某些设备上的通知延迟，更省电</string>
+    <string name="pref_aggressive_delay_prevention_title">强制阻止延迟</string>
+    <string name="pref_aggressive_delay_prevention_on">通知更加精确，但可能会更耗电</string>
+    <string name="pref_aggressive_delay_prevention_off">通知可能有时会延迟，但更省电</string>
+    <string name="pref_ignore_delayed_title">忽略延迟的通知</string>
+    <string name="pref_ignore_delayed_on">如果通知被判定为延迟，将不再显示</string>
+    <string name="pref_ignore_delayed_off">即使通知已延迟也显示</string>
+    <string name="pref_audio_focus_title">音频聚焦</string> <!-- option to improve ability to hear app sounds by decreasing volume of other apps or pausing them -->
+    <string name="pref_audio_focus_on">当应用报时，其它应用音频回避</string>
+    <string name="pref_audio_focus_off">其它应用音频不回避</string>
+    <string name="pref_audio_focus_dont_duck_title">暂停报时</string>
+    <string name="pref_audio_focus_dont_duck_on">当应用报时，其它应用可能停止音频</string>
+    <string name="pref_audio_focus_dont_duck_off">当应用报时，其它应用降低音量</string>
 </resources>
