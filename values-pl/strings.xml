@@ -265,4 +265,43 @@
     <string name="pref_audio_focus_dont_duck_title">Zatrzymaj odtwarzanie</string>
     <string name="pref_audio_focus_dont_duck_on">Podczas odtwarzania dźwięku, inne aplikacje mogą zatrzymać odtwarzania dźwięków.</string>
     <string name="pref_audio_focus_dont_duck_off">Podczas odtwarzania dźwięku, inne aplikacjie mogą ściszyć odtwarzanie dźwięków.</string>
+
+    <plurals name="number_of_hours">
+        <item quantity="one">%d godzina</item>
+        <item quantity="few">%d godziny</item>
+        <item quantity="many">%d godzin</item>
+        <item quantity="other">%d godziny</item>
+    </plurals>
+    <plurals name="number_of_minutes">
+        <item quantity="one">%d minuta</item>
+        <item quantity="few">%d minuty</item>
+        <item quantity="many">%d minut</item>
+        <item quantity="other">%d minuty</item>
+    </plurals>
+    <plurals name="number_of_seconds">
+        <item quantity="one">%d sekunda</item>
+        <item quantity="few">%d sekundy</item>
+        <item quantity="many">%d sekund</item>
+        <item quantity="other">%d sekundy</item>
+    </plurals>
+
+    <plurals name="repeat_every_x_hours">
+        <item quantity="one">%d godzinę</item>
+        <item quantity="few">%d godziny</item>
+        <item quantity="many">%d godzin</item>
+        <item quantity="other">%d godziny</item>
+    </plurals>
+    <plurals name="repeat_every_x_minutes">
+        <item quantity="one">%d minutę</item>
+        <item quantity="few">%d minuty</item>
+        <item quantity="many">%d minut</item>
+        <item quantity="other">%d minuty</item>
+    </plurals>
+    <plurals name="repeat_every_x_seconds">
+        <item quantity="one">%d sekundę</item>
+        <item quantity="few">%d sekundy</item>
+        <item quantity="many">%d sekund</item>
+        <item quantity="other">%d sekundy</item>
+    </plurals>
+
 </resources>

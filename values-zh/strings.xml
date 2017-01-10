@@ -265,4 +265,35 @@
     <string name="pref_audio_focus_dont_duck_title">暂停报时</string>
     <string name="pref_audio_focus_dont_duck_on">当应用报时，其它应用可能停止音频</string>
     <string name="pref_audio_focus_dont_duck_off">当应用报时，其它应用降低音量</string>
+
+    <plurals name="number_of_hours">
+        <!-- check which quantities and how should be used for given language here http://www.unicode.org/cldr/charts/29/supplemental/language_plural_rules.html -->
+        <!--item quantity="zero"></item-->
+        <item quantity="one">%d hour</item>
+        <!--item quantity="two"></item-->
+        <!--item quantity="few"></item-->
+        <!--item quantity="many"></item-->
+        <item quantity="other">%d hours</item>
+    </plurals>
+    <plurals name="number_of_minutes">
+        <item quantity="one">%d minute</item>
+        <item quantity="other">%d minutes</item>
+    </plurals>
+    <plurals name="number_of_seconds">
+        <item quantity="one">%d second</item>
+        <item quantity="other">%d seconds</item>
+    </plurals>
+    <plurals name="repeat_every_x_hours"> <!-- "X hours" as in "Repeat every X hours" is different in some languages (e.g. Polish) from regular "X hours" -->
+        <item quantity="one">%d hour</item>
+        <item quantity="other">%d hours</item>
+    </plurals>
+    <plurals name="repeat_every_x_minutes">
+        <item quantity="one">%d minute</item>
+        <item quantity="other">%d minutes</item>
+    </plurals>
+    <plurals name="repeat_every_x_seconds">
+        <item quantity="one">%d second</item>
+        <item quantity="other">%d seconds</item>
+    </plurals>
+
 </resources>
