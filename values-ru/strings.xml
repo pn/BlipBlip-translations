@@ -198,7 +198,7 @@
     <string name="pref_notification_always">Показывать всегда</string>
     <string name="pref_notification_always_on">Показывать уведомления, даже если уведомления отключены на уровне системы</string>
     <string name="pref_notification_always_off">Показывать уведомления, только если уведомления включены на уровне системы</string>
-    <string name="notification_settings_updated">Настройки сигналов обновлены.</string>
+    <string name="notification_settings_updated">Настройки сигналов обновлены</string>
     <!-- message displayed when one of notification settings is updated without user interacting with these options -->
     <!--
         Notification Priority
@@ -305,9 +305,9 @@
     <string name="pref_foreground_service_title">Фоновый режим</string>
     <string name="pref_foreground_service_on">Показывать неудаляемые уведомления и работать в фоновом режиме, чтобы исключить закрытие BlipBlip.</string>
     <string name="pref_foreground_service_off">Фоновый режим отключен</string>
-    <string name="msg_foreground_service_on">BlipBlip включён в фоновом режиме.</string>
+    <string name="msg_foreground_service_on">BlipBlip включён в фоновом режиме</string>
     <!-- message displayed when foreground service is enabled without user interacting with this option -->
-    <string name="msg_foreground_service_off">BlipBlip отключен в фоновом режиме.</string>
+    <string name="msg_foreground_service_off">BlipBlip отключен в фоновом режиме</string>
     <!-- message displayed when foreground service is disabled without user interacting with this option -->
     <string name="pref_keep_service_title">Фоновый режим</string>
     <string name="pref_keep_service_on">Поддерживать работу BlipBlip в фоновом режиме (используется больше памяти). Если сигналы постоянные, то BlipBlip уходит в фоновый режим.</string>
@@ -433,7 +433,7 @@
     <string name="pref_audio_focus_dont_duck_on">While app is playing sound other apps may pause their audio.</string>
     <string name="pref_audio_focus_dont_duck_off">While app is playing sound other apps may lower volume of their audio.</string>
 
-    <plurals name="number_of_hours">
+    <plurals name="number_of_hours"> <!-- TODO add also few and many -->
         <!-- check which quantities and how should be used for given language here http://www.unicode.org/cldr/charts/29/supplemental/language_plural_rules.html -->
         <!--item quantity="zero"></item-->
         <item quantity="one">%d hour</item>
@@ -465,5 +465,6 @@
 
     <string name="pref_reset_accuracy_params">Reset parameters</string>
     <string name="pref_reset_accuracy_params_desc">Resets internal parameters which improve notification accuracy.</string>
+    <string name="warn_foreground_service_disabled">Foreground service setting has been disabled. This may increase chance that background process is killed and app stops working.</string>
 
 </resources>

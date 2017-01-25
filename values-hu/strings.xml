@@ -235,9 +235,9 @@
     <string name="pref_foreground_service_title">Előtér szolgáltatás</string>
     <string name="pref_foreground_service_on">Nem elvethető értesítés mutatása és háttér szolgáltatás engedélyezése, amely megelőzheti az alkalmazás leállását.</string>
     <string name="pref_foreground_service_off">Előtér szolgáltatás letiltva.</string>
-    <string name="msg_foreground_service_on">Előtér szolgáltatás engedélyezve.</string> <!-- message displayed when foreground service is enabled without user interacting with this option -->
-    <string name="msg_foreground_service_off">Előtér szolgáltatás letiltva.</string> <!-- message displayed when foreground service is disabled without user interacting with this option -->
-    <string name="notification_settings_updated">Értesítési beállítások frissítve.</string> <!-- message displayed when one of notification settings is updated without user interacting with these options -->
+    <string name="msg_foreground_service_on">Előtér szolgáltatás engedélyezve</string> <!-- message displayed when foreground service is enabled without user interacting with this option -->
+    <string name="msg_foreground_service_off">Előtér szolgáltatás letiltva</string> <!-- message displayed when foreground service is disabled without user interacting with this option -->
+    <string name="notification_settings_updated">Értesítési beállítások frissítve</string> <!-- message displayed when one of notification settings is updated without user interacting with these options -->
     <string name="reliability_warning">Ezen beállítások megváltoztatása befolyásolhatja az alkalmazás megbízhatóságát.</string> <!-- This message should be as short as possible. There is risk of cutting it off if it will be too long -->
     <string name="app_killed_warning2">A BlipBlip nemrég váratlanul leállt. &lt;b&gt;Kérjük bizonyosodjon meg róla, hogy nem használ akkumlátor optimalizáció (vagy energiatakarékosság, eco, stb.) üzemmódot vagy alkalmazást (pl. task killers)&lt;/b&gt;. Ezek általában okozhatnak ilyen problémát. Ha ilyen alkalmazásra van szüksége, kérjük adja a BlipBlipet annak fehérlistájához. Ha úgy véli, hogy a hiba az alkalmazásban van, vagy segítségre van szüksége, kérjük részletezze a problémát a \"%1$s\" opció használatával.</string> <!-- Text in quotes will be replaced by value of action_send_logs -->
     <string name="warn_power_saving">A megbízható működés biztosításához kérjük tiltson le minden energiatakarékos üzemmódot.</string> <!-- Please make this as short as possible -->
@@ -298,5 +298,6 @@
 
     <string name="pref_reset_accuracy_params">Reset parameters</string>
     <string name="pref_reset_accuracy_params_desc">Resets internal parameters which improve notification accuracy.</string>
+    <string name="warn_foreground_service_disabled">Foreground service setting has been disabled. This may increase chance that background process is killed and app stops working.</string>
 
 </resources>
