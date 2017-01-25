@@ -303,8 +303,8 @@
         Foreground Service
     -->
     <string name="pref_foreground_service_title">Фоновый режим</string>
-    <string name="pref_foreground_service_on">Показывать неудаляемые уведомления и работать в фоновом режиме, чтобы исключить закрытие BlipBlip (не рекомендуется).</string>
-    <string name="pref_foreground_service_off">Фоновый режим отключен (рекомендуется)</string>
+    <string name="pref_foreground_service_on">Показывать неудаляемые уведомления и работать в фоновом режиме, чтобы исключить закрытие BlipBlip.</string>
+    <string name="pref_foreground_service_off">Фоновый режим отключен</string>
     <string name="msg_foreground_service_on">BlipBlip включён в фоновом режиме.</string>
     <!-- message displayed when foreground service is enabled without user interacting with this option -->
     <string name="msg_foreground_service_off">BlipBlip отключен в фоновом режиме.</string>

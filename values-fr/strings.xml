@@ -233,8 +233,8 @@
     <string name="pref_notification_always_off">Notification d\'affichage uniquement si elle est activée</string>
     <string name="pref_reliability">Paramètres de fiabilité</string> <!-- title of settings section meant for all settings which may improve running of the app without issues -->
     <string name="pref_foreground_service_title">Services de premier plan</string>
-    <string name="pref_foreground_service_on">Affiche une notification non révocable et permet un service d\'arrière-plan qui pourrait empêcher la fermeture de l\'application. Il est toujours préférable de le désactiver sur certains appareils pour empêcher la fermeture de l\'application.</string>
-    <string name="pref_foreground_service_off">Le service de premier plan est désactivé. Ce paramètre est recommandé.</string>
+    <string name="pref_foreground_service_on">Affiche une notification non révocable et permet un service d\'arrière-plan qui pourrait empêcher la fermeture de l\'application.</string>
+    <string name="pref_foreground_service_off">Le service de premier plan est désactivé.</string>
     <string name="msg_foreground_service_on">Le service de premier plan est activé.</string> <!-- message displayed when foreground service is enabled without user interacting with this option -->
     <string name="msg_foreground_service_off">Le service de premier plan est désactivé.</string> <!-- message displayed when foreground service is disabled without user interacting with this option -->
     <string name="notification_settings_updated">Paramètres de notification mis à jour.</string> <!-- message displayed when one of notification settings is updated without user interacting with these options -->

@@ -129,8 +129,8 @@
     <string name="pref_dismissible_notification_on">通知可清除</string>
     <string name="pref_dismissible_notification_title">通知是否允许清除</string>
     <string name="pref_experimental">实验性设置</string>
-    <string name="pref_foreground_service_off">前台服务已关闭，已是推荐的设置</string>
-    <string name="pref_foreground_service_on">展示常驻通知并且开启后台服务可以防止进程被杀，在一些设备上建议开启</string>
+    <string name="pref_foreground_service_off">前台服务已关闭</string>
+    <string name="pref_foreground_service_on">展示常驻通知并且开启后台服务可以防止进程被杀</string>
     <string name="pref_foreground_service_title">前台服务</string>
     <string name="pref_keep_service_off">只在需要时使用后台服务（更节省内存）</string>
     <string name="pref_keep_service_on">保持后台服务（将消耗更多内存）如果通知异常也可能切换到前台服务</string>

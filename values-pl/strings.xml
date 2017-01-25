@@ -233,8 +233,8 @@
     <string name="pref_notification_always_off">Wyświetlaj powiadomienie tylko wtedy kiedy jest włączone</string>
     <string name="pref_reliability">Ustawienia niezawodności</string>
     <string name="pref_foreground_service_title">Usługa pierwszoplanowa</string>
-    <string name="pref_foreground_service_on">Wyświetla nieusuwalne powiadomienie oraz włącza usługę w tle, która może zapobiegać zabiciu aplikacji. Jednak na niektórych urządzeniach zaleca się ją wyłączyć, żeby właśnie zapobiec zabiciu aplikacji.</string>
-    <string name="pref_foreground_service_off">Usługa pierwszoplanowa jest wyłączona. To jest zalecane ustawienie.</string>
+    <string name="pref_foreground_service_on">Wyświetla nieusuwalne powiadomienie oraz włącza usługę w tle, która może zapobiegać zabiciu aplikacji.</string>
+    <string name="pref_foreground_service_off">Usługa pierwszoplanowa jest wyłączona.</string>
     <string name="msg_foreground_service_on">Usługa pierwszoplanowa została włączona.</string> <!-- message displayed when foreground service is enabled without user interacting with this option -->
     <string name="msg_foreground_service_off">Usługa pierwszoplanowa została wyłączona.</string> <!-- message displayed when foreground service is disabled without user interacting with this option -->
     <string name="notification_settings_updated">Ustawienia powiadomień zostały zmienione.</string> <!-- message displayed when one of notification settings is updated without user interacting with these options -->
