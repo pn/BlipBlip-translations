@@ -264,7 +264,7 @@
     <string name="pref_audio_focus_off">Dźwięki innych aplikacji będą odtwarzane normalnie.</string>
     <string name="pref_audio_focus_dont_duck_title">Zatrzymaj odtwarzanie</string>
     <string name="pref_audio_focus_dont_duck_on">Podczas odtwarzania dźwięku, inne aplikacje mogą zatrzymać odtwarzania dźwięków.</string>
-    <string name="pref_audio_focus_dont_duck_off">Podczas odtwarzania dźwięku, inne aplikacjie mogą ściszyć odtwarzanie dźwięków.</string>
+    <string name="pref_audio_focus_dont_duck_off">Podczas odtwarzania dźwięku, inne aplikacje mogą ściszyć odtwarzanie dźwięków.</string>
 
     <plurals name="number_of_hours">
         <item quantity="one">%d godzina</item>
