@@ -233,11 +233,11 @@
     <string name="pref_notification_always_off">Notification d\'affichage uniquement si elle est activée</string>
     <string name="pref_reliability">Paramètres de fiabilité</string> <!-- title of settings section meant for all settings which may improve running of the app without issues -->
     <string name="pref_foreground_service_title">Services de premier plan</string>
-    <string name="pref_foreground_service_on">Affiche une notification non révocable et permet un service d\'arrière-plan qui pourrait empêcher la fermeture de l\'application.</string>
-    <string name="pref_foreground_service_off">Le service de premier plan est désactivé.</string>
-    <string name="msg_foreground_service_on">Le service de premier plan est activé</string> <!-- message displayed when foreground service is enabled without user interacting with this option -->
-    <string name="msg_foreground_service_off">Le service de premier plan est désactivé</string> <!-- message displayed when foreground service is disabled without user interacting with this option -->
-    <string name="notification_settings_updated">Paramètres de notification mis à jour</string> <!-- message displayed when one of notification settings is updated without user interacting with these options -->
+    <string name="pref_foreground_service_on">Affiche une notification non révocable et permet un service d\'arrière-plan qui pourrait empêcher la fermeture de l\'application. Il est toujours préférable de le désactiver sur certains appareils pour empêcher la fermeture de l\'application.</string>
+    <string name="pref_foreground_service_off">Le service de premier plan est désactivé. Ce paramètre est recommandé.</string>
+    <string name="msg_foreground_service_on">Le service de premier plan est activé.</string> <!-- message displayed when foreground service is enabled without user interacting with this option -->
+    <string name="msg_foreground_service_off">Le service de premier plan est désactivé.</string> <!-- message displayed when foreground service is disabled without user interacting with this option -->
+    <string name="notification_settings_updated">Paramètres de notification mis à jour.</string> <!-- message displayed when one of notification settings is updated without user interacting with these options -->
     <string name="reliability_warning">Modifier ces paramètres peut impacter la fiabilité de l\'application.</string> <!-- This message should be as short as possible. There is risk of cutting it off if it will be too long -->
     <string name="app_killed_warning2">Récemment BlipBlip s\'est été arrêté de façon inattendue. &lt;b&gt;Vérifiez que vous n\'utilisez aucune optimisation de la batterie (ou d\'économie d\'énergie, éco, etc.) ou une application (par exemple le tueur de tâche)&lt;/b&gt;. Ils causent généralement ce genre de problème. Si vous avez besoin d\'utiliser une telle application, veuillez ajouter BlipBlip à la liste blanche dans cette application. Si vous pensez que cela est bogue dans l\'application ou que vous ayez besoin d\'aide, veuillez s\'il vous plaît décrire votre problème en utilisant l\'option : \"%1$s\".</string> <!-- Text in quotes will be replaced by value of action_send_logs -->
     <string name="warn_power_saving">Pour un fonctionnement fiable désactivez tous les modes d\'économie d\'énergie.</string> <!-- Please make this as short as possible -->
@@ -246,7 +246,7 @@
     <string name="warn_volume_zero">Le volume actuel est réglé sur zéro.</string> <!-- Please make this as short as possible. This warning is displayed when current system volume is set to 0. -->
     <string name="huawei_protected_apps_title">Applications protégées par Huawei</string> <!-- Title of dialog window -->
     <string name="huawei_protected_apps_msg">%s doit être activé dans "Applications protégées" pour fonctionner correctement.</string> <!-- %s will be replaced with app name -->
-    <string name="pref_low_mem_restart_title">Redémarrage en mémoire faible</string>
+<string name="pref_low_mem_restart_title">Redémarrage en mémoire faible</string>
     <string name="pref_low_mem_restart_on">Essayez de redémarrer l\'application si le périphérique est faible en mémoire. Cela ne fonctionnera pas sur tous les périphériques. Il n\'est pas nécessaire sur la plupart des appareils (peut utiliser un peu plus de batterie).</string>
     <string name="pref_low_mem_restart_off">N\'essayez pas de redémarrer l\'application si le périphérique est faible en mémoire.</string>
     <string name="pref_heading_notification_accuracy">Exactitude des notifications</string> <!-- punctuality -->
@@ -259,46 +259,56 @@
     <string name="pref_ignore_delayed_title">Ignorer les notifications retardées</string>
     <string name="pref_ignore_delayed_on">Si la notification est considérée comme retardée, elle ne sera pas montrée ou jouée.</string>
     <string name="pref_ignore_delayed_off">Les notifications seront affichées ou lues même si elles sont retardées.</string>
-    <string name="pref_audio_focus_title">Audio focus</string> <!-- option to improve ability to hear app sounds by decreasing volume of other apps or pausing them -->
-    <string name="pref_audio_focus_on">While app plays sound, audio from other apps will be quieter or paused.</string>
-    <string name="pref_audio_focus_off">Audio from other apps will be played normally.</string>
-    <string name="pref_audio_focus_dont_duck_title">Pause playback</string>
-    <string name="pref_audio_focus_dont_duck_on">While app is playing sound other apps may pause their audio.</string>
-    <string name="pref_audio_focus_dont_duck_off">While app is playing sound other apps may lower volume of their audio.</string>
 
-    <plurals name="number_of_hours">
+<!-- 27 janvier 2017 / 27 January 2017 -->
+
+  <string name="pref_audio_focus_title">Mise au point audio</string> <!-- option to improve ability to hear app sounds by decreasing volume of other apps or pausing them -->
+    <string name="pref_audio_focus_on">Lorsque que l\'application utilise le son, le volume audio des autres applications sera plus silencieux ou en mis en pause.</string>
+    <string name="pref_audio_focus_off">Les sons provenant d\'autres applications sont lus normalement.</string>
+    <string name="pref_audio_focus_dont_duck_title">Mettre en pause la lecture</string>
+    <string name="pref_audio_focus_dont_duck_on">Alors que l\'application est en train de jouer, d\'autres applications peuvent mettre en pause leur son.</string>
+
+<!-- 27 January 2017 character fixed -->
+
+    <string name="pref_audio_focus_dont_duck_off">Alors que l\'application est en train de jouer, d\'autres applications peuvent réduire leur volume sonore.</string>
+
+<!-- 27 January 2017 plural name fixed -->
+
+<plurals name="number_of_hours">
         <!-- check which quantities and how should be used for given language here http://www.unicode.org/cldr/charts/29/supplemental/language_plural_rules.html -->
         <!--item quantity="zero"></item-->
-        <item quantity="one">%d hour</item>
+        <item quantity="one">%d heure</item>
         <!--item quantity="two"></item-->
         <!--item quantity="few"></item-->
         <!--item quantity="many"></item-->
-        <item quantity="other">%d hours</item>
+        <item quantity="other">%d heures</item>
     </plurals>
     <plurals name="number_of_minutes">
         <item quantity="one">%d minute</item>
         <item quantity="other">%d minutes</item>
     </plurals>
     <plurals name="number_of_seconds">
-        <item quantity="one">%d second</item>
-        <item quantity="other">%d seconds</item>
+        <item quantity="one">%d seconde</item>
+        <item quantity="other">%d secondes</item>
     </plurals>
     <plurals name="repeat_every_x_hours"> <!-- "X hours" as in "Repeat every X hours" is different in some languages (e.g. Polish) from regular "X hours" -->
-        <item quantity="one">%d hour</item>
-        <item quantity="other">%d hours</item>
+        <item quantity="one">%d heure</item>
+        <item quantity="other">%d heures</item>
     </plurals>
     <plurals name="repeat_every_x_minutes">
         <item quantity="one">%d minute</item>
         <item quantity="other">%d minutes</item>
     </plurals>
     <plurals name="repeat_every_x_seconds">
-        <item quantity="one">%d second</item>
-        <item quantity="other">%d seconds</item>
+        <item quantity="one">%d seconde</item>
+        <item quantity="other">%d secondes</item>
     </plurals>
 
-    <string name="pref_reset_accuracy_params">Reset parameters</string>
-    <string name="pref_reset_accuracy_params_desc">Resets internal parameters which improve notification accuracy.</string>
-    <string name="warn_foreground_service_disabled">Foreground service setting has been disabled. This may increase chance that background process is killed and app stops working.</string>
+<!-- 27 janvier 2017 news lines translated -->
 
+
+    <string name="pref_reset_accuracy_params">Réinitialiser les paramètres</string>
+    <string name="pref_reset_accuracy_params_desc">Réinitialise les paramètres internes qui améliorent la précision des notifications.</string>
+    <string name="warn_foreground_service_disabled">Le paramètre du service au premier plan a été désactivé. Cela peut augmenter les chances que le processus en arrière-plan se ferme et que l\'application s\'arrête.</string>
 </resources>
 
