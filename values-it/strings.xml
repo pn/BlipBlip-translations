@@ -299,5 +299,7 @@
     <string name="pref_reset_accuracy_params">Reset parameters</string>
     <string name="pref_reset_accuracy_params_desc">Resets internal parameters which improve notification accuracy.</string>
     <string name="warn_foreground_service_disabled">Foreground service setting has been disabled. This may increase chance that background process is killed and app stops working.</string>
+    <string name="off_airplane">Disable in airplane mode</string>
+    <string name="while_airplane_toast">BlipBlip notifications are now disabled, because you are in airplane mode.</string>
 
 </resources>
