@@ -1,25 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="abc_action_bar_home_description">"Navega a la pàgina d'inici"</string>
-    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
-    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
-    <string name="abc_action_bar_up_description">Navega cap a dalt</string>
-    <string name="abc_action_menu_overflow_description">Més opcions</string>
-    <string name="abc_action_mode_done">Fet</string>
-    <string name="abc_activity_chooser_view_see_all">"Mostra'ls tots"</string>
-    <string name="abc_activitychooserview_choose_application">Selecciona una aplicació</string>
-    <string name="abc_capital_off">DESACTIVAT</string>
-    <string name="abc_capital_on">ACTIVAT</string>
-    <string name="abc_search_hint">Cerca...</string>
-    <string name="abc_searchview_description_clear">Esborra la consulta</string>
-    <string name="abc_searchview_description_query">Consulta de cerca</string>
-    <string name="abc_searchview_description_search">Cerca</string>
-    <string name="abc_searchview_description_submit">Envia la consulta</string>
-    <string name="abc_searchview_description_voice">Cerca per veu</string>
-    <string name="abc_shareactionprovider_share_with">Comparteix amb</string>
-    <string name="abc_shareactionprovider_share_with_application">Comparteix amb %s</string>
-    <string name="abc_toolbar_collapse_description">Replega</string>
-    <string name="status_bar_notification_info_overflow">+999</string>
     <string name="about_authors">Autores</string>
     <string name="about_coding">De la programació</string>
     <string name="about_community">Comunitat Google+</string>
@@ -279,4 +259,48 @@
     <string name="while_phonecall_off">Notificacions activades</string>
     <string name="while_phonecall_on">Totes les notificacions es troben desactivades</string>
     <string name="while_phonecall_toast">Les notificacions de BlipBlip es troben desactivades perquè us trobeu en una trucada en curs</string>
+
+    <string-array name="pref_audio_stream_titles">
+        <item>Timbre</item>
+        <item>Alarma</item>
+        <item>Medios</item>
+        <item>Notificación</item>
+    </string-array>
+
+    <plurals name="number_of_hours">
+        <!-- check which quantities and how should be used for given language here http://www.unicode.org/cldr/charts/29/supplemental/language_plural_rules.html -->
+        <!--item quantity="zero"></item-->
+        <item quantity="one">%d hora</item>
+        <!--item quantity="two"></item-->
+        <!--item quantity="few"></item-->
+        <!--item quantity="many"></item-->
+        <item quantity="other">%d hores</item>
+    </plurals>
+    <plurals name="number_of_minutes">
+        <item quantity="one">%d minut</item>
+        <item quantity="other">%d minut</item>
+    </plurals>
+    <plurals name="number_of_seconds">
+        <item quantity="one">%d segon</item>
+        <item quantity="other">%d segons</item>
+    </plurals>
+    <plurals name="repeat_every_x_hours"> <!-- "X hours" as in "Repeat every X hours" is different in some languages (e.g. Polish) from regular "X hours" -->
+        <item quantity="one">%d hora</item>
+        <item quantity="other">%d hores</item>
+    </plurals>
+    <plurals name="repeat_every_x_minutes">
+        <item quantity="one">%d minut</item>
+        <item quantity="other">%d minuts</item>
+    </plurals>
+    <plurals name="repeat_every_x_seconds">
+        <item quantity="one">%d segon</item>
+        <item quantity="other">%d segons</item>
+    </plurals>
+
+    <string name="pref_reset_accuracy_params">Reset parameters</string>
+    <string name="pref_reset_accuracy_params_desc">Resets internal parameters which improve notification accuracy.</string>
+    <string name="warn_foreground_service_disabled">Foreground service setting has been disabled. This may increase chance that background process is killed and app stops working.</string>
+    <string name="off_airplane">Disable in airplane mode</string>
+    <string name="while_airplane_toast">BlipBlip notifications are now disabled, because you are in airplane mode.</string>
+
 </resources>
