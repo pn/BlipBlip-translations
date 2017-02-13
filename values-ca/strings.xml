@@ -278,7 +278,7 @@
     </plurals>
     <plurals name="number_of_minutes">
         <item quantity="one">%d minut</item>
-        <item quantity="other">%d minut</item>
+        <item quantity="other">%d minuts</item>
     </plurals>
     <plurals name="number_of_seconds">
         <item quantity="one">%d segon</item>
@@ -297,10 +297,10 @@
         <item quantity="other">%d segons</item>
     </plurals>
 
-    <string name="pref_reset_accuracy_params">Reset parameters</string>
-    <string name="pref_reset_accuracy_params_desc">Resets internal parameters which improve notification accuracy.</string>
-    <string name="warn_foreground_service_disabled">Foreground service setting has been disabled. This may increase chance that background process is killed and app stops working.</string>
-    <string name="off_airplane">Disable in airplane mode</string>
-    <string name="while_airplane_toast">BlipBlip notifications are now disabled, because you are in airplane mode.</string>
+    <string name="pref_reset_accuracy_params">"Restableix els paràmetres"</string>
+    <string name="pref_reset_accuracy_params_desc">"Restableix els paràmetres interns que milloren la precisió de notificació."</string>
+    <string name="warn_foreground_service_disabled">"L'ajust de servei de primer pla ha estat deshabilitat. Això pot augmentar la probabilitat que el procés de segon pla mori i l'aplicació deixi de funcionar."</string>
+    <string name="off_airplane">"Desactivar en el Mode avió"</string>
+    <string name="while_airplane_toast">"Les notificacions de BlipBlip estan ara desactivades, perquè vostè està en Mode avió."</string>
 
 </resources>
