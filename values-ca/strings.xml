@@ -19,7 +19,7 @@
     <string name="allow_while_idle_title">Permetre amb bateria baixa</string>
     <string name="app_killed_warning">"Recentment BlipBlip s' ha aturat sobtadament. &lt;b> Si us plau, assegureu-vos de què no utilitzeu cap mode o aplicació d' administració i/o estalvi d' energia. &lt;/b>. Solen causar aquests problemes. Solen causar aquesta mena de problemes. Si us plau, afegiu BlipBlip a la llista d' excepcions. Si creieu que això és una errada de BlipBlip o necessiteu ajuda  si us plau, utilitzeu l' opció \"Informa d' un problema\" o escriu-nos a &lt;a href=%1$s>BlipBlip Google+ community&lt;/a>."</string>
     <string name="app_killed_warning2">"BlipBlip s' ha aturat sobtadament. "<b>" Assegureu-vos que el vostre dispositiu no utilitza cap mètode o app d' estalvi d' energia o gestionador automàtic de recursos "</b>". Aquestes utilitats solen causar aquesta mena de problemes. Si utilitzeu alguna d' aquestes utilitats si us plau, afegiu BlipBlip a la llista d' excepcions. Si creieu que això és una errada de BliBlip o teniu qualsevol altre problema si us plau, descriu-nos el problema utilitzant l' opció \"%1$s\" ."</string>
-    <string name="app_language">Idioma (Language)</string>
+    <string name="app_language">Idioma</string>
     <string name="auto_notif_as_alarm_off">"Evita l' activació automàtica del Mode d' Alarma"</string>
     <string name="auto_notif_as_alarm_on">"Activa Mode d' alarma si es detecta retard en les notificacions"</string>
     <string name="auto_notif_as_alarm_title">Mode d\'alarma automàtic</string>
