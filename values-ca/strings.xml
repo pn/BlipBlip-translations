@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="about_authors">Autores</string>
+    <string name="about_authors">Autors</string>
     <string name="about_coding">De la programació</string>
     <string name="about_community">Comunitat Google+</string>
-    <string name="about_dialog_title">A sobre</string>
+    <string name="about_dialog_title">Sobre</string>
     <string name="about_graphics">Dels gràfics</string>
     <string name="about_more_apps">Més aplicacions</string>
     <string name="about_send_feedback">Enviar comentaris</string>
     <string name="about_translations">Traduccions</string>
     <string name="about_version">Versió:</string>
-    <string name="action_about">A sobre</string>
+    <string name="action_about">Sobre</string>
     <string name="action_rate">"Qualifica'ns"</string>
     <string name="action_send_logs">"Avisa d' un problema"</string>
     <string name="action_settings">Configuració</string>
     <string name="action_share">"Comparteix l' app"</string>
-    <string name="allow_while_idle_off">Quan el telèfon té la bateria baixa algunes notoficacions poden ser omeses.</string>
+    <string name="allow_while_idle_off">Quan el telèfon té la bateria baixa algunes notificacions poden ser omeses.</string>
     <string name="allow_while_idle_on">"Permetre amb bateria baixa amb el mode (dormit/desocupat). És possible que no sempre funcioni amb freqüències de menys de 15 minuts. La configuració pot afectar lleugerament l' ús de la bateria."</string>
     <string name="allow_while_idle_title">Permetre amb bateria baixa</string>
     <string name="app_killed_warning">"Recentment BlipBlip s' ha aturat sobtadament. &lt;b> Si us plau, assegureu-vos de què no utilitzeu cap mode o aplicació d' administració i/o estalvi d' energia. &lt;/b>. Solen causar aquests problemes. Solen causar aquesta mena de problemes. Si us plau, afegiu BlipBlip a la llista d' excepcions. Si creieu que això és una errada de BlipBlip o necessiteu ajuda  si us plau, utilitzeu l' opció \"Informa d' un problema\" o escriu-nos a &lt;a href=%1$s>BlipBlip Google+ community&lt;/a>."</string>
@@ -22,7 +22,7 @@
     <string name="app_language">Idioma (Language)</string>
     <string name="auto_notif_as_alarm_off">"Evita l' activació automàtica del Mode d' Alarma"</string>
     <string name="auto_notif_as_alarm_on">"Activa Mode d' alarma si es detecta retard en les notificacions"</string>
-    <string name="auto_notif_as_alarm_title">Modo de alarma automático</string>
+    <string name="auto_notif_as_alarm_title">Mode d\'alarma automàtic</string>
     <string name="beta_preference_description">Activa o desactiva la versió Beta</string>
     <string name="beta_preference_title">BlipBlip Beta</string>
     <string name="cancel">Cancel.la</string>
@@ -46,7 +46,7 @@
     <string name="experimental_warning">Aquestes configuracions són experimentals i poden ser suprimides en futures actualitzacions</string>
     <string name="feedback_dialog_bug_found">"He trobat una errada (adjunta registre d' error)"</string>
     <string name="feedback_improvement_message">Si us plau, digues què podem fer per millorar les teves expectatives sobre BlipBlip</string>
-    <string name="feedback_improvement_title">BlipBlip necesita mejoras</string>
+    <string name="feedback_improvement_title">BlipBlip necessita millores</string>
     <string name="force_screen_in_silent_mode_off">Desactivat</string>
     <string name="force_screen_in_silent_mode_on">"Encén la pantalla en mode silenciós encara que l' opció \"Encén la pantalla durant notificació\" està desactivada"</string>
     <string name="force_screen_in_silent_mode_title">Força activació de pantalla</string>
