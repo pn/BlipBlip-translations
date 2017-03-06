@@ -235,8 +235,8 @@
     <string name="pref_foreground_service_title">Usługa pierwszoplanowa</string>
     <string name="pref_foreground_service_on">Wyświetla nieusuwalne powiadomienie oraz włącza usługę w tle, która może zapobiegać zabiciu aplikacji.</string>
     <string name="pref_foreground_service_off">Usługa pierwszoplanowa jest wyłączona</string>
-    <string name="msg_foreground_service_on">Usługa pierwszoplanowa została włączona</string> <!-- message displayed when foreground service is enabled without user interacting with this option -->
-    <string name="msg_foreground_service_off">Usługa pierwszoplanowa została wyłączona</string> <!-- message displayed when foreground service is disabled without user interacting with this option -->
+    <string name="msg_foreground_service_on">Usługa pierwszoplanowa włączona</string> <!-- message displayed when foreground service is enabled without user interacting with this option -->
+    <string name="msg_foreground_service_off">Usługa pierwszoplanowa wyłączona</string> <!-- message displayed when foreground service is disabled without user interacting with this option -->
     <string name="notification_settings_updated">Ustawienia powiadomień zostały zmienione.</string> <!-- message displayed when one of notification settings is updated without user interacting with these options -->
     <string name="reliability_warning">Zmiana tych ustawień może powodować zmiany w niezawodności aplikacji.</string>
     <string name="app_killed_warning2">Niedawno BlipBlip został nieoczekiwanie zatrzymany. &lt;b&gt;Proszę upewnij się, że nie używasz żadnych trybów oszczędzania baterii (lub optymalizacji baterii, trybu eco, itp.) lub aplikacji (np. tzw. task killers)&lt;/b&gt;. Zazwyczaj są one przyczyną takiego problemu. Jeśli chcesz używać takiej aplikacji dodaj BlipBlip do białej listy (whitelist) w tej aplikacji. Jeśli uważasz, że to jest błąd w aplikacji lub potrzebujesz z tym pomocy, proszę opisz swój problem za pomocą opcji \"%1$s\".</string> <!-- Text in quotes should be same as in action_send_logs -->
@@ -306,8 +306,8 @@
 
     <string name="pref_reset_accuracy_params">Resetuj parametry</string>
     <string name="pref_reset_accuracy_params_desc">Resetuje wewnętrzne parametry, które poprawiają dokładność powiadomień.</string>
-    <string name="warn_foreground_service_disabled">Foreground service setting has been disabled. This may increase chance that background process is killed and app stops working.</string>
-    <string name="off_airplane">Disable in airplane mode</string>
-    <string name="while_airplane_toast">BlipBlip notifications are now disabled, because you are in airplane mode.</string>
+    <string name="warn_foreground_service_disabled">To może zwiększyć prawdopodobieństwo, że aplikacja zostanie zmuszona do zatrzymania.</string>
+    <string name="off_airplane">Wyłączone w trybie samolotowym</string>
+    <string name="while_airplane_toast">Powiadomienia BlipBlip są teraz wyłączone, ponieważ jesteś w trybie samolotowym.</string>
 
 </resources>
