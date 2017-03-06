@@ -162,15 +162,15 @@
         While Music
     -->
     <string name="while_music">При музыке</string>
-    <string name="while_music_on">Сигналы работают, когда звучит музыка</string>
-    <string name="while_music_off">Пропускать сигналы, когда звучит музыка</string>
+    <string name="while_music_on">Пропускать сигналы, когда звучит музыка</string>
+    <string name="while_music_off">Сигналы работают, когда звучит музыка</string>
     <string name="while_music_toast">Сигнал BlipBlip пропущен, потому что звучит музыка.</string>
     <!--
         While Phonecall
     -->
     <string name="while_phonecall">При разговоре</string>
-    <string name="while_phonecall_on">Сигналы работают при телефонном разговоре</string>
-    <string name="while_phonecall_off">Пропускать сигналы при телефонном разговоре</string>
+    <string name="while_phonecall_on">Пропускать сигналы при телефонном разговоре</string>
+    <string name="while_phonecall_off">Сигналы работают при телефонном разговоре</string>
     <string name="while_phonecall_toast">Сигнал BlipBlip пропущен, потому что идёт телефонный разговор.</string>
     <!--
         ADVANCED SETTINGS
