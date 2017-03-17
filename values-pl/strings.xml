@@ -307,5 +307,9 @@
     <string name="warn_foreground_service_disabled">To może zwiększyć prawdopodobieństwo, że aplikacja zostanie zmuszona do zatrzymania.</string>
     <string name="off_airplane">Wyłączone w trybie samolotowym</string>
     <string name="while_airplane_toast">Powiadomienia BlipBlip są teraz wyłączone, ponieważ jesteś w trybie samolotowym.</string>
+    <string name="setting_system_default">Domyślny systemowy</string>
+    <string name="pref_time_format_title">Format czasu</string>
+    <string name="time_format_12h">12-godzinny</string>
+    <string name="time_format_24h">24-godzinny</string>
 
 </resources>

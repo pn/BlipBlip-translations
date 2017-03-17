@@ -300,5 +300,9 @@
     <string name="warn_foreground_service_disabled">"L'ajust de servei de primer pla ha estat deshabilitat. Això pot augmentar la probabilitat que el procés de segon pla mori i l'aplicació deixi de funcionar."</string>
     <string name="off_airplane">"Desactivar en el Mode avió"</string>
     <string name="while_airplane_toast">"Les notificacions de BlipBlip estan ara desactivades, perquè vostè està en Mode avió."</string>
+    <string name="setting_system_default">System default</string>
+    <string name="pref_time_format_title">Time format</string>
+    <string name="time_format_12h">12 hour clock</string>
+    <string name="time_format_24h">24 hour clock</string>
 
 </resources>

@@ -309,6 +309,10 @@
     <string name="warn_foreground_service_disabled">Le paramètre du service au premier plan a été désactivé. Cela peut augmenter les chances que le processus en arrière-plan se ferme et que l\'application s\'arrête.</string>
     <string name="off_airplane">Disable in airplane mode</string>
     <string name="while_airplane_toast">BlipBlip notifications are now disabled, because you are in airplane mode.</string>
+    <string name="setting_system_default">System default</string>
+    <string name="pref_time_format_title">Time format</string>
+    <string name="time_format_12h">12 hour clock</string>
+    <string name="time_format_24h">24 hour clock</string>
 
 </resources>
 
