@@ -260,12 +260,10 @@
     <string name="while_phonecall_on">Totes les notificacions es troben desactivades</string>
     <string name="while_phonecall_toast">Les notificacions de BlipBlip es troben desactivades perquè us trobeu en una trucada en curs</string>
 
-    <string-array name="pref_audio_stream_titles">
-        <item>Timbre</item>
-        <item>Alarma</item>
-        <item>Medios</item>
-        <item>Notificación</item>
-    </string-array>
+    <string name="audio_stream_phone_ring">Timbre</string>
+    <string name="audio_stream_alarm">Alarma</string>
+    <string name="audio_stream_media">Medios</string>
+    <string name="audio_stream_notification">Notificación</string>
 
     <plurals name="number_of_hours">
         <!-- check which quantities and how should be used for given language here http://www.unicode.org/cldr/charts/29/supplemental/language_plural_rules.html -->

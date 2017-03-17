@@ -66,12 +66,10 @@
     <string name="period_20_minutes">Her 20 dakika</string>
     <string name="period_30_minutes">Her 30 dakika</string>
     <string name="period_60_minutes">Her saat</string>
-    <string-array name="pref_audio_stream_titles">
-        <item>Zil sesi</item>
-        <item>Alarm</item>
-        <item>Medya</item>
-        <item>Bildirim sesi</item>
-    </string-array>
+    <string name="audio_stream_phone_ring">Zil sesi</string>
+    <string name="audio_stream_alarm">Alarm</string>
+    <string name="audio_stream_media">Medya</string>
+    <string name="audio_stream_notification">Bildirim sesi</string>
     <string name="about_coding">Kodlama</string>
     <string name="about_graphics">Görseller</string>
     <string name="about_more_apps">Daha fazla uygulamalar</string>

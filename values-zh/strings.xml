@@ -243,12 +243,10 @@
     <string name="while_phonecall_off">&#21551;&#29992;&#36890;&#30693;</string>
     <string name="while_phonecall_on">&#25152;&#26377;&#36890;&#30693;&#24050;&#34987;&#31105;&#29992;</string>
     <string name="while_phonecall_toast">BlipBlip通知已停用，因为你正在通话</string>
-    <string-array name="pref_audio_stream_titles">
-        <item>电话铃</item>
-        <item>闹钟</item>
-        <item>音乐</item>
-        <item>免打扰</item>
-    </string-array>
+    <string name="audio_stream_phone_ring">电话铃</string>
+    <string name="audio_stream_alarm">闹钟</string>
+    <string name="audio_stream_media">音乐</string>
+    <string name="audio_stream_notification">免打扰</string>
     <string name="pref_heading_notification_accuracy">通知调校</string> <!-- punctuality -->
     <string name="pref_delay_prevention_title">防延迟</string>
     <string name="pref_delay_prevention_on">尝试阻止在某些设备上出现的通知延迟。可能更耗电</string>

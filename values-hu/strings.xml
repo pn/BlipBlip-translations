@@ -66,12 +66,10 @@
     <string name="period_20_minutes">20 perc</string>
     <string name="period_30_minutes">30 perc</string>
     <string name="period_60_minutes">1 óra</string>
-    <string-array name="pref_audio_stream_titles">
-        <item>Telefoncsörgés</item>
-        <item>Ébresztés</item>
-        <item>Média</item>
-        <item>Értesítések</item>
-    </string-array>
+    <string name="audio_stream_phone_ring">Telefoncsörgés</string>
+    <string name="audio_stream_alarm">Ébresztés</string>
+    <string name="audio_stream_media">Média</string>
+    <string name="audio_stream_notification">Értesítések</string>
     <string name="about_coding">Programozás</string>
     <string name="about_graphics">Grafika</string>
     <string name="about_more_apps">További alkalmazások</string>

@@ -65,12 +65,10 @@
     <string name="period_20_minutes">"20 دقیقه"</string>
     <string name="period_30_minutes">"30 دقیقه"</string>
     <string name="period_60_minutes">"1 ساعت"</string>
-    <string-array name="pref_audio_stream_titles">
-        <item>"زنگ تلفن"</item>
-        <item>"زنگ"</item>
-        <item>"رسانه"</item>
-        <item>"نوتیفیکیشن"</item>
-    </string-array>
+    <string name="audio_stream_phone_ring">"زنگ تلفن"</string>
+    <string name="audio_stream_alarm">"زنگ"</string>
+    <string name="audio_stream_media">"رسانه"</string>
+    <string name="audio_stream_notification">"نوتیفیکیشن"</string>
     <string name="about_coding">"برنامه نویسی"</string>
     <string name="about_graphics">"گرافیک"</string>
     <string name="about_more_apps">"برنامه های بیشتر"</string>

@@ -181,12 +181,10 @@
         Audio Stream
     -->
     <string name="pref_choose_audio_stream">Аудио поток</string>
-    <string-array name="pref_audio_stream_titles">
-        <item>Телефонный звонок</item>
-        <item>Будильник</item>
-        <item>Мелодия</item>
-        <item>Уведомление</item>
-    </string-array>
+    <string name="audio_stream_phone_ring">Телефонный звонок</string>
+    <string name="audio_stream_alarm">Будильник</string>
+    <string name="audio_stream_media">Мелодия</string>
+    <string name="audio_stream_notification">Уведомление</string>
     <!--
         Notifications
     -->

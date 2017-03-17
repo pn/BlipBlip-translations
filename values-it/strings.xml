@@ -66,12 +66,10 @@
     <string name="period_20_minutes">20 minuti</string>
     <string name="period_30_minutes">30 minuti</string>
     <string name="period_60_minutes">1 ora</string>
-    <string-array name="pref_audio_stream_titles">
-        <item>Suoneria chiamata</item>
-        <item>Allarme</item>
-        <item>Musica e Video</item>
-        <item>Notifiche</item>
-    </string-array>
+    <string name="audio_stream_phone_ring">Suoneria chiamata</string>
+    <string name="audio_stream_alarm">Allarme</string>
+    <string name="audio_stream_media">Musica e Video</string>
+    <string name="audio_stream_notification">Notifiche</string>
     <string name="about_coding">Coding</string>
     <string name="about_graphics">Grafici</string>
     <string name="about_more_apps">Altre applicazioni</string>

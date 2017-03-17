@@ -66,12 +66,10 @@
     <string name="period_20_minutes">20 минути</string>
     <string name="period_30_minutes">30 минути</string>
     <string name="period_60_minutes">1 час</string>
-    <string-array name="pref_audio_stream_titles">
-        <item>Телефонно позвъняване</item>
-        <item>Аларма</item>
-        <item>Медия</item>
-        <item>Известие</item>
-    </string-array>
+    <string name="audio_stream_phone_ring">Телефонно позвъняване</string>
+    <string name="audio_stream_alarm">Аларма</string>
+    <string name="audio_stream_media">Медия</string>
+    <string name="audio_stream_notification">Известие</string>
     <string name="about_coding">Програмиране</string>
     <string name="about_graphics">Дизайн</string>
     <string name="about_more_apps">Още приложения</string>

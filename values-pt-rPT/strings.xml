@@ -67,12 +67,10 @@ Se encontrar outros problemas, por favor, informe-nos por correio electrónico.<
     <string name="period_20_minutes">20 minutos</string>
     <string name="period_30_minutes">30 minutos</string>
     <string name="period_60_minutes">1 hora</string>
-    <string-array name="pref_audio_stream_titles">
-        <item>Toque do telefone</item>
-        <item>Alarme</item>
-        <item>Multimédia</item>
-        <item>Notificação</item>
-    </string-array>
+    <string name="audio_stream_phone_ring">Toque do telefone</string>
+    <string name="audio_stream_alarm">Alarme</string>
+    <string name="audio_stream_media">Multimédia</string>
+    <string name="audio_stream_notification">Notificação</string>
     <string name="about_coding">Codificação</string>
     <string name="about_graphics">Gráficos</string>
     <string name="about_more_apps">Mais aplicações</string>
