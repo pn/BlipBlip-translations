@@ -66,7 +66,7 @@
     <string name="period_20_minutes">20 Minuten</string>
     <string name="period_30_minutes">30 Minuten</string>
     <string name="period_60_minutes">1 Stunde</string>
-    <string name="audio_stream_phone_ring">Telefonklingelton/string>
+    <string name="audio_stream_phone_ring">Telefonklingelton</string>
     <string name="audio_stream_alarm">Wecker</string>
     <string name="audio_stream_media">Media</string>
     <string name="audio_stream_notification">System-Meldungen</string>
@@ -295,6 +295,8 @@
     <string name="warn_foreground_service_disabled">Einstellungen des Vordergrund-Dienstes wurden deaktiviert. Das kann zum Abbruch des Hintergrundprozesses führen und somit zum Anhalten der Appfunktion.</string>
     <string name="off_airplane">Schalte Flugzeugmodus aus</string>
     <string name="while_airplane_toast">BlipBlip Benachrichtigung sind jetzt ausgeschaltet, da du im Flugzeugmodus bist.</string>
-    <string name="setting_system_default">System Vorgabe</string><string name="pref_time_format_title">Zeitformat</string>
-    <string name="time_format_12h">12 Stunden Uhr</string><string name="time_format_24h">24 Stunden Uhr</string>
+    <string name="setting_system_default">System Vorgabe</string>
+    <string name="pref_time_format_title">Zeitformat</string>
+    <string name="time_format_12h">12 Stunden Uhr</string>
+    <string name="time_format_24h">24 Stunden Uhr</string>
 </resources>
