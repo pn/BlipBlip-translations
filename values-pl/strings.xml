@@ -187,8 +187,8 @@
     <string name="pref_dismissible_notification_title">Usuwalne powiadomienie</string>
     <string name="pref_dismissible_notification_on">Powiadomienie można usunąć.</string>
     <string name="pref_dismissible_notification_off">Powiadomienie jest stałe.</string>
-    <string name="pref_vibrate_wear_title">Wibruj na Wearable urządzeniu</string>
-    <string name="pref_vibrate_wear_on">Wibracja jest włączona, wibruj również na połączonym urządzeniu Android Wear</string>
+    <string name="pref_vibrate_wear_title">Wibruj na urządzeniu Android Wear</string>
+    <string name="pref_vibrate_wear_on">Jeśli wibracja jest włączona, wibruj również na połączonym urządzeniu Android Wear</string>
     <string name="pref_vibrate_wear_off">Nie wibruj na urządzeniu Android Wear</string>
     <string name="notification_question_message2">Jeśli je teraz wyłączysz, możesz je ponownie włączyć później w ustawieniach.</string> <!-- Displayed right after notification_question_title text -->
     <string name="pref_notification_settings">Ustawienia powiadomień</string>
