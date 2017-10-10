@@ -40,7 +40,7 @@
     <string name="late_notif_notif_title">Đã thay đổi cấu hình BlipBlip</string>
     <string name="late_notif_notif_text">Bật chế độ báo thức để sửa vấn đề trì hoãn</string>
     <string name="notif_as_alarm_off">Các thông báo thường gặp</string>
-    <string name="notif_as_alarm_on">Các thông báo hoạt động như báo thức – sửa trì hoãn thông báo 3-5 phút trên một số thiết bị Samsung</string>
+    <string name="notif_as_alarm_on">Các thông báo hoạt động như báo thức – sửa trì hoãn thông báo 3–5 phút trên một số thiết bị Samsung</string>
     <string name="notif_as_alarm_title">Chế độ báo thức</string>
     <string name="auto_notif_as_alarm_title">Tự động bật Chế độ Báo thức</string>
     <string name="auto_notif_as_alarm_on">Bật Chế độ Báo thức nếu phát hiện thông báo trì hoãn</string>
@@ -50,7 +50,7 @@
     <string name="debug_logs_on">Lưu nhật ký để Báo cáo vấn đề qua email</string>
     <string name="send_logs_describe">Vui lòng mô tả vấn đề của bạn gặp phải với ứng dụng (nên ghi bằng tiếng Anh):</string>
     <string name="send">Gửi</string>
-    <string name="send_email_description">Gửi email...</string>
+    <string name="send_email_description">Gửi email…</string>
     <string name="app_language">Ngôn ngữ</string>
     <string name="system_default_language">Mặc định hệ thống</string>
     <string name="sound_blipblip">BlipBlip</string>
@@ -130,7 +130,7 @@
     <string name="force_vibrate_in_vibrate_mode_on">Kích hoạt rung trong Chế độ Rung ngay cả khi đã tắt rung</string>
     <string name="force_screen_in_vibrate_mode_on">Sáng màn hình trong Chế độ Rung ngay cả khi tùy chọn \"Sáng màn hình khi có thông báo\" đã tắt</string>
     <string name="sound_in_silent_mode_off">Tắt âm thanh trong Chế độ Im lặng</string>
-    <string name="vibrate_in_silent_mode_off">Tắt rung trong Chế độ Im lặng/string>
+    <string name="vibrate_in_silent_mode_off">Tắt rung trong Chế độ Im lặng</string>
     <string name="force_screen_in_silent_mode_off">Đã tắt</string>
     <string name="sound_in_vibrate_mode_off">Tắt âm thanh trong Chế độ Rung</string>
     <string name="vibrate_in_vibrate_mode_off">Tắt rung trong Chế độ Rung</string>
@@ -175,7 +175,7 @@
     <string name="experimental_warning">Đây là các cài đặt thử nghiệm và có thể bị gỡ bỏ trong tương lai.</string>
     <string name="upcoming_notifications">Thông báo sắp tới</string>
     <string name="warning">Cảnh báo</string>
-    <string name="app_killed_warning">Gần đây BlipBlip đã bất ngờ bị dừng lại. &lt;b&gt;Vui lòng chắc chắn rằng bạn không dùng trình tối ưu hóa pin nào (hoặc là tiết kiệm pin, eco, v.v...) chế độ hoặc ứng dụng (ví dụ: Trình đóng các tác vụ)&lt;/b&gt;. Chúng thường gây ra các vấn đề. Nếu bạn cần dùng những ứng dụng này, vui lòng thêm BlipBlip vào danh sách trắng của ứng dụng đó. Nếu bạn nghĩ đây là lỗi trong ứng dụng và cần trợ giúp, vui lòng mô tả vấn đề gặp phải bằng cách dùng tùy chọn \"Báo cáo vấn đề\" hoặc viết trên &lt;a href=\"%1$s\">Cộng đồng Google+ BlipBlip&lt;/a>.</string>
+    <string name="app_killed_warning"><![CDATA[Gần đây BlipBlip đã bất ngờ bị dừng lại. <b>Vui lòng chắc chắn rằng bạn không dùng trình tối ưu hóa pin nào (hoặc là tiết kiệm pin, eco, v.v…) chế độ hoặc ứng dụng (ví dụ: Trình đóng các tác vụ)</b>. Chúng thường gây ra các vấn đề. Nếu bạn cần dùng những ứng dụng này, vui lòng thêm BlipBlip vào danh sách trắng của ứng dụng đó. Nếu bạn nghĩ đây là lỗi trong ứng dụng và cần trợ giúp, vui lòng mô tả vấn đề gặp phải bằng cách dùng tùy chọn \"Báo cáo vấn đề\" hoặc viết trên <a href=\"%1$s\">Cộng đồng Google+ BlipBlip</a>.]]></string>
     <string name="warning_dont_show_again">Đừng hiện lại</string>
     <string name="play_button_description">Kiểm tra cài đặt của bạn</string>
     <string name="pref_low_volume_fix">Sửa âm lượng thấp</string>
@@ -211,7 +211,7 @@
     <string name="pref_random_description">Số giây thời gian ngẫu nhiên có thể khác với thời gian chính xác</string>
     <string name="pref_notification_action_buttons">Nút hành động</string> <!-- Preference name for choosing which buttons are visible on notification -->
     <string name="notif_action_play">Phát</string> <!-- Description of action button. This should refer to notif_action_play -->
-    <string name="notif_action_play_desc">Phát thông báo (âm thanh, rung, v.v...) giống như từ ứng dụng.</string>
+    <string name="notif_action_play_desc">Phát thông báo (âm thanh, rung, v.v…) giống như từ ứng dụng.</string>
     <string name="notif_action_disable_or_enable">Bật/Tắt</string> <!-- Description of action button. This refers to notif_action_enable and notif_action -->
     <string name="notif_action_disable_or_enable_desc">Nút để tắt hoặc bật các thông báo.</string>
     <string name="notif_action_skip">Bỏ qua</string> <!-- this should refer to notif_button_skip -->
@@ -237,7 +237,7 @@
     <string name="msg_foreground_service_off">Dịch vụ trước nền đã tắt</string> <!-- message displayed when foreground service is disabled without user interacting with this option -->
     <string name="notification_settings_updated">Đã cập nhật cài đặt thông báo</string> <!-- message displayed when one of notification settings is updated without user interacting with these options -->
     <string name="reliability_warning">Thay đổi các cài đặt này có thể ảnh hưởng đến độ tin cậy của ứng dụng.</string> <!-- This message should be as short as possible. There is risk of cutting it off if it will be too long -->
-    <string name="app_killed_warning2">Gần đây BlipBlip đã bất ngờ dừng lại. &lt;b&gt;Vui lòng đảm bảo rằng bạn không đang sử dụng trình tối ưu hóa pin nào (hoặc là tiết kiệm pin, eco, v.v...) chế độ hoặc ứng dụng (ví dụ trình đóng tác vụ)&lt;/b&gt;. Chúng thường gây ra các vấn đề như vậy. Nếu bạn cần dùng những ứng dụng này, vui lòng thêm BlipBlip vào danh sách trắng của ứng dụng đó. Nếu bạn nghĩ đây là lỗi và cần trợ giúp, vui lòng mô tả vấn đề bạn gặp phải bằng tùy chọn \"%1$s\".</string> <!-- Text in quotes will be replaced by value of action_send_logs -->
+    <string name="app_killed_warning2"><![CDATA[Gần đây BlipBlip đã bất ngờ dừng lại. <b>Vui lòng đảm bảo rằng bạn không đang sử dụng trình tối ưu hóa pin nào (hoặc là tiết kiệm pin, eco, v.v…) chế độ hoặc ứng dụng (ví dụ trình đóng tác vụ)</b>. Chúng thường gây ra các vấn đề như vậy. Nếu bạn cần dùng những ứng dụng này, vui lòng thêm BlipBlip vào danh sách trắng của ứng dụng đó. Nếu bạn nghĩ đây là lỗi và cần trợ giúp, vui lòng mô tả vấn đề bạn gặp phải bằng tùy chọn \"%1$s\".]]></string> <!-- Text in quotes will be replaced by value of action_send_logs -->
     <string name="warn_power_saving">Để đảm bảo hoạt động đáng tin cậy vui lòng tắt tất cả chế độ tiết kiệm pin.</string> <!-- Please make this as short as possible -->
     <string name="warn_notification_skip">Vài thông báo sẽ bị bỏ qua.</string> <!-- Please make this as short as possible. This warning is displayed when user chooses to skip few upcoming notifications. -->
     <string name="warn_alarm_skip">Vài báo thức sẽ bị bỏ qua.</string> <!-- Please make this as short as possible. This warning is displayed when user chooses to skip few upcoming alarms. -->
@@ -265,32 +265,21 @@
     <string name="pref_audio_focus_dont_duck_off">Trong khi ứng dụng đang phát âm thanh các ứng dụng khác có thể giảm âm lượng của nó thấp hơn.</string>
 
     <plurals name="number_of_hours">
-        <!-- check which quantities and how should be used for given language here http://www.unicode.org/cldr/charts/29/supplemental/language_plural_rules.html -->
-        <!--item quantity="zero"></item-->
-        <item quantity="one">%d giờ</item>
-        <!--item quantity="two"></item-->
-        <!--item quantity="few"></item-->
-        <!--item quantity="many"></item-->
         <item quantity="other">%d giờ</item>
     </plurals>
     <plurals name="number_of_minutes">
-        <item quantity="one">%d phút</item>
         <item quantity="other">%d phút</item>
     </plurals>
     <plurals name="number_of_seconds">
-        <item quantity="one">%d giây</item>
         <item quantity="other">%d giây</item>
     </plurals>
     <plurals name="repeat_every_x_hours"> <!-- "X hours" as in "Repeat every X hours" is different in some languages (e.g. Polish) from regular "X hours" -->
-        <item quantity="one">%d giờ</item>
         <item quantity="other">%d giờ</item>
     </plurals>
     <plurals name="repeat_every_x_minutes">
-        <item quantity="one">%d phút</item>
         <item quantity="other">%d phút</item>
     </plurals>
     <plurals name="repeat_every_x_seconds">
-        <item quantity="one">%d giây</item>
         <item quantity="other">%d giây</item>
     </plurals>
 
