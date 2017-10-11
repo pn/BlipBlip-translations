@@ -366,6 +366,7 @@
     <string name="more_actions">More actions</string>
     <string name="start_time">Start time</string>
     <string name="end_time">End time</string>
+    <string name="whole_day">Whole day</string>
     <string name="enable_screen">Enable screen</string>
     <string name="delay_to_next_chime">Wait for</string>
     <string name="action_rename">Rename</string>

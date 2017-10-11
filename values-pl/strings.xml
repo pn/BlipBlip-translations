@@ -374,6 +374,7 @@
     <string name="more_actions">Więcej akcji</string>
     <string name="start_time">Czas rozpoczęcia</string>
     <string name="end_time">Czas zakończenia</string>
+    <string name="whole_day">Cały dzień</string>
     <string name="enable_screen">Włącz ekran</string>
     <string name="delay_to_next_chime">Zaczekaj na</string>
     <string name="action_rename">Zmień nazwę</string>
@@ -411,7 +412,7 @@
     <string name="dialog_premium_trial_text2">Naciśnij \"Odblokuj\" aby rozpocząć okres próbny.</string>
     <string name="dialog_premium_trial_button_text">Rozpocznij darmowy okres próbny teraz</string>
     <string name="dialog_premium_trial_title">Odblokuj funkcje płatne</string>
-    <string name="dialog_premium_features_description">Akcja, którą próbowałeś wykonać używan następujących płatnych funkcji:</string>
+    <string name="dialog_premium_features_description">Akcja, którą próbowałeś wykonać używa następujących płatnych funkcji:</string>
     <string name="feature_custom_sounds">Niestandardowe dźwięki</string>
     <string name="feature_multiple_notifications">Wiele powiadomień</string>
     <string name="feature_custom_reapeat">Niestandardowy interwał powtarzania</string>
