@@ -312,4 +312,145 @@
     <string name="time_format_12h">12-godzinny</string>
     <string name="time_format_24h">24-godzinny</string>
 
+    <string name="theme_blipblip">BlipBlip</string>
+    <string name="theme_standard">Standardowy</string>
+    <string name="theme_blue">Niebieski</string>
+    <string name="theme_yellow">Żółty</string>
+    <string name="theme_purple">Fioletowy</string>
+    <string name="theme_red">Czerwony</string>
+    <string name="theme_green">Zielony</string>
+    <string name="theme_blue_gray">Niebieskoszary</string>
+    <string name="theme_orange">Pomarańczowy</string>
+    <string name="theme_indigo">Indygo</string>
+    <string name="theme_cyan">Turkus</string>
+    <string name="theme_teal">Morski</string>
+
+    <string name="pref_color_theme">Kolorystyka</string>
+    <string name="cycle_themes_message">Przełączaj kolory przyciskami głośności.</string>
+    <string name="cycle_themes_finish">Zakończ</string>
+    <string name="cycle_themes">Przełącz kolory</string>
+    <string name="cycle_themes_description">Pozwala na przełączanie kolorów przyciskami głośności.</string>
+    <string name="color_next_notification_bar">Kolor paska następnego powiadomienia</string>
+    <string name="color_next_notification_bar_on">Użyj kolorowego tła dla paska następnego powiadomienia.</string>
+    <string name="color_next_notification_bar_off">Użyj szarego tła dla paska następnego powiadomienia.</string>
+    <string name="dark_theme">Ciemna kolorystyka</string>
+    <string name="dark_theme_on">Używaj ciemnej kolorystyki</string>
+    <string name="dark_theme_off">Używaj jasnej kolorystyki</string>
+
+    <string name="title_activity_sounds">Dźwięki</string>
+    <string name="title_activity_sound">Dźwięk</string>
+    <string name="title_activity_vibrations">Wibracje</string>
+    <string name="title_activity_vibration">Wibracja</string>
+    <string name="action_delete">Usuń</string>
+    <string name="action_add_vibration_pattern">Dodaj wpis</string>
+    <string name="dialog_title_deletion">Potwierdź usunięcie</string>
+    <string name="dialog_message_confirm">Czy jesteś pewien?</string>
+    <string name="vibration_name">Nazwa wibracji</string>
+    <string name="action_restore_defaults">Przywróć domyślne</string>
+    <string name="restore_defaults_title">Przywrócić domyślne?</string>
+    <string name="restore_defaults_message">Wszystkie dane na tym ekranie zostaną usunięte i przywrócone do wartości domyślnych. Kontynuować?</string>
+    <string name="action_add_system_notification_sound">Dodaj dźwięk powiadomienia</string>
+    <string name="add_vibration">Dodaj wibrację</string>
+    <string name="edit">Edytuj</string> <!-- Name of action to edit list of sounds or list of vibrations, should be short -->
+    <string name="error_file_open_failed">Nie udało się otworzyć pliku.</string>
+    <string name="play_vibration">Wibruj</string> <!-- description of action of a button -->
+    <string name="play_sound">Odtwórz dźwięk</string> <!-- description of action of a button -->
+    <string name="drag_handle">Uchwyt do przesuwania</string>
+    <string name="app_icon_desc">Ikona aplikacji</string>
+    <string name="select_audio_file">Wybierz plik dźwiękowy</string>
+    <string name="select_notification_tone">Wybierz dźwięk powiadomienia</string>
+    <string name="add_sound_to_blipblip">Dodaj do BlipBlip</string>
+    <string name="permission_denied_message">BlipBlip nie ma uprawnień do odczytu pliku.\nCzy chcesz zainstalować dodatek, który umożliwi otwarcie pliku?\nMożesz także użyć innej aplikacji, która nie wymusza posiadania specjlanych uprawnień (np. Dysk Google).</string>
+    <string name="install">Zainstaluj</string> <!-- action text for button to install additional app -->
+    <string name="failed_run_addon">Nie udało się uruchomić Dodatku BlipBlip</string>
+    <string name="update_required">Wymagana aktualizacja</string>
+    <string name="update_required_message">Dodatek BlipBlip wymaga aktualizacji. Czy chcesz zaktualizować go teraz?</string>
+    <string name="update_required_action">Aktualizuj</string>
+
+    <!-- Menu drawer strings -->
+    <string name="drawer_open">Otwórz szufladę nawigacyjną</string>
+    <string name="drawer_close">Zamknij szufladę nawigacyjną</string>
+
+    <string name="more_actions">Więcej akcji</string>
+    <string name="start_time">Czas rozpoczęcia</string>
+    <string name="end_time">Czas zakończenia</string>
+    <string name="enable_screen">Włącz ekran</string>
+    <string name="delay_to_next_chime">Zaczekaj na</string>
+    <string name="action_rename">Zmień nazwę</string>
+    <string name="pref_accessibility">Dostępność</string>
+    <string name="pref_swipe">Przesunięcie</string>
+    <string name="pref_swipe_on">Przesunięcie włączone dla elementów list</string>
+    <string name="pref_swipe_off">Przesunięcie wyłączone dla elementów list</string>
+    <string name="pref_clickable_actions">Naciskalne akcje</string>
+    <string name="pref_clickable_actions_on">Pokaż menu z akcjami, które normalnie wymagały by przesuwania palcem. Przydatne wraz z TalkBack.</string>
+    <string name="pref_clickable_actions_off">Ukryj menu z akcjami</string>
+    <string name="next_notification_never2">Następne powiadomienie: nigdy</string>
+    <string name="show_seconds_title">Pokaż sekundy</string>
+    <string name="show_seconds_on">Można wybierać sekundy. Wyświetla czas z sekundami.</string>
+    <string name="show_seconds_off">Nie można wybierać sekund. Wyświetla czas bez sekund.</string>
+    <string name="notification_disabled_warning">Powiadomienie jest wyłączone</string>
+    <string name="social_facebook">Facebook</string>
+    <string name="social_twitter">Twitter</string>
+    <string name="social_google_plus">Google+</string>
+    <string name="social_google_plus_community">Społeczność Google+</string>
+    <string name="finish_previous">Zakończ poprzednie akcje</string>
+    <string name="finish_previous_title">Czekaj na</string>
+    <string name="finish_previous_description">zakończenie poprzednich akcji</string>
+    <string name="libraries">Biblioteki</string> <!-- title of screen showing licenses of programming libraries used by the app -->
+    <string name="acknowledgements">Podziękowania</string>
+    <string name="troubleshooting">Rozwiązywanie problemów</string>
+    <string name="premium_features">Funkcje dodatkowo płatne</string>
+    <string name="disable_when_headset">Wyłącz kiedy słuchawki podłączone</string>
+    <string name="disable_when_headset_on">Wszystie powiadomienia wyłączone</string>
+    <string name="disable_when_headset_off">Wszystkie powiadomienia włączone</string>
+    <string name="disable_when_headset_toast">Powiadomienia są teraz wyłączone, ponieważ masz podłączone słuchawki.</string>
+
+
+    <!-- paid features texts -->
+    <string name="dialog_premium_trial_text">Uzyskaj wszystkie aktualne i przyszłe funkcje.</string>
+    <string name="dialog_premium_trial_text2">Naciśnij \"Odblokuj\" aby rozpocząć okres próbny.</string>
+    <string name="dialog_premium_trial_button_text">Rozpocznij darmowy okres próbny teraz</string>
+    <string name="dialog_premium_trial_title">Odblokuj funkcje płatne</string>
+    <string name="dialog_premium_features_description">Akcja, którą próbowałeś wykonać używan następujących płatnych funkcji:</string>
+    <string name="feature_custom_sounds">Niestandardowe dźwięki</string>
+    <string name="feature_multiple_notifications">Wiele powiadomień</string>
+    <string name="feature_custom_reapeat">Niestandardowy interwał powtarzania</string>
+
+
+    <string name="dialog_no_thanks">Nie, dziękuję</string>
+    <string name="dialog_premium_unlock_button_text">Odblokuj</string>
+    <string name="about_thank_you">Podziękowania</string>
+
+    <string name="snack_bar_text_item_removed">1 element usunięty</string>
+    <string name="snack_bar_action_undo">cofnij</string>
+
+    <string name="add_item">Dodaj element</string>
+    <string name="action_add_child_notification">Dodaj podrzędne powiadomienie</string>
+    <string name="action_add_condition">Add warunek</string>
+    <string name="dialog_title_days_of_week">Dni tygodnia</string>
+    <string name="dialog_title_date">Data</string>
+    <string name="start_date">Data początkowa</string>
+    <string name="end_date">Data końcowa</string>
+    <string name="dialog_title_time">Czas</string>
+    <string name="dialog_title_time_range">Przedział czasu</string>
+    <string name="dialog_title_repeat">Powtarzaj co</string>
+    <string name="interval">Interwał</string>
+    <string name="no_repeat">Bez powtórzeń</string>
+    <string name="action_add_action">Dodaj akcję</string>
+    <string name="favorite_condition_dialog_edit">Edytuj</string>
+    <string name="favorite_condition_dialog_create">Utwórz</string>
+    <string name="system_notification">Powiadomienie systemowe</string>
+    <string name="popup_text">Wyskakujący tekst</string>
+    <string name="no_actions_added">Nie dodano akcji</string>
+    <string name="no_valid_condition_added">Brak poprawnych warunków</string>
+    <string name="no_valid_children_notification">Wszystkie podrzędne powiadomienia sa niprawidłowe</string>
+    <string name="error_indicator">Wskaźnik błędu</string>
+    <string name="next_notification_parent_off">Wyłączone (nadrzędne)</string>
+    <string name="next_day">następnego dnia</string>
+    <string name="notifications">Powiadomienia</string>
+    <string name="warning_no_email_app">Brak aplikacji email do wysłania raportu.</string>
+    <string name="weeknights">Noce w dni powszednie</string> <!-- nights from sunday to thursday -->
+    <string name="weekend_nights">Noce weekendowe</string> <!-- nights on friday and saturday -->
+    <string name="weekend">Weekend</string> <!-- saturday and sunday -->
+
 </resources>
