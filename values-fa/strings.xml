@@ -189,6 +189,9 @@
     <string name="pref_vibrate_wear_title">Vibrate on Wear</string>
     <string name="pref_vibrate_wear_on">If vibration is enabled vibrate also on connected Android Wear device</string>
     <string name="pref_vibrate_wear_off">Do not vibrate on Android Wear</string>
+    <string name="pref_vibrate_wearable_title">@string/pref_vibrate_wear_title</string> <!-- TODO translate "Vibrate on connected device" -->
+    <string name="pref_vibrate_wearable_on">@string/pref_vibrate_wear_on</string> <!-- TODO translate "If vibration is enabled vibrate also on connected wearable device (e.g. smart watch)" -->
+    <string name="pref_vibrate_wearable_off">@string/pref_vibrate_wear_off</string> <!-- TODO translate "Do not vibrate on connected wearable device" -->
     <string name="notification_question_message2">If you disable it you can enable it later in the settings.</string> <!-- Displayed right after notification_question_title text -->
     <string name="pref_notification_settings">Notification settings</string>
     <string name="pref_vibrate_on_main_device">Vibrate on main device</string> <!-- Translation note: "device" is used because it can be phone or tablet. Related with pref_vibrate_wear_title option. -->

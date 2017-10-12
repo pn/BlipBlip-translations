@@ -182,6 +182,9 @@
     <string name="pref_vibrate_wear_off">"Desactiva vibració a l' Android Wear"</string>
     <string name="pref_vibrate_wear_on">Si la vibració està activada, la vibración també deuria manifestar-se en el dispositiu Android Wear</string>
     <string name="pref_vibrate_wear_title">Vibra amb Wear</string>
+    <string name="pref_vibrate_wearable_title">@string/pref_vibrate_wear_title</string> <!-- TODO translate "Vibrate on connected device" -->
+    <string name="pref_vibrate_wearable_on">@string/pref_vibrate_wear_on</string> <!-- TODO translate "If vibration is enabled vibrate also on connected wearable device (e.g. smart watch)" -->
+    <string name="pref_vibrate_wearable_off">@string/pref_vibrate_wear_off</string> <!-- TODO translate "Do not vibrate on connected wearable device" -->
     <string name="pref_visual">Configuració visual</string>
     <string name="quiet_day_warning">"Notificació desactivada perquè el dia d' avui es troba configurat com dia silenciós"</string>
     <string name="quiet_days_title">Dies en silenci</string>

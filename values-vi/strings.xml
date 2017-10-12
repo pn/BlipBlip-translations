@@ -190,6 +190,9 @@
     <string name="pref_vibrate_wear_title">Rung trên thiết bị Android Wear</string>
     <string name="pref_vibrate_wear_on">Nếu rung được kích hoạt thì khi kết nối đến thiết bị Android Wear nó cũng sẽ rung</string>
     <string name="pref_vibrate_wear_off">Không rung trên thiết bị Android Wear</string>
+    <string name="pref_vibrate_wearable_title">@string/pref_vibrate_wear_title</string> <!-- TODO translate "Vibrate on connected device" -->
+    <string name="pref_vibrate_wearable_on">@string/pref_vibrate_wear_on</string> <!-- TODO translate "If vibration is enabled vibrate also on connected wearable device (e.g. smart watch)" -->
+    <string name="pref_vibrate_wearable_off">@string/pref_vibrate_wear_off</string> <!-- TODO translate "Do not vibrate on connected wearable device" -->
     <string name="notification_question_message2">Nếu bạn tắt nó bạn có thể bật lại sau trong phần cài đặt.</string> <!-- Displayed right after notification_question_title text -->
     <string name="pref_notification_settings">Cài đặt thông báo</string>
     <string name="pref_vibrate_on_main_device">Rung trên thiết bị chính</string> <!-- Translation note: "device" is used because it can be phone or tablet. Related with pref_vibrate_wear_title option. -->

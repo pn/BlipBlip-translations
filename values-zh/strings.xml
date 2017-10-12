@@ -166,6 +166,9 @@
     <string name="pref_vibrate_wear_off">不要在Android Wear上振动</string>
     <string name="pref_vibrate_wear_on">如果振动开启，在连接的Android Wear上也振动</string>
     <string name="pref_vibrate_wear_title">在手表上振动</string>
+    <string name="pref_vibrate_wearable_title">@string/pref_vibrate_wear_title</string> <!-- TODO translate "Vibrate on connected device" -->
+    <string name="pref_vibrate_wearable_on">@string/pref_vibrate_wear_on</string> <!-- TODO translate "If vibration is enabled vibrate also on connected wearable device (e.g. smart watch)" -->
+    <string name="pref_vibrate_wearable_off">@string/pref_vibrate_wear_off</string> <!-- TODO translate "Do not vibrate on connected wearable device" -->
     <string name="pref_visual">V外观设置</string>
     <string name="quiet_day_warning">&#22240;&#20026;&#20170;&#22825;&#26159; \"&#20813;&#25171;&#25200;&#26102;&#27573;\"&#25152;&#20197;&#36890;&#30693;&#24050;&#31105;&#29992;&#12290;</string>
     <string name="quiet_days_title">&#20813;&#25171;&#25200;&#26085;&#26399;</string>
