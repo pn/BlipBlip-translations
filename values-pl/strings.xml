@@ -456,5 +456,6 @@
     <string name="weeknights">Noce w dni powszednie</string> <!-- nights from sunday to thursday -->
     <string name="weekend_nights">Noce weekendowe</string> <!-- nights on friday and saturday -->
     <string name="weekend">Weekend</string> <!-- saturday and sunday -->
+    <string name="cannot_enable_app">Nie można włączyć aplikacji w tym momencie.</string>
 
 </resources>
