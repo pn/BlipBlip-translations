@@ -302,4 +302,158 @@
     <string name="pref_time_format_title">Zeitformat</string>
     <string name="time_format_12h">12 Stunden Uhr</string>
     <string name="time_format_24h">24 Stunden Uhr</string>
+
+    <string name="theme_blipblip">BlipBlip</string>
+    <string name="theme_standard">Standard</string>
+    <string name="theme_blue">Blue</string>
+    <string name="theme_yellow">Yellow</string>
+    <string name="theme_purple">Purple</string>
+    <string name="theme_red">Red</string>
+    <string name="theme_green">Green</string>
+    <string name="theme_blue_gray">Blue grey</string>
+    <string name="theme_orange">Orange</string>
+    <string name="theme_indigo">Indigo</string>
+    <string name="theme_cyan">Cyan</string>
+    <string name="theme_teal">Teal</string>
+
+    <string name="pref_color_theme">Theme</string>
+    <string name="cycle_themes_message">Switch themes using volume buttons.</string>
+    <string name="cycle_themes_finish">Finish</string>
+    <string name="cycle_themes">Cycle themes</string>
+    <string name="cycle_themes_description">Allows switching themes using volume buttons.</string>
+    <string name="color_next_notification_bar">Color next notification bar</string>
+    <string name="color_next_notification_bar_on">Use color background for next notification bar.</string>
+    <string name="color_next_notification_bar_off">Use gray background for next notification bar.</string>
+    <string name="dark_theme">Dark theme</string>
+    <string name="dark_theme_on">Use dark theme</string>
+    <string name="dark_theme_off">Use light theme</string>
+
+    <string name="title_activity_sounds">Sounds</string>
+    <string name="title_activity_sound">@string/sound_text</string>
+    <string name="title_activity_vibrations">Vibrations</string>
+    <string name="title_activity_vibration">@string/vibrate</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_add_vibration_pattern">Add entry</string>
+    <string name="dialog_title_deletion">Confirm deletion</string>
+    <string name="dialog_message_confirm">Are you sure?</string>
+    <string name="vibration_name">Vibration name</string>
+    <string name="action_restore_defaults">Restore defaults</string> <!-- e.g. for sounds or vibrations -->
+    <string name="restore_defaults_title">Restore to defaults?</string>
+    <string name="restore_defaults_message">All data on this screen will be deleted and restored to defaults. Continue?</string>
+    <string name="action_add_system_notification_sound">Add notification sound</string>
+    <string name="add_vibration">Add vibration</string>
+    <string name="edit">Edit</string> <!-- Name of action to edit list of sounds or list of vibrations, should be short -->
+    <string name="error_file_open_failed">Failed to open file.</string>
+    <string name="play_vibration">Vibrate</string> <!-- description of action of a button to perform vibration -->
+    <string name="play_sound">Play sound</string> <!-- description of action of a button to play sound -->
+    <string name="drag_handle">Drag handle</string>
+    <string name="app_icon_desc">App icon</string>
+    <string name="select_audio_file">Select Audio</string>
+    <string name="select_notification_tone">Select Tone</string>
+    <string name="add_sound_to_blipblip">Add to BlipBlip</string>
+    <string name="permission_denied">Permission denied</string>
+    <string name="permission_denied_message">BlipBlip does not have permission to read the file.\nDo you want to install add-on which has this permission?\nYou can also use some other app which supports transferring files without need for additional permission (e.g. Google Drive).</string>
+    <string name="install">Install</string> <!-- action text for button to install additional app -->
+    <string name="failed_run_addon">Failed to launch BlipBlip Add-on</string>
+    <string name="update_required">Update required</string>
+    <string name="update_required_message">BlipBlip Add-on plugin requires update. Would you like to update it now?</string>
+    <string name="update_required_action">Update</string> <!-- action to update app -->
+
+    <!-- Menu drawer strings -->
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+    <string name="more_actions">More actions</string>
+    <string name="start_time">Start time</string>
+    <string name="end_time">End time</string>
+    <string name="whole_day">Whole day</string>
+    <string name="enable_screen">Enable screen</string>
+    <string name="delay_to_next_chime">Wait for</string>
+    <string name="action_rename">Rename</string>
+    <string name="pref_accessibility">Accessibility</string>
+    <string name="pref_swipe">Swipe</string>
+    <string name="pref_swipe_on">Swiping enabled on list items</string>
+    <string name="pref_swipe_off">Swiping disabled on list items</string>
+    <string name="pref_action_menus">Action menus</string>
+    <string name="pref_action_menus_on">Show menus with actions that would otherwise require gestures (e.g. swiping). Useful when using TalkBack.</string>
+    <string name="pref_action_menus_off">Hide menus with actions that can also be performed using gestures.</string>
+    <string name="next_notification_never2">Next notification: never</string>
+    <string name="show_seconds_title">Show seconds</string>
+    <string name="show_seconds_on">Choosing seconds is enabled. Displays times with seconds.</string>
+    <string name="show_seconds_off">Choosing seconds is disabled. Display times without seconds.</string>
+    <string name="notification_disabled_warning">Notification is disabled</string>
+    <string name="social_facebook">Facebook</string>
+    <string name="social_twitter">Twitter</string>
+    <string name="social_google_plus">Google+</string>
+    <string name="social_google_plus_community">Google+ Community</string>
+    <string name="finish_previous">Finish previous actions</string>
+    <string name="finish_previous_title">Wait for</string>
+    <string name="finish_previous_description">previous actions to finish</string>
+    <string name="libraries">Libraries</string> <!-- title of screen showing licenses of programming libraries used by the app -->
+    <string name="acknowledgements">Acknowledgements</string> <!-- name of screen with authors, translators and other people who have helped -->
+    <string name="troubleshooting">Troubleshooting</string>
+    <string name="premium_features">Premium features</string>
+    <string name="disable_when_headset">Disable when headset connected</string>
+    <string name="disable_when_headset_on">All notifications disabled</string>
+    <string name="disable_when_headset_off">All notifications enabled</string>
+    <string name="disable_when_headset_toast">BlipBlip notifications are now disabled, because you have headset connected.</string>
+
+
+    <!-- paid features texts -->
+    <string name="dialog_premium_trial_text">Get all current and future features.</string>
+    <string name="dialog_premium_trial_text2">Press \"Unlock\" to start your free trial.</string> <!-- use same text as in dialog_premium_unlock_button_text -->
+    <string name="dialog_premium_trial_button_text">Start free trial now</string>
+    <string name="dialog_premium_trial_title">Unlock premium functions</string>
+    <string name="dialog_premium_features_description">Action you tried to performed uses following premium features:</string>
+    <string name="feature_custom_sounds">Custom sounds</string>
+    <string name="feature_multiple_notifications">Multiple notifications</string>
+    <string name="feature_custom_reapeat">Custom repeat interval</string>
+
+
+    <string name="dialog_no_thanks">No, thanks</string>
+    <string name="dialog_premium_unlock_button_text">Unlock</string>
+    <string name="about_thank_you">Thank You</string>
+
+    <string name="snack_bar_text_item_removed">1 item removed</string>
+    <string name="snack_bar_action_undo">UNDO</string>
+
+    <string name="add_item">Add item</string>
+3    <string name="action_add_child_notification">Add child notification</string>
+    <string name="action_add_condition">Add condition</string>
+    <string name="dialog_title_days_of_week">Days of Week</string>
+    <string name="dialog_title_date">Date</string>
+    <string name="start_date">Start date</string>
+    <string name="end_date">End date</string>
+    <string name="dialog_title_time">Time</string>
+    <string name="dialog_title_time_range">Time range</string>
+    <string name="dialog_title_repeat">Repeat every</string>
+    <string name="interval">Interval</string>
+    <string name="no_repeat">No repeat</string>
+    <string name="action_add_action">Add action</string>
+    <string name="favorite_condition_dialog_edit">Edit</string>
+    <string name="favorite_condition_dialog_create">Create</string>
+    <string name="system_notification">System notification</string>
+    <string name="popup_text">Popup text</string>
+    <string name="no_actions_added">No actions added</string>
+    <string name="no_valid_condition_added">No valid conditions defined</string>
+    <string name="no_valid_children_notification">All child notifications are invalid</string>
+    <string name="error_indicator">Error indicator</string>
+    <string name="next_notification_parent_off">Off (parent)</string>
+    <string name="next_day">next day</string> <!-- Used in: "22:00 - 6:00 next day" -->
+    <string name="notifications">Notifications</string>
+    <string name="warning_no_email_app">No email application found to send the report.</string>
+    <string name="weeknights">Weeknights</string> <!-- nights from sunday to thursday -->
+    <string name="weekend_nights">Weekend nights</string> <!-- nights on friday and saturday -->
+    <string name="weekend">Weekend</string> <!-- saturday and sunday -->
+    <string name="cannot_enable_app">Cannot enable app right now.</string>
+
+    <string name="vibration_silence_millis">Silence duration in milliseconds</string>
+    <string name="vibration_duration_millis">Vibration duration in milliseconds</string>
+    <string name="vibration_strength">Vibration strength</string>
+
+    <string name="advice_disable_task_killers">Disable task killers</string>
+    <string name="advice_disable_task_killers_desc">Task killers should be disabled or BlipBlip should be added in their white lists to keep app alive.</string>
+    <string name="advice_enable_foreground_service">Enable foreground service</string>
+    <string name="advice_enable_foreground_service_desc"><p>Foreground service option informs OS that application should not be killed if possible.</p><p>It will display persistent notification which can be hidden from system settings (hiding it from the app will disable this option).</p></string>
+
 </resources>
