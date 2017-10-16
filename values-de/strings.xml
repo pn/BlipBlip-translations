@@ -353,6 +353,7 @@
     <string name="add_sound_to_blipblip">Add to BlipBlip</string>
     <string name="permission_denied">Permission denied</string>
     <string name="permission_denied_message">BlipBlip does not have permission to read the file.\nDo you want to install add-on which has this permission?\nYou can also use some other app which supports transferring files without need for additional permission (e.g. Google Drive).</string>
+    <string name="permission_denied_message_no_addon">BlipBlip does not have permission to read the file.\nPlease use some other app that shares file without need for additional permission (e.g. Google Drive).</string>
     <string name="install">Install</string> <!-- action text for button to install additional app -->
     <string name="failed_run_addon">Failed to launch BlipBlip Add-on</string>
     <string name="update_required">Update required</string>

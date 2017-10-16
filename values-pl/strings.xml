@@ -364,7 +364,8 @@
     <string name="select_notification_tone">Wybierz dźwięk powiadomienia</string>
     <string name="add_sound_to_blipblip">Dodaj do BlipBlip</string>
     <string name="permission_denied">Brak uprawnień</string>
-    <string name="permission_denied_message">BlipBlip nie ma uprawnień do odczytu pliku.\nCzy chcesz zainstalować dodatek, który umożliwi otwarcie pliku?\nMożesz także użyć innej aplikacji, która nie wymusza posiadania specjlanych uprawnień (np. Dysk Google).</string>
+    <string name="permission_denied_message">BlipBlip nie ma uprawnień do odczytu pliku.\nCzy chcesz zainstalować dodatek, który umożliwi otwarcie pliku?\nMożesz także użyć innej aplikacji, która nie wymusza posiadania specjalanych uprawnień (np. Dysk Google).</string>
+    <string name="permission_denied_message_no_addon">BlipBlip nie ma uprawnień do odczytu pliku.\nProszę użyj innej aplikacji, która nie wymusza posiadania specjalanych uprawnień (np. Dysk Google).</string>
     <string name="install">Zainstaluj</string> <!-- action text for button to install additional app -->
     <string name="failed_run_addon">Nie udało się uruchomić Dodatku BlipBlip</string>
     <string name="update_required">Wymagana aktualizacja</string>
