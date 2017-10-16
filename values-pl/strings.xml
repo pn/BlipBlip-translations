@@ -458,4 +458,13 @@
     <string name="weekend">Weekend</string> <!-- saturday and sunday -->
     <string name="cannot_enable_app">Nie można włączyć aplikacji w tym momencie.</string>
 
+    <string name="vibration_silence_millis">Długość ciszy w milisekndach</string>
+    <string name="vibration_duration_millis">Długość wibracji w milisekundach</string>
+    <string name="vibration_strength">Siła wibracji</string>
+
+    <string name="advice_disable_task_killers">Wyłączenie \"task killerów\"</string>
+    <string name="advice_disable_task_killers_desc">Programy zabijające inne aplikacje (tzw. task killer) powinny być wyłączone lub BlipBlip powinien być dodany do odpowiedniej listy wyjątków w tych aplikacjach.</string>
+    <string name="advice_enable_foreground_service">Włączenie Usługi pierwszoplanowej</string>
+    <string name="advice_enable_foreground_service_desc"><p>Opcja \"Usługa pierwszoplanowa\" informuje system operacyjny, że aplikacja nie powinna być zabijana (o ile to możliwe).</p><p>It will display persistent notification which can be hidden from system settings (hiding it from the app will disable this option).</p></string>
+
 </resources>
