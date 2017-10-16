@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE resources [<!ELEMENT resources (string|plurals)*><!ELEMENT string (#PCDATA)><!ATTLIST stringname CDATA #REQUIRED><!ELEMENT plurals (item)*><!ATTLIST pluralsname CDATA #REQUIRED><!ELEMENT item (#PCDATA)><!ATTLIST itemquantity CDATA #REQUIRED>]>
 <resources>
     <string name="action_settings">Ustawienia</string>
     <string name="vibrate">Wibracja</string>
@@ -118,14 +118,14 @@
     <string name="sound_in_silent_mode_title">Dźwięk w trybie cichym</string>
     <string name="vibrate_in_silent_mode_title">Wibracja w trybie cichym</string>
     <string name="force_screen_in_silent_mode_title">Wymuszenie włączenia ekranu</string>
-    <string name="sound_in_vibrate_mode_title">Dżwięk w trybie wibracji</string>
+    <string name="sound_in_vibrate_mode_title">Dźwięk w trybie wibracji</string>
     <string name="vibrate_in_vibrate_mode_title">Wibracja w trybie wibracji</string>
     <string name="force_vibrate_in_vibrate_mode_title">Wymuś wibracje</string>
     <string name="force_screen_in_vibrate_mode_title">Wymuś włączenie ekranu</string>
-    <string name="sound_in_silent_mode_on">Zezwól na odtarzanie dźwięku w trybie cichym telefonu</string>
+    <string name="sound_in_silent_mode_on">Zezwól na odtwarzanie dźwięku w trybie cichym telefonu</string>
     <string name="vibrate_in_silent_mode_on">Zezwól na wibracje w trybie cichym telefonu</string>
     <string name="force_screen_in_silent_mode_on">Rozświetl ekran w trybie cichym nawet jeśli opcja \"Włącz ekran podczas powiadomienia\" jest wyłączona</string>
-    <string name="sound_in_vibrate_mode_on">Zezwól na odtarzanie dźwięku w trybie wibracji</string>
+    <string name="sound_in_vibrate_mode_on">Zezwól na odtwarzanie dźwięku w trybie wibracji</string>
     <string name="vibrate_in_vibrate_mode_on">Zezwól na wibracje w trybie wibracji</string>
     <string name="force_vibrate_in_vibrate_mode_on">Wymuś wibracje w trybie wibracji, nawet jeśli wibracje są wyłączone</string>
     <string name="force_screen_in_vibrate_mode_on">Rozświetl ekran w trybie cichym nawet jeśli opcja \"Włącz ekran podczas powiadomienia\" jest wyłączona</string>
@@ -264,7 +264,7 @@
     <string name="pref_audio_focus_on">Podczas odtwarzania dźwięku, dźwięki innych aplikacji będą ściszone lub zatrzymane.</string>
     <string name="pref_audio_focus_off">Dźwięki innych aplikacji będą odtwarzane normalnie.</string>
     <string name="pref_audio_focus_dont_duck_title">Zatrzymaj odtwarzanie</string>
-    <string name="pref_audio_focus_dont_duck_on">Podczas odtwarzania dźwięku, inne aplikacje mogą zatrzymać odtwarzania dźwięków.</string>
+    <string name="pref_audio_focus_dont_duck_on">Podczas odtwarzania dźwięku, inne aplikacje mogą zatrzymać odtwarzanie dźwięków.</string>
     <string name="pref_audio_focus_dont_duck_off">Podczas odtwarzania dźwięku, inne aplikacje mogą ściszyć odtwarzanie dźwięków.</string>
 
     <plurals name="number_of_hours">
