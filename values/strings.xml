@@ -377,9 +377,9 @@
     <string name="pref_swipe">Swipe</string>
     <string name="pref_swipe_on">Swiping enabled on list items</string>
     <string name="pref_swipe_off">Swiping disabled on list items</string>
-    <string name="pref_clickable_actions">Clickable actions</string>
-    <string name="pref_clickable_actions_on">Show menus with actions that would otherwise require swiping with finger. Useful when using TalkBack.</string>
-    <string name="pref_clickable_actions_off">Hide menus with actions</string>
+    <string name="pref_action_menus">Action menus</string>
+    <string name="pref_action_menus_on">Show menus with actions that would otherwise require gestures (e.g. swiping). Useful when using TalkBack.</string>
+    <string name="pref_action_menus_off">Hide menus with actions that can also be performed using gestures.</string>
     <string name="next_notification_never2">Next notification: never</string>
     <string name="show_seconds_title">Show seconds</string>
     <string name="show_seconds_on">Choosing seconds is enabled. Displays times with seconds.</string>
@@ -449,5 +449,9 @@
     <string name="weekend_nights">Weekend nights</string> <!-- nights on friday and saturday -->
     <string name="weekend">Weekend</string> <!-- saturday and sunday -->
     <string name="cannot_enable_app">Cannot enable app right now.</string>
+
+    <string name="vibration_silence_millis">Silence duration in milliseconds</string>
+    <string name="vibration_duration_millis">Vibration duration in milliseconds</string>
+    <string name="vibration_strength">Vibration strength</string>
 
 </resources>

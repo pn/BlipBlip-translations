@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE resources [<!ELEMENT resources (string|plurals)*><!ELEMENT string (#PCDATA)><!ATTLIST stringname CDATA #REQUIRED><!ELEMENT plurals (item)*><!ATTLIST pluralsname CDATA #REQUIRED><!ELEMENT item (#PCDATA)><!ATTLIST itemquantity CDATA #REQUIRED>]>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="action_settings">Ustawienia</string>
     <string name="vibrate">Wibracja</string>
@@ -385,9 +385,9 @@
     <string name="pref_swipe">Przesunięcie</string>
     <string name="pref_swipe_on">Przesunięcie włączone dla elementów list</string>
     <string name="pref_swipe_off">Przesunięcie wyłączone dla elementów list</string>
-    <string name="pref_clickable_actions">Naciskalne akcje</string>
-    <string name="pref_clickable_actions_on">Pokaż menu z akcjami, które normalnie wymagały by przesuwania palcem. Przydatne wraz z TalkBack.</string>
-    <string name="pref_clickable_actions_off">Ukryj menu z akcjami</string>
+    <string name="pref_action_menus">Menu z akcjami</string>
+    <string name="pref_action_menus_on">Pokaż menu z akcjami, które normalnie wymagałyby użycia gestów (np. przesuwania palcem). Przydatne wraz z TalkBack.</string>
+    <string name="pref_action_menus_off">Ukryj menu z akcjami, które mogą być wykonane używając gestów.</string>
     <string name="next_notification_never2">Następne powiadomienie: nigdy</string>
     <string name="show_seconds_title">Pokaż sekundy</string>
     <string name="show_seconds_on">Można wybierać sekundy. Wyświetla czas z sekundami.</string>

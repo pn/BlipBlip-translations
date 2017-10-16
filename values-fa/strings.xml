@@ -163,7 +163,7 @@
     <string name="day_today">"امروز"</string>
     <string name="day_tomorrow">"فردا"</string>
     <string name="silent_day">"روز بیصدا"</string>
-    <string name="please_wait">"لطفا منتظر باشید..."</string>
+    <string name="please_wait">"لطفا منتظر باشید…"</string>
     <string name="inline_attachments_title">"فایل پیوست درون خطی"</string>
     <string name="inline_attachments_on">"درج \"گزارش مشکل\" محتویات پیوست درون خطی."</string>
     <string name="inline_attachments_off">"استفاده از پیوست های ایمیل به طور منظم در \"گزارش مشکل\"."</string>

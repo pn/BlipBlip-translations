@@ -97,7 +97,7 @@
     <string name="vibration_double_short">Doble bip corto</string>
     <string name="vibration_single_long">Bip largo</string>
     <string name="vibration_double_long">Doble bip largo</string>
-    <string name="quiet_day_warning">Notificación desactivada porque hoy es \"Dia en silencio\".</string>
+    <string name="quiet_day_warning">Notificación desactivada porque hoy es \"Día en silencio\".</string>
     <string name="change_setting">Cambiar</string>
     <string name="toast_change_quiet_days">Por favor cambia el ajuste de \"Días en silencio\" para hacer que BlipBlip te notifique hoy.</string>
     <string name="notification_question_title">¿Mostrar en la barra de notificiones?</string>

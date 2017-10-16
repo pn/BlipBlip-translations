@@ -254,7 +254,7 @@
     <string name="pref_delay_prevention_title">Verspätungnen vorbeugen</string>
     <string name="pref_delay_prevention_on">Versuche aktiv den Verspäteten Benachrichtigungen vorzubeugen, die bei einigen Geräten auftreten. Kann zu mehr Akkuverbrauch führen.</string>
     <string name="pref_delay_prevention_off">Versuche nicht den Verspäteten Benachrichtigungen vorzubeugen, die bei einigen Geräten auftreten. Verbraucht weniger Akku.</string>
-    <string name="pref_aggressive_delay_prevention_title">Verspätungen agressiv vorbeugen</string>
+    <string name="pref_aggressive_delay_prevention_title">Verspätungen aggressiv vorbeugen</string>
     <string name="pref_aggressive_delay_prevention_on">Benachrichtigungen sollten öfters genau auftreten. Kann mehr Akku verbrauchen.</string>
     <string name="pref_aggressive_delay_prevention_off">Benachrichtigungen könnten in selten Fällen verspätet auftreten. Nutzt wenig Akku.</string>
     <string name="pref_ignore_delayed_title">Ignoriere verspätete Benachrichtigungnen</string>

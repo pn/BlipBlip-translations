@@ -52,7 +52,7 @@ Se você encontrar outros problemas, por favor, nos informe por e-mail.</string>
     <string name="debug_logs_on">Salvar logs para reportar problemas por e-mail</string>
     <string name="send_logs_describe">Por favor, descreva o seu problema com o aplicativo (De preferência em Inglês):</string>
     <string name="send">Enviar</string>
-    <string name="send_email_description">Enviar E-mail...</string>
+    <string name="send_email_description">Enviar E-mail…</string>
     <string name="app_language">Idioma</string>
     <string name="system_default_language">Padrão do sistema</string>
     <string name="sound_blipblip">BlipBlip</string>
@@ -166,7 +166,7 @@ Se você encontrar outros problemas, por favor, nos informe por e-mail.</string>
     <string name="day_today">Hoje</string>
     <string name="day_tomorrow">Amanhã</string>
     <string name="silent_day">Dia em silêncio</string>
-    <string name="please_wait">Por favor, aguarde…...</string>
+    <string name="please_wait">Por favor, aguarde…</string>
     <string name="inline_attachments_title">Anexar Relatório de Erros</string>
     <string name="inline_attachments_on">Inserir o conteúdo do relatório de erros diretamente no corpo da mensagem de e-mail em "Reportar problemas".</string>
     <string name="inline_attachments_off">Usar anexos de e-mail regulares em "Reportar problemas".</string>

@@ -48,10 +48,10 @@ Se encontrar outros problemas, por favor, informe-nos por correio electrónico.<
     <string name="auto_notif_as_alarm_off">Não ativar automaticamente o Modo Alarme</string>
     <string name="debug_logs_title">Armazenar registo para depuração</string>
     <string name="debug_logs_off">Escrita do registo desativada</string>
-    <string name="debug_logs_on">Guardar um registo dos problemas para os informar por correio eletrónico</string>
+    <string name="debug_logs_on">Guardar um registo dos problemas para os informar por correio electrónico</string>
     <string name="send_logs_describe">Diga-nos, por favor, qual o seu problema com a aplicação (Preferencialmente em inglês):</string>
     <string name="send">Enviar</string>
-    <string name="send_email_description">Enviar correio electrónico...</string>
+    <string name="send_email_description">Enviar correio electrónico…</string>
     <string name="app_language">Idioma</string>
     <string name="system_default_language">Idioma do sistema</string>
     <string name="sound_blipblip">BlipBlip</string>
@@ -165,7 +165,7 @@ Se encontrar outros problemas, por favor, informe-nos por correio electrónico.<
     <string name="day_today">Hoje</string>
     <string name="day_tomorrow">Amanhã</string>
     <string name="silent_day">Dia em silêncio</string>
-    <string name="please_wait">Por favor, aguarde...</string>
+    <string name="please_wait">Por favor, aguarde…</string>
     <string name="inline_attachments_title"> Anexar Relatório de Erros</string>
     <string name="inline_attachments_on">Inserir o conteúdo do relatório de erros diretamente no corpo da mensagem de correio electrónico quando a reportar problemas.</string>
     <string name="inline_attachments_off">Enviar o Relatório de Erros em anexo quando a reportar problemas.</string>

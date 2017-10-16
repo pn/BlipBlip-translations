@@ -40,7 +40,7 @@
     <string name="late_notif_notif_title">BlipBlip yapılandırmaları değiştirildi</string>
     <string name="late_notif_notif_text">Gecikme sorununu gidermek için alarm modu etkinleştirildi</string>
     <string name="notif_as_alarm_off">Genel bildirimler</string>
-    <string name="notif_as_alarm_on">Bildirimleri alarm olarak ayarlamak bazı Samsung cihazlarında bildirimlerin bir kaç dakika gecikmesini önler</string>
+    <string name="notif_as_alarm_on">Bildirimleri alarm olarak ayarlamak bazı Samsung cihazlarında bildirimlerin birkaç dakika gecikmesini önler</string>
     <string name="notif_as_alarm_title">Alarm modu</string>
     <string name="auto_notif_as_alarm_title">Alarm modunu otomatik etkinleştir</string>
     <string name="auto_notif_as_alarm_on">Açık. Bildirim geç algılandığında alarm modu etkinleştirilecek.</string>
@@ -179,7 +179,7 @@
     <string name="warning_dont_show_again">Bunu bir daha gösterme</string>
     <string name="play_button_description">Ayarlarını dene</string>
     <string name="pref_low_volume_fix">Düşük ses düzeltme</string>
-    <string name="pref_low_volume_fix_on">Etkin. Bazı Motorola cihazlarında düşük ses sorununu çözer. Ses bir kaç saniye geç çalabilir.</string>
+    <string name="pref_low_volume_fix_on">Etkin. Bazı Motorola cihazlarında düşük ses sorununu çözer. Ses birkaç saniye geç çalabilir.</string>
     <string name="pref_low_volume_fix_off">Devre dışı. Çoğu cihaz için lazım değil.</string>
     <string name="pref_keep_service_title">Arka plan hizmeti</string>
     <string name="pref_keep_service_on">Arka plan hızmeti daima etkin (daha fazla RAM kullanabilir). Bildirim kalıcıysa hizmet ön plana çıkar.</string>
