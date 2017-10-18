@@ -475,6 +475,10 @@
     <string name="advice_enable_foreground_service">Enable foreground service</string>
     <string name="advice_enable_foreground_service_desc"><p>Foreground service option informs OS that application should not be killed if possible.</p><p>It will display persistent notification which can be hidden from system settings (hiding it from the app will disable this option).</p></string>
 
-
+    <string name="sound_in_use">Sound is in use and cannot be deleted.</string>
+    <string name="vibration_in_use">Vibration is in use and cannot be deleted.</string>
+    <string name="not_found">Not found</string>
+    <string name="sound_not_found">Not found</string> <!-- for sound -->
+    <string name="vibration_not_found">Not found</string> <!-- for vibration -->
 
 </resources>

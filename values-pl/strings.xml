@@ -483,4 +483,10 @@
     <string name="advice_enable_foreground_service">Włączenie Usługi pierwszoplanowej</string>
     <string name="advice_enable_foreground_service_desc"><p>Opcja \"Usługa pierwszoplanowa\" informuje system operacyjny, że aplikacja nie powinna być zabijana (o ile to możliwe).</p><p>It will display persistent notification which can be hidden from system settings (hiding it from the app will disable this option).</p></string>
 
+    <string name="sound_in_use">Dźwięk jest w użyciu i nie może zostać usnięty.</string>
+    <string name="vibration_in_use">Wibracja jest w użyciu i nie może zostać usunięta.</string>
+    <string name="not_found">Nie znaleziono</string>
+    <string name="sound_not_found">Nie znaleziony</string>
+    <string name="vibration_not_found">Nie znaleziona</string>
+
 </resources>
