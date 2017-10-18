@@ -234,7 +234,7 @@
     <string name="pref_notification_always_off">Wyświetlaj powiadomienie tylko wtedy kiedy jest włączone</string>
     <string name="pref_reliability">Ustawienia niezawodności</string>
     <string name="pref_foreground_service_title">Usługa pierwszoplanowa</string>
-    <string name="pref_foreground_service_on">Wyświetla nieusuwalne powiadomienie oraz włącza usługę w tle, która może zapobiegać zabiciu aplikacji.</string>
+    <string name="pref_foreground_service_on">Wyświetla nieusuwalne powiadomienie oraz włącza usługę w tle, która może zapobiegać wymuszonemu zamknięciu aplikacji.</string>
     <string name="pref_foreground_service_off">Usługa pierwszoplanowa jest wyłączona</string>
     <string name="msg_foreground_service_on">Usługa pierwszoplanowa włączona</string> <!-- message displayed when foreground service is enabled without user interacting with this option -->
     <string name="msg_foreground_service_off">Usługa pierwszoplanowa wyłączona</string> <!-- message displayed when foreground service is disabled without user interacting with this option -->
@@ -249,10 +249,10 @@
     <string name="huawei_protected_apps_msg">%s musi zostać dodany w menu chronionych aplikacji - "Protected Apps" aby funkcjonować poprawni.</string> <!-- %s will be replaced with app name -->
     <string name="pref_low_mem_restart_title">Restartuj gdy brak pamięci</string>
     <string name="pref_low_mem_restart_on">Próbuje zrestartować aplikację jeśli urządzenie ma mało wolnej pamięci. Nie będzie to działać na niektórych urządzeniach. Nie jest to potrzebne na większości urządzeń (może powodować niewielki wzrost zużycia baterii).</string>
-    <string name="pref_low_mem_restart_off">Nie próbuj restartować aplikacji jeśli urżądzenie ma mało wolnej pamięci.</string>
+    <string name="pref_low_mem_restart_off">Nie próbuj restartować aplikacji jeśli urządzenie ma mało wolnej pamięci.</string>
     <string name="pref_heading_notification_accuracy">Punktualność powiadomień</string>
     <string name="pref_delay_prevention_title">Zapobiegaj opóźnieniom</string>
-    <string name="pref_delay_prevention_on">Aktywnie próbuje zapobiec opóźnieniom powiadomień, które zdarzają się na niektórych urządzeniach. Może zużywać troszkę więcej baterii.</string>
+    <string name="pref_delay_prevention_on">Aktywnie próbuje zapobiec opóźnieniom powiadomień, które zdarzają się na niektórych urządzeniach. Może zużywać więcej baterii.</string>
     <string name="pref_delay_prevention_off">Nie próbuje zapobiegać opóźnieniom, które mogą wystąpić na niektórych urządzeniach. Zużywa mniej baterii.</string>
     <string name="pref_aggressive_delay_prevention_title">Agresywnie zapobiegaj opóźnieniom</string>
     <string name="pref_aggressive_delay_prevention_on">Powiadomienia powinny być częściej dokładne. Może zużywać więcej baterii.</string>
@@ -444,6 +444,7 @@
 
     <string name="add_item">Dodaj element</string>
     <string name="action_add_child_notification">Dodaj podrzędne powiadomienie</string>
+    <string name="action_add_notification">Add notification</string>
     <string name="action_add_condition">Add warunek</string>
     <string name="dialog_title_days_of_week">Dni tygodnia</string>
     <string name="dialog_title_date">Data</string>
@@ -462,6 +463,7 @@
     <string name="no_actions_added">Nie dodano akcji</string>
     <string name="no_valid_condition_added">Brak poprawnych warunków</string>
     <string name="no_valid_children_notification">Wszystkie podrzędne powiadomienia są nieprawidłowe</string>
+    <string name="no_upcoming_notifications">Brak nadchodzących powiadomień</string>
     <string name="error_indicator">Wskaźnik błędu</string>
     <string name="next_notification_parent_off">Wyłączone (nadrzędne)</string>
     <string name="next_day">następnego dnia</string>

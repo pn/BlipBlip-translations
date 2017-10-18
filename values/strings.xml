@@ -436,6 +436,7 @@
 
     <string name="add_item">Add item</string>
     <string name="action_add_child_notification">Add child notification</string>
+    <string name="action_add_notification">Add notification</string>
     <string name="action_add_condition">Add condition</string>
     <string name="dialog_title_days_of_week">Days of Week</string>
     <string name="dialog_title_date">Date</string>
@@ -454,6 +455,7 @@
     <string name="no_actions_added">No actions added</string>
     <string name="no_valid_condition_added">No valid conditions defined</string>
     <string name="no_valid_children_notification">All child notifications are invalid</string>
+    <string name="no_upcoming_notifications">No upcoming notifications</string>
     <string name="error_indicator">Error indicator</string>
     <string name="next_notification_parent_off">Off (parent)</string>
     <string name="next_day">next day</string> <!-- Used in: "22:00 - 6:00 next day" -->
