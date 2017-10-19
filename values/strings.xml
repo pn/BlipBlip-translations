@@ -481,4 +481,8 @@
     <string name="sound_not_found">Not found</string> <!-- for sound -->
     <string name="vibration_not_found">Not found</string> <!-- for vibration -->
 
+    <string name="section_when">When</string>
+    <string name="section_actions">Actions</string>
+    <string name="section_notifications">Notifications</string>
+
 </resources>

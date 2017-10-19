@@ -444,8 +444,8 @@
 
     <string name="add_item">Dodaj element</string>
     <string name="action_add_child_notification">Dodaj podrzędne powiadomienie</string>
-    <string name="action_add_notification">Add notification</string>
-    <string name="action_add_condition">Add warunek</string>
+    <string name="action_add_notification">Dodaj powiadomienie</string>
+    <string name="action_add_condition">Dodaj warunek</string>
     <string name="dialog_title_days_of_week">Dni tygodnia</string>
     <string name="dialog_title_date">Data</string>
     <string name="start_date">Data początkowa</string>
@@ -488,5 +488,9 @@
     <string name="not_found">Nie znaleziono</string>
     <string name="sound_not_found">Nie znaleziony</string>
     <string name="vibration_not_found">Nie znaleziona</string>
+
+    <string name="section_when">Kiedy</string>
+    <string name="section_actions">Akcje</string>
+    <string name="section_notifications">Powiadomienia</string>
 
 </resources>
