@@ -495,4 +495,6 @@
     <string name="notification_name">Powiadomienie</string>
     <string name="notification_name_id">Powiadomienie %1$d</string> <!-- e.g. "Notification 1" -->
 
+    <string name="play">Odtwórz</string>
+
 </resources>

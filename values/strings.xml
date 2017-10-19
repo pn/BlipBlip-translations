@@ -487,4 +487,6 @@
     <string name="notification_name">Notification</string>
     <string name="notification_name_id">Notification %1$d</string> <!-- e.g. "Notification 1" -->
 
+    <string name="play">Play</string>
+
 </resources>
