@@ -489,4 +489,6 @@
 
     <string name="play">Play</string>
 
+    <string name="cannot_perform_operation">Cannot perform this operation right now. Please try again later.</string>
+
 </resources>

@@ -497,4 +497,6 @@
 
     <string name="play">Odtwórz</string>
 
+    <string name="cannot_perform_operation">Nie można wykonać tej operacji w tym momencie. Proszę spróbować później.</string>
+
 </resources>
