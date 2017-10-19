@@ -425,7 +425,8 @@
 
 
     <!-- paid features texts -->
-    <string name="dialog_premium_trial_text">Uzyskaj wszystkie aktualne i przyszłe funkcje.</string>
+    <string name="dialog_premium_trial_text">Uzyskaj wszystkie obecne i przyszłe funkcje.</string>
+    <string name="dialog_premium_trial_text3">Uzyskaj wszystkie obecne funkcje.</string>
     <string name="dialog_premium_trial_text2">Naciśnij \"Odblokuj\" aby rozpocząć okres próbny.</string>
     <string name="dialog_premium_trial_button_text">Rozpocznij darmowy okres próbny teraz</string>
     <string name="dialog_premium_trial_title">Odblokuj funkcje płatne</string>

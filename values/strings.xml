@@ -418,6 +418,7 @@
 
     <!-- paid features texts -->
     <string name="dialog_premium_trial_text">Get all current and future features.</string>
+    <string name="dialog_premium_trial_text3">Get all current features.</string>
     <string name="dialog_premium_trial_text2">Press \"Unlock\" to start your free trial.</string> <!-- use same text as in dialog_premium_unlock_button_text -->
     <string name="dialog_premium_trial_button_text">Start free trial now</string>
     <string name="dialog_premium_trial_title">Unlock premium functions</string>
