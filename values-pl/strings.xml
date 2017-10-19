@@ -492,5 +492,7 @@
     <string name="section_when">Kiedy</string>
     <string name="section_actions">Akcje</string>
     <string name="section_notifications">Powiadomienia</string>
+    <string name="notification_name">Powiadomienie</string>
+    <string name="notification_name_id">Powiadomienie %1$d</string> <!-- e.g. "Notification 1" -->
 
 </resources>
