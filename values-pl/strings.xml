@@ -432,9 +432,11 @@
     <string name="dialog_premium_trial_button_text">Rozpocznij darmowy okres próbny teraz</string>
     <string name="dialog_premium_trial_title">Odblokuj funkcje płatne</string>
     <string name="dialog_premium_features_description">Akcja, którą próbowałeś wykonać używa następujących płatnych funkcji:</string>
-    <string name="feature_custom_sounds">Niestandardowe dźwięki</string>
-    <string name="feature_multiple_notifications">Wiele powiadomień</string>
-    <string name="feature_custom_reapeat">Niestandardowy interwał powtarzania</string>
+    <string name="feature_custom_sounds">niestandardowe dźwięki</string>
+    <string name="feature_multiple_notifications">wiele powiadomień</string>
+    <string name="feature_custom_reapeat">niestandardowy interwał powtarzania</string>
+    <string name="feature_premium_content">płatna zawartość</string>
+    <string name="feature_premium_sounds">płatne dźwięki</string>
 
 
     <string name="dialog_no_thanks">Nie, dziękuję</string>

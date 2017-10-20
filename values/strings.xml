@@ -427,6 +427,8 @@
     <string name="feature_custom_sounds">Custom sounds</string>
     <string name="feature_multiple_notifications">Multiple notifications</string>
     <string name="feature_custom_reapeat">Custom repeat interval</string>
+    <string name="feature_premium_content">Premium content</string>
+    <string name="feature_premium_sounds">Premium sounds</string>
 
 
     <string name="dialog_no_thanks">No, thanks</string>
