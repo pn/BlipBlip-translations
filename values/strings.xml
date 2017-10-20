@@ -419,7 +419,6 @@
 
     <!-- paid features texts -->
     <string name="dialog_premium_trial_text">Get all current and future features.</string>
-    <string name="dialog_premium_trial_text3">Get all current features.</string>
     <string name="dialog_premium_trial_text2">Press \"Unlock\" to start your free trial.</string> <!-- use same text as in dialog_premium_unlock_button_text -->
     <string name="dialog_premium_trial_button_text">Start free trial now</string>
     <string name="dialog_premium_trial_title">Unlock premium functions</string>
@@ -429,6 +428,9 @@
     <string name="feature_custom_reapeat">Custom repeat interval</string>
     <string name="feature_premium_content">Premium content</string>
     <string name="feature_premium_sounds">Premium sounds</string>
+    <string name="premium_get_plus">Get all current features</string>
+    <string name="premium_get_sounds">Get all sounds in the app</string>
+    <string name="premium_get_plus_sounds">Get all current features and sounds</string>
 
 
     <string name="dialog_no_thanks">No, thanks</string>

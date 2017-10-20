@@ -427,7 +427,6 @@
 
     <!-- paid features texts -->
     <string name="dialog_premium_trial_text">Uzyskaj wszystkie obecne i przyszłe funkcje.</string>
-    <string name="dialog_premium_trial_text3">Uzyskaj wszystkie obecne funkcje.</string>
     <string name="dialog_premium_trial_text2">Naciśnij \"Odblokuj\" aby rozpocząć okres próbny.</string>
     <string name="dialog_premium_trial_button_text">Rozpocznij darmowy okres próbny teraz</string>
     <string name="dialog_premium_trial_title">Odblokuj funkcje płatne</string>
@@ -437,6 +436,9 @@
     <string name="feature_custom_reapeat">niestandardowy interwał powtarzania</string>
     <string name="feature_premium_content">płatna zawartość</string>
     <string name="feature_premium_sounds">płatne dźwięki</string>
+    <string name="premium_get_plus">Uzyskaj wszystkie obecne funkcje</string>
+    <string name="premium_get_sounds">Uzyskaj wszystkie dźwięki dostępne z aplikacji</string>
+    <string name="premium_get_plus_sounds">Uzyskaj wszystkie funkcje i dźwięki</string>
 
 
     <string name="dialog_no_thanks">Nie, dziękuję</string>
