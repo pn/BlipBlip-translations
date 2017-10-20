@@ -59,6 +59,7 @@
     <string name="sound_ships_bell">Dzwon okrętowy</string>
     <string name="sound_double_ships_bell">Podwójny dzwon okrętowy</string>
     <string name="sound_cuckoo">Kukułka</string>
+    <string name="sound_watch_beep">Piknięcie zegarka</string>
     <string name="period_1_minute">1 minutę</string>
     <string name="period_5_minutes">5 minut</string>
     <string name="period_10_minutes">10 minut</string>
@@ -501,5 +502,9 @@
     <string name="cannot_perform_operation">Nie można wykonać tej operacji w tym momencie. Proszę spróbować później.</string>
 
     <string name="add_to_favorites">Dodaj do ulubionych</string>
+
+    <string name="unnamed_sound">Nienazwany</string>
+    <string name="unnamed_vibration">Nienazwana</string>
+    <string name="unnamed_notification">Nienazwane</string>
 
 </resources>
