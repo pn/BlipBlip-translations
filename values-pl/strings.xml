@@ -85,7 +85,7 @@
     <string name="rate_us_title">Wystaw ocenę!</string>
     <string name="rate_us_message">Dziękuję za poświęcony czas na ocenę aplikacji.</string>
     <string name="rate_us_fivestars">5 gwiazdek!</string>
-    <string name="rate_us_onetofourstars">1–4 gwiazdek</string>
+    <string name="rate_us_onetofourstars">1–4 gwiazdki</string>
     <string name="feedback_improvement_title">BlipBlip można usprawnić</string>
     <string name="feedback_improvement_message">Proszę napisz co moglibyśmy usprawnić, żebyś był(a) zadowolony(a) z aplikacji.</string>
     <string name="feedback_dialog_bug_found">Znalazłem błąd (załącz logi)</string>
@@ -128,7 +128,7 @@
     <string name="sound_in_vibrate_mode_on">Zezwól na odtwarzanie dźwięku w trybie wibracji</string>
     <string name="vibrate_in_vibrate_mode_on">Zezwól na wibracje w trybie wibracji</string>
     <string name="force_vibrate_in_vibrate_mode_on">Wymuś wibracje w trybie wibracji, nawet jeśli wibracje są wyłączone</string>
-    <string name="force_screen_in_vibrate_mode_on">Rozświetl ekran w trybie cichym nawet jeśli opcja \"Włącz ekran podczas powiadomienia\" jest wyłączona</string>
+    <string name="force_screen_in_vibrate_mode_on">Rozświetl ekran w trybie wibracji nawet jeśli opcja \"Włącz ekran podczas powiadomienia\" jest wyłączona</string>
     <string name="sound_in_silent_mode_off">Wyłącz dźwięk w trybie cichym</string>
     <string name="vibrate_in_silent_mode_off">Wyłącz wibracje w trybie cichym</string>
     <string name="force_screen_in_silent_mode_off">Wyłączone</string>
@@ -384,9 +384,9 @@
     <string name="delay_to_next_chime">Zaczekaj na</string>
     <string name="action_rename">Zmień nazwę</string>
     <string name="pref_accessibility">Dostępność</string>
-    <string name="pref_swipe">Przesunięcie</string>
-    <string name="pref_swipe_on">Przesunięcie włączone dla elementów list</string>
-    <string name="pref_swipe_off">Przesunięcie wyłączone dla elementów list</string>
+    <string name="pref_swipe">Gesty dotykowe</string>
+    <string name="pref_swipe_on">Gesty włączone dla elementów list</string>
+    <string name="pref_swipe_off">Gesty wyłączone dla elementów list</string>
     <string name="pref_action_menus">Menu z akcjami</string>
     <string name="pref_action_menus_on">Pokaż menu z akcjami, które normalnie wymagałyby użycia gestów (np. przesuwania palcem). Przydatne wraz z TalkBack.</string>
     <string name="pref_action_menus_off">Ukryj menu z akcjami, które mogą być wykonane używając gestów.</string>
@@ -419,7 +419,7 @@
     <string name="troubleshooting">Rozwiązywanie problemów</string>
     <string name="premium_features">Funkcje dodatkowo płatne</string>
     <string name="disable_when_headset">Wyłącz kiedy słuchawki podłączone</string>
-    <string name="disable_when_headset_on">Wszystie powiadomienia wyłączone</string>
+    <string name="disable_when_headset_on">Wszystkie powiadomienia wyłączone</string>
     <string name="disable_when_headset_off">Wszystkie powiadomienia włączone</string>
     <string name="disable_when_headset_toast">Powiadomienia są teraz wyłączone, ponieważ masz podłączone słuchawki.</string>
 
@@ -479,10 +479,10 @@
     <string name="vibration_duration_millis">Długość wibracji w milisekundach</string>
     <string name="vibration_strength">Siła wibracji</string>
 
-    <string name="advice_disable_task_killers">Wyłączenie \"task killerów\"</string>
+    <string name="advice_disable_task_killers">Wyłączenie wymuszonego zamykania zadań</string>
     <string name="advice_disable_task_killers_desc">Programy zabijające inne aplikacje (tzw. task killer) powinny być wyłączone lub BlipBlip powinien być dodany do odpowiedniej listy wyjątków w tych aplikacjach.</string>
     <string name="advice_enable_foreground_service">Włączenie Usługi pierwszoplanowej</string>
-    <string name="advice_enable_foreground_service_desc"><p>Opcja \"Usługa pierwszoplanowa\" informuje system operacyjny, że aplikacja nie powinna być zabijana (o ile to możliwe).</p><p>It will display persistent notification which can be hidden from system settings (hiding it from the app will disable this option).</p></string>
+    <string name="advice_enable_foreground_service_desc2"><p>Opcja \"Usługa pierwszoplanowa\" informuje system operacyjny, że aplikacja nie powinna być zabijana (o ile to możliwe).</p>\n<p>Wyświetli stałe powiadomienie, które może zostać ukryte z ustawień systemowych (ukrycie jej z aplikacji wyłączy tą funkcję).</p>\n<p>Możesz użyć przycisku poniżej do otwarcia ustawień systemowych.</p></string>
 
     <string name="sound_in_use">Dźwięk jest w użyciu i nie może zostać usnięty.</string>
     <string name="vibration_in_use">Wibracja jest w użyciu i nie może zostać usunięta.</string>
@@ -499,5 +499,7 @@
     <string name="play">Odtwórz</string>
 
     <string name="cannot_perform_operation">Nie można wykonać tej operacji w tym momencie. Proszę spróbować później.</string>
+
+    <string name="add_to_favorites">Dodaj do ulubionych</string>
 
 </resources>
