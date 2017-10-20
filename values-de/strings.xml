@@ -464,9 +464,4 @@
     <string name="vibration_duration_millis">Vibration duration in milliseconds</string>
     <string name="vibration_strength">Vibration strength</string>
 
-    <string name="advice_disable_task_killers">Disable task killers</string>
-    <string name="advice_disable_task_killers_desc">Task killers should be disabled or BlipBlip should be added in their white lists to keep app alive.</string>
-    <string name="advice_enable_foreground_service">Enable foreground service</string>
-    <string name="advice_enable_foreground_service_desc"><p>Foreground service option informs OS that application should not be killed if possible.</p><p>It will display persistent notification which can be hidden from system settings (hiding it from the app will disable this option).</p></string>
-
 </resources>
