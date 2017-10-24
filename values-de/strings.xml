@@ -59,6 +59,7 @@
     <string name="sound_ships_bell">Schiffsglocke</string>
     <string name="sound_double_ships_bell">doppelte Schiffsglocke</string>
     <string name="sound_cuckoo">Kuckuck</string>
+    <string name="sound_watch_beep">Watch beep</string> <!-- TODO translate -->
     <string name="period_1_minute">1 Minute</string>
     <string name="period_5_minutes">5 Minuten</string>
     <string name="period_10_minutes">10 Minuten</string>
@@ -175,7 +176,7 @@
     <string name="experimental_warning">Diese Versuchseinstellungen können in der Zukunft entfallen.</string>
     <string name="upcoming_notifications">Bevorstehende Benachrichtigung</string>
     <string name="warning">Warnung</string>
-    <string name="app_killed_warning">Die App wurde vor Kurzem unerwartet beendet. &lt;b&gt;Bitte schalte Batterie-Apps oder Apps die laufende Prozesse beenden aus.&lt;/b&gt; Diese Apps verursachen solche Fehler. Wir wollen Dir gern helfen. Wenn Du denkst, dass es ein Fehler in unserer App ist, nutze bitte die\"Problem melden\" Möglichkeit, um ihn zu beschreiben oder schreibe an &lt;a href=\"%1$s\">BlipBlip Google+ Community&lt;a>.</string> <!-- TODO Add remark about whitelist from english translation and remove this comment -->
+    <string name="app_killed_warning">Die App wurde vor Kurzem unerwartet beendet. &lt;b&gt;Bitte schalte Batterie-Apps oder Apps die laufende Prozesse beenden aus.&lt;/b&gt; Diese Apps verursachen solche Fehler. Wir wollen Dir gern helfen. Wenn Du denkst, dass es ein Fehler in unserer App ist, nutze bitte die\"Problem melden\" Möglichkeit, um ihn zu beschreiben oder schreibe an &lt;a href=\"%1$s\"&gt;BlipBlip Google+ Community&lt;a&gt;.</string>
     <string name="warning_dont_show_again">nicht mehr anzeigen</string>
     <string name="play_button_description">Teste eigene Einstellungen</string>
     <string name="pref_low_volume_fix">Lautstärkeproblematik beheben</string>
@@ -190,9 +191,9 @@
     <string name="pref_vibrate_wear_title">Vibration auf Wearable-Geräten</string>
     <string name="pref_vibrate_wear_on">Vibrieren ist eingeschaltet, vibriert ebenfalls auf den angeschlossenen Android Wear-Gerät</string>
     <string name="pref_vibrate_wear_off">Vibriere nicht auf verbundenen Android Wear-Gerät</string>
-    <string name="pref_vibrate_wearable_title">@string/pref_vibrate_wear_title</string> <!-- TODO translate "Vibrate on connected device" -->
-    <string name="pref_vibrate_wearable_on">@string/pref_vibrate_wear_on</string> <!-- TODO translate "If vibration is enabled vibrate also on connected wearable device (e.g. smart watch)" -->
-    <string name="pref_vibrate_wearable_off">@string/pref_vibrate_wear_off</string> <!-- TODO translate "Do not vibrate on connected wearable device" -->
+    <string name="pref_vibrate_wearable_title">@string/pref_vibrate_wear_title</string> <!-- TODO translate "Vibrate on connected device"-->
+    <string name="pref_vibrate_wearable_on">@string/pref_vibrate_wear_on</string> <!-- TODO translate "If vibration is enabled vibrate also on connected wearable device (e.g. smart watch)"-->
+    <string name="pref_vibrate_wearable_off">@string/pref_vibrate_wear_off</string> <!-- TODO translate "Do not vibrate on connected wearable device"-->
     <string name="notification_question_message2">Wenn Du diese Infomitteilung hier jetzt ausschaltest, kannst Du es in den Einstellungen später wieder einschalten.</string> <!-- Displayed right after notification_question_title text -->
     <string name="pref_notification_settings">Benachrichtigungseinstellungen</string>
     <string name="pref_vibrate_on_main_device">Hauptgerät Vibration</string> <!-- Translation note: "device" is used because it can be phone or tablet. Related with pref_vibrate_wear_title option. -->
@@ -266,7 +267,8 @@
     <string name="pref_audio_focus_dont_duck_title">Abspielen anhalten</string>
     <string name="pref_audio_focus_dont_duck_on">Während die Anwendung einen Klang abspielt, können andere Anwendungen Klangwiedergabe anhalten.</string>
     <string name="pref_audio_focus_dont_duck_off">Während die Anwendung einen Klang abspielt, können andere Anwendungen deren Klangwiedergabe leiser stellen.</string>
-        <plurals name="number_of_hours">
+
+    <plurals name="number_of_hours">
             <!-- check which quantities and how should be used for given language here http://www.unicode.org/cldr/charts/29/supplemental/language_plural_rules.html -->
             <!--item quantity="zero"></item-->
             <item quantity="one">%d Stunde</item>
@@ -421,6 +423,11 @@
     <string name="feature_custom_sounds">Custom sounds</string>
     <string name="feature_multiple_notifications">Multiple notifications</string>
     <string name="feature_custom_reapeat">Custom repeat interval</string>
+    <string name="feature_premium_content">Premium content</string> <!-- TODO translate -->
+    <string name="feature_premium_sounds">Premium sounds</string> <!-- TODO translate -->
+    <string name="premium_get_plus">Get all current features</string> <!-- TODO translate -->
+    <string name="premium_get_sounds">Get all sounds in the app</string> <!-- TODO translate -->
+    <string name="premium_get_plus_sounds">Get all current features and sounds</string> <!-- TODO translate -->
 
 
     <string name="dialog_no_thanks">No, thanks</string>
@@ -431,7 +438,8 @@
     <string name="snack_bar_action_undo">UNDO</string>
 
     <string name="add_item">Add item</string>
-3    <string name="action_add_child_notification">Add child notification</string>
+    <string name="action_add_child_notification">Add child notification</string>
+    <string name="action_add_notification">Add notification</string> <!-- TODO translate -->
     <string name="action_add_condition">Add condition</string>
     <string name="dialog_title_days_of_week">Days of Week</string>
     <string name="dialog_title_date">Date</string>
@@ -450,6 +458,7 @@
     <string name="no_actions_added">No actions added</string>
     <string name="no_valid_condition_added">No valid conditions defined</string>
     <string name="no_valid_children_notification">All child notifications are invalid</string>
+    <string name="no_upcoming_notifications">No upcoming notifications</string> <!-- TODO translate -->
     <string name="error_indicator">Error indicator</string>
     <string name="next_notification_parent_off">Off (parent)</string>
     <string name="next_day">next day</string> <!-- Used in: "22:00 - 6:00 next day" -->
@@ -463,5 +472,32 @@
     <string name="vibration_silence_millis">Silence duration in milliseconds</string>
     <string name="vibration_duration_millis">Vibration duration in milliseconds</string>
     <string name="vibration_strength">Vibration strength</string>
+
+    <string name="advice_disable_task_killers">Disable task killers</string> <!-- TODO translate -->
+    <string name="advice_disable_task_killers_desc">Task killers should be disabled or BlipBlip should be added in their white lists to keep app alive.</string> <!-- TODO translate -->
+    <string name="advice_enable_foreground_service">Enable foreground service</string> <!-- TODO translate -->
+    <string name="advice_enable_foreground_service_desc2"><p>Foreground service option informs OS that application should not be killed if possible.</p>\n<p>It will display persistent notification which can be hidden from system settings (hiding it from the app will disable this option).</p>\n<p>You can use button below to access system settings</p></string> <!-- TODO translate -->
+
+    <string name="sound_in_use">Sound is in use and cannot be deleted.</string> <!-- TODO translate -->
+    <string name="vibration_in_use">Vibration is in use and cannot be deleted.</string> <!-- TODO translate -->
+    <string name="not_found">Not found</string> <!-- TODO translate -->
+    <string name="sound_not_found">Not found</string> <!-- TODO translate --> <!-- for sound -->
+    <string name="vibration_not_found">Not found</string> <!-- TODO translate --> <!-- for vibration -->
+
+    <string name="section_when">When</string> <!-- TODO translate -->
+    <string name="section_actions">Actions</string> <!-- TODO translate -->
+    <string name="section_notifications">Notifications</string> <!-- TODO translate -->
+    <string name="notification_name">Notification</string> <!-- TODO translate -->
+    <string name="notification_name_id">Notification %1$d</string> <!-- TODO translate --> <!-- e.g. "Notification 1" -->
+
+    <string name="play">Play</string> <!-- TODO translate -->
+
+    <string name="cannot_perform_operation">Cannot perform this operation right now. Please try again later.</string> <!-- TODO translate -->
+
+    <string name="add_to_favorites">Add to favorites</string> <!-- TODO translate -->
+
+    <string name="unnamed_sound">Unnamed</string> <!-- TODO translate -->
+    <string name="unnamed_vibration">Unnamed</string> <!-- TODO translate -->
+    <string name="unnamed_notification">Unnamed</string> <!-- TODO translate -->
 
 </resources>
