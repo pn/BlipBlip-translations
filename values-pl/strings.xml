@@ -511,4 +511,8 @@
     <string name="unnamed_vibration">Nienazwana</string>
     <string name="unnamed_notification">Nienazwane</string>
 
+    <string name="item_deleted">Element usunięty.</string> <!-- showed when one of list items is deleted -->
+    <string name="value_deleted">Usunięto \"%1$s\"</string> <!-- showed when one of list items is deleted and displays the value of the item -->
+    <string name="action_undo">Cofnij</string> <!-- action name to undo deletion e.g. from a list -->
+
 </resources>

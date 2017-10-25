@@ -503,4 +503,8 @@
     <string name="unnamed_vibration">Unnamed</string>
     <string name="unnamed_notification">Unnamed</string>
 
+    <string name="item_deleted">Item deleted.</string> <!-- showed when one of list items is deleted -->
+    <string name="value_deleted">Deleted \"%1$s\"</string> <!-- showed when one of list items is deleted and displays the value of the item -->
+    <string name="action_undo">Undo</string> <!-- action name to undo deletion e.g. from a list -->
+
 </resources>
