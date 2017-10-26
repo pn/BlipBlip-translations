@@ -35,7 +35,7 @@
     <string name="while_phonecall_off">BlipBlip-Ton an</string>
     <string name="while_phonecall_toast">BlipBlip-Ton ist bei laufenden Telefongesprächen stumm.</string>
     <string name="late_notif_title">Alarm-Modus ein</string>
-    <string name="late_notif_message">Es wurde bemerkt, dass Benachrichtigung um einige Minuten verzögert wurden, was bei einigen Samsung-Geräten passiert. Um das zu verhindern wurde die \"Alarm Modus\" Option aktiviert. Du kannst diese in den erweiterten Einstellungen aus- und automatisch ein- schalten. Sobald eine bessere Lösung gefunden wird, diesen Fehler zu beseitigen, gibt es ein Update. Wenn Du weitere Probleme hast, beschreibe sie uns bitte per email.</string>
+    <string name="late_notif_message">Es wurde bemerkt, dass Benachrichtigung um einige Minuten verzögert wurden, was bei einigen Samsung-Geräten passiert. Um das zu verhindern wurde die \"Alarm Modus\" Option aktiviert. Du kannst diese in den erweiterten Einstellungen aus- und automatisch ein- schalten. Sobald eine bessere Lösung gefunden wird, diesen Fehler zu beseitigen, gibt es ein Update. Wenn Du weitere Probleme entdeckt hast, beschreibe und sende sie uns bitte per Email.</string>
     <string name="dialog_ok">OK</string>
     <string name="late_notif_notif_title">BlipBlip Konfiguration geändert</string>
     <string name="late_notif_notif_text">Alarm-Modus aktiviert, zur Beseitigung des Verzögerungsfehlers</string>
@@ -47,7 +47,7 @@
     <string name="auto_notif_as_alarm_off">Alarm-Modus deaktiviert</string>
     <string name="debug_logs_title">Fehlerprotokoll aufzeichnen</string>
     <string name="debug_logs_off">Fehlerprotokollierung aus</string>
-    <string name="debug_logs_on">Fehlerprotokollierungan für den Versand per email</string>
+    <string name="debug_logs_on">Fehlerprotokollierung an für den Versand per email</string>
     <string name="send_logs_describe">Bitte beschreibe Dein Problem mit der App (bevorzugt in Englisch):</string>
     <string name="send">Senden</string>
     <string name="send_email_description">Email senden</string>
@@ -79,9 +79,9 @@
     <string name="language_improve_translations">Erstelle oder verbessere Übersetzungen</string>
     <string name="action_share">Teile die App mit</string>
     <string name="action_rate">Bewerte uns</string>
-    <string name="share_title">Teste die BlipBlip Stundengong-App!</string>
-    <string name="share_text">Teste die BlipBlip Stundengong-App für Android</string>
-    <string name="share_chooser_title">Teile die App mit</string>
+    <string name="share_title">Teste die BlipBlip Stundengong-App aus!</string>
+    <string name="share_text">Probiere die BlipBlip Stundengong-App für Android aus</string>
+    <string name="share_chooser_title">Empfehle diese App</string>
     <string name="pref_notification_status_title">Benachrichtigung anzeigen</string>
     <string name="rate_us_title">Bewerte uns!</string>
     <string name="rate_us_message">Danke, dass Du Dir die Zeit nimmst, die App zu bewerten.</string>
@@ -176,7 +176,7 @@
     <string name="experimental_warning">Diese Versuchseinstellungen können in der Zukunft entfallen.</string>
     <string name="upcoming_notifications">Bevorstehende Benachrichtigung</string>
     <string name="warning">Warnung</string>
-    <string name="app_killed_warning">Die App wurde vor Kurzem unerwartet beendet. &lt;b&gt;Bitte schalte Batterie-Apps oder Apps die laufende Prozesse beenden aus.&lt;/b&gt; Diese Apps verursachen solche Fehler. Wir wollen Dir gern helfen. Wenn Du denkst, dass es ein Fehler in unserer App ist, nutze bitte die\"Problem melden\" Möglichkeit, um ihn zu beschreiben oder schreibe an &lt;a href=\"%1$s\"&gt;BlipBlip Google+ Community&lt;a&gt;.</string>
+    <string name="app_killed_warning">Die App wurde vor Kurzem unerwartet beendet. &lt;b&gt;Bitte schalte Batterie-Apps oder Apps die laufende Prozesse beenden aus.&lt;/b&gt; Diese Apps verursachen solche Fehler. Wir wollen Dir gern helfen. Wenn Du denkst, dass es ein Fehler in unserer App ist, nutze bitte die\"Problem melden\" Möglichkeit, um ihn uns zu beschreiben oder schreibe an &lt;a href=\"%1$s\"&gt;BlipBlip Google+ Community&lt;a&gt;.</string> <!-- TODO Add remark about whitelist from english translation and remove this comment -->
     <string name="warning_dont_show_again">nicht mehr anzeigen</string>
     <string name="play_button_description">Teste eigene Einstellungen</string>
     <string name="pref_low_volume_fix">Lautstärkeproblematik beheben</string>
@@ -190,7 +190,7 @@
     <string name="pref_dismissible_notification_off">Meldung bleibt unbeweglich auf der Benachrichtigungsleiste stehen.</string>
     <string name="pref_vibrate_wear_title">Vibration auf Wearable-Geräten</string>
     <string name="pref_vibrate_wear_on">Vibrieren ist eingeschaltet, vibriert ebenfalls auf den angeschlossenen Android Wear-Gerät</string>
-    <string name="pref_vibrate_wear_off">Vibriere nicht auf verbundenen Android Wear-Gerät</string>
+    <string name="pref_vibrate_wear_off">Vibrieren ist ausgeschaltet, viebriert nicht auf verbundenen Android Wear-Gerät</string>
     <string name="pref_vibrate_wearable_title">Vibrieren auf verbundenen Wear-Gerät</string>
     <string name="pref_vibrate_wearable_on">Wenn das Vibrieren eingeschaltet ist, vibriert ebenfalls auf verbundenen Wearable-Gerät (z.B. Smart-Watch)</string>
     <string name="pref_vibrate_wearable_off">Viebriere nicht auf verbundenen Wearable-Gerät</string>
@@ -199,7 +199,7 @@
     <string name="pref_vibrate_on_main_device">Hauptgerät Vibration</string> <!-- Translation note: "device" is used because it can be phone or tablet. Related with pref_vibrate_wear_title option. -->
     <string name="pref_vibrate_on_main_device_on">Hauptgerät vibriert.</string> <!-- Similar as above, description of "on" state for the option. -->
     <string name="pref_vibrate_on_main_device_off">Könnte nicht vibrieren, wenn die Meldungspriorität auf \"Minimal\" eingestellt ist. Anderenfalls vibriert es.</string> <!-- Description of "off" state for the option. "may" is used because it is not 100% certain right now. Value in double quotes must be same value of name="item_priority_minimum" -->
-    <string name="warn_light_up_screen_disable">Das Schalten dieser Option hilft Probleme im Android 5.0.1 (speziell bei Samsunggeräten). Wenn weiterhin Probleme auftreten, nimm diese Einstellung bitte zurück.</string> <!-- Warning shown on android 5.0.1 when disabling option "Light up screen on notification" -->
+    <string name="warn_light_up_screen_disable">Das Schalten dieser Option hilft Probleme im Android 5.0.1 (speziell bei Samsung Geräten). Wenn weiterhin Probleme auftreten, nimm diese Einstellung bitte zurück.</string> <!-- Warning shown on android 5.0.1 when disabling option "Light up screen on notification" -->
     <string name="pref_notification_priority">Mitteilungspriorität</string> <!-- Option name allowing to choose priority for notification from the list -->
     <string name="item_priority_minimum">Minimal</string>
     <string name="item_priority_low">Gering</string>
@@ -241,7 +241,7 @@
     <string name="msg_foreground_service_off">Vordergrundservice ist deaktiviert</string> <!-- message displayed when foreground service is disabled without user interacting with this option -->
     <string name="notification_settings_updated">Benachrichtigungseinstellungen wurden geändert</string> <!-- message displayed when one of notification settings is updated without user interacting with these options -->
     <string name="reliability_warning">Änderung dieser Einstellungen kann die Zuverlässigkeit der Anwendung verändern.</string> <!-- This message should be as short as possible. There is risk of cutting it off if it will be too long -->
-    <string name="app_killed_warning2">&lt;b&gt;Kürzlich wurde BlipBlip unerwartet angehalten. Bitte versichere Dich, dass der Energiesparmodus (oder Akkuschoner, Batterieverwalter, Eco-Modus usw.) oder Anwendungen (sog. Task-Killers) den Betrieb nicht beeinträchtigen&lt;b&gt;. Solche Anwendungen verursachen normalerweise diese Probleme, wenn Du sie nutzt füge bitte BlipBlip in die Weiße Liste dieser Anwendung ein. Du bist der Meinung, dass es ein Fehler dieser Anwendung ist oder benötigst Unterstützung. Bitte beschreibe die Problematik indem Du diese \"%1$s\" Option nutzt.</string> <!-- Text in quotes will be replaced by value of action_send_logs -->
+    <string name="app_killed_warning2">&lt;b&gt;Kürzlich wurde BlipBlip unerwartet angehalten. Bitte versichere Dich, dass der Energiesparmodus (oder Akkuschoner, Batterieverwalter, Eco-Modus usw.) oder Anwendungen (sog. Task-Killer) den Betrieb nicht beeinträchtigen&lt;/b&gt;. Solche Anwendungen verursachen normalerweise diese Probleme, wenn Du sie nutzt füge bitte BlipBlip in die Weiße Liste dieser Anwendung ein. Du bist der Meinung, dass es ein Fehler dieser Anwendung ist oder benötigst Unterstützung. Bitte beschreibe die Problematik indem Du diese \"%1$s\" Option nutzt.</string> <!-- Text in quotes will be replaced by value of action_send_logs -->
     <string name="warn_power_saving">Damit die Zuverlässigkeit der Anwendung sichergestellt werden kann, schalte jegliche Energiespar Optionen aus.</string> <!-- Please make this as short as possible -->
     <string name="warn_notification_skip">Einige Benachrichtigungen werden übersprungen.</string> <!-- Please make this as short as possible. This warning is displayed when user chooses to skip few upcoming notifications. -->
     <string name="warn_alarm_skip">Einige Alarme werden übersprungen.</string> <!-- Please make this as short as possible. This warning is displayed when user chooses to skip few upcoming alarms. -->
@@ -461,7 +461,6 @@
     <string name="no_valid_children_notification">Alle unter Benachrichtigungen sind ungültig</string>
     <string name="no_upcoming_notifications">Keine bevorstehenden Benachrichtigungen</string>
     <string name="error_indicator">Fehleranzeiger</string>
-    <string name="next_notification_parent_off">Off (parent)</string>
     <string name="next_day">nächster Tag</string> <!-- Used in: "22:00 - 6:00 next day" -->
     <string name="notifications">Benachrichtigungen</string>
     <string name="warning_no_email_app">Kein E-mail-Programm zum versenden des Reports gefunden.</string>
