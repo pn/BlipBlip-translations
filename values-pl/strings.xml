@@ -514,5 +514,7 @@
     <string name="item_deleted">Element usunięty.</string> <!-- showed when one of list items is deleted -->
     <string name="value_deleted">Usunięto \"%1$s\"</string> <!-- showed when one of list items is deleted and displays the value of the item -->
     <string name="action_undo">Cofnij</string> <!-- action name to undo deletion e.g. from a list -->
+    <string name="condition_deleted">Warunek usunięty.</string>
+    <string name="action_deleted">Akcja usunięta.</string>
 
 </resources>

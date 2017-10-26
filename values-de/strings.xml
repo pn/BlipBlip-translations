@@ -176,7 +176,7 @@
     <string name="experimental_warning">Diese Versuchseinstellungen können in der Zukunft entfallen.</string>
     <string name="upcoming_notifications">Bevorstehende Benachrichtigung</string>
     <string name="warning">Warnung</string>
-    <string name="app_killed_warning">Die App wurde vor Kurzem unerwartet beendet. &lt;b&gt;Bitte schalte Batterie-Apps oder Apps die laufende Prozesse beenden aus.&lt;/b&gt; Diese Apps verursachen solche Fehler. Wir wollen Dir gern helfen. Wenn Du denkst, dass es ein Fehler in unserer App ist, nutze bitte die\"Problem melden\" Möglichkeit, um ihn uns zu beschreiben oder schreibe an &lt;a href=\"%1$s\"&gt;BlipBlip Google+ Community&lt;a&gt;.</string> <!-- TODO Add remark about whitelist from english translation and remove this comment -->
+    <string name="app_killed_warning">Die App wurde vor Kurzem unerwartet beendet. &lt;b&gt;Bitte schalte Batterie-Apps oder Apps die laufende Prozesse beenden aus.&lt;/b&gt; Diese Apps verursachen solche Fehler. Wir wollen Dir gern helfen. Wenn Du denkst, dass es ein Fehler in unserer App ist, nutze bitte die\"Problem melden\" Möglichkeit, um ihn uns zu beschreiben oder schreibe an &lt;a href=\"%1$s\"&gt;BlipBlip Google+ Community&lt;a&gt;.</string>
     <string name="warning_dont_show_again">nicht mehr anzeigen</string>
     <string name="play_button_description">Teste eigene Einstellungen</string>
     <string name="pref_low_volume_fix">Lautstärkeproblematik beheben</string>
@@ -461,6 +461,7 @@
     <string name="no_valid_children_notification">Alle unter Benachrichtigungen sind ungültig</string>
     <string name="no_upcoming_notifications">Keine bevorstehenden Benachrichtigungen</string>
     <string name="error_indicator">Fehleranzeiger</string>
+    <string name="next_notification_parent_off">Off (parent)</string> <!-- TODO translate -->
     <string name="next_day">nächster Tag</string> <!-- Used in: "22:00 - 6:00 next day" -->
     <string name="notifications">Benachrichtigungen</string>
     <string name="warning_no_email_app">Kein E-mail-Programm zum versenden des Reports gefunden.</string>
@@ -503,5 +504,7 @@
     <string name="item_deleted">Item deleted.</string> <!-- TODO translate --> <!-- showed when one of list items is deleted -->
     <string name="value_deleted">Deleted \"%1$s\"</string> <!-- TODO translate --> <!-- showed when one of list items is deleted and displays the value of the item -->
     <string name="action_undo">Undo</string> <!-- TODO translate --> <!-- action name to undo deletion e.g. from a list -->
+    <string name="condition_deleted">Condition deleted.</string> <!-- TODO translate -->
+    <string name="action_deleted">Action deleted.</string> <!-- TODO translate -->
 
 </resources>
