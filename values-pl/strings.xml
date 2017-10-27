@@ -515,6 +515,7 @@
     <string name="value_deleted">Usunięto \"%1$s\"</string> <!-- showed when one of list items is deleted and displays the value of the item -->
     <string name="action_undo">Cofnij</string> <!-- action name to undo deletion e.g. from a list -->
     <string name="condition_deleted">Warunek usunięty.</string>
+    <string name="notification_deleted">Notification deleted.</string> <!-- TODO translate -->
     <string name="action_deleted">Akcja usunięta.</string>
 
     <string name="inclusive_time">włącznie</string> <!-- used in the time range dialog to determine if edge value should be included -->

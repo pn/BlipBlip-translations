@@ -507,6 +507,7 @@
     <string name="value_deleted">Deleted \"%1$s\"</string> <!-- showed when one of list items is deleted and displays the value of the item -->
     <string name="action_undo">Undo</string> <!-- action name to undo deletion e.g. from a list -->
     <string name="condition_deleted">Condition deleted.</string>
+    <string name="notification_deleted">Notification deleted.</string>
     <string name="action_deleted">Action deleted.</string>
 
     <string name="inclusive_time">inclusive</string> <!-- used in the time range dialog to determine if edge value should be included -->

@@ -506,6 +506,7 @@
     <string name="action_undo">Undo</string> <!-- TODO translate --> <!-- action name to undo deletion e.g. from a list -->
     <string name="condition_deleted">Condition deleted.</string> <!-- TODO translate -->
     <string name="action_deleted">Action deleted.</string> <!-- TODO translate -->
+    <string name="notification_deleted">Notification deleted.</string> <!-- TODO translate -->
 
     <string name="inclusive_time">inclusive</string> <!-- TODO translate --> <!-- used in the time range dialog to determine if edge value should be included -->
 
