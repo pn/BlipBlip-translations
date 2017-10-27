@@ -509,4 +509,6 @@
     <string name="condition_deleted">Condition deleted.</string>
     <string name="action_deleted">Action deleted.</string>
 
+    <string name="inclusive_time">inclusive</string> <!-- used in the time range dialog to determine if edge value should be included -->
+
 </resources>

@@ -517,4 +517,6 @@
     <string name="condition_deleted">Warunek usunięty.</string>
     <string name="action_deleted">Akcja usunięta.</string>
 
+    <string name="inclusive_time">włącznie</string> <!-- used in the time range dialog to determine if edge value should be included -->
+
 </resources>
