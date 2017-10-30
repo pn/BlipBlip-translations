@@ -192,7 +192,8 @@
     <string name="pref_vibrate_wear_on">Jeśli wibracja jest włączona, wibruj również na połączonym urządzeniu Android Wear</string>
     <string name="pref_vibrate_wear_off">Nie wibruj na urządzeniu Android Wear</string>
     <string name="pref_vibrate_wearable_title">Wibruj na podłączonym urządzeniu</string>
-    <string name="pref_vibrate_wearable_on">Jeśli wibracja jest włączona, wibruj również na połączonym urządzeniu (np. inteligentnym zegarku)</string>
+    <string name="pref_vibrate_wearable_on">Jeśli wibracja jest włączona, wibruj również na podłączonym urządzeniu (np. inteligentnym zegarku)</string>
+    <string name="pref_vibrate_wearable_on2">Jeśli wibracja jest włączona, wibruj również na podłączonym urządzeniu (np. inteligentnym zegarku). Wymaga dodania powiadomienia systemowego.</string>
     <string name="pref_vibrate_wearable_off">Nie wibruj na podłączonym urządzeniu</string>
     <string name="notification_question_message2">Jeśli je teraz wyłączysz, możesz je ponownie włączyć później w ustawieniach.</string> <!-- Displayed right after notification_question_title text -->
     <string name="pref_notification_settings">Ustawienia powiadomień</string>
@@ -515,9 +516,11 @@
     <string name="value_deleted">Usunięto \"%1$s\"</string> <!-- showed when one of list items is deleted and displays the value of the item -->
     <string name="action_undo">Cofnij</string> <!-- action name to undo deletion e.g. from a list -->
     <string name="condition_deleted">Warunek usunięty.</string>
-    <string name="notification_deleted">Notification deleted.</string> <!-- TODO translate -->
+    <string name="notification_deleted">Powiadomienie usunięte.</string>
     <string name="action_deleted">Akcja usunięta.</string>
 
     <string name="inclusive_time">włącznie</string> <!-- used in the time range dialog to determine if edge value should be included -->
+
+    <string name="pref_user_notifications">Powiadomienia użytkownika</string>
 
 </resources>
