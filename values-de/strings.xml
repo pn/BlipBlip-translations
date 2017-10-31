@@ -513,4 +513,6 @@
 
     <string name="pref_user_notifications">User notifications</string> <!-- TODO translate -->
 
+    <string name="action_set_as_home_screens">Set as start screen</string> <!-- TODO translate -->
+
 </resources>

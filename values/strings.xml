@@ -515,4 +515,6 @@
 
     <string name="pref_user_notifications">User notifications</string>
 
+    <string name="action_set_as_home_screens">Set as start screen</string>
+
 </resources>

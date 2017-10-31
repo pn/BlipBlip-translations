@@ -523,4 +523,6 @@
 
     <string name="pref_user_notifications">Powiadomienia użytkownika</string>
 
+    <string name="action_set_as_home_screens">Ustaw jako ekran startowy</string>
+
 </resources>
