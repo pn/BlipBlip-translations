@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="action_settings">Einstellungen</string>
-    <string name="vibrate">Vibration</string>
+    <string name="vibrate">Vibration</string> <!-- translated -->
     <string name="text_seek_volume">Lautstärke</string>
     <string name="pref_choose_audio_stream">Ausgabe über Kanal</string>
     <string name="sound_text">Ton</string>
@@ -19,9 +19,9 @@
     <string name="action_send_logs">Problem melden</string>
     <string name="action_about">Impressum</string>
     <string name="about_dialog_title">Impressum</string>
-    <string name="ok">OK</string>
+    <string name="ok">OK</string> <!-- translated -->
     <string name="about_authors">Autoren</string>
-    <string name="about_version">Version:</string>
+    <string name="about_version">Version:</string> <!-- translated -->
     <string name="pref_advanced">erweiterte Einstellungen</string>
     <string name="title_advanced_settings">erweiterte Einstellungen</string>
     <string name="pref_time_offset_title">Zeitverschiebung</string>
@@ -36,7 +36,7 @@
     <string name="while_phonecall_toast">BlipBlip-Ton ist bei laufenden Telefongesprächen stumm.</string>
     <string name="late_notif_title">Alarm-Modus ein</string>
     <string name="late_notif_message">Es wurde bemerkt, dass Benachrichtigung um einige Minuten verzögert wurden, was bei einigen Samsung-Geräten passiert. Um das zu verhindern wurde die \"Alarm Modus\" Option aktiviert. Du kannst diese in den erweiterten Einstellungen aus- und automatisch ein- schalten. Sobald eine bessere Lösung gefunden wird, diesen Fehler zu beseitigen, gibt es ein Update. Wenn Du weitere Probleme entdeckt hast, beschreibe und sende sie uns bitte per Email.</string>
-    <string name="dialog_ok">OK</string>
+    <string name="dialog_ok">OK</string> <!-- translated -->
     <string name="late_notif_notif_title">BlipBlip Konfiguration geändert</string>
     <string name="late_notif_notif_text">Alarm-Modus aktiviert, zur Beseitigung des Verzögerungsfehlers</string>
     <string name="notif_as_alarm_off">normaler Modus</string>
@@ -53,9 +53,9 @@
     <string name="send_email_description">Email senden</string>
     <string name="app_language">Sprache</string>
     <string name="system_default_language">Systemstandard</string>
-    <string name="sound_blipblip">BlipBlip</string>
+    <string name="sound_blipblip">BlipBlip</string> <!-- translated -->
     <string name="sound_casio_watch">Casio Uhr</string>
-    <string name="sound_gong">Gong</string>
+    <string name="sound_gong">Gong</string> <!-- translated -->
     <string name="sound_ships_bell">Schiffsglocke</string>
     <string name="sound_double_ships_bell">doppelte Schiffsglocke</string>
     <string name="sound_cuckoo">Kuckuck</string>
@@ -75,7 +75,7 @@
     <string name="about_graphics">Grafik</string>
     <string name="about_more_apps">weitere Apps</string>
     <string name="about_send_feedback">Sende eine Rückmeldung</string>
-    <string name="about_community">Google+ Community</string>
+    <string name="about_community">Google+ Community</string> <!-- translated -->
     <string name="language_improve_translations">Erstelle oder verbessere Übersetzungen</string>
     <string name="action_share">Teile die App mit</string>
     <string name="action_rate">Bewerte uns</string>
@@ -204,7 +204,7 @@
     <string name="pref_notification_priority">Mitteilungspriorität</string> <!-- Option name allowing to choose priority for notification from the list -->
     <string name="item_priority_minimum">Minimal</string>
     <string name="item_priority_low">Gering</string>
-    <string name="item_priority_normal">Normal</string>
+    <string name="item_priority_normal">Normal</string> <!-- translated -->
     <string name="item_priority_high">Hoch</string>
     <string name="item_priority_maximum">Maximal</string>
     <string name="pref_notification_title_title">Benachrichtigungstitel</string>
@@ -247,7 +247,7 @@
     <string name="warn_notification_skip">Einige Benachrichtigungen werden übersprungen.</string> <!-- Please make this as short as possible. This warning is displayed when user chooses to skip few upcoming notifications. -->
     <string name="warn_alarm_skip">Einige Alarme werden übersprungen.</string> <!-- Please make this as short as possible. This warning is displayed when user chooses to skip few upcoming alarms. -->
     <string name="warn_volume_zero">Gegenwärtige Lautstärkeeinstellung ist auf Lautlos.</string> <!-- Please make this as short as possible. This warning is displayed when current system volume is set to 0. -->
-    <string name="huawei_protected_apps_title">Huawei Protected Apps</string> <!-- Title of dialog window -->
+    <string name="huawei_protected_apps_title">Huawei Protected Apps</string> <!-- translated --> <!-- Title of dialog window -->
     <string name="huawei_protected_apps_msg">%s Erfordert die Aktivierung in Geschützte Anwendungen\"Protected Apps\" damit es richtig funkioniert.</string> <!-- %s will be replaced with app name -->
     <string name="pref_low_mem_restart_title">Neustart bei Speicherplatzmangel</string>
     <string name="pref_low_mem_restart_on">Versuche einen Neustart der Anwendung bei Speichermangel. Das wird nicht mit allen Geräten funktionieren, deswegen ist es bei den meisten Geräten nicht nötig (kann etwas höheren Akkuverbrauch verursachen).</string>
@@ -306,16 +306,16 @@
     <string name="time_format_12h">12 Stunden Uhr</string>
     <string name="time_format_24h">24 Stunden Uhr</string>
 
-    <string name="theme_blipblip">BlipBlip</string>
-    <string name="theme_standard">Standard</string>
+    <string name="theme_blipblip">BlipBlip</string> <!-- translated -->
+    <string name="theme_standard">Standard</string> <!-- translated -->
     <string name="theme_blue">Blau</string>
     <string name="theme_yellow">Gelb</string>
     <string name="theme_purple">Violett</string>
     <string name="theme_red">Rot</string>
     <string name="theme_green">Grün</string>
     <string name="theme_blue_gray">Blaugrau</string>
-    <string name="theme_orange">Orange</string>
-    <string name="theme_indigo">Indigo</string>
+    <string name="theme_orange">Orange</string> <!-- translated -->
+    <string name="theme_indigo">Indigo</string> <!-- translated -->
     <string name="theme_cyan">Zyan</string>
     <string name="theme_teal">Blaugrün</string>
 
@@ -398,10 +398,10 @@
     <string name="show_seconds_on">Sekundenanzeige ist eingeschaltet. Zeigt die Zeit mit Sekunden an.</string>
     <string name="show_seconds_off">Sekundenanzeige ist ausgeschaltet. Zeigt die Zeit ohne Sekunden an.</string>
     <string name="notification_disabled_warning">Benachrichtigung ist ausgeschaltet</string>
-    <string name="social_facebook">Facebook</string>
-    <string name="social_twitter">Twitter</string>
-    <string name="social_google_plus">Google+</string>
-    <string name="social_google_plus_community">Google+ Community</string>
+    <string name="social_facebook">Facebook</string> <!-- translated -->
+    <string name="social_twitter">Twitter</string> <!-- translated -->
+    <string name="social_google_plus">Google+</string> <!-- translated -->
+    <string name="social_google_plus_community">Google+ Community</string> <!-- translated -->
     <string name="finish_previous">Beende vorhergehende Handlungen</string>
     <string name="finish_previous_title">Warte auf</string>
     <string name="finish_previous_description">Vorhergehende Handlungen beenden</string>
@@ -506,8 +506,8 @@
     <string name="value_deleted">Deleted \"%1$s\"</string> <!-- TODO translate --> <!-- showed when one of list items is deleted and displays the value of the item -->
     <string name="action_undo">Undo</string> <!-- TODO translate --> <!-- action name to undo deletion e.g. from a list -->
     <string name="condition_deleted">Condition deleted.</string> <!-- TODO translate -->
-    <string name="action_deleted">Action deleted.</string> <!-- TODO translate -->
     <string name="notification_deleted">Notification deleted.</string> <!-- TODO translate -->
+    <string name="action_deleted">Action deleted.</string> <!-- TODO translate -->
 
     <string name="inclusive_time">inclusive</string> <!-- TODO translate --> <!-- used in the time range dialog to determine if edge value should be included -->
 
