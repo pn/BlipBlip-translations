@@ -19,7 +19,7 @@
     <string name="action_send_logs">Zgłoś problem</string>
     <string name="action_about">O programie</string>
     <string name="about_dialog_title">O programie</string>
-    <string name="ok">OK</string>
+    <string name="ok">OK</string> <!-- translated -->
     <string name="about_authors">Autorzy</string>
     <string name="about_version">Wersja:</string>
     <string name="pref_advanced">Ustawienia zaawansowane</string>
@@ -36,7 +36,7 @@
     <string name="while_phonecall_toast">Powiadomienia BlipBlip są teraz wyłączone, ponieważ trwa rozmowa telefoniczna.</string>
     <string name="late_notif_title">Tryb alarmu włączony</string>
     <string name="late_notif_message">Zostało wykryte, że powiadomienie było opóźnione o kilka minut co zdaża się na niktórych urządzeniach Samsunga. Żeby temu zapobiec została włączona opcja \"Tryb alarmu\", co powinno poprawić problem. Możesz wyłączyć tą opcję i automatyczne jej włączanie w Ustawieniach zaawansowanych. Jeśli zostanie znalezione lepsze rozwiązanie, aplikacja zostanie zaktualizowana. Jeśli będziesz mieć jeszcze jakieś problemy, proszę skontaktuj się emailowo.</string>
-    <string name="dialog_ok">OK</string>
+    <string name="dialog_ok">OK</string> <!-- translated -->
     <string name="late_notif_notif_title">BlipBlip - zmiana konfiguracji</string>
     <string name="late_notif_notif_text">Tryb alarmu został włączony by naprawić opóźnienia</string>
     <string name="notif_as_alarm_off">Zwykłe powiadomienia</string>
@@ -53,9 +53,9 @@
     <string name="send_email_description">Wyślij email…</string>
     <string name="app_language">Język</string>
     <string name="system_default_language">Domyślny systemowy</string>
-    <string name="sound_blipblip">BlipBlip</string>
+    <string name="sound_blipblip">BlipBlip</string> <!-- translated -->
     <string name="sound_casio_watch">Zegarek Casio</string>
-    <string name="sound_gong">Gong</string>
+    <string name="sound_gong">Gong</string> <!-- translated -->
     <string name="sound_ships_bell">Dzwon okrętowy</string>
     <string name="sound_double_ships_bell">Podwójny dzwon okrętowy</string>
     <string name="sound_cuckoo">Kukułka</string>
@@ -110,7 +110,7 @@
     <string name="allow_while_idle_title">Zezwól na pracę w trybie oszczędnym</string>
     <string name="allow_while_idle_off">Jeśli telefon będzie w trybie oszczędnym niektóre powiadomienia z aplikacji mogą zostać pominięte.</string>
     <string name="allow_while_idle_on">Zezwól na pracę w trybie oszczędnym (Doze/Idle). Może nie działać dla powiadomień częstszych niż 15 minut. Ustawienie może mieć niewielki wpływ na zużycie baterii.</string>
-    <string name="beta_preference_title">BlipBlip Beta</string>
+    <string name="beta_preference_title">BlipBlip Beta</string> <!-- translated -->
     <string name="beta_preference_description">Włącz lub wyłącz wersję beta</string>
     <string name="pref_silent_mode">Tryb cichy</string>
     <string name="pref_vibrate_mode">Tryb wibracji</string>
@@ -247,7 +247,7 @@
     <string name="warn_notification_skip">Niektóre powiadomienia zostaną pominięte.</string> <!-- Please make this as short as possible. This warning is displayed when user chooses to skip few upcoming notifications. -->
     <string name="warn_alarm_skip">Niektóre budziki zostaną pominięte.</string> <!-- Please make this as short as possible. This warning is displayed when user chooses to skip few upcoming alarms. -->
     <string name="warn_volume_zero">Bieżąca głośność jest ustawiona na zero.</string> <!-- Please make this as short as possible. This warning is displayed when current system volume is set to 0. -->
-    <string name="huawei_protected_apps_title">Huawei Protected Apps</string> <!-- Title of dialog window -->
+    <string name="huawei_protected_apps_title">Huawei Protected Apps</string> <!-- translated --> <!-- Title of dialog window -->
     <string name="huawei_protected_apps_msg">%s musi zostać dodany w menu chronionych aplikacji - "Protected Apps" aby funkcjonować poprawni.</string> <!-- %s will be replaced with app name -->
     <string name="pref_low_mem_restart_title">Restartuj gdy brak pamięci</string>
     <string name="pref_low_mem_restart_on">Próbuje zrestartować aplikację jeśli urządzenie ma mało wolnej pamięci. Nie będzie to działać na niektórych urządzeniach. Nie jest to potrzebne na większości urządzeń (może powodować niewielki wzrost zużycia baterii).</string>
@@ -317,7 +317,7 @@
     <string name="time_format_12h">12-godzinny</string>
     <string name="time_format_24h">24-godzinny</string>
 
-    <string name="theme_blipblip">BlipBlip</string>
+    <string name="theme_blipblip">BlipBlip</string> <!-- translated -->
     <string name="theme_standard">Standardowy</string>
     <string name="theme_blue">Niebieski</string>
     <string name="theme_yellow">Żółty</string>
@@ -409,9 +409,9 @@
     <string name="show_seconds_on">Można wybierać sekundy. Wyświetla czas z sekundami.</string>
     <string name="show_seconds_off">Nie można wybierać sekund. Wyświetla czas bez sekund.</string>
     <string name="notification_disabled_warning">Powiadomienie jest wyłączone</string>
-    <string name="social_facebook">Facebook</string>
-    <string name="social_twitter">Twitter</string>
-    <string name="social_google_plus">Google+</string>
+    <string name="social_facebook">Facebook</string> <!-- translated -->
+    <string name="social_twitter">Twitter</string> <!-- translated -->
+    <string name="social_google_plus">Google+</string> <!-- translated -->
     <string name="social_google_plus_community">Społeczność Google+</string>
     <string name="finish_previous">Zakończ poprzednie akcje</string>
     <string name="finish_previous_title">Czekaj na</string>
@@ -478,7 +478,7 @@
     <string name="warning_no_email_app">Brak aplikacji email do wysłania raportu.</string>
     <string name="weeknights">Noce w dni powszednie</string> <!-- nights from sunday to thursday -->
     <string name="weekend_nights">Noce weekendowe</string> <!-- nights on friday and saturday -->
-    <string name="weekend">Weekend</string> <!-- saturday and sunday -->
+    <string name="weekend">Weekend</string> <!-- translated --> <!-- saturday and sunday -->
     <string name="cannot_enable_app">Nie można włączyć aplikacji w tym momencie.</string>
 
     <string name="vibration_silence_millis">Długość ciszy w milisekndach</string>
