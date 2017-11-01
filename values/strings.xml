@@ -531,6 +531,7 @@
     <string name="mode_screen_on">Screen is allowed to be enabled in this mode</string>
     <string name="mode_screen_off">Screen will not be enabled in this mode</string>
     <string name="battery_saver_preferences_warning">These options may not work on all devices.</string>
-
+    <string name="mode_sound_toast">Sound is disabled because following mode is active: %1$s</string>
+    <string name="vibration_sound_toast">Vibration is disabled because following mode is active: %1$s</string>
 
 </resources>

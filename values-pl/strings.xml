@@ -539,5 +539,7 @@
     <string name="mode_screen_on">Włączanie ekranu w tym trybie jest dozwolone</string>
     <string name="mode_screen_off">Ekran nie będzie włączany w tym trybie</string>
     <string name="battery_saver_preferences_warning">Te opcje mogą nie działać na wszystkich urządzeniach.</string>
+    <string name="mode_sound_toast">Dźwięk jest wyłączony ponieważ jest aktywny tryb: %1$s</string>
+    <string name="vibration_sound_toast">Wibracja jest wyłączona ponieważ aktywny jest tryb: %1$s</string>
 
 </resources>
