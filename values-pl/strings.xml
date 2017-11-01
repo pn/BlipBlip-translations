@@ -525,4 +525,19 @@
 
     <string name="action_set_as_home_screens">Ustaw jako ekran startowy</string>
 
+    <string name="pref_battery_saver_mode">Tryb oszczędzania baterii</string>
+    <string name="mode_enable_app_title">Aplikacja włączona</string>
+    <string name="mode_enable_app_on">Zezwalaj aplikacji na działanie w tym trybie</string>
+    <string name="mode_enable_app_off">Aplikacja jest wyłączona w tym trybie</string>
+    <string name="mode_sound_title">Zezwalaj na dźwięki</string>
+    <string name="mode_sound_on">Dżwięki są dozwolone w tym trybie</string>
+    <string name="mode_sound_off">Dźwięki zostaną wyłączone w tym trybie</string>
+    <string name="mode_vibration_title">Zezwalaj na wibracje</string>
+    <string name="mode_vibration_on">Wibracje są dozwolone w tym trybie</string>
+    <string name="mode_vibration_off">Wibracje zostaną wyłączone w tym trybie</string>
+    <string name="mode_screen_title">Włączanie ekranu dozwolone</string>
+    <string name="mode_screen_on">Włączanie ekranu w tym trybie jest dozwolone</string>
+    <string name="mode_screen_off">Ekran nie będzie włączany w tym trybie</string>
+    <string name="battery_saver_preferences_warning">Te opcje mogą nie działać na wszystkich urządzeniach.</string>
+
 </resources>

@@ -515,4 +515,20 @@
 
     <string name="action_set_as_home_screens">Set as start screen</string> <!-- TODO translate -->
 
+    <string name="pref_battery_saver_mode">Battery Saver mode</string> <!-- TODO translate -->
+    <string name="mode_enable_app_title">App enabled</string> <!-- TODO translate -->
+    <string name="mode_enable_app_on">Allow the app to work in this mode</string> <!-- TODO translate -->
+    <string name="mode_enable_app_off">Application is disabled in this mode</string> <!-- TODO translate -->
+    <string name="mode_sound_title">Allow sound</string> <!-- TODO translate -->
+    <string name="mode_sound_on">Sounds are allowed in this mode</string> <!-- TODO translate -->
+    <string name="mode_sound_off">Sounds disabled in this mode</string> <!-- TODO translate -->
+    <string name="mode_vibration_title">Allow vibrations</string> <!-- TODO translate -->
+    <string name="mode_vibration_on">Vibrations allowed in this mode</string> <!-- TODO translate -->
+    <string name="mode_vibration_off">Vibrations not allowed in this mode</string> <!-- TODO translate -->
+    <string name="mode_screen_title">Enabling screen allowed</string> <!-- TODO translate -->
+    <string name="mode_screen_on">Screen is allowed to be enabled in this mode</string> <!-- TODO translate -->
+    <string name="mode_screen_off">Screen will not be enabled in this mode</string> <!-- TODO translate -->
+    <string name="battery_saver_preferences_warning">These options may not work on all devices.</string> <!-- TODO translate -->
+
+
 </resources>
