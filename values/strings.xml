@@ -534,4 +534,8 @@
     <string name="mode_sound_toast">Sound is disabled because following mode is active: %1$s</string>
     <string name="vibration_sound_toast">Vibration is disabled because following mode is active: %1$s</string>
 
+    <string name="pref_accessibility_settings_title">Enable accessibility settings</string>
+    <string name="pref_accessibility_settings_summary">Opens system Accessibility settings where you can enable BlipBlip as accessibility service</string>
+    <string name="accessibility_service_description">This service helps to keep the app working. It does not access any data or modify any content. It is just protection against memory managers which may kill the app. If you are not experiencing problems with the app you don\'t need to activate it.</string>
+
 </resources>
