@@ -176,7 +176,7 @@
     <string name="experimental_warning">Diese Versuchseinstellungen können in der Zukunft entfallen.</string>
     <string name="upcoming_notifications">Bevorstehende Benachrichtigung</string>
     <string name="warning">Warnung</string>
-    <string name="app_killed_warning">Die App wurde vor Kurzem unerwartet beendet. &lt;b&gt;Bitte schalte Batterie-Apps oder Apps die laufende Prozesse beenden aus.&lt;/b&gt; Diese Apps verursachen solche Fehler. Wir wollen Dir gern helfen. Wenn Du denkst, dass es ein Fehler in unserer App ist, nutze bitte die\"Problem melden\" Möglichkeit, um ihn uns zu beschreiben oder schreibe an &lt;a href=\"%1$s\"&gt;BlipBlip Google+ Community&lt;a&gt;.</string>
+    <string name="app_killed_warning">Die App wurde vor Kurzem unerwartet beendet. &lt;b&gt;Bitte schalte Batterie-Apps oder Apps die laufende Prozesse beenden aus.&lt;/b&gt; Solche Apps verursachen diese Fehler. Wir wollen Dir gern helfen. Wenn Du denkst, dass es ein Fehler in unserer App ist, nutze bitte die\"Problem melden\" Möglichkeit, um ihn uns zu beschreiben oder schreibe an &lt;a href=\"%1$s\"&gt;BlipBlip Google+ Community&lt;a&gt;.</string>
     <string name="warning_dont_show_again">nicht mehr anzeigen</string>
     <string name="play_button_description">Teste eigene Einstellungen</string>
     <string name="pref_low_volume_fix">Lautstärkeproblematik beheben</string>
@@ -193,9 +193,9 @@
     <string name="pref_vibrate_wear_off">Vibrieren ist ausgeschaltet, viebriert nicht auf verbundenen Android Wear-Gerät</string>
     <string name="pref_vibrate_wearable_title">Vibrieren auf verbundenen Wear-Gerät</string>
     <string name="pref_vibrate_wearable_on">Wenn das Vibrieren eingeschaltet ist, vibriert ebenfalls auf verbundenen Wearable-Gerät (z.B. Smart-Watch)</string>
-    <string name="pref_vibrate_wearable_on2">If vibration is enabled vibrate also on connected wearable device (e.g. smart watch). Requires adding system notification.</string> <!-- TODO translate -->
+    <string name="pref_vibrate_wearable_on2">Wenn das Vibrieren eingeschaltet ist, vibriert ebenfalls auf verbundenen Wearable-Gerät (z.B. Smart-Watch). Benötigt eine zusätzliche Systembenachrichtigung.</string>
     <string name="pref_vibrate_wearable_off">Viebriere nicht auf verbundenen Wearable-Gerät</string>
-    <string name="notification_question_message2">Wenn Du diese Infomitteilung hier jetzt ausschaltest, kannst Du es in den Einstellungen später wieder einschalten.</string> <!-- Displayed right after notification_question_title text -->
+    <string name="notification_question_message2">Wenn Du diese Infomitteilung hier jetzt ausschaltest, kannst Du sie in den Einstellungen später wieder einschalten.</string> <!-- Displayed right after notification_question_title text -->
     <string name="pref_notification_settings">Benachrichtigungseinstellungen</string>
     <string name="pref_vibrate_on_main_device">Hauptgerät Vibration</string> <!-- Translation note: "device" is used because it can be phone or tablet. Related with pref_vibrate_wear_title option. -->
     <string name="pref_vibrate_on_main_device_on">Hauptgerät vibriert.</string> <!-- Similar as above, description of "on" state for the option. -->
@@ -410,8 +410,7 @@
     <string name="troubleshooting">Problemlösung</string>
     <string name="premium_features">Premium Funktionen</string>
     <string name="disable_when_headset">Ausschalten, wenn Kopfhörer verbunden</string>
-    <string name="disable_when_headset_on">Alle 
-	Benachrichtigungen ausgeschaltet</string>
+    <string name="disable_when_headset_on">Alle Benachrichtigungen ausgeschaltet</string>
     <string name="disable_when_headset_off">Alle Benachrichtigungen eingeschaltet</string>
     <string name="disable_when_headset_toast">BlipBlip Benachrichtigungen sind jetzt ausgeschaltet, da Kopfhörer verbunden sind.</string>
 
@@ -462,7 +461,7 @@
     <string name="no_valid_children_notification">Alle unter Benachrichtigungen sind ungültig</string>
     <string name="no_upcoming_notifications">Keine bevorstehenden Benachrichtigungen</string>
     <string name="error_indicator">Fehleranzeiger</string>
-    <string name="next_notification_parent_off">Off (parent)</string> <!-- TODO translate -->
+    <string name="next_notification_parent_off">Ausgeschaltet (Ursprung)</string>
     <string name="next_day">nächster Tag</string> <!-- Used in: "22:00 - 6:00 next day" -->
     <string name="notifications">Benachrichtigungen</string>
     <string name="warning_no_email_app">Kein E-mail-Programm zum versenden des Reports gefunden.</string>
@@ -502,34 +501,34 @@
     <string name="unnamed_vibration">Unbennant</string>
     <string name="unnamed_notification">Unbennant</string>
 
-    <string name="item_deleted">Item deleted.</string> <!-- TODO translate --> <!-- showed when one of list items is deleted -->
-    <string name="value_deleted">Deleted \"%1$s\"</string> <!-- TODO translate --> <!-- showed when one of list items is deleted and displays the value of the item -->
-    <string name="action_undo">Undo</string> <!-- TODO translate --> <!-- action name to undo deletion e.g. from a list -->
-    <string name="condition_deleted">Condition deleted.</string> <!-- TODO translate -->
-    <string name="notification_deleted">Notification deleted.</string> <!-- TODO translate -->
-    <string name="action_deleted">Action deleted.</string> <!-- TODO translate -->
+    <string name="item_deleted">Eintrag entfernt.</string> <!-- showed when one of list items is deleted -->
+    <string name="value_deleted">Entfernt \"%1$s\"</string> <!-- showed when one of list items is deleted and displays the value of the item -->
+    <string name="action_undo">zurück</string> <!-- action name to undo deletion e.g. from a list -->
+    <string name="condition_deleted">Bedingung entfernt.</string>
+    <string name="notification_deleted">Benachrichtigung entfernt.</string>
+    <string name="action_deleted">Aktion entfernt.</string>
 
-    <string name="inclusive_time">inclusive</string> <!-- TODO translate --> <!-- used in the time range dialog to determine if edge value should be included -->
+    <string name="inclusive_time">einschließlich</string> <!-- used in the time range dialog to determine if edge value should be included -->
 
-    <string name="pref_user_notifications">User notifications</string> <!-- TODO translate -->
+    <string name="pref_user_notifications">Benutzerbenachrichtigung</string>
 
-    <string name="action_set_as_home_screens">Set as start screen</string> <!-- TODO translate -->
+    <string name="action_set_as_home_screens">Stelle als Startbildschirm ein</string>
 
-    <string name="pref_battery_saver_mode">Battery Saver mode</string> <!-- TODO translate -->
-    <string name="mode_enable_app_title">App enabled</string> <!-- TODO translate -->
-    <string name="mode_enable_app_on">Allow the app to work in this mode</string> <!-- TODO translate -->
-    <string name="mode_enable_app_off">Application is disabled in this mode</string> <!-- TODO translate -->
-    <string name="mode_sound_title">Allow sound</string> <!-- TODO translate -->
-    <string name="mode_sound_on">Sounds are allowed in this mode</string> <!-- TODO translate -->
-    <string name="mode_sound_off">Sounds disabled in this mode</string> <!-- TODO translate -->
-    <string name="mode_vibration_title">Allow vibrations</string> <!-- TODO translate -->
-    <string name="mode_vibration_on">Vibrations allowed in this mode</string> <!-- TODO translate -->
-    <string name="mode_vibration_off">Vibrations not allowed in this mode</string> <!-- TODO translate -->
-    <string name="mode_screen_title">Enabling screen allowed</string> <!-- TODO translate -->
-    <string name="mode_screen_on">Screen is allowed to be enabled in this mode</string> <!-- TODO translate -->
-    <string name="mode_screen_off">Screen will not be enabled in this mode</string> <!-- TODO translate -->
-    <string name="battery_saver_preferences_warning">These options may not work on all devices.</string> <!-- TODO translate -->
-    <string name="mode_sound_toast">Sound is disabled because following mode is enabled: %1$s</string> <!-- TODO translate -->
-    <string name="vibration_sound_toast">Vibration is disabled because following mode is enabled: %1$s</string> <!-- TODO translate -->
+    <string name="pref_battery_saver_mode">Energiesparmodus</string>
+    <string name="mode_enable_app_title">Applikation eingeschaltet</string>
+    <string name="mode_enable_app_on">Erlaube der Applikation in diesem Mode zu arbeiten</string>
+    <string name="mode_enable_app_off">Applikation ist in diesem Modus ausgeschaltet</string>
+    <string name="mode_sound_title">Erlaube Töne</string>
+    <string name="mode_sound_on">Töne sind in diesem Modus erlaubt</string>
+    <string name="mode_sound_off">Töne sind in diesem Modus ausgeschaltet </string>
+    <string name="mode_vibration_title">Erlaube Vibration</string>
+    <string name="mode_vibration_on">Vibrationen in diesem Modus erlaubt</string>
+    <string name="mode_vibration_off">Vibrationen in diesem Modus nicht erlaubt</string>
+    <string name="mode_screen_title">Schalte Bildschirmerlaubnis</string>
+    <string name="mode_screen_on">Einschalten des Bildschirms ist in diesem Modus erlaubt</string>
+    <string name="mode_screen_off">Bildschirm wird in diesem Modus nicht eingeschaltet</string>
+    <string name="battery_saver_preferences_warning">Diese Optionen könnten nicht auf allen Geräten funktionieren.</string>
+    <string name="mode_sound_toast">Ton ist ausgeschaltet, weil folgendr Modus eingeschaltet ist: %1$s</string>
+    <string name="vibration_sound_toast">Vibration ist ausgeschaltet, weil folgendr Modus eingeschaltet ist: %1$s</string>
 
 </resources>
