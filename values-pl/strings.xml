@@ -481,7 +481,7 @@
     <string name="weekend">Weekend</string> <!-- translated --> <!-- saturday and sunday -->
     <string name="cannot_enable_app">Nie można włączyć aplikacji w tym momencie.</string>
 
-    <string name="vibration_silence_millis">Długość ciszy w milisekndach</string>
+    <string name="vibration_silence_millis">Długość ciszy w milisekundach</string>
     <string name="vibration_duration_millis">Długość wibracji w milisekundach</string>
     <string name="vibration_strength">Siła wibracji</string>
 
