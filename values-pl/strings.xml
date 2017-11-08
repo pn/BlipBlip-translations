@@ -549,4 +549,7 @@
 
     <string name="swipe_right_to_delete">Przesuń palcem w prawo, żeby usunąć pozycję</string>
 
+    <string name="lock_icon">Ikona kłódki</string>
+    <string name="premium_sound_lock">To jest płatny dźwięk, który wymaga odblokowania przed użyciem.</string>
+
 </resources>

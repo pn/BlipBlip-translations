@@ -541,4 +541,7 @@
 
     <string name="swipe_right_to_delete">Swipe right to delete items</string>
 
+    <string name="lock_icon">Lock icon</string>
+    <string name="premium_sound_lock">This is premium sound which requires unlocking before use.</string>
+
 </resources>
