@@ -357,6 +357,7 @@
     <string name="action_add_system_notification_sound">Dodaj dźwięk powiadomienia</string>
     <string name="add_vibration">Dodaj wibrację</string>
     <string name="edit">Edytuj</string> <!-- Name of action to edit list of sounds or list of vibrations, should be short -->
+    <string name="editing">Edycja</string> <!-- Displayed in edit mode -->
     <string name="error_file_open_failed">Nie udało się otworzyć pliku.</string>
     <string name="play_vibration">Wibruj</string> <!-- description of action of a button to perform vibration -->
     <string name="play_sound">Odtwórz dźwięk</string> <!-- description of action of a button to play sound -->
@@ -545,5 +546,7 @@
     <string name="pref_accessibility_settings_title">Włącz usługę dostępności</string>
     <string name="pref_accessibility_settings_summary">Otwiera systemowe ustawienia dostępności gdzie można ustawić aplikację jako usługę dostępności</string>
     <string name="accessibility_service_description">Ta usługa pomoga działać aplikacji bardziej niezawodnie. Nie pobiera i nie modyfikuje żadnych danych. Jest tylko zabezpieczeniem przed aplikacjami zarządzającymi pamięcią, które mogą wymusić zatrzymanie aplikacji. Jeśli nie doświadczasz takich problemów nie potrzebujesz aktywować tej usługi.</string>
+
+    <string name="swipe_right_to_delete">Przesuń palcem w prawo, żeby usunąć pozycję</string>
 
 </resources>

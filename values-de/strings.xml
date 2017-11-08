@@ -346,6 +346,7 @@
     <string name="action_add_system_notification_sound">Füge Benachrichtigungstöne hinzu</string>
     <string name="add_vibration">Füge Vibrationsmuster hinzu</string>
     <string name="edit">Bearbeite</string> <!-- Name of action to edit list of sounds or list of vibrations, should be short -->
+    <string name="editing">Editing</string> <!-- TODO translate --> <!-- Displayed in edit mode -->
     <string name="error_file_open_failed">Öffnen der Datei fehlgeschlagen.</string>
     <string name="play_vibration">Vibriere</string> <!-- description of action of a button to perform vibration -->
     <string name="play_sound">Spiele Ton ab</string> <!-- description of action of a button to play sound -->
@@ -534,5 +535,7 @@
     <string name="pref_accessibility_settings_title">Enable accessibility service</string> <!-- TODO translate -->
     <string name="pref_accessibility_settings_summary">Opens system Accessibility settings where you can enable app as accessibility service</string> <!-- TODO translate -->
     <string name="accessibility_service_description">This service helps to keep the app working. It does not access any data or modify any content. It is just protection against memory managers which may kill the app. If you are not experiencing problems with the app you don\'t need to activate it.</string> <!-- TODO translate -->
+
+    <string name="swipe_right_to_delete">Swipe right to delete items</string> <!-- TODO translate -->
 
 </resources>
