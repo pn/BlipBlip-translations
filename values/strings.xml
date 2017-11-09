@@ -543,5 +543,6 @@
 
     <string name="lock_icon">Lock icon</string>
     <string name="premium_sound_lock">This is premium sound which requires unlocking before use.</string>
+    <string name="change_subscription">Change subscription</string>
 
 </resources>

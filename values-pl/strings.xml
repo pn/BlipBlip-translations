@@ -551,5 +551,6 @@
 
     <string name="lock_icon">Ikona kłódki</string>
     <string name="premium_sound_lock">To jest płatny dźwięk, który wymaga odblokowania przed użyciem.</string>
+    <string name="change_subscription">Zmień subskrypcję</string>
 
 </resources>
