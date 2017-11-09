@@ -217,6 +217,8 @@
     <string name="pref_notification_action_buttons">Przyciski akcji</string> <!-- Preference name for choosing which buttons are visible on notification -->
     <string name="notif_action_play">Odtwórz</string> <!-- Description of action button. This should refer to notif_action_play -->
     <string name="notif_action_play_desc">Odtwórz powiadomienie (dźwięk, wibracja, itd.) podobnie jak z wnętrza aplikacji.</string>
+    <string name="notif_action_stop">Zatrzymaj</string> <!-- Description of action button. This should refer to notif_action_stop -->
+    <string name="notif_action_stop_desc">Zatrzymaj odtwarzanie powiadomienia.</string>
     <string name="notif_action_disable_or_enable">Włącz/Wyłącz</string> <!-- Description of action button. This refers to notif_action_enable and notif_action -->
     <string name="notif_action_disable_or_enable_desc">Przycisk służący do włączania lub wyłączania powiadomień.</string>
     <string name="notif_action_skip">Pomiń</string> <!-- this should refer to notif_button_skip -->
@@ -226,6 +228,7 @@
     <string name="notif_action_dismiss">Odwołaj</string> <!-- this should refer to notif_button_dismiss -->
     <string name="notif_action_dismiss_desc">Odwołaj dzwoniący alarm budzika.</string>
     <string name="notif_button_play">Odtwórz</string> <!-- Action button label in notification having same action as play button in the app - plays the notificaton for testing purposes. This text should be short, because it will be shown on notification button where there can be 3 of them -->
+    <string name="notif_button_stop">Zatrzymaj</string> <!-- Stops playback of notification. Should be short. -->
     <string name="notif_button_enable">Włącz</string> <!-- This text should be short, because it will be shown on notification button where there can be 3 of them. -->
     <string name="notif_button_disable">Wyłącz</string> <!-- This text should be short, because it will be shown on notification button where there can be 3 of them. -->
     <string name="notif_button_skip">Pomiń</string> <!-- This text should be short, because it will be shown on notification button where there can be 3 of them. -->

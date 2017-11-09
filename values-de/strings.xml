@@ -217,6 +217,8 @@
     <string name="pref_notification_action_buttons">Aktionsschaltflächen</string> <!-- Preference name for choosing which buttons are visible on notification -->
     <string name="notif_action_play">Abspielen</string> <!-- Description of action button. This should refer to notif_action_play -->
     <string name="notif_action_play_desc">Abspielen der Benachrichtigung (Klangton, Vibration, usw.) ähnlich wie von der Anwendung.</string>
+    <string name="notif_action_stop">Stop</string> <!-- TODO translate --> <!-- Description of action button. This should refer to notif_action_stop -->
+    <string name="notif_action_stop_desc">Stop playback of notification.</string> <!-- TODO translate -->
     <string name="notif_action_disable_or_enable">Aktiviere/Deaktiviere</string> <!-- Description of action button. This refers to notif_action_enable and notif_action -->
     <string name="notif_action_disable_or_enable_desc">Schaltfläche für die Aktivierung bzw. Deaktivierung der Benachrichtigungen.</string>
     <string name="notif_action_skip">Überspringe</string> <!-- this should refer to notif_button_skip -->
@@ -226,6 +228,7 @@
     <string name="notif_action_dismiss">Abbrechen</string> <!-- this should refer to notif_button_dismiss -->
     <string name="notif_action_dismiss_desc">Breche Weckalarm ab.</string>
     <string name="notif_button_play">Abspielen</string> <!-- Action button label in notification having same action as play button in the app - plays the notificaton for testing purposes. This text should be short, because it will be shown on notification button where there can be 3 of them -->
+    <string name="notif_button_stop">Stop</string> <!-- TODO translate --> <!-- Stops playback of notification. Should be short. -->
     <string name="notif_button_enable">Einschalten</string> <!-- This text should be short, because it will be shown on notification button where there can be 3 of them. -->
     <string name="notif_button_disable">Ausschalten</string> <!-- This text should be short, because it will be shown on notification button where there can be 3 of them. -->
     <string name="notif_button_skip">Überspringen</string> <!-- This text should be short, because it will be shown on notification button where there can be 3 of them. -->
