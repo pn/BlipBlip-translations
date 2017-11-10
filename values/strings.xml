@@ -551,4 +551,9 @@
     <string name="premium_sound_lock">This is premium sound which requires unlocking before use.</string>
     <string name="change_subscription">Change subscription</string>
 
+    <string name="pref_user_interface">User interface</string>
+    <string name="show_inclusive_title">Inclusive buttons</string>
+    <string name="show_inclusive_on">When specifying time range show buttons which allow to specify whether given time should be included in the range.</string>
+    <string name="show_inclusive_off">Hide buttons allowing to choose if time should be included in the range.</string>
+
 </resources>
