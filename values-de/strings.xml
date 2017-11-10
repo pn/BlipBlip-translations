@@ -16,6 +16,7 @@
     <string name="light_up_screen_on">Bildschirm aktiviert</string>
     <string name="quiet_days_title">Ruhetage</string>
     <string name="days_none">keine Ruhetage</string>
+    <string name="days_everyday">Everyday</string> <!-- TODO translate -->
     <string name="action_send_logs">Problem melden</string>
     <string name="action_about">Impressum</string>
     <string name="about_dialog_title">Impressum</string>

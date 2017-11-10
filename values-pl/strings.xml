@@ -16,6 +16,7 @@
     <string name="light_up_screen_on">Włącz na krótko ekran</string>
     <string name="quiet_days_title">Ciche dni</string>
     <string name="days_none">Żaden</string>
+    <string name="days_everyday">Codziennie</string>
     <string name="action_send_logs">Zgłoś problem</string>
     <string name="action_about">O programie</string>
     <string name="about_dialog_title">O programie</string>
