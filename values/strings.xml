@@ -465,6 +465,7 @@
     <string name="system_notification">System notification</string>
     <string name="popup_text">Popup text</string>
     <string name="no_actions_added">No actions added</string>
+    <string name="section_conditions">Conditions</string>
     <string name="no_valid_condition_added">No valid conditions defined</string>
     <string name="no_valid_children_notification">All child notifications are invalid</string>
     <string name="no_upcoming_notifications">No upcoming notifications</string>

@@ -462,6 +462,7 @@
     <string name="system_notification">System-Benachrichtigung</string>
     <string name="popup_text">Popuptext</string>
     <string name="no_actions_added">Es wurden keine Aktionen hinzugefügt</string>
+    <string name="section_conditions">Conditions</string> <!-- TODO translate -->
     <string name="no_valid_condition_added">Keine gültige Bedienung definiert</string>
     <string name="no_valid_children_notification">Alle unter Benachrichtigungen sind ungültig</string>
     <string name="no_upcoming_notifications">Keine bevorstehenden Benachrichtigungen</string>

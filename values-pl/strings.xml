@@ -473,6 +473,7 @@
     <string name="system_notification">Powiadomienie systemowe</string>
     <string name="popup_text">Wyskakujący tekst</string>
     <string name="no_actions_added">Nie dodano akcji</string>
+    <string name="section_conditions">Warunki</string>
     <string name="no_valid_condition_added">Brak poprawnych warunków</string>
     <string name="no_valid_children_notification">Wszystkie podrzędne powiadomienia są nieprawidłowe</string>
     <string name="no_upcoming_notifications">Brak nadchodzących powiadomień</string>
