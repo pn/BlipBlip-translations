@@ -310,6 +310,12 @@
         <item quantity="many">%d sekund</item>
         <item quantity="other">%d sekundy</item>
     </plurals>
+    <plurals name="repeat_number_of_times">
+        <item quantity="one">%d raz</item>
+        <item quantity="few">%d razy</item>
+        <item quantity="many">%d razy</item>
+        <item quantity="other">%d razy</item>
+    </plurals>
 
     <string name="pref_reset_accuracy_params">Resetuj parametry</string>
     <string name="pref_reset_accuracy_params_desc">Resetuje wewnętrzne parametry, które poprawiają dokładność powiadomień.</string>
