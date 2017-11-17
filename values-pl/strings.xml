@@ -251,7 +251,7 @@
     <string name="warn_notification_skip">Niektóre powiadomienia zostaną pominięte.</string> <!-- Please make this as short as possible. This warning is displayed when user chooses to skip few upcoming notifications. -->
     <string name="warn_alarm_skip">Niektóre budziki zostaną pominięte.</string> <!-- Please make this as short as possible. This warning is displayed when user chooses to skip few upcoming alarms. -->
     <string name="warn_volume_zero">Bieżąca głośność jest ustawiona na zero.</string> <!-- Please make this as short as possible. This warning is displayed when current system volume is set to 0. -->
-    <string name="huawei_protected_apps_title">Huawei Protected Apps</string> <!-- translated --> <!-- Title of dialog window -->
+    <string name="huawei_protected_apps_title">Huawei Protected Apps</string> <!-- TODO translate --> <!-- Title of dialog window -->
     <string name="huawei_protected_apps_msg">%s musi zostać dodany w menu chronionych aplikacji - "Protected Apps" aby funkcjonować poprawni.</string> <!-- %s will be replaced with app name -->
     <string name="pref_low_mem_restart_title">Restartuj gdy brak pamięci</string>
     <string name="pref_low_mem_restart_on">Próbuje zrestartować aplikację jeśli urządzenie ma mało wolnej pamięci. Nie będzie to działać na niektórych urządzeniach. Nie jest to potrzebne na większości urządzeń (może powodować niewielki wzrost zużycia baterii).</string>
@@ -448,6 +448,7 @@
     <string name="feature_custom_reapeat">niestandardowy interwał powtarzania</string>
     <string name="feature_premium_content">płatna zawartość</string>
     <string name="feature_premium_sounds">płatne dźwięki</string>
+    <string name="feature_strike_the_hour">Wybijanie godziny</string>
     <string name="premium_get_plus">Uzyskaj wszystkie obecne funkcje</string>
     <string name="premium_get_sounds">Uzyskaj wszystkie dźwięki dostępne z aplikacji</string>
     <string name="premium_get_plus_sounds">Uzyskaj wszystkie funkcje i dźwięki</string>
@@ -558,16 +559,21 @@
     <string name="pref_accessibility_settings_title">Włącz usługę dostępności</string>
     <string name="pref_accessibility_settings_summary">Otwiera systemowe ustawienia dostępności gdzie można ustawić aplikację jako usługę dostępności</string>
     <string name="accessibility_service_description">Ta usługa pomoga działać aplikacji bardziej niezawodnie. Nie pobiera i nie modyfikuje żadnych danych. Jest tylko zabezpieczeniem przed aplikacjami zarządzającymi pamięcią, które mogą wymusić zatrzymanie aplikacji. Jeśli nie doświadczasz takich problemów nie potrzebujesz aktywować tej usługi.</string>
+    <string name="accessibility_service_summary">Pomaga utrzymać aplikację przy życiu. Nie zbiera żadnych danych..</string>
 
     <string name="swipe_right_to_delete">Przesuń palcem w prawo, żeby usunąć pozycję</string>
 
     <string name="lock_icon">Ikona kłódki</string>
     <string name="premium_sound_lock">To jest płatny dźwięk, który wymaga odblokowania przed użyciem.</string>
+    <string name="premium_feature_lock">To jest płatna funkcja, który wymaga odblokowania przed użyciem.</string>
     <string name="change_subscription">Zmień subskrypcję</string>
 
     <string name="pref_user_interface">Interfejs użytkownika</string>
-    <string name="show_inclusive_title">Inclusive buttons</string> <!-- TODO translate -->
-    <string name="show_inclusive_on">When specifying time range show buttons which allow to specify whether given time should be included in the range.</string> <!-- TODO translate -->
-    <string name="show_inclusive_off">Hide buttons allowing to choose if time should be included in the range.</string> <!-- TODO translate -->
+    <string name="show_inclusive_title">Zmiana końców przedziału czasu</string>
+    <string name="show_inclusive_on">Wybierając przedział czasu pokaż przyciski pozwalające wybrać czy dany czas ma być zawarty w przedziale czasu.</string>
+    <string name="show_inclusive_off">Ukryj przyciski, które pozwalają wybrać czy dany czas ma być uwzględniony w przedziale czasu.</string>
+
+    <string name="action_repeat">Powtarzanie</string>
+    <string name="action_strike_the_hour">Wybij godzinę</string>
 
 </resources>
