@@ -564,4 +564,9 @@
     <string name="action_repeat">Repeat</string> <!-- TODO translate -->
     <string name="action_strike_the_hour">Strike the hour</string> <!-- TODO translate -->
 
+    <string name="pref_do_not_disturb_mode">Do Not Disturb</string> <!-- TODO translate -->
+    <string name="do_not_disturb_total_silence">Total silence</string> <!-- TODO translate -->
+    <string name="do_not_disturb_alarms_only">Alarms only</string> <!-- TODO translate -->
+    <string name="do_not_disturb_priority_only">Priority only</string> <!-- TODO translate -->
+
 </resources>
