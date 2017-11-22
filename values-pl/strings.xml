@@ -582,4 +582,7 @@
     <string name="do_not_disturb_alarms_only">Tylko alarmy</string>
     <string name="do_not_disturb_priority_only">Tylko priorytetowe</string>
 
+    <string name="hide_notification_title">Ukryj powiadomienie</string>
+    <string name="hide_notification_summary">Otwórz ustawienia systemowe aby ukryć powiadomienie. To jest zalecana metoda ukrywania powiadomienia ponieważ pozwala aplikacji działać na pierwszym planie.</string>
+
 </resources>

@@ -570,4 +570,7 @@
     <string name="do_not_disturb_alarms_only">Alarms only</string> <!-- TODO translate -->
     <string name="do_not_disturb_priority_only">Priority only</string> <!-- TODO translate -->
 
+    <string name="hide_notification_title">Hide notification</string> <!-- TODO translate -->
+    <string name="hide_notification_summary">Open system settings to hide notification. This is recommended way for hiding notification because it allows the app to work in foreground.</string> <!-- TODO translate -->
+
 </resources>
