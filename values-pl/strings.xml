@@ -320,6 +320,7 @@
     <string name="pref_reset_accuracy_params">Resetuj parametry</string>
     <string name="pref_reset_accuracy_params_desc">Resetuje wewnętrzne parametry, które poprawiają dokładność powiadomień.</string>
     <string name="warn_foreground_service_disabled">To może zwiększyć prawdopodobieństwo, że aplikacja zostanie zmuszona do zatrzymania.</string>
+    <string name="pref_airplane_mode">Tryb samolotowy</string>
     <string name="off_airplane">Wyłączone w trybie samolotowym</string>
     <string name="while_airplane_toast">Powiadomienia BlipBlip są teraz wyłączone, ponieważ jesteś w trybie samolotowym.</string>
     <string name="setting_system_default">Domyślny systemowy</string>
