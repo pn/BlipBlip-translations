@@ -573,4 +573,14 @@
     <string name="hide_notification_title">Hide notification</string> <!-- TODO translate -->
     <string name="hide_notification_summary">Open system settings to hide notification. This is recommended way for hiding notification because it allows the app to work in foreground.</string> <!-- TODO translate -->
 
+    <string name="action_say_text">Say text</string> <!-- TODO translate -->
+    <string name="action_say_time">Say time</string> <!-- TODO translate -->
+    <string name="feature_say_text">Say time</string> <!-- TODO translate -->
+    <string name="feature_say_time">Say time</string> <!-- TODO translate -->
+    <string name="pref_text_to_speech">Text to speech</string> <!-- TODO translate -->
+    <string name="system_default_audio_stream">@string/setting_system_default</string> <!-- TODO translate -->
+    <string name="application_default">Application default</string> <!-- TODO translate -->
+    <string name="speak_time_format_with_minutes">Spoken time with minutes</string> <!-- TODO translate -->
+    <string name="speak_time_on_the_hour">Spoken time on the hour</string> <!-- TODO translate -->
+
 </resources>
