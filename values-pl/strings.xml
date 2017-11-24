@@ -600,4 +600,9 @@
     <string name="show_actions_switches_on">Pokazuj przełączniki do wyłączania akcji.</string>
     <string name="show_actions_switches_off">Schowaj przełączniki do wyłączania akcji.</string>
 
+    <string name="operating_modes_settings">Tryby pracy</string> <!-- name of menu with different mode settings e.g. Do Not Disturb, vibrate mode -->
+    <string name="operating_modes_settings_summary">Nie przeszkadzaj, tryb wibracji, itp.</string>
+    <string name="time_settings">Czas</string>
+    <string name="sound_settings">Dźwięk</string>
+
 </resources>

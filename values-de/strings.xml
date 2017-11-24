@@ -588,4 +588,9 @@
     <string name="show_actions_switches_on">Show switches for disabling actions.</string> <!-- TODO translate -->
     <string name="show_actions_switches_off">Hide switches for disabling actions.</string> <!-- TODO translate -->
 
+    <string name="operating_modes_settings">Operating modes</string> <!-- TODO translate --> <!-- name of menu with different mode settings e.g. Do Not Disturb, vibrate mode -->
+    <string name="operating_modes_settings_summary">Do Not Disturb, vibrate mode, etc.</string> <!-- TODO translate -->
+    <string name="time_settings">Time</string> <!-- TODO translate -->
+    <string name="sound_settings">Sound</string> <!-- TODO translate -->
+
 </resources>

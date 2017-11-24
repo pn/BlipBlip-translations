@@ -590,4 +590,9 @@
     <string name="show_actions_switches_on">Show switches for disabling actions.</string>
     <string name="show_actions_switches_off">Hide switches for disabling actions.</string>
 
+    <string name="operating_modes_settings">Operating modes</string> <!-- name of menu with different mode settings e.g. Do Not Disturb, vibrate mode -->
+    <string name="operating_modes_settings_summary">Do Not Disturb, vibrate mode, etc.</string>
+    <string name="time_settings">Time</string>
+    <string name="sound_settings">Sound</string>
+
 </resources>
