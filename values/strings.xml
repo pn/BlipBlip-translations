@@ -511,6 +511,7 @@
     <string name="cannot_perform_operation">Cannot perform this operation right now. Please try again later.</string>
 
     <string name="add_to_favorites">Add to favorites</string>
+    <string name="open_favorites">Open favorites</string>
 
     <string name="new_sound">New sound</string>
     <string name="unnamed_sound">Unnamed</string>
