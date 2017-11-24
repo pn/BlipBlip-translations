@@ -586,7 +586,7 @@
     <string name="hide_notification_summary">Otwórz ustawienia systemowe aby ukryć powiadomienie. To jest zalecana metoda ukrywania powiadomienia ponieważ pozwala aplikacji działać na pierwszym planie.</string>
 
     <string name="action_say_text">Powiedz tekst</string>
-    <string name="action_say_time">Powiedz gidzinę</string>
+    <string name="action_say_time">Powiedz godzinę</string>
     <string name="feature_say_text">Mówienie tekstu</string>
     <string name="feature_say_time">Mówienie czasu</string>
     <string name="pref_text_to_speech">Synteza mowy</string>
