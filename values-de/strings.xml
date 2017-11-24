@@ -584,4 +584,8 @@
     <string name="speak_time_format_with_minutes">Spoken time with minutes</string> <!-- TODO translate -->
     <string name="speak_time_on_the_hour">Spoken time on the hour</string> <!-- TODO translate -->
 
+    <string name="show_actions_switches_title">Actions switches</string> <!-- TODO translate --> <!-- option to show enable/disable switches for actions -->
+    <string name="show_actions_switches_on">Show switches for disabling actions.</string> <!-- TODO translate -->
+    <string name="show_actions_switches_off">Hide switches for disabling actions.</string> <!-- TODO translate -->
+
 </resources>

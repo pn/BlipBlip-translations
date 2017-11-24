@@ -596,4 +596,8 @@
     <string name="speak_time_format_with_minutes">Wypowiadany czas z minutami</string>
     <string name="speak_time_on_the_hour">Wypowiadany czas o pełnej godzinie</string>
 
+    <string name="show_actions_switches_title">Przełączniki dla akcji</string> <!-- option to show enable/disable switches for actions -->
+    <string name="show_actions_switches_on">Pokazuj przełączniki do wyłączania akcji.</string>
+    <string name="show_actions_switches_off">Schowaj przełączniki do wyłączania akcji.</string>
+
 </resources>
