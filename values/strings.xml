@@ -61,6 +61,7 @@
     <string name="sound_double_ships_bell">Double ship\'s bell</string>
     <string name="sound_cuckoo">Cuckoo</string>
     <string name="sound_watch_beep">Watch beep</string>
+    <string name="sound_rooster">Rooster</string>
     <string name="period_1_minute">1 minute</string>
     <string name="period_5_minutes">5 minutes</string>
     <string name="period_10_minutes">10 minutes</string>
@@ -73,6 +74,7 @@
     <string name="audio_stream_media">Media</string>
     <string name="audio_stream_notification">Notification</string>
     <string name="about_coding">Coding</string>
+    <string name="about_testing">Testing</string>
     <string name="about_graphics">Graphics</string>
     <string name="about_more_apps">More Apps</string>
     <string name="about_send_feedback">Send Feedback</string>

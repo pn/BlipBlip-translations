@@ -61,6 +61,7 @@
     <string name="sound_double_ships_bell">Podwójny dzwon okrętowy</string>
     <string name="sound_cuckoo">Kukułka</string>
     <string name="sound_watch_beep">Piknięcie zegarka</string>
+    <string name="sound_rooster">Kogut</string>
     <string name="period_1_minute">1 minutę</string>
     <string name="period_5_minutes">5 minut</string>
     <string name="period_10_minutes">10 minut</string>
@@ -73,6 +74,7 @@
     <string name="audio_stream_media">Muzyka</string>
     <string name="audio_stream_notification">Powiadomienia</string>
     <string name="about_coding">Kodowanie</string>
+    <string name="about_testing">Testowanie</string>
     <string name="about_graphics">Grafika</string>
     <string name="about_more_apps">Więcej aplikacji</string>
     <string name="about_send_feedback">Wyślij informację zwrotną</string>
