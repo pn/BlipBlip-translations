@@ -61,6 +61,13 @@
     <string name="sound_double_ships_bell">doppelte Schiffsglocke</string>
     <string name="sound_cuckoo">Kuckuck</string>
     <string name="sound_watch_beep">Armbanduhrton</string>
+    <string name="sound_big_ben">Big Ben</string> <!-- TODO translate -->
+    <string name="sound_big_ben_strikes">Big Ben Strikes</string> <!-- TODO translate -->
+    <string name="sound_bubble">Bubble</string> <!-- TODO translate -->
+    <string name="sound_bird">Bird %1$s</string> <!-- TODO translate -->
+    <string name="sound_cartoon">Cartoon %1$s</string> <!-- TODO translate -->
+    <string name="sound_cat">Cat %1$s</string> <!-- TODO translate -->
+    <string name="sound_dog">Dog %1$s</string> <!-- TODO translate -->
     <string name="sound_rooster">Rooster</string> <!-- TODO translate -->
     <string name="period_1_minute">1 Minute</string>
     <string name="period_5_minutes">5 Minuten</string>

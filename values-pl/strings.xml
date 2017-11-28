@@ -61,6 +61,13 @@
     <string name="sound_double_ships_bell">Podwójny dzwon okrętowy</string>
     <string name="sound_cuckoo">Kukułka</string>
     <string name="sound_watch_beep">Piknięcie zegarka</string>
+    <string name="sound_big_ben">Big Ben</string>
+    <string name="sound_big_ben_strikes">Big Ben wybija</string>
+    <string name="sound_bubble">Bąbel</string>
+    <string name="sound_bird">Ptak %1$s</string>
+    <string name="sound_cartoon">Kreskówka %1$s</string>
+    <string name="sound_cat">Kot %1$s</string>
+    <string name="sound_dog">Pies %1$s</string>
     <string name="sound_rooster">Kogut</string>
     <string name="period_1_minute">1 minutę</string>
     <string name="period_5_minutes">5 minut</string>

@@ -61,6 +61,13 @@
     <string name="sound_double_ships_bell">Double ship\'s bell</string>
     <string name="sound_cuckoo">Cuckoo</string>
     <string name="sound_watch_beep">Watch beep</string>
+    <string name="sound_big_ben">Big Ben</string>
+    <string name="sound_big_ben_strikes">Big Ben Strikes</string>
+    <string name="sound_bubble">Bubble</string>
+    <string name="sound_bird">Bird %1$s</string>
+    <string name="sound_cartoon">Cartoon %1$s</string>
+    <string name="sound_cat">Cat %1$s</string>
+    <string name="sound_dog">Dog %1$s</string>
     <string name="sound_rooster">Rooster</string>
     <string name="period_1_minute">1 minute</string>
     <string name="period_5_minutes">5 minutes</string>
