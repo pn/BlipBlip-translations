@@ -595,4 +595,8 @@
     <string name="time_settings">Time</string>
     <string name="sound_settings">Sound</string>
 
+    <string name="free_resources_title">Free resources</string>
+    <string name="free_resources_off">May use more memory.</string>
+    <string name="free_resources_on">Should use less memory.</string>
+
 </resources>

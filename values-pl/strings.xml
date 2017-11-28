@@ -605,4 +605,8 @@
     <string name="time_settings">Czas</string>
     <string name="sound_settings">Dźwięk</string>
 
+    <string name="free_resources_title">Zwalniaj zasoby</string>
+    <string name="free_resources_off">Może używać więcej pamięci.</string>
+    <string name="free_resources_on">Zużycie pamięci powinno być mniejsze.</string>
+
 </resources>

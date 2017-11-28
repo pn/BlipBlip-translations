@@ -593,4 +593,8 @@
     <string name="time_settings">Time</string> <!-- TODO translate -->
     <string name="sound_settings">Sound</string> <!-- TODO translate -->
 
+    <string name="free_resources_title">Free resources</string> <!-- TODO translate -->
+    <string name="free_resources_off">May use more memory.</string> <!-- TODO translate -->
+    <string name="free_resources_on">Should use less memory.</string> <!-- TODO translate -->
+
 </resources>
