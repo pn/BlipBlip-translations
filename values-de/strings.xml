@@ -16,7 +16,7 @@
     <string name="light_up_screen_on">Bildschirm aktiviert</string>
     <string name="quiet_days_title">Ruhetage</string>
     <string name="days_none">keine Ruhetage</string>
-    <string name="days_everyday">Everyday</string> <!-- TODO translate -->
+    <string name="days_everyday">Jeden Tag</string>
     <string name="action_send_logs">Problem melden</string>
     <string name="action_about">Impressum</string>
     <string name="about_dialog_title">Impressum</string>
@@ -53,7 +53,7 @@
     <string name="send">Senden</string>
     <string name="send_email_description">Email senden</string>
     <string name="app_language">Sprache</string>
-    <string name="system_default_language">Systemstandard</string>
+    <string name="system_default_language">Systemvoreinstellung</string>
     <string name="sound_blipblip">BlipBlip</string> <!-- translated -->
     <string name="sound_casio_watch">Casio Uhr</string>
     <string name="sound_gong">Gong</string> <!-- translated -->
@@ -61,14 +61,14 @@
     <string name="sound_double_ships_bell">doppelte Schiffsglocke</string>
     <string name="sound_cuckoo">Kuckuck</string>
     <string name="sound_watch_beep">Armbanduhrton</string>
-    <string name="sound_big_ben">Big Ben</string> <!-- TODO translate -->
-    <string name="sound_big_ben_strikes">Big Ben Strikes</string> <!-- TODO translate -->
-    <string name="sound_bubble">Bubble</string> <!-- TODO translate -->
-    <string name="sound_bird">Bird %1$s</string> <!-- TODO translate -->
-    <string name="sound_cartoon">Cartoon %1$s</string> <!-- TODO translate -->
-    <string name="sound_cat">Cat %1$s</string> <!-- TODO translate -->
-    <string name="sound_dog">Dog %1$s</string> <!-- TODO translate -->
-    <string name="sound_rooster">Rooster</string> <!-- TODO translate -->
+    <string name="sound_big_ben">Big Ben</string>
+    <string name="sound_big_ben_strikes">Big Ben Ertönt</string>
+    <string name="sound_bubble">Blasen</string>
+    <string name="sound_bird">Vogel %1$s</string>
+    <string name="sound_cartoon">Zeichentrick %1$s</string>
+    <string name="sound_cat">Katze %1$s</string>
+    <string name="sound_dog">Hund %1$s</string>
+    <string name="sound_rooster">Hahn</string>
     <string name="period_1_minute">1 Minute</string>
     <string name="period_5_minutes">5 Minuten</string>
     <string name="period_10_minutes">10 Minuten</string>
@@ -81,7 +81,7 @@
     <string name="audio_stream_media">Medien</string>
     <string name="audio_stream_notification">System-Meldungen</string>
     <string name="about_coding">Programmierung</string>
-    <string name="about_testing">Testing</string> <!-- TODO translate -->
+    <string name="about_testing">Test</string>
     <string name="about_graphics">Grafik</string>
     <string name="about_more_apps">weitere Apps</string>
     <string name="about_send_feedback">Sende eine Rückmeldung</string>
@@ -227,8 +227,8 @@
     <string name="pref_notification_action_buttons">Aktionsschaltflächen</string> <!-- Preference name for choosing which buttons are visible on notification -->
     <string name="notif_action_play">Abspielen</string> <!-- Description of action button. This should refer to notif_action_play -->
     <string name="notif_action_play_desc">Abspielen der Benachrichtigung (Klangton, Vibration, usw.) ähnlich wie von der Anwendung.</string>
-    <string name="notif_action_stop">Stop</string> <!-- TODO translate --> <!-- Description of action button. This should refer to notif_action_stop -->
-    <string name="notif_action_stop_desc">Stop playback of notification.</string> <!-- TODO translate -->
+    <string name="notif_action_stop">Anhalten</string> <!-- Description of action button. This should refer to notif_action_stop -->
+    <string name="notif_action_stop_desc">Halte die Wiedergabe der Benachrichtigung an.</string>
     <string name="notif_action_disable_or_enable">Aktiviere/Deaktiviere</string> <!-- Description of action button. This refers to notif_action_enable and notif_action -->
     <string name="notif_action_disable_or_enable_desc">Schaltfläche für die Aktivierung bzw. Deaktivierung der Benachrichtigungen.</string>
     <string name="notif_action_skip">Überspringe</string> <!-- this should refer to notif_button_skip -->
@@ -238,7 +238,7 @@
     <string name="notif_action_dismiss">Abbrechen</string> <!-- this should refer to notif_button_dismiss -->
     <string name="notif_action_dismiss_desc">Breche Weckalarm ab.</string>
     <string name="notif_button_play">Abspielen</string> <!-- Action button label in notification having same action as play button in the app - plays the notificaton for testing purposes. This text should be short, because it will be shown on notification button where there can be 3 of them -->
-    <string name="notif_button_stop">Stop</string> <!-- TODO translate --> <!-- Stops playback of notification. Should be short. -->
+    <string name="notif_button_stop">Anhalten</string> <!-- Stops playback of notification. Should be short. -->
     <string name="notif_button_enable">Einschalten</string> <!-- This text should be short, because it will be shown on notification button where there can be 3 of them. -->
     <string name="notif_button_disable">Ausschalten</string> <!-- This text should be short, because it will be shown on notification button where there can be 3 of them. -->
     <string name="notif_button_skip">Überspringen</string> <!-- This text should be short, because it will be shown on notification button where there can be 3 of them. -->
@@ -317,10 +317,10 @@
     <string name="pref_reset_accuracy_params">Parameter zurücksetzen</string>
     <string name="pref_reset_accuracy_params_desc">Interne Parameter zurücksetzen, welche die genauigkeit von Benachrichtigung erhöhen.</string>
     <string name="warn_foreground_service_disabled">Einstellungen des Vordergrund-Dienstes wurden deaktiviert. Das kann zum Abbruch des Hintergrundprozesses führen und somit zum Anhalten der Appfunktion.</string>
-    <string name="pref_airplane_mode">Airplane mode</string> <!-- TODO translate -->
+    <string name="pref_airplane_mode">Flugzeugmode</string>
     <string name="off_airplane">Schalte Flugzeugmodus aus</string>
     <string name="while_airplane_toast">BlipBlip Benachrichtigungen sind jetzt ausgeschaltet, da du im Flugzeugmodus bist.</string>
-    <string name="setting_system_default">System Vorgabe</string>
+    <string name="setting_system_default">Systemvoreinstellung</string>
     <string name="pref_time_format_title">Zeitformat</string>
     <string name="time_format_12h">12 Stunden Uhr</string>
     <string name="time_format_24h">24 Stunden Uhr</string>
@@ -365,7 +365,7 @@
     <string name="action_add_system_notification_sound">Füge Benachrichtigungstöne hinzu</string>
     <string name="add_vibration">Füge Vibrationsmuster hinzu</string>
     <string name="edit">Bearbeite</string> <!-- Name of action to edit list of sounds or list of vibrations, should be short -->
-    <string name="editing">Editing</string> <!-- TODO translate --> <!-- Displayed in edit mode -->
+    <string name="editing">Bearbeitung</string><!-- Displayed in edit mode -->
     <string name="error_file_open_failed">Öffnen der Datei fehlgeschlagen.</string>
     <string name="play_vibration">Vibriere</string> <!-- description of action of a button to perform vibration -->
     <string name="play_sound">Spiele Ton ab</string> <!-- description of action of a button to play sound -->
@@ -446,7 +446,7 @@
     <string name="feature_custom_reapeat">Einstellbare Wiederholungsintervalle</string>
     <string name="feature_premium_content">Premium-Inhalte</string>
     <string name="feature_premium_sounds">Premium-Töne</string>
-    <string name="feature_strike_the_hour">Strike the hour</string> <!-- TODO translate -->
+    <string name="feature_strike_the_hour">Stundenschlag</string>
     <string name="premium_get_plus">Erhalte alle gegenwärtige Aktionen</string>
     <string name="premium_get_sounds">Erhalte alle zugänglichen Töne der Aplikation</string>
     <string name="premium_get_plus_sounds">Erhalte alle zugänglichen Akionen und Töne</string>
@@ -478,7 +478,7 @@
     <string name="system_notification">System-Benachrichtigung</string>
     <string name="popup_text">Popuptext</string>
     <string name="no_actions_added">Es wurden keine Aktionen hinzugefügt</string>
-    <string name="section_conditions">Conditions</string> <!-- TODO translate -->
+    <string name="section_conditions">Bedingungen</string>
     <string name="no_valid_condition_added">Keine gültige Bedienung definiert</string>
     <string name="no_valid_children_notification">Alle unter Benachrichtigungen sind ungültig</string>
     <string name="no_upcoming_notifications">Keine bevorstehenden Benachrichtigungen</string>
@@ -518,9 +518,9 @@
     <string name="cannot_perform_operation">Diese Tätigkeit kann jetzt nicht ausgeführt werden. Bitte versuche später nocheinmal.</string>
 
     <string name="add_to_favorites">Zu den Favoriten hinzufügen</string>
-    <string name="open_favorites">Open favorites</string> <!-- TODO translate -->
+    <string name="open_favorites">Őffne Favoriten</string>
 
-    <string name="new_sound">New sound</string> <!-- TODO translate -->
+    <string name="new_sound">Neuer Klang</string>
     <string name="unnamed_sound">Unbennant</string>
     <string name="unnamed_vibration">Unbennant</string>
     <string name="unnamed_notification">Unbennant</string>
@@ -555,55 +555,53 @@
     <string name="mode_sound_toast">Ton ist ausgeschaltet, weil folgendr Modus eingeschaltet ist: %1$s</string>
     <string name="vibration_sound_toast">Vibration ist ausgeschaltet, weil folgendr Modus eingeschaltet ist: %1$s</string>
 
-    <string name="pref_accessibility_settings_title">Enable accessibility service</string> <!-- TODO translate -->
-    <string name="pref_accessibility_settings_summary">Opens system Accessibility settings where you can enable app as accessibility service</string> <!-- TODO translate -->
-    <string name="accessibility_service_description">This service helps to keep the app working. It does not access any data or modify any content. It is just protection against memory managers which may kill the app. If you are not experiencing problems with the app you don\'t need to activate it.</string> <!-- TODO translate -->
-    <string name="accessibility_service_summary">Helps keep app alive. Does not access any data.</string> <!-- TODO translate -->
+    <string name="pref_accessibility_settings_title">Zugangsdienst einschalten</string>
+    <string name="pref_accessibility_settings_summary">Öffnet die Systemverbindungseinstellungen wo man die Applikation als Verbindungsdienst einstellt.</string>
+    <string name="accessibility_service_description">Dieser Dienst hilft der App sie am laufen zu halten. Er bekommt kein Datenzugang und verändert sie nicht. Es ist ein Schutz gegen automatische Speicherverwalter, welche diese App zum anhlaten zwingen können. Wenn du diese Probleme nicht erfahren hast, brauchst es hier nicht zu aktivieren.</string>
+    <string name="accessibility_service_summary">Hilft die Applikation am laufen zu halten. Sammelt keine Daten.</string>
 
-    <string name="swipe_right_to_delete">Swipe right to delete items</string> <!-- TODO translate -->
+    <string name="swipe_right_to_delete">Wische nach rechts um zu löschen</string>
 
-    <string name="lock_icon">Lock icon</string> <!-- TODO translate -->
-    <string name="premium_sound_lock">This is premium sound which requires unlocking before use.</string> <!-- TODO translate -->
-    <string name="premium_feature_lock">This is premium feature which requires unlocking before use.</string> <!-- TODO translate -->
-    <string name="change_subscription">Change subscription</string> <!-- TODO translate -->
+    <string name="lock_icon">Schloß Symbol</string>
+    <string name="premium_sound_lock">Das ist Premium-Klang welcher vor der Benutzung die Freischaltung erfordert.</string>
+    <string name="premium_feature_lock">Das ist Premiumerweiterung welche vor der Benutzung die Freischaltung erfordert.</string>
+    <string name="change_subscription">Wechsle deine Stimmabgabe</string>
 
-    <string name="pref_user_interface">User interface</string> <!-- TODO translate -->
-    <string name="show_inclusive_title">Change time range ends</string> <!-- TODO translate -->
-    <string name="show_inclusive_on">When specifying time range show buttons which allow to specify whether given time should be included in time range.</string> <!-- TODO translate -->
-    <string name="show_inclusive_off">Hide buttons allowing to choose if time should be included in time range.</string> <!-- TODO translate -->
+    <string name="pref_user_interface">Benutzer Oberfläche</string>
+    <string name="show_inclusive_title">Wechsel die Enden des Zeitumfangs</string>
+    <string name="show_inclusive_on">Beim einstellen des Zeitumfangs, zeige Schalter welche die Auswahl erlauben die gegebene Zeit in Zeitumfangsmenü einzufügen.</string>
+    <string name="show_inclusive_off">Verstecke die Auswahlschalter der Zeit welche die Zeitauswahl in Zeitumfangsmenü anzeigen erlauben.</string>
 
-    <string name="action_repeat">Repeat</string> <!-- TODO translate -->
-    <string name="action_strike_the_hour">Strike the hour</string> <!-- TODO translate -->
+    <string name="action_repeat">Wiederholung</string>
+    <string name="action_strike_the_hour">Stundenschlag</string>
 
-    <string name="pref_do_not_disturb_mode">Do Not Disturb</string> <!-- TODO translate -->
-    <string name="do_not_disturb_total_silence">Total silence</string> <!-- TODO translate -->
-    <string name="do_not_disturb_alarms_only">Alarms only</string> <!-- TODO translate -->
-    <string name="do_not_disturb_priority_only">Priority only</string> <!-- TODO translate -->
+    <string name="pref_do_not_disturb_mode">Nicht stören</string>
+    <string name="do_not_disturb_total_silence">Totale Stille</string>
+    <string name="do_not_disturb_alarms_only">Nur Alarme</string>
+    <string name="do_not_disturb_priority_only">Nur Vorgezogene</string>
 
-    <string name="hide_notification_title">Hide notification</string> <!-- TODO translate -->
-    <string name="hide_notification_summary">Open system settings to hide notification. This is recommended way for hiding notification because it allows the app to work in foreground.</string> <!-- TODO translate -->
+    <string name="hide_notification_title">Benachrichtigung verstecken</string>
+    <string name="hide_notification_summary">Öffne Systemeinstellungen um Benachrichtigung zu verstecken. Das ist empfohlener Weg um Benachrchtigung zu verstecken, weil es der Applikation erlaubt in Vordergrund zu  arbeiten.</string>
 
-    <string name="action_say_text">Say text</string> <!-- TODO translate -->
-    <string name="action_say_time">Say time</string> <!-- TODO translate -->
-    <string name="feature_say_text">Say time</string> <!-- TODO translate -->
-    <string name="feature_say_time">Say time</string> <!-- TODO translate -->
-    <string name="pref_text_to_speech">Text to speech</string> <!-- TODO translate -->
-    <string name="system_default_audio_stream">@string/setting_system_default</string> <!-- TODO translate -->
-    <string name="application_default">Application default</string> <!-- TODO translate -->
-    <string name="speak_time_format_with_minutes">Spoken time with minutes</string> <!-- TODO translate -->
-    <string name="speak_time_on_the_hour">Spoken time on the hour</string> <!-- TODO translate -->
+    <string name="action_say_text">Sprich den Text</string>
+    <string name="action_say_time">Sprich die Uhrzeit</string>
+    <string name="feature_say_text">Textansage</string>
+    <string name="feature_say_time">Zeitansage</string>
+    <string name="pref_text_to_speech">Text zu Sprache</string>
+    <string name="system_default_audio_stream">Systemvoreinstellung----@string/setting_system_default</string> <!-- TODO translate --> <!-- nie wiem co z tym zrobic, wyglada na systemowy string ktory nie toleruje tlumaczenia moge sie mylic! ale w angielskim pliku jest to samo!! pierwsze to tlumaczenie z polskiego moze byc tak przyjete jak za darmo sie uczulilem!  -->
+    <string name="application_default">Applikationsvoreinstellung</string>
+    <string name="speak_time_format_with_minutes">Gesprochene Zeit mit Minuten</string>
+    <string name="speak_time_on_the_hour">Gesprochene Zeit an Vollstunden</string>
+    <string name="show_actions_switches_title">Aktionsumschalter</string> <!-- option to show enable/disable switches for actions -->
+    <string name="show_actions_switches_on">Zeige Schalter zum ausschalten der Aktionen.</string> 
+    <string name="show_actions_switches_off">Verstecke Schalter zum ausschalten der Aktionen.</string> 
 
-    <string name="show_actions_switches_title">Actions switches</string> <!-- TODO translate --> <!-- option to show enable/disable switches for actions -->
-    <string name="show_actions_switches_on">Show switches for disabling actions.</string> <!-- TODO translate -->
-    <string name="show_actions_switches_off">Hide switches for disabling actions.</string> <!-- TODO translate -->
+    <string name="operating_modes_settings">Arbeitsmodus</string> <!-- name of menu with different mode settings e.g. Do Not Disturb, vibrate mode -->
+    <string name="operating_modes_settings_summary">Nicht-Stören-Modus, Vibrationsmodus, usw.</string>
+    <string name="time_settings">Zeit</string>
+    <string name="sound_settings">Töne</string>
 
-    <string name="operating_modes_settings">Operating modes</string> <!-- TODO translate --> <!-- name of menu with different mode settings e.g. Do Not Disturb, vibrate mode -->
-    <string name="operating_modes_settings_summary">Do Not Disturb, vibrate mode, etc.</string> <!-- TODO translate -->
-    <string name="time_settings">Time</string> <!-- TODO translate -->
-    <string name="sound_settings">Sound</string> <!-- TODO translate -->
-
-    <string name="free_resources_title">Free resources</string> <!-- TODO translate -->
-    <string name="free_resources_off">May use more memory.</string> <!-- TODO translate -->
-    <string name="free_resources_on">Should use less memory.</string> <!-- TODO translate -->
-
+    <string name="free_resources_title">Resourcen Freigeben</string>
+    <string name="free_resources_off">Könnte mehr Speicher verbrauchen.</string>
+    <string name="free_resources_on">Sollte weniger Speicher verbrauchen.</string>
 </resources>
