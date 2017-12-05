@@ -260,7 +260,7 @@
     <string name="warn_notification_skip">Niektóre powiadomienia zostaną pominięte.</string> <!-- Please make this as short as possible. This warning is displayed when user chooses to skip few upcoming notifications. -->
     <string name="warn_alarm_skip">Niektóre budziki zostaną pominięte.</string> <!-- Please make this as short as possible. This warning is displayed when user chooses to skip few upcoming alarms. -->
     <string name="warn_volume_zero">Bieżąca głośność jest ustawiona na zero.</string> <!-- Please make this as short as possible. This warning is displayed when current system volume is set to 0. -->
-    <string name="huawei_protected_apps_title">Huawei Protected Apps</string> <!-- TODO translate --> <!-- Title of dialog window -->
+    <string name="huawei_protected_apps_title">Chronione aplikacje Huawai</string> <!-- Title of dialog window -->
     <string name="huawei_protected_apps_msg">%s musi zostać dodany w menu chronionych aplikacji - "Protected Apps" aby funkcjonować poprawni.</string> <!-- %s will be replaced with app name -->
     <string name="pref_low_mem_restart_title">Restartuj gdy brak pamięci</string>
     <string name="pref_low_mem_restart_on">Próbuje zrestartować aplikację jeśli urządzenie ma mało wolnej pamięci. Nie będzie to działać na niektórych urządzeniach. Nie jest to potrzebne na większości urządzeń (może powodować niewielki wzrost zużycia baterii).</string>
@@ -581,7 +581,7 @@
 
     <string name="pref_user_interface">Interfejs użytkownika</string>
     <string name="show_inclusive_title">Zmiana końców przedziału czasu</string>
-    <string name="show_inclusive_on">Wybierając przedział czasu pokaż przyciski pozwalające wybrać czy dany czas ma być zawarty w przedziale czasu.</string>
+    <string name="show_inclusive_on">Wybierając przedział czasu pokaż przyciski pozwalające wybrać, czy dany czas ma być zawarty w przedziale czasu.</string>
     <string name="show_inclusive_off">Ukryj przyciski, które pozwalają wybrać czy dany czas ma być uwzględniony w przedziale czasu.</string>
 
     <string name="action_repeat">Powtarzanie</string>
