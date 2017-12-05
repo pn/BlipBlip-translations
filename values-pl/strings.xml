@@ -618,4 +618,7 @@
     <string name="free_resources_off">Może używać więcej pamięci.</string>
     <string name="free_resources_on">Zużycie pamięci powinno być mniejsze.</string>
 
+    <string name="error_failed_to_open_file">Nie udało się otworzyć pliku</string>
+    <string name="error_corrupted_sound">Dźwięk jest uszkodzony</string> <!-- TODO translate -->
+
 </resources>

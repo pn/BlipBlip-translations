@@ -608,4 +608,7 @@
     <string name="free_resources_off">May use more memory.</string>
     <string name="free_resources_on">Should use less memory.</string>
 
+    <string name="error_failed_to_open_file">Failed to open file</string>
+    <string name="error_corrupted_sound">Sound is corrupted</string>
+
 </resources>

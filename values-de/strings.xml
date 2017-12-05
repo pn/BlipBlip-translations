@@ -604,4 +604,8 @@
     <string name="free_resources_title">Ressourcen Freigeben</string>
     <string name="free_resources_off">Könnte mehr Speicher verbrauchen.</string>
     <string name="free_resources_on">Sollte weniger Speicher verbrauchen.</string>
+
+    <string name="error_failed_to_open_file">Failed to open file</string> <!-- TODO translate -->
+    <string name="error_corrupted_sound">Sound is corrupted</string> <!-- TODO translate -->
+
 </resources>
