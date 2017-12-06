@@ -362,8 +362,9 @@
     <string name="dialog_message_confirm">Are you sure?</string>
     <string name="vibration_name">Vibration name</string>
     <string name="action_restore_defaults">Restore defaults</string> <!-- e.g. for sounds or vibrations -->
-    <string name="restore_defaults_title">Restore to defaults?</string>
-    <string name="restore_defaults_message">All data on this screen will be deleted and restored to defaults. Continue?</string>
+    <string name="restore_defaults_title"> </string> <!-- not used anymore -->
+    <string name="restore_defaults_message"> </string> <!-- not used anymore -->
+    <string name="restore_defaults_message2">Would you like to restore default values?</string>
     <string name="action_add_system_notification_sound">Add notification sound</string>
     <string name="add_vibration">Add vibration</string>
     <string name="edit">Edit</string> <!-- Name of action to edit list of sounds or list of vibrations, should be short -->

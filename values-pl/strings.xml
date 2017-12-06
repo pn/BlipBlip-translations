@@ -372,8 +372,9 @@
     <string name="dialog_message_confirm">Czy jesteś pewien?</string>
     <string name="vibration_name">Nazwa wibracji</string>
     <string name="action_restore_defaults">Przywróć domyślne</string> <!-- e.g. for sounds or vibrations -->
-    <string name="restore_defaults_title">Przywrócić domyślne?</string>
-    <string name="restore_defaults_message">Wszystkie dane na tym ekranie zostaną usunięte i przywrócone do wartości domyślnych. Kontynuować?</string>
+    <string name="restore_defaults_title">Przywrócić domyślne?</string> <!-- not used anymore -->
+    <string name="restore_defaults_message">Wszystkie dane na tym ekranie zostaną usunięte i przywrócone do wartości domyślnych. Kontynuować?</string> <!-- not used anymore -->
+    <string name="restore_defaults_message2">Przywrócić wartości domyślne?</string>
     <string name="action_add_system_notification_sound">Dodaj dźwięk powiadomienia</string>
     <string name="add_vibration">Dodaj wibrację</string>
     <string name="edit">Edytuj</string> <!-- Name of action to edit list of sounds or list of vibrations, should be short -->
