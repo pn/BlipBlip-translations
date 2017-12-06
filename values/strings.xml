@@ -65,6 +65,15 @@
     <string name="sound_ships_bell">Ship\'s bell</string>
     <string name="sound_double_ships_bell">Double ship\'s bell</string>
     <string name="sound_cuckoo">Cuckoo</string>
+    <string name="sound_watch_beep">Watch beep</string>
+    <string name="sound_big_ben">Big Ben</string>
+    <string name="sound_big_ben_strikes">Big Ben Strikes</string>
+    <string name="sound_bubble">Bubble</string>
+    <string name="sound_bird">Bird %1$s</string>
+    <string name="sound_cartoon">Cartoon %1$s</string>
+    <string name="sound_cat">Cat %1$s</string>
+    <string name="sound_dog">Dog %1$s</string>
+    <string name="sound_rooster">Rooster</string>
 
     <!-- Volume -->
     <string name="text_seek_volume">Volume</string>
@@ -130,6 +139,7 @@
     <!-- Quiet Days -->
     <string name="quiet_days_title">Silent days</string>
     <string name="days_none">None</string>
+    <string name="days_everyday">Everyday</string>
     <string name="silent_day">Silent day</string>
     <string name="quiet_day_warning">Notification disabled, because today is \"silent day\".</string>
     <string name="toast_change_quiet_days">Please change \"Silent days\" setting to make BlipBlip work today.</string>
@@ -192,7 +202,8 @@
     <string name="pref_vibrate_wear_on">If vibration is enabled vibrate also on connected Android Wear device</string>
     <string name="pref_vibrate_wear_off">Do not vibrate on Android Wear device</string>
     <string name="pref_vibrate_wearable_title">Vibrate on connected device</string>
-    <string name="pref_vibrate_wearable_on">If vibration is enabled vibrate also on connected wearable device (e.g. smart watch)</string>
+    <string name="pref_vibrate_wearable_on">If vibration is enabled vibrate also on connected wearable device (e.g. smart watch)</string> <!-- not used anymore -->
+    <string name="pref_vibrate_wearable_on2">If vibration is enabled vibrate also on connected wearable device (e.g. smart watch). Requires adding system notification.</string>
     <string name="pref_vibrate_wearable_off">Do not vibrate on connected wearable device</string>
 
     <!-- Vibrate on Main Device -->
@@ -204,6 +215,8 @@
     <string name="pref_notification_action_buttons">Action buttons</string> <!-- Preference name for choosing which buttons are visible on notification -->
     <string name="notif_action_play">Play</string> <!-- Description of action button. This should refer to notif_action_play -->
     <string name="notif_action_play_desc">Play the notification (sound, vibration, etc.) same as from the app.</string>
+    <string name="notif_action_stop">Stop</string> <!-- Description of action button. This should refer to notif_action_stop -->
+    <string name="notif_action_stop_desc">Stop playback of notification.</string>
     <string name="notif_action_disable_or_enable">Enable/Disable</string> <!-- Description of action button. This refers to notif_action_enable and notif_action -->
     <string name="notif_action_disable_or_enable_desc">Button for disabling or enabling notifications.</string>
     <string name="notif_action_skip">Skip</string> <!-- this should refer to notif_button_skip -->
@@ -213,6 +226,7 @@
     <string name="notif_action_dismiss">Dismiss</string> <!-- this should refer to notif_button_dismiss -->
     <string name="notif_action_dismiss_desc">Dismiss ringing alarm.</string>
     <string name="notif_button_play">Play</string> <!-- Action button label in notification having same action as play button in the app - plays the notificaton for testing purposes. This text should be short, because it will be shown on notification button where there can be 3 of them -->
+    <string name="notif_button_stop">Stop</string> <!-- Stops playback of notification. Should be short. -->
     <string name="notif_button_enable">Enable</string> <!-- This text should be short, because it will be shown on notification button where there can be 3 of them. -->
     <string name="notif_button_disable">Disable</string> <!-- This text should be short, because it will be shown on notification button where there can be 3 of them. -->
     <string name="notif_button_skip">Skip</string> <!-- This text should be short, because it will be shown on notification button where there can be 3 of them. -->
@@ -326,6 +340,7 @@
     <string name="about_version">Version:</string>
     <string name="about_authors">Authors</string>
     <string name="about_coding">Coding</string>
+    <string name="about_testing">Testing</string>
     <string name="about_graphics">Graphics</string>
     <string name="about_translations">Translations</string>
     <string name="about_send_feedback">Send Feedback</string>
@@ -362,8 +377,10 @@
     <string name="pref_audio_focus_dont_duck_on">While app is playing sound other apps may pause their audio.</string>
     <string name="pref_audio_focus_dont_duck_off">While app is playing sound other apps may lower volume of their audio.</string>
 
+    <!-- Plurals -->
+    <!-- check which quantities and how should be used for given language here http://www.unicode.org/cldr/charts/29/supplemental/language_plural_rules.html -->
+    <!-- Uncomment or add proper "zero", "two", "few" or "many" item if needed for your language -->
     <plurals name="number_of_hours">
-        <!-- check which quantities and how should be used for given language here http://www.unicode.org/cldr/charts/29/supplemental/language_plural_rules.html -->
         <!--item quantity="zero"></item-->
         <item quantity="one">%d hour</item>
         <!--item quantity="two"></item-->
@@ -391,11 +408,20 @@
         <item quantity="one">%d second</item>
         <item quantity="other">%d seconds</item>
     </plurals>
+    <plurals name="repeat_number_of_times">
+        <item quantity="one">%d time</item>
+        <item quantity="other">%d times</item>
+    </plurals>
+
     <string name="pref_reset_accuracy_params">Reset parameters</string>
     <string name="pref_reset_accuracy_params_desc">Resets internal parameters which improve notification accuracy.</string>
     <string name="warn_foreground_service_disabled">Foreground service setting has been disabled. This may increase chance that background process is killed and app stops working.</string>
+
+    <!-- Airplane mode -->
+    <string name="pref_airplane_mode">Airplane mode</string>
     <string name="off_airplane">Disable in airplane mode</string>
     <string name="while_airplane_toast">BlipBlip notifications are now disabled, because you are in airplane mode.</string>
+
     <string name="setting_system_default">System default</string>
     <string name="pref_time_format_title">Time format</string>
     <string name="time_format_12h">12 hour clock</string>
