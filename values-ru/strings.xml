@@ -65,6 +65,15 @@
     <string name="sound_ships_bell">Корабельный колокол</string>
     <string name="sound_double_ships_bell">Двойной корабельный колокол</string>
     <string name="sound_cuckoo">Ку-ку</string>
+    <string name="sound_watch_beep">Watch beep</string> <!-- TODO translate -->
+    <string name="sound_big_ben">Big Ben</string> <!-- TODO translate -->
+    <string name="sound_big_ben_strikes">Big Ben Strikes</string> <!-- TODO translate -->
+    <string name="sound_bubble">Bubble</string> <!-- TODO translate -->
+    <string name="sound_bird">Bird %1$s</string> <!-- TODO translate -->
+    <string name="sound_cartoon">Cartoon %1$s</string> <!-- TODO translate -->
+    <string name="sound_cat">Cat %1$s</string> <!-- TODO translate -->
+    <string name="sound_dog">Dog %1$s</string> <!-- TODO translate -->
+    <string name="sound_rooster">Rooster</string> <!-- TODO translate -->
 
     <!-- Volume -->
     <string name="text_seek_volume">Громкость</string>
@@ -130,6 +139,7 @@
     <!-- Quiet Days -->
     <string name="quiet_days_title">Тихие дни</string>
     <string name="days_none">Нет</string>
+    <string name="days_everyday">Everyday</string> <!-- TODO translate -->
     <string name="silent_day">Тихий день</string>
     <string name="quiet_day_warning">Уведомления отключены, потому что сегодня Тихий день.</string>
     <string name="toast_change_quiet_days">Отмените Тихий день, чтобы BlipBlip работал сегодня.</string>
@@ -192,7 +202,8 @@
     <string name="pref_vibrate_wear_on">Вибрировать на связанных смарт-часах Android Wear</string>
     <string name="pref_vibrate_wear_off">Не вибрировать на связанных смарт-часах Android Wear</string>
     <string name="pref_vibrate_wearable_title">@string/pref_vibrate_wear_title</string> <!-- TODO translate "Vibrate on connected device"-->
-    <string name="pref_vibrate_wearable_on">@string/pref_vibrate_wear_on</string> <!-- TODO translate "If vibration is enabled vibrate also on connected wearable device (e.g. smart watch)"-->
+    <string name="pref_vibrate_wearable_on">@string/pref_vibrate_wear_on</string> <!-- TODO translate "If vibration is enabled vibrate also on connected wearable device (e.g. smart watch)"--> <!-- not used anymore -->
+    <string name="pref_vibrate_wearable_on2">If vibration is enabled vibrate also on connected wearable device (e.g. smart watch). Requires adding system notification.</string> <!-- TODO translate -->
     <string name="pref_vibrate_wearable_off">@string/pref_vibrate_wear_off</string> <!-- TODO translate "Do not vibrate on connected wearable device"-->
 
     <!-- Vibrate on Main Device -->
@@ -204,6 +215,8 @@
     <string name="pref_notification_action_buttons">Кнопки действий</string> <!-- Preference name for choosing which buttons are visible on notification -->
     <string name="notif_action_play">Играть</string> <!-- Description of action button. This should refer to notif_action_play -->
     <string name="notif_action_play_desc">Выдать сигнал (звук, вибрация и так далее), как в приложении.</string>
+    <string name="notif_action_stop">Stop</string> <!-- TODO translate --> <!-- Description of action button. This should refer to notif_action_stop -->
+    <string name="notif_action_stop_desc">Stop playback of notification.</string> <!-- TODO translate -->
     <string name="notif_action_disable_or_enable">Разрешить/Запретить</string> <!-- Description of action button. This refers to notif_action_enable and notif_action -->
     <string name="notif_action_disable_or_enable_desc">Кнопка для разрешения или запрета сигналов.</string>
     <string name="notif_action_skip">Пропустить</string> <!-- this should refer to notif_button_skip -->
@@ -213,6 +226,7 @@
     <string name="notif_action_dismiss">Отменить</string> <!-- this should refer to notif_button_dismiss -->
     <string name="notif_action_dismiss_desc">Отменить сигнал.</string>
     <string name="notif_button_play">Играть</string> <!-- Action button label in notification having same action as play button in the app - plays the notificaton for testing purposes. This text should be short, because it will be shown on notification button where there can be 3 of them -->
+    <string name="notif_button_stop">Stop</string> <!-- TODO translate --> <!-- Stops playback of notification. Should be short. -->
     <string name="notif_button_enable">Включить</string> <!-- This text should be short, because it will be shown on notification button where there can be 3 of them. -->
     <string name="notif_button_disable">Выключить</string> <!-- This text should be short, because it will be shown on notification button where there can be 3 of them. -->
     <string name="notif_button_skip">Пропуск</string> <!-- This text should be short, because it will be shown on notification button where there can be 3 of them. -->
@@ -326,6 +340,7 @@
     <string name="about_version">Версия:</string>
     <string name="about_authors">Авторы</string>
     <string name="about_coding">Программирование</string>
+    <string name="about_testing">Testing</string> <!-- TODO translate -->
     <string name="about_graphics">Графика</string>
     <string name="about_translations">Переводы</string>
     <string name="about_send_feedback">Отправить отзыв</string>
@@ -362,6 +377,9 @@
     <string name="pref_audio_focus_dont_duck_on">While app is playing sound other apps may pause their audio.</string> <!-- TODO translate -->
     <string name="pref_audio_focus_dont_duck_off">While app is playing sound other apps may lower volume of their audio.</string> <!-- TODO translate -->
 
+    <!-- Plurals -->
+    <!-- check which quantities and how should be used for given language here http://www.unicode.org/cldr/charts/29/supplemental/language_plural_rules.html -->
+    <!-- Uncomment or add proper "zero", "two", "few" or "many" item if needed for your language -->
     <plurals name="number_of_hours"> <!-- TODO add also few and many -->
         <!-- check which quantities and how should be used for given language here http://www.unicode.org/cldr/charts/29/supplemental/language_plural_rules.html -->
         <!--item quantity="zero"></item-->
@@ -392,11 +410,20 @@
         <item quantity="other">%d seconds</item>
     </plurals>
 
+    <plurals name="repeat_number_of_times">
+        <item quantity="one">%d time</item>
+        <item quantity="other">%d times</item>
+    </plurals>
+
     <string name="pref_reset_accuracy_params">Reset parameters</string> <!-- TODO translate -->
     <string name="pref_reset_accuracy_params_desc">Resets internal parameters which improve notification accuracy.</string> <!-- TODO translate -->
     <string name="warn_foreground_service_disabled">Foreground service setting has been disabled. This may increase chance that background process is killed and app stops working.</string> <!-- TODO translate -->
+
+    <!-- Airplane mode -->
+    <string name="pref_airplane_mode">Airplane mode</string> <!-- TODO translate -->
     <string name="off_airplane">Disable in airplane mode</string> <!-- TODO translate -->
     <string name="while_airplane_toast">BlipBlip notifications are now disabled, because you are in airplane mode.</string> <!-- TODO translate -->
+
     <string name="setting_system_default">System default</string> <!-- TODO translate -->
     <string name="pref_time_format_title">Time format</string> <!-- TODO translate -->
     <string name="time_format_12h">12 hour clock</string> <!-- TODO translate -->
@@ -428,9 +455,9 @@
     <string name="dark_theme_off">Use light theme</string> <!-- TODO translate -->
 
     <string name="title_activity_sounds">Sounds</string> <!-- TODO translate -->
-    <string name="title_activity_sound">@string/sound_text</string> <!-- TODO translate -->
+    <string name="title_activity_sound">@string/sound_text</string>
     <string name="title_activity_vibrations">Vibrations</string> <!-- TODO translate -->
-    <string name="title_activity_vibration">@string/vibrate</string> <!-- TODO translate -->
+    <string name="title_activity_vibration">@string/vibrate</string>
     <string name="action_delete">Delete</string> <!-- TODO translate -->
     <string name="action_add_vibration_pattern">Add entry</string> <!-- TODO translate -->
     <string name="dialog_title_deletion">Confirm deletion</string> <!-- TODO translate -->
@@ -557,9 +584,7 @@
     <string name="advice_disable_task_killers">Disable task killers</string> <!-- TODO translate -->
     <string name="advice_disable_task_killers_desc">Task killers should be disabled or BlipBlip should be added in their white lists to keep app alive.</string> <!-- TODO translate -->
     <string name="advice_enable_foreground_service">Enable foreground service</string> <!-- TODO translate -->
-    <string name="advice_enable_foreground_service_desc2"><p>Foreground service option informs OS that application should not be killed if possible.</p>\n<p>It will display persistent notification which can be hidden from system settings (hiding it from the app will disable this option).</p>\n<p>You can use button below to access system settings</p></string> <!-- TODO translate -->
-
-    <string name="sound_in_use">Sound is in use and cannot be deleted.</string> <!-- TODO translate -->
+    <string name="advice_enable_foreground_service_desc2"><p>Foreground service option informs OS that application should not be killed if possible.</p>\n<p>It will display persistent notification which can be hidden from system settings (hiding it from the app will disable this option).</p>\n<p>You can use button below to access system settings</p></string> <string name="sound_in_use">Sound is in use and cannot be deleted.</string> <!-- TODO translate -->
     <string name="vibration_in_use">Vibration is in use and cannot be deleted.</string> <!-- TODO translate -->
     <string name="not_found">Not found</string> <!-- TODO translate -->
     <string name="sound_not_found">Not found</string> <!-- TODO translate --> <!-- for sound -->
@@ -644,7 +669,7 @@
     <string name="feature_say_text">Say time</string> <!-- TODO translate -->
     <string name="feature_say_time">Say time</string> <!-- TODO translate -->
     <string name="pref_text_to_speech">Text to speech</string> <!-- TODO translate -->
-    <string name="system_default_audio_stream">@string/setting_system_default</string> <!-- TODO translate -->
+    <string name="system_default_audio_stream">@string/setting_system_default</string>
     <string name="application_default">Application default</string> <!-- TODO translate -->
     <string name="speak_time_format_with_minutes">Spoken time with minutes</string> <!-- TODO translate -->
     <string name="speak_time_on_the_hour">Spoken time on the hour</string> <!-- TODO translate -->

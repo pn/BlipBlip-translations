@@ -65,6 +65,15 @@
     <string name="sound_ships_bell">Dzwon okrętowy</string>
     <string name="sound_double_ships_bell">Podwójny dzwon okrętowy</string>
     <string name="sound_cuckoo">Kukułka</string>
+    <string name="sound_watch_beep">Watch beep</string> <!-- TODO translate -->
+    <string name="sound_big_ben">Big Ben</string> <!-- TODO translate -->
+    <string name="sound_big_ben_strikes">Big Ben Strikes</string> <!-- TODO translate -->
+    <string name="sound_bubble">Bubble</string> <!-- TODO translate -->
+    <string name="sound_bird">Bird %1$s</string> <!-- TODO translate -->
+    <string name="sound_cartoon">Cartoon %1$s</string> <!-- TODO translate -->
+    <string name="sound_cat">Cat %1$s</string> <!-- TODO translate -->
+    <string name="sound_dog">Dog %1$s</string> <!-- TODO translate -->
+    <string name="sound_rooster">Rooster</string> <!-- TODO translate -->
 
     <!-- Volume -->
     <string name="text_seek_volume">Głośność</string>
@@ -130,6 +139,7 @@
     <!-- Quiet Days -->
     <string name="quiet_days_title">Ciche dni</string>
     <string name="days_none">Żaden</string>
+    <string name="days_everyday">Everyday</string> <!-- TODO translate -->
     <string name="silent_day">Cichy dzień</string>
     <string name="quiet_day_warning">Powiadomienia wyłączone, ponieważ dzisiaj jest \"cichy dzień\".</string>
     <string name="toast_change_quiet_days">Proszę zmień ustawienie \"Ciche dni\", żeby BlipBlip mógł dzisiaj działać .</string>
@@ -192,7 +202,8 @@
     <string name="pref_vibrate_wear_on">Jeśli wibracja jest włączona, wibruj również na połączonym urządzeniu Android Wear</string>
     <string name="pref_vibrate_wear_off">Nie wibruj na urządzeniu Android Wear</string>
     <string name="pref_vibrate_wearable_title">Wibruj na podłączonym urządzeniu</string>
-    <string name="pref_vibrate_wearable_on">Jeśli wibracja jest włączona, wibruj również na podłączonym urządzeniu (np. inteligentnym zegarku)</string>
+    <string name="pref_vibrate_wearable_on">Jeśli wibracja jest włączona, wibruj również na podłączonym urządzeniu (np. inteligentnym zegarku)</string> <!-- not used anymore -->
+    <string name="pref_vibrate_wearable_on2">If vibration is enabled vibrate also on connected wearable device (e.g. smart watch). Requires adding system notification.</string> <!-- TODO translate -->
     <string name="pref_vibrate_wearable_off">Nie wibruj na podłączonym urządzeniu</string>
 
     <!-- Vibrate on Main Device -->
@@ -204,6 +215,8 @@
     <string name="pref_notification_action_buttons">Przyciski akcji</string> <!-- Preference name for choosing which buttons are visible on notification -->
     <string name="notif_action_play">Odtwórz</string> <!-- Description of action button. This should refer to notif_action_play -->
     <string name="notif_action_play_desc">Odtwórz powiadomienie (dźwięk, wibracja, itd.) podobnie jak z wnętrza aplikacji.</string>
+    <string name="notif_action_stop">Stop</string> <!-- TODO translate --> <!-- Description of action button. This should refer to notif_action_stop -->
+    <string name="notif_action_stop_desc">Stop playback of notification.</string> <!-- TODO translate -->
     <string name="notif_action_disable_or_enable">Włącz/Wyłącz</string> <!-- Description of action button. This refers to notif_action_enable and notif_action -->
     <string name="notif_action_disable_or_enable_desc">Przycisk służący do włączania lub wyłączania powiadomień.</string>
     <string name="notif_action_skip">Pomiń</string> <!-- this should refer to notif_button_skip -->
@@ -213,6 +226,7 @@
     <string name="notif_action_dismiss">Odwołaj</string> <!-- this should refer to notif_button_dismiss -->
     <string name="notif_action_dismiss_desc">Odwołaj dzwoniący alarm budzika.</string>
     <string name="notif_button_play">Odtwórz</string> <!-- Action button label in notification having same action as play button in the app - plays the notificaton for testing purposes. This text should be short, because it will be shown on notification button where there can be 3 of them -->
+    <string name="notif_button_stop">Stop</string> <!-- TODO translate --> <!-- Stops playback of notification. Should be short. -->
     <string name="notif_button_enable">Włącz</string> <!-- This text should be short, because it will be shown on notification button where there can be 3 of them. -->
     <string name="notif_button_disable">Wyłącz</string> <!-- This text should be short, because it will be shown on notification button where there can be 3 of them. -->
     <string name="notif_button_skip">Pomiń</string> <!-- This text should be short, because it will be shown on notification button where there can be 3 of them. -->
@@ -326,6 +340,7 @@
     <string name="about_version">Wersja:</string>
     <string name="about_authors">Autorzy</string>
     <string name="about_coding">Kodowanie</string>
+    <string name="about_testing">Testing</string> <!-- TODO translate -->
     <string name="about_graphics">Grafika</string>
     <string name="about_translations">Tłumaczenia</string>
     <string name="about_send_feedback">Wyślij informację zwrotną</string>
@@ -362,6 +377,9 @@
     <string name="pref_audio_focus_dont_duck_on">Podczas odtwarzania dźwięku, inne aplikacje mogą zatrzymać odtwarzanie dźwięków.</string>
     <string name="pref_audio_focus_dont_duck_off">Podczas odtwarzania dźwięku, inne aplikacje mogą ściszyć odtwarzanie dźwięków.</string>
 
+    <!-- Plurals -->
+    <!-- check which quantities and how should be used for given language here http://www.unicode.org/cldr/charts/29/supplemental/language_plural_rules.html -->
+    <!-- Uncomment or add proper "zero", "two", "few" or "many" item if needed for your language -->
     <plurals name="number_of_hours">
         <item quantity="one">%d godzina</item>
         <item quantity="few">%d godziny</item>
@@ -399,11 +417,20 @@
         <item quantity="many">%d sekund</item>
         <item quantity="other">%d sekundy</item>
     </plurals>
+    <plurals name="repeat_number_of_times">
+        <item quantity="one">%d time</item>
+        <item quantity="other">%d times</item>
+    </plurals>
+
     <string name="pref_reset_accuracy_params">Resetuj parametry</string>
     <string name="pref_reset_accuracy_params_desc">Resetuje wewnętrzne parametry, które poprawiają dokładność powiadomień.</string>
     <string name="warn_foreground_service_disabled">To może zwiększyć prawdopodobieństwo, że aplikacja zostanie zmuszona do zatrzymania.</string>
+
+    <!-- Airplane mode -->
+    <string name="pref_airplane_mode">Airplane mode</string> <!-- TODO translate -->
     <string name="off_airplane">Wyłączone w trybie samolotowym</string>
     <string name="while_airplane_toast">Powiadomienia BlipBlip są teraz wyłączone, ponieważ jesteś w trybie samolotowym.</string>
+
     <string name="setting_system_default">Domyślny systemowy</string>
     <string name="pref_time_format_title">Format czasu</string>
     <string name="time_format_12h">12-godzinny</string>
