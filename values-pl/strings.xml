@@ -1,154 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="action_settings">Ustawienia</string>
-    <string name="vibrate">Wibracja</string>
-    <string name="text_seek_volume">Głośność</string>
-    <string name="pref_choose_audio_stream">Strumień dźwięku</string>
-    <string name="sound_text">Dźwięk</string>
-    <string name="set">Ustaw</string>
-    <string name="cancel">Anuluj</string>
-    <string name="quiet_hours_title">Cichy czas</string>
-    <string name="quiet_hours_times_title">Cichy czas pomiędzy</string>
-    <string name="quiet_hours_from">Cichy czas od</string>
-    <string name="quiet_hours_to">Cichy czas do</string>
-    <string name="light_up_screen_title">Włącz ekran podczas powiadomienia</string>
-    <string name="light_up_screen_off">Ekran będzie wyłączony</string>
-    <string name="light_up_screen_on">Włącz na krótko ekran</string>
-    <string name="quiet_days_title">Ciche dni</string>
-    <string name="days_none">Żaden</string>
-    <string name="days_everyday">Codziennie</string>
-    <string name="action_send_logs">Zgłoś problem</string>
-    <string name="action_about">O programie</string>
-    <string name="about_dialog_title">O programie</string>
+
+    <!-- Buttons -->
     <string name="ok">OK</string> <!-- translated -->
-    <string name="about_authors">Autorzy</string>
-    <string name="about_version">Wersja:</string>
-    <string name="pref_advanced">Ustawienia zaawansowane</string>
-    <string name="title_advanced_settings">Ustawienia zaawansowane</string>
-    <string name="pref_time_offset_title">Przesunięcie czasu</string>
-    <string name="pref_time_offset_summary">Przesunięcie od docelowego czasu w sekundach</string>
-    <string name="while_music">Wyłącz podczas odtwarzania muzyki</string>
-    <string name="while_music_on">Powiadomienia wyłączone</string>
-    <string name="while_music_off">Powiadomienia włączone</string>
-    <string name="while_music_toast">Powiadomienia BlipBlip są teraz wyłączone, ponieważ słuchasz muzyki.</string>
-    <string name="while_phonecall">Wyłącz podczas rozmowy telefonicznej</string>
-    <string name="while_phonecall_on">Powiadomienia wyłączone</string>
-    <string name="while_phonecall_off">Powiadomienia włączone</string>
-    <string name="while_phonecall_toast">Powiadomienia BlipBlip są teraz wyłączone, ponieważ trwa rozmowa telefoniczna.</string>
-    <string name="late_notif_title">Tryb alarmu włączony</string>
-    <string name="late_notif_message">Zostało wykryte, że powiadomienie było opóźnione o kilka minut co zdaża się na niktórych urządzeniach Samsunga. Żeby temu zapobiec została włączona opcja \"Tryb alarmu\", co powinno poprawić problem. Możesz wyłączyć tą opcję i automatyczne jej włączanie w Ustawieniach zaawansowanych. Jeśli zostanie znalezione lepsze rozwiązanie, aplikacja zostanie zaktualizowana. Jeśli będziesz mieć jeszcze jakieś problemy, proszę skontaktuj się emailowo.</string>
     <string name="dialog_ok">OK</string> <!-- translated -->
-    <string name="late_notif_notif_title">BlipBlip - zmiana konfiguracji</string>
-    <string name="late_notif_notif_text">Tryb alarmu został włączony by naprawić opóźnienia</string>
-    <string name="notif_as_alarm_off">Zwykłe powiadomienia</string>
-    <string name="notif_as_alarm_on">Powiadomienia działają jak alarmy (budziki) – naprawia 3–5 minutowe opóźnienia powiadomień na niektórych urządzeniach Samsunga</string>
-    <string name="notif_as_alarm_title">Tryb alarmu</string>
-    <string name="auto_notif_as_alarm_title">Automatyczny tryb alarmu</string>
-    <string name="auto_notif_as_alarm_on">Włącz Tryb alarmu jeśli zostanie wykryte opóźnienie powiadomienia</string>
-    <string name="auto_notif_as_alarm_off">Nie włączaj Trybu alarmu automatycznie</string>
-    <string name="debug_logs_title">Zapisuj dziennik błędów</string>
-    <string name="debug_logs_off">Zapisywanie dziennika wyłączone</string>
-    <string name="debug_logs_on">Zapisuj dziennik dla opcji Zgłoś problem</string>
-    <string name="send_logs_describe">Proszę opisz swój problem z aplikacją:</string>
+    <string name="cancel">Anuluj</string>
+    <string name="set">Ustaw</string>
+    <string name="change_setting">Zmień</string>
     <string name="send">Wyślij</string>
     <string name="send_email_description">Wyślij email…</string>
-    <string name="app_language">Język</string>
-    <string name="system_default_language">Domyślny systemowy</string>
-    <string name="sound_blipblip">BlipBlip</string> <!-- translated -->
-    <string name="sound_casio_watch">Zegarek Casio</string>
-    <string name="sound_gong">Gong</string> <!-- translated -->
-    <string name="sound_ships_bell">Dzwon okrętowy</string>
-    <string name="sound_double_ships_bell">Podwójny dzwon okrętowy</string>
-    <string name="sound_cuckoo">Kukułka</string>
-    <string name="sound_watch_beep">Piknięcie zegarka</string>
-    <string name="sound_big_ben">Big Ben</string> <!-- translated -->
-    <string name="sound_big_ben_strikes">Big Ben wybija</string>
-    <string name="sound_bubble">Bąbel</string>
-    <string name="sound_bird">Ptak %1$s</string>
-    <string name="sound_cartoon">Kreskówka %1$s</string>
-    <string name="sound_cat">Kot %1$s</string>
-    <string name="sound_dog">Pies %1$s</string>
-    <string name="sound_rooster">Kogut</string>
-    <string name="period_1_minute">1 minutę</string>
-    <string name="period_5_minutes">5 minut</string>
-    <string name="period_10_minutes">10 minut</string>
-    <string name="period_15_minutes">15 minut</string>
-    <string name="period_20_minutes">20 minut</string>
-    <string name="period_30_minutes">30 minut</string>
-    <string name="period_60_minutes">1 godzinę</string>
-    <string name="audio_stream_phone_ring">Dzwonek telefonu</string>
-    <string name="audio_stream_alarm">Budzik</string>
-    <string name="audio_stream_media">Muzyka</string>
-    <string name="audio_stream_notification">Powiadomienia</string>
-    <string name="about_coding">Kodowanie</string>
-    <string name="about_testing">Testowanie</string>
-    <string name="about_graphics">Grafika</string>
-    <string name="about_more_apps">Więcej aplikacji</string>
-    <string name="about_send_feedback">Wyślij informację zwrotną</string>
-    <string name="about_community">Społeczność Google+</string>
-    <string name="language_improve_translations">Dodaj lub popraw tłumaczenia</string>
-    <string name="action_share">Podziel się aplikacją</string>
-    <string name="action_rate">Oceń aplikację</string>
-    <string name="share_title">Sprawdź aplikację BlipBlip!</string>
-    <string name="share_text">Wypróbuj aplikację BlipBlip (powiadomienie o pełnej godzinie) na androida</string>
-    <string name="share_chooser_title">Prześlij aplikację!</string>
-    <string name="pref_notification_status_title">Wyświetl powiadomienie</string>
-    <string name="rate_us_title">Wystaw ocenę!</string>
-    <string name="rate_us_message">Dziękuję za poświęcony czas na ocenę aplikacji.</string>
-    <string name="rate_us_fivestars">5 gwiazdek!</string>
-    <string name="rate_us_onetofourstars">1–4 gwiazdki</string>
-    <string name="feedback_improvement_title">BlipBlip można usprawnić</string>
-    <string name="feedback_improvement_message">Proszę napisz co moglibyśmy usprawnić, żebyś był(a) zadowolony(a) z aplikacji.</string>
-    <string name="feedback_dialog_bug_found">Znalazłem błąd (załącz logi)</string>
-    <string name="service_disabled_warning">BlipBlip jest wyłączony</string>
-    <string name="service_enable">Włącz</string>
-    <string name="vibration_blipblip">Dla BlipBlip</string>
-    <string name="vibration_casio_watch">Dla dźwięku zegarka Casio</string>
-    <string name="vibration_single_short">Pojedyncza, krótka</string>
-    <string name="vibration_double_short">Podwójna, krótka</string>
-    <string name="vibration_single_long">Pojedyncza, długa</string>
-    <string name="vibration_double_long">Podwójna, długa</string>
-    <string name="quiet_day_warning">Powiadomienia wyłączone, ponieważ dzisiaj jest \"cichy dzień\".</string>
-    <string name="change_setting">Zmień</string>
-    <string name="toast_change_quiet_days">Proszę zmień ustawienie \"Ciche dni\", żeby BlipBlip mógł dzisiaj działać .</string>
-    <string name="notification_question_title">Wyświetlać powiadomienie?</string>
-    <string name="dont_show_again">Nie pytaj ponownie</string>
-    <string name="display_notification">Wyświetlaj</string>
-    <string name="hide_notification">Ukryj</string>
-    <string name="repeat_every">Powtarzaj co</string>
-    <string name="about_translations">Tłumaczenia</string>
+    <string name="play_button_description">Przetestuj swoje ustawienia</string>
+
+    <!-- Warnings -->
+    <string name="warning">Ostrzeżenie</string>
+    <string name="warning_global_volume">Użyj przycisków głośności do zmiany głośności systemowej.</string>
+    <string name="warning_understood">Rozumiem</string>
+    <string name="warning_dont_show_again">Nie pokazuj ponownie</string>
+    <string name="please_wait">Proszę czekać…</string>
+    <string name="warn_power_saving">Aby zapewnić niezawodne działanie, wyłącz wszelkie tryby oszczędzania baterii.</string> <!-- Please make this as short as possible -->
     <string name="allow_while_idle_title">Zezwól na pracę w trybie oszczędnym</string>
     <string name="allow_while_idle_off">Jeśli telefon będzie w trybie oszczędnym niektóre powiadomienia z aplikacji mogą zostać pominięte.</string>
     <string name="allow_while_idle_on">Zezwól na pracę w trybie oszczędnym (Doze/Idle). Może nie działać dla powiadomień częstszych niż 15 minut. Ustawienie może mieć niewielki wpływ na zużycie baterii.</string>
-    <string name="beta_preference_title">BlipBlip Beta</string> <!-- translated -->
-    <string name="beta_preference_description">Włącz lub wyłącz wersję beta</string>
-    <string name="pref_silent_mode">Tryb cichy</string>
-    <string name="pref_vibrate_mode">Tryb wibracji</string>
-    <string name="title_silent_mode_settings">Ustawienia trybu cichego</string>
-    <string name="title_vibrate_mode_settings">Ustawienia trybu wibracji</string>
-    <string name="sound_in_silent_mode_title">Dźwięk w trybie cichym</string>
-    <string name="vibrate_in_silent_mode_title">Wibracja w trybie cichym</string>
-    <string name="force_screen_in_silent_mode_title">Wymuszenie włączenia ekranu</string>
-    <string name="sound_in_vibrate_mode_title">Dźwięk w trybie wibracji</string>
-    <string name="vibrate_in_vibrate_mode_title">Wibracja w trybie wibracji</string>
-    <string name="force_vibrate_in_vibrate_mode_title">Wymuś wibracje</string>
-    <string name="force_screen_in_vibrate_mode_title">Wymuś włączenie ekranu</string>
-    <string name="sound_in_silent_mode_on">Zezwól na odtwarzanie dźwięku w trybie cichym telefonu</string>
-    <string name="vibrate_in_silent_mode_on">Zezwól na wibracje w trybie cichym telefonu</string>
-    <string name="force_screen_in_silent_mode_on">Rozświetl ekran w trybie cichym nawet jeśli opcja \"Włącz ekran podczas powiadomienia\" jest wyłączona</string>
-    <string name="sound_in_vibrate_mode_on">Zezwól na odtwarzanie dźwięku w trybie wibracji</string>
-    <string name="vibrate_in_vibrate_mode_on">Zezwól na wibracje w trybie wibracji</string>
-    <string name="force_vibrate_in_vibrate_mode_on">Wymuś wibracje w trybie wibracji, nawet jeśli wibracje są wyłączone</string>
-    <string name="force_screen_in_vibrate_mode_on">Rozświetl ekran w trybie wibracji nawet jeśli opcja \"Włącz ekran podczas powiadomienia\" jest wyłączona</string>
-    <string name="sound_in_silent_mode_off">Wyłącz dźwięk w trybie cichym</string>
-    <string name="vibrate_in_silent_mode_off">Wyłącz wibracje w trybie cichym</string>
-    <string name="force_screen_in_silent_mode_off">Wyłączone</string>
-    <string name="sound_in_vibrate_mode_off">Wyłącz dźwięk w trybie wibracji</string>
-    <string name="vibrate_in_vibrate_mode_off">Wyłącz wibracje w trybie wibracji</string>
-    <string name="force_vibrate_in_vibrate_mode_off">Wyłączone</string>
-    <string name="force_screen_in_vibrate_mode_off">Wyłączone</string>
-    <string name="warning_global_volume">Użyj przycisków głośności do zmiany głośności systemowej.</string>
-    <string name="warning_understood">Rozumiem</string>
+    <string name="app_killed_warning">Niedawno BlipBlip został nieoczekiwanie zatrzymany. &lt;b&gt;Proszę upewnij się, że nie używasz żadnych trybów oszczędzania baterii (lub optymalizacji baterii, trybu eco) lub aplikacji (np. tzw. task killers)&lt;/b&gt;. Zazwyczaj są one przyczyną takiego problemu. Jeśli chcesz używać takiej aplikacji dodaj BlipBlip do białej listy (whitelist) w tej aplikacji. Jeśli uważasz, że to jest błąd w aplikacji lub potrzebujesz z tym pomocy, proszę opisz swój problem za pomocą opcji \"Zgłoś problem\" lub napisz na forum &lt;a href=\"%1$s\"&gt;społeczności Google+ BlipBlip&lt;/a&gt;.</string>
+    <string name="app_killed_warning2">Niedawno BlipBlip został nieoczekiwanie zatrzymany. &lt;b&gt;Proszę upewnij się, że nie używasz żadnych trybów oszczędzania baterii (lub optymalizacji baterii, trybu eco, itp.) lub aplikacji (np. tzw. task killers)&lt;/b&gt;. Zazwyczaj są one przyczyną takiego problemu. Jeśli chcesz używać takiej aplikacji dodaj BlipBlip do białej listy (whitelist) w tej aplikacji. Jeśli uważasz, że to jest błąd w aplikacji lub potrzebujesz z tym pomocy, proszę opisz swój problem za pomocą opcji \"%1$s\".</string> <!-- Text in quotes will be replaced by value of action_send_logs -->
+
+    <!-- Next Notification -->
     <string name="next_notification_today">Następne powiadomienie o %1$s</string>
     <string name="next_notification_tomorrow">Następne powiadomienie jutro o %1$s</string>
     <string name="next_notification_mon">Następne powiadomienie w poniedziałek o %1$s</string>
@@ -160,11 +36,9 @@
     <string name="next_notification_sun">Następne powiadomienie w niedzielę o %1$s</string>
     <string name="next_notification_off">Wyłączony</string>
     <string name="next_notification_never">Konflikt ustawień.</string>
-    <string name="warn_sound_disabled_silent_mode">Powiadomienia dźwiękowe BlipBlip są wyłączone, ponieważ urządzenie jest w trybie cichym.</string>
-    <string name="warn_sound_disabled_vibrate_mode">Powiadomienia dźwiękowe BlipBlip są wyłączone, ponieważ urządzenie jest w trybie wibracji.</string>
-    <string name="pref_toast_notifications">Powiadomienia w dymkach</string>
-    <string name="pref_toast_notifications_on">Pokazuj ostrzegawcze powiadomienia w dymkach</string>
-    <string name="pref_toast_notifications_off">Ukryj ostrzegawcze powiadomienia w dymkach</string>
+    <string name="upcoming_notifications">Nadchodzące powiadomienia</string>
+    <string name="day_today">Dzisiaj</string>
+    <string name="day_tomorrow">Jutro</string>
     <string name="day_monday">Poniedziałek</string>
     <string name="day_tuesday">Wtorek</string>
     <string name="day_wednesday">Środa</string>
@@ -172,63 +46,164 @@
     <string name="day_friday">Piątek</string>
     <string name="day_saturday">Sobota</string>
     <string name="day_sunday">Niedziela</string>
-    <string name="day_today">Dzisiaj</string>
-    <string name="day_tomorrow">Jutro</string>
+
+    <!-- Period -->
+    <string name="repeat_every">Powtarzaj co</string>
+    <string name="period_1_minute">1 minutę</string>
+    <string name="period_5_minutes">5 minut</string>
+    <string name="period_10_minutes">10 minut</string>
+    <string name="period_15_minutes">15 minut</string>
+    <string name="period_20_minutes">20 minut</string>
+    <string name="period_30_minutes">30 minut</string>
+    <string name="period_60_minutes">1 godzinę</string>
+
+    <!-- Sound -->
+    <string name="sound_text">Dźwięk</string>
+    <string name="sound_blipblip">BlipBlip</string> <!-- translated -->
+    <string name="sound_casio_watch">Zegarek Casio</string>
+    <string name="sound_gong">Gong</string> <!-- translated -->
+    <string name="sound_ships_bell">Dzwon okrętowy</string>
+    <string name="sound_double_ships_bell">Podwójny dzwon okrętowy</string>
+    <string name="sound_cuckoo">Kukułka</string>
+
+    <!-- Volume -->
+    <string name="text_seek_volume">Głośność</string>
+
+    <!-- Vibration -->
+    <string name="vibrate">Wibracja</string>
+    <string name="vibration_blipblip">Dla BlipBlip</string>
+    <string name="vibration_casio_watch">Dla dźwięku zegarka Casio</string>
+    <string name="vibration_single_short">Pojedyncza, krótka</string>
+    <string name="vibration_double_short">Podwójna, krótka</string>
+    <string name="vibration_single_long">Pojedyncza, długa</string>
+    <string name="vibration_double_long">Podwójna, długa</string>
+
+    <!-- Silent Mode -->
+    <string name="pref_silent_mode">Tryb cichy</string>
+    <string name="title_silent_mode_settings">Ustawienia trybu cichego</string>
+    <string name="sound_in_silent_mode_title">Dźwięk w trybie cichym</string>
+    <string name="sound_in_silent_mode_on">Zezwól na odtwarzanie dźwięku w trybie cichym telefonu</string>
+    <string name="sound_in_silent_mode_off">Wyłącz dźwięk w trybie cichym</string>
+    <string name="vibrate_in_silent_mode_title">Wibracja w trybie cichym</string>
+    <string name="vibrate_in_silent_mode_on">Zezwól na wibracje w trybie cichym telefonu</string>
+    <string name="vibrate_in_silent_mode_off">Wyłącz wibracje w trybie cichym</string>
+    <string name="force_screen_in_silent_mode_title">Wymuszenie włączenia ekranu</string>
+    <string name="force_screen_in_silent_mode_on">Rozświetl ekran w trybie cichym nawet jeśli opcja \"Włącz ekran podczas powiadomienia\" jest wyłączona</string>
+    <string name="force_screen_in_silent_mode_off">Wyłączone</string>
+    <string name="warn_sound_disabled_silent_mode">Powiadomienia dźwiękowe BlipBlip są wyłączone, ponieważ urządzenie jest w trybie cichym.</string>
+
+    <!-- Vibration Mode -->
+    <string name="pref_vibrate_mode">Tryb wibracji</string>
+    <string name="title_vibrate_mode_settings">Ustawienia trybu wibracji</string>
+    <string name="sound_in_vibrate_mode_title">Dźwięk w trybie wibracji</string>
+    <string name="sound_in_vibrate_mode_on">Zezwól na odtwarzanie dźwięku w trybie wibracji</string>
+    <string name="sound_in_vibrate_mode_off">Wyłącz dźwięk w trybie wibracji</string>
+    <string name="vibrate_in_vibrate_mode_title">Wibracja w trybie wibracji</string>
+    <string name="vibrate_in_vibrate_mode_on">Zezwól na wibracje w trybie wibracji</string>
+    <string name="vibrate_in_vibrate_mode_off">Wyłącz wibracje w trybie wibracji</string>
+    <string name="force_vibrate_in_vibrate_mode_title">Wymuś wibracje</string>
+    <string name="force_vibrate_in_vibrate_mode_on">Wymuś wibracje w trybie wibracji, nawet jeśli wibracje są wyłączone</string>
+    <string name="force_vibrate_in_vibrate_mode_off">Wyłączone</string>
+    <string name="force_screen_in_vibrate_mode_title">Wymuś włączenie ekranu</string>
+    <string name="force_screen_in_vibrate_mode_on">Rozświetl ekran w trybie wibracji nawet jeśli opcja \"Włącz ekran podczas powiadomienia\" jest wyłączona</string>
+    <string name="force_screen_in_vibrate_mode_off">Wyłączone</string>
+    <string name="warn_sound_disabled_vibrate_mode">Powiadomienia dźwiękowe BlipBlip są wyłączone, ponieważ urządzenie jest w trybie wibracji.</string>
+
+    <!-- Status Bar -->
+    <string name="service_disabled_warning">BlipBlip jest wyłączony</string>
+    <string name="service_enable">Włącz</string>
+
+    <!-- Menu - Settings -->
+    <string name="action_settings">Ustawienia</string>
+
+    <!-- Language -->
+    <string name="app_language">Język</string>
+    <string name="system_default_language">Domyślny systemowy</string>
+    <string name="language_improve_translations">Dodaj lub popraw tłumaczenia</string>
+
+    <!-- Quiet Hours -->
+    <string name="quiet_hours_title">Cichy czas</string>
+    <string name="quiet_hours_times_title">Cichy czas pomiędzy</string>
+    <string name="quiet_hours_from">Cichy czas od</string>
+    <string name="quiet_hours_to">Cichy czas do</string>
+
+    <!-- Quiet Days -->
+    <string name="quiet_days_title">Ciche dni</string>
+    <string name="days_none">Żaden</string>
     <string name="silent_day">Cichy dzień</string>
-    <string name="please_wait">Proszę czekać…</string>
-    <string name="inline_attachments_title">Załączniki w treści</string>
-    <string name="inline_attachments_on">Wstaw załączniki w treści emaila dla opcji \"Zgłoś problem\".</string>
-    <string name="inline_attachments_off">Użyj zwykłych załączników email w opcji \"Zgłoś problem\".</string>
-    <string name="pref_experimental">Ustawienia eksperymentalne</string>
-    <string name="title_experimental_settings">Ustawienia eksperymentalne</string>
-    <string name="pref_visual">Ustawienia wyglądu</string>
-    <string name="title_visual_settings">Ustawienia wyglądu</string>
-    <string name="experimental_warning">To są ustawienia eksperymentalne i mogą zostać w przyszłości usunięte.</string>
-    <string name="upcoming_notifications">Nadchodzące powiadomienia</string>
-    <string name="warning">Ostrzeżenie</string>
-    <string name="app_killed_warning">Niedawno BlipBlip został nieoczekiwanie zatrzymany. &lt;b&gt;Proszę upewnij się, że nie używasz żadnych trybów oszczędzania baterii (lub optymalizacji baterii, trybu eco) lub aplikacji (np. tzw. task killers)&lt;/b&gt;. Zazwyczaj są one przyczyną takiego problemu. Jeśli chcesz używać takiej aplikacji dodaj BlipBlip do białej listy (whitelist) w tej aplikacji. Jeśli uważasz, że to jest błąd w aplikacji lub potrzebujesz z tym pomocy, proszę opisz swój problem za pomocą opcji \"Zgłoś problem\" lub napisz na forum &lt;a href=\"%1$s\"&gt;społeczności Google+ BlipBlip&lt;/a&gt;.</string>
-    <string name="warning_dont_show_again">Nie pokazuj ponownie</string>
-    <string name="play_button_description">Przetestuj swoje ustawienia</string>
-    <string name="pref_low_volume_fix">Naprawa głośności</string>
-    <string name="pref_low_volume_fix_on">Naprawia niską głośność na niektórych urządzeniach Motoroli z funkcją zwiększania głośności. Może opóźnić dźwięk o kilka sekund.</string>
-    <string name="pref_low_volume_fix_off">Wyłączona. Niepotrzebna na większości urządzeń.</string>
-    <string name="pref_keep_service_title">Usługa w tle</string>
-    <string name="pref_keep_service_on">Utrzymuj usługę w tle zawsze uruchomioną (może zużywać więcej pamięci). Jeśli powiadomienie jest stałe, usługa staje się pierwszoplanową (foreground).</string>
-    <string name="pref_keep_service_off">Uruchom usługę w tle tylko kiedy jest to konieczne (może zużywać więcej pamięci).</string>
-    <string name="pref_dismissible_notification_title">Usuwalne powiadomienie</string>
-    <string name="pref_dismissible_notification_on">Powiadomienie można usunąć.</string>
-    <string name="pref_dismissible_notification_off">Powiadomienie jest stałe.</string>
-    <string name="pref_vibrate_wear_title">Wibruj na urządzeniu Android Wear</string>
-    <string name="pref_vibrate_wear_on">Jeśli wibracja jest włączona, wibruj również na połączonym urządzeniu Android Wear</string>
-    <string name="pref_vibrate_wear_off">Nie wibruj na urządzeniu Android Wear</string>
-    <string name="pref_vibrate_wearable_title">Wibruj na podłączonym urządzeniu</string>
-    <string name="pref_vibrate_wearable_on">Jeśli wibracja jest włączona, wibruj również na podłączonym urządzeniu (np. inteligentnym zegarku)</string>
-    <string name="pref_vibrate_wearable_on2">Jeśli wibracja jest włączona, wibruj również na podłączonym urządzeniu (np. inteligentnym zegarku). Wymaga dodania powiadomienia systemowego.</string>
-    <string name="pref_vibrate_wearable_off">Nie wibruj na podłączonym urządzeniu</string>
-    <string name="notification_question_message2">Jeśli je teraz wyłączysz, możesz je ponownie włączyć później w ustawieniach.</string> <!-- Displayed right after notification_question_title text -->
-    <string name="pref_notification_settings">Ustawienia powiadomień</string>
-    <string name="pref_vibrate_on_main_device">Wibruj na głównym urządzeniu</string> <!-- Translation note: "device" is used because it can be phone or tablet. Related with pref_vibrate_wear_title option. -->
-    <string name="pref_vibrate_on_main_device_on">Wibruj również na głównym urządzeniu.</string> <!-- Similar as above, description of "on" state for the option. -->
-    <string name="pref_vibrate_on_main_device_off">Może nie wibrować na głównym urządzeniu kiedy priorytet powiadomienia jest ustawiony na  \"Minimum\". Powinien wibrować w przeciwnym wypadku.</string> <!-- Description of "off" state for the option. "may" is used because it is not 100% certain right now. Value in double quotes must be same value of name="item_priority_minimum" -->
+    <string name="quiet_day_warning">Powiadomienia wyłączone, ponieważ dzisiaj jest \"cichy dzień\".</string>
+    <string name="toast_change_quiet_days">Proszę zmień ustawienie \"Ciche dni\", żeby BlipBlip mógł dzisiaj działać .</string>
+
+    <!-- Light Up Screen -->
+    <string name="light_up_screen_title">Włącz ekran podczas powiadomienia</string>
+    <string name="light_up_screen_off">Ekran będzie wyłączony</string>
+    <string name="light_up_screen_on">Włącz na krótko ekran</string>
     <string name="warn_light_up_screen_disable">Wyłączenie tej opcji może skutkować nieprawidłowym działaniem aplikacji z powodu błędu w androidzie 5.0.1 (szczególnie na urządzeniach Samsunga). Jeśli doświadczysz jakichś problemów, spróbuj ponownie włączyć tą opcję.</string> <!-- Warning shown on android 5.0.1 when disabling option "Light up screen on notification" -->
-    <string name="pref_notification_priority">Priorytet powiadomień</string> <!-- Option name allowing to choose priority for notification from the list -->
+
+    <!-- While Music -->
+    <string name="while_music">Wyłącz podczas odtwarzania muzyki</string>
+    <string name="while_music_on">Powiadomienia wyłączone</string>
+    <string name="while_music_off">Powiadomienia włączone</string>
+    <string name="while_music_toast">Powiadomienia BlipBlip są teraz wyłączone, ponieważ słuchasz muzyki.</string>
+    <!-- While phone call -->
+    <string name="while_phonecall">Wyłącz podczas rozmowy telefonicznej</string>
+    <string name="while_phonecall_on">Powiadomienia wyłączone</string>
+    <string name="while_phonecall_off">Powiadomienia włączone</string>
+    <string name="while_phonecall_toast">Powiadomienia BlipBlip są teraz wyłączone, ponieważ trwa rozmowa telefoniczna.</string>
+
+
+
+    <!-- ADVANCED SETTINGS -->
+    <string name="pref_advanced">Ustawienia zaawansowane</string>
+    <string name="title_advanced_settings">Ustawienia zaawansowane</string>
+
+    <!-- Audio Stream -->
+    <string name="pref_choose_audio_stream">Strumień dźwięku</string>
+    <string name="audio_stream_phone_ring">Dzwonek telefonu</string>
+    <string name="audio_stream_alarm">Budzik</string>
+    <string name="audio_stream_media">Muzyka</string>
+    <string name="audio_stream_notification">Powiadomienia</string>
+
+    <!-- Notifications -->
+    <string name="pref_notification_settings">Ustawienia powiadomień</string>
+    <string name="pref_notification_status_title">Wyświetl powiadomienie</string>
+
+    <!-- Show Notification Always -->
+    <string name="pref_notification_always">Zawsze wyświetlaj</string>
+    <string name="pref_notification_always_on">Wyświetlaj powiadomienie niezależnie od tego czy jest włączone</string>
+    <string name="pref_notification_always_off">Wyświetlaj powiadomienie tylko wtedy kiedy jest włączone</string>
+    <string name="notification_settings_updated">Ustawienia powiadomień zostały zmienione.</string> <!-- message displayed when one of notification settings is updated without user interacting with these options -->
+
+    <!-- Notification Priority -->
+    <string name="pref_notification_priority">Priorytet powiadomień</string>
     <string name="item_priority_minimum">Minimalny</string>
     <string name="item_priority_low">Niski</string>
     <string name="item_priority_normal">Normalny</string>
     <string name="item_priority_high">Wysoki</string>
     <string name="item_priority_maximum">Maksymalny</string>
-    <string name="pref_notification_title_title">Tytuł powiadomienia</string>
-    <string name="pref_notification_description_title">Opis powiadomienia</string>
-    <string name="pref_custom_texts">Niestandardowe teksty powiadomienia</string>
-    <string name="pref_custom_title">Niestandardowy tytuł</string>
-    <string name="pref_custom_description">Niestandardowy opis</string>
-    <string name="pref_random_title">Losowość</string>
-    <string name="pref_random_description">Ilość sekund o jakie może różnić się czas losowy od dokładnego</string>
+
+    <!-- Dismissible Notification -->
+    <string name="pref_dismissible_notification_title">Usuwalne powiadomienie</string>
+    <string name="pref_dismissible_notification_on">Powiadomienie można usunąć.</string>
+    <string name="pref_dismissible_notification_off">Powiadomienie jest stałe.</string>
+
+    <!-- Vibrate on Wear -->
+    <string name="pref_vibrate_wear_title">Wibruj na urządzeniu Android Wear</string>
+    <string name="pref_vibrate_wear_on">Jeśli wibracja jest włączona, wibruj również na połączonym urządzeniu Android Wear</string>
+    <string name="pref_vibrate_wear_off">Nie wibruj na urządzeniu Android Wear</string>
+    <string name="pref_vibrate_wearable_title">Wibruj na podłączonym urządzeniu</string>
+    <string name="pref_vibrate_wearable_on">Jeśli wibracja jest włączona, wibruj również na podłączonym urządzeniu (np. inteligentnym zegarku)</string>
+    <string name="pref_vibrate_wearable_off">Nie wibruj na podłączonym urządzeniu</string>
+
+    <!-- Vibrate on Main Device -->
+    <string name="pref_vibrate_on_main_device">Wibruj na głównym urządzeniu</string> <!-- Translation note: "device" is used because it can be phone or tablet. Related with pref_vibrate_wear_title option. -->
+    <string name="pref_vibrate_on_main_device_on">Wibruj również na głównym urządzeniu.</string> <!-- Similar as above, description of "on" state for the option. -->
+    <string name="pref_vibrate_on_main_device_off">Może nie wibrować na głównym urządzeniu kiedy priorytet powiadomienia jest ustawiony na  \"Minimum\". Powinien wibrować w przeciwnym wypadku.</string> <!-- Description of "off" state for the option. "may" is used because it is not 100% certain right now. Value in double quotes must be same value of name="item_priority_minimum" -->
+
+    <!-- Action Buttons -->
     <string name="pref_notification_action_buttons">Przyciski akcji</string> <!-- Preference name for choosing which buttons are visible on notification -->
     <string name="notif_action_play">Odtwórz</string> <!-- Description of action button. This should refer to notif_action_play -->
     <string name="notif_action_play_desc">Odtwórz powiadomienie (dźwięk, wibracja, itd.) podobnie jak z wnętrza aplikacji.</string>
-    <string name="notif_action_stop">Zatrzymaj</string> <!-- Description of action button. This should refer to notif_action_stop -->
-    <string name="notif_action_stop_desc">Zatrzymaj odtwarzanie powiadomienia.</string>
     <string name="notif_action_disable_or_enable">Włącz/Wyłącz</string> <!-- Description of action button. This refers to notif_action_enable and notif_action -->
     <string name="notif_action_disable_or_enable_desc">Przycisk służący do włączania lub wyłączania powiadomień.</string>
     <string name="notif_action_skip">Pomiń</string> <!-- this should refer to notif_button_skip -->
@@ -238,25 +213,130 @@
     <string name="notif_action_dismiss">Odwołaj</string> <!-- this should refer to notif_button_dismiss -->
     <string name="notif_action_dismiss_desc">Odwołaj dzwoniący alarm budzika.</string>
     <string name="notif_button_play">Odtwórz</string> <!-- Action button label in notification having same action as play button in the app - plays the notificaton for testing purposes. This text should be short, because it will be shown on notification button where there can be 3 of them -->
-    <string name="notif_button_stop">Zatrzymaj</string> <!-- Stops playback of notification. Should be short. -->
     <string name="notif_button_enable">Włącz</string> <!-- This text should be short, because it will be shown on notification button where there can be 3 of them. -->
     <string name="notif_button_disable">Wyłącz</string> <!-- This text should be short, because it will be shown on notification button where there can be 3 of them. -->
     <string name="notif_button_skip">Pomiń</string> <!-- This text should be short, because it will be shown on notification button where there can be 3 of them. -->
     <string name="notif_button_snooze">Drzemka</string> <!-- This text should be short, because it will be shown on notification button where there can be 3 of them. -->
     <string name="notif_button_dismiss">Odwołaj</string> <!-- This text should be short, because it will be shown on notification button where there can be 3 of them. -->
-    <string name="pref_notification_always">Zawsze wyświetlaj</string> <!-- option to always show notification -->
-    <string name="pref_notification_always_on">Wyświetlaj powiadomienie niezależnie od tego czy jest włączone</string>
-    <string name="pref_notification_always_off">Wyświetlaj powiadomienie tylko wtedy kiedy jest włączone</string>
+
+    <!-- Custom Texts -->
+    <string name="pref_custom_texts">Niestandardowe teksty powiadomienia</string>
+    <string name="pref_custom_title">Niestandardowy tytuł</string>
+    <string name="pref_notification_title_title">Tytuł powiadomienia</string>
+    <string name="pref_custom_description">Niestandardowy opis</string>
+    <string name="pref_notification_description_title">Opis powiadomienia</string>
+
+    <!-- Reliability -->
     <string name="pref_reliability">Ustawienia niezawodności</string> <!-- title of settings section meant for all settings which may improve running of the app without issues -->
+    <string name="reliability_warning">Zmiana tych ustawień może powodować zmiany w niezawodności aplikacji.</string> <!-- This message should be as short as possible. There is risk of cutting it off if it will be too long -->
+
+    <!-- Alarm Mode -->
+    <string name="notif_as_alarm_title">Tryb alarmu</string>
+    <string name="notif_as_alarm_off">Zwykłe powiadomienia</string>
+    <string name="notif_as_alarm_on">Powiadomienia działają jak alarmy (budziki) – naprawia 3–5 minutowe opóźnienia powiadomień na niektórych urządzeniach Samsunga</string>
+    <string name="late_notif_title">Tryb alarmu włączony</string>
+    <string name="late_notif_message">Zostało wykryte, że powiadomienie było opóźnione o kilka minut co zdaża się na niktórych urządzeniach Samsunga. Żeby temu zapobiec została włączona opcja \"Tryb alarmu\", co powinno poprawić problem. Możesz wyłączyć tą opcję i automatyczne jej włączanie w Ustawieniach zaawansowanych. Jeśli zostanie znalezione lepsze rozwiązanie, aplikacja zostanie zaktualizowana. Jeśli będziesz mieć jeszcze jakieś problemy, proszę skontaktuj się emailowo.</string>
+    <string name="late_notif_notif_title">BlipBlip - zmiana konfiguracji</string>
+    <string name="late_notif_notif_text">Tryb alarmu został włączony by naprawić opóźnienia</string>
+
+    <!-- Auto Alarm -->
+    <string name="auto_notif_as_alarm_title">Automatyczny tryb alarmu</string>
+    <string name="auto_notif_as_alarm_on">Włącz Tryb alarmu jeśli zostanie wykryte opóźnienie powiadomienia</string>
+    <string name="auto_notif_as_alarm_off">Nie włączaj Trybu alarmu automatycznie</string>
+
+    <!-- Low Valume -->
+    <string name="pref_low_volume_fix">Naprawa głośności</string>
+    <string name="pref_low_volume_fix_on">Naprawia niską głośność na niektórych urządzeniach Motoroli z funkcją zwiększania głośności. Może opóźnić dźwięk o kilka sekund.</string>
+    <string name="pref_low_volume_fix_off">Wyłączona. Niepotrzebna na większości urządzeń.</string>
+
+    <!-- Foreground Service -->
     <string name="pref_foreground_service_title">Usługa pierwszoplanowa</string>
     <string name="pref_foreground_service_on">Wyświetla nieusuwalne powiadomienie oraz włącza usługę w tle, która może zapobiegać wymuszonemu zamknięciu aplikacji.</string>
     <string name="pref_foreground_service_off">Usługa pierwszoplanowa jest wyłączona</string>
     <string name="msg_foreground_service_on">Usługa pierwszoplanowa włączona</string> <!-- message displayed when foreground service is enabled without user interacting with this option -->
     <string name="msg_foreground_service_off">Usługa pierwszoplanowa wyłączona</string> <!-- message displayed when foreground service is disabled without user interacting with this option -->
-    <string name="notification_settings_updated">Ustawienia powiadomień zostały zmienione.</string> <!-- message displayed when one of notification settings is updated without user interacting with these options -->
-    <string name="reliability_warning">Zmiana tych ustawień może powodować zmiany w niezawodności aplikacji.</string> <!-- This message should be as short as possible. There is risk of cutting it off if it will be too long -->
-    <string name="app_killed_warning2">Niedawno BlipBlip został nieoczekiwanie zatrzymany. &lt;b&gt;Proszę upewnij się, że nie używasz żadnych trybów oszczędzania baterii (lub optymalizacji baterii, trybu eco, itp.) lub aplikacji (np. tzw. task killers)&lt;/b&gt;. Zazwyczaj są one przyczyną takiego problemu. Jeśli chcesz używać takiej aplikacji dodaj BlipBlip do białej listy (whitelist) w tej aplikacji. Jeśli uważasz, że to jest błąd w aplikacji lub potrzebujesz z tym pomocy, proszę opisz swój problem za pomocą opcji \"%1$s\".</string> <!-- Text in quotes will be replaced by value of action_send_logs -->
-    <string name="warn_power_saving">Aby zapewnić niezawodne działanie, wyłącz wszelkie tryby oszczędzania baterii.</string> <!-- Please make this as short as possible -->
+    <string name="pref_keep_service_title">Usługa w tle</string>
+    <string name="pref_keep_service_on">Utrzymuj usługę w tle zawsze uruchomioną (może zużywać więcej pamięci). Jeśli powiadomienie jest stałe, usługa staje się pierwszoplanową (foreground).</string>
+    <string name="pref_keep_service_off">Uruchom usługę w tle tylko kiedy jest to konieczne (może zużywać więcej pamięci).</string>
+
+    <!-- Toast Notifications -->
+    <string name="pref_toast_notifications">Powiadomienia w dymkach</string>
+    <string name="pref_toast_notifications_on">Pokazuj ostrzegawcze powiadomienia w dymkach</string>
+    <string name="pref_toast_notifications_off">Ukryj ostrzegawcze powiadomienia w dymkach</string>
+
+    <!-- Notification Question -->
+    <string name="notification_question_title">Wyświetlać powiadomienie?</string>
+    <string name="notification_question_message2">Jeśli je teraz wyłączysz, możesz je ponownie włączyć później w ustawieniach.</string> <!-- Displayed right after notification_question_title text -->
+    <string name="dont_show_again">Nie pytaj ponownie</string>
+    <string name="display_notification">Wyświetlaj</string>
+    <string name="hide_notification">Ukryj</string>
+
+    <!-- Logs -->
+    <string name="debug_logs_title">Zapisuj dziennik błędów</string>
+    <string name="debug_logs_off">Zapisywanie dziennika wyłączone</string>
+    <string name="debug_logs_on">Zapisuj dziennik dla opcji Zgłoś problem</string>
+
+    <!-- Beta -->
+    <string name="beta_preference_title">BlipBlip Beta</string> <!-- translated -->
+    <string name="beta_preference_description">Włącz lub wyłącz wersję beta</string>
+
+    <!-- Experimental Settings -->
+    <string name="pref_experimental">Ustawienia eksperymentalne</string>
+    <string name="experimental_warning">To są ustawienia eksperymentalne i mogą zostać w przyszłości usunięte.</string>
+    <string name="title_experimental_settings">Ustawienia eksperymentalne</string>
+
+    <!-- Time Offset -->
+    <string name="pref_time_offset_title">Przesunięcie czasu</string>
+    <string name="pref_time_offset_summary">Przesunięcie od docelowego czasu w sekundach</string>
+
+    <!-- Random -->
+    <string name="pref_random_title">Losowość</string>
+    <string name="pref_random_description">Ilość sekund o jakie może różnić się czas losowy od dokładnego</string>
+
+    <!-- Inline Attachments -->
+    <string name="inline_attachments_title">Załączniki w treści</string>
+    <string name="inline_attachments_on">Wstaw załączniki w treści emaila dla opcji \"Zgłoś problem\".</string>
+    <string name="inline_attachments_off">Użyj zwykłych załączników email w opcji \"Zgłoś problem\".</string>
+
+    <!-- Menu - Share -->
+    <string name="action_share">Podziel się aplikacją</string>
+    <string name="share_chooser_title">Prześlij aplikację!</string>
+    <string name="share_title">Sprawdź aplikację BlipBlip!</string>
+    <string name="share_text">Wypróbuj aplikację BlipBlip (powiadomienie o pełnej godzinie) na androida</string>
+
+    <!-- Menu - Rate -->
+    <string name="action_rate">Oceń aplikację</string>
+    <string name="rate_us_title">Wystaw ocenę!</string>
+    <string name="rate_us_message">Dziękuję za poświęcony czas na ocenę aplikacji.</string>
+    <string name="rate_us_onetofourstars">1–4 gwiazdki</string>
+    <string name="rate_us_fivestars">5 gwiazdek!</string>
+
+    <!-- Menu - Error -->
+    <string name="action_send_logs">Zgłoś problem</string>
+    <string name="send_logs_describe">Proszę opisz swój problem z aplikacją:</string>
+    <string name="feedback_dialog_bug_found">Znalazłem błąd (załącz logi)</string>
+
+    <!-- Menu - Improvement -->
+    <string name="feedback_improvement_title">BlipBlip można usprawnić</string>
+    <string name="feedback_improvement_message">Proszę napisz co moglibyśmy usprawnić, żebyś był(a) zadowolony(a) z aplikacji.</string>
+
+    <!-- Menu - About -->
+    <string name="action_about">O programie</string>
+    <string name="about_dialog_title">O programie</string>
+    <string name="about_version">Wersja:</string>
+    <string name="about_authors">Autorzy</string>
+    <string name="about_coding">Kodowanie</string>
+    <string name="about_graphics">Grafika</string>
+    <string name="about_translations">Tłumaczenia</string>
+    <string name="about_send_feedback">Wyślij informację zwrotną</string>
+    <string name="about_community">Społeczność Google+</string>
+    <string name="about_more_apps">Więcej aplikacji</string>
+
+    <!-- Visual -->
+    <string name="pref_visual">Ustawienia wyglądu</string>
+    <string name="title_visual_settings">Ustawienia wyglądu</string>
+
+    <!-- Unsorted -->
     <string name="warn_notification_skip">Niektóre powiadomienia zostaną pominięte.</string> <!-- Please make this as short as possible. This warning is displayed when user chooses to skip few upcoming notifications. -->
     <string name="warn_alarm_skip">Niektóre budziki zostaną pominięte.</string> <!-- Please make this as short as possible. This warning is displayed when user chooses to skip few upcoming alarms. -->
     <string name="warn_volume_zero">Bieżąca głośność jest ustawiona na zero.</string> <!-- Please make this as short as possible. This warning is displayed when current system volume is set to 0. -->
@@ -319,17 +399,9 @@
         <item quantity="many">%d sekund</item>
         <item quantity="other">%d sekundy</item>
     </plurals>
-    <plurals name="repeat_number_of_times">
-        <item quantity="one">%d raz</item>
-        <item quantity="few">%d razy</item>
-        <item quantity="many">%d razy</item>
-        <item quantity="other">%d razy</item>
-    </plurals>
-
     <string name="pref_reset_accuracy_params">Resetuj parametry</string>
     <string name="pref_reset_accuracy_params_desc">Resetuje wewnętrzne parametry, które poprawiają dokładność powiadomień.</string>
     <string name="warn_foreground_service_disabled">To może zwiększyć prawdopodobieństwo, że aplikacja zostanie zmuszona do zatrzymania.</string>
-    <string name="pref_airplane_mode">Tryb samolotowy</string>
     <string name="off_airplane">Wyłączone w trybie samolotowym</string>
     <string name="while_airplane_toast">Powiadomienia BlipBlip są teraz wyłączone, ponieważ jesteś w trybie samolotowym.</string>
     <string name="setting_system_default">Domyślny systemowy</string>
@@ -447,26 +519,6 @@
     <string name="disable_when_headset_off">Wszystkie powiadomienia włączone</string>
     <string name="disable_when_headset_toast">Powiadomienia są teraz wyłączone, ponieważ masz podłączone słuchawki.</string>
 
-
-    <!-- paid features texts -->
-    <string name="dialog_premium_trial_text">Uzyskaj wszystkie obecne i przyszłe funkcje.</string>
-    <string name="dialog_premium_trial_text2">Naciśnij \"Odblokuj\" aby rozpocząć okres próbny.</string> <!-- use same text as in dialog_premium_unlock_button_text -->
-    <string name="dialog_premium_trial_button_text">Rozpocznij darmowy okres próbny teraz</string>
-    <string name="dialog_premium_trial_title">Odblokuj funkcje płatne</string>
-    <string name="dialog_premium_features_description">Akcja, którą próbowałeś wykonać używa następujących płatnych funkcji:</string>
-    <string name="feature_custom_sounds">niestandardowe dźwięki</string>
-    <string name="feature_multiple_notifications">wiele powiadomień</string>
-    <string name="feature_custom_reapeat">niestandardowy interwał powtarzania</string>
-    <string name="feature_premium_content">płatna zawartość</string>
-    <string name="feature_premium_sounds">płatne dźwięki</string>
-    <string name="feature_strike_the_hour">Wybijanie godziny</string>
-    <string name="premium_get_plus">Uzyskaj wszystkie obecne funkcje</string>
-    <string name="premium_get_sounds">Uzyskaj wszystkie dźwięki dostępne z aplikacji</string>
-    <string name="premium_get_plus_sounds">Uzyskaj wszystkie funkcje i dźwięki</string>
-
-
-    <string name="dialog_no_thanks">Nie, dziękuję</string>
-    <string name="dialog_premium_unlock_button_text">Odblokuj</string>
     <string name="about_thank_you">Podziękowania</string>
 
     <string name="snack_bar_text_item_removed">1 element usunięty</string>
@@ -575,11 +627,6 @@
 
     <string name="swipe_right_to_delete">Przesuń palcem w prawo, żeby usunąć pozycję</string>
 
-    <string name="lock_icon">Ikona kłódki</string>
-    <string name="premium_sound_lock">To jest płatny dźwięk, który wymaga odblokowania przed użyciem.</string>
-    <string name="premium_feature_lock">To jest płatna funkcja, który wymaga odblokowania przed użyciem.</string>
-    <string name="change_subscription">Zmień subskrypcję</string>
-
     <string name="pref_user_interface">Interfejs użytkownika</string>
     <string name="show_inclusive_title">Zmiana końców przedziału czasu</string>
     <string name="show_inclusive_on">Wybierając przedział czasu pokaż przyciski pozwalające wybrać, czy dany czas ma być zawarty w przedziale czasu.</string>
@@ -624,5 +671,27 @@
 
     <string name="error_failed_to_open_file">Nie udało się otworzyć pliku</string>
     <string name="error_corrupted_sound">Dźwięk jest uszkodzony</string>
+
+    <!-- premium -->
+    <string name="dialog_premium_trial_text">Uzyskaj wszystkie obecne i przyszłe funkcje.</string> <!-- should be short -->
+    <string name="dialog_no_thanks">Nie, dziękuję</string> <!-- should be short -->
+    <string name="dialog_premium_unlock_button_text">Odblokuj</string> <!-- should be short -->
+    <string name="dialog_premium_trial_text2">Naciśnij \"Odblokuj\" aby rozpocząć okres próbny.</string> <!-- use same text as in dialog_premium_unlock_button_text -->
+    <string name="dialog_premium_trial_button_text">Rozpocznij darmowy okres próbny teraz</string> <!-- should be short -->
+    <string name="dialog_premium_trial_title">Odblokuj funkcje płatne</string> <!-- should be short -->
+    <string name="dialog_premium_features_description">Akcja, którą próbowałeś wykonać używa następujących płatnych funkcji:</string>
+    <string name="feature_custom_sounds">niestandardowe dźwięki</string>
+    <string name="feature_multiple_notifications">wiele powiadomień</string>
+    <string name="feature_custom_reapeat">niestandardowy interwał powtarzania</string>
+    <string name="feature_premium_content">płatna zawartość</string>
+    <string name="feature_premium_sounds">płatne dźwięki</string>
+    <string name="feature_strike_the_hour">Wybijanie godziny</string>
+    <string name="premium_get_plus">Uzyskaj wszystkie obecne funkcje</string> <!-- should be short -->
+    <string name="premium_get_sounds">Uzyskaj wszystkie dźwięki dostępne z aplikacji</string> <!-- should be short -->
+    <string name="premium_get_plus_sounds">Uzyskaj wszystkie funkcje i dźwięki</string> <!-- should be short -->
+    <string name="lock_icon">Ikona kłódki</string>
+    <string name="premium_sound_lock">To jest płatny dźwięk, który wymaga odblokowania przed użyciem.</string>
+    <string name="premium_feature_lock">To jest płatna funkcja, który wymaga odblokowania przed użyciem.</string>
+    <string name="change_subscription">Zmień subskrypcję</string>
 
 </resources>
