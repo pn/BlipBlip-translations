@@ -61,7 +61,7 @@
     <string name="sound_double_ships_bell">doppelte Schiffsglocke</string>
     <string name="sound_cuckoo">Kuckuck</string>
     <string name="sound_watch_beep">Armbanduhrton</string>
-    <string name="sound_big_ben">Big Ben</string>
+    <string name="sound_big_ben">Big Ben</string> <!-- translated -->
     <string name="sound_big_ben_strikes">Big Ben Ertönt</string>
     <string name="sound_bubble">Blasen</string>
     <string name="sound_bird">Vogel %1$s</string>
@@ -366,7 +366,7 @@
     <string name="action_add_system_notification_sound">Füge Benachrichtigungstöne hinzu</string>
     <string name="add_vibration">Füge Vibrationsmuster hinzu</string>
     <string name="edit">Bearbeite</string> <!-- Name of action to edit list of sounds or list of vibrations, should be short -->
-    <string name="editing">Bearbeitung</string><!-- Displayed in edit mode -->
+    <string name="editing">Bearbeitung</string> <!-- Displayed in edit mode -->
     <string name="error_file_open_failed">Öffnen der Datei fehlgeschlagen.</string>
     <string name="play_vibration">Vibriere</string> <!-- description of action of a button to perform vibration -->
     <string name="play_sound">Spiele Ton ab</string> <!-- description of action of a button to play sound -->
@@ -592,13 +592,14 @@
     <string name="feature_say_text">Textansage</string>
     <string name="feature_say_time">Zeitansage</string>
     <string name="pref_text_to_speech">Text zu Sprache</string>
-    <string name="system_default_audio_stream">Systemvoreinstellung</string> <!-- nie wiem co z tym zrobic, wyglada na systemowy string ktory nie toleruje tlumaczenia moge sie mylic! ale w angielskim pliku jest to samo!! pierwsze to tlumaczenie z polskiego moze byc tak przyjete jak za darmo sie uczulilem!  -->
+    <string name="system_default_audio_stream">Systemvoreinstellung</string>
     <string name="application_default">Applikationsvoreinstellung</string>
     <string name="speak_time_format_with_minutes">Gesprochene Zeit mit Minuten</string>
     <string name="speak_time_on_the_hour">Gesprochene Zeit an Vollstunden</string>
+
     <string name="show_actions_switches_title">Aktionsumschalter</string> <!-- option to show enable/disable switches for actions -->
-    <string name="show_actions_switches_on">Zeige Schalter zum ausschalten der Aktionen.</string> 
-    <string name="show_actions_switches_off">Verstecke Schalter zum ausschalten der Aktionen.</string> 
+    <string name="show_actions_switches_on">Zeige Schalter zum ausschalten der Aktionen.</string>
+    <string name="show_actions_switches_off">Verstecke Schalter zum ausschalten der Aktionen.</string>
 
     <string name="operating_modes_settings">Arbeitsmodus</string> <!-- name of menu with different mode settings e.g. Do Not Disturb, vibrate mode -->
     <string name="operating_modes_settings_summary">Nicht-Stören-Modus, Vibrationsmodus, usw.</string>

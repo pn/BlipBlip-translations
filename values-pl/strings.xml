@@ -61,7 +61,7 @@
     <string name="sound_double_ships_bell">Podwójny dzwon okrętowy</string>
     <string name="sound_cuckoo">Kukułka</string>
     <string name="sound_watch_beep">Piknięcie zegarka</string>
-    <string name="sound_big_ben">Big Ben</string>
+    <string name="sound_big_ben">Big Ben</string> <!-- translated -->
     <string name="sound_big_ben_strikes">Big Ben wybija</string>
     <string name="sound_bubble">Bąbel</string>
     <string name="sound_bird">Ptak %1$s</string>
@@ -623,6 +623,6 @@
     <string name="free_resources_on">Zużycie pamięci powinno być mniejsze.</string>
 
     <string name="error_failed_to_open_file">Nie udało się otworzyć pliku</string>
-    <string name="error_corrupted_sound">Dźwięk jest uszkodzony</string> <!-- TODO translate -->
+    <string name="error_corrupted_sound">Dźwięk jest uszkodzony</string>
 
 </resources>
