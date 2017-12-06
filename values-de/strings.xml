@@ -574,6 +574,9 @@
     <string name="show_inclusive_off">Verstecke die Auswahlschalter der Zeit welche die Zeitauswahl in Zeitumfangsmenü anzeigen erlauben.</string>
 
     <string name="action_repeat">Wiederholung</string>
+    <string name="action_repeat_sound">Repeat sound</string> <!-- TODO translate -->
+    <string name="action_repeat_vibration">Repeat vibration</string> <!-- TODO translate -->
+    <string name="action_repeat_sound_vibration">Repeat sound and vibration</string> <!-- TODO translate -->
     <string name="action_strike_the_hour">Stundenschlag</string>
 
     <string name="pref_do_not_disturb_mode">Nicht stören</string>
