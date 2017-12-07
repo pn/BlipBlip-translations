@@ -713,4 +713,7 @@ Se encontrar outros problemas, por favor, informe-nos por correio electrónico.<
     <string name="premium_feature_lock">This is premium feature which requires unlocking before use.</string> <!-- TODO translate -->
     <string name="change_subscription">Change subscription</string> <!-- TODO translate -->
 
+    <string name="vibrate_seconds">Vibrate %ss</string> <!-- TODO translate --> <!-- s at the end is for seconds, %s will be replaced vy value e.g. "Vibrate 1.2s" -->
+    <string name="wait_and_vibrate_seconds">Wait %ss, vibrate %ss</string> <!-- TODO translate -->
+
 </resources>

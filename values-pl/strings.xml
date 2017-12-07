@@ -721,4 +721,7 @@
     <string name="premium_feature_lock">To jest płatna funkcja, który wymaga odblokowania przed użyciem.</string>
     <string name="change_subscription">Zmień subskrypcję</string>
 
+    <string name="vibrate_seconds">Wibruj %ss</string> <!-- s at the end is for seconds, %s will be replaced vy value e.g. "Vibrate 1.2s" -->
+    <string name="wait_and_vibrate_seconds">Czekaj %ss, wibruj %ss</string>
+
 </resources>

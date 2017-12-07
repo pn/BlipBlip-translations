@@ -712,4 +712,7 @@
     <string name="premium_feature_lock">This is premium feature which requires unlocking before use.</string>
     <string name="change_subscription">Change subscription</string>
 
+    <string name="vibrate_seconds">Vibrate %ss</string> <!-- s at the end is for seconds, %s will be replaced vy value e.g. "Vibrate 1.2s" -->
+    <string name="wait_and_vibrate_seconds">Wait %ss, vibrate %ss</string>
+
 </resources>
