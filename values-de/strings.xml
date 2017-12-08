@@ -65,15 +65,15 @@
     <string name="sound_ships_bell">Schiffsglocke</string>
     <string name="sound_double_ships_bell">doppelte Schiffsglocke</string>
     <string name="sound_cuckoo">Kuckuck</string>
-    <string name="sound_watch_beep">Watch beep</string> <!-- TODO translate -->
-    <string name="sound_big_ben">Big Ben</string> <!-- TODO translate -->
-    <string name="sound_big_ben_strikes">Big Ben Strikes</string> <!-- TODO translate -->
-    <string name="sound_bubble">Bubble</string> <!-- TODO translate -->
-    <string name="sound_bird">Bird %1$s</string> <!-- TODO translate -->
-    <string name="sound_cartoon">Cartoon %1$s</string> <!-- TODO translate -->
-    <string name="sound_cat">Cat %1$s</string> <!-- TODO translate -->
-    <string name="sound_dog">Dog %1$s</string> <!-- TODO translate -->
-    <string name="sound_rooster">Rooster</string> <!-- TODO translate -->
+    <string name="sound_watch_beep">Armbanduhrton</string>
+    <string name="sound_big_ben">Big Ben</string> <!-- translated -->
+    <string name="sound_big_ben_strikes">Big Ben Ertönt</string>
+    <string name="sound_bubble">Blasen</string>
+    <string name="sound_bird">Vogel %1$s</string>
+    <string name="sound_cartoon">Zeichentrick %1$s</string>
+    <string name="sound_cat">Katze %1$s</string>
+    <string name="sound_dog">Hund %1$s</string>
+    <string name="sound_rooster">Hahn</string>
 
     <!-- Volume -->
     <string name="text_seek_volume">Lautstärke</string>
@@ -139,7 +139,7 @@
     <!-- Quiet Days -->
     <string name="quiet_days_title">Ruhetage</string>
     <string name="days_none">keine Ruhetage</string>
-    <string name="days_everyday">Everyday</string> <!-- TODO translate -->
+    <string name="days_everyday">Jeden Tag</string>
     <string name="silent_day">Ruhetag</string>
     <string name="quiet_day_warning">Benachrichtigung aus, weil heute \"Ruhetag\" ist.</string>
     <string name="toast_change_quiet_days">Bitte ändere die \"Ruhetage\" damit BlipBlip heute arbeitet.</string>
@@ -203,7 +203,7 @@
     <string name="pref_vibrate_wear_off">Vibrieren ist ausgeschaltet, viebriert nicht auf verbundenen Android Wear-Gerät</string>
     <string name="pref_vibrate_wearable_title">Vibrieren auf verbundenen Wear-Gerät</string>
     <string name="pref_vibrate_wearable_on">Wenn das Vibrieren eingeschaltet ist, vibriert ebenfalls auf verbundenen Wearable-Gerät (z.B. Smart-Watch)</string> <!-- not used anymore -->
-    <string name="pref_vibrate_wearable_on2">If vibration is enabled vibrate also on connected wearable device (e.g. smart watch). Requires adding system notification.</string> <!-- TODO translate -->
+    <string name="pref_vibrate_wearable_on2">Wenn das Vibrieren eingeschaltet ist, vibriert ebenfalls auf verbundenen Wearable-Gerät (z.B. Smart-Watch). Benötigt eine zusätzliche Systembenachrichtigung.</string>
     <string name="pref_vibrate_wearable_off">Viebriere nicht auf verbundenen Wearable-Gerät</string>
 
     <!-- Vibrate on Main Device -->
@@ -215,8 +215,8 @@
     <string name="pref_notification_action_buttons">Aktionsschaltflächen</string> <!-- Preference name for choosing which buttons are visible on notification -->
     <string name="notif_action_play">Abspielen</string> <!-- Description of action button. This should refer to notif_action_play -->
     <string name="notif_action_play_desc">Abspielen der Benachrichtigung (Klangton, Vibration, usw.) ähnlich wie von der Anwendung.</string>
-    <string name="notif_action_stop">Stop</string> <!-- TODO translate --> <!-- Description of action button. This should refer to notif_action_stop -->
-    <string name="notif_action_stop_desc">Stop playback of notification.</string> <!-- TODO translate -->
+    <string name="notif_action_stop">Anhalten</string> <!-- Description of action button. This should refer to notif_action_stop -->
+    <string name="notif_action_stop_desc">Halte die Wiedergabe der Benachrichtigung an.</string>
     <string name="notif_action_disable_or_enable">Aktiviere/Deaktiviere</string> <!-- Description of action button. This refers to notif_action_enable and notif_action -->
     <string name="notif_action_disable_or_enable_desc">Schaltfläche für die Aktivierung bzw. Deaktivierung der Benachrichtigungen.</string>
     <string name="notif_action_skip">Überspringe</string> <!-- this should refer to notif_button_skip -->
@@ -226,7 +226,7 @@
     <string name="notif_action_dismiss">Abbrechen</string> <!-- this should refer to notif_button_dismiss -->
     <string name="notif_action_dismiss_desc">Breche Weckalarm ab.</string>
     <string name="notif_button_play">Abspielen</string> <!-- Action button label in notification having same action as play button in the app - plays the notificaton for testing purposes. This text should be short, because it will be shown on notification button where there can be 3 of them -->
-    <string name="notif_button_stop">Stop</string> <!-- TODO translate --> <!-- Stops playback of notification. Should be short. -->
+    <string name="notif_button_stop">Anhalten</string> <!-- Stops playback of notification. Should be short. -->
     <string name="notif_button_enable">Einschalten</string> <!-- This text should be short, because it will be shown on notification button where there can be 3 of them. -->
     <string name="notif_button_disable">Ausschalten</string> <!-- This text should be short, because it will be shown on notification button where there can be 3 of them. -->
     <string name="notif_button_skip">Überspringen</string> <!-- This text should be short, because it will be shown on notification button where there can be 3 of them. -->
@@ -340,7 +340,7 @@
     <string name="about_version">Version:</string> <!-- translated -->
     <string name="about_authors">Autoren</string>
     <string name="about_coding">Programmierung</string>
-    <string name="about_testing">Testing</string> <!-- TODO translate -->
+    <string name="about_testing">Test</string>
     <string name="about_graphics">Grafik</string>
     <string name="about_translations">Übersetzungen</string>
     <string name="about_send_feedback">Sende eine Rückmeldung</string>
@@ -408,8 +408,8 @@
             <item quantity="other">%d Sekunden</item>
         </plurals>
     <plurals name="repeat_number_of_times">
-        <item quantity="one">%d time</item>
-        <item quantity="other">%d times</item>
+        <item quantity="one">%d time</item> <!-- TODO translate -->
+        <item quantity="other">%d times</item> <!-- TODO translate -->
     </plurals>
 
     <string name="pref_reset_accuracy_params">Parameter zurücksetzen</string>
@@ -417,7 +417,7 @@
     <string name="warn_foreground_service_disabled">Einstellungen des Vordergrund-Dienstes wurden deaktiviert. Das kann zum Abbruch des Hintergrundprozesses führen und somit zum Anhalten der Appfunktion.</string>
 
     <!-- Airplane mode -->
-    <string name="pref_airplane_mode">Airplane mode</string> <!-- TODO translate -->
+    <string name="pref_airplane_mode">Flugzeugmode</string>
     <string name="off_airplane">Schalte Flugzeugmodus aus</string>
     <string name="while_airplane_toast">BlipBlip Benachrichtigungen sind jetzt ausgeschaltet, da du im Flugzeugmodus bist.</string>
 
@@ -463,7 +463,7 @@
     <string name="action_restore_defaults">Standardwerte wiederherstellen</string> <!-- e.g. for sounds or vibrations -->
     <string name="restore_defaults_title">Wiederherstellung der Standardwerte?</string> <!-- not used anymore -->
     <string name="restore_defaults_message">Alle Daten in diesem Fenster werden gelöscht und Standardwerte werden wiederhergestellt. Fortfahren?</string> <!-- not used anymore -->
-    <string name="restore_defaults_message2">Would you like to restore default values?</string> <!-- TODO translate -->
+    <string name="restore_defaults_message2">@string/restore_defaults_message</string> <!-- TODO translate "Would you like to restore default values?"-->
     <string name="action_add_system_notification_sound">Füge Benachrichtigungstöne hinzu</string>
     <string name="add_vibration">Füge Vibrationsmuster hinzu</string>
     <string name="edit">Bearbeite</string> <!-- Name of action to edit list of sounds or list of vibrations, should be short -->
