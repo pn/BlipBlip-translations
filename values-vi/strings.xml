@@ -2,8 +2,8 @@
 <resources>
 
     <!-- Buttons -->
-    <string name="ok">OK</string> <!-- TODO translate -->
-    <string name="dialog_ok">OK</string> <!-- TODO translate -->
+    <string name="ok">Đồng ý</string>
+    <string name="dialog_ok">Đồng ý</string>
     <string name="cancel">Hủy bỏ</string>
     <string name="set">Đặt</string>
     <string name="change_setting">Thay đổi</string>
@@ -17,7 +17,7 @@
     <string name="warning_understood">Đã hiểu</string>
     <string name="warning_dont_show_again">Đừng hiện lại</string>
     <string name="please_wait">Vui lòng đợi…</string>
-    <string name="warn_power_saving">Để đảm bảo hoạt động đáng tin cậy vui lòng tắt tất cả chế độ tiết kiệm pin.</string> <!-- Please make this as short as possible -->
+    <string name="warn_power_saving">Để đảm bảo h.động đáng tin cậy hãy tắt chế độ t.kiệm pin.</string> <!-- Please make this as short as possible -->
     <string name="allow_while_idle_title">Cho phép trong chế độ pin yếu</string>
     <string name="allow_while_idle_off">Khi điện thoại vào chế độ pin yếu vài thông báo có thể bị bỏ qua.</string>
     <string name="allow_while_idle_on">Cho phép làm việc trong chế độ pin yếu (Doze/Idle). Có thể không luôn hoạt động cho các thông báo nhiều hơn tần suất 15 phút. Cài đặt có thể ảnh hưởng đến việc sử dụng pin.</string>
@@ -59,21 +59,21 @@
 
     <!-- Sound -->
     <string name="sound_text">Âm thanh</string>
-    <string name="sound_blipblip">BlipBlip</string> <!-- TODO translate -->
+    <string name="sound_blipblip">BlipBlip</string>
     <string name="sound_casio_watch">Đồng hồ Casio</string>
     <string name="sound_gong">Tiếng cồng</string>
     <string name="sound_ships_bell">Chuông tàu</string>
     <string name="sound_double_ships_bell">Chuông tàu hai lần</string>
     <string name="sound_cuckoo">Chim Cúc cu</string>
-    <string name="sound_watch_beep">Watch beep</string> <!-- TODO translate -->
-    <string name="sound_big_ben">Big Ben</string> <!-- TODO translate -->
-    <string name="sound_big_ben_strikes">Big Ben Strikes</string> <!-- TODO translate -->
-    <string name="sound_bubble">Bubble</string> <!-- TODO translate -->
-    <string name="sound_bird">Bird %1$s</string> <!-- TODO translate -->
-    <string name="sound_cartoon">Cartoon %1$s</string> <!-- TODO translate -->
-    <string name="sound_cat">Cat %1$s</string> <!-- TODO translate -->
-    <string name="sound_dog">Dog %1$s</string> <!-- TODO translate -->
-    <string name="sound_rooster">Rooster</string> <!-- TODO translate -->
+    <string name="sound_watch_beep">Đồng hồ bíp</string>
+    <string name="sound_big_ben">Tiếng Big Ben</string>
+    <string name="sound_big_ben_strikes">Big Ben gõ</string>
+    <string name="sound_bubble">Bong bóng</string>
+    <string name="sound_bird">Chim %1$s</string>
+    <string name="sound_cartoon">Hoạt hình %1$s</string>
+    <string name="sound_cat">Mèo %1$s</string>
+    <string name="sound_dog">Chó %1$s</string>
+    <string name="sound_rooster">Gà trống</string>
 
     <!-- Volume -->
     <string name="text_seek_volume">Âm lượng</string>
@@ -139,7 +139,7 @@
     <!-- Quiet Days -->
     <string name="quiet_days_title">Ngày im lặng</string>
     <string name="days_none">Không</string>
-    <string name="days_everyday">Everyday</string> <!-- TODO translate -->
+    <string name="days_everyday">Mỗi ngày</string>
     <string name="silent_day">Ngày im lặng</string>
     <string name="quiet_day_warning">Thông báo đã tắt, bởi vì hôm nay là \"ngày im lặng\".</string>
     <string name="toast_change_quiet_days">Vui lòng thay đổi thiết lập \"Các ngày im lặng\" để làm BlipBlip chạy hôm nay.</string>
@@ -201,10 +201,10 @@
     <string name="pref_vibrate_wear_title">Rung trên thiết bị Android Wear</string>
     <string name="pref_vibrate_wear_on">Nếu rung được kích hoạt thì khi kết nối đến thiết bị Android Wear nó cũng sẽ rung</string>
     <string name="pref_vibrate_wear_off">Không rung trên thiết bị Android Wear</string>
-    <string name="pref_vibrate_wearable_title">@string/pref_vibrate_wear_title</string> <!-- TODO translate "Vibrate on connected device"-->
-    <string name="pref_vibrate_wearable_on">@string/pref_vibrate_wear_on</string> <!-- TODO translate "If vibration is enabled vibrate also on connected wearable device (e.g. smart watch)"--> <!-- not used anymore -->
-    <string name="pref_vibrate_wearable_on2">If vibration is enabled vibrate also on connected wearable device (e.g. smart watch). Requires adding system notification.</string> <!-- TODO translate -->
-    <string name="pref_vibrate_wearable_off">@string/pref_vibrate_wear_off</string> <!-- TODO translate "Do not vibrate on connected wearable device"-->
+    <string name="pref_vibrate_wearable_title">@string/pref_vibrate_wear_title</string> <!-- "Rung trên thiết bị đã kết nối"-->
+    <string name="pref_vibrate_wearable_on">@string/pref_vibrate_wear_on</string> <!-- "Nếu rung đã kích hoạt thì cũng sẽ rung trên các thiết bị đã kết nối (ví dụ: đồng hồ thông minh)"--> <!-- not used anymore -->
+    <string name="pref_vibrate_wearable_on2">Nếu rung đã kích hoạt thì cũng sẽ rung trên các thiết bị đã kết nối (ví dụ: đồng hồ thông minh. Yêu cầu thêm vào thông báo hệ thống.</string>
+    <string name="pref_vibrate_wearable_off">@string/pref_vibrate_wear_off</string> <!-- "Đừng rung trên thiết bị đeo tay đã kết nối"-->
 
     <!-- Vibrate on Main Device -->
     <string name="pref_vibrate_on_main_device">Rung trên thiết bị chính</string> <!-- Translation note: "device" is used because it can be phone or tablet. Related with pref_vibrate_wear_title option. -->
@@ -215,8 +215,8 @@
     <string name="pref_notification_action_buttons">Nút hành động</string> <!-- Preference name for choosing which buttons are visible on notification -->
     <string name="notif_action_play">Phát</string> <!-- Description of action button. This should refer to notif_action_play -->
     <string name="notif_action_play_desc">Phát thông báo (âm thanh, rung, v.v…) giống như từ ứng dụng.</string>
-    <string name="notif_action_stop">Stop</string> <!-- TODO translate --> <!-- Description of action button. This should refer to notif_action_stop -->
-    <string name="notif_action_stop_desc">Stop playback of notification.</string> <!-- TODO translate -->
+    <string name="notif_action_stop">Dừng</string><!-- Description of action button. This should refer to notif_action_stop -->
+    <string name="notif_action_stop_desc">Dừng phát lại thông báo.</string>
     <string name="notif_action_disable_or_enable">Bật/Tắt</string> <!-- Description of action button. This refers to notif_action_enable and notif_action -->
     <string name="notif_action_disable_or_enable_desc">Nút để tắt hoặc bật các thông báo.</string>
     <string name="notif_action_skip">Bỏ qua</string> <!-- this should refer to notif_button_skip -->
@@ -226,11 +226,11 @@
     <string name="notif_action_dismiss">Bỏ qua</string> <!-- this should refer to notif_button_dismiss -->
     <string name="notif_action_dismiss_desc">Bỏ qua reo báo thức.</string>
     <string name="notif_button_play">Phát</string> <!-- Action button label in notification having same action as play button in the app - plays the notificaton for testing purposes. This text should be short, because it will be shown on notification button where there can be 3 of them -->
-    <string name="notif_button_stop">Stop</string> <!-- TODO translate --> <!-- Stops playback of notification. Should be short. -->
+    <string name="notif_button_stop">Dừng</string><!-- Stops playback of notification. Should be short. -->
     <string name="notif_button_enable">Bật</string> <!-- This text should be short, because it will be shown on notification button where there can be 3 of them. -->
     <string name="notif_button_disable">Tắt</string> <!-- This text should be short, because it will be shown on notification button where there can be 3 of them. -->
     <string name="notif_button_skip">Bỏ qua</string> <!-- This text should be short, because it will be shown on notification button where there can be 3 of them. -->
-    <string name="notif_button_snooze">Giấc ngủ ngắn</string> <!-- This text should be short, because it will be shown on notification button where there can be 3 of them. -->
+    <string name="notif_button_snooze">Ngủ ngắn</string> <!-- This text should be short, because it will be shown on notification button where there can be 3 of them. -->
     <string name="notif_button_dismiss">Bỏ qua</string> <!-- This text should be short, because it will be shown on notification button where there can be 3 of them. -->
 
     <!-- Custom Texts -->
@@ -291,7 +291,7 @@
     <string name="debug_logs_on">Lưu nhật ký để Báo cáo vấn đề qua email</string>
 
     <!-- Beta -->
-    <string name="beta_preference_title">BlipBlip Beta</string> <!-- TODO translate -->
+    <string name="beta_preference_title">BlipBlip Beta</string>
     <string name="beta_preference_description">Bật hoặc tắt phiên bản beta</string>
 
     <!-- Experimental Settings -->
@@ -340,7 +340,7 @@
     <string name="about_version">Phiên bản:</string>
     <string name="about_authors">Tác giả</string>
     <string name="about_coding">Mã hóa</string>
-    <string name="about_testing">Testing</string> <!-- TODO translate -->
+    <string name="about_testing">Thử nghiệm</string>
     <string name="about_graphics">Đồ họa</string>
     <string name="about_translations">Bản dịch</string>
     <string name="about_send_feedback">Gửi phản hồi</string>
@@ -400,8 +400,7 @@
     </plurals>
 
     <plurals name="repeat_number_of_times">
-        <item quantity="one">%d time</item>
-        <item quantity="other">%d times</item>
+        <item quantity="one">%d lần</item>
     </plurals>
 
     <string name="pref_reset_accuracy_params">Đặt lại các thông số</string>
@@ -409,7 +408,7 @@
     <string name="warn_foreground_service_disabled">Cài đặt dịch vụ trước nền đã bị tắt. Điều này có thể tăng nguy cơ ứng dụng bị đóng và ngừng hoạt động.</string>
 
     <!-- Airplane mode -->
-    <string name="pref_airplane_mode">Airplane mode</string> <!-- TODO translate -->
+    <string name="pref_airplane_mode">Chế độ máy bay</string>
     <string name="off_airplane">Vô hiệu hóa trong chế độ máy bay</string>
     <string name="while_airplane_toast">Thông báo BlipBlip hiện đang bị vô hiệu hóa, bởi vì bạn đang dùng chế độ máy bay</string>
 
@@ -418,290 +417,290 @@
     <string name="time_format_12h">12 giờ đồng hồ</string>
     <string name="time_format_24h">24 giờ đồng hồ</string>
 
-    <string name="theme_blipblip">BlipBlip</string> <!-- TODO translate -->
-    <string name="theme_standard">Standard</string> <!-- TODO translate -->
-    <string name="theme_blue">Blue</string> <!-- TODO translate -->
-    <string name="theme_yellow">Yellow</string> <!-- TODO translate -->
-    <string name="theme_purple">Purple</string> <!-- TODO translate -->
-    <string name="theme_red">Red</string> <!-- TODO translate -->
-    <string name="theme_green">Green</string> <!-- TODO translate -->
-    <string name="theme_blue_gray">Blue grey</string> <!-- TODO translate -->
-    <string name="theme_orange">Orange</string> <!-- TODO translate -->
-    <string name="theme_indigo">Indigo</string> <!-- TODO translate -->
-    <string name="theme_cyan">Cyan</string> <!-- TODO translate -->
-    <string name="theme_teal">Teal</string> <!-- TODO translate -->
+    <string name="theme_blipblip">BlipBlip</string>
+    <string name="theme_standard">Tiêu chuân</string>
+    <string name="theme_blue">Xanh</string>
+    <string name="theme_yellow">Vàng</string>
+    <string name="theme_purple">Tím</string>
+    <string name="theme_red">Đỏ</string>
+    <string name="theme_green">Xanh lá</string>
+    <string name="theme_blue_gray">Xám xanh</string>
+    <string name="theme_orange">Cam</string>
+    <string name="theme_indigo">Chàm</string>
+    <string name="theme_cyan">Lục lam</string>
+    <string name="theme_teal">Xanh mòng két</string>
 
-    <string name="pref_color_theme">Theme</string> <!-- TODO translate -->
-    <string name="cycle_themes_message">Switch themes using volume buttons.</string> <!-- TODO translate -->
-    <string name="cycle_themes_finish">Finish</string> <!-- TODO translate -->
-    <string name="cycle_themes">Cycle themes</string> <!-- TODO translate -->
-    <string name="cycle_themes_description">Allows switching themes using volume buttons.</string> <!-- TODO translate -->
-    <string name="color_next_notification_bar">Color next notification bar</string> <!-- TODO translate -->
-    <string name="color_next_notification_bar_on">Use color background for next notification bar.</string> <!-- TODO translate -->
-    <string name="color_next_notification_bar_off">Use gray background for next notification bar.</string> <!-- TODO translate -->
-    <string name="dark_theme">Dark theme</string> <!-- TODO translate -->
-    <string name="dark_theme_on">Use dark theme</string> <!-- TODO translate -->
-    <string name="dark_theme_off">Use light theme</string> <!-- TODO translate -->
+    <string name="pref_color_theme">Giao diện</string>
+    <string name="cycle_themes_message">Chuyển chủ đề bằng nút âm lượng.</string>
+    <string name="cycle_themes_finish">Kết thúc</string>
+    <string name="cycle_themes">Chủ đề tuần hoàn</string>
+    <string name="cycle_themes_description">Cho phép chuyển đổi chủ đề bằng nút âm lượng.</string>
+    <string name="color_next_notification_bar">Thanh thông báo màu tiếp theo</string>
+    <string name="color_next_notification_bar_on">Sử dụng màu nền cho thanh thông báo tiếp theo.</string>
+    <string name="color_next_notification_bar_off">Sử dụng nền màu xám cho thanh thông báo tiếp theo.</string>
+    <string name="dark_theme">Giao diện tối</string>
+    <string name="dark_theme_on">Dùng giao diện tối</string>
+    <string name="dark_theme_off">Dùng giao diện sáng</string>
 
-    <string name="title_activity_sounds">Sounds</string> <!-- TODO translate -->
+    <string name="title_activity_sounds">Âm thanh</string>
     <string name="title_activity_sound">@string/sound_text</string>
-    <string name="title_activity_vibrations">Vibrations</string> <!-- TODO translate -->
+    <string name="title_activity_vibrations">Rung</string>
     <string name="title_activity_vibration">@string/vibrate</string>
-    <string name="action_delete">Delete</string> <!-- TODO translate -->
-    <string name="action_add_vibration_pattern">Add entry</string> <!-- TODO translate -->
-    <string name="dialog_title_deletion">Confirm deletion</string> <!-- TODO translate -->
-    <string name="dialog_message_confirm">Are you sure?</string> <!-- TODO translate -->
-    <string name="vibration_name">Vibration name</string> <!-- TODO translate -->
-    <string name="action_restore_defaults">Restore defaults</string> <!-- TODO translate --> <!-- e.g. for sounds or vibrations -->
-    <string name="restore_defaults_title"> </string> <!-- TODO translate --> <!-- not used anymore -->
-    <string name="restore_defaults_message"> </string> <!-- TODO translate --> <!-- not used anymore -->
-    <string name="restore_defaults_message2">Would you like to restore default values?</string> <!-- TODO translate -->
-    <string name="action_add_system_notification_sound">Add notification sound</string> <!-- TODO translate -->
-    <string name="add_vibration">Add vibration</string> <!-- TODO translate -->
-    <string name="edit">Edit</string> <!-- TODO translate --> <!-- Name of action to edit list of sounds or list of vibrations, should be short -->
-    <string name="editing">Editing</string> <!-- TODO translate --> <!-- Displayed in edit mode -->
-    <string name="error_file_open_failed">Failed to open file.</string> <!-- TODO translate -->
-    <string name="play_vibration">Vibrate</string> <!-- TODO translate --> <!-- description of action of a button to perform vibration -->
-    <string name="play_sound">Play sound</string> <!-- TODO translate --> <!-- description of action of a button to play sound -->
-    <string name="drag_handle">Drag handle</string> <!-- TODO translate -->
-    <string name="app_icon_desc">App icon</string> <!-- TODO translate -->
-    <string name="select_audio_file">Select Audio</string> <!-- TODO translate -->
-    <string name="select_notification_tone">Select Tone</string> <!-- TODO translate -->
-    <string name="add_sound_to_blipblip">Add to BlipBlip</string> <!-- TODO translate -->
-    <string name="permission_denied">Permission denied</string> <!-- TODO translate -->
-    <string name="permission_denied_message">BlipBlip does not have permission to read the file.\nDo you want to install add-on which has this permission?\nYou can also use some other app which supports transferring files without need for additional permission (e.g. Google Drive).</string> <!-- TODO translate -->
-    <string name="permission_denied_message_no_addon">BlipBlip does not have permission to read the file.\nPlease use some other app that shares file without need for additional permission (e.g. Google Drive).</string> <!-- TODO translate -->
-    <string name="install">Install</string> <!-- TODO translate --> <!-- action text for button to install additional app -->
-    <string name="failed_run_addon">Failed to launch BlipBlip Add-on</string> <!-- TODO translate -->
-    <string name="update_required">Update required</string> <!-- TODO translate -->
-    <string name="update_required_message">BlipBlip Add-on plugin requires update. Would you like to update it now?</string> <!-- TODO translate -->
-    <string name="update_required_action">Update</string> <!-- TODO translate --> <!-- action to update app -->
+    <string name="action_delete">Xóa</string>
+    <string name="action_add_vibration_pattern">Thêm mục nhập</string>
+    <string name="dialog_title_deletion">Xác nhận xóa</string>
+    <string name="dialog_message_confirm">Bạn chắc không?</string>
+    <string name="vibration_name">Tên rung</string>
+    <string name="action_restore_defaults">Phục hồi mặc định</string><!-- e.g. for sounds or vibrations -->
+    <string name="restore_defaults_title"> </string><!-- not used anymore -->
+    <string name="restore_defaults_message"> </string><!-- not used anymore -->
+    <string name="restore_defaults_message2">Bạn có muốn phục hồi giá trị mặc định?</string>
+    <string name="action_add_system_notification_sound">Thêm âm thanh thông báo</string>
+    <string name="add_vibration">Thêm rung</string>
+    <string name="edit">Sửa</string><!-- Name of action to edit list of sounds or list of vibrations, should be short -->
+    <string name="editing">Đang sửa</string><!-- Displayed in edit mode -->
+    <string name="error_file_open_failed">Mở tệp thất bại.</string>
+    <string name="play_vibration">Rung</string><!-- description of action of a button to perform vibration -->
+    <string name="play_sound">Phát âm thanh</string><!-- description of action of a button to play sound -->
+    <string name="drag_handle">Kéo điều khiển</string>
+    <string name="app_icon_desc">Biểu tượng ứng dụng</string>
+    <string name="select_audio_file">Chọn âm thanh</string>
+    <string name="select_notification_tone">Chọn giai điệu</string>
+    <string name="add_sound_to_blipblip">Thêm vào BlipBlip</string>
+    <string name="permission_denied">Quyền bị từ chối</string>
+    <string name="permission_denied_message">BlipBlip không có quyền để đọc tệp.\nBạn có muốn cài trình cắm để có quyền này không?\nBạn cũng có thể sử dụng một số ứng dụng khác hỗ trợ truyền tệp mà không cần sự cho phép bổ sung (ví dụ: Google Drive).</string>
+    <string name="permission_denied_message_no_addon">BlipBlip không có quyền để đọc tệp.\nVui lòng sử dụng một số ứng dụng khác chia sẻ tệp mà không cần sự cho phép bổ sung (ví dụ: Google Drive).</string>
+    <string name="install">Cài đặt</string><!-- action text for button to install additional app -->
+    <string name="failed_run_addon">Khởi động BlipBlip trình cắm thất bại</string>
+    <string name="update_required">Cần cập nhật</string>
+    <string name="update_required_message">Trình cắm bổ sung BlipBlip yêu cầu cập nhật. Bạn muốn cập nhật nó ngay không?</string>
+    <string name="update_required_action">Cập nhật</string><!-- action to update app -->
 
     <!-- Menu drawer strings -->
-    <string name="drawer_open">Open navigation drawer</string> <!-- TODO translate -->
-    <string name="drawer_close">Close navigation drawer</string> <!-- TODO translate -->
+    <string name="drawer_open">Mở bảng điều hướng</string>
+    <string name="drawer_close">Đóng bảng điều hướng</string>
 
-    <string name="more_actions">More actions</string> <!-- TODO translate -->
-    <string name="start_time">Start time</string> <!-- TODO translate -->
-    <string name="end_time">End time</string> <!-- TODO translate -->
-    <string name="whole_day">Whole day</string> <!-- TODO translate -->
-    <string name="enable_screen">Enable screen</string> <!-- TODO translate -->
-    <string name="delay_to_next_chime">Wait for</string> <!-- TODO translate -->
-    <string name="action_rename">Rename</string> <!-- TODO translate -->
-    <string name="pref_accessibility">Accessibility</string> <!-- TODO translate -->
-    <string name="pref_swipe">Swipe</string> <!-- TODO translate -->
-    <string name="pref_swipe_on">Swiping enabled on list items</string> <!-- TODO translate -->
-    <string name="pref_swipe_off">Swiping disabled on list items</string> <!-- TODO translate -->
-    <string name="pref_action_menus">Action menus</string> <!-- TODO translate -->
-    <string name="pref_action_menus_on">Show menus with actions that would otherwise require gestures (e.g. swiping). Useful when using TalkBack.</string> <!-- TODO translate -->
-    <string name="pref_action_menus_off">Hide menus with actions that can also be performed using gestures.</string> <!-- TODO translate -->
-    <string name="next_notification">Next notification: %1$s</string> <!-- TODO translate -->
-    <string name="next_reminder">Next reminder: %1$s</string> <!-- TODO translate -->
-    <string name="next_alarm">Next alarm: %1$s</string> <!-- TODO translate -->
-    <string name="next">Next: %1$s</string> <!-- TODO translate --> <!-- next notification, reminder or alarm time or date -->
-    <string name="next_tomorrow">tomorrow at %1$s</string> <!-- TODO translate --> <!-- e.g. tomorrow at 10:00 -->
-    <string name="next_on_mon">Monday at %1$s</string> <!-- TODO translate -->
-    <string name="next_on_tue">Tuesday at %1$s</string> <!-- TODO translate -->
-    <string name="next_on_wed">Wednesday at %1$s</string> <!-- TODO translate -->
-    <string name="next_on_thu">Thursday at %1$s</string> <!-- TODO translate -->
-    <string name="next_on_fri">Friday at %1$s</string> <!-- TODO translate -->
-    <string name="next_on_sat">Saturday at %1$s</string> <!-- TODO translate -->
-    <string name="next_on_sun">Sunday at %1$s</string> <!-- TODO translate -->
-    <string name="never">never</string> <!-- TODO translate --> <!-- if notification will never occur-->
-    <string name="show_seconds_title">Show seconds</string> <!-- TODO translate -->
-    <string name="show_seconds_on">Choosing seconds is enabled. Displays times with seconds.</string> <!-- TODO translate -->
-    <string name="show_seconds_off">Choosing seconds is disabled. Display times without seconds.</string> <!-- TODO translate -->
-    <string name="notification_disabled_warning">Notification is disabled</string> <!-- TODO translate -->
-    <string name="social_facebook">Facebook</string> <!-- TODO translate -->
-    <string name="social_twitter">Twitter</string> <!-- TODO translate -->
-    <string name="social_google_plus">Google+</string> <!-- TODO translate -->
-    <string name="social_google_plus_community">Google+ Community</string> <!-- TODO translate -->
-    <string name="finish_previous">Finish previous actions</string> <!-- TODO translate -->
-    <string name="finish_previous_title">Wait for</string> <!-- TODO translate -->
-    <string name="finish_previous_description">previous actions to finish</string> <!-- TODO translate -->
-    <string name="libraries">Libraries</string> <!-- TODO translate --> <!-- title of screen showing licenses of programming libraries used by the app -->
-    <string name="acknowledgements">Acknowledgements</string> <!-- TODO translate --> <!-- name of screen with authors, translators and other people who have helped -->
-    <string name="troubleshooting">Troubleshooting</string> <!-- TODO translate -->
-    <string name="premium_features">Premium features</string> <!-- TODO translate -->
-    <string name="disable_when_headset">Disable when headset connected</string> <!-- TODO translate -->
-    <string name="disable_when_headset_on">All notifications disabled</string> <!-- TODO translate -->
-    <string name="disable_when_headset_off">All notifications enabled</string> <!-- TODO translate -->
-    <string name="disable_when_headset_toast">BlipBlip notifications are now disabled, because you have headset connected.</string> <!-- TODO translate -->
+    <string name="more_actions">Nhiều hành động hơn</string>
+    <string name="start_time">Thời gian bắt đầu</string>
+    <string name="end_time">Thời gian kết thúc</string>
+    <string name="whole_day">Cả ngày</string>
+    <string name="enable_screen">Bật màn hình</string>
+    <string name="delay_to_next_chime">Chờ</string>
+    <string name="action_rename">Đổi tên</string>
+    <string name="pref_accessibility">Dịch vụ trợ năng</string>
+    <string name="pref_swipe">Vuốt</string>
+    <string name="pref_swipe_on">Bật vuốt trên danh sách mục</string>
+    <string name="pref_swipe_off">Tắt vuốt trên danh sách mục</string>
+    <string name="pref_action_menus">Trình đơn hành động</string>
+    <string name="pref_action_menus_on">Hiển thị các menu với hành động mà nếu không sẽ yêu cầu cử chỉ (ví dụ: vuốt). Hữu ích khi sử dụng TalkBack.</string>
+    <string name="pref_action_menus_off">Ẩn các trình đơn với hành động cũng có thể được thực hiện bằng cử chỉ.</string>
+    <string name="next_notification">Thông báo kế tiếp: %1$s</string>
+    <string name="next_reminder">Nhắc nhở kế tiếp: %1$s</string>
+    <string name="next_alarm">Báo thức kế tiếp: %1$s</string>
+    <string name="next">Kế tiếp: %1$s</string><!-- next notification, reminder or alarm time or date -->
+    <string name="next_tomorrow">ngày mai lúc %1$s</string><!-- e.g. tomorrow at 10:00 -->
+    <string name="next_on_mon">Thứ Hai lúc %1$s</string>
+    <string name="next_on_tue">Thứ Ba lúc %1$s</string>
+    <string name="next_on_wed">Thứ Tư lúc %1$s</string>
+    <string name="next_on_thu">Thứ Năm lúc %1$s</string>
+    <string name="next_on_fri">Thứ Sáu lúc %1$s</string>
+    <string name="next_on_sat">Thứ Bảy lúc %1$s</string>
+    <string name="next_on_sun">Chủ Nhật lúc %1$s</string>
+    <string name="never">không bao giờ</string><!-- if notification will never occur-->
+    <string name="show_seconds_title">Hiển thị giây</string>
+    <string name="show_seconds_on">Chọn giây đã bật. Hiển thị thời gian bằng giây.</string>
+    <string name="show_seconds_off">Chọn giây bị tắt. Hiển thị thời gian không có giây.</string>
+    <string name="notification_disabled_warning">Thông báo đã tắt</string>
+    <string name="social_facebook">Facebook</string>
+    <string name="social_twitter">Twitter</string>
+    <string name="social_google_plus">Google+</string>
+    <string name="social_google_plus_community">Cộng đồng Google+</string>
+    <string name="finish_previous">Kết thúc hành động trước</string>
+    <string name="finish_previous_title">Chờ</string>
+    <string name="finish_previous_description">hành động trước để kết thúc</string>
+    <string name="libraries">Thư viện</string><!-- title of screen showing licenses of programming libraries used by the app -->
+    <string name="acknowledgements">Lời cảm ơn</string><!-- name of screen with authors, translators and other people who have helped -->
+    <string name="troubleshooting">Xử lý sự cố</string>
+    <string name="premium_features">Tính năng cao cấp</string>
+    <string name="disable_when_headset">Vô hiệu hoá khi kết nối tai nghe</string>
+    <string name="disable_when_headset_on">Đã tắt tất cả thông báo</string>
+    <string name="disable_when_headset_off">Đã bật tất cả thông báo</string>
+    <string name="disable_when_headset_toast">Đã tắt thông báo BlipBlip vì bạn kết nối tai nghe.</string>
 
-    <string name="about_thank_you">Thank You</string> <!-- TODO translate -->
+    <string name="about_thank_you">Cảm Ơn</string>
 
-    <string name="snack_bar_text_item_removed">1 item removed</string> <!-- TODO translate -->
-    <string name="snack_bar_action_undo">UNDO</string> <!-- TODO translate -->
+    <string name="snack_bar_text_item_removed">1 mục đã loại bỏ</string>
+    <string name="snack_bar_action_undo">HỦY BỎ</string>
 
-    <string name="add_item">Add item</string> <!-- TODO translate -->
-    <string name="action_add_child_notification">Add child notification</string> <!-- TODO translate -->
-    <string name="action_add_notification">Add notification</string> <!-- TODO translate -->
-    <string name="action_add_condition">Add condition</string> <!-- TODO translate -->
-    <string name="dialog_title_days_of_week">Days of Week</string> <!-- TODO translate -->
-    <string name="dialog_title_date">Date</string> <!-- TODO translate -->
-    <string name="start_date">Start date</string> <!-- TODO translate -->
-    <string name="end_date">End date</string> <!-- TODO translate -->
-    <string name="dialog_title_time">Time</string> <!-- TODO translate -->
-    <string name="dialog_title_time_range">Time range</string> <!-- TODO translate -->
-    <string name="dialog_title_repeat">Repeat every</string> <!-- TODO translate -->
-    <string name="interval">Interval</string> <!-- TODO translate -->
-    <string name="no_repeat">No repeat</string> <!-- TODO translate -->
-    <string name="action_add_action">Add action</string> <!-- TODO translate -->
-    <string name="favorite_condition_dialog_edit">Edit</string> <!-- TODO translate -->
-    <string name="favorite_condition_dialog_create">Create</string> <!-- TODO translate -->
-    <string name="system_notification">System notification</string> <!-- TODO translate -->
-    <string name="popup_text">Popup text</string> <!-- TODO translate -->
-    <string name="no_actions_added">No actions added</string> <!-- TODO translate -->
-    <string name="section_conditions">Conditions</string> <!-- TODO translate -->
-    <string name="no_valid_condition_added">No valid conditions defined</string> <!-- TODO translate -->
-    <string name="no_valid_children_notification">All child notifications are invalid</string> <!-- TODO translate -->
-    <string name="no_upcoming_notifications">No upcoming notifications</string> <!-- TODO translate -->
-    <string name="error_indicator">Error indicator</string> <!-- TODO translate -->
-    <string name="next_notification_parent_off">Off (parent)</string> <!-- TODO translate -->
-    <string name="next_day">next day</string> <!-- TODO translate --> <!-- Used in: "22:00 - 6:00 next day" -->
-    <string name="notifications">Notifications</string> <!-- TODO translate -->
-    <string name="warning_no_email_app">No email application found to send the report.</string> <!-- TODO translate -->
-    <string name="weeknights">Weeknights</string> <!-- TODO translate --> <!-- nights from sunday to thursday -->
-    <string name="weekend_nights">Weekend nights</string> <!-- TODO translate --> <!-- nights on friday and saturday -->
-    <string name="weekend">Weekend</string> <!-- TODO translate --> <!-- saturday and sunday -->
-    <string name="cannot_enable_app">Cannot enable app right now.</string> <!-- TODO translate -->
+    <string name="add_item">Thêm mục</string>
+    <string name="action_add_child_notification">Thêm thông báo con</string>
+    <string name="action_add_notification">Thêm thông báo</string>
+    <string name="action_add_condition">Thêm điều kiện</string>
+    <string name="dialog_title_days_of_week">Ngày trong tuần</string>
+    <string name="dialog_title_date">Ngày</string>
+    <string name="start_date">Ngày bắt đầu</string>
+    <string name="end_date">Ngày kết thúc</string>
+    <string name="dialog_title_time">Thời gian</string>
+    <string name="dialog_title_time_range">Khoảng thời gian</string>
+    <string name="dialog_title_repeat">Lặp lại mỗi</string>
+    <string name="interval">Khoảng thời gian</string>
+    <string name="no_repeat">Không lặp lại</string>
+    <string name="action_add_action">Thêm hành động</string>
+    <string name="favorite_condition_dialog_edit">Chỉnh</string>
+    <string name="favorite_condition_dialog_create">Tạo</string>
+    <string name="system_notification">Thông báo hệ thống</string>
+    <string name="popup_text">Văn bản popup</string>
+    <string name="no_actions_added">Không có hành động nào được thêm</string>
+    <string name="section_conditions">Điều kiện</string>
+    <string name="no_valid_condition_added">Không có điều kiện hợp lệ được xác định</string>
+    <string name="no_valid_children_notification">Tất cả thông báo con không hợp lệ</string>
+    <string name="no_upcoming_notifications">Không có thông báo nào sắp tới</string>
+    <string name="error_indicator">Chỉ báo lỗi</string>
+    <string name="next_notification_parent_off">Tắt (phần tử)</string>
+    <string name="next_day">ngày kế tiếp</string><!-- Used in: "22:00 - 6:00 next day" -->
+    <string name="notifications">Thông báo</string>
+    <string name="warning_no_email_app">Không tìm thấy ứng dụng email để gửi báo cáo.</string>
+    <string name="weeknights">Đêm trong tuần</string><!-- nights from sunday to thursday -->
+    <string name="weekend_nights">Đêm cuối tuần</string><!-- nights on friday and saturday -->
+    <string name="weekend">Cuối tuần</string><!-- saturday and sunday -->
+    <string name="cannot_enable_app">Không thể bật ứng dụng ngay bây giờ.</string>
 
-    <string name="vibration_silence_millis">Silence duration in milliseconds</string> <!-- TODO translate -->
-    <string name="vibration_duration_millis">Vibration duration in milliseconds</string> <!-- TODO translate -->
-    <string name="vibration_strength">Vibration strength</string> <!-- TODO translate -->
+    <string name="vibration_silence_millis">Thời gian im lặng bằng mili giây</string>
+    <string name="vibration_duration_millis">Thời gian rung theo mili giây</string>
+    <string name="vibration_strength">Độ dài rung</string>
 
-    <string name="advice_disable_task_killers">Disable task killers</string> <!-- TODO translate -->
-    <string name="advice_disable_task_killers_desc">Task killers should be disabled or BlipBlip should be added in their white lists to keep app alive.</string> <!-- TODO translate -->
-    <string name="advice_enable_foreground_service">Enable foreground service</string> <!-- TODO translate -->
-    <string name="advice_enable_foreground_service_desc2"><p>Foreground service option informs OS that application should not be killed if possible.</p>\n<p>It will display persistent notification which can be hidden from system settings (hiding it from the app will disable this option).</p>\n<p>You can use button below to access system settings</p></string> <string name="sound_in_use">Sound is in use and cannot be deleted.</string> <!-- TODO translate -->
-    <string name="vibration_in_use">Vibration is in use and cannot be deleted.</string> <!-- TODO translate -->
-    <string name="not_found">Not found</string> <!-- TODO translate -->
-    <string name="sound_not_found">Not found</string> <!-- TODO translate --> <!-- for sound -->
-    <string name="vibration_not_found">Not found</string> <!-- TODO translate --> <!-- for vibration -->
+    <string name="advice_disable_task_killers">Vô hiệu trình đóng tác vụ</string>
+    <string name="advice_disable_task_killers_desc">Trình đóng tác vụ nên bị vô hiệu hoặc BlipBlip nên được thêm vào danh sách trắng của chúng để giữ cho ứng dụng hoạt động.</string>
+    <string name="advice_enable_foreground_service">Bật dịch vụ trước nền</string>
+    <string name="advice_enable_foreground_service_desc2"><p>Tùy chọn dịch vụ trước nền thông báo cho hệ điều hành rằng ứng dụng đó không nên bị đóng nếu có thể.</p>\n<p>It will display persistent notification which can be hidden from system settings (hiding it from the app will disable this option).</p>\n<p>You can use button below to access system settings</p></string> <string name="sound_in_use">Âm thanh đang dùng và không thể xóa được.</string>
+    <string name="vibration_in_use">Rung đang dùng và không thể xóa được.</string>
+    <string name="not_found">Không tìm thấy</string>
+    <string name="sound_not_found">Không tìm thấy</string><!-- for sound -->
+    <string name="vibration_not_found">Không tìm thấy</string><!-- for vibration -->
 
-    <string name="section_when">When</string> <!-- TODO translate -->
-    <string name="section_actions">Actions</string> <!-- TODO translate -->
-    <string name="section_notifications">Notifications</string> <!-- TODO translate -->
-    <string name="notification_name">Notification</string> <!-- TODO translate -->
-    <string name="notification_name_id">Notification %1$d</string> <!-- TODO translate --> <!-- e.g. "Notification 1" -->
+    <string name="section_when">Khi</string>
+    <string name="section_actions">Hành động</string>
+    <string name="section_notifications">Thông báo</string>
+    <string name="notification_name">Thông báo</string>
+    <string name="notification_name_id">Thông báo %1$d</string><!-- e.g. "Notification 1" -->
 
-    <string name="play">Play</string> <!-- TODO translate -->
+    <string name="play">Chạy</string>
 
-    <string name="cannot_perform_operation">Cannot perform this operation right now. Please try again later.</string> <!-- TODO translate -->
+    <string name="cannot_perform_operation">Không thể thực hiện thao tác này ngay bây giờ. Vui lòng thử lại sau.</string>
 
-    <string name="add_to_favorites">Add to favorites</string> <!-- TODO translate -->
-    <string name="open_favorites">Open favorites</string> <!-- TODO translate -->
+    <string name="add_to_favorites">Thêm vào sở thích</string>
+    <string name="open_favorites">Mở sở thích</string>
 
-    <string name="new_sound">New sound</string> <!-- TODO translate -->
-    <string name="unnamed_sound">Unnamed</string> <!-- TODO translate -->
-    <string name="unnamed_vibration">Unnamed</string> <!-- TODO translate -->
-    <string name="unnamed_notification">Unnamed</string> <!-- TODO translate -->
+    <string name="new_sound">Âm thanh mới</string>
+    <string name="unnamed_sound">Chưa đặt tên</string>
+    <string name="unnamed_vibration">Chưa đặt tên</string>
+    <string name="unnamed_notification">Chưa đặt tên</string>
 
-    <string name="item_deleted">Item deleted.</string> <!-- TODO translate --> <!-- showed when one of list items is deleted -->
-    <string name="value_deleted">Deleted \"%1$s\"</string> <!-- TODO translate --> <!-- showed when one of list items is deleted and displays the value of the item -->
-    <string name="action_undo">Undo</string> <!-- TODO translate --> <!-- action name to undo deletion e.g. from a list -->
-    <string name="condition_deleted">Condition deleted.</string> <!-- TODO translate -->
-    <string name="notification_deleted">Notification deleted.</string> <!-- TODO translate -->
-    <string name="action_deleted">Action deleted.</string> <!-- TODO translate -->
+    <string name="item_deleted">Đã xóa đối tượng.</string><!-- showed when one of list items is deleted -->
+    <string name="value_deleted">Đã xóa \"%1$s\"</string><!-- showed when one of list items is deleted and displays the value of the item -->
+    <string name="action_undo">Hủy bỏ</string><!-- action name to undo deletion e.g. from a list -->
+    <string name="condition_deleted">Đã xóa điều kiện.</string>
+    <string name="notification_deleted">Đã xóa thông báo.</string>
+    <string name="action_deleted">Đã xóa hành động.</string>
 
-    <string name="inclusive_time">inclusive</string> <!-- TODO translate --> <!-- used in the time range dialog to determine if edge value should be included -->
+    <string name="inclusive_time">bao gồm</string><!-- used in the time range dialog to determine if edge value should be included -->
 
-    <string name="pref_user_notifications">User notifications</string> <!-- TODO translate -->
+    <string name="pref_user_notifications">Thông báo người dùng</string>
 
-    <string name="action_set_as_home_screens">Set as start screen</string> <!-- TODO translate -->
+    <string name="action_set_as_home_screens">Đặt làm màn hình khởi động</string>
 
-    <string name="pref_battery_saver_mode">Battery Saver mode</string> <!-- TODO translate -->
-    <string name="mode_enable_app_title">App enabled</string> <!-- TODO translate -->
-    <string name="mode_enable_app_on">Allow the app to work in this mode</string> <!-- TODO translate -->
-    <string name="mode_enable_app_off">Application is disabled in this mode</string> <!-- TODO translate -->
-    <string name="mode_sound_title">Allow sound</string> <!-- TODO translate -->
-    <string name="mode_sound_on">Sounds are allowed in this mode</string> <!-- TODO translate -->
-    <string name="mode_sound_off">Sounds disabled in this mode</string> <!-- TODO translate -->
-    <string name="mode_vibration_title">Allow vibrations</string> <!-- TODO translate -->
-    <string name="mode_vibration_on">Vibrations allowed in this mode</string> <!-- TODO translate -->
-    <string name="mode_vibration_off">Vibrations not allowed in this mode</string> <!-- TODO translate -->
-    <string name="mode_screen_title">Enabling screen allowed</string> <!-- TODO translate -->
-    <string name="mode_screen_on">Screen is allowed to be enabled in this mode</string> <!-- TODO translate -->
-    <string name="mode_screen_off">Screen will not be enabled in this mode</string> <!-- TODO translate -->
-    <string name="battery_saver_preferences_warning">These options may not work on all devices.</string> <!-- TODO translate -->
-    <string name="mode_sound_toast">Sound is disabled because following mode is active: %1$s</string> <!-- TODO translate -->
-    <string name="vibration_sound_toast">Vibration is disabled because following mode is active: %1$s</string> <!-- TODO translate -->
+    <string name="pref_battery_saver_mode">Chế độ tiết kiệm pin</string>
+    <string name="mode_enable_app_title">Ứng dụng đã bật</string>
+    <string name="mode_enable_app_on">Cho phép ứng dụng hoạt động ở chế độ này</string>
+    <string name="mode_enable_app_off">Ứng dụng bị tắt trong chế độ này</string>
+    <string name="mode_sound_title">Cho phép âm thanh</string>
+    <string name="mode_sound_on">Âm thanh được phép ở chế độ này</string>
+    <string name="mode_sound_off">Âm thanh bị vô hiệu trong chế độ này</string>
+    <string name="mode_vibration_title">Cho phép rung</string>
+    <string name="mode_vibration_on">Rung được phép trong chế độ này</string>
+    <string name="mode_vibration_off">Rung không được phép trong chế độ này</string>
+    <string name="mode_screen_title">Đã cho phép bật màn hình</string>
+    <string name="mode_screen_on">Màn hình được phép bật trong chế độ này</string>
+    <string name="mode_screen_off">Màn hình sẽ không được bật ở chế độ này</string>
+    <string name="battery_saver_preferences_warning">Các tùy chọn này có thể không hoạt động trên tất cả các thiết bị.</string>
+    <string name="mode_sound_toast">Âm thanh bị vô hiệu vì chế độ sau đang hoạt động: %1$s</string>
+    <string name="vibration_sound_toast">Rung bị vô hiệu vì chế độ sau đang hoạt động: %1$s</string>
 
-    <string name="pref_accessibility_settings_title">Enable accessibility service</string> <!-- TODO translate -->
-    <string name="pref_accessibility_settings_summary">Opens system Accessibility settings where you can enable app as accessibility service</string> <!-- TODO translate -->
-    <string name="accessibility_service_description">This service helps to keep the app working. It does not access any data or modify any content. It is just protection against memory managers which may kill the app. If you are not experiencing problems with the app you don\'t need to activate it.</string> <!-- TODO translate -->
-    <string name="accessibility_service_summary">Helps keep app alive. Does not access any data.</string> <!-- TODO translate -->
+    <string name="pref_accessibility_settings_title">Bật dịch vụ Hỗ trợ</string>
+    <string name="pref_accessibility_settings_summary">Mở cài đặt Hỗ trợ của hệ thống nơi bạn có thể bật ứng dụng dưới dạng dịch vụ trợ năng</string>
+    <string name="accessibility_service_description">Dịch vụ này giúp giữ ứng dụng hoạt động. Nó không truy cập bất cứ dữ liệu hoặc sửa đổi bất cứ nội dung nào. Nó chỉ bảo vệ ứng dụng khỏi bị đóng bởi trình quản lý ứng dụng. Nếu bạn không gặp phải vấn đề nào với ứng dụng bạn không cần phải kích hoạt nó.</string>
+    <string name="accessibility_service_summary">Giúp giữ cho ứng dụng hoạt động. Không truy cập bất kỳ dữ liệu nào.</string>
 
-    <string name="swipe_right_to_delete">Swipe right to delete items</string> <!-- TODO translate -->
+    <string name="swipe_right_to_delete">Vuốt sang phải để xóa các mục</string>
 
-    <string name="pref_user_interface">User interface</string> <!-- TODO translate -->
-    <string name="show_inclusive_title">Change time range ends</string> <!-- TODO translate -->
-    <string name="show_inclusive_on">When specifying time range show buttons which allow to specify whether given time should be included in time range.</string> <!-- TODO translate -->
-    <string name="show_inclusive_off">Hide buttons allowing to choose if time should be included in time range.</string> <!-- TODO translate -->
+    <string name="pref_user_interface">Giao diện người dùng</string>
+    <string name="show_inclusive_title">Thay đổi khoảng thời gian kết thúc</string>
+    <string name="show_inclusive_on">Khi chỉ định nút hiển thị phạm vi thời gian cho phép chỉ định thời gian đã cho cần được bao gồm trong khoảng thời gian.</string>
+    <string name="show_inclusive_off">Ẩn nút cho phép chọn nếu thời gian nên bao gồm trong khoảng thời gian.</string>
 
-    <string name="action_repeat">Repeat</string> <!-- TODO translate -->
-    <string name="action_repeat_sound">Repeat sound</string> <!-- TODO translate -->
-    <string name="action_repeat_vibration">Repeat vibration</string> <!-- TODO translate -->
-    <string name="action_repeat_sound_vibration">Repeat sound and vibration</string> <!-- TODO translate -->
-    <string name="action_strike_the_hour">Strike the hour</string> <!-- TODO translate -->
+    <string name="action_repeat">Lặp lại</string>
+    <string name="action_repeat_sound">Lặp lại âm thanh</string>
+    <string name="action_repeat_vibration">Lặp lại rung</string>
+    <string name="action_repeat_sound_vibration">Lặp lại âm thanh và rung</string>
+    <string name="action_strike_the_hour">Chạy giờ</string>
 
-    <string name="pref_do_not_disturb_mode">Do Not Disturb</string> <!-- TODO translate -->
-    <string name="do_not_disturb_total_silence">Total silence</string> <!-- TODO translate -->
-    <string name="do_not_disturb_alarms_only">Alarms only</string> <!-- TODO translate -->
-    <string name="do_not_disturb_priority_only">Priority only</string> <!-- TODO translate -->
+    <string name="pref_do_not_disturb_mode">Đừng làm phiền</string>
+    <string name="do_not_disturb_total_silence">Tổng im lặng</string>
+    <string name="do_not_disturb_alarms_only">Chỉ báo thức</string>
+    <string name="do_not_disturb_priority_only">Chỉ ưu tiên</string>
 
-    <string name="hide_notification_title">Hide notification</string> <!-- TODO translate -->
-    <string name="hide_notification_summary">Open system settings to hide notification. This is recommended way for hiding notification because it allows the app to work in foreground.</string> <!-- TODO translate -->
+    <string name="hide_notification_title">Ần thông báo</string>
+    <string name="hide_notification_summary">Mở cài đặt hệ thống để ẩn thông báo. Đây là cách được đề nghị để ẩn thông báo vì nó cho phép ứng dụng hoạt động ở trước nền.</string>
 
-    <string name="action_say_text">Say text</string> <!-- TODO translate -->
-    <string name="action_say_time">Say time</string> <!-- TODO translate -->
-    <string name="feature_say_text">Say time</string> <!-- TODO translate -->
-    <string name="feature_say_time">Say time</string> <!-- TODO translate -->
-    <string name="pref_text_to_speech">Text to speech</string> <!-- TODO translate -->
+    <string name="action_say_text">Nói văn bản</string>
+    <string name="action_say_time">Nói thời gian</string>
+    <string name="feature_say_text">Nói thời gian</string>
+    <string name="feature_say_time">Nói thời gian</string>
+    <string name="pref_text_to_speech">Văn bản để nói</string>
     <string name="system_default_audio_stream">@string/setting_system_default</string>
-    <string name="application_default">Application default</string> <!-- TODO translate -->
-    <string name="speak_time_format_with_minutes">Spoken time with minutes</string> <!-- TODO translate -->
-    <string name="speak_time_on_the_hour">Spoken time on the hour</string> <!-- TODO translate -->
+    <string name="application_default">Ứng dụng mặc định</string>
+    <string name="speak_time_format_with_minutes">Nói thời gian với phút</string>
+    <string name="speak_time_on_the_hour">Nói thời gian trong giờ</string>
 
-    <string name="show_actions_switches_title">Actions switches</string> <!-- TODO translate --> <!-- option to show enable/disable switches for actions -->
-    <string name="show_actions_switches_on">Show switches for disabling actions.</string> <!-- TODO translate -->
-    <string name="show_actions_switches_off">Hide switches for disabling actions.</string> <!-- TODO translate -->
+    <string name="show_actions_switches_title">Công tắc hành động</string><!-- option to show enable/disable switches for actions -->
+    <string name="show_actions_switches_on">Hiển thị công tắc để vô hiệu hoá hành động.</string>
+    <string name="show_actions_switches_off">Ẩn công tắc để vô hiệu hóa các tác vụ.</string>
 
-    <string name="operating_modes_settings">Operating modes</string> <!-- TODO translate --> <!-- name of menu with different mode settings e.g. Do Not Disturb, vibrate mode -->
-    <string name="operating_modes_settings_summary">Do Not Disturb, vibrate mode, etc.</string> <!-- TODO translate -->
-    <string name="time_settings">Time</string> <!-- TODO translate -->
-    <string name="sound_settings">Sound</string> <!-- TODO translate -->
+    <string name="operating_modes_settings">Chế độ điều hành</string><!-- name of menu with different mode settings e.g. Do Not Disturb, vibrate mode -->
+    <string name="operating_modes_settings_summary">Đừng làm phiền, chế độ rung, v.v...</string>
+    <string name="time_settings">Thời gian</string>
+    <string name="sound_settings">Âm thanh</string>
 
-    <string name="free_resources_title">Free resources</string> <!-- TODO translate -->
-    <string name="free_resources_off">May use more memory.</string> <!-- TODO translate -->
-    <string name="free_resources_on">Should use less memory.</string> <!-- TODO translate -->
+    <string name="free_resources_title">Tài nguyên miễn phí</string>
+    <string name="free_resources_off">Có thể sử dụng nhiều bộ nhớ.</string>
+    <string name="free_resources_on">Nên sử dụng bộ nhớ ít hơn.</string>
 
-    <string name="error_failed_to_open_file">Failed to open file</string> <!-- TODO translate -->
-    <string name="error_corrupted_sound">Sound is corrupted</string> <!-- TODO translate -->
+    <string name="error_failed_to_open_file">Mở tệp đã thất bại</string>
+    <string name="error_corrupted_sound">Âm thanh đã bị hỏng</string>
 
     <!-- premium -->
-    <string name="dialog_premium_trial_text">Get all current and future features.</string> <!-- TODO translate --> <!-- should be short -->
-    <string name="dialog_no_thanks">No, thanks</string> <!-- TODO translate --> <!-- should be short -->
-    <string name="dialog_premium_unlock_button_text">Unlock</string> <!-- TODO translate --> <!-- should be short -->
-    <string name="dialog_premium_trial_text2">Press \"Unlock\" to start your free trial.</string> <!-- TODO translate --> <!-- use same text as in dialog_premium_unlock_button_text -->
-    <string name="dialog_premium_trial_button_text">Start free trial now</string> <!-- TODO translate --> <!-- should be short -->
-    <string name="dialog_premium_trial_title">Unlock premium functions</string> <!-- TODO translate --> <!-- should be short -->
-    <string name="dialog_premium_features_description">Action you tried to performed uses following premium features:</string> <!-- TODO translate -->
-    <string name="feature_custom_sounds">Custom sounds</string> <!-- TODO translate -->
-    <string name="feature_multiple_notifications">Multiple notifications</string> <!-- TODO translate -->
-    <string name="feature_custom_reapeat">Custom repeat interval</string> <!-- TODO translate -->
-    <string name="feature_premium_content">Premium content</string> <!-- TODO translate -->
-    <string name="feature_premium_sounds">Premium sounds</string> <!-- TODO translate -->
-    <string name="feature_strike_the_hour">Strike the hour</string> <!-- TODO translate -->
-    <string name="premium_get_plus">Get all current features</string> <!-- TODO translate --> <!-- should be short -->
-    <string name="premium_get_sounds">Get all sounds in the app</string> <!-- TODO translate --> <!-- should be short -->
-    <string name="premium_get_plus_sounds">Get all current features and sounds</string> <!-- TODO translate --> <!-- should be short -->
-    <string name="lock_icon">Lock icon</string> <!-- TODO translate -->
-    <string name="premium_sound_lock">This is premium sound which requires unlocking before use.</string> <!-- TODO translate -->
-    <string name="premium_feature_lock">This is premium feature which requires unlocking before use.</string> <!-- TODO translate -->
-    <string name="change_subscription">Change subscription</string> <!-- TODO translate -->
+    <string name="dialog_premium_trial_text">Nhận t.cả tính năng h.tại và t.lai.</string><!-- should be short -->
+    <string name="dialog_no_thanks">Không, cảm ơn</string><!-- should be short -->
+    <string name="dialog_premium_unlock_button_text">Mở khóa</string><!-- should be short -->
+    <string name="dialog_premium_trial_text2">Nhấn \"Mở khóa\" để bắt đầu dùng thử miễn phí.</string><!-- use same text as in dialog_premium_unlock_button_text -->
+    <string name="dialog_premium_trial_button_text">Bắt đầu dùng thử m.phí ngay</string><!-- should be short -->
+    <string name="dialog_premium_trial_title">Mở khóa chức năng cao cấp</string><!-- should be short -->
+    <string name="dialog_premium_features_description">Hành động bạn đã thử cố gắng thực hiện các tính năng cao cấp sau:</string>
+    <string name="feature_custom_sounds">Âm thanh tùy chỉnh</string>
+    <string name="feature_multiple_notifications">Đa thông báo</string>
+    <string name="feature_custom_reapeat">Tùy chỉnh khoảng lặp lại</string>
+    <string name="feature_premium_content">Nội dung cao cấp</string>
+    <string name="feature_premium_sounds">Âm thanh cao cấp</string>
+    <string name="feature_strike_the_hour">Chạy giờ</string>
+    <string name="premium_get_plus">Nhận t.cả tính năng h.tại</string><!-- should be short -->
+    <string name="premium_get_sounds">Nhận t.cả â.thanh trong ứ.dụng</string><!-- should be short -->
+    <string name="premium_get_plus_sounds">Nhận t.cả tính năng và â.thanh h.tại</string><!-- should be short -->
+    <string name="lock_icon">Khóa biểu tượng</string>
+    <string name="premium_sound_lock">Đây là âm thanh cao cấp yêu cầu mở khóa trước khi sử dụng.</string>
+    <string name="premium_feature_lock">Đây là tính năng cao cấp yêu cầu mở khóa trước khi sử dụng.</string>
+    <string name="change_subscription">Thay đổi đăng ký</string>
 
-    <string name="vibrate_seconds">Vibrate %ss</string> <!-- TODO translate --> <!-- s at the end is for seconds, %s will be replaced vy value e.g. "Vibrate 1.2s" -->
-    <string name="wait_and_vibrate_seconds">Wait %ss, vibrate %ss</string> <!-- TODO translate -->
+    <string name="vibrate_seconds">Rung %ss</string><!-- s at the end is for seconds, %s will be replaced vy value e.g. "Vibrate 1.2s" -->
+    <string name="wait_and_vibrate_seconds">Chờ %ss, rung %ss</string>
 
 </resources>
