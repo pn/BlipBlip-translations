@@ -59,7 +59,7 @@
 
     <!-- Sound -->
     <string name="sound_text">Âm thanh</string>
-    <string name="sound_blipblip">BlipBlip</string>
+    <string name="sound_blipblip">BlipBlip</string> <!-- translated -->
     <string name="sound_casio_watch">Đồng hồ Casio</string>
     <string name="sound_gong">Tiếng cồng</string>
     <string name="sound_ships_bell">Chuông tàu</string>
@@ -202,7 +202,7 @@
     <string name="pref_vibrate_wear_on">Nếu rung được kích hoạt thì khi kết nối đến thiết bị Android Wear nó cũng sẽ rung</string>
     <string name="pref_vibrate_wear_off">Không rung trên thiết bị Android Wear</string>
     <string name="pref_vibrate_wearable_title">Rung trên thiết bị đã kết nối</string>
-    <string name="pref_vibrate_wearable_on">Nếu rung đã kích hoạt thì cũng sẽ rung trên các thiết bị đã kết nối (ví dụ: đồng hồ thông minh)</string>
+    <string name="pref_vibrate_wearable_on">Nếu rung đã kích hoạt thì cũng sẽ rung trên các thiết bị đã kết nối (ví dụ: đồng hồ thông minh)</string> <!-- not used anymore -->
     <string name="pref_vibrate_wearable_on2">Nếu rung đã kích hoạt thì cũng sẽ rung trên các thiết bị đã kết nối (ví dụ: đồng hồ thông minh. Yêu cầu thêm vào thông báo hệ thống.</string>
     <string name="pref_vibrate_wearable_off">Đừng rung trên thiết bị đeo tay đã kết nối</string>
 
@@ -215,7 +215,7 @@
     <string name="pref_notification_action_buttons">Nút hành động</string> <!-- Preference name for choosing which buttons are visible on notification -->
     <string name="notif_action_play">Phát</string> <!-- Description of action button. This should refer to notif_action_play -->
     <string name="notif_action_play_desc">Phát thông báo (âm thanh, rung, v.v…) giống như từ ứng dụng.</string>
-    <string name="notif_action_stop">Dừng</string><!-- Description of action button. This should refer to notif_action_stop -->
+    <string name="notif_action_stop">Dừng</string> <!-- Description of action button. This should refer to notif_action_stop -->
     <string name="notif_action_stop_desc">Dừng phát lại thông báo.</string>
     <string name="notif_action_disable_or_enable">Bật/Tắt</string> <!-- Description of action button. This refers to notif_action_enable and notif_action -->
     <string name="notif_action_disable_or_enable_desc">Nút để tắt hoặc bật các thông báo.</string>
@@ -226,7 +226,7 @@
     <string name="notif_action_dismiss">Bỏ qua</string> <!-- this should refer to notif_button_dismiss -->
     <string name="notif_action_dismiss_desc">Bỏ qua reo báo thức.</string>
     <string name="notif_button_play">Phát</string> <!-- Action button label in notification having same action as play button in the app - plays the notificaton for testing purposes. This text should be short, because it will be shown on notification button where there can be 3 of them -->
-    <string name="notif_button_stop">Dừng</string><!-- Stops playback of notification. Should be short. -->
+    <string name="notif_button_stop">Dừng</string> <!-- Stops playback of notification. Should be short. -->
     <string name="notif_button_enable">Bật</string> <!-- This text should be short, because it will be shown on notification button where there can be 3 of them. -->
     <string name="notif_button_disable">Tắt</string> <!-- This text should be short, because it will be shown on notification button where there can be 3 of them. -->
     <string name="notif_button_skip">Bỏ qua</string> <!-- This text should be short, because it will be shown on notification button where there can be 3 of them. -->
@@ -291,7 +291,7 @@
     <string name="debug_logs_on">Lưu nhật ký để Báo cáo vấn đề qua email</string>
 
     <!-- Beta -->
-    <string name="beta_preference_title">BlipBlip Beta</string>
+    <string name="beta_preference_title">BlipBlip Beta</string> <!-- translated -->
     <string name="beta_preference_description">Bật hoặc tắt phiên bản beta</string>
 
     <!-- Experimental Settings -->
@@ -417,7 +417,7 @@
     <string name="time_format_12h">12 giờ đồng hồ</string>
     <string name="time_format_24h">24 giờ đồng hồ</string>
 
-    <string name="theme_blipblip">BlipBlip</string>
+    <string name="theme_blipblip">BlipBlip</string> <!-- translated -->
     <string name="theme_standard">Tiêu chuân</string>
     <string name="theme_blue">Xanh</string>
     <string name="theme_yellow">Vàng</string>
@@ -451,17 +451,17 @@
     <string name="dialog_title_deletion">Xác nhận xóa</string>
     <string name="dialog_message_confirm">Bạn chắc không?</string>
     <string name="vibration_name">Tên rung</string>
-    <string name="action_restore_defaults">Phục hồi mặc định</string><!-- e.g. for sounds or vibrations -->
-    <string name="restore_defaults_title"> </string><!-- not used anymore -->
-    <string name="restore_defaults_message"> </string><!-- not used anymore -->
+    <string name="action_restore_defaults">Phục hồi mặc định</string> <!-- e.g. for sounds or vibrations -->
+    <string name="restore_defaults_title"> </string> <!-- not used anymore -->
+    <string name="restore_defaults_message"> </string> <!-- not used anymore -->
     <string name="restore_defaults_message2">Bạn có muốn phục hồi giá trị mặc định?</string>
     <string name="action_add_system_notification_sound">Thêm âm thanh thông báo</string>
     <string name="add_vibration">Thêm rung</string>
-    <string name="edit">Sửa</string><!-- Name of action to edit list of sounds or list of vibrations, should be short -->
-    <string name="editing">Đang sửa</string><!-- Displayed in edit mode -->
+    <string name="edit">Sửa</string> <!-- Name of action to edit list of sounds or list of vibrations, should be short -->
+    <string name="editing">Đang sửa</string> <!-- Displayed in edit mode -->
     <string name="error_file_open_failed">Mở tệp thất bại.</string>
-    <string name="play_vibration">Rung</string><!-- description of action of a button to perform vibration -->
-    <string name="play_sound">Phát âm thanh</string><!-- description of action of a button to play sound -->
+    <string name="play_vibration">Rung</string> <!-- description of action of a button to perform vibration -->
+    <string name="play_sound">Phát âm thanh</string> <!-- description of action of a button to play sound -->
     <string name="drag_handle">Kéo điều khiển</string>
     <string name="app_icon_desc">Biểu tượng ứng dụng</string>
     <string name="select_audio_file">Chọn âm thanh</string>
@@ -470,11 +470,11 @@
     <string name="permission_denied">Quyền bị từ chối</string>
     <string name="permission_denied_message">BlipBlip không có quyền để đọc tệp.\nBạn có muốn cài trình cắm để có quyền này không?\nBạn cũng có thể sử dụng một số ứng dụng khác hỗ trợ truyền tệp mà không cần sự cho phép bổ sung (ví dụ: Google Drive).</string>
     <string name="permission_denied_message_no_addon">BlipBlip không có quyền để đọc tệp.\nVui lòng sử dụng một số ứng dụng khác chia sẻ tệp mà không cần sự cho phép bổ sung (ví dụ: Google Drive).</string>
-    <string name="install">Cài đặt</string><!-- action text for button to install additional app -->
+    <string name="install">Cài đặt</string> <!-- action text for button to install additional app -->
     <string name="failed_run_addon">Khởi động BlipBlip trình cắm thất bại</string>
     <string name="update_required">Cần cập nhật</string>
     <string name="update_required_message">Trình cắm bổ sung BlipBlip yêu cầu cập nhật. Bạn muốn cập nhật nó ngay không?</string>
-    <string name="update_required_action">Cập nhật</string><!-- action to update app -->
+    <string name="update_required_action">Cập nhật</string> <!-- action to update app -->
 
     <!-- Menu drawer strings -->
     <string name="drawer_open">Mở bảng điều hướng</string>
@@ -497,8 +497,8 @@
     <string name="next_notification">Thông báo kế tiếp: %1$s</string>
     <string name="next_reminder">Nhắc nhở kế tiếp: %1$s</string>
     <string name="next_alarm">Báo thức kế tiếp: %1$s</string>
-    <string name="next">Kế tiếp: %1$s</string><!-- next notification, reminder or alarm time or date -->
-    <string name="next_tomorrow">ngày mai lúc %1$s</string><!-- e.g. tomorrow at 10:00 -->
+    <string name="next">Kế tiếp: %1$s</string> <!-- next notification, reminder or alarm time or date -->
+    <string name="next_tomorrow">ngày mai lúc %1$s</string> <!-- e.g. tomorrow at 10:00 -->
     <string name="next_on_mon">Thứ Hai lúc %1$s</string>
     <string name="next_on_tue">Thứ Ba lúc %1$s</string>
     <string name="next_on_wed">Thứ Tư lúc %1$s</string>
@@ -506,20 +506,20 @@
     <string name="next_on_fri">Thứ Sáu lúc %1$s</string>
     <string name="next_on_sat">Thứ Bảy lúc %1$s</string>
     <string name="next_on_sun">Chủ Nhật lúc %1$s</string>
-    <string name="never">không bao giờ</string><!-- if notification will never occur-->
+    <string name="never">không bao giờ</string> <!-- if notification will never occur-->
     <string name="show_seconds_title">Hiển thị giây</string>
     <string name="show_seconds_on">Chọn giây đã bật. Hiển thị thời gian bằng giây.</string>
     <string name="show_seconds_off">Chọn giây bị tắt. Hiển thị thời gian không có giây.</string>
     <string name="notification_disabled_warning">Thông báo đã tắt</string>
-    <string name="social_facebook">Facebook</string>
-    <string name="social_twitter">Twitter</string>
-    <string name="social_google_plus">Google+</string>
+    <string name="social_facebook">Facebook</string> <!-- translated -->
+    <string name="social_twitter">Twitter</string> <!-- translated -->
+    <string name="social_google_plus">Google+</string> <!-- translated -->
     <string name="social_google_plus_community">Cộng đồng Google+</string>
     <string name="finish_previous">Kết thúc hành động trước</string>
     <string name="finish_previous_title">Chờ</string>
     <string name="finish_previous_description">hành động trước để kết thúc</string>
-    <string name="libraries">Thư viện</string><!-- title of screen showing licenses of programming libraries used by the app -->
-    <string name="acknowledgements">Lời cảm ơn</string><!-- name of screen with authors, translators and other people who have helped -->
+    <string name="libraries">Thư viện</string> <!-- title of screen showing licenses of programming libraries used by the app -->
+    <string name="acknowledgements">Lời cảm ơn</string> <!-- name of screen with authors, translators and other people who have helped -->
     <string name="troubleshooting">Xử lý sự cố</string>
     <string name="premium_features">Tính năng cao cấp</string>
     <string name="disable_when_headset">Vô hiệu hoá khi kết nối tai nghe</string>
@@ -557,12 +557,12 @@
     <string name="no_upcoming_notifications">Không có thông báo nào sắp tới</string>
     <string name="error_indicator">Chỉ báo lỗi</string>
     <string name="next_notification_parent_off">Tắt (phần tử)</string>
-    <string name="next_day">ngày kế tiếp</string><!-- Used in: "22:00 - 6:00 next day" -->
+    <string name="next_day">ngày kế tiếp</string> <!-- Used in: "22:00 - 6:00 next day" -->
     <string name="notifications">Thông báo</string>
     <string name="warning_no_email_app">Không tìm thấy ứng dụng email để gửi báo cáo.</string>
-    <string name="weeknights">Đêm trong tuần</string><!-- nights from sunday to thursday -->
-    <string name="weekend_nights">Đêm cuối tuần</string><!-- nights on friday and saturday -->
-    <string name="weekend">Cuối tuần</string><!-- saturday and sunday -->
+    <string name="weeknights">Đêm trong tuần</string> <!-- nights from sunday to thursday -->
+    <string name="weekend_nights">Đêm cuối tuần</string> <!-- nights on friday and saturday -->
+    <string name="weekend">Cuối tuần</string> <!-- saturday and sunday -->
     <string name="cannot_enable_app">Không thể bật ứng dụng ngay bây giờ.</string>
 
     <string name="vibration_silence_millis">Thời gian im lặng bằng mili giây</string>
@@ -575,14 +575,14 @@
     <string name="advice_enable_foreground_service_desc2"><p>Tùy chọn dịch vụ trước nền thông báo cho hệ điều hành rằng ứng dụng đó không nên bị đóng nếu có thể.</p>\n<p>It will display persistent notification which can be hidden from system settings (hiding it from the app will disable this option).</p>\n<p>You can use button below to access system settings</p></string> <string name="sound_in_use">Âm thanh đang dùng và không thể xóa được.</string>
     <string name="vibration_in_use">Rung đang dùng và không thể xóa được.</string>
     <string name="not_found">Không tìm thấy</string>
-    <string name="sound_not_found">Không tìm thấy</string><!-- for sound -->
-    <string name="vibration_not_found">Không tìm thấy</string><!-- for vibration -->
+    <string name="sound_not_found">Không tìm thấy</string> <!-- for sound -->
+    <string name="vibration_not_found">Không tìm thấy</string> <!-- for vibration -->
 
     <string name="section_when">Khi</string>
     <string name="section_actions">Hành động</string>
     <string name="section_notifications">Thông báo</string>
     <string name="notification_name">Thông báo</string>
-    <string name="notification_name_id">Thông báo %1$d</string><!-- e.g. "Notification 1" -->
+    <string name="notification_name_id">Thông báo %1$d</string> <!-- e.g. "Notification 1" -->
 
     <string name="play">Chạy</string>
 
@@ -596,14 +596,14 @@
     <string name="unnamed_vibration">Chưa đặt tên</string>
     <string name="unnamed_notification">Chưa đặt tên</string>
 
-    <string name="item_deleted">Đã xóa đối tượng.</string><!-- showed when one of list items is deleted -->
-    <string name="value_deleted">Đã xóa \"%1$s\"</string><!-- showed when one of list items is deleted and displays the value of the item -->
-    <string name="action_undo">Hủy bỏ</string><!-- action name to undo deletion e.g. from a list -->
+    <string name="item_deleted">Đã xóa đối tượng.</string> <!-- showed when one of list items is deleted -->
+    <string name="value_deleted">Đã xóa \"%1$s\"</string> <!-- showed when one of list items is deleted and displays the value of the item -->
+    <string name="action_undo">Hủy bỏ</string> <!-- action name to undo deletion e.g. from a list -->
     <string name="condition_deleted">Đã xóa điều kiện.</string>
     <string name="notification_deleted">Đã xóa thông báo.</string>
     <string name="action_deleted">Đã xóa hành động.</string>
 
-    <string name="inclusive_time">bao gồm</string><!-- used in the time range dialog to determine if edge value should be included -->
+    <string name="inclusive_time">bao gồm</string> <!-- used in the time range dialog to determine if edge value should be included -->
 
     <string name="pref_user_notifications">Thông báo người dùng</string>
 
@@ -662,11 +662,11 @@
     <string name="speak_time_format_with_minutes">Nói thời gian với phút</string>
     <string name="speak_time_on_the_hour">Nói thời gian trong giờ</string>
 
-    <string name="show_actions_switches_title">Công tắc hành động</string><!-- option to show enable/disable switches for actions -->
+    <string name="show_actions_switches_title">Công tắc hành động</string> <!-- option to show enable/disable switches for actions -->
     <string name="show_actions_switches_on">Hiển thị công tắc để vô hiệu hoá hành động.</string>
     <string name="show_actions_switches_off">Ẩn công tắc để vô hiệu hóa các tác vụ.</string>
 
-    <string name="operating_modes_settings">Chế độ điều hành</string><!-- name of menu with different mode settings e.g. Do Not Disturb, vibrate mode -->
+    <string name="operating_modes_settings">Chế độ điều hành</string> <!-- name of menu with different mode settings e.g. Do Not Disturb, vibrate mode -->
     <string name="operating_modes_settings_summary">Đừng làm phiền, chế độ rung, v.v...</string>
     <string name="time_settings">Thời gian</string>
     <string name="sound_settings">Âm thanh</string>
@@ -679,12 +679,12 @@
     <string name="error_corrupted_sound">Âm thanh đã bị hỏng</string>
 
     <!-- premium -->
-    <string name="dialog_premium_trial_text">Nhận t.cả tính năng h.tại và t.lai.</string><!-- should be short -->
-    <string name="dialog_no_thanks">Không, cảm ơn</string><!-- should be short -->
-    <string name="dialog_premium_unlock_button_text">Mở khóa</string><!-- should be short -->
-    <string name="dialog_premium_trial_text2">Nhấn \"Mở khóa\" để bắt đầu dùng thử miễn phí.</string><!-- use same text as in dialog_premium_unlock_button_text -->
-    <string name="dialog_premium_trial_button_text">Bắt đầu dùng thử m.phí ngay</string><!-- should be short -->
-    <string name="dialog_premium_trial_title">Mở khóa chức năng cao cấp</string><!-- should be short -->
+    <string name="dialog_premium_trial_text">Nhận t.cả tính năng h.tại và t.lai.</string> <!-- should be short -->
+    <string name="dialog_no_thanks">Không, cảm ơn</string> <!-- should be short -->
+    <string name="dialog_premium_unlock_button_text">Mở khóa</string> <!-- should be short -->
+    <string name="dialog_premium_trial_text2">Nhấn \"Mở khóa\" để bắt đầu dùng thử miễn phí.</string> <!-- use same text as in dialog_premium_unlock_button_text -->
+    <string name="dialog_premium_trial_button_text">Bắt đầu dùng thử m.phí ngay</string> <!-- should be short -->
+    <string name="dialog_premium_trial_title">Mở khóa chức năng cao cấp</string> <!-- should be short -->
     <string name="dialog_premium_features_description">Hành động bạn đã thử cố gắng thực hiện các tính năng cao cấp sau:</string>
     <string name="feature_custom_sounds">Âm thanh tùy chỉnh</string>
     <string name="feature_multiple_notifications">Đa thông báo</string>
@@ -692,15 +692,15 @@
     <string name="feature_premium_content">Nội dung cao cấp</string>
     <string name="feature_premium_sounds">Âm thanh cao cấp</string>
     <string name="feature_strike_the_hour">Chạy giờ</string>
-    <string name="premium_get_plus">Nhận t.cả tính năng h.tại</string><!-- should be short -->
-    <string name="premium_get_sounds">Nhận t.cả â.thanh trong ứ.dụng</string><!-- should be short -->
-    <string name="premium_get_plus_sounds">Nhận t.cả tính năng và â.thanh h.tại</string><!-- should be short -->
+    <string name="premium_get_plus">Nhận t.cả tính năng h.tại</string> <!-- should be short -->
+    <string name="premium_get_sounds">Nhận t.cả â.thanh trong ứ.dụng</string> <!-- should be short -->
+    <string name="premium_get_plus_sounds">Nhận t.cả tính năng và â.thanh h.tại</string> <!-- should be short -->
     <string name="lock_icon">Khóa biểu tượng</string>
     <string name="premium_sound_lock">Đây là âm thanh cao cấp yêu cầu mở khóa trước khi sử dụng.</string>
     <string name="premium_feature_lock">Đây là tính năng cao cấp yêu cầu mở khóa trước khi sử dụng.</string>
     <string name="change_subscription">Thay đổi đăng ký</string>
 
-    <string name="vibrate_seconds">Rung %ss</string><!-- s at the end is for seconds, %s will be replaced vy value e.g. "Vibrate 1.2s" -->
+    <string name="vibrate_seconds">Rung %ss</string> <!-- s at the end is for seconds, %s will be replaced vy value e.g. "Vibrate 1.2s" -->
     <string name="wait_and_vibrate_seconds">Chờ %ss, rung %ss</string>
 
 </resources>
