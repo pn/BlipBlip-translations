@@ -201,10 +201,10 @@
     <string name="pref_vibrate_wear_title">Rung trên thiết bị Android Wear</string>
     <string name="pref_vibrate_wear_on">Nếu rung được kích hoạt thì khi kết nối đến thiết bị Android Wear nó cũng sẽ rung</string>
     <string name="pref_vibrate_wear_off">Không rung trên thiết bị Android Wear</string>
-    <string name="pref_vibrate_wearable_title">@string/pref_vibrate_wear_title</string> <!-- "Rung trên thiết bị đã kết nối"-->
-    <string name="pref_vibrate_wearable_on">@string/pref_vibrate_wear_on</string> <!-- "Nếu rung đã kích hoạt thì cũng sẽ rung trên các thiết bị đã kết nối (ví dụ: đồng hồ thông minh)"--> <!-- not used anymore -->
+    <string name="pref_vibrate_wearable_title">Rung trên thiết bị đã kết nối</string>
+    <string name="pref_vibrate_wearable_on">Nếu rung đã kích hoạt thì cũng sẽ rung trên các thiết bị đã kết nối (ví dụ: đồng hồ thông minh)</string>
     <string name="pref_vibrate_wearable_on2">Nếu rung đã kích hoạt thì cũng sẽ rung trên các thiết bị đã kết nối (ví dụ: đồng hồ thông minh. Yêu cầu thêm vào thông báo hệ thống.</string>
-    <string name="pref_vibrate_wearable_off">@string/pref_vibrate_wear_off</string> <!-- "Đừng rung trên thiết bị đeo tay đã kết nối"-->
+    <string name="pref_vibrate_wearable_off">Đừng rung trên thiết bị đeo tay đã kết nối</string>
 
     <!-- Vibrate on Main Device -->
     <string name="pref_vibrate_on_main_device">Rung trên thiết bị chính</string> <!-- Translation note: "device" is used because it can be phone or tablet. Related with pref_vibrate_wear_title option. -->
