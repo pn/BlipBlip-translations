@@ -59,21 +59,21 @@
 
     <!-- Sound -->
     <string name="sound_text">Мелодия</string>
-    <string name="sound_blipblip">BlipBlip</string> <!-- TODO translate -->
+    <string name="sound_blipblip">BlipBlip</string>
     <string name="sound_casio_watch">Casio</string>
     <string name="sound_gong">Гонг</string>
     <string name="sound_ships_bell">Корабна камбана</string>
     <string name="sound_double_ships_bell">Двойна корабна камбана</string>
     <string name="sound_cuckoo">Кукувичка</string>
-    <string name="sound_watch_beep">Watch beep</string> <!-- TODO translate -->
-    <string name="sound_big_ben">Big Ben</string> <!-- TODO translate -->
-    <string name="sound_big_ben_strikes">Big Ben Strikes</string> <!-- TODO translate -->
-    <string name="sound_bubble">Bubble</string> <!-- TODO translate -->
-    <string name="sound_bird">Bird %1$s</string> <!-- TODO translate -->
+    <string name="sound_watch_beep">Писукане</string>
+    <string name="sound_big_ben">Биг Бен</string>
+    <string name="sound_big_ben_strikes">Биг Бен кръгъл час</string>
+    <string name="sound_bubble">Мехурче</string>
+    <string name="sound_bird">Птица %1$s</string>
     <string name="sound_cartoon">Cartoon %1$s</string> <!-- TODO translate -->
-    <string name="sound_cat">Cat %1$s</string> <!-- TODO translate -->
-    <string name="sound_dog">Dog %1$s</string> <!-- TODO translate -->
-    <string name="sound_rooster">Rooster</string> <!-- TODO translate -->
+    <string name="sound_cat">Котка %1$s</string>
+    <string name="sound_dog">Куче %1$s</string>
+    <string name="sound_rooster">Петел</string> 
 
     <!-- Volume -->
     <string name="text_seek_volume">Сила на звука</string>
@@ -139,7 +139,7 @@
     <!-- Quiet Days -->
     <string name="quiet_days_title">Тихи дни</string>
     <string name="days_none">Няма</string>
-    <string name="days_everyday">Everyday</string> <!-- TODO translate -->
+    <string name="days_everyday">Всеки ден</string> 
     <string name="silent_day">Тих ден</string>
     <string name="quiet_day_warning">Известяването е забранено, понеже днес е \"тих ден\".</string>
     <string name="toast_change_quiet_days">Моля, променете настройката за \"Тихи дни\", за да използвате BlipBlip днес.</string>
@@ -201,10 +201,10 @@
     <string name="pref_vibrate_wear_title">Вибрация на Wear</string>
     <string name="pref_vibrate_wear_on">Ако вибрацията е разрешена, вибрирай и на свързано Android Wear устройство</string>
     <string name="pref_vibrate_wear_off">Не вибрирай на Android Wear</string>
-    <string name="pref_vibrate_wearable_title">@string/pref_vibrate_wear_title</string> <!-- TODO translate "Vibrate on connected device"-->
-    <string name="pref_vibrate_wearable_on">@string/pref_vibrate_wear_on</string> <!-- TODO translate "If vibration is enabled vibrate also on connected wearable device (e.g. smart watch)"--> <!-- not used anymore -->
-    <string name="pref_vibrate_wearable_on2">If vibration is enabled vibrate also on connected wearable device (e.g. smart watch). Requires adding system notification.</string> <!-- TODO translate -->
-    <string name="pref_vibrate_wearable_off">@string/pref_vibrate_wear_off</string> <!-- TODO translate "Do not vibrate on connected wearable device"-->
+    <string name="pref_vibrate_wearable_title">Вибриране на свързано устройство</string>
+    <string name="pref_vibrate_wearable_on">Ако вибрирането е разрешено, вибрирай и на свързано устройство (като например умен часовник)</string> <!-- "If vibration is enabled vibrate also on connected wearable device (e.g. smart watch)"--> <!-- not used anymore -->
+    <string name="pref_vibrate_wearable_on2">Ако вибрирането е разрешено, вибрирай и на свързано устройство (като например умен часовник). Изисква добавяне на системно известие.</string> 
+    <string name="pref_vibrate_wearable_off">Без вибриране на свързано устройство</string>
 
     <!-- Vibrate on Main Device -->
     <string name="pref_vibrate_on_main_device">Вибриране на главното устройство</string> <!-- Translation note: "device" is used because it can be phone or tablet. Related with pref_vibrate_wear_title option. -->
@@ -213,25 +213,25 @@
 
     <!-- Action Buttons -->
     <string name="pref_notification_action_buttons">Бутони за действие</string> <!-- Preference name for choosing which buttons are visible on notification -->
-    <string name="notif_action_play">Свири</string> <!-- Description of action button. This should refer to notif_action_play -->
+    <string name="notif_action_play">Свири</string>
     <string name="notif_action_play_desc">Изпълнение на известието (звук, вибрация и т.н.) също като от приложението.</string>
-    <string name="notif_action_stop">Stop</string> <!-- TODO translate --> <!-- Description of action button. This should refer to notif_action_stop -->
-    <string name="notif_action_stop_desc">Stop playback of notification.</string> <!-- TODO translate -->
+    <string name="notif_action_stop">Прекрати</string>
+    <string name="notif_action_stop_desc">Прекрати изпълнението на известието.</string>
     <string name="notif_action_disable_or_enable">Разреши/Забрани</string> <!-- Description of action button. This refers to notif_action_enable and notif_action -->
     <string name="notif_action_disable_or_enable_desc">Бутон за забраняване или разрешаване на известията.</string>
-    <string name="notif_action_skip">Пропусни</string> <!-- this should refer to notif_button_skip -->
+    <string name="notif_action_skip">Пропусни</string>
     <string name="notif_action_skip_desc">Пропуска текстово известие.</string>
-    <string name="notif_action_snooze">Отложи</string> <!-- this should refer to notif_button_snooze -->
+    <string name="notif_action_snooze">Отложи</string>
     <string name="notif_action_snooze_desc">Отлага звъняща аларма или предстоящо известие.</string>
-    <string name="notif_action_dismiss">Откажи</string> <!-- this should refer to notif_button_dismiss -->
-    <string name="notif_action_dismiss_desc">Отказвна звъняща аларма.</string>
-    <string name="notif_button_play">Свири</string> <!-- Action button label in notification having same action as play button in the app - plays the notificaton for testing purposes. This text should be short, because it will be shown on notification button where there can be 3 of them -->
-    <string name="notif_button_stop">Stop</string> <!-- TODO translate --> <!-- Stops playback of notification. Should be short. -->
-    <string name="notif_button_enable">Разреши</string> <!-- This text should be short, because it will be shown on notification button where there can be 3 of them. -->
-    <string name="notif_button_disable">Забрани</string> <!-- This text should be short, because it will be shown on notification button where there can be 3 of them. -->
-    <string name="notif_button_skip">Пропусни</string> <!-- This text should be short, because it will be shown on notification button where there can be 3 of them. -->
-    <string name="notif_button_snooze">Отложи</string> <!-- This text should be short, because it will be shown on notification button where there can be 3 of them. -->
-    <string name="notif_button_dismiss">Откажи</string> <!-- This text should be short, because it will be shown on notification button where there can be 3 of them. -->
+    <string name="notif_action_dismiss">Откажи</string>
+    <string name="notif_action_dismiss_desc">Отказва звъняща аларма.</string>
+    <string name="notif_button_play">Свири</string>
+    <string name="notif_button_stop">Прекрати</string>
+    <string name="notif_button_enable">Разреши</string>
+    <string name="notif_button_disable">Забрани</string>
+    <string name="notif_button_skip">Пропусни</string>
+    <string name="notif_button_snooze">Отложи</string>
+    <string name="notif_button_dismiss">Откажи</string> 
 
     <!-- Custom Texts -->
     <string name="pref_custom_texts">Известия със собствено съдържание</string>
@@ -241,8 +241,8 @@
     <string name="pref_notification_description_title">Описание на известието</string>
 
     <!-- Reliability -->
-    <string name="pref_reliability">Настройки за надеждност</string> <!-- title of settings section meant for all settings which may improve running of the app without issues -->
-    <string name="reliability_warning">Променянето на тези настройки може да повлияе на надеждността на приложението.</string> <!-- This message should be as short as possible. There is risk of cutting it off if it will be too long -->
+    <string name="pref_reliability">Настройки за надеждност</string>
+    <string name="reliability_warning">Променянето на тези настройки може да повлияе на надеждността на приложението!</string> <!-- This message should be as short as possible. There is risk of cutting it off if it will be too long -->
 
     <!-- Alarm Mode -->
     <string name="notif_as_alarm_title">Режим на аларма</string>
@@ -260,15 +260,15 @@
 
     <!-- Low Valume -->
     <string name="pref_low_volume_fix">Оправяне на нисък звук</string>
-    <string name="pref_low_volume_fix_on">Оправя ниския звук при някои устройства на Моторола с rising volume feature. Може да забави изпълнението на звука с няколко секунди.</string>
+    <string name="pref_low_volume_fix_on">Оправя ниския звук при някои устройства на Моторола с функцията rising volume. Може да забави изпълнението на звука с няколко секунди.</string>
     <string name="pref_low_volume_fix_off">Изключено. Ненужно за повечето устройства.</string>
 
     <!-- Foreground Service -->
     <string name="pref_foreground_service_title">Услуга на преден план</string>
     <string name="pref_foreground_service_on">Показва известие, което не може да бъде отхвърлено и разрешава услуга на заден план, която да предотврати спирането на приложението.</string>
     <string name="pref_foreground_service_off">Услугата на преден план е забранена.</string>
-    <string name="msg_foreground_service_on">Услугата на преден план бе разрешена</string> <!-- message displayed when foreground service is enabled without user interacting with this option -->
-    <string name="msg_foreground_service_off">Услугата на преден план бе забранена</string> <!-- message displayed when foreground service is disabled without user interacting with this option -->
+    <string name="msg_foreground_service_on">Услугата на преден план бе разрешена</string>
+    <string name="msg_foreground_service_off">Услугата на преден план бе забранена</string>
     <string name="pref_keep_service_title">Услуга на заден план</string>
     <string name="pref_keep_service_on">Дръж услугата на заден план постоянно включена (може да използва повече памет). Ако известието е постоянно, услугата излиза на преден план.</string>
     <string name="pref_keep_service_off">Започни услуга на заден план само когато е необходимо (може да използва по-малко памет).</string>
@@ -280,7 +280,7 @@
 
     <!-- Notification Question -->
     <string name="notification_question_title">Показване на известие?</string>
-    <string name="notification_question_message2">Ако го забраните, после може да го разрешите в настройките.</string> <!-- Displayed right after notification_question_title text -->
+    <string name="notification_question_message2">Ако го забраните, после може да го разрешите в настройките.</string>
     <string name="dont_show_again">Не питай отново</string>
     <string name="display_notification">Показване</string>
     <string name="hide_notification">Скриване</string>
@@ -340,7 +340,7 @@
     <string name="about_version">Версия:</string>
     <string name="about_authors">Създатели</string>
     <string name="about_coding">Програмиране</string>
-    <string name="about_testing">Testing</string> <!-- TODO translate -->
+    <string name="about_testing">Изпробване</string>
     <string name="about_graphics">Дизайн</string>
     <string name="about_translations">Преводи</string>
     <string name="about_send_feedback">Пращане на отзив</string>
@@ -352,30 +352,30 @@
     <string name="title_visual_settings">Графични настройки</string>
 
     <!-- Unsorted -->
-    <string name="warn_notification_skip">Some notifications will be skipped.</string> <!-- TODO translate --> <!-- Please make this as short as possible. This warning is displayed when user chooses to skip few upcoming notifications. -->
-    <string name="warn_alarm_skip">Some alarms will be skipped.</string> <!-- TODO translate --> <!-- Please make this as short as possible. This warning is displayed when user chooses to skip few upcoming alarms. -->
-    <string name="warn_volume_zero">Current volume is set to zero.</string> <!-- TODO translate --> <!-- Please make this as short as possible. This warning is displayed when current system volume is set to 0. -->
-    <string name="huawei_protected_apps_title">Huawei Protected Apps</string> <!-- TODO translate --> <!-- Title of dialog window -->
-    <string name="huawei_protected_apps_msg">%s requires to be enabled in "Protected Apps" to function properly.</string> <!-- TODO translate --> <!-- %s will be replaced with app name -->
-    <string name="pref_low_mem_restart_title">Low memory restart</string> <!-- TODO translate -->
-    <string name="pref_low_mem_restart_on">Try restarting app if device is low on memory. This will not work on all devices. It is not needed on most devices (may use a bit more battery).</string>
-    <string name="pref_low_mem_restart_off">Do not try restarting app if device is low on memory.</string> <!-- TODO translate -->
-    <string name="pref_heading_notification_accuracy">Notification accuracy</string> <!-- TODO translate --> <!-- punctuality -->
-    <string name="pref_delay_prevention_title">Prevent delays</string> <!-- TODO translate -->
-    <string name="pref_delay_prevention_on">Tries to actively prevent notification delays which happen on some devices. May use more battery.</string> <!-- TODO translate -->
-    <string name="pref_delay_prevention_off">Does not try to prevent notification delays which may occur on some devices. Uses less battery.</string> <!-- TODO translate -->
-    <string name="pref_aggressive_delay_prevention_title">Prevent delays aggressively</string> <!-- TODO translate -->
-    <string name="pref_aggressive_delay_prevention_on">Notifications should be more often accurate. May use more battery.</string> <!-- TODO translate -->
-    <string name="pref_aggressive_delay_prevention_off">Notifications may be late in rare cases. Uses less battery.</string> <!-- TODO translate -->
-    <string name="pref_ignore_delayed_title">Ignore delayed notifications</string> <!-- TODO translate -->
-    <string name="pref_ignore_delayed_on">If notification is considered delayed it won\'t be shown or played.</string> <!-- TODO translate -->
-    <string name="pref_ignore_delayed_off">Notifications will be shown or played even when they are delayed.</string> <!-- TODO translate -->
-    <string name="pref_audio_focus_title">Audio focus</string> <!-- TODO translate --> <!-- option to improve ability to hear app sounds by decreasing volume of other apps or pausing them -->
-    <string name="pref_audio_focus_on">While app plays sound, audio from other apps will be quieter or paused.</string> <!-- TODO translate -->
-    <string name="pref_audio_focus_off">Audio from other apps will be played normally.</string> <!-- TODO translate -->
-    <string name="pref_audio_focus_dont_duck_title">Pause playback</string> <!-- TODO translate -->
-    <string name="pref_audio_focus_dont_duck_on">While app is playing sound other apps may pause their audio.</string> <!-- TODO translate -->
-    <string name="pref_audio_focus_dont_duck_off">While app is playing sound other apps may lower volume of their audio.</string> <!-- TODO translate -->
+    <string name="warn_notification_skip">Някои известия ще бъдат пропуснати.</string> <!-- Please make this as short as possible. This warning is displayed when user chooses to skip few upcoming notifications. -->
+    <string name="warn_alarm_skip">Някои аларми ще бъдат пропуснати.</string> <!-- Please make this as short as possible. This warning is displayed when user chooses to skip few upcoming alarms. -->
+    <string name="warn_volume_zero">Сега нивото на звука е на 0.</string> <!-- Please make this as short as possible. This warning is displayed when current system volume is set to 0. -->
+    <string name="huawei_protected_apps_title">Защитени приложения на Хуявей</string> <!-- Title of dialog window -->
+    <string name="huawei_protected_apps_msg">%s трябва да бъде разрешено в "Защитени приложения", за да работи правилно.</string> <!-- %s will be replaced with app name -->
+    <string name="pref_low_mem_restart_title">Презареждане при малко свободна памет</string>
+    <string name="pref_low_mem_restart_on">Пробвай презареждане на приложението, ако устройството има малко свободна памет. Това няма да свърши работа при всички устройства. На повечето устройства не е необходимо (може да използва малко повече батерия).</string>
+    <string name="pref_low_mem_restart_off">Недей да презареждаш приложението, ако устройството има малко свободна памет.</string>
+    <string name="pref_heading_notification_accuracy">Точност на известията</string> <!-- punctuality -->
+    <string name="pref_delay_prevention_title">Предотвратяване на забавяния</string>
+    <string name="pref_delay_prevention_on">Опитва се да предотврати закъснения на известията, които се получават на някои устройства. Може да използва повече батерия.</string>
+    <string name="pref_delay_prevention_off">Не се опитва да предотврати забавяния на известията, които могат да се получат при някои устройства. Използва по-малко батерия.</string>
+    <string name="pref_aggressive_delay_prevention_title">Настоятелно предотвратяване на закъсненията</string>
+    <string name="pref_aggressive_delay_prevention_on">Известията трябва да бъдат по-точни. Може да използва повече батерия.</string>
+    <string name="pref_aggressive_delay_prevention_off">В редки случаи известията може да закъснеят. Използва по-малко батерия.</string>
+    <string name="pref_ignore_delayed_title">Пропускане на закъснели известия</string>
+    <string name="pref_ignore_delayed_on">Ако известието закъснее то няма да бъде показано или изпълнено.</string>
+    <string name="pref_ignore_delayed_off">Известията ще бъдат показани или изпълнени дори да са закъснели.</string>
+    <string name="pref_audio_focus_title">Фокусиране на звука</string> <!-- option to improve ability to hear app sounds by decreasing volume of other apps or pausing them -->
+    <string name="pref_audio_focus_on">Когато приложението изпълнява звук, музиката от другите приложения ще бъде намалена или прекъсната.</string>
+    <string name="pref_audio_focus_off">Звуците от другите приложения ще се изпълняват безпрепятствено.</string>
+    <string name="pref_audio_focus_dont_duck_title">Прекъсване на фоновите звуци</string>
+    <string name="pref_audio_focus_dont_duck_on">Когато приложението изпълнява звук, другите приложения може да прекъснат своите звуци.</string>
+    <string name="pref_audio_focus_dont_duck_off">Когато приложението изпълнява звук, другите приложения може да намалят силата на своите звуци.</string>
 
     <!-- Plurals -->
     <!-- check which quantities and how should be used for given language here http://www.unicode.org/cldr/charts/29/supplemental/language_plural_rules.html -->
@@ -383,336 +383,337 @@
     <plurals name="number_of_hours">
         <!-- check which quantities and how should be used for given language here http://www.unicode.org/cldr/charts/29/supplemental/language_plural_rules.html -->
         <!--item quantity="zero"></item-->
-        <item quantity="one">%d hour</item>
+        <item quantity="one">%d час</item>
         <!--item quantity="two"></item-->
         <!--item quantity="few"></item-->
         <!--item quantity="many"></item-->
-        <item quantity="other">%d hours</item>
+        <item quantity="other">%d часа</item>
     </plurals>
     <plurals name="number_of_minutes">
-        <item quantity="one">%d minute</item>
-        <item quantity="other">%d minutes</item>
+        <item quantity="one">%d минута</item>
+        <item quantity="other">%d минути</item>
     </plurals>
     <plurals name="number_of_seconds">
-        <item quantity="one">%d second</item>
-        <item quantity="other">%d seconds</item>
+        <item quantity="one">%d секунда</item>
+        <item quantity="other">%d секунди</item>
     </plurals>
     <plurals name="repeat_every_x_hours"> <!-- "X hours" as in "Repeat every X hours" is different in some languages (e.g. Polish) from regular "X hours" -->
-        <item quantity="one">%d hour</item>
-        <item quantity="other">%d hours</item>
+        <item quantity="one">%d час</item>
+        <item quantity="other">%d часа</item>
     </plurals>
     <plurals name="repeat_every_x_minutes">
-        <item quantity="one">%d minute</item>
-        <item quantity="other">%d minutes</item>
+        <item quantity="one">%d минута</item>
+        <item quantity="other">%d минути</item>
     </plurals>
     <plurals name="repeat_every_x_seconds">
-        <item quantity="one">%d second</item>
-        <item quantity="other">%d seconds</item>
+        <item quantity="one">%d секунда</item>
+        <item quantity="other">%d секунди</item>
     </plurals>
 
     <plurals name="repeat_number_of_times">
-        <item quantity="one">%d time</item>
-        <item quantity="other">%d times</item>
+        <item quantity="one">%d път</item>
+        <item quantity="other">%d пъти</item>
     </plurals>
 
-    <string name="pref_reset_accuracy_params">Reset parameters</string> <!-- TODO translate -->
-    <string name="pref_reset_accuracy_params_desc">Resets internal parameters which improve notification accuracy.</string> <!-- TODO translate -->
-    <string name="warn_foreground_service_disabled">Foreground service setting has been disabled. This may increase chance that background process is killed and app stops working.</string> <!-- TODO translate -->
+    <string name="pref_reset_accuracy_params">Презареди параметрите</string>
+    <string name="pref_reset_accuracy_params_desc">Презарежда вътрешните параметри, с което подобрява точността на известията.</string>
+    <string name="warn_foreground_service_disabled">Услугата на преден план бе забранена. Това може да увеличи възможността процесът на заден план да бъде прекратен и приложението да се изключи.</string>
 
     <!-- Airplane mode -->
-    <string name="pref_airplane_mode">Airplane mode</string> <!-- TODO translate -->
-    <string name="off_airplane">Disable in airplane mode</string> <!-- TODO translate -->
-    <string name="while_airplane_toast">BlipBlip notifications are now disabled, because you are in airplane mode.</string> <!-- TODO translate -->
+    <string name="pref_airplane_mode">Самолетен режим</string>
+    <string name="off_airplane">Забрани по време на самолетен режим</string>
+    <string name="while_airplane_toast">Известията на BlipBlip са изключени, понеже сте в самолетен режим.</string>
 
-    <string name="setting_system_default">System default</string> <!-- TODO translate -->
-    <string name="pref_time_format_title">Time format</string> <!-- TODO translate -->
-    <string name="time_format_12h">12 hour clock</string> <!-- TODO translate -->
-    <string name="time_format_24h">24 hour clock</string> <!-- TODO translate -->
+    <string name="setting_system_default">Използвай системната настройка</string>
+    <string name="pref_time_format_title">Времеви формат</string>
+    <string name="time_format_12h">12 часов</string>
+    <string name="time_format_24h">24 часов</string>
 
-    <string name="theme_blipblip">BlipBlip</string> <!-- TODO translate -->
-    <string name="theme_standard">Standard</string> <!-- TODO translate -->
-    <string name="theme_blue">Blue</string> <!-- TODO translate -->
-    <string name="theme_yellow">Yellow</string> <!-- TODO translate -->
-    <string name="theme_purple">Purple</string> <!-- TODO translate -->
-    <string name="theme_red">Red</string> <!-- TODO translate -->
-    <string name="theme_green">Green</string> <!-- TODO translate -->
-    <string name="theme_blue_gray">Blue grey</string> <!-- TODO translate -->
-    <string name="theme_orange">Orange</string> <!-- TODO translate -->
-    <string name="theme_indigo">Indigo</string> <!-- TODO translate -->
+    <string name="theme_blipblip">BlipBlip</string>
+    <string name="theme_standard">Обикновена</string>
+    <string name="theme_blue">Синя</string>
+    <string name="theme_yellow">Жълта</string>
+    <string name="theme_purple">Лилава</string>
+    <string name="theme_red">Червена</string>
+    <string name="theme_green">Зелена</string>
+    <string name="theme_blue_gray">Синьо-сива</string>
+    <string name="theme_orange">Оранжева</string>
+    <string name="theme_indigo">Индиго</string>
     <string name="theme_cyan">Cyan</string> <!-- TODO translate -->
     <string name="theme_teal">Teal</string> <!-- TODO translate -->
 
-    <string name="pref_color_theme">Theme</string> <!-- TODO translate -->
-    <string name="cycle_themes_message">Switch themes using volume buttons.</string> <!-- TODO translate -->
-    <string name="cycle_themes_finish">Finish</string> <!-- TODO translate -->
-    <string name="cycle_themes">Cycle themes</string> <!-- TODO translate -->
-    <string name="cycle_themes_description">Allows switching themes using volume buttons.</string> <!-- TODO translate -->
-    <string name="color_next_notification_bar">Color next notification bar</string> <!-- TODO translate -->
-    <string name="color_next_notification_bar_on">Use color background for next notification bar.</string> <!-- TODO translate -->
-    <string name="color_next_notification_bar_off">Use gray background for next notification bar.</string> <!-- TODO translate -->
-    <string name="dark_theme">Dark theme</string> <!-- TODO translate -->
-    <string name="dark_theme_on">Use dark theme</string> <!-- TODO translate -->
-    <string name="dark_theme_off">Use light theme</string> <!-- TODO translate -->
+    <string name="pref_color_theme">Тема</string>
+    <string name="cycle_themes_message">Превключвайте темите чрез копчетата за звука.</string>
+    <string name="cycle_themes_finish">Готово</string>
+    <string name="cycle_themes">Превъртане на темите</string>
+    <string name="cycle_themes_description">Позволява превключване на темите чрез копчетата за звука.</string>
+    <string name="color_next_notification_bar">Оцветяване на полето на следващото известие</string>
+    <string name="color_next_notification_bar_on">Използвай цветен фон за следващото известие.</string>
+    <string name="color_next_notification_bar_off">Използвай сив фон за следващото известие.</string>
+    <string name="dark_theme">Тъмна тема</string>
+    <string name="dark_theme_on">Използвай тъмна тема</string>
+    <string name="dark_theme_off">Използвай светла тема</string>
 
-    <string name="title_activity_sounds">Sounds</string> <!-- TODO translate -->
+    <string name="title_activity_sounds">Звуци</string>
     <string name="title_activity_sound">@string/sound_text</string>
-    <string name="title_activity_vibrations">Vibrations</string> <!-- TODO translate -->
+    <string name="title_activity_vibrations">Вибрации</string>
     <string name="title_activity_vibration">@string/vibrate</string>
-    <string name="action_delete">Delete</string> <!-- TODO translate -->
-    <string name="action_add_vibration_pattern">Add entry</string> <!-- TODO translate -->
-    <string name="dialog_title_deletion">Confirm deletion</string> <!-- TODO translate -->
-    <string name="dialog_message_confirm">Are you sure?</string> <!-- TODO translate -->
-    <string name="vibration_name">Vibration name</string> <!-- TODO translate -->
-    <string name="action_restore_defaults">Restore defaults</string> <!-- TODO translate --> <!-- e.g. for sounds or vibrations -->
-    <string name="restore_defaults_title"> </string> <!-- TODO translate --> <!-- not used anymore -->
-    <string name="restore_defaults_message"> </string> <!-- TODO translate --> <!-- not used anymore -->
-    <string name="restore_defaults_message2">Would you like to restore default values?</string> <!-- TODO translate -->
-    <string name="action_add_system_notification_sound">Add notification sound</string> <!-- TODO translate -->
-    <string name="add_vibration">Add vibration</string> <!-- TODO translate -->
-    <string name="edit">Edit</string> <!-- TODO translate --> <!-- Name of action to edit list of sounds or list of vibrations, should be short -->
-    <string name="editing">Editing</string> <!-- TODO translate --> <!-- Displayed in edit mode -->
-    <string name="error_file_open_failed">Failed to open file.</string> <!-- TODO translate -->
-    <string name="play_vibration">Vibrate</string> <!-- TODO translate --> <!-- description of action of a button to perform vibration -->
-    <string name="play_sound">Play sound</string> <!-- TODO translate --> <!-- description of action of a button to play sound -->
+    <string name="action_delete">Изтрий</string>
+    <string name="action_add_vibration_pattern">Създаване</string>
+    <string name="dialog_title_deletion">Потвърждаване на изтриването</string>
+    <string name="dialog_message_confirm">Уверени ли сте?</string>
+    <string name="vibration_name">Име на вибрацията</string>
+    <string name="action_restore_defaults">Възстановяване на началните</string> <!-- e.g. for sounds or vibrations -->
+    <string name="restore_defaults_title"> </string> <!-- not used anymore -->
+    <string name="restore_defaults_message"> </string> <!-- not used anymore -->
+    <string name="restore_defaults_message2">Искате ли да възстановите началните стойности?</string>
+    <string name="action_add_system_notification_sound">Добавяне на звук  за известие</string>
+    <string name="add_vibration">Добавяне на вибрация</string>
+    <string name="edit">Редактирай</string> <!-- Name of action to edit list of sounds or list of vibrations, should be short -->
+    <string name="editing">Редактиране</string> <!-- Displayed in edit mode -->
+    <string name="error_file_open_failed">Неуспешно отваряне на файла.</string>
+    <string name="play_vibration">Вибрирай</string> <!-- description of action of a button to perform vibration -->
+    <string name="play_sound">Изпълни звука</string> <!-- description of action of a button to play sound -->
     <string name="drag_handle">Drag handle</string> <!-- TODO translate -->
     <string name="app_icon_desc">App icon</string> <!-- TODO translate -->
-    <string name="select_audio_file">Select Audio</string> <!-- TODO translate -->
-    <string name="select_notification_tone">Select Tone</string> <!-- TODO translate -->
-    <string name="add_sound_to_blipblip">Add to BlipBlip</string> <!-- TODO translate -->
-    <string name="permission_denied">Permission denied</string> <!-- TODO translate -->
-    <string name="permission_denied_message">BlipBlip does not have permission to read the file.\nDo you want to install add-on which has this permission?\nYou can also use some other app which supports transferring files without need for additional permission (e.g. Google Drive).</string> <!-- TODO translate -->
-    <string name="permission_denied_message_no_addon">BlipBlip does not have permission to read the file.\nPlease use some other app that shares file without need for additional permission (e.g. Google Drive).</string> <!-- TODO translate -->
-    <string name="install">Install</string> <!-- TODO translate --> <!-- action text for button to install additional app -->
-    <string name="failed_run_addon">Failed to launch BlipBlip Add-on</string> <!-- TODO translate -->
-    <string name="update_required">Update required</string> <!-- TODO translate -->
-    <string name="update_required_message">BlipBlip Add-on plugin requires update. Would you like to update it now?</string> <!-- TODO translate -->
-    <string name="update_required_action">Update</string> <!-- TODO translate --> <!-- action to update app -->
+    <string name="select_audio_file">Избор на звуков файл</string>
+    <string name="select_notification_tone">Избор на тон</string>
+    <string name="add_sound_to_blipblip">Добави в BlipBlip</string>
+    <string name="permission_denied">Отказан достъп</string>
+    <string name="permission_denied_message">BlipBlip няма необходимите права за четене на този файл.\nИскате ли да установите добавка, която има такива права?\nИли може да използвате друго приложение, което поддържа прехвърляне на файлове без нужда от допълнителни права (напр. Гугъл Диск).</string>
+    <string name="permission_denied_message_no_addon">BlipBlip няма права за четене на този файл.\nМоля, използвайте друго приложение, което споделя файлове без нужда от допълнителни права (напр. Гугъл Диск).</string>
+    <string name="install">Установи</string>
+    <string name="failed_run_addon">Неуспешно изпълнение на добавка за BlipBlip</string>
+    <string name="update_required">Изисква се обновление</string>
+    <string name="update_required_message">Добавка за BlipBlip се нуждае от обновяване. Желаете ли да я обновите сега?</string>
+    <string name="update_required_action">Обнови</string>
 
     <!-- Menu drawer strings -->
-    <string name="drawer_open">Open navigation drawer</string> <!-- TODO translate -->
-    <string name="drawer_close">Close navigation drawer</string> <!-- TODO translate -->
+    <string name="drawer_open">Отвори полето за навигация</string>
+    <string name="drawer_close">Затвори полето за навигация</string>
 
-    <string name="more_actions">More actions</string> <!-- TODO translate -->
-    <string name="start_time">Start time</string> <!-- TODO translate -->
-    <string name="end_time">End time</string> <!-- TODO translate -->
-    <string name="whole_day">Whole day</string> <!-- TODO translate -->
+    <string name="more_actions">Още действия</string>
+    <string name="start_time">Начален час</string>
+    <string name="end_time">Краен час</string>
+    <string name="whole_day">Целия ден</string>
     <string name="enable_screen">Enable screen</string> <!-- TODO translate -->
-    <string name="delay_to_next_chime">Wait for</string> <!-- TODO translate -->
-    <string name="action_rename">Rename</string> <!-- TODO translate -->
-    <string name="pref_accessibility">Accessibility</string> <!-- TODO translate -->
-    <string name="pref_swipe">Swipe</string> <!-- TODO translate -->
-    <string name="pref_swipe_on">Swiping enabled on list items</string> <!-- TODO translate -->
-    <string name="pref_swipe_off">Swiping disabled on list items</string> <!-- TODO translate -->
-    <string name="pref_action_menus">Action menus</string> <!-- TODO translate -->
-    <string name="pref_action_menus_on">Show menus with actions that would otherwise require gestures (e.g. swiping). Useful when using TalkBack.</string> <!-- TODO translate -->
-    <string name="pref_action_menus_off">Hide menus with actions that can also be performed using gestures.</string> <!-- TODO translate -->
-    <string name="next_notification">Next notification: %1$s</string> <!-- TODO translate -->
-    <string name="next_reminder">Next reminder: %1$s</string> <!-- TODO translate -->
-    <string name="next_alarm">Next alarm: %1$s</string> <!-- TODO translate -->
-    <string name="next">Next: %1$s</string> <!-- TODO translate --> <!-- next notification, reminder or alarm time or date -->
-    <string name="next_tomorrow">tomorrow at %1$s</string> <!-- TODO translate --> <!-- e.g. tomorrow at 10:00 -->
-    <string name="next_on_mon">Monday at %1$s</string> <!-- TODO translate -->
-    <string name="next_on_tue">Tuesday at %1$s</string> <!-- TODO translate -->
-    <string name="next_on_wed">Wednesday at %1$s</string> <!-- TODO translate -->
-    <string name="next_on_thu">Thursday at %1$s</string> <!-- TODO translate -->
-    <string name="next_on_fri">Friday at %1$s</string> <!-- TODO translate -->
-    <string name="next_on_sat">Saturday at %1$s</string> <!-- TODO translate -->
-    <string name="next_on_sun">Sunday at %1$s</string> <!-- TODO translate -->
-    <string name="never">never</string> <!-- TODO translate --> <!-- if notification will never occur-->
-    <string name="show_seconds_title">Show seconds</string> <!-- TODO translate -->
-    <string name="show_seconds_on">Choosing seconds is enabled. Displays times with seconds.</string> <!-- TODO translate -->
-    <string name="show_seconds_off">Choosing seconds is disabled. Display times without seconds.</string> <!-- TODO translate -->
-    <string name="notification_disabled_warning">Notification is disabled</string> <!-- TODO translate -->
-    <string name="social_facebook">Facebook</string> <!-- TODO translate -->
-    <string name="social_twitter">Twitter</string> <!-- TODO translate -->
-    <string name="social_google_plus">Google+</string> <!-- TODO translate -->
-    <string name="social_google_plus_community">Google+ Community</string> <!-- TODO translate -->
-    <string name="finish_previous">Finish previous actions</string> <!-- TODO translate -->
-    <string name="finish_previous_title">Wait for</string> <!-- TODO translate -->
-    <string name="finish_previous_description">previous actions to finish</string> <!-- TODO translate -->
-    <string name="libraries">Libraries</string> <!-- TODO translate --> <!-- title of screen showing licenses of programming libraries used by the app -->
-    <string name="acknowledgements">Acknowledgements</string> <!-- TODO translate --> <!-- name of screen with authors, translators and other people who have helped -->
-    <string name="troubleshooting">Troubleshooting</string> <!-- TODO translate -->
-    <string name="premium_features">Premium features</string> <!-- TODO translate -->
-    <string name="disable_when_headset">Disable when headset connected</string> <!-- TODO translate -->
-    <string name="disable_when_headset_on">All notifications disabled</string> <!-- TODO translate -->
-    <string name="disable_when_headset_off">All notifications enabled</string> <!-- TODO translate -->
-    <string name="disable_when_headset_toast">BlipBlip notifications are now disabled, because you have headset connected.</string> <!-- TODO translate -->
+    <string name="delay_to_next_chime">Изчакай</string>
+    <string name="action_rename">Преименувай</string>
+    <string name="pref_accessibility">Достъпност</string>
+    <string name="pref_swipe">Замахване</string>
+    <string name="pref_swipe_on">Замахването върху предмети от списъка е разрешено</string>
+    <string name="pref_swipe_off">Замахването върху предмети от списъка е забранено</string>
+    <string name="pref_action_menus">Менюта с действия</string>
+    <string name="pref_action_menus_on">Покажи менюта с действия, които иначе изискват жестове (като напр. замахване). Полезно, когато се използва TalkBack.</string>
+    <string name="pref_action_menus_off">Скрий менюта с действия, които могат да бъдат извършени и с жестове.</string>
+    <string name="next_notification">Следващо известие: %1$s</string>
+    <string name="next_reminder">Следващо напомняне: %1$s</string>
+    <string name="next_alarm">Следваща аларма: %1$s</string>
+    <string name="next">Следващо: %1$s</string> <!-- next notification, reminder or alarm time or date -->
+    <string name="next_tomorrow">утре в %1$s</string>
+    <string name="next_on_mon">понеделник в %1$s</string>
+    <string name="next_on_tue">вторник в %1$s</string>
+    <string name="next_on_wed">сряда в %1$s</string>
+    <string name="next_on_thu">четвъртък в %1$s</string>
+    <string name="next_on_fri">петък в %1$s</string>
+    <string name="next_on_sat">събота в %1$s</string>
+    <string name="next_on_sun">неделя в %1$s</string>
+    <string name="never">никога</string> 
+    <string name="show_seconds_title">Показване на секунди</string>
+    <string name="show_seconds_on">Времето се показва със секундите.</string>
+    <string name="show_seconds_off">Времето се показва без секундите.</string>
+    <string name="notification_disabled_warning">Известието е забранено</string>
+    <string name="social_facebook">Фейсбук</string>
+    <string name="social_twitter">Туитър</string>
+    <string name="social_google_plus">Google+</string>
+    <string name="social_google_plus_community">Общество в Google+</string>
+    <string name="finish_previous">Довършете предишните действия</string>
+    <string name="finish_previous_title">Изчаква се</string>
+    <string name="finish_previous_description">предишните действия да приключат.</string>
+    <string name="libraries">Библиотеки</string>
+    <string name="acknowledgements">Благодарности</string> <!-- name of screen with authors, translators and other people who have helped -->
+    <string name="troubleshooting">Откриване на нередности</string>
+    <string name="premium_features">Допълнителни платени функции</string>
+    <string name="disable_when_headset">Забрана при свързани слушалки</string>
+    <string name="disable_when_headset_on">Всички известия са изключени</string>
+    <string name="disable_when_headset_off">Всички известия са включени</string>
+    <string name="disable_when_headset_toast">Известията от BlipBlip са изключени, понеже сте свързали слушалки.</string>
 
-    <string name="about_thank_you">Thank You</string> <!-- TODO translate -->
+    <string name="about_thank_you">Благодаря</string>
 
-    <string name="snack_bar_text_item_removed">1 item removed</string> <!-- TODO translate -->
-    <string name="snack_bar_action_undo">UNDO</string> <!-- TODO translate -->
+    <string name="snack_bar_text_item_removed">1 предмет бе премахнат</string>
+    <string name="snack_bar_action_undo">ОТМЯНА</string>
 
-    <string name="add_item">Add item</string> <!-- TODO translate -->
-    <string name="action_add_child_notification">Add child notification</string> <!-- TODO translate -->
-    <string name="action_add_notification">Add notification</string> <!-- TODO translate -->
-    <string name="action_add_condition">Add condition</string> <!-- TODO translate -->
-    <string name="dialog_title_days_of_week">Days of Week</string> <!-- TODO translate -->
-    <string name="dialog_title_date">Date</string> <!-- TODO translate -->
-    <string name="start_date">Start date</string> <!-- TODO translate -->
-    <string name="end_date">End date</string> <!-- TODO translate -->
-    <string name="dialog_title_time">Time</string> <!-- TODO translate -->
-    <string name="dialog_title_time_range">Time range</string> <!-- TODO translate -->
-    <string name="dialog_title_repeat">Repeat every</string> <!-- TODO translate -->
-    <string name="interval">Interval</string> <!-- TODO translate -->
-    <string name="no_repeat">No repeat</string> <!-- TODO translate -->
-    <string name="action_add_action">Add action</string> <!-- TODO translate -->
-    <string name="favorite_condition_dialog_edit">Edit</string> <!-- TODO translate -->
-    <string name="favorite_condition_dialog_create">Create</string> <!-- TODO translate -->
-    <string name="system_notification">System notification</string> <!-- TODO translate -->
-    <string name="popup_text">Popup text</string> <!-- TODO translate -->
-    <string name="no_actions_added">No actions added</string> <!-- TODO translate -->
-    <string name="section_conditions">Conditions</string> <!-- TODO translate -->
-    <string name="no_valid_condition_added">No valid conditions defined</string> <!-- TODO translate -->
-    <string name="no_valid_children_notification">All child notifications are invalid</string> <!-- TODO translate -->
-    <string name="no_upcoming_notifications">No upcoming notifications</string> <!-- TODO translate -->
-    <string name="error_indicator">Error indicator</string> <!-- TODO translate -->
-    <string name="next_notification_parent_off">Off (parent)</string> <!-- TODO translate -->
-    <string name="next_day">next day</string> <!-- TODO translate --> <!-- Used in: "22:00 - 6:00 next day" -->
-    <string name="notifications">Notifications</string> <!-- TODO translate -->
-    <string name="warning_no_email_app">No email application found to send the report.</string> <!-- TODO translate -->
-    <string name="weeknights">Weeknights</string> <!-- TODO translate --> <!-- nights from sunday to thursday -->
-    <string name="weekend_nights">Weekend nights</string> <!-- TODO translate --> <!-- nights on friday and saturday -->
-    <string name="weekend">Weekend</string> <!-- TODO translate --> <!-- saturday and sunday -->
-    <string name="cannot_enable_app">Cannot enable app right now.</string> <!-- TODO translate -->
+    <string name="add_item">Добавяне</string>
+    <string name="action_add_child_notification">Добавяне на под-известие</string>
+    <string name="action_add_notification">Добавяне на известие</string>
+    <string name="action_add_condition">Добавяне на условие</string>
+    <string name="dialog_title_days_of_week">Дни от седмицата</string>
+    <string name="dialog_title_date">Дата</string>
+    <string name="start_date">Начална дата</string>
+    <string name="end_date">Крайна дата</string>
+    <string name="dialog_title_time">Време</string>
+    <string name="dialog_title_time_range">Времеви обхват</string>
+    <string name="dialog_title_repeat">Повтаряй на всеки</string>
+    <string name="interval">Интервал</string>
+    <string name="no_repeat">Без повторение</string>
+    <string name="action_add_action">Добавяне на действие</string>
+    <string name="favorite_condition_dialog_edit">Промяна</string>
+    <string name="favorite_condition_dialog_create">Създаване</string>
+    <string name="system_notification">Системно известие</string>
+    <string name="popup_text">Изскачащ надпис</string>
+    <string name="no_actions_added">Няма добавени действия</string>
+    <string name="section_conditions">Условия</string>
+    <string name="no_valid_condition_added">Не бяха описани действителни условия</string>
+    <string name="no_valid_children_notification">Всички под-известия са недействителни</string>
+    <string name="no_upcoming_notifications">Няма предстоящи известия</string>
+    <string name="error_indicator">Показател за грешка</string>
+    <string name="next_notification_parent_off">Изключено (главно)</string>
+    <string name="next_day">на следващия ден</string> <!-- Used in: "22:00 - 6:00 next day" -->
+    <string name="notifications">Известия</string>
+    <string name="warning_no_email_app">Не бе открито приложение за пращане на ел. писмо с доклада.</string>
+    <string name="weeknights">Делнични нощи</string> <!-- nights from sunday to thursday -->
+    <string name="weekend_nights">Петък и събота вечер</string> <!-- nights on friday and saturday -->
+    <string name="weekend">Събота и неделя</string> <!-- saturday and sunday -->
+    <string name="cannot_enable_app">В момента приложението не може да бъде разрешено.</string>
 
-    <string name="vibration_silence_millis">Silence duration in milliseconds</string> <!-- TODO translate -->
-    <string name="vibration_duration_millis">Vibration duration in milliseconds</string> <!-- TODO translate -->
-    <string name="vibration_strength">Vibration strength</string> <!-- TODO translate -->
+    <string name="vibration_silence_millis">Продължителност на празния тон в милисекунди</string>
+    <string name="vibration_duration_millis">Продължителност на вибрирането в милисекунди</string>
+    <string name="vibration_strength">Сила на вибрирането</string>
 
-    <string name="advice_disable_task_killers">Disable task killers</string> <!-- TODO translate -->
-    <string name="advice_disable_task_killers_desc">Task killers should be disabled or BlipBlip should be added in their white lists to keep app alive.</string> <!-- TODO translate -->
-    <string name="advice_enable_foreground_service">Enable foreground service</string> <!-- TODO translate -->
-    <string name="advice_enable_foreground_service_desc2"><p>Foreground service option informs OS that application should not be killed if possible.</p>\n<p>It will display persistent notification which can be hidden from system settings (hiding it from the app will disable this option).</p>\n<p>You can use button below to access system settings</p></string> <string name="sound_in_use">Sound is in use and cannot be deleted.</string> <!-- TODO translate -->
-    <string name="vibration_in_use">Vibration is in use and cannot be deleted.</string> <!-- TODO translate -->
-    <string name="not_found">Not found</string> <!-- TODO translate -->
-    <string name="sound_not_found">Not found</string> <!-- TODO translate --> <!-- for sound -->
-    <string name="vibration_not_found">Not found</string> <!-- TODO translate --> <!-- for vibration -->
+    <string name="advice_disable_task_killers">Забранете оптимизиращи приложения</string>
+    <string name="advice_disable_task_killers_desc">Несистемни приложения за оптимизация трябва да бъдат изключени или BlipBlip да бъде вписан в белия им списък с позволени приложения, за да работи безпрепятствено.</string>
+    <string name="advice_enable_foreground_service">Разрешете услугата на преден план</string>
+    <string name="advice_enable_foreground_service_desc2"><p>Възможността за услуга на преден план уведомява Андроид, че приложението не трябва да бъде прекратявано, ако не е наложително.</p>\n<p>Ще показва постоянно известие, което не може да бъде скрито.</p>\n<p>Може да използвате долния бутон за да влезете в системните настройки.</p></string>
+	<string name="sound_in_use">Звукът се използва и не може да бъде изтрит.</string>
+    <string name="vibration_in_use">Вибрацията се използва и не може да бъде изтрита.</string>
+    <string name="not_found">Не бе намерено</string>
+    <string name="sound_not_found">Не бе открит звук</string> <!-- for sound -->
+    <string name="vibration_not_found">Не бе открита вибрация</string> <!-- for vibration -->
 
-    <string name="section_when">When</string> <!-- TODO translate -->
-    <string name="section_actions">Actions</string> <!-- TODO translate -->
-    <string name="section_notifications">Notifications</string> <!-- TODO translate -->
-    <string name="notification_name">Notification</string> <!-- TODO translate -->
-    <string name="notification_name_id">Notification %1$d</string> <!-- TODO translate --> <!-- e.g. "Notification 1" -->
+    <string name="section_when">Кога</string>
+    <string name="section_actions">Действия</string>
+    <string name="section_notifications">Известия</string>
+    <string name="notification_name">Известие</string>
+    <string name="notification_name_id">Известие %1$d</string> <!-- e.g. "Notification 1" -->
 
-    <string name="play">Play</string> <!-- TODO translate -->
+    <string name="play">Изпълни</string>
 
-    <string name="cannot_perform_operation">Cannot perform this operation right now. Please try again later.</string> <!-- TODO translate -->
+    <string name="cannot_perform_operation">Това действие не може да се извърши сега. Моля, опитайте отново по-късно.</string>
 
-    <string name="add_to_favorites">Add to favorites</string> <!-- TODO translate -->
-    <string name="open_favorites">Open favorites</string> <!-- TODO translate -->
+    <string name="add_to_favorites">Добавяне към любими</string> 
+    <string name="open_favorites">Отваряне на любими</string>
 
-    <string name="new_sound">New sound</string> <!-- TODO translate -->
-    <string name="unnamed_sound">Unnamed</string> <!-- TODO translate -->
-    <string name="unnamed_vibration">Unnamed</string> <!-- TODO translate -->
-    <string name="unnamed_notification">Unnamed</string> <!-- TODO translate -->
+    <string name="new_sound">Нов звук</string>
+    <string name="unnamed_sound">Без име</string>
+    <string name="unnamed_vibration">Без име</string>
+    <string name="unnamed_notification">Без име</string>
 
-    <string name="item_deleted">Item deleted.</string> <!-- TODO translate --> <!-- showed when one of list items is deleted -->
-    <string name="value_deleted">Deleted \"%1$s\"</string> <!-- TODO translate --> <!-- showed when one of list items is deleted and displays the value of the item -->
-    <string name="action_undo">Undo</string> <!-- TODO translate --> <!-- action name to undo deletion e.g. from a list -->
-    <string name="condition_deleted">Condition deleted.</string> <!-- TODO translate -->
-    <string name="notification_deleted">Notification deleted.</string> <!-- TODO translate -->
-    <string name="action_deleted">Action deleted.</string> <!-- TODO translate -->
+    <string name="item_deleted">Изтрито</string> <!-- showed when one of list items is deleted -->
+    <string name="value_deleted">\"%1$s\" бе изтрито</string> <!-- showed when one of list items is deleted and displays the value of the item -->
+    <string name="action_undo">Отмени</string> <!-- action name to undo deletion e.g. from a list -->
+    <string name="condition_deleted">Условието е изтрито.</string>
+    <string name="notification_deleted">Известието е изтрито.</string>
+    <string name="action_deleted">Действието е изтрито.</string>
 
-    <string name="inclusive_time">inclusive</string> <!-- TODO translate --> <!-- used in the time range dialog to determine if edge value should be included -->
+    <string name="inclusive_time">включително</string>
 
-    <string name="pref_user_notifications">User notifications</string> <!-- TODO translate -->
+    <string name="pref_user_notifications">Потребителски известия</string>
 
-    <string name="action_set_as_home_screens">Set as start screen</string> <!-- TODO translate -->
+    <string name="action_set_as_home_screens">Задай като начален екран</string>
 
-    <string name="pref_battery_saver_mode">Battery Saver mode</string> <!-- TODO translate -->
-    <string name="mode_enable_app_title">App enabled</string> <!-- TODO translate -->
-    <string name="mode_enable_app_on">Allow the app to work in this mode</string> <!-- TODO translate -->
-    <string name="mode_enable_app_off">Application is disabled in this mode</string> <!-- TODO translate -->
-    <string name="mode_sound_title">Allow sound</string> <!-- TODO translate -->
-    <string name="mode_sound_on">Sounds are allowed in this mode</string> <!-- TODO translate -->
-    <string name="mode_sound_off">Sounds disabled in this mode</string> <!-- TODO translate -->
-    <string name="mode_vibration_title">Allow vibrations</string> <!-- TODO translate -->
-    <string name="mode_vibration_on">Vibrations allowed in this mode</string> <!-- TODO translate -->
-    <string name="mode_vibration_off">Vibrations not allowed in this mode</string> <!-- TODO translate -->
+    <string name="pref_battery_saver_mode">Режим на пестене на батерия</string>
+    <string name="mode_enable_app_title">Разрешаване на приложението</string>
+    <string name="mode_enable_app_on">Разрешава на приложението да работи в този режим</string>
+    <string name="mode_enable_app_off">Приложението е забранено в този режим</string>
+    <string name="mode_sound_title">Разрешаване на звуци</string>
+    <string name="mode_sound_on">Звуците са разрешени в този режим</string>
+    <string name="mode_sound_off">Звуците са забранени в този режим</string>
+    <string name="mode_vibration_title">Разрешаване на вибрации</string>
+    <string name="mode_vibration_on">Вибрациите са разрешени в този режим</string>
+    <string name="mode_vibration_off">Вибрациите са забранени в този режим</string>
     <string name="mode_screen_title">Enabling screen allowed</string> <!-- TODO translate -->
-    <string name="mode_screen_on">Screen is allowed to be enabled in this mode</string> <!-- TODO translate -->
-    <string name="mode_screen_off">Screen will not be enabled in this mode</string> <!-- TODO translate -->
-    <string name="battery_saver_preferences_warning">These options may not work on all devices.</string> <!-- TODO translate -->
-    <string name="mode_sound_toast">Sound is disabled because following mode is active: %1$s</string> <!-- TODO translate -->
-    <string name="vibration_sound_toast">Vibration is disabled because following mode is active: %1$s</string> <!-- TODO translate -->
+    <string name="mode_screen_on">Screen is allowed to be enabled в този режим</string> <!-- TODO translate -->
+    <string name="mode_screen_off">Screen will not be enabled в този режим</string> <!-- TODO translate -->
+    <string name="battery_saver_preferences_warning">Тези функци може да не работят на всички устройства.</string>
+    <string name="mode_sound_toast">Звукът е забранен, понеже в сила е следният режим: %1$s</string>
+    <string name="vibration_sound_toast">Вибрацията е забранена, понеже в сила е следният режим: %1$s</string>
 
-    <string name="pref_accessibility_settings_title">Enable accessibility service</string> <!-- TODO translate -->
-    <string name="pref_accessibility_settings_summary">Opens system Accessibility settings where you can enable app as accessibility service</string> <!-- TODO translate -->
-    <string name="accessibility_service_description">This service helps to keep the app working. It does not access any data or modify any content. It is just protection against memory managers which may kill the app. If you are not experiencing problems with the app you don\'t need to activate it.</string> <!-- TODO translate -->
-    <string name="accessibility_service_summary">Helps keep app alive. Does not access any data.</string> <!-- TODO translate -->
+    <string name="pref_accessibility_settings_title">Разрешаване на услуга за улеснен достъп</string>
+    <string name="pref_accessibility_settings_summary"> Отваря системните настройки за улеснен достъп, където може да разрешите приложението като услуга за улеснен достъп</string>
+    <string name="accessibility_service_description">Тази услуга поддържа приложението работещо. Не достъпва никкави данни и не променя никакво съсържание. Тя е просто защита от програми за освобождаване на памет, които може да прекратят приложението. Ако не срещате нередности с приложението няма нужда да активирате тази услуга.</string>
+    <string name="accessibility_service_summary">Поддържа приложението живо. Не достъпва никакви данни.</string>
 
-    <string name="swipe_right_to_delete">Swipe right to delete items</string> <!-- TODO translate -->
+    <string name="swipe_right_to_delete">Плъзване надясно за изтриване</string>
 
-    <string name="pref_user_interface">User interface</string> <!-- TODO translate -->
-    <string name="show_inclusive_title">Change time range ends</string> <!-- TODO translate -->
-    <string name="show_inclusive_on">When specifying time range show buttons which allow to specify whether given time should be included in time range.</string> <!-- TODO translate -->
-    <string name="show_inclusive_off">Hide buttons allowing to choose if time should be included in time range.</string> <!-- TODO translate -->
+    <string name="pref_user_interface">Потребителски интерфейс</string>
+    <string name="show_inclusive_title">Промяна на границите на времевия обхват</string>
+    <string name="show_inclusive_on">При избиране на времеви обхват покажи бутони за уточняване дали времето да бъде включено в обхвата.</string>
+    <string name="show_inclusive_off">Скрий бутоните за избор на допълнително време.</string>
+	
+    <string name="action_repeat">Повтаряне</string>
+    <string name="action_repeat_sound">Повтаряне на звук</string>
+    <string name="action_repeat_vibration">Повтаряне на вибрация</string>
+    <string name="action_repeat_sound_vibration">Повтаряне на звук и вибрация</string>
+    <string name="action_strike_the_hour">Извести кръгъл час</string>
 
-    <string name="action_repeat">Repeat</string> <!-- TODO translate -->
-    <string name="action_repeat_sound">Repeat sound</string> <!-- TODO translate -->
-    <string name="action_repeat_vibration">Repeat vibration</string> <!-- TODO translate -->
-    <string name="action_repeat_sound_vibration">Repeat sound and vibration</string> <!-- TODO translate -->
-    <string name="action_strike_the_hour">Strike the hour</string> <!-- TODO translate -->
+    <string name="pref_do_not_disturb_mode">Не безпокой</string>
+    <string name="do_not_disturb_total_silence">Пълна тишина</string>
+    <string name="do_not_disturb_alarms_only">Само аларми</string>
+    <string name="do_not_disturb_priority_only">Само приоритетни</string>
 
-    <string name="pref_do_not_disturb_mode">Do Not Disturb</string> <!-- TODO translate -->
-    <string name="do_not_disturb_total_silence">Total silence</string> <!-- TODO translate -->
-    <string name="do_not_disturb_alarms_only">Alarms only</string> <!-- TODO translate -->
-    <string name="do_not_disturb_priority_only">Priority only</string> <!-- TODO translate -->
+    <string name="hide_notification_title">Скриване на известие</string>
+    <string name="hide_notification_summary">Отворете настройките на системата, за да скриете известието. Това е препоръчителният начин за скриване на известия, понеже позволява на приложението да работи на преден план.</string>
 
-    <string name="hide_notification_title">Hide notification</string> <!-- TODO translate -->
-    <string name="hide_notification_summary">Open system settings to hide notification. This is recommended way for hiding notification because it allows the app to work in foreground.</string> <!-- TODO translate -->
-
-    <string name="action_say_text">Say text</string> <!-- TODO translate -->
-    <string name="action_say_time">Say time</string> <!-- TODO translate -->
-    <string name="feature_say_text">Say time</string> <!-- TODO translate -->
-    <string name="feature_say_time">Say time</string> <!-- TODO translate -->
-    <string name="pref_text_to_speech">Text to speech</string> <!-- TODO translate -->
+    <string name="action_say_text">Изречи текст</string> 
+    <string name="action_say_time">Изречи време</string>
+    <string name="feature_say_text">Изречи текст</string>
+    <string name="feature_say_time">Изречи време</string>
+    <string name="pref_text_to_speech">Текст за произнасяне</string>
     <string name="system_default_audio_stream">@string/setting_system_default</string>
-    <string name="application_default">Application default</string> <!-- TODO translate -->
-    <string name="speak_time_format_with_minutes">Spoken time with minutes</string> <!-- TODO translate -->
-    <string name="speak_time_on_the_hour">Spoken time on the hour</string> <!-- TODO translate -->
+    <string name="application_default">По подразбиране</string>
+    <string name="speak_time_format_with_minutes">Прочети часа с минутите</string>
+    <string name="speak_time_on_the_hour">Произнасяне на кръглия час</string>
 
-    <string name="show_actions_switches_title">Actions switches</string> <!-- TODO translate --> <!-- option to show enable/disable switches for actions -->
-    <string name="show_actions_switches_on">Show switches for disabling actions.</string> <!-- TODO translate -->
-    <string name="show_actions_switches_off">Hide switches for disabling actions.</string> <!-- TODO translate -->
+    <string name="show_actions_switches_title">Шалтери за действия</string> <!-- option to show enable/disable switches for actions -->
+    <string name="show_actions_switches_on">Покажи шалтери за забраняване на действия</string>
+    <string name="show_actions_switches_off">Скрий шалтерите за забраняване на действия</string>
 
-    <string name="operating_modes_settings">Operating modes</string> <!-- TODO translate --> <!-- name of menu with different mode settings e.g. Do Not Disturb, vibrate mode -->
-    <string name="operating_modes_settings_summary">Do Not Disturb, vibrate mode, etc.</string> <!-- TODO translate -->
-    <string name="time_settings">Time</string> <!-- TODO translate -->
-    <string name="sound_settings">Sound</string> <!-- TODO translate -->
+    <string name="operating_modes_settings">Режими на действие</string> <!-- name of menu with different mode settings e.g. Do Not Disturb, vibrate mode -->
+    <string name="operating_modes_settings_summary">Не безпокой, Само вибрация и т.н.</string>
+    <string name="time_settings">Време</string>
+    <string name="sound_settings">Звук</string>
 
-    <string name="free_resources_title">Free resources</string> <!-- TODO translate -->
-    <string name="free_resources_off">May use more memory.</string> <!-- TODO translate -->
-    <string name="free_resources_on">Should use less memory.</string> <!-- TODO translate -->
+    <string name="free_resources_title">Освобождаване на ресурси</string>
+    <string name="free_resources_off">Може да използва повече памет.</string>
+    <string name="free_resources_on">Би трябвало да използва по-малко памет.</string>
 
-    <string name="error_failed_to_open_file">Failed to open file</string> <!-- TODO translate -->
-    <string name="error_corrupted_sound">Sound is corrupted</string> <!-- TODO translate -->
+    <string name="error_failed_to_open_file">Файлът не можа да бъде отворен</string>
+    <string name="error_corrupted_sound">Звукозаписът е увреден</string>
 
     <!-- premium -->
-    <string name="dialog_premium_trial_text">Get all current and future features.</string> <!-- TODO translate --> <!-- should be short -->
-    <string name="dialog_no_thanks">No, thanks</string> <!-- TODO translate --> <!-- should be short -->
-    <string name="dialog_premium_unlock_button_text">Unlock</string> <!-- TODO translate --> <!-- should be short -->
-    <string name="dialog_premium_trial_text2">Press \"Unlock\" to start your free trial.</string> <!-- TODO translate --> <!-- use same text as in dialog_premium_unlock_button_text -->
-    <string name="dialog_premium_trial_button_text">Start free trial now</string> <!-- TODO translate --> <!-- should be short -->
-    <string name="dialog_premium_trial_title">Unlock premium functions</string> <!-- TODO translate --> <!-- should be short -->
-    <string name="dialog_premium_features_description">Action you tried to performed uses following premium features:</string> <!-- TODO translate -->
-    <string name="feature_custom_sounds">Custom sounds</string> <!-- TODO translate -->
-    <string name="feature_multiple_notifications">Multiple notifications</string> <!-- TODO translate -->
-    <string name="feature_custom_reapeat">Custom repeat interval</string> <!-- TODO translate -->
-    <string name="feature_premium_content">Premium content</string> <!-- TODO translate -->
-    <string name="feature_premium_sounds">Premium sounds</string> <!-- TODO translate -->
-    <string name="feature_strike_the_hour">Strike the hour</string> <!-- TODO translate -->
-    <string name="premium_get_plus">Get all current features</string> <!-- TODO translate --> <!-- should be short -->
-    <string name="premium_get_sounds">Get all sounds in the app</string> <!-- TODO translate --> <!-- should be short -->
-    <string name="premium_get_plus_sounds">Get all current features and sounds</string> <!-- TODO translate --> <!-- should be short -->
+    <string name="dialog_premium_trial_text">Грабни всички текущи и бъдещи възможности.</string> <!-- should be short -->
+    <string name="dialog_no_thanks">Не, благодаря</string>
+    <string name="dialog_premium_unlock_button_text">Отключи</string>
+    <string name="dialog_premium_trial_text2">Натиснете \"Отключи\", за да започнете вашия пробен период.</string> 
+    <string name="dialog_premium_trial_button_text">Започни пробния период сега</string> 
+    <string name="dialog_premium_trial_title">Отключи допълнителни възможности</string> <!-- should be short -->
+    <string name="dialog_premium_features_description">Действието, което пробвахте да изпълните изисква допълнителни платени възможности:</string>
+    <string name="feature_custom_sounds">Собствени звуци</string> 
+    <string name="feature_multiple_notifications">Многобройни известия</string>
+    <string name="feature_custom_reapeat">Собствен интервал на повторение </string>
+    <string name="feature_premium_content">Платено съдържание</string>
+    <string name="feature_premium_sounds">Платени звуци</string>
+    <string name="feature_strike_the_hour">Разцепи часа</string>
+    <string name="premium_get_plus">Грабни всички текущи възможности</string> <!-- should be short -->
+    <string name="premium_get_sounds">Грабни всички звуци от приложението</string> <!-- should be short -->
+    <string name="premium_get_plus_sounds">Грабни всички текущи звуци и възможности</string> <!-- should be short -->
     <string name="lock_icon">Lock icon</string> <!-- TODO translate -->
-    <string name="premium_sound_lock">This is premium sound which requires unlocking before use.</string> <!-- TODO translate -->
-    <string name="premium_feature_lock">This is premium feature which requires unlocking before use.</string> <!-- TODO translate -->
-    <string name="change_subscription">Change subscription</string> <!-- TODO translate -->
+    <string name="premium_sound_lock">Това е платен звук, който изисква отключване, преди да бъде използван.</string>
+    <string name="premium_feature_lock">Това е допълнителна платена възможност, която изисква отключване преди употреба.</string>
+    <string name="change_subscription">Смяна на абонамента</string>
 
-    <string name="vibrate_seconds">Vibrate %ss</string> <!-- TODO translate --> <!-- s at the end is for seconds, %s will be replaced vy value e.g. "Vibrate 1.2s" -->
-    <string name="wait_and_vibrate_seconds">Wait %ss, vibrate %ss</string> <!-- TODO translate -->
+    <string name="vibrate_seconds">Вибрирай %sсек.</string> <!-- s at the end is for seconds, %s will be replaced vy value e.g. "Vibrate 1.2s" -->
+    <string name="wait_and_vibrate_seconds">Изчакай %sсек., вибрирай %sсек.</string>
 
 </resources>
