@@ -408,8 +408,8 @@
             <item quantity="other">%d Sekunden</item>
         </plurals>
     <plurals name="repeat_number_of_times">
-        <item quantity="one">%d time</item> <!-- TODO translate -->
-        <item quantity="other">%d times</item> <!-- TODO translate -->
+        <item quantity="one">%d mal</item>
+        <item quantity="other">%d male</item>
     </plurals>
 
     <string name="pref_reset_accuracy_params">Parameter zurücksetzen</string>
@@ -463,7 +463,7 @@
     <string name="action_restore_defaults">Standardwerte wiederherstellen</string> <!-- e.g. for sounds or vibrations -->
     <string name="restore_defaults_title">Wiederherstellung der Standardwerte?</string> <!-- not used anymore -->
     <string name="restore_defaults_message">Alle Daten in diesem Fenster werden gelöscht und Standardwerte werden wiederhergestellt. Fortfahren?</string> <!-- not used anymore -->
-    <string name="restore_defaults_message2">@string/restore_defaults_message</string> <!-- TODO translate "Would you like to restore default values?"-->
+    <string name="restore_defaults_message2">Möchtest du die Standardwerte wiederherstellen?</string> <!-- "Would you like to restore default values?"-->
     <string name="action_add_system_notification_sound">Füge Benachrichtigungstöne hinzu</string>
     <string name="add_vibration">Füge Vibrationsmuster hinzu</string>
     <string name="edit">Bearbeite</string> <!-- Name of action to edit list of sounds or list of vibrations, should be short -->
@@ -489,7 +489,7 @@
     <string name="drawer_open">Öffne Navigationsschublade</string>
     <string name="drawer_close">Schließe Navigationsschublade</string>
 
-    <string name="more_actions">Mehr Aktionen</string>
+    <string name="more_actions">Weitere Aktionen</string>
     <string name="start_time">Startzeit</string>
     <string name="end_time">Endzeit</string>
     <string name="whole_day">Ganzer Tag</string>
@@ -650,9 +650,9 @@
     <string name="show_inclusive_off">Verstecke die Auswahlschalter der Zeit welche die Zeitauswahl in Zeitumfangsmenü anzeigen erlauben.</string>
 
     <string name="action_repeat">Wiederholung</string>
-    <string name="action_repeat_sound">Repeat sound</string> <!-- TODO translate -->
-    <string name="action_repeat_vibration">Repeat vibration</string> <!-- TODO translate -->
-    <string name="action_repeat_sound_vibration">Repeat sound and vibration</string> <!-- TODO translate -->
+    <string name="action_repeat_sound">Wiederhole den Klang</string>
+    <string name="action_repeat_vibration">Wiederhole die Vibration</string>
+    <string name="action_repeat_sound_vibration">Wiederhole den Klang und die Vibration</string>
     <string name="action_strike_the_hour">Stundenschlag</string>
 
     <string name="pref_do_not_disturb_mode">Nicht stören</string>
@@ -686,8 +686,8 @@
     <string name="free_resources_off">Könnte mehr Speicher verbrauchen.</string>
     <string name="free_resources_on">Sollte weniger Speicher verbrauchen.</string>
 
-    <string name="error_failed_to_open_file">Failed to open file</string> <!-- TODO translate -->
-    <string name="error_corrupted_sound">Sound is corrupted</string> <!-- TODO translate -->
+    <string name="error_failed_to_open_file">Dateiöffnung fehlgeschlagen</string>
+    <string name="error_corrupted_sound">Der Klang ist beschädigt</string>
 
     <!-- premium -->
     <string name="dialog_premium_trial_text">Bekomme alle laufenden und zukunftigen Premium-Aktionen.</string> <!-- should be short -->
@@ -711,7 +711,7 @@
     <string name="premium_feature_lock">Das ist Premiumerweiterung welche vor der Benutzung die Freischaltung erfordert.</string>
     <string name="change_subscription">Wechsle deine Stimmabgabe</string>
 
-    <string name="vibrate_seconds">Vibrate %ss</string> <!-- TODO translate --> <!-- s at the end is for seconds, %s will be replaced vy value e.g. "Vibrate 1.2s" -->
-    <string name="wait_and_vibrate_seconds">Wait %ss, vibrate %ss</string> <!-- TODO translate -->
+    <string name="vibrate_seconds">Vibriere %ss</string> <!-- s at the end is for seconds, %s will be replaced vy value e.g. "Vibrate 1.2s" -->
+    <string name="wait_and_vibrate_seconds">Warte %ss, vibriere %ss</string>
 
 </resources>
