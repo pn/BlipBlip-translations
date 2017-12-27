@@ -463,7 +463,7 @@
     <string name="action_restore_defaults">Standardwerte wiederherstellen</string> <!-- e.g. for sounds or vibrations -->
     <string name="restore_defaults_title">Wiederherstellung der Standardwerte?</string> <!-- not used anymore -->
     <string name="restore_defaults_message">Alle Daten in diesem Fenster werden gelöscht und Standardwerte werden wiederhergestellt. Fortfahren?</string> <!-- not used anymore -->
-    <string name="restore_defaults_message2">Möchtest du die Standardwerte wiederherstellen?</string> <!-- "Would you like to restore default values?"-->
+    <string name="restore_defaults_message2">Möchtest du die Standardwerte wiederherstellen?</string>
     <string name="action_add_system_notification_sound">Füge Benachrichtigungstöne hinzu</string>
     <string name="add_vibration">Füge Vibrationsmuster hinzu</string>
     <string name="edit">Bearbeite</string> <!-- Name of action to edit list of sounds or list of vibrations, should be short -->
