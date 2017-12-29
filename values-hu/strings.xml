@@ -2,8 +2,8 @@
 <resources>
 
     <!-- Buttons -->
-    <string name="ok">OK</string>
-    <string name="dialog_ok">OK</string>
+    <string name="ok">OK</string> <!-- translated -->
+    <string name="dialog_ok">OK</string> <!-- translated -->
     <string name="cancel">Mégse</string>
     <string name="set">Beállít</string>
     <string name="change_setting">Módosítás</string>
@@ -59,14 +59,14 @@
 
     <!-- Sound -->
     <string name="sound_text">Hang</string>
-    <string name="sound_blipblip">BlipBlip</string>
+    <string name="sound_blipblip">BlipBlip</string> <!-- translated -->
     <string name="sound_casio_watch">Casio karóra</string>
-    <string name="sound_gong">Gong</string>
+    <string name="sound_gong">Gong</string> <!-- translated -->
     <string name="sound_ships_bell">Hajóharang</string>
     <string name="sound_double_ships_bell">Dupla hajóharang</string>
     <string name="sound_cuckoo">Kakukk</string>
     <string name="sound_watch_beep">Karóra sípszó</string>
-    <string name="sound_big_ben">Big Ben</string>
+    <string name="sound_big_ben">Big Ben</string> <!-- translated -->
     <string name="sound_big_ben_strikes">Big Ben ütés</string>
     <string name="sound_bubble">Buborék</string>
     <string name="sound_bird">Madár %1$s</string>
@@ -186,11 +186,11 @@
 
     <!-- Notification Priority -->
     <string name="pref_notification_priority">Értesítés prioritása</string>
-    <string name="item_priority_minimum">Minimum</string>
+    <string name="item_priority_minimum">Minimum</string> <!-- translated -->
     <string name="item_priority_low">Alacsony</string>
     <string name="item_priority_normal">Normál</string>
     <string name="item_priority_high">Magas</string>
-    <string name="item_priority_maximum">Maximum</string>
+    <string name="item_priority_maximum">Maximum</string> <!-- translated -->
 
     <!-- Dismissible Notification -->
     <string name="pref_dismissible_notification_title">Elvethető értesítés</string>
@@ -201,10 +201,10 @@
     <string name="pref_vibrate_wear_title">Vibrálás Wear-en</string>
     <string name="pref_vibrate_wear_on">Ha a vibrálás engedélyezett, vibráljon a csatlakozó Android Wear készüléken is.</string>
     <string name="pref_vibrate_wear_off">Ne vibráljon Android Wear készüléken.</string>
-    <string name="pref_vibrate_wearable_title">Vibrálás csatlakozó készüléken</string> <!-- "Vibrate on connected device"-->
-    <string name="pref_vibrate_wearable_on">Ha a vibrálás engedélyezett, vibráljon a csatlakozó viselhető készüléken (pl. okosóra) </string> <!-- "If vibration is enabled vibrate also on connected wearable device (e.g. smart watch)"--> <!-- not used anymore -->
+    <string name="pref_vibrate_wearable_title">Vibrálás csatlakozó készüléken</string>
+    <string name="pref_vibrate_wearable_on">Ha a vibrálás engedélyezett, vibráljon a csatlakozó viselhető készüléken (pl. okosóra) </string> <!-- not used anymore -->
     <string name="pref_vibrate_wearable_on2">Ha a vibrálás engedélyezett, vibráljon a csatlakozó viselhető készüléken (pl. okosóra). Rendszer figyelmeztetés hozzáadását igényli.</string>
-    <string name="pref_vibrate_wearable_off">Ne vibráljon csatlakozó viselhető készüléken</string> <!-- "Do not vibrate on connected wearable device"-->
+    <string name="pref_vibrate_wearable_off">Ne vibráljon csatlakozó viselhető készüléken</string>
 
     <!-- Vibrate on Main Device -->
     <string name="pref_vibrate_on_main_device">Vibrálás fő készüléken</string> <!-- Translation note: "device" is used because it can be phone or tablet. Related with pref_vibrate_wear_title option. -->
@@ -354,9 +354,9 @@
     <!-- Unsorted -->
     <string name="warn_notification_skip">Néhány figyelmeztetés átugrása.</string> <!-- Please make this as short as possible. This warning is displayed when user chooses to skip few upcoming notifications. -->
     <string name="warn_alarm_skip">Néhány ébresztés átugrása.</string> <!-- Please make this as short as possible. This warning is displayed when user chooses to skip few upcoming alarms. -->
-    <string name="warn_volume_zero">Jelenlegi hangerő nulla.</string>  <!-- Please make this as short as possible. This warning is displayed when current system volume is set to 0. -->
+    <string name="warn_volume_zero">Jelenlegi hangerő nulla.</string> <!-- Please make this as short as possible. This warning is displayed when current system volume is set to 0. -->
     <string name="huawei_protected_apps_title">Huawei Védett Aplikációk</string> <!-- Title of dialog window -->
-    <string name="huawei_protected_apps_msg">A(z) %s helyes működéséhez engedélyeznie kell azt a "Védett Applikációk"-ban.</string><!-- %s will be replaced with app name -->
+    <string name="huawei_protected_apps_msg">A(z) %s helyes működéséhez engedélyeznie kell azt a "Védett Applikációk"-ban.</string> <!-- %s will be replaced with app name -->
     <string name="pref_low_mem_restart_title">Alacsony memória újraindítás</string>
     <string name="pref_low_mem_restart_on">Próbálja újraindítani az applikációt alacsony memória estén. Ez nem minden eszközön működik. Nem szükséges a legtöbbe szközön (magasabb). (Jobban merítheti az akkut).</string>
     <string name="pref_low_mem_restart_off">Ne próbálja újraindítani az applikációt alacsony memória esetén.</string>
@@ -370,7 +370,7 @@
     <string name="pref_ignore_delayed_title">Késett figyelmeztetések figyelmen kívül hagyása.</string>
     <string name="pref_ignore_delayed_on">Ha a figyelmeztetés késő, nem jelenik meg vagy játszódik le.</string>
     <string name="pref_ignore_delayed_off">A figyelmeztetések akkor is megejelennek vagy lejátszódnak, ha későek.</string>
-    <string name="pref_audio_focus_title">Audió fókusz</string>  <!-- option to improve ability to hear app sounds by decreasing volume of other apps or pausing them -->
+    <string name="pref_audio_focus_title">Audió fókusz</string> <!-- option to improve ability to hear app sounds by decreasing volume of other apps or pausing them -->
     <string name="pref_audio_focus_on">Amíg az app hangot ad, egyép applikációk hangja halkabb lesz, vagy szünetel.</string>
     <string name="pref_audio_focus_off">Egyéb applikációk hangja normálisan játszott.</string>
     <string name="pref_audio_focus_dont_duck_title">Visszajátszás szüneteltetése</string>
@@ -429,7 +429,7 @@
     <string name="time_format_12h">12 órás formátum</string>
     <string name="time_format_24h">24 órás formátum</string>
 
-    <string name="theme_blipblip">BlipBlip</string>
+    <string name="theme_blipblip">BlipBlip</string> <!-- translated -->
     <string name="theme_standard">Sztenderd</string>
     <string name="theme_blue">Kék</string>
     <string name="theme_yellow">Sárga</string>
@@ -463,17 +463,17 @@
     <string name="dialog_title_deletion">Törlés megerősítése</string>
     <string name="dialog_message_confirm">Biztos benne?</string>
     <string name="vibration_name">Vibrálás neve</string>
-    <string name="action_restore_defaults">Alapbeállítás visszaállítása</string><!-- e.g. for sounds or vibrations -->
-    <string name="restore_defaults_title"> </string> <!-- not used anymore -->
-    <string name="restore_defaults_message"> </string>  <!-- not used anymore -->
+    <string name="action_restore_defaults">Alapbeállítás visszaállítása</string> <!-- e.g. for sounds or vibrations -->
+    <string name="restore_defaults_title"> </string> <!-- translated --> <!-- not used anymore -->
+    <string name="restore_defaults_message"> </string> <!-- translated --> <!-- not used anymore -->
     <string name="restore_defaults_message2">Szeretné visszaállítani az alapbeállításokat?</string>
     <string name="action_add_system_notification_sound">Figyelmeztető hang hozzáadása</string>
     <string name="add_vibration">Vibrálás hozzáadása</string>
-    <string name="edit">Szerkeszt</string>  <!-- Name of action to edit list of sounds or list of vibrations, should be short -->
+    <string name="edit">Szerkeszt</string> <!-- Name of action to edit list of sounds or list of vibrations, should be short -->
     <string name="editing">Szerkesztés</string> <!-- Displayed in edit mode -->
     <string name="error_file_open_failed">Nem tudom megnyitni a fájlt.</string>
     <string name="play_vibration">Vibrálás</string> <!-- description of action of a button to perform vibration -->
-    <string name="play_sound">Hang lejátszása </string>  <!-- description of action of a button to play sound -->
+    <string name="play_sound">Hang lejátszása </string> <!-- description of action of a button to play sound -->
     <string name="drag_handle">Csúszka húzása</string>
     <string name="app_icon_desc">Applikáció ikon</string>
     <string name="select_audio_file">Hang választása</string>
@@ -509,7 +509,7 @@
     <string name="next_notification">Következő figyelmeztetés: %1$s</string>
     <string name="next_reminder">Következő emlékeztető: %1$s</string>
     <string name="next_alarm">Következő ébresztés: %1$s</string>
-    <string name="next">Következő: %1$s</string>  <!-- next notification, reminder or alarm time or date -->
+    <string name="next">Következő: %1$s</string> <!-- next notification, reminder or alarm time or date -->
     <string name="next_tomorrow">holnap %1$s-kor</string> <!-- e.g. tomorrow at 10:00 -->
     <string name="next_on_mon">hétfő %1$s-kor</string>
     <string name="next_on_tue">kedd %1$s-kor</string>
@@ -523,15 +523,15 @@
     <string name="show_seconds_on">Másodpercek választása engedélyezett. Az időt másodperccel mutatja.</string>
     <string name="show_seconds_off">Másodpercek választása tiltott. Az időt másodpercek nélkül mutatja.</string>
     <string name="notification_disabled_warning">Figyelmeztetés letiltva</string>
-    <string name="social_facebook">Facebook</string>
-    <string name="social_twitter">Twitter</string>
-    <string name="social_google_plus">Google+</string>
+    <string name="social_facebook">Facebook</string> <!-- translated -->
+    <string name="social_twitter">Twitter</string> <!-- translated -->
+    <string name="social_google_plus">Google+</string> <!-- translated -->
     <string name="social_google_plus_community">Google+ Közösség</string>
     <string name="finish_previous">Előző művelet befejezése</string>
     <string name="finish_previous_title">Várakozás erre</string>
     <string name="finish_previous_description">befejezendő korábbi műveletek</string>
     <string name="libraries">Könyvtárak</string> <!-- title of screen showing licenses of programming libraries used by the app -->
-    <string name="acknowledgements">Köszönetnyilvánítás</string>  <!-- name of screen with authors, translators and other people who have helped -->
+    <string name="acknowledgements">Köszönetnyilvánítás</string> <!-- name of screen with authors, translators and other people who have helped -->
     <string name="troubleshooting">Hibaelhárítás</string>
     <string name="premium_features">Prémium jellemzők</string>
     <string name="disable_when_headset">Letiltás headset csatlakoztatásakor</string>
@@ -574,7 +574,7 @@
     <string name="warning_no_email_app">Nem találtunk email applikációt a jelentés elküldéséhez.</string>
     <string name="weeknights">Hétköznap éjjel</string> <!-- nights from sunday to thursday -->
     <string name="weekend_nights">Hétvége éjjel</string> <!-- nights on friday and saturday -->
-    <string name="weekend">Hétvége</string>  <!-- saturday and sunday -->
+    <string name="weekend">Hétvége</string> <!-- saturday and sunday -->
     <string name="cannot_enable_app">Az app most nem engedélyezhető.</string>
 
     <string name="vibration_silence_millis">Csend időtartama ezredmásodpercben</string>
@@ -588,7 +588,7 @@
     <string name="sound_in_use">A hang használatban van, így nem törölhető.</string>
     <string name="vibration_in_use">A vibrálás használatban van, így nem törölhető.</string>
     <string name="not_found">Nem található</string>
-    <string name="sound_not_found">Nem található</string>  <!-- for sound -->
+    <string name="sound_not_found">Nem található</string> <!-- for sound -->
     <string name="vibration_not_found">Nem található</string> <!-- for vibration -->
 
     <string name="section_when">Mikor</string>
@@ -609,8 +609,8 @@
     <string name="unnamed_vibration">Névtelen</string>
     <string name="unnamed_notification">Névtelen</string>
 
-    <string name="item_deleted">Elem törölve.</string>  <!-- showed when one of list items is deleted -->
-    <string name="value_deleted">Törölve \"%1$s\"</string>  <!-- showed when one of list items is deleted and displays the value of the item -->
+    <string name="item_deleted">Elem törölve.</string> <!-- showed when one of list items is deleted -->
+    <string name="value_deleted">Törölve \"%1$s\"</string> <!-- showed when one of list items is deleted and displays the value of the item -->
     <string name="action_undo">Visszavonás</string> <!-- action name to undo deletion e.g. from a list -->
     <string name="condition_deleted">Feltétel törölve.</string>
     <string name="notification_deleted">Figyelmeztetés törölve.</string>
@@ -679,7 +679,7 @@
     <string name="show_actions_switches_on">Műveletek tiltása kapcsolók  mutatása.</string>
     <string name="show_actions_switches_off">Műveletek tiltása kapcsolók elrejtése.</string>
 
-    <string name="operating_modes_settings">Működési módok</string>  <!-- name of menu with different mode settings e.g. Do Not Disturb, vibrate mode -->
+    <string name="operating_modes_settings">Működési módok</string> <!-- name of menu with different mode settings e.g. Do Not Disturb, vibrate mode -->
     <string name="operating_modes_settings_summary">Ne zavarjanak, vibrálás mód, stb.</string>
     <string name="time_settings">Idő</string>
     <string name="sound_settings">Hang</string>
@@ -693,7 +693,7 @@
 
     <!-- premium -->
     <string name="dialog_premium_trial_text">Minden jelenlegi és jövőbeli szolgáltatás megszerzése</string> <!-- should be short -->
-    <string name="dialog_no_thanks">Nem, köszönöm</string>  <!-- should be short -->
+    <string name="dialog_no_thanks">Nem, köszönöm</string> <!-- should be short -->
     <string name="dialog_premium_unlock_button_text">Feloldás</string> <!-- should be short -->
     <string name="dialog_premium_trial_text2">Nyomja meg a \"Feloldás\"-t az ingyenes próbaidőszak megkezdéséhez.</string> <!-- use same text as in dialog_premium_unlock_button_text -->
     <string name="dialog_premium_trial_button_text">Ingyenes próbaidőszak megkezdése most</string> <!-- should be short -->
@@ -705,7 +705,7 @@
     <string name="feature_premium_content">Prémium tartalom</string>
     <string name="feature_premium_sounds">Prémium hagnok</string>
     <string name="feature_strike_the_hour">Órák jelzése harangütéssel</string>
-    <string name="premium_get_plus">Minden jelenlegi szolgáltatás megszerzése</string>  <!-- should be short -->
+    <string name="premium_get_plus">Minden jelenlegi szolgáltatás megszerzése</string> <!-- should be short -->
     <string name="premium_get_sounds">Minden hang megszerzése az alkalmazásban</string> <!-- should be short -->
     <string name="premium_get_plus_sounds">Minden jelenlegi szolgáltatás és hang megszerzése</string> <!-- should be short -->
     <string name="lock_icon">Lakat ikon</string>
