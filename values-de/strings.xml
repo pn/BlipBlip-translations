@@ -37,7 +37,7 @@
     <string name="next_notification_off">Ausgeschaltet</string>
     <string name="next_notification_never">Konflikt in den Einstellungen.</string>
     <string name="upcoming_notifications">Bevorstehende Benachrichtigung</string>
-    <string name="day_today">Heute</string>
+    <string name="day_today">heute</string>
     <string name="day_tomorrow">morgen</string>
     <string name="day_monday">Montag</string>
     <string name="day_tuesday">Dienstag</string>
@@ -48,7 +48,7 @@
     <string name="day_sunday">Sonntag</string>
 
     <!-- Period -->
-    <string name="repeat_every">Wiederholung alle</string>
+    <string name="repeat_every">Wiederholungsintervall</string>
     <string name="period_1_minute">1 Minute</string>
     <string name="period_5_minutes">5 Minuten</string>
     <string name="period_10_minutes">10 Minuten</string>
@@ -222,7 +222,7 @@
     <string name="notif_action_skip">Überspringe</string> <!-- this should refer to notif_button_skip -->
     <string name="notif_action_skip_desc">Überspringe nächste Benachrichtigung.</string>
     <string name="notif_action_snooze">Schlummern</string> <!-- this should refer to notif_button_snooze -->
-    <string name="notif_action_snooze_desc">Versetzte das Klingeln des Weckers oder die ankommende Benachrichtigung in den Schlummernmodus.</string>
+    <string name="notif_action_snooze_desc">Versetze das Klingeln des Weckers oder die ankommende Benachrichtigung in den Schlummernmodus.</string>
     <string name="notif_action_dismiss">Abbrechen</string> <!-- this should refer to notif_button_dismiss -->
     <string name="notif_action_dismiss_desc">Breche Weckalarm ab.</string>
     <string name="notif_button_play">Abspielen</string> <!-- Action button label in notification having same action as play button in the app - plays the notificaton for testing purposes. This text should be short, because it will be shown on notification button where there can be 3 of them -->
@@ -310,7 +310,7 @@
     <!-- Inline Attachments -->
     <string name="inline_attachments_title">Anhänge einfügen</string>
     <string name="inline_attachments_on"> \"Problem melden\" Anhänge einfügen.</string>
-    <string name="inline_attachments_off">Nutze die normale Mailfunktion für \"Problem melden\".</string>
+    <string name="inline_attachments_off">Nutze die standard E-Mailanwendung für \"Problem melden\".</string>
 
     <!-- Menu - Share -->
     <string name="action_share">Teile die App mit</string>
@@ -498,8 +498,8 @@
     <string name="action_rename">Umbennen</string>
     <string name="pref_accessibility">Zugänglichkeit</string>
     <string name="pref_swipe">Wischen</string>
-    <string name="pref_swipe_on">Wischen eingeschaltet für die Listeninhalte</string>
-    <string name="pref_swipe_off">Wischen ausgeschaltet für die Listeninhlate</string>
+    <string name="pref_swipe_on">Wischen für die Listeninhalte eingeschaltet</string>
+    <string name="pref_swipe_off">Wischen für die Listeninhlate ausgeschaltet</string>
     <string name="pref_action_menus">Aktionsmenü</string>
     <string name="pref_action_menus_on">Zeige Aktionsmenü, welches normalerweise Gesten benötigt (z.B. Fingerwischen). Praktisch bei der Nutzung mit TalkBack.</string>
     <string name="pref_action_menus_off">Verstecke Aktionsmenü welche mit Wischgesten bedient werden kann.</string>
@@ -551,7 +551,7 @@
     <string name="end_date">Ende Datum</string>
     <string name="dialog_title_time">Zeit</string>
     <string name="dialog_title_time_range">Zeitumfang</string>
-    <string name="dialog_title_repeat">Wiederhole jeden</string>
+    <string name="dialog_title_repeat">Wiederholung je</string>
     <string name="interval">Intervall</string>
     <string name="no_repeat">Keine Wiederholung</string>
     <string name="action_add_action">Aktion Hinzufügen</string>
@@ -645,9 +645,9 @@
     <string name="swipe_right_to_delete">Wische nach rechts um zu löschen</string>
 
     <string name="pref_user_interface">Benutzer Oberfläche</string>
-    <string name="show_inclusive_title">Wechsel die Enden des Zeitumfangs</string>
-    <string name="show_inclusive_on">Beim einstellen des Zeitumfangs, zeige Schalter welche die Auswahl erlauben die gegebene Zeit in Zeitumfangsmenü einzufügen.</string>
-    <string name="show_inclusive_off">Verstecke die Auswahlschalter der Zeit welche die Zeitauswahl in Zeitumfangsmenü anzeigen erlauben.</string>
+    <string name="show_inclusive_title">Verändere das Ende des Zeitumfangs</string>
+    <string name="show_inclusive_on">Beim einstellen des Zeitumfangs zeige Schalter an, welche die Auswahl der gegebenen Zeit in Zeitumfangsmenü erlauben.</string>
+    <string name="show_inclusive_off">Verstecke die Auswahlschalter der Zeit welche die Zeitauswahl im Zeitumfangsmenü anzeigen.</string>
 
     <string name="action_repeat">Wiederholung</string>
     <string name="action_repeat_sound">Wiederhole den Klang</string>
