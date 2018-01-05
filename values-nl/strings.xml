@@ -674,6 +674,10 @@
     <string name="application_default">Applicatie standaard</string>
     <string name="speak_time_format_with_minutes">Vertel tijd met minuten</string>
     <string name="speak_time_on_the_hour">Vertel tijd met uren</string>
+    <string name="tts_not_initialized">Text to speech engine is not yet initialized</string> <!-- TODO translate -->
+    <string name="tts_test_say_time_title">Test saying time</string> <!-- TODO translate -->
+    <string name="tts_system_settings_title">System settings</string> <!-- TODO translate -->
+    <string name="tts_system_settings_summary">Open system text to speech settings</string> <!-- TODO translate -->
 
     <string name="show_actions_switches_title">Acties wisselen</string> <!-- option to show enable/disable switches for actions -->
     <string name="show_actions_switches_on">Toon schakelaars voor uitschakel acties.</string>

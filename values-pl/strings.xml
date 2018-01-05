@@ -684,6 +684,10 @@
     <string name="application_default">Wartość domyślna aplikacji</string>
     <string name="speak_time_format_with_minutes">Wypowiadany czas z minutami</string>
     <string name="speak_time_on_the_hour">Wypowiadany czas o pełnej godzinie</string>
+    <string name="tts_not_initialized">Silnik syntezy mowy nie jest jeszcze zainicjalizowany</string>
+    <string name="tts_test_say_time_title">Testuj mówienie czasu</string>
+    <string name="tts_system_settings_title">Ustawienia systemowe</string>
+    <string name="tts_system_settings_summary">Otwórzy ustawienia systemowe syntezy mowy</string>
 
     <string name="show_actions_switches_title">Przełączniki dla akcji</string> <!-- option to show enable/disable switches for actions -->
     <string name="show_actions_switches_on">Pokazuj przełączniki do wyłączania akcji.</string>

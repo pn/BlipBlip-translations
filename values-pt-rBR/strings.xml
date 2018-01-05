@@ -676,6 +676,10 @@ Se você encontrar outros problemas, por favor, nos informe por e-mail.</string>
     <string name="application_default">Application default</string> <!-- TODO translate -->
     <string name="speak_time_format_with_minutes">Spoken time with minutes</string> <!-- TODO translate -->
     <string name="speak_time_on_the_hour">Spoken time on the hour</string> <!-- TODO translate -->
+    <string name="tts_not_initialized">Text to speech engine is not yet initialized</string> <!-- TODO translate -->
+    <string name="tts_test_say_time_title">Test saying time</string> <!-- TODO translate -->
+    <string name="tts_system_settings_title">System settings</string> <!-- TODO translate -->
+    <string name="tts_system_settings_summary">Open system text to speech settings</string> <!-- TODO translate -->
 
     <string name="show_actions_switches_title">Actions switches</string> <!-- TODO translate --> <!-- option to show enable/disable switches for actions -->
     <string name="show_actions_switches_on">Show switches for disabling actions.</string> <!-- TODO translate -->
