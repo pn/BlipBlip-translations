@@ -184,6 +184,7 @@ Se você precisa usar tais aplicativos, por favor, adicione Blip Blip na lista b
     <string name="pref_notification_always_on">Display notification regardless if it is enabled</string> <!-- TODO translate -->
     <string name="pref_notification_always_off">Display notification only if it is enabled</string> <!-- TODO translate -->
     <string name="notification_settings_updated">Notification settings updated</string> <!-- TODO translate --> <!-- message displayed when one of notification settings is updated without user interacting with these options -->
+    <string name="permanent_notification">Permanent notification</string> <!-- TODO translate -->
 
     <!-- Notification Priority -->
     <string name="pref_notification_priority">Notification priority</string> <!-- TODO translate -->

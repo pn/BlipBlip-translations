@@ -183,6 +183,7 @@
     <string name="pref_notification_always_on">无论是否开启都显示通知</string>
     <string name="pref_notification_always_off">只当开启时显示通知</string>
     <string name="notification_settings_updated">通知设置已更新</string> <!-- message displayed when one of notification settings is updated without user interacting with these options -->
+    <string name="permanent_notification">Permanent notification</string> <!-- TODO translate -->
 
     <!-- Notification Priority -->
     <string name="pref_notification_priority">通知优先级</string>

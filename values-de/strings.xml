@@ -183,6 +183,7 @@
     <string name="pref_notification_always_on">Zeige Benachrichtigung unabhängig ob sie eingeschaltet ist.</string>
     <string name="pref_notification_always_off">Zeige Benachrichtigung nur wenn sie eingeschaltet ist.</string>
     <string name="notification_settings_updated">Benachrichtigungseinstellungen wurden geändert</string> <!-- message displayed when one of notification settings is updated without user interacting with these options -->
+    <string name="permanent_notification">Permanent notification</string> <!-- TODO translate -->
 
     <!-- Notification Priority -->
     <string name="pref_notification_priority">Mitteilungspriorität</string>

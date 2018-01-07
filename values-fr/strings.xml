@@ -183,6 +183,7 @@
     <string name="pref_notification_always_on">Notification d\'affichage peu importe si elle est activée</string>
     <string name="pref_notification_always_off">Notification d\'affichage uniquement si elle est activée</string>
     <string name="notification_settings_updated">Paramètres de notification mis à jour.</string> <!-- message displayed when one of notification settings is updated without user interacting with these options -->
+    <string name="permanent_notification">Permanent notification</string> <!-- TODO translate -->
 
     <!-- Notification Priority -->
     <string name="pref_notification_priority">Priorité de la notification</string>

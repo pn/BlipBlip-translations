@@ -183,6 +183,7 @@
     <string name="pref_notification_always_on">Mostrar notificación aunque esté deshabilitada</string>
     <string name="pref_notification_always_off">Mostrar notificación sólo si está habilitada</string>
     <string name="notification_settings_updated">Configuración de notificacion actualizada</string> <!-- message displayed when one of notification settings is updated without user interacting with these options -->
+    <string name="permanent_notification">Permanent notification</string> <!-- TODO translate -->
 
     <!-- Notification Priority -->
     <string name="pref_notification_priority">Prioridad de notificación</string>
