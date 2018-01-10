@@ -607,6 +607,7 @@
     <string name="inclusive_time">bao gồm</string> <!-- used in the time range dialog to determine if edge value should be included -->
 
     <string name="pref_user_notifications">Thông báo người dùng</string>
+    <string name="user_notification">User notification</string> <!-- TODO translate -->
 
     <string name="action_set_as_home_screens">Đặt làm màn hình khởi động</string>
 

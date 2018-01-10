@@ -622,6 +622,7 @@ Se você encontrar outros problemas, por favor, nos informe por e-mail.</string>
     <string name="inclusive_time">inclusive</string> <!-- TODO translate --> <!-- used in the time range dialog to determine if edge value should be included -->
 
     <string name="pref_user_notifications">User notifications</string> <!-- TODO translate -->
+    <string name="user_notification">User notification</string> <!-- TODO translate -->
 
     <string name="action_set_as_home_screens">Set as start screen</string> <!-- TODO translate -->
 

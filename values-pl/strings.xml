@@ -630,6 +630,7 @@
     <string name="inclusive_time">włącznie</string> <!-- used in the time range dialog to determine if edge value should be included -->
 
     <string name="pref_user_notifications">Powiadomienia użytkownika</string>
+    <string name="user_notification">Powiadomienie użytkownika</string>
 
     <string name="action_set_as_home_screens">Ustaw jako ekran startowy</string>
 

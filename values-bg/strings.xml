@@ -620,6 +620,7 @@
     <string name="inclusive_time">включително</string> <!-- used in the time range dialog to determine if edge value should be included -->
 
     <string name="pref_user_notifications">Потребителски известия</string>
+    <string name="user_notification">User notification</string> <!-- TODO translate -->
 
     <string name="action_set_as_home_screens">Задай като начален екран</string>
 
