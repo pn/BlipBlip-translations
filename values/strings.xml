@@ -198,6 +198,11 @@
     <string name="pref_dismissible_notification_on">Notification is dismissible.</string>
     <string name="pref_dismissible_notification_off">Notification is persistent.</string>
 
+    <!-- Auto dismiss -->
+    <string name="auto_dismiss_notification_title">Auto dismiss notification</string>
+    <string name="auto_dismiss_notification_on">Dismiss notification automatically after some time.</string>
+    <string name="auto_dismiss_notification_off">Notification will not be dismissed automatically.</string>
+
     <!-- Vibrate on Wear -->
     <string name="pref_vibrate_wear_title">Vibrate on Android Wear device</string>
     <string name="pref_vibrate_wear_on">If vibration is enabled vibrate also on connected Android Wear device</string>
@@ -311,7 +316,7 @@
     <!-- Inline Attachments -->
     <string name="inline_attachments_title">Inline attachments</string>
     <string name="inline_attachments_on">Insert \"Report problem\" attachment contents inline.</string>
-    <string name="inline_attachments_off">Use regular email attachements in \"Report problem\" email.</string>
+    <string name="inline_attachments_off">Use regular email attachments in \"Report problem\" email.</string>
 
     <!-- Menu - Share -->
     <string name="action_share">Share app</string>

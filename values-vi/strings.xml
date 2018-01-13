@@ -198,6 +198,11 @@
     <string name="pref_dismissible_notification_on">Thông báo được hủy bỏ.</string>
     <string name="pref_dismissible_notification_off">Thông báo liền lạc.</string>
 
+    <!-- Auto dismiss -->
+    <string name="auto_dismiss_notification_title">Auto dismiss notification</string> <!-- TODO translate -->
+    <string name="auto_dismiss_notification_on">Dismiss notification automatically after some time.</string> <!-- TODO translate -->
+    <string name="auto_dismiss_notification_off">Notification will not be dismissed automatically.</string> <!-- TODO translate -->
+
     <!-- Vibrate on Wear -->
     <string name="pref_vibrate_wear_title">Rung trên thiết bị Android Wear</string>
     <string name="pref_vibrate_wear_on">Nếu rung được kích hoạt thì khi kết nối đến thiết bị Android Wear nó cũng sẽ rung</string>

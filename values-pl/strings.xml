@@ -198,6 +198,11 @@
     <string name="pref_dismissible_notification_on">Powiadomienie można usunąć.</string>
     <string name="pref_dismissible_notification_off">Powiadomienie jest stałe.</string>
 
+    <!-- Auto dismiss -->
+    <string name="auto_dismiss_notification_title">Ukryj powiadomienie automatycznie</string>
+    <string name="auto_dismiss_notification_on">Po jakimś czasie ukryj powiadomienie.</string>
+    <string name="auto_dismiss_notification_off">Powiadomienie nie będzie ukrywane.</string>
+
     <!-- Vibrate on Wear -->
     <string name="pref_vibrate_wear_title">Wibruj na urządzeniu Android Wear</string>
     <string name="pref_vibrate_wear_on">Jeśli wibracja jest włączona, wibruj również na połączonym urządzeniu Android Wear</string>

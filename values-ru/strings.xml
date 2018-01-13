@@ -198,6 +198,11 @@
     <string name="pref_dismissible_notification_on">Разрешить удаление уведомлений в шторке</string>
     <string name="pref_dismissible_notification_off">Запретить удаление уведомлений в шторке</string>
 
+    <!-- Auto dismiss -->
+    <string name="auto_dismiss_notification_title">Auto dismiss notification</string> <!-- TODO translate -->
+    <string name="auto_dismiss_notification_on">Dismiss notification automatically after some time.</string> <!-- TODO translate -->
+    <string name="auto_dismiss_notification_off">Notification will not be dismissed automatically.</string> <!-- TODO translate -->
+
     <!-- Vibrate on Wear -->
     <string name="pref_vibrate_wear_title">Вибрация на Wear</string>
     <string name="pref_vibrate_wear_on">Вибрировать на связанных смарт-часах Android Wear</string>

@@ -198,6 +198,11 @@
     <string name="pref_dismissible_notification_on">La notificación es descartable.</string>
     <string name="pref_dismissible_notification_off">La notificación es persistente.</string>
 
+    <!-- Auto dismiss -->
+    <string name="auto_dismiss_notification_title">Auto dismiss notification</string> <!-- TODO translate -->
+    <string name="auto_dismiss_notification_on">Dismiss notification automatically after some time.</string> <!-- TODO translate -->
+    <string name="auto_dismiss_notification_off">Notification will not be dismissed automatically.</string> <!-- TODO translate -->
+
     <!-- Vibrate on Wear -->
     <string name="pref_vibrate_wear_title">Vibrar con Android Wear</string>
     <string name="pref_vibrate_wear_on">Si la vibración está activada, entonces la vibración también debe manifestarse en el dispositivo Android Wear</string>
