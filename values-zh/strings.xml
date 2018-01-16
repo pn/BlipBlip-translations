@@ -61,6 +61,7 @@
     <string name="sound_text">音效</string>
     <string name="sound_blipblip">BlipBlip</string> <!-- TODO translate -->
     <string name="sound_casio_watch">卡西欧表</string>
+    <string name="sound_casio_watch_single">Casio watch (single)</string> <!-- TODO translate -->
     <string name="sound_gong">锣</string>
     <string name="sound_ships_bell">汽笛</string>
     <string name="sound_double_ships_bell">两声汽笛</string>
@@ -74,6 +75,7 @@
     <string name="sound_cat">Cat %1$s</string> <!-- TODO translate -->
     <string name="sound_dog">Dog %1$s</string> <!-- TODO translate -->
     <string name="sound_rooster">Rooster</string> <!-- TODO translate -->
+    <string name="sound_guitar_strum">Guitar strum %1$s</string> <!-- TODO translate -->
 
     <!-- Volume -->
     <string name="text_seek_volume">音量</string>

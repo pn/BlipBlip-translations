@@ -61,6 +61,7 @@
     <string name="sound_text">Ton</string>
     <string name="sound_blipblip">BlipBlip</string> <!-- translated -->
     <string name="sound_casio_watch">Casio Uhr</string>
+    <string name="sound_casio_watch_single">Casio watch (single)</string> <!-- TODO translate -->
     <string name="sound_gong">Gong</string> <!-- translated -->
     <string name="sound_ships_bell">Schiffsglocke</string>
     <string name="sound_double_ships_bell">doppelte Schiffsglocke</string>
@@ -74,6 +75,7 @@
     <string name="sound_cat">Katze %1$s</string>
     <string name="sound_dog">Hund %1$s</string>
     <string name="sound_rooster">Hahn</string>
+    <string name="sound_guitar_strum">Guitar strum %1$s</string> <!-- TODO translate -->
 
     <!-- Volume -->
     <string name="text_seek_volume">Lautstärke</string>

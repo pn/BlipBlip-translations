@@ -61,6 +61,7 @@
     <string name="sound_text">So</string>
     <string name="sound_blipblip">BlipBlip</string> <!-- TODO translate -->
     <string name="sound_casio_watch">So de rellotge CASIO</string>
+    <string name="sound_casio_watch_single">Casio watch (single)</string> <!-- TODO translate -->
     <string name="sound_gong">Gong</string> <!-- TODO translate -->
     <string name="sound_ships_bell">Campanada de vaixell</string>
     <string name="sound_double_ships_bell">Campanada de vaixell (2 cops)</string>
@@ -74,6 +75,7 @@
     <string name="sound_cat">Cat %1$s</string> <!-- TODO translate -->
     <string name="sound_dog">Dog %1$s</string> <!-- TODO translate -->
     <string name="sound_rooster">Rooster</string> <!-- TODO translate -->
+    <string name="sound_guitar_strum">Guitar strum %1$s</string> <!-- TODO translate -->
 
     <!-- Volume -->
     <string name="text_seek_volume">Volum</string>

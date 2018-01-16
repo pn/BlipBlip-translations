@@ -61,6 +61,7 @@
     <string name="sound_text">Âm thanh</string>
     <string name="sound_blipblip">BlipBlip</string> <!-- translated -->
     <string name="sound_casio_watch">Đồng hồ Casio</string>
+    <string name="sound_casio_watch_single">Casio watch (single)</string> <!-- TODO translate -->
     <string name="sound_gong">Tiếng cồng</string>
     <string name="sound_ships_bell">Chuông tàu</string>
     <string name="sound_double_ships_bell">Chuông tàu hai lần</string>
@@ -74,6 +75,7 @@
     <string name="sound_cat">Mèo %1$s</string>
     <string name="sound_dog">Chó %1$s</string>
     <string name="sound_rooster">Gà trống</string>
+    <string name="sound_guitar_strum">Guitar strum %1$s</string> <!-- TODO translate -->
 
     <!-- Volume -->
     <string name="text_seek_volume">Âm lượng</string>

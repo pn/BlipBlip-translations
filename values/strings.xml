@@ -61,6 +61,7 @@
     <string name="sound_text">Sound</string>
     <string name="sound_blipblip">BlipBlip</string>
     <string name="sound_casio_watch">Casio watch</string>
+    <string name="sound_casio_watch_single">Casio watch (single)</string>
     <string name="sound_gong">Gong</string>
     <string name="sound_ships_bell">Ship\'s bell</string>
     <string name="sound_double_ships_bell">Double ship\'s bell</string>
@@ -74,6 +75,7 @@
     <string name="sound_cat">Cat %1$s</string>
     <string name="sound_dog">Dog %1$s</string>
     <string name="sound_rooster">Rooster</string>
+    <string name="sound_guitar_strum">Guitar strum %1$s</string>
 
     <!-- Volume -->
     <string name="text_seek_volume">Volume</string>

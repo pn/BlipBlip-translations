@@ -61,6 +61,7 @@
     <string name="sound_text">Dźwięk</string>
     <string name="sound_blipblip">BlipBlip</string> <!-- translated -->
     <string name="sound_casio_watch">Zegarek Casio</string>
+    <string name="sound_casio_watch_single">Zegarek Casio (pojedynczy)</string>
     <string name="sound_gong">Gong</string> <!-- translated -->
     <string name="sound_ships_bell">Dzwon okrętowy</string>
     <string name="sound_double_ships_bell">Podwójny dzwon okrętowy</string>
@@ -74,6 +75,7 @@
     <string name="sound_cat">Kot %1$s</string>
     <string name="sound_dog">Pies %1$s</string>
     <string name="sound_rooster">Kogut</string>
+    <string name="sound_guitar_strum">Brzdęknięcie gitary %1$s</string>
 
     <!-- Volume -->
     <string name="text_seek_volume">Głośność</string>
