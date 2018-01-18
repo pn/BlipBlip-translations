@@ -678,6 +678,7 @@
     <string name="action_say_time">Mondja az időt</string>
     <string name="feature_say_text">Mondja a szöveget</string>
     <string name="feature_say_time">Mondja az időt</string>
+    <string name="pref_text_to_speech_engine">Engine</string> <!-- TODO translate -->
     <string name="pref_text_to_speech">Szöveg beszéddé</string>
     <string name="system_default_audio_stream">@string/setting_system_default</string>
     <string name="application_default">Alkalmazás alapbeállítás</string>
