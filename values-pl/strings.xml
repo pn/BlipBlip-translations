@@ -689,6 +689,7 @@
     <string name="feature_say_text">Mówienie tekstu</string>
     <string name="feature_say_time">Mówienie czasu</string>
     <string name="pref_text_to_speech_engine">Silnik</string>
+    <string name="pref_text_to_speech_voice">Głos</string>
     <string name="pref_text_to_speech">Synteza mowy</string>
     <string name="system_default_audio_stream">Domyślny systemowy</string>
     <string name="application_default">Wartość domyślna aplikacji</string>

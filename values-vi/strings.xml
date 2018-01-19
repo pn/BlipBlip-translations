@@ -666,6 +666,7 @@
     <string name="feature_say_text">Nói thời gian</string>
     <string name="feature_say_time">Nói thời gian</string>
     <string name="pref_text_to_speech_engine">Engine</string> <!-- TODO translate -->
+    <string name="pref_text_to_speech_voice">Voice</string> <!-- TODO translate -->
     <string name="pref_text_to_speech">Văn bản để nói</string>
     <string name="system_default_audio_stream">@string/setting_system_default</string>
     <string name="application_default">Ứng dụng mặc định</string>

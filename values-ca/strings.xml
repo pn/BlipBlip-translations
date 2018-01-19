@@ -678,6 +678,7 @@
     <string name="feature_say_text">Say time</string> <!-- TODO translate -->
     <string name="feature_say_time">Say time</string> <!-- TODO translate -->
     <string name="pref_text_to_speech_engine">Engine</string> <!-- TODO translate -->
+    <string name="pref_text_to_speech_voice">Voice</string> <!-- TODO translate -->
     <string name="pref_text_to_speech">Text to speech</string> <!-- TODO translate -->
     <string name="system_default_audio_stream">@string/setting_system_default</string>
     <string name="application_default">Application default</string> <!-- TODO translate -->
