@@ -684,6 +684,7 @@
     <string name="hide_notification_title">Ukryj powiadomienie</string>
     <string name="hide_notification_summary">Otwórz ustawienia systemowe aby ukryć powiadomienie. To jest zalecana metoda ukrywania powiadomienia ponieważ pozwala aplikacji działać na pierwszym planie.</string>
 
+    <!-- Text to speech -->
     <string name="action_say_text">Powiedz tekst</string>
     <string name="action_say_time">Powiedz godzinę</string>
     <string name="feature_say_text">Mówienie tekstu</string>
@@ -699,6 +700,9 @@
     <string name="tts_test_say_time_title">Testuj mówienie czasu</string>
     <string name="tts_system_settings_title">Ustawienia systemowe</string>
     <string name="tts_system_settings_summary">Otwórzy ustawienia systemowe syntezy mowy</string>
+    <string name="pref_tts_overlaps_sounds">Mova naraz z dźwiękami</string>
+    <string name="pref_tts_overlaps_sounds_on">Mowa będzie odtwarzana razem z dźwiękami</string>
+    <string name="pref_tts_overlaps_sounds_off">Mowa nie będzie odtwarzana razem z dźwiękami (dźwięk będzie odtworzony przed lub po mowie)</string>
 
     <string name="show_actions_switches_title">Przełączniki dla akcji</string> <!-- option to show enable/disable switches for actions -->
     <string name="show_actions_switches_on">Pokazuj przełączniki do wyłączania akcji.</string>

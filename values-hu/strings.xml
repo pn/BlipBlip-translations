@@ -674,6 +674,7 @@
     <string name="hide_notification_title">Figyelmeztetés elrejtése</string>
     <string name="hide_notification_summary">Rendszer beállítások megnyitása figyelmeztetés elrejtésére. Ez afigyelmeztetés elrejtésének javasolt módja, mert ez engedi az appot előtérben futni.</string>
 
+    <!-- Text to speech -->
     <string name="action_say_text">Mondja a szöveget</string>
     <string name="action_say_time">Mondja az időt</string>
     <string name="feature_say_text">Mondja a szöveget</string>
@@ -689,6 +690,9 @@
     <string name="tts_test_say_time_title">Test saying time</string> <!-- TODO translate -->
     <string name="tts_system_settings_title">System settings</string> <!-- TODO translate -->
     <string name="tts_system_settings_summary">Open system text to speech settings</string> <!-- TODO translate -->
+    <string name="pref_tts_overlaps_sounds">Overlap sounds</string> <!-- TODO translate -->
+    <string name="pref_tts_overlaps_sounds_on">Speaking will overlap sounds</string> <!-- TODO translate -->
+    <string name="pref_tts_overlaps_sounds_off">Speaking will not overlap sounds (sound will play before or after speaking)</string> <!-- TODO translate -->
 
     <string name="show_actions_switches_title">Művelet kapcsolók</string> <!-- option to show enable/disable switches for actions -->
     <string name="show_actions_switches_on">Műveletek tiltása kapcsolók  mutatása.</string>

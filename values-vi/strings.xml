@@ -661,6 +661,7 @@
     <string name="hide_notification_title">Ần thông báo</string>
     <string name="hide_notification_summary">Mở cài đặt hệ thống để ẩn thông báo. Đây là cách được đề nghị để ẩn thông báo vì nó cho phép ứng dụng hoạt động ở trước nền.</string>
 
+    <!-- Text to speech -->
     <string name="action_say_text">Nói văn bản</string>
     <string name="action_say_time">Nói thời gian</string>
     <string name="feature_say_text">Nói thời gian</string>
@@ -676,6 +677,9 @@
     <string name="tts_test_say_time_title">Test saying time</string> <!-- TODO translate -->
     <string name="tts_system_settings_title">System settings</string> <!-- TODO translate -->
     <string name="tts_system_settings_summary">Open system text to speech settings</string> <!-- TODO translate -->
+    <string name="pref_tts_overlaps_sounds">Overlap sounds</string> <!-- TODO translate -->
+    <string name="pref_tts_overlaps_sounds_on">Speaking will overlap sounds</string> <!-- TODO translate -->
+    <string name="pref_tts_overlaps_sounds_off">Speaking will not overlap sounds (sound will play before or after speaking)</string> <!-- TODO translate -->
 
     <string name="show_actions_switches_title">Công tắc hành động</string> <!-- option to show enable/disable switches for actions -->
     <string name="show_actions_switches_on">Hiển thị công tắc để vô hiệu hoá hành động.</string>

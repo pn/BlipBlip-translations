@@ -674,6 +674,7 @@ Se encontrar outros problemas, por favor, informe-nos por correio electrónico.<
     <string name="hide_notification_title">Hide notification</string> <!-- TODO translate -->
     <string name="hide_notification_summary">Open system settings to hide notification. This is recommended way for hiding notification because it allows the app to work in foreground.</string> <!-- TODO translate -->
 
+    <!-- Text to speech -->
     <string name="action_say_text">Say text</string> <!-- TODO translate -->
     <string name="action_say_time">Say time</string> <!-- TODO translate -->
     <string name="feature_say_text">Say time</string> <!-- TODO translate -->
@@ -689,6 +690,9 @@ Se encontrar outros problemas, por favor, informe-nos por correio electrónico.<
     <string name="tts_test_say_time_title">Test saying time</string> <!-- TODO translate -->
     <string name="tts_system_settings_title">System settings</string> <!-- TODO translate -->
     <string name="tts_system_settings_summary">Open system text to speech settings</string> <!-- TODO translate -->
+    <string name="pref_tts_overlaps_sounds">Overlap sounds</string> <!-- TODO translate -->
+    <string name="pref_tts_overlaps_sounds_on">Speaking will overlap sounds</string> <!-- TODO translate -->
+    <string name="pref_tts_overlaps_sounds_off">Speaking will not overlap sounds (sound will play before or after speaking)</string> <!-- TODO translate -->
 
     <string name="show_actions_switches_title">Actions switches</string> <!-- TODO translate --> <!-- option to show enable/disable switches for actions -->
     <string name="show_actions_switches_on">Show switches for disabling actions.</string> <!-- TODO translate -->
