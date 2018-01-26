@@ -700,7 +700,7 @@
     <string name="tts_test_say_time_title">Testuj mówienie czasu</string>
     <string name="tts_system_settings_title">Ustawienia systemowe</string>
     <string name="tts_system_settings_summary">Otwórzy ustawienia systemowe syntezy mowy</string>
-    <string name="pref_tts_overlaps_sounds">Mova naraz z dźwiękami</string>
+    <string name="pref_tts_overlaps_sounds">Mowa naraz z dźwiękami</string>
     <string name="pref_tts_overlaps_sounds_on">Mowa będzie odtwarzana razem z dźwiękami</string>
     <string name="pref_tts_overlaps_sounds_off">Mowa nie będzie odtwarzana razem z dźwiękami (dźwięk będzie odtworzony przed lub po mowie)</string>
 
