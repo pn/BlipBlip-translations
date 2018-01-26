@@ -719,4 +719,11 @@
     <string name="vibrate_seconds">Vibrate %ss</string> <!-- TODO translate --> <!-- s at the end is for seconds, %s will be replaced vy value e.g. "Vibrate 1.2s" -->
     <string name="wait_and_vibrate_seconds">Wait %ss, vibrate %ss</string> <!-- TODO translate -->
 
+    <!-- button descriptions -->
+    <string name="open_menu">Open menu</string> <!-- TODO translate -->
+    <string name="add_new_sound">Add new sound from external app</string> <!-- TODO translate -->
+    <string name="create_new_vibration">Create new vibration</string> <!-- TODO translate -->
+    <string name="create_new_notification">Create new notification</string> <!-- TODO translate -->
+    <string name="create_new_silent_time">Create new silent time</string> <!-- TODO translate -->
+
 </resources>

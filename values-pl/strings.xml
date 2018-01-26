@@ -741,4 +741,11 @@
     <string name="vibrate_seconds">Wibruj %ss</string> <!-- s at the end is for seconds, %s will be replaced vy value e.g. "Vibrate 1.2s" -->
     <string name="wait_and_vibrate_seconds">Czekaj %ss, wibruj %ss</string>
 
+    <!-- button descriptions -->
+    <string name="open_menu">Otwórz menu</string>
+    <string name="add_new_sound">Dodaj nowy dźwięk z zewnętrznej aplikacji</string>
+    <string name="create_new_vibration">Utwórz nową wibrację</string>
+    <string name="create_new_notification">Utwórz nowe powiadomienie</string>
+    <string name="create_new_silent_time">Utwórz nowy cichy czas</string>
+
 </resources>
