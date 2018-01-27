@@ -21,6 +21,7 @@
     <string name="allow_while_idle_title">允许在省电模式中使用</string>
     <string name="allow_while_idle_off">当使用省电模式时，一些通知可能无法送达。</string>
     <string name="allow_while_idle_on">允许在低耗模式下工作。但可能没法每隔15分钟及以下频繁地接收通知。此设置可能轻微影响续航</string>
+    <string name="app_killed_title">App was killed</string> <!-- TODO translate -->
     <string name="app_killed_warning">最近BlipBlip总是闪退 &amp;lt;b&gt;请确保你没有使用一些省电优化模式或其它应用（比如task killer）&amp;lt;/b&gt;. 它们有时会对BlipBlip造成一些问题.如果你使用了这类应用，请将BlipBlip加入白名单。如果你认为这是一个bug，请用报告问题这一选项反馈，或者写在 &amp;lt;a href=\"%1$s\"&gt;BlipBlip Google+ community&amp;lt;/a&gt;.</string>
     <string name="app_killed_warning2">最近BlipBlip总是闪退 &amp;lt;b&gt;请确保你没有使用一些省电优化模式或其它应用（比如task killer）&amp;lt;/b&gt;. 它们有时会对BlipBlip造成一些问题.如果你使用了这类应用，请将BlipBlip加入白名单。如果你认为这是一个bug，请 \"%1$s\" </string> <!-- Text in quotes will be replaced by value of action_send_logs -->
 

@@ -21,6 +21,7 @@
     <string name="allow_while_idle_title">Allow in low power mode</string>
     <string name="allow_while_idle_off">When phone enters low power mode some notifications may be skipped.</string>
     <string name="allow_while_idle_on">Allow to work in low power (Doze/Idle) mode. May not always work for notifications more frequent than 15 minutes. Setting may slightly affect battery usage.</string>
+    <string name="app_killed_title">App was killed</string>
     <string name="app_killed_warning">Recently BlipBlip was unexpectedly stopped. &lt;b&gt;Please make sure you are not using any battery optimization (or power saving, eco, etc.) mode or app (e.g. task killers)&lt;/b&gt;. They usually cause such issues. If you need to use such app, please add BlipBlip to whitelist in that app. If you think this is bug in the app or need help, please describe your problem using \"Report problem\" option or write on &lt;a href=\"%1$s\"&gt;BlipBlip Google+ community&lt;/a&gt;.</string>
     <string name="app_killed_warning2">Recently BlipBlip was unexpectedly stopped. &lt;b&gt;Please make sure you are not using any battery optimization (or power saving, eco, etc.) mode or app (e.g. task killers)&lt;/b&gt;. They usually cause such issues. If you need to use such app, please add BlipBlip to whitelist in that app. If you think this is bug in the app or need help, please describe your problem using \"%1$s\" option.</string> <!-- Text in quotes will be replaced by value of action_send_logs -->
 
