@@ -333,6 +333,9 @@
     <string name="rate_us_message">Danke, dass Du Dir die Zeit nimmst, die App zu bewerten.</string>
     <string name="rate_us_onetofourstars">1–4 Sterne</string>
     <string name="rate_us_fivestars">5 Sterne!</string>
+    <string name="five_stars_description">Five stars</string> <!-- TODO translate -->
+    <string name="five_stars_title">Love Blip Blip?</string> <!-- TODO translate -->
+    <string name="five_stars_text">Rate us 5 stars to help make Blip\u00A0Blip even more awesome. Thanks!</string> <!-- TODO translate -->
 
     <!-- Menu - Error -->
     <string name="action_send_logs">Problem melden</string>

@@ -333,6 +333,9 @@
     <string name="rate_us_message">Thank you for taking time to review the app.</string>
     <string name="rate_us_onetofourstars">1–4 stars</string>
     <string name="rate_us_fivestars">5 stars!</string>
+    <string name="five_stars_description">Five stars</string>
+    <string name="five_stars_title">Love Blip Blip?</string>
+    <string name="five_stars_text">Rate us 5 stars to help make Blip\u00A0Blip even more awesome. Thanks!</string>
 
     <!-- Menu - Error -->
     <string name="action_send_logs">Report problem</string>
@@ -712,7 +715,7 @@
 
     <!-- premium -->
     <string name="dialog_premium_trial_text">Get all current and future features.</string> <!-- should be short -->
-    <string name="dialog_no_thanks">No, thanks</string> <!-- should be short -->
+    <string name="dialog_no_thanks">No thanks</string> <!-- should be short -->
     <string name="dialog_premium_unlock_button_text">Unlock</string> <!-- should be short -->
     <string name="dialog_premium_trial_text2">Press \"Unlock\" to start your free trial.</string> <!-- use same text as in dialog_premium_unlock_button_text -->
     <string name="dialog_premium_trial_button_text">Start free trial now</string> <!-- should be short -->

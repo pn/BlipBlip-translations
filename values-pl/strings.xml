@@ -333,6 +333,9 @@
     <string name="rate_us_message">Dziękuję za poświęcony czas na ocenę aplikacji.</string>
     <string name="rate_us_onetofourstars">1–4 gwiazdki</string>
     <string name="rate_us_fivestars">5 gwiazdek!</string>
+    <string name="five_stars_description">Pięć gwiazdek</string>
+    <string name="five_stars_title">Lubisz Blip Blip?</string>
+    <string name="five_stars_text">Oceń nas na 5 gwiazdek by pomóc uczynić Blip Blip jeszcze lepszym. Dziękujemy!</string>
 
     <!-- Menu - Error -->
     <string name="action_send_logs">Zgłoś problem</string>

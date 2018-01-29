@@ -333,6 +333,9 @@
     <string name="rate_us_message">Gracias por tomarte el tiempo de revisar esta aplicación.</string>
     <string name="rate_us_onetofourstars">14 estrellas</string>
     <string name="rate_us_fivestars">¡5 estrellas!</string>
+    <string name="five_stars_description">Five stars</string> <!-- TODO translate -->
+    <string name="five_stars_title">Love Blip Blip?</string> <!-- TODO translate -->
+    <string name="five_stars_text">Rate us 5 stars to help make Blip\u00A0Blip even more awesome. Thanks!</string> <!-- TODO translate -->
 
     <!-- Menu - Error -->
     <string name="action_send_logs">Reporta un problema</string>
@@ -712,7 +715,7 @@
 
     <!-- premium -->
     <string name="dialog_premium_trial_text">Get all current and future features.</string> <!-- TODO translate --> <!-- should be short -->
-    <string name="dialog_no_thanks">No, thanks</string> <!-- TODO translate --> <!-- should be short -->
+    <string name="dialog_no_thanks">No thanks</string> <!-- TODO translate --> <!-- should be short -->
     <string name="dialog_premium_unlock_button_text">Unlock</string> <!-- TODO translate --> <!-- should be short -->
     <string name="dialog_premium_trial_text2">Press \"Unlock\" to start your free trial.</string> <!-- TODO translate --> <!-- use same text as in dialog_premium_unlock_button_text -->
     <string name="dialog_premium_trial_button_text">Start free trial now</string> <!-- TODO translate --> <!-- should be short -->
