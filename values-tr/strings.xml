@@ -358,6 +358,8 @@
     <string name="about_send_feedback">Geribildirim yolla</string>
     <string name="about_community">Google+ topluluğu</string>
     <string name="about_more_apps">Daha fazla uygulamalar</string>
+    <string name="about_thank_you">Thank You</string> <!-- TODO translate -->
+    <string name="about_images">Images</string> <!-- TODO translate -->
 
     <!-- Visual -->
     <string name="pref_visual">Görsel ayarlar</string>
@@ -550,8 +552,6 @@
     <string name="disable_when_headset_on">All notifications disabled</string> <!-- TODO translate -->
     <string name="disable_when_headset_off">All notifications enabled</string> <!-- TODO translate -->
     <string name="disable_when_headset_toast">BlipBlip notifications are now disabled, because you have headset connected.</string> <!-- TODO translate -->
-
-    <string name="about_thank_you">Thank You</string> <!-- TODO translate -->
 
     <string name="snack_bar_text_item_removed">1 item removed</string> <!-- TODO translate -->
     <string name="snack_bar_action_undo">UNDO</string> <!-- TODO translate -->

@@ -359,6 +359,8 @@ Se encontrar outros problemas, por favor, informe-nos por correio electrónico.<
     <string name="about_send_feedback">Enviar comentários</string>
     <string name="about_community">Comunidade Google+</string>
     <string name="about_more_apps">Mais aplicações</string>
+    <string name="about_thank_you">Thank You</string> <!-- TODO translate -->
+    <string name="about_images">Images</string> <!-- TODO translate -->
 
     <!-- Visual -->
     <string name="pref_visual">Definições de vista</string>
@@ -551,8 +553,6 @@ Se encontrar outros problemas, por favor, informe-nos por correio electrónico.<
     <string name="disable_when_headset_on">All notifications disabled</string> <!-- TODO translate -->
     <string name="disable_when_headset_off">All notifications enabled</string> <!-- TODO translate -->
     <string name="disable_when_headset_toast">BlipBlip notifications are now disabled, because you have headset connected.</string> <!-- TODO translate -->
-
-    <string name="about_thank_you">Thank You</string> <!-- TODO translate -->
 
     <string name="snack_bar_text_item_removed">1 item removed</string> <!-- TODO translate -->
     <string name="snack_bar_action_undo">UNDO</string> <!-- TODO translate -->

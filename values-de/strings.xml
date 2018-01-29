@@ -358,6 +358,8 @@
     <string name="about_send_feedback">Sende eine Rückmeldung</string>
     <string name="about_community">Google+ Community</string> <!-- translated -->
     <string name="about_more_apps">weitere Apps</string>
+    <string name="about_thank_you">Vielen Dank</string>
+    <string name="about_images">Images</string> <!-- TODO translate -->
 
     <!-- Visual -->
     <string name="pref_visual">Ansichteinstellungen</string>
@@ -547,8 +549,6 @@
     <string name="disable_when_headset_on">Alle Benachrichtigungen ausgeschaltet</string>
     <string name="disable_when_headset_off">Alle Benachrichtigungen eingeschaltet</string>
     <string name="disable_when_headset_toast">BlipBlip Benachrichtigungen sind jetzt ausgeschaltet, da Kopfhörer verbunden sind.</string>
-
-    <string name="about_thank_you">Vielen Dank</string>
 
     <string name="snack_bar_text_item_removed">1 Element entfernt</string>
     <string name="snack_bar_action_undo">zurück</string>

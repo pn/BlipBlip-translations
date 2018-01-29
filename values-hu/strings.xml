@@ -358,6 +358,8 @@
     <string name="about_send_feedback">Visszajelzés küldése</string>
     <string name="about_community">Google+ közösség</string>
     <string name="about_more_apps">További alkalmazások</string>
+    <string name="about_thank_you">Köszönjük</string>
+    <string name="about_images">Images</string> <!-- TODO translate -->
 
     <!-- Visual -->
     <string name="pref_visual">Vizuális beállítások</string>
@@ -550,8 +552,6 @@
     <string name="disable_when_headset_on">Minden figyelmeztetés letiltott</string>
     <string name="disable_when_headset_off">Minden figyelmeztetés engedélyezett</string>
     <string name="disable_when_headset_toast">A BlipBlip figyelmeztetések most le vannak tiltve, mert headsetet csatlakoztatott.</string>
-
-    <string name="about_thank_you">Köszönjük</string>
 
     <string name="snack_bar_text_item_removed">1 elem eltávolítva</string>
     <string name="snack_bar_action_undo">VISSZAVONÁS</string>
