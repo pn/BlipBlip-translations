@@ -360,6 +360,10 @@
     <string name="about_more_apps">More Apps</string>
     <string name="about_thank_you">Thank You</string>
     <string name="about_images">Images</string>
+    <string name="about_libraries">Libraries</string> <!-- title of screen showing licenses of programming libraries used by the app -->
+    <string name="about_acknowledgements">Acknowledgements</string> <!-- name of screen with authors, translators and other people who have helped -->
+    <string name="about_translators_thank_you">BlipBlip is translated by our users voluntarily and hereby we thank you for your support and contribution.</string>
+
 
     <!-- Visual -->
     <string name="pref_visual">Visual settings</string>
@@ -542,8 +546,6 @@
     <string name="finish_previous">Finish previous actions</string>
     <string name="finish_previous_title">Wait for</string>
     <string name="finish_previous_description">previous actions to finish</string>
-    <string name="libraries">Libraries</string> <!-- title of screen showing licenses of programming libraries used by the app -->
-    <string name="acknowledgements">Acknowledgements</string> <!-- name of screen with authors, translators and other people who have helped -->
     <string name="troubleshooting">Troubleshooting</string>
     <string name="premium_features">Premium features</string>
     <string name="disable_when_headset">Disable when headset connected</string>
