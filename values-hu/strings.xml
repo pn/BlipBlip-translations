@@ -748,4 +748,8 @@
     <string name="create_new_notification">Create new notification</string> <!-- TODO translate -->
     <string name="create_new_silent_time">Create new silent time</string> <!-- TODO translate -->
 
+    <!-- widget -->
+    <string name="app_enabled">App enabled</string> <!-- TODO translate -->
+    <string name="app_disabled">App disabled</string> <!-- TODO translate -->
+
 </resources>

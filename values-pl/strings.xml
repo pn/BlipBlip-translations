@@ -758,4 +758,8 @@
     <string name="create_new_notification">Utwórz nowe powiadomienie</string>
     <string name="create_new_silent_time">Utwórz nowy cichy czas</string>
 
+    <!-- widget -->
+    <string name="app_enabled">Aplikacja włączona</string>
+    <string name="app_disabled">Aplikacja wyłączona</string>
+
 </resources>
