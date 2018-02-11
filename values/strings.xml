@@ -716,7 +716,7 @@
     <string name="error_corrupted_sound">Sound is corrupted</string>
 
     <!-- premium -->
-    <string name="dialog_premium_trial_text">Get all current and future features.</string> <!-- should be short -->
+    <string name="dialog_premium_trial_text">Get all current and future features</string> <!-- should be short -->
     <string name="dialog_no_thanks">No thanks</string> <!-- should be short -->
     <string name="dialog_premium_unlock_button_text">Unlock</string> <!-- should be short -->
     <string name="dialog_premium_trial_text2">Press \"Unlock\" to start your free trial.</string> <!-- use same text as in dialog_premium_unlock_button_text -->
@@ -736,6 +736,11 @@
     <string name="premium_sound_lock">This is premium sound which requires unlocking before use.</string>
     <string name="premium_feature_lock">This is premium feature which requires unlocking before use.</string>
     <string name="change_subscription">Change subscription</string>
+    <string name="upgrade_to_pro">Upgrade</string>
+    <string name="loading_failed">Error</string>
+    <string name="month">month</string>
+    <string name="month_very_short">mo.</string> <!-- shortcut for word "month", singular -->
+    <string name="discount_save_money">Save</string> <!-- percent saved will be displayed below this text -->
 
     <string name="vibrate_seconds">Vibrate %ss</string> <!-- s at the end is for seconds, %s will be replaced vy value e.g. "Vibrate 1.2s" -->
     <string name="wait_and_vibrate_seconds">Wait %ss, vibrate %ss</string>
@@ -750,5 +755,7 @@
     <!-- widget -->
     <string name="app_enabled">App enabled</string>
     <string name="app_disabled">App disabled</string>
+
+    <string name="warning_volume_dnd">Cannot show system volume because Do Not Disturb mode is enabled</string>
 
 </resources>

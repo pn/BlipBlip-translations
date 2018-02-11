@@ -747,6 +747,11 @@
     <string name="premium_sound_lock">To jest płatny dźwięk, który wymaga odblokowania przed użyciem.</string>
     <string name="premium_feature_lock">To jest płatna funkcja, który wymaga odblokowania przed użyciem.</string>
     <string name="change_subscription">Zmień subskrypcję</string>
+    <string name="upgrade_to_pro">Aktualizuj</string>
+    <string name="loading_failed">Błąd</string>
+    <string name="month">miesiąć</string>
+    <string name="month_very_short">mies.</string> <!-- shortcut for word "month", singular -->
+    <string name="discount_save_money">Oszczędź</string>  <!-- percent saved will be displayed below this text -->
 
     <string name="vibrate_seconds">Wibruj %ss</string> <!-- s at the end is for seconds, %s will be replaced vy value e.g. "Vibrate 1.2s" -->
     <string name="wait_and_vibrate_seconds">Czekaj %ss, wibruj %ss</string>
