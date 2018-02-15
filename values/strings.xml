@@ -757,4 +757,8 @@
 
     <string name="warning_volume_dnd">Cannot show system volume because Do Not Disturb mode is enabled</string>
 
+    <!-- auto start failed dialog -->
+    <string name="auto_start_fail_title">Auto-start failed</string>
+    <string name="auto_start_fail_message">Automatic start of the app failed. Please check your settings.</string>
+
 </resources>

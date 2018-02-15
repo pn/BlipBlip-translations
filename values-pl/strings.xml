@@ -628,7 +628,6 @@
     <string name="add_to_favorites">Dodaj do ulubionych</string>
     <string name="open_favorites">Otwórz ulubione</string>
 
-    <string name="new_sound">Nowy dźwięk</string>
     <string name="unnamed_sound">Nienazwany</string>
     <string name="unnamed_vibration">Nienazwana</string>
     <string name="unnamed_notification">Nienazwane</string>
@@ -751,7 +750,7 @@
     <string name="loading_failed">Błąd</string>
     <string name="month">miesiąć</string>
     <string name="month_very_short">mies.</string> <!-- shortcut for word "month", singular -->
-    <string name="discount_save_money">Oszczędź</string>  <!-- percent saved will be displayed below this text -->
+    <string name="discount_save_money">Oszczędź</string> <!-- percent saved will be displayed below this text -->
 
     <string name="vibrate_seconds">Wibruj %ss</string> <!-- s at the end is for seconds, %s will be replaced vy value e.g. "Vibrate 1.2s" -->
     <string name="wait_and_vibrate_seconds">Czekaj %ss, wibruj %ss</string>
@@ -766,5 +765,11 @@
     <!-- widget -->
     <string name="app_enabled">Aplikacja włączona</string>
     <string name="app_disabled">Aplikacja wyłączona</string>
+
+    <string name="warning_volume_dnd">Nie można pokazać głośności systemowej ponieważ włączony jest tryb \"Nie przeszkadzaj\"</string>
+
+    <!-- auto start failed dialog -->
+    <string name="auto_start_fail_title">Niepowodzenie autostartu</string>
+    <string name="auto_start_fail_message">Automatyczny start aplikacji nie powiódł się. Proszę sprawdź ustawienia.</string>
 
 </resources>
