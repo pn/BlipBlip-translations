@@ -167,8 +167,8 @@
 
 
     <!-- ADVANCED SETTINGS -->
-    <string name="pref_advanced">erweiterte Einstellungen</string>
-    <string name="title_advanced_settings">erweiterte Einstellungen</string>
+    <string name="pref_advanced">Erweiterte Einstellungen</string>
+    <string name="title_advanced_settings">Erweiterte Einstellungen</string>
 
     <!-- Audio Stream -->
     <string name="pref_choose_audio_stream">Ausgabe über Kanal</string>
