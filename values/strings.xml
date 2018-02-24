@@ -750,6 +750,7 @@
     <string name="create_new_vibration">Create new vibration</string>
     <string name="create_new_notification">Create new notification</string>
     <string name="create_new_silent_time">Create new silent time</string>
+    <string name="additional_info_button">Additional information</string>
 
     <!-- widget -->
     <string name="app_enabled">App enabled</string>
@@ -760,5 +761,20 @@
     <!-- auto start failed dialog -->
     <string name="auto_start_fail_title">Auto-start failed</string>
     <string name="auto_start_fail_message">Automatic start of the app failed. Please check your settings.</string>
+
+    <!-- manual settings dialog -->
+    <string name="manual_settings_title">Manual settings needed</string>
+    <string name="manual_settings_summary">Some manual settings may be needed for BlipBlip to function properly.</string>
+    <string name="manual_settings_tips_subtitle">Please try below tips</string>
+    <string name="manual_settings_snackbar">Please review manual settings which may be needed for app to function properly</string>
+    <string name="manual_settings_show">Show</string>
+    <string name="manual_settings_permanent_notification_description">Enable permanent notification (recommended)</string>
+    <string name="manual_settings_permanent_notification_info">App will show permanently visible notification, which may prevent app from being killed.</string>
+    <string name="manual_settings_general_tips_button">Show general tips</string>
+    <string name="manual_settings_general_tips">General tips</string>
+    <string name="manual_settings_general_tip1">Disable power saving modes in device settings</string>
+    <string name="manual_settings_general_tip2">Disable apps that optimize battery or memory usage (e.g. task killers)</string>
+    <string name="manual_settings_general_tips_info">If your device requires changing other options, please let us now using "Report problem" option.</string>
+    <string name="manual_settings_suggest_report_problem">If after trying above tips you would still have issues with the app, please report the problem.</string>
 
 </resources>

@@ -761,6 +761,7 @@
     <string name="create_new_vibration">Utwórz nową wibrację</string>
     <string name="create_new_notification">Utwórz nowe powiadomienie</string>
     <string name="create_new_silent_time">Utwórz nowy cichy czas</string>
+    <string name="additional_info_button">Dodatkowe informacje</string>
 
     <!-- widget -->
     <string name="app_enabled">Aplikacja włączona</string>
@@ -771,5 +772,20 @@
     <!-- auto start failed dialog -->
     <string name="auto_start_fail_title">Niepowodzenie autostartu</string>
     <string name="auto_start_fail_message">Automatyczny start aplikacji nie powiódł się. Proszę sprawdź ustawienia.</string>
+
+    <!-- manual settings dialog -->
+    <string name="manual_settings_title">Potrzebne ręczne ustawienia</string>
+    <string name="manual_settings_summary">Pewne ręczne ustawienia mogą być potrzebne, żeby BlipBlip funkcjonował poprawnie.</string>
+    <string name="manual_settings_tips_subtitle">Proszę wypróbuj poniższe wskazówki</string>
+    <string name="manual_settings_snackbar">Proszę przejrzyj ręczne ustawienia, które mogą być potrzebne do poprawnego funkcjonowania aplikacji</string>
+    <string name="manual_settings_show">Pokaż</string>
+    <string name="manual_settings_permanent_notification_description">Włącz stałe powiadomienie (zalecane)</string>
+    <string name="manual_settings_permanent_notification_info">Aplikacja wyświetli stale widoczne powiadomienie, które może zapobiegać zabiciu aplikacji.</string>
+    <string name="manual_settings_general_tips_button">Pokaż ogólne wskazówki</string>
+    <string name="manual_settings_general_tips">Ogólne wskazówki</string>
+    <string name="manual_settings_general_tip1">Wyłącz tryby oszczędzania baterii w ustawieniach urządzenia</string>
+    <string name="manual_settings_general_tip2">Wyłącz aplikacje, które optymalizują użycie baterii lub pamięci (np. aplikacje typu "task killer")</string>
+    <string name="manual_settings_general_tips_info">Jeśli Twoje urządzenia wymaga zmiany innych opcji, prosimy daj nam zanć używając opcji "Zgłoś problem"</string>
+    <string name="manual_settings_suggest_report_problem">Jeśli po wypróbowaniu powyższych wskazówek masz nadal problemy z aplikacją, prosimy o zgłoszenie problemu.</string>
 
 </resources>
