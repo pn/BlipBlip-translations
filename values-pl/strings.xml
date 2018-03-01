@@ -823,18 +823,18 @@
     <!-- Tips detailed instructions -->
     <string name="tip1_settings">Ustawienia &gt; Konserwacja urządzenia &gt; Bateria &gt; Aplikacje niemonitorowane</string>
     <string name="tip2_settings">Ustawienia &gt; Ustawienia zaawansowane &gt; Menedżer baterii &gt; Aplikacje chronione lub Ustawienia &gt; Prywatność i bezpieczeństwo &gt; Aplikacje chronione</string>
-    <string name="tip3_settings">Menedżer telefonu > Oczyszczanie ekranu blokady > odznacz aplikację (nie zamykaj) lub Ustawienia > Bateria > Oczyszczanie ekranu blokady > odznacz aplikację (nie zamykaj)</string>
-    <string name="tip4_settings">Ustawienia > Zarządzanie energią > Tryb STAMINA > Aplikacje aktywne w trybie gotowości > Dodaj BlipBlip</string>
-    <string name="tip5_settings">Ustawienia > Ustawienia dodatkowe > Bateria i wydajność > Zarządzaj wykorzystaniem baterii przez aplikacje > Wybierz Aplikacje > BlipBlip > Bez ograniczeń</string>
-    <string name="tip6_settings">Ustawienia > Uprawnienia > Zarządzanie automatycznym uruchamianiem</string>
-    <string name="tip7_settings">Ustawienia > Czyszczenie zadań w tle > Biała lista</string>
-    <string name="tip8_settings">Asus Mobile Manager > Auto-start Manager</string>
-    <string name="tip9_settings">Menedżer telefonu > Uprawnienia prywatności > Menedżer uruchamiania</string>
-    <string name="tip10_settings">Ostatnie aplikacje > dotknij BlipBlip i pociągnij w dół</string>
-    <string name="tip11_settings">Zabezpieczenia > Zasilanie > Zarządzanie trybem gotowości > Ustaw BlipBlip, aby działał w trybie gotowości</string>
-    <string name="tip12_settings">Zabezpieczenia > Uprawnienia > Aplikacje uruchamiane automatycznie > włącz automatyczne uruchamianie</string>
-    <string name="tip13_settings">Naciśnij i przytrzymaj czerwone kółko > przesuń w dół BlipBlip</string>
-    <string name="tip14_settings">Aplikacja NeoSafe > Zasilanie > ikona ustawień z prawej u góry > Biała lista ochrony w tle > dodaj BlipBlip</string>
-    <string name="tip15_settings">Aplikacja NeoSafe > Uprawnienia > Przyspieszenie przy włączaniu > Włącz BlipBlip</string>
+    <string name="tip3_settings">Menedżer telefonu &gt; Oczyszczanie ekranu blokady &gt; odznacz aplikację (nie zamykaj) lub Ustawienia &gt; Bateria &gt; Oczyszczanie ekranu blokady &gt; odznacz aplikację (nie zamykaj)</string>
+    <string name="tip4_settings">Ustawienia &gt; Zarządzanie energią &gt; Tryb STAMINA &gt; Aplikacje aktywne w trybie gotowości &gt; Dodaj BlipBlip</string>
+    <string name="tip5_settings">Ustawienia &gt; Ustawienia dodatkowe &gt; Bateria i wydajność &gt; Zarządzaj wykorzystaniem baterii przez aplikacje &gt; Wybierz Aplikacje &gt; BlipBlip &gt; Bez ograniczeń</string>
+    <string name="tip6_settings">Ustawienia &gt; Uprawnienia &gt; Zarządzanie automatycznym uruchamianiem</string>
+    <string name="tip7_settings">Ustawienia &gt; Czyszczenie zadań w tle &gt; Biała lista</string>
+    <string name="tip8_settings">Asus Mobile Manager &gt; Auto-start Manager</string> <!-- TODO translate -->
+    <string name="tip9_settings">Menedżer telefonu &gt; Uprawnienia prywatności &gt; Menedżer uruchamiania</string>
+    <string name="tip10_settings">Ostatnie aplikacje &gt; dotknij BlipBlip i pociągnij w dół</string>
+    <string name="tip11_settings">Zabezpieczenia &gt; Zasilanie &gt; Zarządzanie trybem gotowości &gt; Ustaw BlipBlip, aby działał w trybie gotowości</string>
+    <string name="tip12_settings">Zabezpieczenia &gt; Uprawnienia &gt; Aplikacje uruchamiane automatycznie &gt; włącz automatyczne uruchamianie</string>
+    <string name="tip13_settings">Naciśnij i przytrzymaj czerwone kółko &gt; przesuń w dół BlipBlip</string>
+    <string name="tip14_settings">Aplikacja NeoSafe &gt; Zasilanie &gt; ikona ustawień z prawej u góry &gt; Biała lista ochrony w tle &gt; dodaj BlipBlip</string>
+    <string name="tip15_settings">Aplikacja NeoSafe &gt; Uprawnienia &gt; Przyspieszenie przy włączaniu &gt; Włącz BlipBlip</string>
 
 </resources>

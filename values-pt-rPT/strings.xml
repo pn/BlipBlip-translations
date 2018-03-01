@@ -618,7 +618,6 @@ Se encontrar outros problemas, por favor, informe-nos por correio electrónico.<
     <string name="add_to_favorites">Add to favorites</string> <!-- TODO translate -->
     <string name="open_favorites">Open favorites</string> <!-- TODO translate -->
 
-    <string name="new_sound">New sound</string> <!-- TODO translate -->
     <string name="unnamed_sound">Unnamed</string> <!-- TODO translate -->
     <string name="unnamed_vibration">Unnamed</string> <!-- TODO translate -->
     <string name="unnamed_notification">Unnamed</string> <!-- TODO translate -->
@@ -737,6 +736,27 @@ Se encontrar outros problemas, por favor, informe-nos por correio electrónico.<
     <string name="premium_sound_lock">This is premium sound which requires unlocking before use.</string> <!-- TODO translate -->
     <string name="premium_feature_lock">This is premium feature which requires unlocking before use.</string> <!-- TODO translate -->
     <string name="change_subscription">Change subscription</string> <!-- TODO translate -->
+    <string name="upgrade_to_pro">Upgrade</string> <!-- TODO translate -->
+    <string name="loading_failed">Error</string> <!-- TODO translate -->
+    <string name="month">month</string> <!-- TODO translate -->
+    <string name="month_very_short">mo.</string> <!-- TODO translate --> <!-- shortcut for word "month", singular -->
+    <string name="discount_save_money">Save</string> <!-- TODO translate --> <!-- percent saved will be displayed below this text -->
+    <string name="buy_premium">Buy premium</string> <!-- TODO translate -->
+    <string name="use_free">Use free version</string> <!-- TODO translate -->
+    <string name="already_bought">Already bought</string> <!-- TODO translate -->
+    <string name="get_all_features">Get all features</string> <!-- TODO translate -->
+    <string name="get_all_sounds">Get all sounds</string> <!-- TODO translate -->
+    <string name="premium_what_you_get">What you will get:</string> <!-- TODO translate -->
+    <string name="feature1">Unlimited active notifications</string> <!-- TODO translate -->
+    <string name="feature2">Strike the hour</string> <!-- TODO translate -->
+    <string name="feature3">Custom repeat interval</string> <!-- TODO translate -->
+    <string name="feature4">Say text or time</string> <!-- TODO translate -->
+    <string name="feature5">Add your own sounds</string> <!-- TODO translate -->
+    <string name="feature6">Priority support</string> <!-- TODO translate -->
+    <string name="feature_all_sounds">All sounds in the app</string> <!-- TODO translate -->
+    <string name="yearly_payment">Yearly payment.</string> <!-- TODO translate -->
+    <string name="free_trial_available">Free trial available.</string> <!-- TODO translate -->
+    <string name="premium_helps_support">By upgrading to BlipBlip you not only get all features or sounds but you also support its continuous and independent development.</string> <!-- TODO translate -->
 
     <string name="vibrate_seconds">Vibrate %ss</string> <!-- TODO translate --> <!-- s at the end is for seconds, %s will be replaced vy value e.g. "Vibrate 1.2s" -->
     <string name="wait_and_vibrate_seconds">Wait %ss, vibrate %ss</string> <!-- TODO translate -->
@@ -747,9 +767,64 @@ Se encontrar outros problemas, por favor, informe-nos por correio electrónico.<
     <string name="create_new_vibration">Create new vibration</string> <!-- TODO translate -->
     <string name="create_new_notification">Create new notification</string> <!-- TODO translate -->
     <string name="create_new_silent_time">Create new silent time</string> <!-- TODO translate -->
+    <string name="additional_info_button">Additional information</string> <!-- TODO translate -->
 
     <!-- widget -->
     <string name="app_enabled">App enabled</string> <!-- TODO translate -->
     <string name="app_disabled">App disabled</string> <!-- TODO translate -->
+
+    <string name="warning_volume_dnd">Cannot show system volume because Do Not Disturb mode is enabled</string> <!-- TODO translate -->
+
+    <!-- auto start failed dialog -->
+    <string name="auto_start_fail_title">Auto-start failed</string> <!-- TODO translate -->
+    <string name="auto_start_fail_message">Automatic start of the app failed. Please check your settings.</string> <!-- TODO translate -->
+
+    <!-- manual settings dialog -->
+    <string name="manual_settings_title">Manual settings needed</string> <!-- TODO translate -->
+    <string name="manual_settings_summary">Some manual settings may be needed for BlipBlip to function properly.</string> <!-- TODO translate -->
+    <string name="manual_settings_tips_subtitle">Please try below tips</string> <!-- TODO translate -->
+    <string name="manual_settings_tip_settings_description">Open settings</string> <!-- TODO translate -->
+    <string name="manual_settings_snackbar">Please review manual settings which may be needed for app to function properly</string> <!-- TODO translate -->
+    <string name="manual_settings_show">Show</string> <!-- TODO translate -->
+    <string name="manual_settings_permanent_notification_description">Enable permanent notification (recommended)</string> <!-- TODO translate -->
+    <string name="manual_settings_permanent_notification_info">App will show permanently visible notification, which may prevent app from being killed.</string> <!-- TODO translate -->
+    <string name="manual_settings_general_tips_button">Show general tips</string> <!-- TODO translate -->
+    <string name="manual_settings_general_tips">General tips</string> <!-- TODO translate -->
+    <string name="manual_settings_general_tip1">Disable power saving modes in device settings</string> <!-- TODO translate -->
+    <string name="manual_settings_general_tip2">Disable apps that optimize battery or memory usage (e.g. task killers)</string> <!-- TODO translate -->
+    <string name="manual_settings_general_tips_info">If your device requires changing other options, please let us now using "Report problem" option.</string> <!-- TODO translate -->
+    <string name="manual_settings_suggest_report_problem">If after trying above tips you would still have issues with the app, please report the problem.</string> <!-- TODO translate -->
+
+    <!-- Tips -->
+    <string name="tip1">Add the app to Unmonitored Apps.</string> <!-- TODO translate -->
+    <string name="tip2">Add the app to Protected Apps.</string> <!-- TODO translate -->
+    <string name="tip3">Exclude app from lock screen cleanup.</string> <!-- TODO translate -->
+    <string name="tip4">Disable Stamina mode.</string> <!-- TODO translate -->
+    <string name="tip5">Disable battery usage restrictions.</string> <!-- TODO translate -->
+    <string name="tip6">Add app to auto-run.</string> <!-- TODO translate -->
+    <string name="tip7">Disable background task clearer.</string> <!-- TODO translate -->
+    <string name="tip8">Add app to auto-start.</string> <!-- TODO translate -->
+    <string name="tip9">Add app to auto-start.</string> <!-- TODO translate -->
+    <string name="tip10">Lock the app on recent apps screen.</string> <!-- TODO translate -->
+    <string name="tip11">Allow the app to work in Standby Mode.</string> <!-- TODO translate -->
+    <string name="tip12">Add the app to auto-launch.</string> <!-- TODO translate -->
+    <string name="tip14">Add the app to Background protection whitelist.</string> <!-- TODO translate -->
+
+    <!-- Tips detailed instructions -->
+    <string name="tip1_settings">Settings &gt; Device maintenance &gt; Battery &gt; Unmonitored apps list</string> <!-- TODO translate -->
+    <string name="tip2_settings">Settings &gt; Advanced Settings &gt; Battery Manager &gt; Protected Apps or Settings &gt; Privacy and Security &gt; Protected Apps</string> <!-- TODO translate -->
+    <string name="tip3_settings">Phone Manager &gt; Lock screen cleanup &gt; un-check the app (don\'t close) or Settings &gt; Battery &gt; Lock screen cleanup &gt; un-check the app (don't close)</string> <!-- TODO translate -->
+    <string name="tip4_settings">Settings &gt; Power management &gt; STAMINA mode &gt; Apps active in standby &gt; Add BlipBlip</string> <!-- TODO translate -->
+    <string name="tip5_settings">Settings &gt; Additional Settings &gt; Battery &amp; Performance &gt; Manage Apps Battery Usage &gt; Choose Apps &gt; BlipBlip &gt; No restrictions</string> <!-- TODO translate -->
+    <string name="tip6_settings">Settings &gt; Permissions &gt; Auto-run management</string> <!-- TODO translate -->
+    <string name="tip7_settings">Settings &gt; Background task clear &gt; White list</string> <!-- TODO translate -->
+    <string name="tip8_settings">Asus Mobile Manager &gt; Auto-start Manager</string> <!-- TODO translate -->
+    <string name="tip9_settings">Phone Manager &gt; Privacy Permissions &gt; Startup Manager</string> <!-- TODO translate -->
+    <string name="tip10_settings">Recent apps &gt; tap BlipBlip and pull it down</string> <!-- TODO translate -->
+    <string name="tip11_settings">Security &gt; Power &gt; Standby Management &gt; Set BlipBlip to run in Standby Mode</string> <!-- TODO translate -->
+    <string name="tip12_settings">Security &gt; Permission &gt; Auto-Launched apps &gt; enable auto-launch</string> <!-- TODO translate -->
+    <string name="tip13_settings">Long press red circle &gt; swipe down BlipBlip</string> <!-- TODO translate -->
+    <string name="tip14_settings">NeoSafe app &gt; Power &gt; right top settings icon &gt; Background protection whitelist &gt; add BlipBLip</string> <!-- TODO translate -->
+    <string name="tip15_settings">NeoSafe app &gt; Permission &gt; Power-on speedup &gt; Enable BlipBlip</string> <!-- TODO translate -->
 
 </resources>
