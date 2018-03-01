@@ -751,6 +751,22 @@
     <string name="month">miesiąć</string>
     <string name="month_very_short">mies.</string> <!-- shortcut for word "month", singular -->
     <string name="discount_save_money">Oszczędź</string> <!-- percent saved will be displayed below this text -->
+    <string name="buy_premium">Kup premium</string>
+    <string name="use_free">Użyj darmowej wersji</string>
+    <string name="already_bought">Już kupiono</string>
+    <string name="get_all_features">Uzyskaj wszystkie funkcje</string>
+    <string name="get_all_sounds">Uzyskaj wszystkie dźwięki</string>
+    <string name="premium_what_you_get">Co otrzymasz:</string>
+    <string name="feature1">Nieograniczona ilość aktywnych powiadomień</string>
+    <string name="feature2">Wybijanie godziny</string>
+    <string name="feature3">Dowolny odstęp pomiędzy powiadomieniami</string>
+    <string name="feature4">Mówienie tekstu lub czasu</string>
+    <string name="feature5">Dodaj własne dźwięki</string>
+    <string name="feature6">Priorytetowe wsparcie</string>
+    <string name="feature_all_sounds">Wszystkie dźwięki w aplikacji</string>
+    <string name="yearly_payment">Płatność roczna.</string>
+    <string name="free_trial_available">Dostępny okres próbny.</string>
+    <string name="premium_helps_support">Aktualizując BlipBlip nie tylko otrzymujesz wszystkie funkcje lub dźwięki, ale również wspierasz niezależny i ciągły rozwój aplikacji.</string>
 
     <string name="vibrate_seconds">Wibruj %ss</string> <!-- s at the end is for seconds, %s will be replaced vy value e.g. "Vibrate 1.2s" -->
     <string name="wait_and_vibrate_seconds">Czekaj %ss, wibruj %ss</string>
@@ -777,6 +793,7 @@
     <string name="manual_settings_title">Potrzebne ręczne ustawienia</string>
     <string name="manual_settings_summary">Pewne ręczne ustawienia mogą być potrzebne, żeby BlipBlip funkcjonował poprawnie.</string>
     <string name="manual_settings_tips_subtitle">Proszę wypróbuj poniższe wskazówki</string>
+    <string name="manual_settings_tip_settings_description">Otwórz ustawienia</string>
     <string name="manual_settings_snackbar">Proszę przejrzyj ręczne ustawienia, które mogą być potrzebne do poprawnego funkcjonowania aplikacji</string>
     <string name="manual_settings_show">Pokaż</string>
     <string name="manual_settings_permanent_notification_description">Włącz stałe powiadomienie (zalecane)</string>
@@ -787,5 +804,37 @@
     <string name="manual_settings_general_tip2">Wyłącz aplikacje, które optymalizują użycie baterii lub pamięci (np. aplikacje typu "task killer")</string>
     <string name="manual_settings_general_tips_info">Jeśli Twoje urządzenia wymaga zmiany innych opcji, prosimy daj nam zanć używając opcji "Zgłoś problem"</string>
     <string name="manual_settings_suggest_report_problem">Jeśli po wypróbowaniu powyższych wskazówek masz nadal problemy z aplikacją, prosimy o zgłoszenie problemu.</string>
+
+    <!-- Tips -->
+    <string name="tip1">Dodaj aplikację do Aplikacji niemonitorowanych.</string>
+    <string name="tip2">Dodaj aplikację do Aplikacji chronionych.</string>
+    <string name="tip3">Wyklucz aplikację z czyszczenia ekranu blokady.</string>
+    <string name="tip4">Wyłącz tryb Stamina.</string>
+    <string name="tip5">Wyłącz ograniczenia dotyczące zużycia baterii.</string>
+    <string name="tip6">Dodaj aplikację do automatycznego uruchamiania.</string>
+    <string name="tip7">Wyłącz funkcję czyszczenia zadań w tle.</string>
+    <string name="tip8">Dodaj aplikację do automatycznego uruchamiania.</string>
+    <string name="tip9">Dodaj aplikację do automatycznego uruchamiania.</string>
+    <string name="tip10">Zablokuj aplikację na ekranie ostatnich aplikacji.</string>
+    <string name="tip11">Zezwól aplikacji na działanie w Trybie gotowości.</string>
+    <string name="tip12">Dodaj aplikację do automatycznego uruchamiania.</string>
+    <string name="tip14">Dodaj aplikację do białej listy aplikacji chronionych w tle.</string>
+
+    <!-- Tips detailed instructions -->
+    <string name="tip1_settings">Ustawienia &gt; Konserwacja urządzenia &gt; Bateria &gt; Aplikacje niemonitorowane</string>
+    <string name="tip2_settings">Ustawienia &gt; Ustawienia zaawansowane &gt; Menedżer baterii &gt; Aplikacje chronione lub Ustawienia &gt; Prywatność i bezpieczeństwo &gt; Aplikacje chronione</string>
+    <string name="tip3_settings">Menedżer telefonu > Oczyszczanie ekranu blokady > odznacz aplikację (nie zamykaj) lub Ustawienia > Bateria > Oczyszczanie ekranu blokady > odznacz aplikację (nie zamykaj)</string>
+    <string name="tip4_settings">Ustawienia > Zarządzanie energią > Tryb STAMINA > Aplikacje aktywne w trybie gotowości > Dodaj BlipBlip</string>
+    <string name="tip5_settings">Ustawienia > Ustawienia dodatkowe > Bateria i wydajność > Zarządzaj wykorzystaniem baterii przez aplikacje > Wybierz Aplikacje > BlipBlip > Bez ograniczeń</string>
+    <string name="tip6_settings">Ustawienia > Uprawnienia > Zarządzanie automatycznym uruchamianiem</string>
+    <string name="tip7_settings">Ustawienia > Czyszczenie zadań w tle > Biała lista</string>
+    <string name="tip8_settings">Asus Mobile Manager > Auto-start Manager</string>
+    <string name="tip9_settings">Menedżer telefonu > Uprawnienia prywatności > Menedżer uruchamiania</string>
+    <string name="tip10_settings">Ostatnie aplikacje > dotknij BlipBlip i pociągnij w dół</string>
+    <string name="tip11_settings">Zabezpieczenia > Zasilanie > Zarządzanie trybem gotowości > Ustaw BlipBlip, aby działał w trybie gotowości</string>
+    <string name="tip12_settings">Zabezpieczenia > Uprawnienia > Aplikacje uruchamiane automatycznie > włącz automatyczne uruchamianie</string>
+    <string name="tip13_settings">Naciśnij i przytrzymaj czerwone kółko > przesuń w dół BlipBlip</string>
+    <string name="tip14_settings">Aplikacja NeoSafe > Zasilanie > ikona ustawień z prawej u góry > Biała lista ochrony w tle > dodaj BlipBlip</string>
+    <string name="tip15_settings">Aplikacja NeoSafe > Uprawnienia > Przyspieszenie przy włączaniu > Włącz BlipBlip</string>
 
 </resources>

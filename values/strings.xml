@@ -740,6 +740,22 @@
     <string name="month">month</string>
     <string name="month_very_short">mo.</string> <!-- shortcut for word "month", singular -->
     <string name="discount_save_money">Save</string> <!-- percent saved will be displayed below this text -->
+    <string name="buy_premium">Buy premium</string>
+    <string name="use_free">Use free version</string>
+    <string name="already_bought">Already bought</string>
+    <string name="get_all_features">Get all features</string>
+    <string name="get_all_sounds">Get all sounds</string>
+    <string name="premium_what_you_get">What you will get:</string>
+    <string name="feature1">Unlimited active notifications</string>
+    <string name="feature2">Strike the hour</string>
+    <string name="feature3">Custom repeat interval</string>
+    <string name="feature4">Say text or time</string>
+    <string name="feature5">Add your own sounds</string>
+    <string name="feature6">Priority support</string>
+    <string name="feature_all_sounds">All sounds in the app</string>
+    <string name="yearly_payment">Yearly payment.</string>
+    <string name="free_trial_available">Free trial available.</string>
+    <string name="premium_helps_support">By upgrading to BlipBlip you not only get all features or sounds but you also support its continuous and independent development.</string>
 
     <string name="vibrate_seconds">Vibrate %ss</string> <!-- s at the end is for seconds, %s will be replaced vy value e.g. "Vibrate 1.2s" -->
     <string name="wait_and_vibrate_seconds">Wait %ss, vibrate %ss</string>
@@ -766,6 +782,7 @@
     <string name="manual_settings_title">Manual settings needed</string>
     <string name="manual_settings_summary">Some manual settings may be needed for BlipBlip to function properly.</string>
     <string name="manual_settings_tips_subtitle">Please try below tips</string>
+    <string name="manual_settings_tip_settings_description">Open settings</string>
     <string name="manual_settings_snackbar">Please review manual settings which may be needed for app to function properly</string>
     <string name="manual_settings_show">Show</string>
     <string name="manual_settings_permanent_notification_description">Enable permanent notification (recommended)</string>
@@ -776,5 +793,37 @@
     <string name="manual_settings_general_tip2">Disable apps that optimize battery or memory usage (e.g. task killers)</string>
     <string name="manual_settings_general_tips_info">If your device requires changing other options, please let us now using "Report problem" option.</string>
     <string name="manual_settings_suggest_report_problem">If after trying above tips you would still have issues with the app, please report the problem.</string>
+
+    <!-- Tips -->
+    <string name="tip1">Add the app to Unmonitored Apps.</string>
+    <string name="tip2">Add the app to Protected Apps.</string>
+    <string name="tip3">Exclude app from lock screen cleanup.</string>
+    <string name="tip4">Disable Stamina mode.</string>
+    <string name="tip5">Disable battery usage restrictions.</string>
+    <string name="tip6">Add app to auto-run.</string>
+    <string name="tip7">Disable background task clearer.</string>
+    <string name="tip8">Add app to auto-start.</string>
+    <string name="tip9">Add app to auto-start.</string>
+    <string name="tip10">Lock the app on recent apps screen.</string>
+    <string name="tip11">Allow the app to work in Standby Mode.</string>
+    <string name="tip12">Add the app to auto-launch.</string>
+    <string name="tip14">Add the app to Background protection whitelist.</string>
+
+    <!-- Tips detailed instructions -->
+    <string name="tip1_settings">Settings > Device maintenance > Battery > Unmonitored apps list</string>
+    <string name="tip2_settings">Settings > Advanced Settings > Battery Manager > Protected Apps or Settings > Privacy and Security > Protected Apps</string>
+    <string name="tip3_settings">Phone Manager > Lock screen cleanup > un-check the app (don\'t close) or Settings > Battery > Lock screen cleanup > un-check the app (don't close)</string>
+    <string name="tip4_settings">Settings > Power management > STAMINA mode > Apps active in standby > Add BlipBlip</string>
+    <string name="tip5_settings">Settings > Additional Settings > Battery &amp; Performance > Manage Apps Battery Usage > Choose Apps > BlipBlip > No restrictions</string>
+    <string name="tip6_settings">Settings > Permissions > Auto-run management</string>
+    <string name="tip7_settings">Settings > Background task clear > White list</string>
+    <string name="tip8_settings">Asus Mobile Manager > Auto-start Manager</string>
+    <string name="tip9_settings">Phone Manager > Privacy Permissions > Startup Manager</string>
+    <string name="tip10_settings">Recent apps > tap BlipBlip and pull it down</string>
+    <string name="tip11_settings">Security > Power > Standby Management > Set BlipBlip to run in Standby Mode</string>
+    <string name="tip12_settings">Security > Permission > Auto-Launched apps > enable auto-launch</string>
+    <string name="tip13_settings">Long press red circle > swipe down BlipBlip</string>
+    <string name="tip14_settings">NeoSafe app > Power > right top settings icon > Background protection whitelist > add BlipBLip</string>
+    <string name="tip15_settings">NeoSafe app > Permission > Power-on speedup > Enable BlipBlip</string>
 
 </resources>
