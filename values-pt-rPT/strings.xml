@@ -308,6 +308,7 @@ Se encontrar outros problemas, por favor, informe-nos por correio electrónico.<
     <string name="pref_experimental">Definições experimentais</string>
     <string name="experimental_warning">Estas são definições experimentais e, de futuro, poderão ser eliminadas.</string>
     <string name="title_experimental_settings">Definições experimentais</string>
+    <string name="huawei_fix">Huawei fix</string> <!-- TODO translate -->
 
     <!-- Time Offset -->
     <string name="pref_time_offset_title">Atraso de tempo</string>
@@ -716,7 +717,7 @@ Se encontrar outros problemas, por favor, informe-nos por correio electrónico.<
     <string name="error_corrupted_sound">Sound is corrupted</string> <!-- TODO translate -->
 
     <!-- premium -->
-    <string name="dialog_premium_trial_text">Get all current and future features.</string> <!-- TODO translate --> <!-- should be short -->
+    <string name="dialog_premium_trial_text">Get all current and future features</string> <!-- TODO translate --> <!-- should be short -->
     <string name="dialog_no_thanks">No thanks</string> <!-- TODO translate --> <!-- should be short -->
     <string name="dialog_premium_unlock_button_text">Unlock</string> <!-- TODO translate --> <!-- should be short -->
     <string name="dialog_premium_trial_text2">Press \"Unlock\" to start your free trial.</string> <!-- TODO translate --> <!-- use same text as in dialog_premium_unlock_button_text -->

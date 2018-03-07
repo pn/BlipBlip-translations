@@ -307,6 +307,7 @@
     <string name="pref_experimental">Paramètres expérimentaux</string>
     <string name="experimental_warning">Ces paramètres expérimentaux peuvent être supprimés dans le futur.</string>
     <string name="title_experimental_settings">Paramètres expérimentaux</string>
+    <string name="huawei_fix">Huawei fix</string> <!-- TODO translate -->
 
     <!-- Time Offset -->
     <string name="pref_time_offset_title">Décalage horaire</string>
@@ -715,7 +716,7 @@
     <string name="error_corrupted_sound">Sound is corrupted</string> <!-- TODO translate -->
 
     <!-- premium -->
-    <string name="dialog_premium_trial_text">Get all current and future features.</string> <!-- TODO translate --> <!-- should be short -->
+    <string name="dialog_premium_trial_text">Get all current and future features</string> <!-- TODO translate --> <!-- should be short -->
     <string name="dialog_no_thanks">No thanks</string> <!-- TODO translate --> <!-- should be short -->
     <string name="dialog_premium_unlock_button_text">Unlock</string> <!-- TODO translate --> <!-- should be short -->
     <string name="dialog_premium_trial_text2">Press \"Unlock\" to start your free trial.</string> <!-- TODO translate --> <!-- use same text as in dialog_premium_unlock_button_text -->

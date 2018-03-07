@@ -307,6 +307,7 @@
     <string name="pref_experimental">Kísérleti beállítások</string>
     <string name="experimental_warning">Ezek kísérleti beállítások, a későbbiekben lehet, hogy eltávolításra kerülnek.</string>
     <string name="title_experimental_settings">Kísérleti beállítások</string>
+    <string name="huawei_fix">Huawei fix</string> <!-- TODO translate -->
 
     <!-- Time Offset -->
     <string name="pref_time_offset_title">Idő eltérés</string>

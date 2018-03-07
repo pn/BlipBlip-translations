@@ -307,6 +307,7 @@
     <string name="pref_experimental">Experimentele instellingen</string>
     <string name="experimental_warning">Dit zijn experimentele instellingen die in de toekomst verwijderd kunnen worden.</string>
     <string name="title_experimental_settings">Experimentele instellingen</string>
+    <string name="huawei_fix">Huawei fix</string> <!-- TODO translate -->
 
     <!-- Time Offset -->
     <string name="pref_time_offset_title">Tijd verschil</string>

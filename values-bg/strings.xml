@@ -307,6 +307,7 @@
     <string name="pref_experimental">Тестови настройки</string>
     <string name="experimental_warning">Това са пробни настройки и може да бъдат премахнати в бъдеще.</string>
     <string name="title_experimental_settings">Тестови настройки</string>
+    <string name="huawei_fix">Huawei fix</string> <!-- TODO translate -->
 
     <!-- Time Offset -->
     <string name="pref_time_offset_title">Донастройка на часа</string>

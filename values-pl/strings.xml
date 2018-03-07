@@ -307,6 +307,7 @@
     <string name="pref_experimental">Ustawienia eksperymentalne</string>
     <string name="experimental_warning">To są ustawienia eksperymentalne i mogą zostać w przyszłości usunięte.</string>
     <string name="title_experimental_settings">Ustawienia eksperymentalne</string>
+    <string name="huawei_fix">Poprawka Huawei</string>
 
     <!-- Time Offset -->
     <string name="pref_time_offset_title">Przesunięcie czasu</string>
@@ -828,7 +829,7 @@
     <string name="tip5_settings">Ustawienia &gt; Ustawienia dodatkowe &gt; Bateria i wydajność &gt; Zarządzaj wykorzystaniem baterii przez aplikacje &gt; Wybierz Aplikacje &gt; BlipBlip &gt; Bez ograniczeń</string>
     <string name="tip6_settings">Ustawienia &gt; Uprawnienia &gt; Zarządzanie automatycznym uruchamianiem</string>
     <string name="tip7_settings">Ustawienia &gt; Czyszczenie zadań w tle &gt; Biała lista</string>
-    <string name="tip8_settings">Asus Mobile Manager &gt; Auto-start Manager</string> <!-- TODO translate -->
+    <string name="tip8_settings">Asus Mobile Manager &gt; Menedżer Auto-start</string>
     <string name="tip9_settings">Menedżer telefonu &gt; Uprawnienia prywatności &gt; Menedżer uruchamiania</string>
     <string name="tip10_settings">Ostatnie aplikacje &gt; dotknij BlipBlip i pociągnij w dół</string>
     <string name="tip11_settings">Zabezpieczenia &gt; Zasilanie &gt; Zarządzanie trybem gotowości &gt; Ustaw BlipBlip, aby działał w trybie gotowości</string>
