@@ -335,8 +335,8 @@
     <string name="rate_us_onetofourstars">от 1 до 4 звезди</string>
     <string name="rate_us_fivestars">5 звезди!</string>
     <string name="five_stars_description">Five stars</string> <!-- TODO translate -->
-    <string name="five_stars_title">Love Blip Blip?</string> <!-- TODO translate -->
-    <string name="five_stars_text">Rate us 5 stars to help make Blip\u00A0Blip even more awesome. Thanks!</string> <!-- TODO translate -->
+    <string name="five_stars_title">Love BlipBlip?</string> <!-- TODO translate -->
+    <string name="five_stars_text">Rate us 5 stars to help make BlipBlip even more awesome. Thanks!</string> <!-- TODO translate -->
 
     <!-- Menu - Error -->
     <string name="action_send_logs">Докладване на нередност</string>
