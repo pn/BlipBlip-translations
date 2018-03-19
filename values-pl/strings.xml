@@ -790,7 +790,7 @@
     <string name="auto_start_fail_message">Automatyczny start aplikacji nie powiódł się. Proszę sprawdź ustawienia.</string>
 
     <!-- manual settings dialog -->
-    <string name="manual_settings_title">Potrzebne ręczne ustawienia</string>
+    <string name="manual_settings_title">Wymagane ręczne ustawienia</string>
     <string name="manual_settings_summary">Pewne ręczne ustawienia mogą być potrzebne, żeby BlipBlip funkcjonował poprawnie.</string>
     <string name="manual_settings_tips_subtitle">Proszę wypróbuj poniższe wskazówki</string>
     <string name="manual_settings_tip_settings_description">Otwórz ustawienia</string>
