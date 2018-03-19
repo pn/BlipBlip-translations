@@ -364,9 +364,6 @@
     <string name="about_libraries">Библиотеки</string> <!-- title of screen showing licenses of programming libraries used by the app -->
     <string name="about_acknowledgements">Благодарности</string> <!-- name of screen with authors, translators and other people who have helped -->
     <string name="about_translators_thank_you">BlipBlip is translated by our users voluntarily and hereby we thank you for your support and contribution.</string> <!-- TODO translate -->
-    <string name="version_history">Version history</string> <!-- TODO translate -->
-    <string name="changelog_title">What\'s new?</string> <!-- TODO translate -->
-
 
     <!-- Visual -->
     <string name="pref_visual">Графични настройки</string>
@@ -829,5 +826,12 @@
     <string name="tip13_settings">Long press red circle &gt; swipe down BlipBlip</string> <!-- TODO translate -->
     <string name="tip14_settings">NeoSafe app &gt; Power &gt; right top settings icon &gt; Background protection whitelist &gt; add BlipBLip</string> <!-- TODO translate -->
     <string name="tip15_settings">NeoSafe app &gt; Permission &gt; Power-on speedup &gt; Enable BlipBlip</string> <!-- TODO translate -->
+
+    <!-- changelog -->
+    <string name="version_history">Version history</string> <!-- TODO translate -->
+    <string name="changelog_title">What\'s new?</string> <!-- TODO translate -->
+    <string name="show_changelog_title">Show changelog</string> <!-- TODO translate -->
+    <string name="show_changelog_on">Show recent changes on startup.</string> <!-- TODO translate -->
+    <string name="show_changelog_off">Do not show recent changes on startup.</string> <!-- TODO translate -->
 
 </resources>
