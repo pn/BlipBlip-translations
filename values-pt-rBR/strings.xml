@@ -339,7 +339,7 @@ Se você encontrar outros problemas, por favor, nos informe por e-mail.</string>
     <string name="rate_us_fivestars">5 estrelas!</string>
     <string name="five_stars_description">Five stars</string> <!-- TODO translate -->
     <string name="five_stars_title">Love BlipBlip?</string> <!-- TODO translate -->
-    <string name="five_stars_text">Rate us 5 stars to help make BlipBlip even more awesome. Thanks!</string> <!-- TODO translate -->
+    <string name="five_stars_text">Rate us 5 stars to help make BlipBlip even more awesome. Thanks!</string>
 
     <!-- Menu - Error -->
     <string name="action_send_logs">Reportar problema</string>
@@ -367,6 +367,8 @@ Se você encontrar outros problemas, por favor, nos informe por e-mail.</string>
     <string name="about_libraries">Libraries</string> <!-- TODO translate --> <!-- title of screen showing licenses of programming libraries used by the app -->
     <string name="about_acknowledgements">Acknowledgements</string> <!-- TODO translate --> <!-- name of screen with authors, translators and other people who have helped -->
     <string name="about_translators_thank_you">BlipBlip is translated by our users voluntarily and hereby we thank you for your support and contribution.</string> <!-- TODO translate -->
+    <string name="version_history">Version history</string> <!-- TODO translate -->
+    <string name="changelog_title">What\'s new?</string> <!-- TODO translate -->
 
 
     <!-- Visual -->

@@ -364,6 +364,8 @@
     <string name="about_libraries">Biblioteki</string> <!-- title of screen showing licenses of programming libraries used by the app -->
     <string name="about_acknowledgements">Podziękowania</string> <!-- name of screen with authors, translators and other people who have helped -->
     <string name="about_translators_thank_you">BlipBlip jest tłumaczony przez naszych użytkowników dobrowolnie i niniejszym dziękujemy za wasze wsparcie i wkład.</string>
+    <string name="version_history">Historia wersji</string>
+    <string name="changelog_title">Co nowego?</string>
 
 
     <!-- Visual -->
