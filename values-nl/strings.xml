@@ -77,6 +77,21 @@
     <string name="sound_dog">Hond %1$s</string>
     <string name="sound_rooster">Haan</string>
     <string name="sound_guitar_strum">Guitar strum %1$s</string> <!-- TODO translate -->
+    <string name="sound_water_drop">Water drop %1$s</string> <!-- TODO translate -->
+    <string name="sound_water_pouring">Water pouring %1$s</string> <!-- TODO translate -->
+    <string name="sound_sonar_ping">Sonar ping %1$s</string> <!-- TODO translate -->
+    <string name="sound_inception">Inception %1$s</string> <!-- TODO translate -->
+    <string name="sound_the_pips">The pips</string> <!-- TODO translate -->
+    <string name="sound_short_pip">Short pip</string> <!-- TODO translate -->
+    <string name="sound_long_pip">Long pip</string> <!-- TODO translate -->
+    <string name="sound_crystal_glass">Crystal glass</string> <!-- TODO translate -->
+    <string name="sound_ping">Ping</string> <!-- TODO translate -->
+    <string name="sound_gong_num">Gong %1$s</string> <!-- TODO translate -->
+    <string name="sound_boxing_bell">Boxing bell</string> <!-- TODO translate -->
+    <string name="sound_singing_bowl">Singing bowl %1$s</string> <!-- TODO translate -->
+    <string name="sound_ekg">Heart monitor %1$s</string> <!-- TODO translate -->
+    <string name="sound_got_item">Got item</string> <!-- TODO translate -->
+    <string name="sound_guitar">Guitar</string> <!-- TODO translate -->
 
     <!-- Volume -->
     <string name="text_seek_volume">Volume</string> <!-- translated -->

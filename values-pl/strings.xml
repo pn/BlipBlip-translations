@@ -77,6 +77,21 @@
     <string name="sound_dog">Pies %1$s</string>
     <string name="sound_rooster">Kogut</string>
     <string name="sound_guitar_strum">Brzdęknięcie gitary %1$s</string>
+    <string name="sound_water_drop">Kropla wody %1$s</string>
+    <string name="sound_water_pouring">Nalewanie wody %1$s</string>
+    <string name="sound_sonar_ping">Sonar %1$s</string>
+    <string name="sound_inception">Incepcja %1$s</string>
+    <string name="sound_the_pips">Piknięcia (BBC)</string>
+    <string name="sound_short_pip">Krótkie piknięcie</string>
+    <string name="sound_long_pip">Długie piknięcie</string>
+    <string name="sound_crystal_glass">Kryształowe szkło</string>
+    <string name="sound_ping">Ping</string>
+    <string name="sound_gong_num">Gong %1$s</string>
+    <string name="sound_boxing_bell">Dzwonek na ringu</string>
+    <string name="sound_singing_bowl">Śpiewająca misa %1$s</string>
+    <string name="sound_ekg">Monitor serca %1$s</string>
+    <string name="sound_got_item">Masz przedmiot</string>
+    <string name="sound_guitar">Gitara</string>
 
     <!-- Volume -->
     <string name="text_seek_volume">Głośność</string>
