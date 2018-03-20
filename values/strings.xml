@@ -773,6 +773,9 @@
     <string name="create_new_notification">Create new notification</string>
     <string name="create_new_silent_time">Create new silent time</string>
     <string name="additional_info_button">Additional information</string>
+    <string name="start_playing">Start playing</string>
+    <string name="stop_playing">Stop playing</string>
+    <string name="edit_mode">Edit mode</string>
 
     <!-- widget -->
     <string name="app_enabled">App enabled</string>

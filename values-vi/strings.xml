@@ -761,6 +761,9 @@
     <string name="create_new_notification">Create new notification</string> <!-- TODO translate -->
     <string name="create_new_silent_time">Create new silent time</string> <!-- TODO translate -->
     <string name="additional_info_button">Additional information</string> <!-- TODO translate -->
+    <string name="start_playing">Start playing</string> <!-- TODO translate -->
+    <string name="stop_playing">Stop playing</string> <!-- TODO translate -->
+    <string name="edit_mode">Edit mode</string> <!-- TODO translate -->
 
     <!-- widget -->
     <string name="app_enabled">App enabled</string> <!-- TODO translate -->
