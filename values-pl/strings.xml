@@ -85,8 +85,8 @@
     <string name="sound_short_pip">Krótkie piknięcie</string>
     <string name="sound_long_pip">Długie piknięcie</string>
     <string name="sound_crystal_glass">Kryształowe szkło</string>
-    <string name="sound_ping">Ping</string>
-    <string name="sound_gong_num">Gong %1$s</string>
+    <string name="sound_ping">Ping</string> <!-- translated -->
+    <string name="sound_gong_num">Gong %1$s</string> <!-- translated -->
     <string name="sound_boxing_bell">Dzwonek na ringu</string>
     <string name="sound_singing_bowl">Śpiewająca misa %1$s</string>
     <string name="sound_ekg">Monitor serca %1$s</string>
@@ -685,11 +685,6 @@
 
     <string name="swipe_right_to_delete">Przesuń palcem w prawo, żeby usunąć pozycję</string>
 
-    <string name="pref_user_interface">Interfejs użytkownika</string>
-    <string name="show_inclusive_title">Zmiana końców przedziału czasu</string>
-    <string name="show_inclusive_on">Wybierając przedział czasu pokaż przyciski pozwalające wybrać, czy dany czas ma być zawarty w przedziale czasu.</string>
-    <string name="show_inclusive_off">Ukryj przyciski, które pozwalają wybrać czy dany czas ma być uwzględniony w przedziale czasu.</string>
-
     <string name="action_repeat">Powtarzanie</string>
     <string name="action_repeat_sound">Powtarzaj dźwięk</string>
     <string name="action_repeat_vibration">Powtarzaj wibrację</string>
@@ -723,10 +718,6 @@
     <string name="pref_tts_overlaps_sounds">Mowa naraz z dźwiękami</string>
     <string name="pref_tts_overlaps_sounds_on">Mowa będzie odtwarzana razem z dźwiękami</string>
     <string name="pref_tts_overlaps_sounds_off">Mowa nie będzie odtwarzana razem z dźwiękami (dźwięk będzie odtworzony przed lub po mowie)</string>
-
-    <string name="show_actions_switches_title">Przełączniki dla akcji</string> <!-- option to show enable/disable switches for actions -->
-    <string name="show_actions_switches_on">Pokazuj przełączniki do wyłączania akcji.</string>
-    <string name="show_actions_switches_off">Schowaj przełączniki do wyłączania akcji.</string>
 
     <string name="operating_modes_settings">Tryby pracy</string> <!-- name of menu with different mode settings e.g. Do Not Disturb, vibrate mode -->
     <string name="operating_modes_settings_summary">Nie przeszkadzaj, tryb wibracji, itp.</string>
@@ -852,11 +843,25 @@
     <string name="tip14_settings">Aplikacja NeoSafe &gt; Zasilanie &gt; ikona ustawień z prawej u góry &gt; Biała lista ochrony w tle &gt; dodaj BlipBlip</string>
     <string name="tip15_settings">Aplikacja NeoSafe &gt; Uprawnienia &gt; Przyspieszenie przy włączaniu &gt; Włącz BlipBlip</string>
 
+    <!-- UI Settings -->
+    <string name="pref_user_interface">Interfejs użytkownika</string>
+    <!-- edit button -->
+    <string name="edit_button_title">Przycisk edycji</string>
+    <string name="edit_button_on">Pokaż przycisk edycji</string>
+    <string name="edit_button_off">Ukryj przycisk edycji. By wejść w tryb edycji użyj akcji edycji z menu.</string>
     <!-- changelog -->
     <string name="version_history">Historia wersji</string>
     <string name="changelog_title">Co nowego?</string>
     <string name="show_changelog_title">Pokaż dziennik zmian</string>
     <string name="show_changelog_on">Pokaż ostatnie zmiany w aplikacji przy starcie.</string>
     <string name="show_changelog_off">Nie pokazuj ostatnich zmian przy starcie.</string>
+    <!-- inclusive -->
+    <string name="show_inclusive_title">Zmiana końców przedziału czasu</string>
+    <string name="show_inclusive_on">Wybierając przedział czasu pokaż przyciski pozwalające wybrać, czy dany czas ma być zawarty w przedziale czasu.</string>
+    <string name="show_inclusive_off">Ukryj przyciski, które pozwalają wybrać czy dany czas ma być uwzględniony w przedziale czasu.</string>
+    <!-- show switches -->
+    <string name="show_actions_switches_title">Przełączniki dla akcji</string> <!-- option to show enable/disable switches for actions -->
+    <string name="show_actions_switches_on">Pokazuj przełączniki do wyłączania akcji.</string>
+    <string name="show_actions_switches_off">Schowaj przełączniki do wyłączania akcji.</string>
 
 </resources>

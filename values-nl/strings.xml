@@ -675,11 +675,6 @@
 
     <string name="swipe_right_to_delete">Veeg naar rechts om items te verwijderen</string>
 
-    <string name="pref_user_interface">Gebruikersinterface</string>
-    <string name="show_inclusive_title">Wijzig tijdbereik eindigen</string>
-    <string name="show_inclusive_on">Wanneer je het tijdbereik opgeeft, geef knoppen weer die toelaten om te specificeren of de opgegeven tijd in het tijdbereik moet worden opgenomen.</string>
-    <string name="show_inclusive_off">Verberg knoppen waarmee u kunt kiezen of tijd moet worden opgenomen in het tijdbereik.</string>
-
     <string name="action_repeat">Herhalen</string>
     <string name="action_repeat_sound">Herhaal geluid</string>
     <string name="action_repeat_vibration">Herhaal trilling</string>
@@ -713,10 +708,6 @@
     <string name="pref_tts_overlaps_sounds">Overlap sounds</string> <!-- TODO translate -->
     <string name="pref_tts_overlaps_sounds_on">Speaking will overlap sounds</string> <!-- TODO translate -->
     <string name="pref_tts_overlaps_sounds_off">Speaking will not overlap sounds (sound will play before or after speaking)</string> <!-- TODO translate -->
-
-    <string name="show_actions_switches_title">Acties wisselen</string> <!-- option to show enable/disable switches for actions -->
-    <string name="show_actions_switches_on">Toon schakelaars voor uitschakel acties.</string>
-    <string name="show_actions_switches_off">Verberg schakelaars voor uitschakel acties.</string>
 
     <string name="operating_modes_settings">Uitvoer modus</string> <!-- name of menu with different mode settings e.g. Do Not Disturb, vibrate mode -->
     <string name="operating_modes_settings_summary">Niet storen, trillen modus, etc.</string>
@@ -842,11 +833,25 @@
     <string name="tip14_settings">NeoSafe app &gt; Power &gt; right top settings icon &gt; Background protection whitelist &gt; add BlipBLip</string> <!-- TODO translate -->
     <string name="tip15_settings">NeoSafe app &gt; Permission &gt; Power-on speedup &gt; Enable BlipBlip</string> <!-- TODO translate -->
 
+    <!-- UI Settings -->
+    <string name="pref_user_interface">Gebruikersinterface</string>
+    <!-- edit button -->
+    <string name="edit_button_title">Edit button</string> <!-- TODO translate -->
+    <string name="edit_button_on">Show edit button</string> <!-- TODO translate -->
+    <string name="edit_button_off">Hide edit button. To enter edit mode use edit action from menu.</string> <!-- TODO translate -->
     <!-- changelog -->
     <string name="version_history">Version history</string> <!-- TODO translate -->
     <string name="changelog_title">What\'s new?</string> <!-- TODO translate -->
     <string name="show_changelog_title">Show changelog</string> <!-- TODO translate -->
     <string name="show_changelog_on">Show recent changes on startup.</string> <!-- TODO translate -->
     <string name="show_changelog_off">Do not show recent changes on startup.</string> <!-- TODO translate -->
+    <!-- inclusive -->
+    <string name="show_inclusive_title">Wijzig tijdbereik eindigen</string>
+    <string name="show_inclusive_on">Wanneer je het tijdbereik opgeeft, geef knoppen weer die toelaten om te specificeren of de opgegeven tijd in het tijdbereik moet worden opgenomen.</string>
+    <string name="show_inclusive_off">Verberg knoppen waarmee u kunt kiezen of tijd moet worden opgenomen in het tijdbereik.</string>
+    <!-- show switches -->
+    <string name="show_actions_switches_title">Acties wisselen</string> <!-- option to show enable/disable switches for actions -->
+    <string name="show_actions_switches_on">Toon schakelaars voor uitschakel acties.</string>
+    <string name="show_actions_switches_off">Verberg schakelaars voor uitschakel acties.</string>
 
 </resources>

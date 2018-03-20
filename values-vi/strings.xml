@@ -662,11 +662,6 @@
 
     <string name="swipe_right_to_delete">Vuốt sang phải để xóa các mục</string>
 
-    <string name="pref_user_interface">Giao diện người dùng</string>
-    <string name="show_inclusive_title">Thay đổi khoảng thời gian kết thúc</string>
-    <string name="show_inclusive_on">Khi chỉ định nút hiển thị phạm vi thời gian cho phép chỉ định thời gian đã cho cần được bao gồm trong khoảng thời gian.</string>
-    <string name="show_inclusive_off">Ẩn nút cho phép chọn nếu thời gian nên bao gồm trong khoảng thời gian.</string>
-
     <string name="action_repeat">Lặp lại</string>
     <string name="action_repeat_sound">Lặp lại âm thanh</string>
     <string name="action_repeat_vibration">Lặp lại rung</string>
@@ -700,10 +695,6 @@
     <string name="pref_tts_overlaps_sounds">Overlap sounds</string> <!-- TODO translate -->
     <string name="pref_tts_overlaps_sounds_on">Speaking will overlap sounds</string> <!-- TODO translate -->
     <string name="pref_tts_overlaps_sounds_off">Speaking will not overlap sounds (sound will play before or after speaking)</string> <!-- TODO translate -->
-
-    <string name="show_actions_switches_title">Công tắc hành động</string> <!-- option to show enable/disable switches for actions -->
-    <string name="show_actions_switches_on">Hiển thị công tắc để vô hiệu hoá hành động.</string>
-    <string name="show_actions_switches_off">Ẩn công tắc để vô hiệu hóa các tác vụ.</string>
 
     <string name="operating_modes_settings">Chế độ điều hành</string> <!-- name of menu with different mode settings e.g. Do Not Disturb, vibrate mode -->
     <string name="operating_modes_settings_summary">Đừng làm phiền, chế độ rung, v.v...</string>
@@ -829,11 +820,25 @@
     <string name="tip14_settings">NeoSafe app &gt; Power &gt; right top settings icon &gt; Background protection whitelist &gt; add BlipBLip</string> <!-- TODO translate -->
     <string name="tip15_settings">NeoSafe app &gt; Permission &gt; Power-on speedup &gt; Enable BlipBlip</string> <!-- TODO translate -->
 
+    <!-- UI Settings -->
+    <string name="pref_user_interface">Giao diện người dùng</string>
+    <!-- edit button -->
+    <string name="edit_button_title">Edit button</string> <!-- TODO translate -->
+    <string name="edit_button_on">Show edit button</string> <!-- TODO translate -->
+    <string name="edit_button_off">Hide edit button. To enter edit mode use edit action from menu.</string> <!-- TODO translate -->
     <!-- changelog -->
     <string name="version_history">Version history</string> <!-- TODO translate -->
     <string name="changelog_title">What\'s new?</string> <!-- TODO translate -->
     <string name="show_changelog_title">Show changelog</string> <!-- TODO translate -->
     <string name="show_changelog_on">Show recent changes on startup.</string> <!-- TODO translate -->
     <string name="show_changelog_off">Do not show recent changes on startup.</string> <!-- TODO translate -->
+    <!-- inclusive -->
+    <string name="show_inclusive_title">Thay đổi khoảng thời gian kết thúc</string>
+    <string name="show_inclusive_on">Khi chỉ định nút hiển thị phạm vi thời gian cho phép chỉ định thời gian đã cho cần được bao gồm trong khoảng thời gian.</string>
+    <string name="show_inclusive_off">Ẩn nút cho phép chọn nếu thời gian nên bao gồm trong khoảng thời gian.</string>
+    <!-- show switches -->
+    <string name="show_actions_switches_title">Công tắc hành động</string> <!-- option to show enable/disable switches for actions -->
+    <string name="show_actions_switches_on">Hiển thị công tắc để vô hiệu hoá hành động.</string>
+    <string name="show_actions_switches_off">Ẩn công tắc để vô hiệu hóa các tác vụ.</string>
 
 </resources>

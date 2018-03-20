@@ -675,11 +675,6 @@
 
     <string name="swipe_right_to_delete">Seperjen jobbra elemek törléséhez</string>
 
-    <string name="pref_user_interface">Felhasználói felület</string>
-    <string name="show_inclusive_title">Idő tartomány végeinek megváltoztatása</string>
-    <string name="show_inclusive_on">Idő tartomány megadásakor mutasson gombokat, amelyekkel megadható, hogy a megadott időpontok beleértendőek-e az idő tartományba.</string>
-    <string name="show_inclusive_off">Rejtse el a gombokat, amelyekketl választható, hogy az idő beleértendő-e a tartományba.</string>
-
     <string name="action_repeat">Ismétlés</string>
     <string name="action_repeat_sound">Hang ismétlése</string>
     <string name="action_repeat_vibration">Vibrálás ismétlése</string>
@@ -713,10 +708,6 @@
     <string name="pref_tts_overlaps_sounds">Overlap sounds</string> <!-- TODO translate -->
     <string name="pref_tts_overlaps_sounds_on">Speaking will overlap sounds</string> <!-- TODO translate -->
     <string name="pref_tts_overlaps_sounds_off">Speaking will not overlap sounds (sound will play before or after speaking)</string> <!-- TODO translate -->
-
-    <string name="show_actions_switches_title">Művelet kapcsolók</string> <!-- option to show enable/disable switches for actions -->
-    <string name="show_actions_switches_on">Műveletek tiltása kapcsolók  mutatása.</string>
-    <string name="show_actions_switches_off">Műveletek tiltása kapcsolók elrejtése.</string>
 
     <string name="operating_modes_settings">Működési módok</string> <!-- name of menu with different mode settings e.g. Do Not Disturb, vibrate mode -->
     <string name="operating_modes_settings_summary">Ne zavarjanak, vibrálás mód, stb.</string>
@@ -842,11 +833,25 @@
     <string name="tip14_settings">NeoSafe app &gt; Power &gt; right top settings icon &gt; Background protection whitelist &gt; add BlipBLip</string> <!-- TODO translate -->
     <string name="tip15_settings">NeoSafe app &gt; Permission &gt; Power-on speedup &gt; Enable BlipBlip</string> <!-- TODO translate -->
 
+    <!-- UI Settings -->
+    <string name="pref_user_interface">Felhasználói felület</string>
+    <!-- edit button -->
+    <string name="edit_button_title">Edit button</string> <!-- TODO translate -->
+    <string name="edit_button_on">Show edit button</string> <!-- TODO translate -->
+    <string name="edit_button_off">Hide edit button. To enter edit mode use edit action from menu.</string> <!-- TODO translate -->
     <!-- changelog -->
     <string name="version_history">Version history</string> <!-- TODO translate -->
     <string name="changelog_title">What\'s new?</string> <!-- TODO translate -->
     <string name="show_changelog_title">Show changelog</string> <!-- TODO translate -->
     <string name="show_changelog_on">Show recent changes on startup.</string> <!-- TODO translate -->
     <string name="show_changelog_off">Do not show recent changes on startup.</string> <!-- TODO translate -->
+    <!-- inclusive -->
+    <string name="show_inclusive_title">Idő tartomány végeinek megváltoztatása</string>
+    <string name="show_inclusive_on">Idő tartomány megadásakor mutasson gombokat, amelyekkel megadható, hogy a megadott időpontok beleértendőek-e az idő tartományba.</string>
+    <string name="show_inclusive_off">Rejtse el a gombokat, amelyekketl választható, hogy az idő beleértendő-e a tartományba.</string>
+    <!-- show switches -->
+    <string name="show_actions_switches_title">Művelet kapcsolók</string> <!-- option to show enable/disable switches for actions -->
+    <string name="show_actions_switches_on">Műveletek tiltása kapcsolók  mutatása.</string>
+    <string name="show_actions_switches_off">Műveletek tiltása kapcsolók elrejtése.</string>
 
 </resources>

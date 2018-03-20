@@ -673,11 +673,6 @@
 
     <string name="swipe_right_to_delete">Wische nach rechts um zu löschen</string>
 
-    <string name="pref_user_interface">Benutzer Oberfläche</string>
-    <string name="show_inclusive_title">Verändere das Ende des Zeitumfangs</string>
-    <string name="show_inclusive_on">Beim einstellen des Zeitumfangs zeige Schalter an, welche die Auswahl der gegebenen Zeit in Zeitumfangsmenü erlauben.</string>
-    <string name="show_inclusive_off">Verstecke die Auswahlschalter der Zeit welche die Zeitauswahl im Zeitumfangsmenü anzeigen.</string>
-
     <string name="action_repeat">Wiederholung</string>
     <string name="action_repeat_sound">Wiederhole den Klang</string>
     <string name="action_repeat_vibration">Wiederhole die Vibration</string>
@@ -711,10 +706,6 @@
     <string name="pref_tts_overlaps_sounds">Overlap sounds</string> <!-- TODO translate -->
     <string name="pref_tts_overlaps_sounds_on">Speaking will overlap sounds</string> <!-- TODO translate -->
     <string name="pref_tts_overlaps_sounds_off">Speaking will not overlap sounds (sound will play before or after speaking)</string> <!-- TODO translate -->
-
-    <string name="show_actions_switches_title">Aktionsumschalter</string> <!-- option to show enable/disable switches for actions -->
-    <string name="show_actions_switches_on">Zeige Schalter zum ausschalten der Aktionen.</string>
-    <string name="show_actions_switches_off">Verstecke Schalter zum ausschalten der Aktionen.</string>
 
     <string name="operating_modes_settings">Arbeitsmodus</string> <!-- name of menu with different mode settings e.g. Do Not Disturb, vibrate mode -->
     <string name="operating_modes_settings_summary">Nicht-Stören-Modus, Vibrationsmodus, usw.</string>
@@ -840,11 +831,25 @@
     <string name="tip14_settings">NeoSafe app &gt; Power &gt; right top settings icon &gt; Background protection whitelist &gt; add BlipBLip</string> <!-- TODO translate -->
     <string name="tip15_settings">NeoSafe app &gt; Permission &gt; Power-on speedup &gt; Enable BlipBlip</string> <!-- TODO translate -->
 
+    <!-- UI Settings -->
+    <string name="pref_user_interface">Benutzer Oberfläche</string>
+    <!-- edit button -->
+    <string name="edit_button_title">Edit button</string> <!-- TODO translate -->
+    <string name="edit_button_on">Show edit button</string> <!-- TODO translate -->
+    <string name="edit_button_off">Hide edit button. To enter edit mode use edit action from menu.</string> <!-- TODO translate -->
     <!-- changelog -->
     <string name="version_history">Version history</string> <!-- TODO translate -->
     <string name="changelog_title">What\'s new?</string> <!-- TODO translate -->
     <string name="show_changelog_title">Show changelog</string> <!-- TODO translate -->
     <string name="show_changelog_on">Show recent changes on startup.</string> <!-- TODO translate -->
     <string name="show_changelog_off">Do not show recent changes on startup.</string> <!-- TODO translate -->
+    <!-- inclusive -->
+    <string name="show_inclusive_title">Verändere das Ende des Zeitumfangs</string>
+    <string name="show_inclusive_on">Beim einstellen des Zeitumfangs zeige Schalter an, welche die Auswahl der gegebenen Zeit in Zeitumfangsmenü erlauben.</string>
+    <string name="show_inclusive_off">Verstecke die Auswahlschalter der Zeit welche die Zeitauswahl im Zeitumfangsmenü anzeigen.</string>
+    <!-- show switches -->
+    <string name="show_actions_switches_title">Aktionsumschalter</string> <!-- option to show enable/disable switches for actions -->
+    <string name="show_actions_switches_on">Zeige Schalter zum ausschalten der Aktionen.</string>
+    <string name="show_actions_switches_off">Verstecke Schalter zum ausschalten der Aktionen.</string>
 
 </resources>

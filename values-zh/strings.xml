@@ -663,11 +663,6 @@
 
     <string name="swipe_right_to_delete">Swipe right to delete items</string> <!-- TODO translate -->
 
-    <string name="pref_user_interface">User interface</string> <!-- TODO translate -->
-    <string name="show_inclusive_title">Change time range ends</string> <!-- TODO translate -->
-    <string name="show_inclusive_on">When specifying time range show buttons which allow to specify whether given time should be included in time range.</string> <!-- TODO translate -->
-    <string name="show_inclusive_off">Hide buttons allowing to choose if time should be included in time range.</string> <!-- TODO translate -->
-
     <string name="action_repeat">Repeat</string> <!-- TODO translate -->
     <string name="action_repeat_sound">Repeat sound</string> <!-- TODO translate -->
     <string name="action_repeat_vibration">Repeat vibration</string> <!-- TODO translate -->
@@ -701,10 +696,6 @@
     <string name="pref_tts_overlaps_sounds">Overlap sounds</string> <!-- TODO translate -->
     <string name="pref_tts_overlaps_sounds_on">Speaking will overlap sounds</string> <!-- TODO translate -->
     <string name="pref_tts_overlaps_sounds_off">Speaking will not overlap sounds (sound will play before or after speaking)</string> <!-- TODO translate -->
-
-    <string name="show_actions_switches_title">Actions switches</string> <!-- TODO translate --> <!-- option to show enable/disable switches for actions -->
-    <string name="show_actions_switches_on">Show switches for disabling actions.</string> <!-- TODO translate -->
-    <string name="show_actions_switches_off">Hide switches for disabling actions.</string> <!-- TODO translate -->
 
     <string name="operating_modes_settings">Operating modes</string> <!-- TODO translate --> <!-- name of menu with different mode settings e.g. Do Not Disturb, vibrate mode -->
     <string name="operating_modes_settings_summary">Do Not Disturb, vibrate mode, etc.</string> <!-- TODO translate -->
@@ -830,11 +821,25 @@
     <string name="tip14_settings">NeoSafe app &gt; Power &gt; right top settings icon &gt; Background protection whitelist &gt; add BlipBLip</string> <!-- TODO translate -->
     <string name="tip15_settings">NeoSafe app &gt; Permission &gt; Power-on speedup &gt; Enable BlipBlip</string> <!-- TODO translate -->
 
+    <!-- UI Settings -->
+    <string name="pref_user_interface">User interface</string> <!-- TODO translate -->
+    <!-- edit button -->
+    <string name="edit_button_title">Edit button</string> <!-- TODO translate -->
+    <string name="edit_button_on">Show edit button</string> <!-- TODO translate -->
+    <string name="edit_button_off">Hide edit button. To enter edit mode use edit action from menu.</string> <!-- TODO translate -->
     <!-- changelog -->
     <string name="version_history">Version history</string> <!-- TODO translate -->
     <string name="changelog_title">What\'s new?</string> <!-- TODO translate -->
     <string name="show_changelog_title">Show changelog</string> <!-- TODO translate -->
     <string name="show_changelog_on">Show recent changes on startup.</string> <!-- TODO translate -->
     <string name="show_changelog_off">Do not show recent changes on startup.</string> <!-- TODO translate -->
+    <!-- inclusive -->
+    <string name="show_inclusive_title">Change time range ends</string> <!-- TODO translate -->
+    <string name="show_inclusive_on">When specifying time range show buttons which allow to specify whether given time should be included in time range.</string> <!-- TODO translate -->
+    <string name="show_inclusive_off">Hide buttons allowing to choose if time should be included in time range.</string> <!-- TODO translate -->
+    <!-- show switches -->
+    <string name="show_actions_switches_title">Actions switches</string> <!-- TODO translate --> <!-- option to show enable/disable switches for actions -->
+    <string name="show_actions_switches_on">Show switches for disabling actions.</string> <!-- TODO translate -->
+    <string name="show_actions_switches_off">Hide switches for disabling actions.</string> <!-- TODO translate -->
 
 </resources>
