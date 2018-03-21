@@ -569,6 +569,9 @@
     <string name="disable_when_headset_on">Minden figyelmeztetés letiltott</string>
     <string name="disable_when_headset_off">Minden figyelmeztetés engedélyezett</string>
     <string name="disable_when_headset_toast">A BlipBlip figyelmeztetések most le vannak tiltve, mert headsetet csatlakoztatott.</string>
+    <string name="buy">Buy</string> <!-- TODO translate -->
+    <string name="later">Later</string> <!-- TODO translate -->
+    <string name="buy_custom_sounds">Adding own sounds is a premium feature. Would you like to buy it now?</string> <!-- TODO translate -->
 
     <string name="snack_bar_text_item_removed">1 elem eltávolítva</string>
     <string name="snack_bar_action_undo">VISSZAVONÁS</string>

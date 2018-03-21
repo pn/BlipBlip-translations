@@ -558,6 +558,9 @@
     <string name="disable_when_headset_on">All notifications disabled</string> <!-- TODO translate -->
     <string name="disable_when_headset_off">All notifications enabled</string> <!-- TODO translate -->
     <string name="disable_when_headset_toast">BlipBlip notifications are now disabled, because you have headset connected.</string> <!-- TODO translate -->
+    <string name="buy">Buy</string> <!-- TODO translate -->
+    <string name="later">Later</string> <!-- TODO translate -->
+    <string name="buy_custom_sounds">Adding own sounds is a premium feature. Would you like to buy it now?</string> <!-- TODO translate -->
 
     <string name="snack_bar_text_item_removed">1 item removed</string> <!-- TODO translate -->
     <string name="snack_bar_action_undo">UNDO</string> <!-- TODO translate -->
