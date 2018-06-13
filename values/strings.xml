@@ -767,7 +767,7 @@
     <string name="premium_helps_support">By upgrading to BlipBlip you not only get all features or sounds but you also support its continuous and independent development.</string>
 
     <string name="vibrate_seconds">Vibrate %ss</string> <!-- s at the end is for seconds, %s will be replaced vy value e.g. "Vibrate 1.2s" -->
-    <string name="wait_and_vibrate_seconds">Wait %ss, vibrate %ss</string>
+    <string name="wait_and_vibrate_seconds">Wait %1$ss, vibrate %1$ss</string>
 
     <!-- button descriptions -->
     <string name="open_menu">Open menu</string>
@@ -824,7 +824,7 @@
     <!-- Tips detailed instructions -->
     <string name="tip1_settings">Settings > Device maintenance > Battery > Unmonitored apps list</string>
     <string name="tip2_settings">Settings > Advanced Settings > Battery Manager > Protected Apps or Settings > Privacy and Security > Protected Apps</string>
-    <string name="tip3_settings">Phone Manager > Lock screen cleanup > un-check the app (don\'t close) or Settings > Battery > Lock screen cleanup > un-check the app (don't close)</string>
+    <string name="tip3_settings">Phone Manager > Lock screen cleanup > un-check the app (don\'t close) or Settings > Battery > Lock screen cleanup > un-check the app (don\'t close)</string>
     <string name="tip4_settings">Settings > Power management > STAMINA mode > Apps active in standby > Add BlipBlip</string>
     <string name="tip5_settings">Settings > Additional Settings > Battery &amp; Performance > Manage Apps Battery Usage > Choose Apps > BlipBlip > No restrictions</string>
     <string name="tip6_settings">Settings > Permissions > Auto-run management</string>

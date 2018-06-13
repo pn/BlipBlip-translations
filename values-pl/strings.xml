@@ -778,7 +778,7 @@
     <string name="premium_helps_support">Aktualizując BlipBlip nie tylko otrzymujesz wszystkie funkcje lub dźwięki, ale również wspierasz niezależny i ciągły rozwój aplikacji.</string>
 
     <string name="vibrate_seconds">Wibruj %ss</string> <!-- s at the end is for seconds, %s will be replaced vy value e.g. "Vibrate 1.2s" -->
-    <string name="wait_and_vibrate_seconds">Czekaj %ss, wibruj %ss</string>
+    <string name="wait_and_vibrate_seconds">Czekaj %1$ss, wibruj %2$ss</string>
 
     <!-- button descriptions -->
     <string name="open_menu">Otwórz menu</string>

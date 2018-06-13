@@ -768,7 +768,7 @@
     <string name="premium_helps_support">By upgrading to BlipBlip you not only get all features or sounds but you also support its continuous and independent development.</string> <!-- TODO translate -->
 
     <string name="vibrate_seconds">Vibrálás %s mp</string> <!-- s at the end is for seconds, %s will be replaced vy value e.g. "Vibrate 1.2s" -->
-    <string name="wait_and_vibrate_seconds">Várakozás %s mp, vibrálás %s mp</string>
+    <string name="wait_and_vibrate_seconds">Várakozás %1$s mp, vibrálás %2$s mp</string>
 
     <!-- button descriptions -->
     <string name="open_menu">Open menu</string> <!-- TODO translate -->
@@ -825,7 +825,7 @@
     <!-- Tips detailed instructions -->
     <string name="tip1_settings">Settings &gt; Device maintenance &gt; Battery &gt; Unmonitored apps list</string> <!-- TODO translate -->
     <string name="tip2_settings">Settings &gt; Advanced Settings &gt; Battery Manager &gt; Protected Apps or Settings &gt; Privacy and Security &gt; Protected Apps</string> <!-- TODO translate -->
-    <string name="tip3_settings">Phone Manager &gt; Lock screen cleanup &gt; un-check the app (don\'t close) or Settings &gt; Battery &gt; Lock screen cleanup &gt; un-check the app (don't close)</string> <!-- TODO translate -->
+    <string name="tip3_settings">Phone Manager &gt; Lock screen cleanup &gt; un-check the app (don\'t close) or Settings &gt; Battery &gt; Lock screen cleanup &gt; un-check the app (don\'t close)</string> <!-- TODO translate -->
     <string name="tip4_settings">Settings &gt; Power management &gt; STAMINA mode &gt; Apps active in standby &gt; Add BlipBlip</string> <!-- TODO translate -->
     <string name="tip5_settings">Settings &gt; Additional Settings &gt; Battery &amp; Performance &gt; Manage Apps Battery Usage &gt; Choose Apps &gt; BlipBlip &gt; No restrictions</string> <!-- TODO translate -->
     <string name="tip6_settings">Settings &gt; Permissions &gt; Auto-run management</string> <!-- TODO translate -->
