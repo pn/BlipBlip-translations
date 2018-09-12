@@ -859,4 +859,33 @@
     <string name="show_actions_switches_on">Show switches for disabling actions.</string>
     <string name="show_actions_switches_off">Hide switches for disabling actions.</string>
 
+    <!-- ads -->
+    <string translatable="false" name="channel_name_premium_end">Premium end</string>
+    <string translatable="false" name="channel_name_premium_end_description">Watch ad to enjoy your premium version for free</string>
+
+    <string translatable="false" name="loading_ad">Loading ad...</string>
+    <string translatable="false" name="watch_ad_now">Watch ad now</string>
+    <string translatable="false" name="subscribe_without_ads">Subscribe without ads</string>
+    <string translatable="false" name="start_free_trial">Start a free trial</string>
+    <string translatable="false" name="tooltip_accept_privacy_policy">Please check the box.</string>
+    <string translatable="false" name="welcome_to_blipBlip">Welcome to BlipBlip!</string>
+    <string translatable="false" name="blipblip_free_description">In this app you can access all Blip Blip premium features and sounds in exchange for watching ads.</string>
+    <string translatable="false" name="blipblip_free_description2">There are no ads in user interface or popping up unexpectedly. You always choose when you want to watch an ad.</string>
+    <string translatable="false" name="watch_ad">Watch ad</string>
+    <string translatable="false" name="accept_privacy_policy">I accept privacy policy.</string>
+    <string translatable="false" name="ad_is_loading">Ad is loading. Please wait...</string>
+    <string translatable="false" name="get_blipblip">Want free app without ads and without premium features? Get it here.</string>
+    <string translatable="false" name="privacy_policy">Privacy policy.</string>
+    <string translatable="false" name="get_time_of_premium">Get %1$s of premium</string>
+    <string translatable="false" name="get_time_of_premium_more">Watch ad to use premium features for additional: %s.</string>
+    <string translatable="false" name="premium_time_left">You have %s left using premium features.</string>
+
+    <!-- install BlipBlip free -->
+    <string translatable="false" name="dialog_free_premium_title">Want premium free?</string>
+    <string translatable="false" name="dialog_free_premium_description">Watch ads in exchange for premium features in %1$s app.</string>
+    <string translatable="false" name="open_app">Open</string>
+    <string translatable="false" name="install_app">Install</string>
+    <string translatable="false" name="maybe_later">Maybe later</string>
+
+
 </resources>
