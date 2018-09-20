@@ -765,6 +765,7 @@
     <string name="yearly_payment">Yearly payment.</string>
     <string name="free_trial_available">Free trial available.</string>
     <string name="premium_helps_support">By upgrading to BlipBlip you not only get all features or sounds but you also support its continuous and independent development.</string>
+    <string translatable="false" name="loading">Loading…</string> <!-- TODO translate -->
 
     <string name="vibrate_seconds">Vibrate %ss</string> <!-- s at the end is for seconds, %s will be replaced vy value e.g. "Vibrate 1.2s" -->
     <string name="wait_and_vibrate_seconds">Wait %1$ss, vibrate %1$ss</string>

@@ -776,6 +776,7 @@
     <string name="yearly_payment">Płatność roczna.</string>
     <string name="free_trial_available">Dostępny okres próbny.</string>
     <string name="premium_helps_support">Aktualizując BlipBlip nie tylko otrzymujesz wszystkie funkcje lub dźwięki, ale również wspierasz niezależny i ciągły rozwój aplikacji.</string>
+    <string translatable="false" name="loading">Ładowanie…</string>
 
     <string name="vibrate_seconds">Wibruj %ss</string> <!-- s at the end is for seconds, %s will be replaced vy value e.g. "Vibrate 1.2s" -->
     <string name="wait_and_vibrate_seconds">Czekaj %1$ss, wibruj %2$ss</string>
