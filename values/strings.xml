@@ -881,6 +881,11 @@
     <string translatable="false" name="get_time_of_premium_more">Watch ad to use premium features for additional: %s.</string>
     <string translatable="false" name="premium_time_left">You have %s left using premium features.</string>
 
+    <!-- ads notifications -->
+    <string translatable="false" name="notif_premium_ended">Premium ended</string>
+    <string translatable="false" name="notif_premium_ended_description">Watch ad to unlock premium again.</string>
+
+
     <!-- install BlipBlip free -->
     <string translatable="false" name="dialog_free_premium_title">Want premium free?</string>
     <string translatable="false" name="dialog_free_premium_description">Watch ads in exchange for premium features in %1$s app.</string>
