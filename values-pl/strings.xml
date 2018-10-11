@@ -892,6 +892,7 @@
     <string translatable="false" name="get_time_of_premium_more">Obejrzyj reklamę, żeby używać premium przez dodatkowe %s.</string>
     <string translatable="false" name="premium_time_left">Pozostało Ci %s używania funkcji premium.</string>
     <string translatable="false" name="app_was_enabled">Aplikacja została uruchomiona!</string>
+    <string translatable="false" name="failed_loading_ad">Nieudało się załadować reklamy. Sprawdź połączenie z internetem i spróbuj ponownie..</string>
 
     <!-- ads notifications -->
     <string translatable="false" name="notif_premium_ended">Aplikacja wyłączona</string>
