@@ -866,6 +866,7 @@
 
     <string translatable="false" name="loading_ad">Loading ad...</string>
     <string translatable="false" name="watch_ad_now">Watch ad now</string>
+    <string translatable="false" name="watch_video">Watch video ad</string>
     <string translatable="false" name="subscribe_without_ads">Subscribe without ads</string>
     <string translatable="false" name="start_free_trial">Start a free trial</string>
     <string translatable="false" name="tooltip_accept_privacy_policy">Please check the box.</string>

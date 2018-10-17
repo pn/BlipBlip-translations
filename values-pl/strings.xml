@@ -877,6 +877,7 @@
 
     <string translatable="false" name="loading_ad">Ładowanie reklamy...</string>
     <string translatable="false" name="watch_ad_now">Obejrzyj reklamę teraz</string>
+    <string translatable="false" name="watch_video">Obejrzyj reklamę wideo</string>
     <string translatable="false" name="subscribe_without_ads">Subskrybuj bez reklam</string>
     <string translatable="false" name="start_free_trial">Rozpocznij darmowy okres próbny</string>
     <string translatable="false" name="tooltip_accept_privacy_policy">Proszę zaznaczyć pole.</string>
