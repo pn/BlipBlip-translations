@@ -763,7 +763,7 @@
     <string name="feature_all_sounds">All sounds in the app</string> <!-- TODO translate -->
     <string name="yearly_payment">Yearly payment.</string> <!-- TODO translate -->
     <string name="free_trial_available">Free trial available.</string> <!-- TODO translate -->
-    <string name="premium_helps_support">By upgrading to BlipBlip you not only get all features or sounds but you also support its continuous and independent development.</string> <!-- TODO translate -->
+    <string name="premium_helps_support">By upgrading BlipBlip you not only get all features or sounds but you also support its continuous and independent development.</string> <!-- TODO translate -->
 
     <string name="vibrate_seconds">Vibriere %ss</string> <!-- s at the end is for seconds, %s will be replaced vy value e.g. "Vibrate 1.2s" -->
     <string name="wait_and_vibrate_seconds">Warte %1$ss, vibriere %2$ss</string>
