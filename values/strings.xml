@@ -481,6 +481,11 @@
     <string name="color_next_notification_bar">Color next notification bar</string>
     <string name="color_next_notification_bar_on">Use color background for next notification bar.</string>
     <string name="color_next_notification_bar_off">Use gray background for next notification bar.</string>
+    <string translatable="false" name="night_mode">Night mode</string>
+    <string translatable="false" name="night_mode_on">On</string>
+    <string translatable="false" name="night_mode_off">Off</string>
+    <string translatable="false" name="night_mode_auto">Auto</string>
+    <string translatable="false" name="night_mode_system">System setting</string>
     <string name="dark_theme">Dark theme</string>
     <string name="dark_theme_on">Use dark theme</string>
     <string name="dark_theme_off">Use light theme</string>

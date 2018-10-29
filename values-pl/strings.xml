@@ -492,6 +492,11 @@
     <string name="color_next_notification_bar">Kolor paska następnego powiadomienia</string>
     <string name="color_next_notification_bar_on">Użyj kolorowego tła dla paska następnego powiadomienia.</string>
     <string name="color_next_notification_bar_off">Użyj szarego tła dla paska następnego powiadomienia.</string>
+    <string translatable="false" name="night_mode">Tryb nocny</string>
+    <string translatable="false" name="night_mode_on">Włączony</string>
+    <string translatable="false" name="night_mode_off">Wyłączony</string>
+    <string translatable="false" name="night_mode_auto">Automatyczny</string>
+    <string translatable="false" name="night_mode_system">Ustawienie systemowe</string>
     <string name="dark_theme">Ciemna kolorystyka</string>
     <string name="dark_theme_on">Używaj ciemnej kolorystyki</string>
     <string name="dark_theme_off">Używaj jasnej kolorystyki</string>
