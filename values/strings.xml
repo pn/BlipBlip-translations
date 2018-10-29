@@ -749,6 +749,7 @@
     <string name="month">month</string>
     <string name="month_very_short">mo.</string> <!-- shortcut for word "month", singular -->
     <string name="discount_save_money">Save</string> <!-- percent saved will be displayed below this text -->
+    <string name="premium_settings" translatable="false">Upgrade to premium to unlock</string>
     <string name="buy_premium">Buy premium</string>
     <string name="use_free">Use free version</string>
     <string name="already_bought">Already bought</string>
@@ -864,6 +865,7 @@
     <string translatable="false" name="channel_name_premium_end">Premium end</string>
     <string translatable="false" name="channel_name_premium_end_description">Watch ad to enjoy your premium version for free</string>
 
+    <string translatable="false" name="view_ads">View ads</string>
     <string translatable="false" name="loading_ad">Loading ad...</string>
     <string translatable="false" name="watch_ad_now">Watch ad now</string>
     <string translatable="false" name="watch_video">Watch video ad</string>

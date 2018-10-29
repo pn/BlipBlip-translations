@@ -760,6 +760,7 @@
     <string name="month">miesiąć</string>
     <string name="month_very_short">mies.</string> <!-- shortcut for word "month", singular -->
     <string name="discount_save_money">Oszczędź</string> <!-- percent saved will be displayed below this text -->
+    <string name="premium_settings" translatable="false">Aktualizuj do premium by odblokować</string>
     <string name="buy_premium">Kup premium</string>
     <string name="use_free">Użyj darmowej wersji</string>
     <string name="already_bought">Już kupiono</string>
@@ -875,6 +876,7 @@
     <string translatable="false" name="channel_name_premium_end">Koniec premium</string>
     <string translatable="false" name="channel_name_premium_end_description">Obejrzyj reklamę by cieszyć się wersją premium za darmo</string>
 
+    <string translatable="false" name="view_ads">Oglądaj reklamy</string>
     <string translatable="false" name="loading_ad">Ładowanie reklamy...</string>
     <string translatable="false" name="watch_ad_now">Obejrzyj reklamę teraz</string>
     <string translatable="false" name="watch_video">Obejrzyj reklamę wideo</string>
