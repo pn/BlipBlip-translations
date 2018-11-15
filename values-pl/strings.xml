@@ -878,6 +878,7 @@
     <string name="show_actions_switches_off">Schowaj przełączniki do wyłączania akcji.</string>
 
     <!-- ads -->
+    <string translatable="false" name="remove_ads">Usuń reklamy</string>
     <string translatable="false" name="channel_name_premium_end">Koniec premium</string>
     <string translatable="false" name="channel_name_premium_end_description">Obejrzyj reklamę by cieszyć się wersją premium za darmo</string>
 

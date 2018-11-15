@@ -867,6 +867,7 @@
     <string name="show_actions_switches_off">Hide switches for disabling actions.</string>
 
     <!-- ads -->
+    <string translatable="false" name="remove_ads">Remove ads</string>
     <string translatable="false" name="channel_name_premium_end">Premium end</string>
     <string translatable="false" name="channel_name_premium_end_description">Watch ad to enjoy your premium version for free</string>
 
