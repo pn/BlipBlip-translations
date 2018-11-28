@@ -891,6 +891,9 @@
     <string translatable="false" name="premium_time_left">You have %s left using premium features.</string>
     <string translatable="false" name="app_was_enabled">App has been enabled!</string>
     <string translatable="false" name="failed_loading_ad">Failed to load ad. Check your internet connection and try again.</string>
+    <string translatable="false" name="continue_with_ads">Continue with ads</string>
+    <string translatable="false" name="relevant_ads">Pokazuj bardziej trafne reklamy</string>
+    <string translatable="false" name="less_relevant_Ads">Pokazuj mniej trafne reklamy</string>
 
     <!-- ads notifications -->
     <string translatable="false" name="notif_premium_ended">Notifications stopped</string>
