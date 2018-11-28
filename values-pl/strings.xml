@@ -765,7 +765,7 @@
     <string name="month">miesiąć</string>
     <string name="month_very_short">mies.</string> <!-- shortcut for word "month", singular -->
     <string name="discount_save_money">Oszczędź</string> <!-- percent saved will be displayed below this text -->
-    <string name="premium_settings" translatable="false">Aktualizuj do premium by odblokować</string>
+    <string name="premium_settings" translatable="false">Aktualizuj do premium by odblokować wszytkie opcje</string>
     <string name="buy_premium">Kup premium</string>
     <string name="use_free">Użyj darmowej wersji</string>
     <string name="already_bought">Już kupiono</string>
@@ -910,6 +910,7 @@
 
     <!-- Privacy settings -->
     <string translatable="false" name="privacy">Prywatność</string>
+    <string translatable="false" name="ads">Reklamy</string>
     <string translatable="false" name="pref_personalized_ads">Personalizuj reklamy</string>
     <string translatable="false" name="pref_personalized_ads_on">Reklamy będą spersonalizowane.</string>
     <string translatable="false" name="pref_personalized_ads_off">Twoje dane nie będą użyte do personalizowania reklam.</string>

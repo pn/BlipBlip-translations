@@ -754,7 +754,7 @@
     <string name="month">month</string>
     <string name="month_very_short">mo.</string> <!-- shortcut for word "month", singular -->
     <string name="discount_save_money">Save</string> <!-- percent saved will be displayed below this text -->
-    <string name="premium_settings" translatable="false">Upgrade to premium to unlock</string>
+    <string name="premium_settings" translatable="false">Upgrade to premium to unlock all settings</string>
     <string name="buy_premium">Buy premium</string>
     <string name="use_free">Use free version</string>
     <string name="already_bought">Already bought</string>
@@ -899,6 +899,7 @@
 
     <!-- Privacy settings -->
     <string translatable="false" name="privacy">Privacy</string>
+    <string translatable="false" name="ads">Ads</string>
     <string translatable="false" name="pref_personalized_ads">Personalized ads</string>
     <string translatable="false" name="pref_personalized_ads_on">Ads will be personalized.</string>
     <string translatable="false" name="pref_personalized_ads_off">Your data will not be used to personalize ads.</string>
