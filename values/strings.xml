@@ -871,7 +871,7 @@
     <string translatable="false" name="channel_name_premium_end">Premium end</string>
     <string translatable="false" name="channel_name_premium_end_description">Watch ad to enjoy your premium version for free</string>
 
-    <string translatable="false" name="view_ads">View ads</string>
+    <string translatable="false" name="watch_ads">Watch ads</string>
     <string translatable="false" name="loading_ad">Loading ad...</string>
     <string translatable="false" name="watch_ad_now">Watch ad now</string>
     <string translatable="false" name="watch_video">Watch video ad</string>
@@ -879,7 +879,7 @@
     <string translatable="false" name="start_free_trial">Start a free trial</string>
     <string translatable="false" name="tooltip_accept_privacy_policy">Please check the box.</string>
     <string translatable="false" name="welcome_to_blipBlip">Welcome to BlipBlip!</string>
-    <string translatable="false" name="blipblip_free_description">In this app you can access all Blip Blip premium features and sounds in exchange for watching ads.</string>
+    <string translatable="false" name="blipblip_free_description">This app is free in exchange for watching ads. You can access all Blip Blip premium features and sounds for specified time period after watching an ad. The more you watch the longer you can use the app.</string>
     <string translatable="false" name="blipblip_free_description2">There are no ads in user interface or popping up unexpectedly. You always choose when you want to watch an ad.</string>
     <string translatable="false" name="watch_ad">Watch ad</string>
     <string translatable="false" name="accept_privacy_policy">I accept privacy policy.</string>
@@ -887,8 +887,8 @@
     <string translatable="false" name="get_blipblip">Want free app without ads and without premium features? Get it here.</string>
     <string translatable="false" name="privacy_policy">Privacy policy.</string>
     <string translatable="false" name="get_time_of_premium">Get %1$s of premium</string>
-    <string translatable="false" name="get_time_of_premium_more">Watch ad to use premium features for additional: %s.</string>
-    <string translatable="false" name="premium_time_left">You have %s left using premium features.</string>
+    <string translatable="false" name="get_time_of_premium_more">Watch ad to use the app for additional: %s.</string>
+    <string translatable="false" name="premium_time_left">You have %s left using the app.</string>
     <string translatable="false" name="app_was_enabled">App has been enabled!</string>
     <string translatable="false" name="failed_loading_ad">Failed to load ad. Check your internet connection and try again.</string>
     <string translatable="false" name="continue_with_ads">Continue with ads</string>
@@ -896,9 +896,10 @@
     <string translatable="false" name="continue_with_less_relevant_ads">Continue with less relevant ads</string>
 
     <!-- ads notifications -->
-    <string translatable="false" name="notif_premium_ended">Notifications stopped</string>
-    <string translatable="false" name="notif_premium_ended_description">Watch ad to enable notifications again.</string>
-    <string translatable="false" name="notif_stop_warn">Notifications will stop soon</string>
+    <string translatable="false" name="notif_premium_ended">Application disabled</string>
+    <string translatable="false" name="notif_premium_ended_description">Watch ad to enable it again.</string>
+    <string translatable="false" name="notif_stop_warn">App will be disabled soon</string>
+    <string translatable="false" name="notif_stop_warn_description">Watch ad to extend time for using the app</string>
 
     <!-- Privacy settings -->
     <string translatable="false" name="privacy">Privacy</string>

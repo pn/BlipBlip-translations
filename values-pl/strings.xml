@@ -882,7 +882,7 @@
     <string translatable="false" name="channel_name_premium_end">Koniec premium</string>
     <string translatable="false" name="channel_name_premium_end_description">Obejrzyj reklamę by cieszyć się wersją premium za darmo</string>
 
-    <string translatable="false" name="view_ads">Oglądaj reklamy</string>
+    <string translatable="false" name="watch_ads">Oglądaj reklamy</string>
     <string translatable="false" name="loading_ad">Ładowanie reklamy...</string>
     <string translatable="false" name="watch_ad_now">Obejrzyj reklamę teraz</string>
     <string translatable="false" name="watch_video">Obejrzyj reklamę wideo</string>
@@ -890,16 +890,16 @@
     <string translatable="false" name="start_free_trial">Rozpocznij darmowy okres próbny</string>
     <string translatable="false" name="tooltip_accept_privacy_policy">Proszę zaznaczyć pole.</string>
     <string translatable="false" name="welcome_to_blipBlip">Witaj w BlipBlip!</string>
-    <string translatable="false" name="blipblip_free_description">W tej aplikacji masz dostęp do wszystkich funkcji premium oraz dźwięków w zamian za oglądanie reklam.</string>
-    <string translatable="false" name="blipblip_free_description2">W interfejsie użytkownika nie ma reklam ani reklam wyskakujących nieoczekiwanie. Ty zawsze wybierasz kiedy chcesz obejrzeć reklamę.</string>
+    <string translatable="false" name="blipblip_free_description">Ta aplikacja jest darmowa w zamian za oglądanie reklam. Masz dostęp do wszystkich funkcji premium oraz dźwięków przez określony czas od obejrzenia reklamy. Im więcej oglądasz tym dłużej możesz używać aplikacji.</string>
+    <string translatable="false" name="blipblip_free_description2">W interfejsie użytkownika nie ma reklam. Nie ma też reklam wyskakujących nieoczekiwanie. Ty zawsze wybierasz kiedy chcesz obejrzeć reklamę.</string>
     <string translatable="false" name="watch_ad">Obejrzyj reklamę</string>
     <string translatable="false" name="accept_privacy_policy">Akceptuję politykę prywatności.</string>
     <string translatable="false" name="ad_is_loading">Reklama się ładuje. Prosze czekaj...</string>
     <string translatable="false" name="get_blipblip">Chcesz darmową aplikację bez reklam oraz bez funkcji premium? Pobierz ją tutaj.</string>
     <string translatable="false" name="privacy_policy">Polityka prywatności.</string>
     <string translatable="false" name="get_time_of_premium">Otrzymaj %1$s premium</string>
-    <string translatable="false" name="get_time_of_premium_more">Obejrzyj reklamę, żeby używać premium przez dodatkowe %s.</string>
-    <string translatable="false" name="premium_time_left">Pozostało Ci %s używania funkcji premium.</string>
+    <string translatable="false" name="get_time_of_premium_more">Obejrzyj reklamę, żeby używać aplikacji przez dodatkowe %s.</string>
+    <string translatable="false" name="premium_time_left">Pozostało Ci %s używania aplikacji.</string>
     <string translatable="false" name="app_was_enabled">Aplikacja została uruchomiona!</string>
     <string translatable="false" name="failed_loading_ad">Nieudało się załadować reklamy. Sprawdź połączenie z internetem i spróbuj ponownie..</string>
     <string translatable="false" name="continue_with_ads">Kontynuuj z reklamami</string>
@@ -907,9 +907,10 @@
     <string translatable="false" name="continue_with_less_relevant_ads">Kontynuuj z mniej trafnymi reklamami</string>
 
     <!-- ads notifications -->
-    <string translatable="false" name="notif_premium_ended">Powiadomienia wyłączone</string>
-    <string translatable="false" name="notif_premium_ended_description">Obejrzyj reklamę by włączyć je ponownie,</string>
-    <string translatable="false" name="notif_stop_warn">Powiadomienia zostaną wyłączone wkrótce</string>
+    <string translatable="false" name="notif_premium_ended">Aplikacja wyłączona</string>
+    <string translatable="false" name="notif_premium_ended_description">Obejrzyj reklamę by włączyć ją ponownie,</string>
+    <string translatable="false" name="notif_stop_warn">Aplikacja zostanie wkrótce wyłączona</string>
+    <string translatable="false" name="notif_stop_warn_description">Obejrzyj reklamę, aby przedłużyć okres używania aplikacji</string>
 
     <!-- Privacy settings -->
     <string translatable="false" name="privacy">Prywatność</string>
