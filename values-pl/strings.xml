@@ -903,8 +903,8 @@
     <string translatable="false" name="app_was_enabled">Aplikacja została uruchomiona!</string>
     <string translatable="false" name="failed_loading_ad">Nieudało się załadować reklamy. Sprawdź połączenie z internetem i spróbuj ponownie..</string>
     <string translatable="false" name="continue_with_ads">Kontynuuj z reklamami</string>
-    <string translatable="false" name="relevant_ads">Show relevant ads</string>
-    <string translatable="false" name="less_relevant_Ads">Show less relevant ads</string>
+    <string translatable="false" name="continue_with_relevant_ads">Kontynuuj z bardziej trafnymi reklamami</string>
+    <string translatable="false" name="continue_with_less_relevant_ads">Kontynuuj z mniej trafnymi reklamami</string>
 
     <!-- ads notifications -->
     <string translatable="false" name="notif_premium_ended">Powiadomienia wyłączone</string>
