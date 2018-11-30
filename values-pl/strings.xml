@@ -615,6 +615,7 @@
     <string name="no_upcoming_notifications">Brak nadchodzących powiadomień</string>
     <string name="error_indicator">Wskaźnik błędu</string>
     <string name="next_notification_parent_off">Wyłączone (nadrzędne)</string>
+    <string translatable="false" name="next_notification_app_off">Wyłączone (aplikacja wyłączona)</string>
     <string name="next_day">następnego dnia</string> <!-- Used in: "22:00 - 6:00 next day" -->
     <string name="notifications">Powiadomienia</string>
     <string name="warning_no_email_app">Brak aplikacji email do wysłania raportu.</string>

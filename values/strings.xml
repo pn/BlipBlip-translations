@@ -604,6 +604,7 @@
     <string name="no_upcoming_notifications">No upcoming notifications</string>
     <string name="error_indicator">Error indicator</string>
     <string name="next_notification_parent_off">Off (parent)</string>
+    <string translatable="false" name="next_notification_app_off">Off (app disabled)</string>
     <string name="next_day">next day</string> <!-- Used in: "22:00 - 6:00 next day" -->
     <string name="notifications">Notifications</string>
     <string name="warning_no_email_app">No email application found to send the report.</string>
