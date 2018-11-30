@@ -866,6 +866,11 @@
     <string name="show_actions_switches_on">Show switches for disabling actions.</string>
     <string name="show_actions_switches_off">Hide switches for disabling actions.</string>
 
+    <!-- examples -->
+    <string translatable="false" name="double_sound_every_hour">Double sound every hour</string>
+    <string translatable="false" name="single_sound_half_past">Sound half past every hour</string>
+    <string translatable="false" name="speak_time_every_hour">Speak time every hour</string>
+
     <!-- ads -->
     <string translatable="false" name="remove_ads">Remove ads</string>
     <string translatable="false" name="channel_name_premium_end">Premium end</string>

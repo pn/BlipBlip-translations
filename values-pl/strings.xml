@@ -877,6 +877,11 @@
     <string name="show_actions_switches_on">Pokazuj przełączniki do wyłączania akcji.</string>
     <string name="show_actions_switches_off">Schowaj przełączniki do wyłączania akcji.</string>
 
+    <!-- examples -->
+    <string translatable="false" name="double_sound_every_hour">Podwójny dźwięk co godzinę</string>
+    <string translatable="false" name="single_sound_half_past">Dźwięk pół godziny po każdej godzinie</string>
+    <string translatable="false" name="speak_time_every_hour">Mów czas co godzinę</string>
+
     <!-- ads -->
     <string translatable="false" name="remove_ads">Usuń reklamy</string>
     <string translatable="false" name="channel_name_premium_end">Koniec premium</string>
