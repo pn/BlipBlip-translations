@@ -915,7 +915,8 @@
     <!-- ads notifications -->
     <string translatable="false" name="notif_premium_ended">Aplikacja wyłączona</string>
     <string translatable="false" name="notif_premium_ended_description">Obejrzyj reklamę by włączyć ją ponownie,</string>
-    <string translatable="false" name="notif_stop_warn">Aplikacja zostanie wkrótce wyłączona</string>
+    <!--string translatable="false" name="notif_stop_warn">Obejrzyj reklamę, żeby otrzymać kolejne powiadomienie</string-->
+    <string translatable="false" name="notif_stop_warn">Następne powiadomienie nie będzie dostarczone</string>
     <string translatable="false" name="notif_stop_warn_description">Obejrzyj reklamę, aby przedłużyć okres używania aplikacji</string>
 
     <!-- Privacy settings -->

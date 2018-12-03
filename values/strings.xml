@@ -904,7 +904,8 @@
     <!-- ads notifications -->
     <string translatable="false" name="notif_premium_ended">Application disabled</string>
     <string translatable="false" name="notif_premium_ended_description">Watch ad to enable it again.</string>
-    <string translatable="false" name="notif_stop_warn">App will be disabled soon</string>
+    <!--string translatable="false" name="notif_stop_warn">Watch ad to get next notification</string-->
+    <string translatable="false" name="notif_stop_warn">Next notification won\'t be delivered</string>
     <string translatable="false" name="notif_stop_warn_description">Watch ad to extend time for using the app</string>
 
     <!-- Privacy settings -->
