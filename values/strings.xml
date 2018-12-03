@@ -227,7 +227,7 @@
     <string name="pref_vibrate_wear_off">Do not vibrate on Android Wear device</string>
     <string name="pref_vibrate_wearable_title">Vibrate on connected device</string>
     <string name="pref_vibrate_wearable_on">If vibration is enabled vibrate also on connected wearable device (e.g. smart watch)</string> <!-- not used anymore -->
-    <string name="pref_vibrate_wearable_on2">If vibration is enabled vibrate also on connected wearable device (e.g. smart watch). Requires adding system notification.</string>
+    <string name="pref_vibrate_wearable_on2">If vibration is enabled vibrate also on connected wearable device (e.g. smart watch). Requires adding System notification action.</string>
     <string name="pref_vibrate_wearable_off">Do not vibrate on connected wearable device</string>
 
     <!-- Vibrate on Main Device -->
