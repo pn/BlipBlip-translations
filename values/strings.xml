@@ -579,6 +579,7 @@
     <string name="snack_bar_text_item_removed">1 item removed</string>
     <string name="snack_bar_action_undo">UNDO</string>
 
+    <string translatable="false" name="add">Add</string>
     <string name="add_item">Add item</string>
     <string name="action_add_child_notification">Add child notification</string>
     <string name="action_add_notification">Add notification</string>
@@ -888,6 +889,7 @@
     <string translatable="false" name="blipblip_free_description">This app is free in exchange for watching ads. You can access all Blip Blip premium features and sounds for specified time period after watching an ad. The more you watch the longer you can use the app.</string>
     <string translatable="false" name="blipblip_free_description2">There are no ads in user interface or popping up unexpectedly. You always choose when you want to watch an ad.</string>
     <string translatable="false" name="watch_ad">Watch ad</string>
+    <string translatable="false" name="ad">Ad</string> <!-- Short label of button for watching ads -->
     <string translatable="false" name="accept_privacy_policy">I accept privacy policy.</string>
     <string translatable="false" name="ad_is_loading">Ad is loading. Please wait...</string>
     <string translatable="false" name="get_blipblip">Want free app without ads and without premium features? Get it here.</string>
@@ -900,12 +902,14 @@
     <string translatable="false" name="continue_with_ads">Continue with ads</string>
     <string translatable="false" name="continue_with_relevant_ads">Continue with more relevant ads</string>
     <string translatable="false" name="continue_with_less_relevant_ads">Continue with less relevant ads</string>
+    <string translatable="false" name="watch_ads_to_get_next_notification">Watch ads to get next notification</string>
+    <string translatable="false" name="watch_ad_to_enable_app">Watch ad to enable app</string>
 
     <!-- ads notifications -->
     <string translatable="false" name="notif_premium_ended">Application disabled</string>
     <string translatable="false" name="notif_premium_ended_description">Watch ad to enable it again.</string>
     <!--string translatable="false" name="notif_stop_warn">Watch ad to get next notification</string-->
-    <string translatable="false" name="notif_stop_warn">Next notification won\'t be delivered</string>
+    <string translatable="false" name="notif_stop_warn">Next notification won\'t be played</string>
     <string translatable="false" name="notif_stop_warn_description">Watch ad to extend time for using the app</string>
 
     <!-- Privacy settings -->

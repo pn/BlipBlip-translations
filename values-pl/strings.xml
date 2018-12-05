@@ -590,6 +590,7 @@
     <string name="snack_bar_text_item_removed">1 element usunięty</string>
     <string name="snack_bar_action_undo">cofnij</string>
 
+    <string translatable="false" name="add">Dodaj</string>
     <string name="add_item">Dodaj element</string>
     <string name="action_add_child_notification">Dodaj podrzędne powiadomienie</string>
     <string name="action_add_notification">Dodaj powiadomienie</string>
@@ -899,6 +900,7 @@
     <string translatable="false" name="blipblip_free_description">Ta aplikacja jest darmowa w zamian za oglądanie reklam. Masz dostęp do wszystkich funkcji premium oraz dźwięków przez określony czas od obejrzenia reklamy. Im więcej oglądasz tym dłużej możesz używać aplikacji.</string>
     <string translatable="false" name="blipblip_free_description2">W interfejsie użytkownika nie ma reklam. Nie ma też reklam wyskakujących nieoczekiwanie. Ty zawsze wybierasz kiedy chcesz obejrzeć reklamę.</string>
     <string translatable="false" name="watch_ad">Obejrzyj reklamę</string>
+    <string translatable="false" name="ad">Reklama</string> <!-- Short label of button for watching ads -->
     <string translatable="false" name="accept_privacy_policy">Akceptuję politykę prywatności.</string>
     <string translatable="false" name="ad_is_loading">Reklama się ładuje. Prosze czekaj...</string>
     <string translatable="false" name="get_blipblip">Chcesz darmową aplikację bez reklam oraz bez funkcji premium? Pobierz ją tutaj.</string>
@@ -911,12 +913,14 @@
     <string translatable="false" name="continue_with_ads">Kontynuuj z reklamami</string>
     <string translatable="false" name="continue_with_relevant_ads">Kontynuuj z bardziej trafnymi reklamami</string>
     <string translatable="false" name="continue_with_less_relevant_ads">Kontynuuj z mniej trafnymi reklamami</string>
+    <string translatable="false" name="watch_ads_to_get_next_notification">Oglądaj reklamy by otrzymać następne powiadomienie</string>
+    <string translatable="false" name="watch_ad_to_enable_app">Obejrzyj reklamę by włączyć aplikację</string>
 
     <!-- ads notifications -->
     <string translatable="false" name="notif_premium_ended">Aplikacja wyłączona</string>
     <string translatable="false" name="notif_premium_ended_description">Obejrzyj reklamę by włączyć ją ponownie,</string>
     <!--string translatable="false" name="notif_stop_warn">Obejrzyj reklamę, żeby otrzymać kolejne powiadomienie</string-->
-    <string translatable="false" name="notif_stop_warn">Następne powiadomienie nie będzie dostarczone</string>
+    <string translatable="false" name="notif_stop_warn">Następne powiadomienie nie będzie odtworzone</string>
     <string translatable="false" name="notif_stop_warn_description">Obejrzyj reklamę, aby przedłużyć okres używania aplikacji</string>
 
     <!-- Privacy settings -->
