@@ -912,6 +912,17 @@
     <string translatable="false" name="notif_stop_warn">Next notification won\'t be played</string>
     <string translatable="false" name="notif_stop_warn_description">Watch ad to extend time for using the app</string>
 
+    <!-- ads settings -->
+    <string translatable="false" name="ads_notifications">Need of watching ad</string>
+    <string translatable="false" name="ads_notifications_on">You will get notifications about the need of watching ads</string>
+    <string translatable="false" name="ads_notifications_off">You won\'t get any notifications about watching ads</string>
+    <string translatable="false" name="ads_warn_app_disabled">Application disabled</string>
+    <string translatable="false" name="ads_warn_app_disabled_on">Notify when app is disabled because not enough ads were watched</string>
+    <string translatable="false" name="ads_warn_app_disabled_off">Do not notify when app will be disabled when not enough ads were watched</string>
+    <string translatable="false" name="ads_warn_next_notification">Next notification</string>
+    <string translatable="false" name="ads_warn_next_notification_on">Notify when next notification won\'t be played because not enough ads were watched</string>
+    <string translatable="false" name="ads_warn_next_notification_off">Do no notify when next notification won\'t be played because not enough ads were watched</string>
+
     <!-- Privacy settings -->
     <string translatable="false" name="privacy">Privacy</string>
     <string translatable="false" name="ads">Ads</string>

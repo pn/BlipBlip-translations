@@ -923,6 +923,17 @@
     <string translatable="false" name="notif_stop_warn">Następne powiadomienie nie będzie odtworzone</string>
     <string translatable="false" name="notif_stop_warn_description">Obejrzyj reklamę, aby przedłużyć okres używania aplikacji</string>
 
+    <!-- ads settings -->
+    <string translatable="false" name="ads_notifications">Potrzeba obejrzenia reklamy</string>
+    <string translatable="false" name="ads_notifications_on">Będziesz otrzymywać powiadomienia o potrzebie oglądania reklam</string>
+    <string translatable="false" name="ads_notifications_off">Nie będziesz otrzymywać żadnych powiadomień zachęcających do oglądania reklam</string>
+    <string translatable="false" name="ads_warn_app_disabled">Wyłączenie aplikacji</string>
+    <string translatable="false" name="ads_warn_app_disabled_on">Powiadom kiedy aplikacja zostanie wyłączona z powodu nie obejrzenia wystarczającej ilości reklam</string>
+    <string translatable="false" name="ads_warn_app_disabled_off">Nie powiadamiaj kiedy aplikacja zostanie wyłączona z powodu nie obejrzenia wystarczającej ilości reklam</string>
+    <string translatable="false" name="ads_warn_next_notification">Następne powiadomienie</string>
+    <string translatable="false" name="ads_warn_next_notification_on">Powiadom kiedy następne powiadomienie nie będzie odtworzone z powodu nie obejrzenia wystarczającej ilości reklam</string>
+    <string translatable="false" name="ads_warn_next_notification_off">Nie powiadamiaj kiedy następne powiadomienie nie będzie odtworzone z powodu nie obejrzenia wystarczającej ilości reklam</string>
+
     <!-- Privacy settings -->
     <string translatable="false" name="privacy">Prywatność</string>
     <string translatable="false" name="ads">Reklamy</string>
