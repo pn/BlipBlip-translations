@@ -875,8 +875,8 @@
 
     <!-- ads -->
     <string translatable="false" name="remove_ads">Remove ads</string>
-    <string translatable="false" name="channel_name_premium_end">Premium end</string>
-    <string translatable="false" name="channel_name_premium_end_description">Watch ad to enjoy your premium version for free</string>
+    <string translatable="false" name="channel_name_watch_ads">Watch ads</string>
+    <string translatable="false" name="channel_name_premium_end_description">Get notified when you need to watch an ad to enjoy all premium features for free</string>
 
     <string translatable="false" name="watch_ads">Watch ads</string>
     <string translatable="false" name="loading_ad">Loading ad...</string>

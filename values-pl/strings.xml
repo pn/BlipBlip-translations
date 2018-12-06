@@ -886,8 +886,8 @@
 
     <!-- ads -->
     <string translatable="false" name="remove_ads">Usuń reklamy</string>
-    <string translatable="false" name="channel_name_premium_end">Koniec premium</string>
-    <string translatable="false" name="channel_name_premium_end_description">Obejrzyj reklamę by cieszyć się wersją premium za darmo</string>
+    <string translatable="false" name="channel_name_watch_ads">Oglądaj reklamy</string>
+    <string translatable="false" name="channel_name_premium_end_description">Będziesz powiadamiany kiedy należy obejrzeć reklamę, żeby cieszyć się funkcjami premium za darmo</string>
 
     <string translatable="false" name="watch_ads">Oglądaj reklamy</string>
     <string translatable="false" name="loading_ad">Ładowanie reklamy...</string>
