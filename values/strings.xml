@@ -900,8 +900,9 @@
     <string translatable="false" name="app_was_enabled">App has been enabled!</string>
     <string translatable="false" name="failed_loading_ad">Failed to load ad. Check your internet connection and try again.</string>
     <string translatable="false" name="continue_with_ads">Continue with ads</string>
-    <string translatable="false" name="continue_with_relevant_ads">Continue with more relevant ads</string>
-    <string translatable="false" name="continue_with_less_relevant_ads">Continue with less relevant ads</string>
+    <string translatable="false" name="continue_with_relevant_question">Can we use your data to tailor ads for you?</string>
+    <string translatable="false" name="continue_with_relevant_ads">Yes, continue with relevant ads</string>
+    <string translatable="false" name="continue_with_less_relevant_ads">No, continue with less relevant ads</string>
     <string translatable="false" name="watch_ads_to_get_next_notification">Watch ads to get next notification</string>
     <string translatable="false" name="watch_ad_to_enable_app">Watch ad to enable app</string>
 

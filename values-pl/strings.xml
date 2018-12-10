@@ -911,8 +911,9 @@
     <string translatable="false" name="app_was_enabled">Aplikacja została uruchomiona!</string>
     <string translatable="false" name="failed_loading_ad">Nieudało się załadować reklamy. Sprawdź połączenie z internetem i spróbuj ponownie..</string>
     <string translatable="false" name="continue_with_ads">Kontynuuj z reklamami</string>
-    <string translatable="false" name="continue_with_relevant_ads">Kontynuuj z bardziej trafnymi reklamami</string>
-    <string translatable="false" name="continue_with_less_relevant_ads">Kontynuuj z mniej trafnymi reklamami</string>
+    <string translatable="false" name="continue_with_relevant_question">Czy możemy wykorzystać Twoje dane, aby dopasować reklamy do Ciebie?</string>
+    <string translatable="false" name="continue_with_relevant_ads">Tak, Kontynuuj z trafnymi reklamami</string>
+    <string translatable="false" name="continue_with_less_relevant_ads">Nie, kontynuuj z mniej trafnymi reklamami</string>
     <string translatable="false" name="watch_ads_to_get_next_notification">Oglądaj reklamy by otrzymać następne powiadomienie</string>
     <string translatable="false" name="watch_ad_to_enable_app">Obejrzyj reklamę by włączyć aplikację</string>
 
