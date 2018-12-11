@@ -946,6 +946,7 @@
     <string translatable="false" name="maybe_later">Maybe later</string>
 
     <!-- tooltips -->
-    <string translatable="false" name="tooltip_play_next_button">Play next notification</string>
+    <string translatable="false" name="tooltip_play_next_button">Press to play next notification</string>
+    <string translatable="false" name="tooltip_upcoming_notifications">Tap to see upcoming notiications</string>
 
 </resources>

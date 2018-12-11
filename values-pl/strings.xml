@@ -957,6 +957,7 @@
     <string translatable="false" name="maybe_later">Może później</string>
 
     <!-- tooltips -->
-    <string translatable="false" name="tooltip_play_next_button">Odtwórz następne powiadomienie</string>
+    <string translatable="false" name="tooltip_play_next_button">Naciśnij, aby odtworzyć następne powiadomienie</string>
+    <string translatable="false" name="tooltip_upcoming_notifications">Naciśnij, aby zobaczyć nadchodzące powiadomienia</string>
 
 </resources>
