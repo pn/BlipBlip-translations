@@ -945,5 +945,7 @@
     <string translatable="false" name="install_app">Install</string>
     <string translatable="false" name="maybe_later">Maybe later</string>
 
+    <!-- tooltips -->
+    <string translatable="false" name="tooltip_play_next_button">Play next notification</string>
 
 </resources>

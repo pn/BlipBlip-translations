@@ -956,5 +956,7 @@
     <string translatable="false" name="install_app">Instaluj</string>
     <string translatable="false" name="maybe_later">Może później</string>
 
+    <!-- tooltips -->
+    <string translatable="false" name="tooltip_play_next_button">Odtwórz następne powiadomienie</string>
 
 </resources>
