@@ -959,5 +959,6 @@
     <!-- tooltips -->
     <string translatable="false" name="tooltip_play_next_button">Naciśnij, aby odtworzyć następne powiadomienie</string>
     <string translatable="false" name="tooltip_upcoming_notifications">Naciśnij, aby zobaczyć nadchodzące powiadomienia</string>
+    <string translatable="false" name="tooltip_upcoming_notification">Naciśnij czas, aby odtworzyć nadchodzące powiadomienia</string>
 
 </resources>
