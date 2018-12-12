@@ -886,6 +886,7 @@
     <string translatable="false" name="start_free_trial">Start a free trial</string>
     <string translatable="false" name="tooltip_accept_privacy_policy">Please check the box.</string>
     <string translatable="false" name="welcome_to_blipBlip">Welcome to BlipBlip!</string>
+    <string translatable="false" name="blipblip_free_description_short">This app is free in exchange for watching ads.</string>
     <string translatable="false" name="blipblip_free_description">This app is free in exchange for watching ads. You can access all Blip Blip premium features and sounds for specified time period after watching an ad. The more you watch the longer you can use the app.</string>
     <string translatable="false" name="blipblip_free_description2">There are no ads in user interface or popping up unexpectedly. You always choose when you want to watch an ad.</string>
     <string translatable="false" name="watch_ad">Watch ad</string>
