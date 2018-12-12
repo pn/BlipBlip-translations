@@ -905,6 +905,7 @@
     <string translatable="false" name="continue_with_less_relevant_ads">No, continue with less relevant ads</string>
     <string translatable="false" name="watch_ads_to_get_next_notification">Watch ads to get next notification</string>
     <string translatable="false" name="watch_ad_to_enable_app">Watch ad to enable app</string>
+    <string translatable="false" name="popup_watch_more_ads_to_get_notification">Watch more ads to get this notification</string>
 
     <!-- ads notifications -->
     <string translatable="false" name="notif_premium_ended">Application disabled</string>

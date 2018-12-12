@@ -916,6 +916,7 @@
     <string translatable="false" name="continue_with_less_relevant_ads">Nie, kontynuuj z mniej trafnymi reklamami</string>
     <string translatable="false" name="watch_ads_to_get_next_notification">Oglądaj reklamy by otrzymać następne powiadomienie</string>
     <string translatable="false" name="watch_ad_to_enable_app">Obejrzyj reklamę by włączyć aplikację</string>
+    <string translatable="false" name="popup_watch_more_ads_to_get_notification">Zobacz więcej reklam, by otrzymać to powiadomienie</string>
 
     <!-- ads notifications -->
     <string translatable="false" name="notif_premium_ended">Aplikacja wyłączona</string>
