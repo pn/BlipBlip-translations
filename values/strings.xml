@@ -949,7 +949,7 @@
 
     <!-- tooltips -->
     <string translatable="false" name="tooltip_play_next_button">Press to play next notification</string>
-    <string translatable="false" name="tooltip_upcoming_notifications">Tap to see upcoming notiications</string>
+    <string translatable="false" name="tooltip_upcoming_notifications">Tap to see upcoming notifications</string>
     <string translatable="false" name="tooltip_upcoming_notification">Press time to play back upcoming notifications</string>
 
 </resources>
