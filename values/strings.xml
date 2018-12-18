@@ -782,6 +782,8 @@
     <string translatable="false" name="premium_icon_description">Premium star icon</string>
     <string translatable="false" name="feature_user_sounds_title">User added sounds is a Premium feature</string>
     <string translatable="false" name="feature_user_sounds_description">Make BlipBlip app yours by adding your own sounds.</string>
+    <string translatable="false" name="feature_premium_sounds_title">All sounds available in the app is a Premium feature</string>
+    <string translatable="false" name="feature_premium_sounds_description">Customize your notification with many built-in sounds.</string>
 
     <string name="vibrate_seconds">Vibrate %ss</string> <!-- s at the end is for seconds, %s will be replaced vy value e.g. "Vibrate 1.2s" -->
     <string name="wait_and_vibrate_seconds">Wait %1$ss, vibrate %1$ss</string>

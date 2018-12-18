@@ -793,6 +793,8 @@
     <string translatable="false" name="premium_icon_description">Ikona gwiazdy Premium</string>
     <string translatable="false" name="feature_user_sounds_title">Dźwięki dodane przez użytkownika to funkcja Premium</string>
     <string translatable="false" name="feature_user_sounds_description">Dostosuj aplikację BlipBlip, dodając własne dźwięki.</string>
+    <string translatable="false" name="feature_premium_sounds_title">Wszystkie dźwięki dostępne w aplikacji to funkcja Premium</string>
+    <string translatable="false" name="feature_premium_sounds_description">Dostosuj swoje powiadomienie za pomocą wielu wbudowanych dźwięków.</string>
 
     <string name="vibrate_seconds">Wibruj %ss</string> <!-- s at the end is for seconds, %s will be replaced vy value e.g. "Vibrate 1.2s" -->
     <string name="wait_and_vibrate_seconds">Czekaj %1$ss, wibruj %2$ss</string>
