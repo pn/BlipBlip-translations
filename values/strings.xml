@@ -775,6 +775,14 @@
     <string name="premium_helps_support">By upgrading BlipBlip you not only get all features or sounds but you also support its continuous and independent development.</string>
     <string translatable="false" name="loading">Loading…</string> <!-- TODO translate -->
 
+    <!-- Premium dialog -->
+    <string translatable="false" name="premium_dialog_title">Premium</string>
+    <string translatable="false" name="premium_dialog_upgrade_now">Upgrade now</string>
+    <string translatable="false" name="premium_dialog_later">Later</string>
+    <string translatable="false" name="premium_icon_description">Premium star icon</string>
+    <string translatable="false" name="feature_user_sounds_title">User added sounds is a Premium feature</string>
+    <string translatable="false" name="feature_user_sounds_description">Make BlipBlip app yours by adding your own sounds.</string>
+
     <string name="vibrate_seconds">Vibrate %ss</string> <!-- s at the end is for seconds, %s will be replaced vy value e.g. "Vibrate 1.2s" -->
     <string name="wait_and_vibrate_seconds">Wait %1$ss, vibrate %1$ss</string>
 
