@@ -769,6 +769,7 @@
     <string name="feature4">Say text or time</string>
     <string name="feature5">Add your own sounds</string>
     <string name="feature6">Priority support</string>
+    <string translatable="false" name="feature7">Night mode (dark theme)</string>
     <string name="feature_all_sounds">All sounds in the app</string>
     <string name="yearly_payment">Yearly payment.</string>
     <string name="free_trial_available">Free trial available.</string>
