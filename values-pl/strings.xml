@@ -788,6 +788,11 @@
     <string translatable="false" name="loading">Ładowanie…</string>
     <string translatable="false" name="notification_has_premium_features">To powiadomienie korzysta z funkcji Premium</string>
 
+    <!-- Premium Bar -->
+    <string translatable="false" name="bar_upgrade_to_enable_app">Uaktualnij, aby włączyć aplikację</string>
+    <string translatable="false" name="bar_upgrade_to_enable_notification">Uaktualnij, aby włączyć powiadamianie</string>
+    <string translatable="false" name="bar_upgrade">Aktualizuj</string>
+
     <!-- Premium dialog -->
     <string translatable="false" name="premium_dialog_title">Premium</string>
     <string translatable="false" name="premium_dialog_upgrade_now">Ulepsz teraz</string>

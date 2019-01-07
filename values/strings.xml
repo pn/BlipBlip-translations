@@ -777,6 +777,11 @@
     <string translatable="false" name="loading">Loading…</string> <!-- TODO translate -->
     <string translatable="false" name="notification_has_premium_features">This notification uses Premium features</string>
 
+    <!-- Premium Bar -->
+    <string translatable="false" name="bar_upgrade_to_enable_app">Upgrade to enable app</string>
+    <string translatable="false" name="bar_upgrade_to_enable_notification">Upgrade to enable notification</string>
+    <string translatable="false" name="bar_upgrade">Upgrade</string>
+
     <!-- Premium dialog -->
     <string translatable="false" name="premium_dialog_title">Premium</string>
     <string translatable="false" name="premium_dialog_upgrade_now">Upgrade now</string>
