@@ -786,6 +786,7 @@
     <string name="free_trial_available">Dostępny okres próbny.</string>
     <string name="premium_helps_support">Aktualizując BlipBlip nie tylko otrzymujesz wszystkie funkcje lub dźwięki, ale również wspierasz niezależny i ciągły rozwój aplikacji.</string>
     <string translatable="false" name="loading">Ładowanie…</string>
+    <string translatable="false" name="notification_has_premium_features">To powiadomienie korzysta z funkcji Premium</string>
 
     <!-- Premium dialog -->
     <string translatable="false" name="premium_dialog_title">Premium</string>

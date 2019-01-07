@@ -775,6 +775,7 @@
     <string name="free_trial_available">Free trial available.</string>
     <string name="premium_helps_support">By upgrading BlipBlip you not only get all features or sounds but you also support its continuous and independent development.</string>
     <string translatable="false" name="loading">Loading…</string> <!-- TODO translate -->
+    <string translatable="false" name="notification_has_premium_features">This notification uses Premium features</string>
 
     <!-- Premium dialog -->
     <string translatable="false" name="premium_dialog_title">Premium</string>
