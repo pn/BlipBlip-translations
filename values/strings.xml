@@ -773,18 +773,21 @@
     <string name="feature_all_sounds">All sounds in the app</string>
     <string name="yearly_payment">Yearly payment.</string>
     <string name="free_trial_available">Free trial available.</string>
+    <string translatable="false" name="free_trial">Free trial.</string>
+    <string translatable="false" name="cancel_anytime">Cancel anytime.</string>
     <string name="premium_helps_support">By upgrading BlipBlip you not only get all features or sounds but you also support its continuous and independent development.</string>
     <string translatable="false" name="loading">Loading…</string> <!-- TODO translate -->
     <string translatable="false" name="notification_has_premium_features">This notification uses Premium features</string>
 
     <!-- Premium Bar -->
-    <string translatable="false" name="bar_upgrade_to_enable_app">Upgrade to enable app</string>
-    <string translatable="false" name="bar_upgrade_to_enable_notification">Upgrade to enable notification</string>
-    <string translatable="false" name="bar_upgrade">Upgrade</string>
+    <string translatable="false" name="bar_upgrade_to_enable_app">Upgrade to Premium</string>
+    <string translatable="false" name="bar_upgrade_to_enable_notification">Upgrade to Premium</string>
+    <string translatable="false" name="bar_upgrade">Buy now</string>
+    <string translatable="false" name="bar_uses_premium_features">Notifcation uses premium features</string>
 
     <!-- Premium dialog -->
     <string translatable="false" name="premium_dialog_title">Premium</string>
-    <string translatable="false" name="premium_dialog_upgrade_now">Upgrade now</string>
+    <string translatable="false" name="premium_dialog_upgrade_now">Buy now</string>
     <string translatable="false" name="premium_dialog_later">Later</string>
     <string translatable="false" name="premium_icon_description">Premium star icon</string>
     <string translatable="false" name="feature_user_sounds_title">User added sounds is a Premium feature</string>
