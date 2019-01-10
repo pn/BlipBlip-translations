@@ -802,6 +802,8 @@
     <string translatable="false" name="feature_say_time_description">Speak current time using text to speech.</string>
     <string translatable="false" name="feature_custom_repeat_interval_title">Custom repeat interval is a Premium feature</string>
     <string translatable="false" name="feature_custom_repeat_interval_description">Set any time interval (other than standard 1, 5, 10, 15, 20, 30 and 60 minutes).</string>
+    <string translatable="false" name="feature_general_title">Notification uses Premium functions</string>
+    <string translatable="false" name="feature_general_description">Upgrade to enable notification and enjoy all Premium features.</string>
 
     <string name="vibrate_seconds">Vibrate %ss</string> <!-- s at the end is for seconds, %s will be replaced vy value e.g. "Vibrate 1.2s" -->
     <string name="wait_and_vibrate_seconds">Wait %1$ss, vibrate %1$ss</string>
