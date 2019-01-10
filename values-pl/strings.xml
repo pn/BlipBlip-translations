@@ -815,6 +815,8 @@
     <string translatable="false" name="feature_custom_repeat_interval_description">Ustaw dowolny przedział czasu (inny niż standardowy 1, 5, 10, 15, 20, 30 i 60 minut).</string>
     <string translatable="false" name="feature_general_title">Powiadomienie korzysta z funkcji Premium</string>
     <string translatable="false" name="feature_general_description">Uaktualnij, aby włączyć powiadomienia i korzystać ze wszystkich funkcji Premium.</string>
+    <string translatable="false" name="feature_multiple_active_notifications_title">Nieograniczone aktywne powiadomienia to funkcja Premium</string>
+    <string translatable="false" name="feature_multiple_active_notifications_description">Korzystaj z wielu powiadomień z różnymi ustawieniami w tym samym czasie (np. Graj dwukrotnie o 12:00, graj raz o 12:30). W bezpłatnej wersji możesz mieć jedno aktywne powiadomienie.</string>
 
     <string name="vibrate_seconds">Wibruj %ss</string> <!-- s at the end is for seconds, %s will be replaced vy value e.g. "Vibrate 1.2s" -->
     <string name="wait_and_vibrate_seconds">Czekaj %1$ss, wibruj %2$ss</string>
