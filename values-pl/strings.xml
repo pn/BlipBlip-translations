@@ -47,6 +47,7 @@
     <string name="day_friday">Piątek</string>
     <string name="day_saturday">Sobota</string>
     <string name="day_sunday">Niedziela</string>
+    <string translatable="false" name="preview_upcoming_notifications">Podgląd nadchodzących powiadomień</string>
 
     <!-- Period -->
     <string name="repeat_every">Powtarzaj co</string>
