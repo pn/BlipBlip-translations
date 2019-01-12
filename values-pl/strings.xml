@@ -817,6 +817,9 @@
     <string translatable="false" name="feature_general_description">Uaktualnij, aby włączyć powiadomienia i korzystać ze wszystkich funkcji Premium.</string>
     <string translatable="false" name="feature_multiple_active_notifications_title">Nieograniczone aktywne powiadomienia to funkcja Premium</string>
     <string translatable="false" name="feature_multiple_active_notifications_description">Korzystaj z wielu powiadomień z różnymi ustawieniami w tym samym czasie (np. Graj dwukrotnie o 12:00, graj raz o 12:30). W bezpłatnej wersji możesz mieć jedno aktywne powiadomienie.</string>
+    <string translatable="false" name="feature_unlimited_silent_time_title">Nieograniczona konfiguracja czasu cichego to funkcja Premium</string>
+    <string translatable="false" name="feature_unlimited_silent_time_description">W wersji darmowej możesz aktywować 5 konfiguracji czasu ciszy.</string>
+
 
     <string name="vibrate_seconds">Wibruj %ss</string> <!-- s at the end is for seconds, %s will be replaced vy value e.g. "Vibrate 1.2s" -->
     <string name="wait_and_vibrate_seconds">Czekaj %1$ss, wibruj %2$ss</string>

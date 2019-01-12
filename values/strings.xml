@@ -806,6 +806,8 @@
     <string translatable="false" name="feature_general_description">Upgrade to enable notification and enjoy all Premium features.</string>
     <string translatable="false" name="feature_multiple_active_notifications_title">Unlimited active notifications is a Premium feature</string>
     <string translatable="false" name="feature_multiple_active_notifications_description">Use many notifications with different settings at the same time (e.g. play twice at 12:00, play once at 12:30). In free version you can have one active notification.</string>
+    <string translatable="false" name="feature_unlimited_silent_time_title">Unlimited silent time configuratipons is a Premium feature</string>
+    <string translatable="false" name="feature_unlimited_silent_time_description">In free version you can activate 5 silent time configurations.</string>
 
     <string name="vibrate_seconds">Vibrate %ss</string> <!-- s at the end is for seconds, %s will be replaced vy value e.g. "Vibrate 1.2s" -->
     <string name="wait_and_vibrate_seconds">Wait %1$ss, vibrate %1$ss</string>
