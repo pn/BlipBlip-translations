@@ -48,6 +48,8 @@
     <string name="day_saturday">Saturday</string>
     <string name="day_sunday">Sunday</string>
     <string translatable="false" name="preview_upcoming_notifications">Preview upcoming notifications</string>
+    <string translatable="false" name="disable_premium_notifications">Disable Premium notifications</string>
+    <string translatable="false" name="remove_premium_features">Remove premium features</string>
 
     <!-- Period -->
     <string name="repeat_every">Repeat every</string>

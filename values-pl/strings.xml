@@ -48,6 +48,8 @@
     <string name="day_saturday">Sobota</string>
     <string name="day_sunday">Niedziela</string>
     <string translatable="false" name="preview_upcoming_notifications">Podgląd nadchodzących powiadomień</string>
+    <string translatable="false" name="disable_premium_notifications">Wyłącz powiadomienia Premium</string>
+    <string translatable="false" name="remove_premium_features">Usuń funkcje premium</string>
 
     <!-- Period -->
     <string name="repeat_every">Powtarzaj co</string>
