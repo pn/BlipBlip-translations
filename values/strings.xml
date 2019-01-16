@@ -691,7 +691,7 @@
     <string name="action_repeat_sound">Repeat sound</string>
     <string name="action_repeat_vibration">Repeat vibration</string>
     <string name="action_repeat_sound_vibration">Repeat sound and vibration</string>
-    <string name="action_strike_the_hour">Strike the hour</string>
+    <string name="action_strike_the_hour">Strike the hours</string>
 
     <string name="pref_do_not_disturb_mode">Do Not Disturb</string>
     <string name="do_not_disturb_total_silence">Total silence</string>
@@ -746,7 +746,7 @@
     <string name="feature_custom_reapeat">Custom repeat interval</string>
     <string name="feature_premium_content">Premium content</string>
     <string name="feature_premium_sounds">Premium sounds</string>
-    <string name="feature_strike_the_hour">Strike the hour</string>
+    <string name="feature_strike_the_hour">Strike the hours</string>
     <string name="premium_get_plus">Get all current features</string> <!-- should be short -->
     <string name="premium_get_sounds">Get all sounds in the app</string> <!-- should be short -->
     <string name="premium_get_plus_sounds">Get all current features and sounds</string> <!-- should be short -->
@@ -767,7 +767,7 @@
     <string name="get_all_sounds">Get all sounds</string>
     <string name="premium_what_you_get">What you will get:</string>
     <string name="feature1">Unlimited active notifications</string>
-    <string name="feature2">Strike the hour</string>
+    <string name="feature2">Strike the hours</string>
     <string name="feature3">Custom repeat interval</string>
     <string name="feature4">Say text or time</string>
     <string name="feature5">Add your own sounds</string>
@@ -797,7 +797,7 @@
     <string translatable="false" name="feature_user_sounds_description">Make BlipBlip app yours by adding your own sounds.</string>
     <string translatable="false" name="feature_premium_sounds_title">All sounds available in the app is a Premium feature</string>
     <string translatable="false" name="feature_premium_sounds_description">Customize your notification with many built-in sounds.</string>
-    <string translatable="false" name="feature_strike_the_hour_title">Strike the hour is a Premium feature</string>
+    <string translatable="false" name="feature_strike_the_hour_title">Strike the hours is a Premium feature</string>
     <string translatable="false" name="feature_strike_the_hour_description">"Create your own grandfather clock (e.g. plays 3 times at three o'clock)"</string>
     <string translatable="false" name="feature_say_text_title">Saying text is a Premium feature</string>
     <string translatable="false" name="feature_say_text_description">Use text to speech in your notifications.</string>

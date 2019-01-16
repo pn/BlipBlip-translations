@@ -702,7 +702,7 @@
     <string name="action_repeat_sound">Powtarzaj dźwięk</string>
     <string name="action_repeat_vibration">Powtarzaj wibrację</string>
     <string name="action_repeat_sound_vibration">Powtarzaj dźwięk i wibrację</string>
-    <string name="action_strike_the_hour">Wybij godzinę</string>
+    <string name="action_strike_the_hour">Wybijaj godzinę</string>
 
     <string name="pref_do_not_disturb_mode">Nie przeszkadzać</string>
     <string name="do_not_disturb_total_silence">Całkowita cisza</string>
