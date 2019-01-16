@@ -575,7 +575,7 @@
     <string name="disable_when_headset_toast">BlipBlip notifications are now disabled, because you have headset connected.</string>
     <string name="buy">Buy</string>
     <string name="later">Later</string>
-    <string name="buy_custom_sounds">Adding own sounds is a premium feature. Would you like to buy it now?</string>
+    <string name="buy_custom_sounds">Adding own sounds is a Premium feature. Would you like to buy it now?</string>
 
     <string name="snack_bar_text_item_removed">1 item removed</string>
     <string name="snack_bar_action_undo">UNDO</string>
@@ -737,8 +737,8 @@
     <string name="dialog_premium_unlock_button_text">Unlock</string> <!-- should be short -->
     <string name="dialog_premium_trial_text2">Press \"Unlock\" to start your free trial.</string> <!-- use same text as in dialog_premium_unlock_button_text -->
     <string name="dialog_premium_trial_button_text">Start free trial now</string> <!-- should be short -->
-    <string name="dialog_premium_trial_title">Unlock premium functions</string> <!-- should be short -->
-    <string name="dialog_premium_features_description">Action you tried to performed uses following premium features:</string>
+    <string name="dialog_premium_trial_title">Unlock Premium functions</string> <!-- should be short -->
+    <string name="dialog_premium_features_description">Action you tried to performed uses following Premium features:</string>
     <string name="feature_custom_sounds">Custom sounds</string>
     <string name="feature_multiple_notifications">Multiple notifications</string>
     <string name="feature_custom_reapeat">Custom repeat interval</string>
@@ -749,16 +749,16 @@
     <string name="premium_get_sounds">Get all sounds in the app</string> <!-- should be short -->
     <string name="premium_get_plus_sounds">Get all current features and sounds</string> <!-- should be short -->
     <string name="lock_icon">Lock icon</string>
-    <string name="premium_sound_lock">This is premium sound which requires unlocking before use.</string>
-    <string name="premium_feature_lock">This is premium feature which requires unlocking before use.</string>
+    <string name="premium_sound_lock">This is Premium sound which requires unlocking before use.</string>
+    <string name="premium_feature_lock">This is Premium feature which requires unlocking before use.</string>
     <string name="change_subscription">Change subscription</string>
     <string name="upgrade_to_pro">Upgrade</string>
     <string name="loading_failed">Error</string>
     <string name="month">month</string>
     <string name="month_very_short">mo.</string> <!-- shortcut for word "month", singular -->
     <string name="discount_save_money">Save</string> <!-- percent saved will be displayed below this text -->
-    <string name="premium_settings" translatable="false">Upgrade to premium to unlock all settings</string>
-    <string name="buy_premium">Buy premium</string>
+    <string name="premium_settings" translatable="false">Upgrade to Premium to unlock all settings</string>
+    <string name="buy_premium">Buy Premium</string>
     <string name="use_free">Use free version</string>
     <string name="already_bought">Already bought</string>
     <string name="get_all_features">Get all features</string>
@@ -784,7 +784,7 @@
     <string translatable="false" name="bar_upgrade_to_enable_app">Upgrade to Premium</string>
     <string translatable="false" name="bar_upgrade_to_enable_notification">Upgrade to Premium</string>
     <string translatable="false" name="bar_upgrade">Buy now</string>
-    <string translatable="false" name="bar_uses_premium_features">Notifcation uses premium features</string>
+    <string translatable="false" name="bar_uses_premium_features">Notifcation uses Premium features</string>
 
     <!-- Premium dialog -->
     <string translatable="false" name="premium_dialog_title">Premium</string>
@@ -911,7 +911,7 @@
     <!-- ads -->
     <string translatable="false" name="remove_ads">Remove ads</string>
     <string translatable="false" name="channel_name_watch_ads">Watch ads</string>
-    <string translatable="false" name="channel_name_premium_end_description">Get notified when you need to watch an ad to enjoy all premium features for free</string>
+    <string translatable="false" name="channel_name_premium_end_description">Get notified when you need to watch an ad to enjoy all Premium features for free</string>
 
     <string translatable="false" name="watch_ads">Watch ads</string>
     <string translatable="false" name="loading_ad">Loading ad...</string>
@@ -922,15 +922,15 @@
     <string translatable="false" name="tooltip_accept_privacy_policy">Please check the box.</string>
     <string translatable="false" name="welcome_to_blipBlip">Welcome to BlipBlip!</string>
     <string translatable="false" name="blipblip_free_description_short">This app is free in exchange for watching ads.</string>
-    <string translatable="false" name="blipblip_free_description">This app is free in exchange for watching ads. You can access all Blip Blip premium features and sounds for specified time period after watching an ad. The more you watch the longer you can use the app.</string>
+    <string translatable="false" name="blipblip_free_description">This app is free in exchange for watching ads. You can access all Blip Blip Premium features and sounds for specified time period after watching an ad. The more you watch the longer you can use the app.</string>
     <string translatable="false" name="blipblip_free_description2">There are no ads in user interface or popping up unexpectedly. You always choose when you want to watch an ad.</string>
     <string translatable="false" name="watch_ad">Watch ad</string>
     <string translatable="false" name="ad">Ad</string> <!-- Short label of button for watching ads -->
     <string translatable="false" name="accept_privacy_policy">I accept privacy policy.</string>
     <string translatable="false" name="ad_is_loading">Ad is loading. Please wait...</string>
-    <string translatable="false" name="get_blipblip">Want free app without ads and without premium features? Get it here.</string>
+    <string translatable="false" name="get_blipblip">Want free app without ads and without Premium features? Get it here.</string>
     <string translatable="false" name="privacy_policy">Privacy policy.</string>
-    <string translatable="false" name="get_time_of_premium">Get %1$s of premium</string>
+    <string translatable="false" name="get_time_of_premium">Get %1$s of Premium</string>
     <string translatable="false" name="get_time_of_premium_more">Watch ad to use the app for additional: %s.</string>
     <string translatable="false" name="premium_time_left">You have %s left using the app.</string>
     <string translatable="false" name="app_was_enabled">App has been enabled!</string>
@@ -976,8 +976,8 @@
     <string translatable="false" name="pref_analytics_anonymize_ip_off">Use full IP address only for detemining user\'s general location (country, city).</string>
 
     <!-- install BlipBlip free -->
-    <string translatable="false" name="dialog_free_premium_title">Want premium free?</string>
-    <string translatable="false" name="dialog_free_premium_description">Watch ads in exchange for premium features in %1$s app.</string>
+    <string translatable="false" name="dialog_free_premium_title">Want Premium free?</string>
+    <string translatable="false" name="dialog_free_premium_description">Watch ads in exchange for Premium features in %1$s app.</string>
     <string translatable="false" name="open_app">Open</string>
     <string translatable="false" name="install_app">Install</string>
     <string translatable="false" name="maybe_later">Maybe later</string>
