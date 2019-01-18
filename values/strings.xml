@@ -851,6 +851,11 @@
     <string name="manual_settings_general_tip2">Disable apps that optimize battery or memory usage (e.g. task killers)</string>
     <string name="manual_settings_general_tips_info">If your device requires changing other options, please let us now using "Report problem" option.</string>
     <string name="manual_settings_suggest_report_problem">If after trying above tips you would still have issues with the app, please report the problem.</string>
+    <string translatable="false" name="manual_settings_do_not_show_again">Do not show again</string>
+    <string translatable="false" name="manual_settings_are_you_sure">Are you sure?</string>
+    <string translatable="false" name="manual_settings_are_you_sure_description">"You won't receive any more warnings when this app gets killed."</string>
+    <string translatable="false" name="manual_settings_are_you_sure_yes">"Yes"</string>
+    <string translatable="false" name="manual_settings_are_you_sure_no">"No"</string>
 
     <!-- Tips -->
     <string name="tip1">Add the app to Unmonitored Apps.</string>
@@ -904,6 +909,10 @@
     <string name="show_actions_switches_title">Actions switches</string> <!-- option to show enable/disable switches for actions -->
     <string name="show_actions_switches_on">Show switches for disabling actions.</string>
     <string name="show_actions_switches_off">Hide switches for disabling actions.</string>
+    <!-- Show kill dialog -->
+    <string translatable="false" name="show_kill_dialog_title">Notify if app was killed</string>
+    <string translatable="false" name="show_kill_dialog_on">Display message when opening the app if it was detected that the app was killed.</string>
+    <string translatable="false" name="show_kill_dialog_off">Do not display message when it was detected that the app was killed.</string>
 
     <!-- examples -->
     <string translatable="false" name="double_sound_every_hour">Double sound every hour</string>

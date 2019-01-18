@@ -863,6 +863,12 @@
     <string name="manual_settings_general_tip2">Wyłącz aplikacje, które optymalizują użycie baterii lub pamięci (np. aplikacje typu "task killer")</string>
     <string name="manual_settings_general_tips_info">Jeśli Twoje urządzenia wymaga zmiany innych opcji, prosimy daj nam zanć używając opcji "Zgłoś problem"</string>
     <string name="manual_settings_suggest_report_problem">Jeśli po wypróbowaniu powyższych wskazówek masz nadal problemy z aplikacją, prosimy o zgłoszenie problemu.</string>
+    <string translatable="false" name="manual_settings_do_not_show_again">Nie pokazuj ponownie</string>
+    <string translatable="false" name="manual_settings_are_you_sure">Jesteś pewny?</string>
+    <string translatable="false" name="manual_settings_are_you_sure_description">"Nie otrzymasz więcej ostrzeżeń, gdy ta aplikacja zostanie zabita."</string>
+    <string translatable="false" name="manual_settings_are_you_sure_yes">Tak</string>
+    <string translatable="false" name="manual_settings_are_you_sure_no">Nie</string>
+
 
     <!-- Tips -->
     <string name="tip1">Dodaj aplikację do Aplikacji niemonitorowanych.</string>
@@ -916,6 +922,10 @@
     <string name="show_actions_switches_title">Przełączniki dla akcji</string> <!-- option to show enable/disable switches for actions -->
     <string name="show_actions_switches_on">Pokazuj przełączniki do wyłączania akcji.</string>
     <string name="show_actions_switches_off">Schowaj przełączniki do wyłączania akcji.</string>
+    <!-- Show kill dialog -->
+    <string translatable="false" name="show_kill_dialog_title">Powiadom, jeśli aplikacja została zabita</string>
+    <string translatable="false" name="show_kill_dialog_on">Wyświetlaj wiadomość podczas otwierania aplikacji, jeśli wykryto, że aplikacja została zabita.</string>
+    <string translatable="false" name="show_kill_dialog_off">Nie wyświetlaj komunikatu po wykryciu, że aplikacja została zabita.</string>
 
     <!-- examples -->
     <string translatable="false" name="double_sound_every_hour">Podwójny dźwięk co godzinę</string>
