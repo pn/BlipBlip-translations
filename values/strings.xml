@@ -511,6 +511,10 @@
     <string name="edit">Edit</string> <!-- Name of action to edit list of sounds or list of vibrations, should be short -->
     <string name="editing">Editing</string> <!-- Displayed in edit mode -->
     <string name="error_file_open_failed">Failed to open file.</string>
+    <string translatable="false" name="error_file_open_no_permission">No permission to open the file.</string>
+    <string translatable="false" name="error_file_open_failed_no_permission_title">Grant permission manually</string>
+    <string translatable="false" name="error_file_open_failed_no_permission">No permission to open the file. Please open Settings and give permission to access storage.</string>
+    <string translatable="false" name="error_file_open_failed_settings">Open Settings</string>
     <string name="play_vibration">Vibrate</string> <!-- description of action of a button to perform vibration -->
     <string name="play_sound">Play sound</string> <!-- description of action of a button to play sound -->
     <string name="drag_handle">Drag handle</string>
@@ -521,6 +525,8 @@
     <string name="permission_denied">Permission denied</string>
     <string name="permission_denied_message">BlipBlip does not have permission to read the file.\nDo you want to install add-on which has this permission?\nYou can also use some other app which supports transferring files without need for additional permission (e.g. Google Drive).</string> <!-- TODO REMOVE -->
     <string name="permission_denied_message_no_addon">BlipBlip does not have permission to read the file.\nPlease use some other app that shares file without need for additional permission (e.g. Google Drive).</string>
+    <string translatable="false" name="permission_denied_rationale_title">Permission needed</string>
+    <string translatable="false" name="permission_denied_rationale">Application does not have permission to read the file. Please grant the app permission to access the file. You can also share the file using other app which does not need using this permission.</string>
     <string name="install">Install</string> <!-- action text for button to install additional app -->
     <string name="failed_run_addon">Failed to launch BlipBlip Add-on</string> <!-- TODO REMOVE -->
     <string name="update_required">Update required</string> <!-- TODO REMOVE -->

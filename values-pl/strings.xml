@@ -522,6 +522,10 @@
     <string name="edit">Edytuj</string> <!-- Name of action to edit list of sounds or list of vibrations, should be short -->
     <string name="editing">Edycja</string> <!-- Displayed in edit mode -->
     <string name="error_file_open_failed">Nie udało się otworzyć pliku.</string>
+    <string translatable="false" name="error_file_open_no_permission">Brak uprawnień do otwierania pliku.</string>
+    <string translatable="false" name="error_file_open_failed_no_permission_title">Przyznaj uprawnienia ręcznie</string>
+    <string translatable="false" name="error_file_open_failed_no_permission">Brak uprawnień do otwierania pliku. Otwórz Ustawienia i zezwól na dostęp do pamięci.</string>
+    <string translatable="false" name="error_file_open_failed_settings">Otwórz ustawienia</string>
     <string name="play_vibration">Wibruj</string> <!-- description of action of a button to perform vibration -->
     <string name="play_sound">Odtwórz dźwięk</string> <!-- description of action of a button to play sound -->
     <string name="drag_handle">Uchwyt do przesuwania</string>
@@ -532,6 +536,8 @@
     <string name="permission_denied">Brak uprawnień</string>
     <string name="permission_denied_message">BlipBlip nie ma uprawnień do odczytu pliku.\nCzy chcesz zainstalować dodatek, który umożliwi otwarcie pliku?\nMożesz także użyć innej aplikacji, która nie wymusza posiadania specjalanych uprawnień (np. Dysk Google).</string>
     <string name="permission_denied_message_no_addon">BlipBlip nie ma uprawnień do odczytu pliku.\nProszę użyj innej aplikacji, która nie wymusza posiadania specjalanych uprawnień (np. Dysk Google).</string>
+    <string translatable="false" name="permission_denied_rationale_title">Potrzebne pozwolenie</string>
+    <string translatable="false" name="permission_denied_rationale">Aplikacja nie ma uprawnień do odczytu pliku. Przyznaj aplikacji uprawnienia dostępu do pliku. Możesz również udostępnić plik za pomocą innej aplikacji, która nie potrzebuje tego uprawnienia.</string>
     <string name="install">Zainstaluj</string> <!-- action text for button to install additional app -->
     <string name="failed_run_addon">Nie udało się uruchomić Dodatku BlipBlip</string>
     <string name="update_required">Wymagana aktualizacja</string>
