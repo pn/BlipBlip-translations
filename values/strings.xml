@@ -785,7 +785,7 @@
     <string translatable="false" name="free_trial">Free trial.</string>
     <string translatable="false" name="cancel_anytime">Cancel anytime.</string>
     <string name="premium_helps_support">By upgrading BlipBlip you not only get all features or sounds but you also support its continuous and independent development.</string>
-    <string translatable="false" name="loading">Loading…</string> <!-- TODO translate -->
+    <string translatable="false" name="loading">Loading…</string>
     <string translatable="false" name="notification_has_premium_features">This notification uses Premium features</string>
 
     <!-- Premium Bar -->
@@ -963,7 +963,6 @@
     <!-- ads notifications -->
     <string translatable="false" name="notif_premium_ended">Application disabled</string>
     <string translatable="false" name="notif_premium_ended_description">Watch ad to enable it again.</string>
-    <!--string translatable="false" name="notif_stop_warn">Watch ad to get next notification</string-->
     <string translatable="false" name="notif_stop_warn">Next notification won\'t be played</string>
     <string translatable="false" name="notif_stop_warn_description">Watch ad to extend time for using the app</string>
 

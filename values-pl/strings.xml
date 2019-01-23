@@ -534,15 +534,15 @@
     <string name="select_notification_tone">Wybierz dźwięk powiadomienia</string>
     <string name="add_sound_to_blipblip">Dodaj do BlipBlip</string>
     <string name="permission_denied">Brak uprawnień</string>
-    <string name="permission_denied_message">BlipBlip nie ma uprawnień do odczytu pliku.\nCzy chcesz zainstalować dodatek, który umożliwi otwarcie pliku?\nMożesz także użyć innej aplikacji, która nie wymusza posiadania specjalanych uprawnień (np. Dysk Google).</string>
+    <string name="permission_denied_message">BlipBlip nie ma uprawnień do odczytu pliku.\nCzy chcesz zainstalować dodatek, który umożliwi otwarcie pliku?\nMożesz także użyć innej aplikacji, która nie wymusza posiadania specjalanych uprawnień (np. Dysk Google).</string> <!-- TODO REMOVE -->
     <string name="permission_denied_message_no_addon">BlipBlip nie ma uprawnień do odczytu pliku.\nProszę użyj innej aplikacji, która nie wymusza posiadania specjalanych uprawnień (np. Dysk Google).</string>
     <string translatable="false" name="permission_denied_rationale_title">Potrzebne pozwolenie</string>
     <string translatable="false" name="permission_denied_rationale">Aplikacja nie ma uprawnień do odczytu pliku. Przyznaj aplikacji uprawnienia dostępu do pliku. Możesz również udostępnić plik za pomocą innej aplikacji, która nie potrzebuje tego uprawnienia.</string>
     <string name="install">Zainstaluj</string> <!-- action text for button to install additional app -->
-    <string name="failed_run_addon">Nie udało się uruchomić Dodatku BlipBlip</string>
-    <string name="update_required">Wymagana aktualizacja</string>
-    <string name="update_required_message">Dodatek BlipBlip wymaga aktualizacji. Czy chcesz zaktualizować go teraz?</string>
-    <string name="update_required_action">Aktualizuj</string> <!-- action to update app -->
+    <string name="failed_run_addon">Nie udało się uruchomić Dodatku BlipBlip</string> <!-- TODO REMOVE -->
+    <string name="update_required">Wymagana aktualizacja</string> <!-- TODO REMOVE -->
+    <string name="update_required_message">Dodatek BlipBlip wymaga aktualizacji. Czy chcesz zaktualizować go teraz?</string> <!-- TODO REMOVE -->
+    <string name="update_required_action">Aktualizuj</string> <!-- action to update app --> <!-- TODO REMOVE -->
 
     <!-- Menu drawer strings -->
     <string name="drawer_open">Otwórz szufladę nawigacyjną</string>
@@ -789,7 +789,7 @@
     <string name="feature4">Mówienie tekstu lub czasu</string>
     <string name="feature5">Dodaj własne dźwięki</string>
     <string name="feature6">Priorytetowe wsparcie</string>
-    <string name="feature7">Tryb nocny (ciemny motyw)</string>
+    <string translatable="false" name="feature7">Tryb nocny (ciemny motyw)</string>
     <string name="feature_all_sounds">Wszystkie dźwięki w aplikacji</string>
     <string name="yearly_payment">Roczna płatność.</string>
     <string name="free_trial_available">Bezpłatny okres próbny dostępny.</string>
@@ -806,7 +806,7 @@
     <string translatable="false" name="bar_uses_premium_features">Powiadomienie wykorzystuje funkcje Premium</string>
 
     <!-- Premium dialog -->
-    <string translatable="false" name="premium_dialog_title">Premium</string>
+    <string translatable="false" name="premium_dialog_title">Premium</string> <!-- translated -->
     <string translatable="false" name="premium_dialog_upgrade_now">Kup teraz</string>
     <string translatable="false" name="premium_dialog_later">Później</string>
     <string translatable="false" name="premium_icon_description">Ikona gwiazdy Premium</string>
@@ -818,7 +818,7 @@
     <string translatable="false" name="feature_strike_the_hour_description">Stwórz swój własny zegar dziadka (np. Gra 3 razy o trzeciej)</string>
     <string translatable="false" name="feature_say_text_title">Mówienie tekstu jest funkcją Premium</string>
     <string translatable="false" name="feature_say_text_description">Używaj zamiany tekstu na mowę w powiadomieniach.</string>
-    <string translatable="false" name="feature_say_time_title">Saying time is a Premium feature</string>
+    <string translatable="false" name="feature_say_time_title">Mówienie czasu jest funkcją Premium</string>
     <string translatable="false" name="feature_say_time_description">Mów aktualny czas za pomocą zamiany tekstu na mowę.</string>
     <string translatable="false" name="feature_custom_repeat_interval_title">Niestandardowy interwał powtarzania to funkcja Premium</string>
     <string translatable="false" name="feature_custom_repeat_interval_description">Ustaw dowolny przedział czasu (inny niż standardowy 1, 5, 10, 15, 20, 30 i 60 minut).</string>
@@ -828,7 +828,6 @@
     <string translatable="false" name="feature_multiple_active_notifications_description">Korzystaj z wielu powiadomień z różnymi ustawieniami w tym samym czasie (np. Graj dwukrotnie o 12:00, graj raz o 12:30). W bezpłatnej wersji możesz mieć jedno aktywne powiadomienie.</string>
     <string translatable="false" name="feature_unlimited_silent_time_title">Nieograniczona konfiguracja czasu cichego to funkcja Premium</string>
     <string translatable="false" name="feature_unlimited_silent_time_description">W wersji darmowej możesz aktywować 5 konfiguracji czasu ciszy.</string>
-
 
     <string name="vibrate_seconds">Wibruj %ss</string> <!-- s at the end is for seconds, %s will be replaced vy value e.g. "Vibrate 1.2s" -->
     <string name="wait_and_vibrate_seconds">Czekaj %1$ss, wibruj %2$ss</string>
@@ -874,7 +873,6 @@
     <string translatable="false" name="manual_settings_are_you_sure_description">"Nie otrzymasz więcej ostrzeżeń, gdy ta aplikacja zostanie zabita."</string>
     <string translatable="false" name="manual_settings_are_you_sure_yes">Tak</string>
     <string translatable="false" name="manual_settings_are_you_sure_no">Nie</string>
-
 
     <!-- Tips -->
     <string name="tip1">Dodaj aplikację do Aplikacji niemonitorowanych.</string>
@@ -976,7 +974,6 @@
     <!-- ads notifications -->
     <string translatable="false" name="notif_premium_ended">Aplikacja wyłączona</string>
     <string translatable="false" name="notif_premium_ended_description">Obejrzyj reklamę by włączyć ją ponownie,</string>
-    <!--string translatable="false" name="notif_stop_warn">Obejrzyj reklamę, żeby otrzymać kolejne powiadomienie</string-->
     <string translatable="false" name="notif_stop_warn">Następne powiadomienie nie będzie odtworzone</string>
     <string translatable="false" name="notif_stop_warn_description">Obejrzyj reklamę, aby przedłużyć okres używania aplikacji</string>
 
