@@ -510,13 +510,8 @@
     <string name="select_notification_tone">Wähle Benachrichtigungston</string>
     <string name="add_sound_to_blipblip">Füge zu BlipBlip</string>
     <string name="permission_denied">Keine Berechtigung</string>
-    <string name="permission_denied_message">BlipBlip hat keine Berechtigung zum lesen der Datei.\nMöchtest Du eine Erweiterung installieren die Dir Ermöglicht diese Datei zu öffnen?\nDu kannst ebenfalls ein anderes Programm zum öffnen der Datei benutzen, der diese spezielle Berechtigungen nicht benötigt (wie z.B. Google Drive).</string>
     <string name="permission_denied_message_no_addon">BlipBlip hat keine Berechtigung um diese Datei zu lesen.\nBitte benutze andere Applikationen die zum Tausch der Datei keine zusätzliche Berechtigungen benötigen (z.B. Google Drive).</string>
     <string name="install">Installiere</string> <!-- action text for button to install additional app -->
-    <string name="failed_run_addon">Fehlgeschlagener Versuch eine BlipBlip Erweiterung zu starten</string>
-    <string name="update_required">Benötigt Update</string>
-    <string name="update_required_message">BlipBlip Erweiterung benötigt ein Update. Möchtest du jetzt aktualisieren?</string>
-    <string name="update_required_action">Aktualisiere</string> <!-- action to update app -->
 
     <!-- Menu drawer strings -->
     <string name="drawer_open">Öffne Navigationsschublade</string>

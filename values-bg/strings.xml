@@ -513,13 +513,8 @@
     <string name="select_notification_tone">Избор на тон</string>
     <string name="add_sound_to_blipblip">Добави в BlipBlip</string>
     <string name="permission_denied">Отказан достъп</string>
-    <string name="permission_denied_message">BlipBlip няма необходимите права за четене на този файл.\nИскате ли да установите добавка, която има такива права?\nИли може да използвате друго приложение, което поддържа прехвърляне на файлове без нужда от допълнителни права (напр. Гугъл Диск).</string>
     <string name="permission_denied_message_no_addon">BlipBlip няма права за четене на този файл.\nМоля, използвайте друго приложение, което споделя файлове без нужда от допълнителни права (напр. Гугъл Диск).</string>
     <string name="install">Установи</string> <!-- action text for button to install additional app -->
-    <string name="failed_run_addon">Неуспешно изпълнение на добавка за BlipBlip</string>
-    <string name="update_required">Изисква се обновление</string>
-    <string name="update_required_message">Добавка за BlipBlip се нуждае от обновяване. Желаете ли да я обновите сега?</string>
-    <string name="update_required_action">Обнови</string> <!-- action to update app -->
 
     <!-- Menu drawer strings -->
     <string name="drawer_open">Отвори полето за навигация</string>

@@ -513,13 +513,8 @@
     <string name="select_notification_tone">Select toon</string>
     <string name="add_sound_to_blipblip">Toevoegen aan BlipBlip</string>
     <string name="permission_denied">Geen toestemming</string>
-    <string name="permission_denied_message">BlipBlip heeft geen toestemming om het bestand te lezen.\nWilt u de add-on installeren die deze toestemming heeft?\nU kunt ook een andere app gebruiken die het overdragen van bestanden ondersteunt zonder dat hiervoor extra toestemming nodig is (bijvoorbeeld Google Drive).</string>
     <string name="permission_denied_message_no_addon">BlipBlip heeft geen toestemming om het bestand te lezen.\nGebruik alstublieft een andere app die het bestand deelt zonder dat hiervoor extra toestemming nodig is (bijvoorbeeld Google Drive).</string>
     <string name="install">Installeren</string> <!-- action text for button to install additional app -->
-    <string name="failed_run_addon">Kan de BlipBlip-add-on niet starten</string>
-    <string name="update_required">Update vereist</string>
-    <string name="update_required_message">BlipBlip Add-on-plugin vereist een update. Wilt u dit nu bijwerken?</string>
-    <string name="update_required_action">Update</string> <!-- translated --> <!-- action to update app -->
 
     <!-- Menu drawer strings -->
     <string name="drawer_open">Open navigation drawer</string> <!-- translated -->

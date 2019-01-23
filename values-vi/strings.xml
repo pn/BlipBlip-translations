@@ -501,13 +501,8 @@
     <string name="select_notification_tone">Chọn giai điệu</string>
     <string name="add_sound_to_blipblip">Thêm vào BlipBlip</string>
     <string name="permission_denied">Quyền bị từ chối</string>
-    <string name="permission_denied_message">BlipBlip không có quyền để đọc tệp.\nBạn có muốn cài trình cắm để có quyền này không?\nBạn cũng có thể sử dụng một số ứng dụng khác hỗ trợ truyền tệp mà không cần sự cho phép bổ sung (ví dụ: Google Drive).</string>
     <string name="permission_denied_message_no_addon">BlipBlip không có quyền để đọc tệp.\nVui lòng sử dụng một số ứng dụng khác chia sẻ tệp mà không cần sự cho phép bổ sung (ví dụ: Google Drive).</string>
     <string name="install">Cài đặt</string> <!-- action text for button to install additional app -->
-    <string name="failed_run_addon">Khởi động BlipBlip trình cắm thất bại</string>
-    <string name="update_required">Cần cập nhật</string>
-    <string name="update_required_message">Trình cắm bổ sung BlipBlip yêu cầu cập nhật. Bạn muốn cập nhật nó ngay không?</string>
-    <string name="update_required_action">Cập nhật</string> <!-- action to update app -->
 
     <!-- Menu drawer strings -->
     <string name="drawer_open">Mở bảng điều hướng</string>

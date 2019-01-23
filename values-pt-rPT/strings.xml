@@ -515,13 +515,8 @@ uma mensagem através da opção "Reportar problema" ou através da &lt;a href=\
     <string name="select_notification_tone">Selecionar toque de notificação</string>
     <string name="add_sound_to_blipblip">Adicionar ao BlipBlip</string>
     <string name="permission_denied">Permissão negada</string>
-    <string name="permission_denied_message">O BlipBlip não tem permissão para ler o ficheiro.\nPretende instalar um extra que o ajudará a obter esta permissão?\nTambém pode utilizar outra aplicação que tenha suporte a transferência de ficheiros sem necessitar de permissão adicional, como o Google Drive, por exemplo.</string>
     <string name="permission_denied_message_no_addon">O BlipBlip não tem permissão para ler o ficheiro.\nPor favor, utilize outra aplicação que possa partilhar ficheiros sem necessitar de permissão adicional, por exemplo, o Google Drive.</string>
     <string name="install">Instalar</string> <!-- action text for button to install additional app -->
-    <string name="failed_run_addon">Falha ao abrir o extra do BlipBlip</string>
-    <string name="update_required">atualização necessária</string>
-    <string name="update_required_message">O extra do BlipBlip necessita de uma atualização. Pretende atualizar agora?</string>
-    <string name="update_required_action">Atualizar</string> <!-- action to update app -->
 
     <!-- Menu drawer strings -->
     <string name="drawer_open">Mostrar gaveta de navegação</string>

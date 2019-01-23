@@ -513,13 +513,8 @@
     <string name="select_notification_tone">Hang választása</string>
     <string name="add_sound_to_blipblip">Hozzáadás BlipBliphez</string>
     <string name="permission_denied">Engedély megtagadva</string>
-    <string name="permission_denied_message">A BlipBlipnek nincs engedélye, hogy olvassa a fájlt.\nSzeretne kiegészítőt telepíteni, amelynek van ilyen engedélye?\nMás alkalmazást is használhat, amely támogatja fájlok áthelyezését további engedélyezés igénye nélkül (pl. Google Drive).</string>
     <string name="permission_denied_message_no_addon">A BlipBlipnek nincs engedélye, hogy olvassa a fájlt.\nKérjük használjon más alkalmazást, amely megosztja a fájlt további engedélyezés igénye nélkül (pl. Google Drive).</string>
     <string name="install">Telepítés</string> <!-- action text for button to install additional app -->
-    <string name="failed_run_addon">Nem sikerült elindítani a BlipBlip Add-on kiegészítőt</string>
-    <string name="update_required">Frissítés szükséges</string>
-    <string name="update_required_message">BlipBlip Add-on kiegészítő frissítést igényel. Szeretné most frissíteni?</string>
-    <string name="update_required_action">Frissítés</string> <!-- action to update app -->
 
     <!-- Menu drawer strings -->
     <string name="drawer_open">Navigáció kinyitása</string>
