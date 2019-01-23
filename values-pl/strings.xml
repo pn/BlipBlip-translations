@@ -47,9 +47,9 @@
     <string name="day_friday">Piątek</string>
     <string name="day_saturday">Sobota</string>
     <string name="day_sunday">Niedziela</string>
-    <string translatable="false" name="preview_upcoming_notifications">Podgląd nadchodzących powiadomień</string>
-    <string translatable="false" name="disable_premium_notifications">Wyłącz powiadomienia Premium</string>
-    <string translatable="false" name="remove_premium_features">Usuń funkcje premium</string>
+    <string name="preview_upcoming_notifications">Podgląd nadchodzących powiadomień</string>
+    <string name="disable_premium_notifications">Wyłącz powiadomienia Premium</string>
+    <string name="remove_premium_features">Usuń funkcje premium</string>
 
     <!-- Period -->
     <string name="repeat_every">Powtarzaj co</string>
@@ -495,11 +495,11 @@
     <string name="color_next_notification_bar">Kolor paska następnego powiadomienia</string>
     <string name="color_next_notification_bar_on">Użyj kolorowego tła dla paska następnego powiadomienia.</string>
     <string name="color_next_notification_bar_off">Użyj szarego tła dla paska następnego powiadomienia.</string>
-    <string translatable="false" name="night_mode">Tryb nocny</string>
-    <string translatable="false" name="night_mode_on">Włączony</string>
-    <string translatable="false" name="night_mode_off">Wyłączony</string>
-    <string translatable="false" name="night_mode_auto">Automatyczny</string>
-    <string translatable="false" name="night_mode_system">Ustawienie systemowe</string>
+    <string name="night_mode">Tryb nocny</string>
+    <string name="night_mode_on">Włączony</string>
+    <string name="night_mode_off">Wyłączony</string>
+    <string name="night_mode_auto">Automatyczny</string>
+    <string name="night_mode_system">Ustawienie systemowe</string>
     <string name="dark_theme">Ciemna kolorystyka</string>
     <string name="dark_theme_on">Używaj ciemnej kolorystyki</string>
     <string name="dark_theme_off">Używaj jasnej kolorystyki</string>
@@ -522,10 +522,10 @@
     <string name="edit">Edytuj</string> <!-- Name of action to edit list of sounds or list of vibrations, should be short -->
     <string name="editing">Edycja</string> <!-- Displayed in edit mode -->
     <string name="error_file_open_failed">Nie udało się otworzyć pliku.</string>
-    <string translatable="false" name="error_file_open_no_permission">Brak uprawnień do otwierania pliku.</string>
-    <string translatable="false" name="error_file_open_failed_no_permission_title">Przyznaj uprawnienia ręcznie</string>
-    <string translatable="false" name="error_file_open_failed_no_permission">Brak uprawnień do otwierania pliku. Otwórz Ustawienia i zezwól na dostęp do pamięci.</string>
-    <string translatable="false" name="error_file_open_failed_settings">Otwórz ustawienia</string>
+    <string name="error_file_open_no_permission">Brak uprawnień do otwierania pliku.</string>
+    <string name="error_file_open_failed_no_permission_title">Przyznaj uprawnienia ręcznie</string>
+    <string name="error_file_open_failed_no_permission">Brak uprawnień do otwierania pliku. Otwórz Ustawienia i zezwól na dostęp do pamięci.</string>
+    <string name="error_file_open_failed_settings">Otwórz ustawienia</string>
     <string name="play_vibration">Wibruj</string> <!-- description of action of a button to perform vibration -->
     <string name="play_sound">Odtwórz dźwięk</string> <!-- description of action of a button to play sound -->
     <string name="drag_handle">Uchwyt do przesuwania</string>
@@ -536,8 +536,8 @@
     <string name="permission_denied">Brak uprawnień</string>
     <string name="permission_denied_message">BlipBlip nie ma uprawnień do odczytu pliku.\nCzy chcesz zainstalować dodatek, który umożliwi otwarcie pliku?\nMożesz także użyć innej aplikacji, która nie wymusza posiadania specjalanych uprawnień (np. Dysk Google).</string> <!-- TODO REMOVE -->
     <string name="permission_denied_message_no_addon">BlipBlip nie ma uprawnień do odczytu pliku.\nProszę użyj innej aplikacji, która nie wymusza posiadania specjalanych uprawnień (np. Dysk Google).</string>
-    <string translatable="false" name="permission_denied_rationale_title">Potrzebne pozwolenie</string>
-    <string translatable="false" name="permission_denied_rationale">Aplikacja nie ma uprawnień do odczytu pliku. Przyznaj aplikacji uprawnienia dostępu do pliku. Możesz również udostępnić plik za pomocą innej aplikacji, która nie potrzebuje tego uprawnienia.</string>
+    <string name="permission_denied_rationale_title">Potrzebne pozwolenie</string>
+    <string name="permission_denied_rationale">Aplikacja nie ma uprawnień do odczytu pliku. Przyznaj aplikacji uprawnienia dostępu do pliku. Możesz również udostępnić plik za pomocą innej aplikacji, która nie potrzebuje tego uprawnienia.</string>
     <string name="install">Zainstaluj</string> <!-- action text for button to install additional app -->
     <string name="failed_run_addon">Nie udało się uruchomić Dodatku BlipBlip</string> <!-- TODO REMOVE -->
     <string name="update_required">Wymagana aktualizacja</string> <!-- TODO REMOVE -->
@@ -599,7 +599,7 @@
     <string name="snack_bar_text_item_removed">1 element usunięty</string>
     <string name="snack_bar_action_undo">cofnij</string>
 
-    <string translatable="false" name="add">Dodaj</string>
+    <string name="add">Dodaj</string>
     <string name="add_item">Dodaj element</string>
     <string name="action_add_child_notification">Dodaj podrzędne powiadomienie</string>
     <string name="action_add_notification">Dodaj powiadomienie</string>
@@ -625,7 +625,7 @@
     <string name="no_upcoming_notifications">Brak nadchodzących powiadomień</string>
     <string name="error_indicator">Wskaźnik błędu</string>
     <string name="next_notification_parent_off">Wyłączone (nadrzędne)</string>
-    <string translatable="false" name="next_notification_app_off">Wyłączone (aplikacja wyłączona)</string>
+    <string name="next_notification_app_off">Wyłączone (aplikacja wyłączona)</string>
     <string name="next_day">następnego dnia</string> <!-- Used in: "22:00 - 6:00 next day" -->
     <string name="notifications">Powiadomienia</string>
     <string name="warning_no_email_app">Brak aplikacji email do wysłania raportu.</string>
@@ -776,7 +776,7 @@
     <string name="month">miesiąć</string>
     <string name="month_very_short">mies.</string> <!-- shortcut for word "month", singular -->
     <string name="discount_save_money">Oszczędź</string> <!-- percent saved will be displayed below this text -->
-    <string name="premium_settings" translatable="false">Aktualizuj do Premium by odblokować wszytkie opcje</string>
+    <string name="premium_settings">Aktualizuj do Premium by odblokować wszytkie opcje</string>
     <string name="buy_premium">Kup Premium</string>
     <string name="use_free">Użyj darmowej wersji</string>
     <string name="already_bought">Już kupiono</string>
@@ -789,45 +789,45 @@
     <string name="feature4">Mówienie tekstu lub czasu</string>
     <string name="feature5">Dodaj własne dźwięki</string>
     <string name="feature6">Priorytetowe wsparcie</string>
-    <string translatable="false" name="feature7">Tryb nocny (ciemny motyw)</string>
+    <string name="feature7">Tryb nocny (ciemny motyw)</string>
     <string name="feature_all_sounds">Wszystkie dźwięki w aplikacji</string>
     <string name="yearly_payment">Roczna płatność.</string>
     <string name="free_trial_available">Bezpłatny okres próbny dostępny.</string>
-    <string translatable="false" name="free_trial">Bezpłatny okres próbny.</string>
-    <string translatable="false" name="cancel_anytime">Anuluj w dowolnym momencie.</string>
+    <string name="free_trial">Bezpłatny okres próbny.</string>
+    <string name="cancel_anytime">Anuluj w dowolnym momencie.</string>
     <string name="premium_helps_support">Aktualizując BlipBlip nie tylko otrzymujesz wszystkie funkcje lub dźwięki, ale również wspierasz niezależny i ciągły rozwój aplikacji.</string>
-    <string translatable="false" name="loading">Ładowanie…</string>
-    <string translatable="false" name="notification_has_premium_features">To powiadomienie korzysta z funkcji Premium</string>
+    <string name="loading">Ładowanie…</string>
+    <string name="notification_has_premium_features">To powiadomienie korzysta z funkcji Premium</string>
 
     <!-- Premium Bar -->
-    <string translatable="false" name="bar_upgrade_to_enable_app">Przejdź na Premium</string>
-    <string translatable="false" name="bar_upgrade_to_enable_notification">Przejdź na Premium</string>
-    <string translatable="false" name="bar_upgrade">Kup teraz</string>
-    <string translatable="false" name="bar_uses_premium_features">Powiadomienie wykorzystuje funkcje Premium</string>
+    <string name="bar_upgrade_to_enable_app">Przejdź na Premium</string>
+    <string name="bar_upgrade_to_enable_notification">Przejdź na Premium</string>
+    <string name="bar_upgrade">Kup teraz</string>
+    <string name="bar_uses_premium_features">Powiadomienie wykorzystuje funkcje Premium</string>
 
     <!-- Premium dialog -->
-    <string translatable="false" name="premium_dialog_title">Premium</string> <!-- translated -->
-    <string translatable="false" name="premium_dialog_upgrade_now">Kup teraz</string>
-    <string translatable="false" name="premium_dialog_later">Później</string>
-    <string translatable="false" name="premium_icon_description">Ikona gwiazdy Premium</string>
-    <string translatable="false" name="feature_user_sounds_title">Dźwięki dodane przez użytkownika to funkcja Premium</string>
-    <string translatable="false" name="feature_user_sounds_description">Dostosuj aplikację BlipBlip, dodając własne dźwięki.</string>
-    <string translatable="false" name="feature_premium_sounds_title">Wszystkie dźwięki dostępne w aplikacji to funkcja Premium</string>
-    <string translatable="false" name="feature_premium_sounds_description">Dostosuj swoje powiadomienie za pomocą wielu wbudowanych dźwięków.</string>
-    <string translatable="false" name="feature_strike_the_hour_title">Wybijanie godziny jest funkcją Premium</string>
-    <string translatable="false" name="feature_strike_the_hour_description">Stwórz swój własny zegar dziadka (np. Gra 3 razy o trzeciej)</string>
-    <string translatable="false" name="feature_say_text_title">Mówienie tekstu jest funkcją Premium</string>
-    <string translatable="false" name="feature_say_text_description">Używaj zamiany tekstu na mowę w powiadomieniach.</string>
-    <string translatable="false" name="feature_say_time_title">Mówienie czasu jest funkcją Premium</string>
-    <string translatable="false" name="feature_say_time_description">Mów aktualny czas za pomocą zamiany tekstu na mowę.</string>
-    <string translatable="false" name="feature_custom_repeat_interval_title">Niestandardowy interwał powtarzania to funkcja Premium</string>
-    <string translatable="false" name="feature_custom_repeat_interval_description">Ustaw dowolny przedział czasu (inny niż standardowy 1, 5, 10, 15, 20, 30 i 60 minut).</string>
-    <string translatable="false" name="feature_general_title">Powiadomienie korzysta z funkcji Premium</string>
-    <string translatable="false" name="feature_general_description">Uaktualnij, aby włączyć powiadomienia i korzystać ze wszystkich funkcji Premium.</string>
-    <string translatable="false" name="feature_multiple_active_notifications_title">Nieograniczone aktywne powiadomienia to funkcja Premium</string>
-    <string translatable="false" name="feature_multiple_active_notifications_description">Korzystaj z wielu powiadomień z różnymi ustawieniami w tym samym czasie (np. Graj dwukrotnie o 12:00, graj raz o 12:30). W bezpłatnej wersji możesz mieć jedno aktywne powiadomienie.</string>
-    <string translatable="false" name="feature_unlimited_silent_time_title">Nieograniczona konfiguracja czasu cichego to funkcja Premium</string>
-    <string translatable="false" name="feature_unlimited_silent_time_description">W wersji darmowej możesz aktywować 5 konfiguracji czasu ciszy.</string>
+    <string name="premium_dialog_title">Premium</string> <!-- translated -->
+    <string name="premium_dialog_upgrade_now">Kup teraz</string>
+    <string name="premium_dialog_later">Później</string>
+    <string name="premium_icon_description">Ikona gwiazdy Premium</string>
+    <string name="feature_user_sounds_title">Dźwięki dodane przez użytkownika to funkcja Premium</string>
+    <string name="feature_user_sounds_description">Dostosuj aplikację BlipBlip, dodając własne dźwięki.</string>
+    <string name="feature_premium_sounds_title">Wszystkie dźwięki dostępne w aplikacji to funkcja Premium</string>
+    <string name="feature_premium_sounds_description">Dostosuj swoje powiadomienie za pomocą wielu wbudowanych dźwięków.</string>
+    <string name="feature_strike_the_hour_title">Wybijanie godziny jest funkcją Premium</string>
+    <string name="feature_strike_the_hour_description">Stwórz swój własny zegar dziadka (np. Gra 3 razy o trzeciej)</string>
+    <string name="feature_say_text_title">Mówienie tekstu jest funkcją Premium</string>
+    <string name="feature_say_text_description">Używaj zamiany tekstu na mowę w powiadomieniach.</string>
+    <string name="feature_say_time_title">Mówienie czasu jest funkcją Premium</string>
+    <string name="feature_say_time_description">Mów aktualny czas za pomocą zamiany tekstu na mowę.</string>
+    <string name="feature_custom_repeat_interval_title">Niestandardowy interwał powtarzania to funkcja Premium</string>
+    <string name="feature_custom_repeat_interval_description">Ustaw dowolny przedział czasu (inny niż standardowy 1, 5, 10, 15, 20, 30 i 60 minut).</string>
+    <string name="feature_general_title">Powiadomienie korzysta z funkcji Premium</string>
+    <string name="feature_general_description">Uaktualnij, aby włączyć powiadomienia i korzystać ze wszystkich funkcji Premium.</string>
+    <string name="feature_multiple_active_notifications_title">Nieograniczone aktywne powiadomienia to funkcja Premium</string>
+    <string name="feature_multiple_active_notifications_description">Korzystaj z wielu powiadomień z różnymi ustawieniami w tym samym czasie (np. Graj dwukrotnie o 12:00, graj raz o 12:30). W bezpłatnej wersji możesz mieć jedno aktywne powiadomienie.</string>
+    <string name="feature_unlimited_silent_time_title">Nieograniczona konfiguracja czasu cichego to funkcja Premium</string>
+    <string name="feature_unlimited_silent_time_description">W wersji darmowej możesz aktywować 5 konfiguracji czasu ciszy.</string>
 
     <string name="vibrate_seconds">Wibruj %ss</string> <!-- s at the end is for seconds, %s will be replaced vy value e.g. "Vibrate 1.2s" -->
     <string name="wait_and_vibrate_seconds">Czekaj %1$ss, wibruj %2$ss</string>
@@ -868,11 +868,11 @@
     <string name="manual_settings_general_tip2">Wyłącz aplikacje, które optymalizują użycie baterii lub pamięci (np. aplikacje typu "task killer")</string>
     <string name="manual_settings_general_tips_info">Jeśli Twoje urządzenia wymaga zmiany innych opcji, prosimy daj nam zanć używając opcji "Zgłoś problem"</string>
     <string name="manual_settings_suggest_report_problem">Jeśli po wypróbowaniu powyższych wskazówek masz nadal problemy z aplikacją, prosimy o zgłoszenie problemu.</string>
-    <string translatable="false" name="manual_settings_do_not_show_again">Nie pokazuj ponownie</string>
-    <string translatable="false" name="manual_settings_are_you_sure">Jesteś pewny?</string>
-    <string translatable="false" name="manual_settings_are_you_sure_description">"Nie otrzymasz więcej ostrzeżeń, gdy ta aplikacja zostanie zabita."</string>
-    <string translatable="false" name="manual_settings_are_you_sure_yes">Tak</string>
-    <string translatable="false" name="manual_settings_are_you_sure_no">Nie</string>
+    <string name="manual_settings_do_not_show_again">Nie pokazuj ponownie</string>
+    <string name="manual_settings_are_you_sure">Jesteś pewny?</string>
+    <string name="manual_settings_are_you_sure_description">"Nie otrzymasz więcej ostrzeżeń, gdy ta aplikacja zostanie zabita."</string>
+    <string name="manual_settings_are_you_sure_yes">Tak</string>
+    <string name="manual_settings_are_you_sure_no">Nie</string>
 
     <!-- Tips -->
     <string name="tip1">Dodaj aplikację do Aplikacji niemonitorowanych.</string>
@@ -927,91 +927,91 @@
     <string name="show_actions_switches_on">Pokazuj przełączniki do wyłączania akcji.</string>
     <string name="show_actions_switches_off">Schowaj przełączniki do wyłączania akcji.</string>
     <!-- Show kill dialog -->
-    <string translatable="false" name="show_kill_dialog_title">Powiadom, jeśli aplikacja została zabita</string>
-    <string translatable="false" name="show_kill_dialog_on">Wyświetlaj wiadomość podczas otwierania aplikacji, jeśli wykryto, że aplikacja została zabita.</string>
-    <string translatable="false" name="show_kill_dialog_off">Nie wyświetlaj komunikatu po wykryciu, że aplikacja została zabita.</string>
+    <string name="show_kill_dialog_title">Powiadom, jeśli aplikacja została zabita</string>
+    <string name="show_kill_dialog_on">Wyświetlaj wiadomość podczas otwierania aplikacji, jeśli wykryto, że aplikacja została zabita.</string>
+    <string name="show_kill_dialog_off">Nie wyświetlaj komunikatu po wykryciu, że aplikacja została zabita.</string>
 
     <!-- examples -->
-    <string translatable="false" name="double_sound_every_hour">Podwójny dźwięk co godzinę</string>
-    <string translatable="false" name="single_sound_half_past">Dźwięk pół godziny po każdej godzinie</string>
-    <string translatable="false" name="speak_time_every_hour">Mów czas co godzinę</string>
+    <string name="double_sound_every_hour">Podwójny dźwięk co godzinę</string>
+    <string name="single_sound_half_past">Dźwięk pół godziny po każdej godzinie</string>
+    <string name="speak_time_every_hour">Mów czas co godzinę</string>
 
     <!-- ads -->
-    <string translatable="false" name="remove_ads">Usuń reklamy</string>
-    <string translatable="false" name="channel_name_watch_ads">Oglądaj reklamy</string>
-    <string translatable="false" name="channel_name_premium_end_description">Będziesz powiadamiany kiedy należy obejrzeć reklamę, żeby cieszyć się funkcjami Premium za darmo</string>
+    <string name="remove_ads">Usuń reklamy</string>
+    <string name="channel_name_watch_ads">Oglądaj reklamy</string>
+    <string name="channel_name_premium_end_description">Będziesz powiadamiany kiedy należy obejrzeć reklamę, żeby cieszyć się funkcjami Premium za darmo</string>
 
-    <string translatable="false" name="watch_ads">Oglądaj reklamy</string>
-    <string translatable="false" name="loading_ad">Ładowanie reklamy...</string>
-    <string translatable="false" name="watch_ad_now">Obejrzyj reklamę teraz</string>
-    <string translatable="false" name="watch_video">Obejrzyj reklamę wideo</string>
-    <string translatable="false" name="subscribe_without_ads">Subskrybuj bez reklam</string>
-    <string translatable="false" name="start_free_trial">Rozpocznij darmowy okres próbny</string>
-    <string translatable="false" name="tooltip_accept_privacy_policy">Proszę zaznaczyć pole.</string>
-    <string translatable="false" name="welcome_to_blipBlip">Witaj w BlipBlip!</string>
-    <string translatable="false" name="blipblip_free_description_short">Ta aplikacja jest bezpłatna w zamian za oglądanie reklam.</string>
-    <string translatable="false" name="blipblip_free_description">Ta aplikacja jest bezpłatna w zamian za oglądanie reklam. Masz dostęp do wszystkich funkcji Premium oraz dźwięków przez określony czas od obejrzenia reklamy. Im więcej oglądasz tym dłużej możesz używać aplikacji.</string>
-    <string translatable="false" name="blipblip_free_description2">W interfejsie użytkownika nie ma reklam. Nie ma też reklam wyskakujących nieoczekiwanie. Ty zawsze wybierasz kiedy chcesz obejrzeć reklamę.</string>
-    <string translatable="false" name="watch_ad">Obejrzyj reklamę</string>
-    <string translatable="false" name="ad">Reklama</string> <!-- Short label of button for watching ads -->
-    <string translatable="false" name="accept_privacy_policy">Akceptuję politykę prywatności.</string>
-    <string translatable="false" name="ad_is_loading">Reklama się ładuje. Prosze czekaj...</string>
-    <string translatable="false" name="get_blipblip">Chcesz darmową aplikację bez reklam oraz bez funkcji Premium? Pobierz ją tutaj.</string>
-    <string translatable="false" name="privacy_policy">Polityka prywatności.</string>
-    <string translatable="false" name="get_time_of_premium">Otrzymaj %1$s Premium</string>
-    <string translatable="false" name="get_time_of_premium_more">Obejrzyj reklamę, żeby używać aplikacji przez dodatkowe %s.</string>
-    <string translatable="false" name="premium_time_left">Pozostało Ci %s używania aplikacji.</string>
-    <string translatable="false" name="app_was_enabled">Aplikacja została uruchomiona!</string>
-    <string translatable="false" name="failed_loading_ad">Nieudało się załadować reklamy. Sprawdź połączenie z internetem i spróbuj ponownie..</string>
-    <string translatable="false" name="continue_with_ads">Kontynuuj z reklamami</string>
-    <string translatable="false" name="continue_with_relevant_question">Czy możemy wykorzystać Twoje dane, aby dopasować reklamy do Ciebie?</string>
-    <string translatable="false" name="continue_with_relevant_ads">Tak, Kontynuuj z trafnymi reklamami</string>
-    <string translatable="false" name="continue_with_less_relevant_ads">Nie, kontynuuj z mniej trafnymi reklamami</string>
-    <string translatable="false" name="watch_ads_to_get_next_notification">Oglądaj reklamy by otrzymać następne powiadomienie</string>
-    <string translatable="false" name="watch_ad_to_enable_app">Obejrzyj reklamę by włączyć aplikację</string>
-    <string translatable="false" name="popup_watch_more_ads_to_get_notification">Zobacz więcej reklam, by otrzymać to powiadomienie</string>
+    <string name="watch_ads">Oglądaj reklamy</string>
+    <string name="loading_ad">Ładowanie reklamy...</string>
+    <string name="watch_ad_now">Obejrzyj reklamę teraz</string>
+    <string name="watch_video">Obejrzyj reklamę wideo</string>
+    <string name="subscribe_without_ads">Subskrybuj bez reklam</string>
+    <string name="start_free_trial">Rozpocznij darmowy okres próbny</string>
+    <string name="tooltip_accept_privacy_policy">Proszę zaznaczyć pole.</string>
+    <string name="welcome_to_blipBlip">Witaj w BlipBlip!</string>
+    <string name="blipblip_free_description_short">Ta aplikacja jest bezpłatna w zamian za oglądanie reklam.</string>
+    <string name="blipblip_free_description">Ta aplikacja jest bezpłatna w zamian za oglądanie reklam. Masz dostęp do wszystkich funkcji Premium oraz dźwięków przez określony czas od obejrzenia reklamy. Im więcej oglądasz tym dłużej możesz używać aplikacji.</string>
+    <string name="blipblip_free_description2">W interfejsie użytkownika nie ma reklam. Nie ma też reklam wyskakujących nieoczekiwanie. Ty zawsze wybierasz kiedy chcesz obejrzeć reklamę.</string>
+    <string name="watch_ad">Obejrzyj reklamę</string>
+    <string name="ad">Reklama</string> <!-- Short label of button for watching ads -->
+    <string name="accept_privacy_policy">Akceptuję politykę prywatności.</string>
+    <string name="ad_is_loading">Reklama się ładuje. Prosze czekaj...</string>
+    <string name="get_blipblip">Chcesz darmową aplikację bez reklam oraz bez funkcji Premium? Pobierz ją tutaj.</string>
+    <string name="privacy_policy">Polityka prywatności.</string>
+    <string name="get_time_of_premium">Otrzymaj %1$s Premium</string>
+    <string name="get_time_of_premium_more">Obejrzyj reklamę, żeby używać aplikacji przez dodatkowe %s.</string>
+    <string name="premium_time_left">Pozostało Ci %s używania aplikacji.</string>
+    <string name="app_was_enabled">Aplikacja została uruchomiona!</string>
+    <string name="failed_loading_ad">Nieudało się załadować reklamy. Sprawdź połączenie z internetem i spróbuj ponownie..</string>
+    <string name="continue_with_ads">Kontynuuj z reklamami</string>
+    <string name="continue_with_relevant_question">Czy możemy wykorzystać Twoje dane, aby dopasować reklamy do Ciebie?</string>
+    <string name="continue_with_relevant_ads">Tak, Kontynuuj z trafnymi reklamami</string>
+    <string name="continue_with_less_relevant_ads">Nie, kontynuuj z mniej trafnymi reklamami</string>
+    <string name="watch_ads_to_get_next_notification">Oglądaj reklamy by otrzymać następne powiadomienie</string>
+    <string name="watch_ad_to_enable_app">Obejrzyj reklamę by włączyć aplikację</string>
+    <string name="popup_watch_more_ads_to_get_notification">Zobacz więcej reklam, by otrzymać to powiadomienie</string>
 
     <!-- ads notifications -->
-    <string translatable="false" name="notif_premium_ended">Aplikacja wyłączona</string>
-    <string translatable="false" name="notif_premium_ended_description">Obejrzyj reklamę by włączyć ją ponownie,</string>
-    <string translatable="false" name="notif_stop_warn">Następne powiadomienie nie będzie odtworzone</string>
-    <string translatable="false" name="notif_stop_warn_description">Obejrzyj reklamę, aby przedłużyć okres używania aplikacji</string>
+    <string name="notif_premium_ended">Aplikacja wyłączona</string>
+    <string name="notif_premium_ended_description">Obejrzyj reklamę by włączyć ją ponownie,</string>
+    <string name="notif_stop_warn">Następne powiadomienie nie będzie odtworzone</string>
+    <string name="notif_stop_warn_description">Obejrzyj reklamę, aby przedłużyć okres używania aplikacji</string>
 
     <!-- ads settings -->
-    <string translatable="false" name="ads_notifications">Potrzeba obejrzenia reklamy</string>
-    <string translatable="false" name="ads_notifications_on">Będziesz otrzymywać powiadomienia o potrzebie oglądania reklam</string>
-    <string translatable="false" name="ads_notifications_off">Nie będziesz otrzymywać żadnych powiadomień zachęcających do oglądania reklam</string>
-    <string translatable="false" name="ads_warn_app_disabled">Wyłączenie aplikacji</string>
-    <string translatable="false" name="ads_warn_app_disabled_on">Powiadom kiedy aplikacja zostanie wyłączona z powodu nie obejrzenia wystarczającej ilości reklam</string>
-    <string translatable="false" name="ads_warn_app_disabled_off">Nie powiadamiaj kiedy aplikacja zostanie wyłączona z powodu nie obejrzenia wystarczającej ilości reklam</string>
-    <string translatable="false" name="ads_warn_next_notification">Następne powiadomienie</string>
-    <string translatable="false" name="ads_warn_next_notification_on">Powiadom kiedy następne powiadomienie nie będzie odtworzone z powodu nie obejrzenia wystarczającej ilości reklam</string>
-    <string translatable="false" name="ads_warn_next_notification_off">Nie powiadamiaj kiedy następne powiadomienie nie będzie odtworzone z powodu nie obejrzenia wystarczającej ilości reklam</string>
+    <string name="ads_notifications">Potrzeba obejrzenia reklamy</string>
+    <string name="ads_notifications_on">Będziesz otrzymywać powiadomienia o potrzebie oglądania reklam</string>
+    <string name="ads_notifications_off">Nie będziesz otrzymywać żadnych powiadomień zachęcających do oglądania reklam</string>
+    <string name="ads_warn_app_disabled">Wyłączenie aplikacji</string>
+    <string name="ads_warn_app_disabled_on">Powiadom kiedy aplikacja zostanie wyłączona z powodu nie obejrzenia wystarczającej ilości reklam</string>
+    <string name="ads_warn_app_disabled_off">Nie powiadamiaj kiedy aplikacja zostanie wyłączona z powodu nie obejrzenia wystarczającej ilości reklam</string>
+    <string name="ads_warn_next_notification">Następne powiadomienie</string>
+    <string name="ads_warn_next_notification_on">Powiadom kiedy następne powiadomienie nie będzie odtworzone z powodu nie obejrzenia wystarczającej ilości reklam</string>
+    <string name="ads_warn_next_notification_off">Nie powiadamiaj kiedy następne powiadomienie nie będzie odtworzone z powodu nie obejrzenia wystarczającej ilości reklam</string>
 
     <!-- Privacy settings -->
-    <string translatable="false" name="privacy">Prywatność</string>
-    <string translatable="false" name="ads">Reklamy</string>
-    <string translatable="false" name="pref_personalized_ads">Personalizuj reklamy</string>
-    <string translatable="false" name="pref_personalized_ads_on">Reklamy będą spersonalizowane.</string>
-    <string translatable="false" name="pref_personalized_ads_off">Twoje dane nie będą użyte do personalizowania reklam.</string>
-    <string translatable="false" name="pref_analytics">Analityka</string>
-    <string translatable="false" name="pref_collect_analytics">Zbieranie anonimowych danych</string>
-    <string translatable="false" name="pref_collect_analytics_on">Zbieraj anonimowe, zagregowane dane w celu ulepszania aplikacji.</string>
-    <string translatable="false" name="pref_collect_analytics_off">Nie zbieraj żadnych danych..</string>
-    <string translatable="false" name="pref_analytics_anonymize_ip">Anonimizuj lokację</string>
-    <string translatable="false" name="pref_analytics_anonymize_ip_on">Anonimizuj adres IP wysyłany w celu określenia lokalizacji użytkownika.</string>
-    <string translatable="false" name="pref_analytics_anonymize_ip_off">Użyj pełnego adresu IP, tylko aby określić ogólną lokalizację użytkownika (kraj, miasto).</string>
+    <string name="privacy">Prywatność</string>
+    <string name="ads">Reklamy</string>
+    <string name="pref_personalized_ads">Personalizuj reklamy</string>
+    <string name="pref_personalized_ads_on">Reklamy będą spersonalizowane.</string>
+    <string name="pref_personalized_ads_off">Twoje dane nie będą użyte do personalizowania reklam.</string>
+    <string name="pref_analytics">Analityka</string>
+    <string name="pref_collect_analytics">Zbieranie anonimowych danych</string>
+    <string name="pref_collect_analytics_on">Zbieraj anonimowe, zagregowane dane w celu ulepszania aplikacji.</string>
+    <string name="pref_collect_analytics_off">Nie zbieraj żadnych danych..</string>
+    <string name="pref_analytics_anonymize_ip">Anonimizuj lokację</string>
+    <string name="pref_analytics_anonymize_ip_on">Anonimizuj adres IP wysyłany w celu określenia lokalizacji użytkownika.</string>
+    <string name="pref_analytics_anonymize_ip_off">Użyj pełnego adresu IP, tylko aby określić ogólną lokalizację użytkownika (kraj, miasto).</string>
 
     <!-- install BlipBlip free -->
-    <string translatable="false" name="dialog_free_premium_title">Chcesz Premium za darmo?</string>
-    <string translatable="false" name="dialog_free_premium_description">Oglądaj reklamy w zamian za funkcje Premium w aplikacji %1$s.</string>
-    <string translatable="false" name="open_app">Otwórz</string>
-    <string translatable="false" name="install_app">Instaluj</string>
-    <string translatable="false" name="maybe_later">Może później</string>
+    <string name="dialog_free_premium_title">Chcesz Premium za darmo?</string>
+    <string name="dialog_free_premium_description">Oglądaj reklamy w zamian za funkcje Premium w aplikacji %1$s.</string>
+    <string name="open_app">Otwórz</string>
+    <string name="install_app">Instaluj</string>
+    <string name="maybe_later">Może później</string>
 
     <!-- tooltips -->
-    <string translatable="false" name="tooltip_play_next_button">Naciśnij, aby odtworzyć następne powiadomienie</string>
-    <string translatable="false" name="tooltip_upcoming_notifications">Naciśnij, aby zobaczyć nadchodzące powiadomienia</string>
-    <string translatable="false" name="tooltip_upcoming_notification">Naciśnij czas, aby odtworzyć nadchodzące powiadomienia</string>
+    <string name="tooltip_play_next_button">Naciśnij, aby odtworzyć następne powiadomienie</string>
+    <string name="tooltip_upcoming_notifications">Naciśnij, aby zobaczyć nadchodzące powiadomienia</string>
+    <string name="tooltip_upcoming_notification">Naciśnij czas, aby odtworzyć nadchodzące powiadomienia</string>
 
 </resources>

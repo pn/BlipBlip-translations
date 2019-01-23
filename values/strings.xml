@@ -47,9 +47,9 @@
     <string name="day_friday">Friday</string>
     <string name="day_saturday">Saturday</string>
     <string name="day_sunday">Sunday</string>
-    <string translatable="false" name="preview_upcoming_notifications">Preview upcoming notifications</string>
-    <string translatable="false" name="disable_premium_notifications">Disable Premium notifications</string>
-    <string translatable="false" name="remove_premium_features">Remove premium features</string>
+    <string name="preview_upcoming_notifications">Preview upcoming notifications</string>
+    <string name="disable_premium_notifications">Disable Premium notifications</string>
+    <string name="remove_premium_features">Remove premium features</string>
 
     <!-- Period -->
     <string name="repeat_every">Repeat every</string>
@@ -484,11 +484,11 @@
     <string name="color_next_notification_bar">Color next notification bar</string>
     <string name="color_next_notification_bar_on">Use color background for next notification bar.</string>
     <string name="color_next_notification_bar_off">Use gray background for next notification bar.</string>
-    <string translatable="false" name="night_mode">Night mode</string>
-    <string translatable="false" name="night_mode_on">On</string>
-    <string translatable="false" name="night_mode_off">Off</string>
-    <string translatable="false" name="night_mode_auto">Auto</string>
-    <string translatable="false" name="night_mode_system">System setting</string>
+    <string name="night_mode">Night mode</string>
+    <string name="night_mode_on">On</string>
+    <string name="night_mode_off">Off</string>
+    <string name="night_mode_auto">Auto</string>
+    <string name="night_mode_system">System setting</string>
     <string name="dark_theme">Dark theme</string>
     <string name="dark_theme_on">Use dark theme</string>
     <string name="dark_theme_off">Use light theme</string>
@@ -511,10 +511,10 @@
     <string name="edit">Edit</string> <!-- Name of action to edit list of sounds or list of vibrations, should be short -->
     <string name="editing">Editing</string> <!-- Displayed in edit mode -->
     <string name="error_file_open_failed">Failed to open file.</string>
-    <string translatable="false" name="error_file_open_no_permission">No permission to open the file.</string>
-    <string translatable="false" name="error_file_open_failed_no_permission_title">Grant permission manually</string>
-    <string translatable="false" name="error_file_open_failed_no_permission">No permission to open the file. Please open Settings and give permission to access storage.</string>
-    <string translatable="false" name="error_file_open_failed_settings">Open Settings</string>
+    <string name="error_file_open_no_permission">No permission to open the file.</string>
+    <string name="error_file_open_failed_no_permission_title">Grant permission manually</string>
+    <string name="error_file_open_failed_no_permission">No permission to open the file. Please open Settings and give permission to access storage.</string>
+    <string name="error_file_open_failed_settings">Open Settings</string>
     <string name="play_vibration">Vibrate</string> <!-- description of action of a button to perform vibration -->
     <string name="play_sound">Play sound</string> <!-- description of action of a button to play sound -->
     <string name="drag_handle">Drag handle</string>
@@ -525,8 +525,8 @@
     <string name="permission_denied">Permission denied</string>
     <string name="permission_denied_message">BlipBlip does not have permission to read the file.\nDo you want to install add-on which has this permission?\nYou can also use some other app which supports transferring files without need for additional permission (e.g. Google Drive).</string> <!-- TODO REMOVE -->
     <string name="permission_denied_message_no_addon">BlipBlip does not have permission to read the file.\nPlease use some other app that shares file without need for additional permission (e.g. Google Drive).</string>
-    <string translatable="false" name="permission_denied_rationale_title">Permission needed</string>
-    <string translatable="false" name="permission_denied_rationale">Application does not have permission to read the file. Please grant the app permission to access the file. You can also share the file using other app which does not need using this permission.</string>
+    <string name="permission_denied_rationale_title">Permission needed</string>
+    <string name="permission_denied_rationale">Application does not have permission to read the file. Please grant the app permission to access the file. You can also share the file using other app which does not need using this permission.</string>
     <string name="install">Install</string> <!-- action text for button to install additional app -->
     <string name="failed_run_addon">Failed to launch BlipBlip Add-on</string> <!-- TODO REMOVE -->
     <string name="update_required">Update required</string> <!-- TODO REMOVE -->
@@ -588,7 +588,7 @@
     <string name="snack_bar_text_item_removed">1 item removed</string>
     <string name="snack_bar_action_undo">UNDO</string>
 
-    <string translatable="false" name="add">Add</string>
+    <string name="add">Add</string>
     <string name="add_item">Add item</string>
     <string name="action_add_child_notification">Add child notification</string>
     <string name="action_add_notification">Add notification</string>
@@ -614,7 +614,7 @@
     <string name="no_upcoming_notifications">No upcoming notifications</string>
     <string name="error_indicator">Error indicator</string>
     <string name="next_notification_parent_off">Off (parent)</string>
-    <string translatable="false" name="next_notification_app_off">Off (app disabled)</string>
+    <string name="next_notification_app_off">Off (app disabled)</string>
     <string name="next_day">next day</string> <!-- Used in: "22:00 - 6:00 next day" -->
     <string name="notifications">Notifications</string>
     <string name="warning_no_email_app">No email application found to send the report.</string>
@@ -765,7 +765,7 @@
     <string name="month">month</string>
     <string name="month_very_short">mo.</string> <!-- shortcut for word "month", singular -->
     <string name="discount_save_money">Save</string> <!-- percent saved will be displayed below this text -->
-    <string name="premium_settings" translatable="false">Upgrade to Premium to unlock all settings</string>
+    <string name="premium_settings">Upgrade to Premium to unlock all settings</string>
     <string name="buy_premium">Buy Premium</string>
     <string name="use_free">Use free version</string>
     <string name="already_bought">Already bought</string>
@@ -778,45 +778,45 @@
     <string name="feature4">Say text or time</string>
     <string name="feature5">Add your own sounds</string>
     <string name="feature6">Priority support</string>
-    <string translatable="false" name="feature7">Night mode (dark theme)</string>
+    <string name="feature7">Night mode (dark theme)</string>
     <string name="feature_all_sounds">All sounds in the app</string>
     <string name="yearly_payment">Yearly payment.</string>
     <string name="free_trial_available">Free trial available.</string>
-    <string translatable="false" name="free_trial">Free trial.</string>
-    <string translatable="false" name="cancel_anytime">Cancel anytime.</string>
+    <string name="free_trial">Free trial.</string>
+    <string name="cancel_anytime">Cancel anytime.</string>
     <string name="premium_helps_support">By upgrading BlipBlip you not only get all features or sounds but you also support its continuous and independent development.</string>
-    <string translatable="false" name="loading">Loading…</string>
-    <string translatable="false" name="notification_has_premium_features">This notification uses Premium features</string>
+    <string name="loading">Loading…</string>
+    <string name="notification_has_premium_features">This notification uses Premium features</string>
 
     <!-- Premium Bar -->
-    <string translatable="false" name="bar_upgrade_to_enable_app">Upgrade to Premium</string>
-    <string translatable="false" name="bar_upgrade_to_enable_notification">Upgrade to Premium</string>
-    <string translatable="false" name="bar_upgrade">Buy now</string>
-    <string translatable="false" name="bar_uses_premium_features">Notifcation uses Premium features</string>
+    <string name="bar_upgrade_to_enable_app">Upgrade to Premium</string>
+    <string name="bar_upgrade_to_enable_notification">Upgrade to Premium</string>
+    <string name="bar_upgrade">Buy now</string>
+    <string name="bar_uses_premium_features">Notifcation uses Premium features</string>
 
     <!-- Premium dialog -->
-    <string translatable="false" name="premium_dialog_title">Premium</string>
-    <string translatable="false" name="premium_dialog_upgrade_now">Buy now</string>
-    <string translatable="false" name="premium_dialog_later">Later</string>
-    <string translatable="false" name="premium_icon_description">Premium star icon</string>
-    <string translatable="false" name="feature_user_sounds_title">User added sounds is a Premium feature</string>
-    <string translatable="false" name="feature_user_sounds_description">Make BlipBlip app yours by adding your own sounds.</string>
-    <string translatable="false" name="feature_premium_sounds_title">All sounds available in the app is a Premium feature</string>
-    <string translatable="false" name="feature_premium_sounds_description">Customize your notification with many built-in sounds.</string>
-    <string translatable="false" name="feature_strike_the_hour_title">Strike the hours is a Premium feature</string>
-    <string translatable="false" name="feature_strike_the_hour_description">"Create your own grandfather clock (e.g. plays 3 times at three o'clock)"</string>
-    <string translatable="false" name="feature_say_text_title">Saying text is a Premium feature</string>
-    <string translatable="false" name="feature_say_text_description">Use text to speech in your notifications.</string>
-    <string translatable="false" name="feature_say_time_title">Saying time is a Premium feature</string>
-    <string translatable="false" name="feature_say_time_description">Speak current time using text to speech.</string>
-    <string translatable="false" name="feature_custom_repeat_interval_title">Custom repeat interval is a Premium feature</string>
-    <string translatable="false" name="feature_custom_repeat_interval_description">Set any time interval (other than standard 1, 5, 10, 15, 20, 30 and 60 minutes).</string>
-    <string translatable="false" name="feature_general_title">Notification uses Premium functions</string>
-    <string translatable="false" name="feature_general_description">Upgrade to enable notification and enjoy all Premium features.</string>
-    <string translatable="false" name="feature_multiple_active_notifications_title">Unlimited active notifications is a Premium feature</string>
-    <string translatable="false" name="feature_multiple_active_notifications_description">Use many notifications with different settings at the same time (e.g. play twice at 12:00, play once at 12:30). In free version you can have one active notification.</string>
-    <string translatable="false" name="feature_unlimited_silent_time_title">Unlimited silent time configuratipons is a Premium feature</string>
-    <string translatable="false" name="feature_unlimited_silent_time_description">In free version you can activate 5 silent time configurations.</string>
+    <string name="premium_dialog_title">Premium</string>
+    <string name="premium_dialog_upgrade_now">Buy now</string>
+    <string name="premium_dialog_later">Later</string>
+    <string name="premium_icon_description">Premium star icon</string>
+    <string name="feature_user_sounds_title">User added sounds is a Premium feature</string>
+    <string name="feature_user_sounds_description">Make BlipBlip app yours by adding your own sounds.</string>
+    <string name="feature_premium_sounds_title">All sounds available in the app is a Premium feature</string>
+    <string name="feature_premium_sounds_description">Customize your notification with many built-in sounds.</string>
+    <string name="feature_strike_the_hour_title">Strike the hours is a Premium feature</string>
+    <string name="feature_strike_the_hour_description">"Create your own grandfather clock (e.g. plays 3 times at three o'clock)"</string>
+    <string name="feature_say_text_title">Saying text is a Premium feature</string>
+    <string name="feature_say_text_description">Use text to speech in your notifications.</string>
+    <string name="feature_say_time_title">Saying time is a Premium feature</string>
+    <string name="feature_say_time_description">Speak current time using text to speech.</string>
+    <string name="feature_custom_repeat_interval_title">Custom repeat interval is a Premium feature</string>
+    <string name="feature_custom_repeat_interval_description">Set any time interval (other than standard 1, 5, 10, 15, 20, 30 and 60 minutes).</string>
+    <string name="feature_general_title">Notification uses Premium functions</string>
+    <string name="feature_general_description">Upgrade to enable notification and enjoy all Premium features.</string>
+    <string name="feature_multiple_active_notifications_title">Unlimited active notifications is a Premium feature</string>
+    <string name="feature_multiple_active_notifications_description">Use many notifications with different settings at the same time (e.g. play twice at 12:00, play once at 12:30). In free version you can have one active notification.</string>
+    <string name="feature_unlimited_silent_time_title">Unlimited silent time configuratipons is a Premium feature</string>
+    <string name="feature_unlimited_silent_time_description">In free version you can activate 5 silent time configurations.</string>
 
     <string name="vibrate_seconds">Vibrate %ss</string> <!-- s at the end is for seconds, %s will be replaced vy value e.g. "Vibrate 1.2s" -->
     <string name="wait_and_vibrate_seconds">Wait %1$ss, vibrate %1$ss</string>
@@ -857,11 +857,11 @@
     <string name="manual_settings_general_tip2">Disable apps that optimize battery or memory usage (e.g. task killers)</string>
     <string name="manual_settings_general_tips_info">If your device requires changing other options, please let us now using "Report problem" option.</string>
     <string name="manual_settings_suggest_report_problem">If after trying above tips you would still have issues with the app, please report the problem.</string>
-    <string translatable="false" name="manual_settings_do_not_show_again">Do not show again</string>
-    <string translatable="false" name="manual_settings_are_you_sure">Are you sure?</string>
-    <string translatable="false" name="manual_settings_are_you_sure_description">"You won't receive any more warnings when this app gets killed."</string>
-    <string translatable="false" name="manual_settings_are_you_sure_yes">"Yes"</string>
-    <string translatable="false" name="manual_settings_are_you_sure_no">"No"</string>
+    <string name="manual_settings_do_not_show_again">Do not show again</string>
+    <string name="manual_settings_are_you_sure">Are you sure?</string>
+    <string name="manual_settings_are_you_sure_description">"You won't receive any more warnings when this app gets killed."</string>
+    <string name="manual_settings_are_you_sure_yes">"Yes"</string>
+    <string name="manual_settings_are_you_sure_no">"No"</string>
 
     <!-- Tips -->
     <string name="tip1">Add the app to Unmonitored Apps.</string>
@@ -916,91 +916,91 @@
     <string name="show_actions_switches_on">Show switches for disabling actions.</string>
     <string name="show_actions_switches_off">Hide switches for disabling actions.</string>
     <!-- Show kill dialog -->
-    <string translatable="false" name="show_kill_dialog_title">Notify if app was killed</string>
-    <string translatable="false" name="show_kill_dialog_on">Display message when opening the app if it was detected that the app was killed.</string>
-    <string translatable="false" name="show_kill_dialog_off">Do not display message when it was detected that the app was killed.</string>
+    <string name="show_kill_dialog_title">Notify if app was killed</string>
+    <string name="show_kill_dialog_on">Display message when opening the app if it was detected that the app was killed.</string>
+    <string name="show_kill_dialog_off">Do not display message when it was detected that the app was killed.</string>
 
     <!-- examples -->
-    <string translatable="false" name="double_sound_every_hour">Double sound every hour</string>
-    <string translatable="false" name="single_sound_half_past">Sound half past every hour</string>
-    <string translatable="false" name="speak_time_every_hour">Speak time every hour</string>
+    <string name="double_sound_every_hour">Double sound every hour</string>
+    <string name="single_sound_half_past">Sound half past every hour</string>
+    <string name="speak_time_every_hour">Speak time every hour</string>
 
     <!-- ads -->
-    <string translatable="false" name="remove_ads">Remove ads</string>
-    <string translatable="false" name="channel_name_watch_ads">Watch ads</string>
-    <string translatable="false" name="channel_name_premium_end_description">Get notified when you need to watch an ad to enjoy all Premium features for free</string>
+    <string name="remove_ads">Remove ads</string>
+    <string name="channel_name_watch_ads">Watch ads</string>
+    <string name="channel_name_premium_end_description">Get notified when you need to watch an ad to enjoy all Premium features for free</string>
 
-    <string translatable="false" name="watch_ads">Watch ads</string>
-    <string translatable="false" name="loading_ad">Loading ad...</string>
-    <string translatable="false" name="watch_ad_now">Watch ad now</string>
-    <string translatable="false" name="watch_video">Watch video ad</string>
-    <string translatable="false" name="subscribe_without_ads">Subscribe without ads</string>
-    <string translatable="false" name="start_free_trial">Start a free trial</string>
-    <string translatable="false" name="tooltip_accept_privacy_policy">Please check the box.</string>
-    <string translatable="false" name="welcome_to_blipBlip">Welcome to BlipBlip!</string>
-    <string translatable="false" name="blipblip_free_description_short">This app is free in exchange for watching ads.</string>
-    <string translatable="false" name="blipblip_free_description">This app is free in exchange for watching ads. You can access all Blip Blip Premium features and sounds for specified time period after watching an ad. The more you watch the longer you can use the app.</string>
-    <string translatable="false" name="blipblip_free_description2">There are no ads in user interface or popping up unexpectedly. You always choose when you want to watch an ad.</string>
-    <string translatable="false" name="watch_ad">Watch ad</string>
-    <string translatable="false" name="ad">Ad</string> <!-- Short label of button for watching ads -->
-    <string translatable="false" name="accept_privacy_policy">I accept privacy policy.</string>
-    <string translatable="false" name="ad_is_loading">Ad is loading. Please wait...</string>
-    <string translatable="false" name="get_blipblip">Want free app without ads and without Premium features? Get it here.</string>
-    <string translatable="false" name="privacy_policy">Privacy policy.</string>
-    <string translatable="false" name="get_time_of_premium">Get %1$s of Premium</string>
-    <string translatable="false" name="get_time_of_premium_more">Watch ad to use the app for additional: %s.</string>
-    <string translatable="false" name="premium_time_left">You have %s left using the app.</string>
-    <string translatable="false" name="app_was_enabled">App has been enabled!</string>
-    <string translatable="false" name="failed_loading_ad">Failed to load ad. Check your internet connection and try again.</string>
-    <string translatable="false" name="continue_with_ads">Continue with ads</string>
-    <string translatable="false" name="continue_with_relevant_question">Can we use your data to tailor ads for you?</string>
-    <string translatable="false" name="continue_with_relevant_ads">Yes, continue with relevant ads</string>
-    <string translatable="false" name="continue_with_less_relevant_ads">No, continue with less relevant ads</string>
-    <string translatable="false" name="watch_ads_to_get_next_notification">Watch ads to get next notification</string>
-    <string translatable="false" name="watch_ad_to_enable_app">Watch ad to enable app</string>
-    <string translatable="false" name="popup_watch_more_ads_to_get_notification">Watch more ads to get this notification</string>
+    <string name="watch_ads">Watch ads</string>
+    <string name="loading_ad">Loading ad...</string>
+    <string name="watch_ad_now">Watch ad now</string>
+    <string name="watch_video">Watch video ad</string>
+    <string name="subscribe_without_ads">Subscribe without ads</string>
+    <string name="start_free_trial">Start a free trial</string>
+    <string name="tooltip_accept_privacy_policy">Please check the box.</string>
+    <string name="welcome_to_blipBlip">Welcome to BlipBlip!</string>
+    <string name="blipblip_free_description_short">This app is free in exchange for watching ads.</string>
+    <string name="blipblip_free_description">This app is free in exchange for watching ads. You can access all Blip Blip Premium features and sounds for specified time period after watching an ad. The more you watch the longer you can use the app.</string>
+    <string name="blipblip_free_description2">There are no ads in user interface or popping up unexpectedly. You always choose when you want to watch an ad.</string>
+    <string name="watch_ad">Watch ad</string>
+    <string name="ad">Ad</string> <!-- Short label of button for watching ads -->
+    <string name="accept_privacy_policy">I accept privacy policy.</string>
+    <string name="ad_is_loading">Ad is loading. Please wait...</string>
+    <string name="get_blipblip">Want free app without ads and without Premium features? Get it here.</string>
+    <string name="privacy_policy">Privacy policy.</string>
+    <string name="get_time_of_premium">Get %1$s of Premium</string>
+    <string name="get_time_of_premium_more">Watch ad to use the app for additional: %s.</string>
+    <string name="premium_time_left">You have %s left using the app.</string>
+    <string name="app_was_enabled">App has been enabled!</string>
+    <string name="failed_loading_ad">Failed to load ad. Check your internet connection and try again.</string>
+    <string name="continue_with_ads">Continue with ads</string>
+    <string name="continue_with_relevant_question">Can we use your data to tailor ads for you?</string>
+    <string name="continue_with_relevant_ads">Yes, continue with relevant ads</string>
+    <string name="continue_with_less_relevant_ads">No, continue with less relevant ads</string>
+    <string name="watch_ads_to_get_next_notification">Watch ads to get next notification</string>
+    <string name="watch_ad_to_enable_app">Watch ad to enable app</string>
+    <string name="popup_watch_more_ads_to_get_notification">Watch more ads to get this notification</string>
 
     <!-- ads notifications -->
-    <string translatable="false" name="notif_premium_ended">Application disabled</string>
-    <string translatable="false" name="notif_premium_ended_description">Watch ad to enable it again.</string>
-    <string translatable="false" name="notif_stop_warn">Next notification won\'t be played</string>
-    <string translatable="false" name="notif_stop_warn_description">Watch ad to extend time for using the app</string>
+    <string name="notif_premium_ended">Application disabled</string>
+    <string name="notif_premium_ended_description">Watch ad to enable it again.</string>
+    <string name="notif_stop_warn">Next notification won\'t be played</string>
+    <string name="notif_stop_warn_description">Watch ad to extend time for using the app</string>
 
     <!-- ads settings -->
-    <string translatable="false" name="ads_notifications">Need of watching ad</string>
-    <string translatable="false" name="ads_notifications_on">You will get notifications about the need of watching ads</string>
-    <string translatable="false" name="ads_notifications_off">You won\'t get any notifications about watching ads</string>
-    <string translatable="false" name="ads_warn_app_disabled">Application disabled</string>
-    <string translatable="false" name="ads_warn_app_disabled_on">Notify when app is disabled because not enough ads were watched</string>
-    <string translatable="false" name="ads_warn_app_disabled_off">Do not notify when app will be disabled when not enough ads were watched</string>
-    <string translatable="false" name="ads_warn_next_notification">Next notification</string>
-    <string translatable="false" name="ads_warn_next_notification_on">Notify when next notification won\'t be played because not enough ads were watched</string>
-    <string translatable="false" name="ads_warn_next_notification_off">Do no notify when next notification won\'t be played because not enough ads were watched</string>
+    <string name="ads_notifications">Need of watching ad</string>
+    <string name="ads_notifications_on">You will get notifications about the need of watching ads</string>
+    <string name="ads_notifications_off">You won\'t get any notifications about watching ads</string>
+    <string name="ads_warn_app_disabled">Application disabled</string>
+    <string name="ads_warn_app_disabled_on">Notify when app is disabled because not enough ads were watched</string>
+    <string name="ads_warn_app_disabled_off">Do not notify when app will be disabled when not enough ads were watched</string>
+    <string name="ads_warn_next_notification">Next notification</string>
+    <string name="ads_warn_next_notification_on">Notify when next notification won\'t be played because not enough ads were watched</string>
+    <string name="ads_warn_next_notification_off">Do no notify when next notification won\'t be played because not enough ads were watched</string>
 
     <!-- Privacy settings -->
-    <string translatable="false" name="privacy">Privacy</string>
-    <string translatable="false" name="ads">Ads</string>
-    <string translatable="false" name="pref_personalized_ads">Personalized ads</string>
-    <string translatable="false" name="pref_personalized_ads_on">Ads will be personalized.</string>
-    <string translatable="false" name="pref_personalized_ads_off">Your data will not be used to personalize ads.</string>
-    <string translatable="false" name="pref_analytics">Analytics</string>
-    <string translatable="false" name="pref_collect_analytics">Collect anonymous data</string>
-    <string translatable="false" name="pref_collect_analytics_on">Collect anonymous, aggregated data to improve app experience.</string>
-    <string translatable="false" name="pref_collect_analytics_off">Do not collect any data.</string>
-    <string translatable="false" name="pref_analytics_anonymize_ip">Anonymize location</string>
-    <string translatable="false" name="pref_analytics_anonymize_ip_on">Anonymize IP address sent to determine user location</string>
-    <string translatable="false" name="pref_analytics_anonymize_ip_off">Use full IP address only for detemining user\'s general location (country, city).</string>
+    <string name="privacy">Privacy</string>
+    <string name="ads">Ads</string>
+    <string name="pref_personalized_ads">Personalized ads</string>
+    <string name="pref_personalized_ads_on">Ads will be personalized.</string>
+    <string name="pref_personalized_ads_off">Your data will not be used to personalize ads.</string>
+    <string name="pref_analytics">Analytics</string>
+    <string name="pref_collect_analytics">Collect anonymous data</string>
+    <string name="pref_collect_analytics_on">Collect anonymous, aggregated data to improve app experience.</string>
+    <string name="pref_collect_analytics_off">Do not collect any data.</string>
+    <string name="pref_analytics_anonymize_ip">Anonymize location</string>
+    <string name="pref_analytics_anonymize_ip_on">Anonymize IP address sent to determine user location</string>
+    <string name="pref_analytics_anonymize_ip_off">Use full IP address only for detemining user\'s general location (country, city).</string>
 
     <!-- install BlipBlip free -->
-    <string translatable="false" name="dialog_free_premium_title">Want Premium free?</string>
-    <string translatable="false" name="dialog_free_premium_description">Watch ads in exchange for Premium features in %1$s app.</string>
-    <string translatable="false" name="open_app">Open</string>
-    <string translatable="false" name="install_app">Install</string>
-    <string translatable="false" name="maybe_later">Maybe later</string>
+    <string name="dialog_free_premium_title">Want Premium free?</string>
+    <string name="dialog_free_premium_description">Watch ads in exchange for Premium features in %1$s app.</string>
+    <string name="open_app">Open</string>
+    <string name="install_app">Install</string>
+    <string name="maybe_later">Maybe later</string>
 
     <!-- tooltips -->
-    <string translatable="false" name="tooltip_play_next_button">Press to play next notification</string>
-    <string translatable="false" name="tooltip_upcoming_notifications">Tap to see upcoming notifications</string>
-    <string translatable="false" name="tooltip_upcoming_notification">Press time to play back upcoming notifications</string>
+    <string name="tooltip_play_next_button">Press to play next notification</string>
+    <string name="tooltip_upcoming_notifications">Tap to see upcoming notifications</string>
+    <string name="tooltip_upcoming_notification">Press time to play back upcoming notifications</string>
 
 </resources>
