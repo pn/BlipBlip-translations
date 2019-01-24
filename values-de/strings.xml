@@ -713,10 +713,10 @@
     <string name="application_default">Applikationsvoreinstellung</string>
     <string name="speak_time_format_with_minutes">Gesprochene Zeit mit Minuten</string>
     <string name="speak_time_on_the_hour">Gesprochene Zeit an Vollstunden</string>
-    <string name="tts_not_initialized">Die Text-to-Speech-Engine wurde noch nicht initialisiert</string>
-    <string name="tts_test_say_time_title">Testzeit sagen</string>
-    <string name="tts_system_settings_title">Systemeinstellungen</string>
-    <string name="tts_system_settings_summary">Öffnen Sie Systemtext zu Spracheinstellungen</string>
+    <string name="tts_not_initialized">Die Text-to-Speech-Engine wurde noch nicht initialisiert</string> <!-- TODO validate -->
+    <string name="tts_test_say_time_title">Testzeit sagen</string> <!-- TODO validate -->
+    <string name="tts_system_settings_title">Systemeinstellungen</string> <!-- TODO validate -->
+    <string name="tts_system_settings_summary">Öffnen Sie Systemtext zu Spracheinstellungen</string> <!-- TODO validate -->
     <string name="pref_tts_overlaps_sounds">Overlap sounds</string> <!-- TODO translate -->
     <string name="pref_tts_overlaps_sounds_on">Speaking will overlap sounds</string> <!-- TODO translate -->
     <string name="pref_tts_overlaps_sounds_off">Speaking will not overlap sounds (sound will play before or after speaking)</string> <!-- TODO translate -->
