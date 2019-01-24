@@ -15,7 +15,7 @@
     <string name="allow_while_idle_title">Разрешаване при падаща батерия</string>
     <string name="allow_while_idle_off">Когато телефонът влезе в режим на падаща батерия, някои известия може да бъдат пропуснати.</string>
     <string name="allow_while_idle_on">Разрешаване при падаща батерия (Doze/Idle). Може да не работи при известия по-чести от 15 минути. Настройката може леко да повлияе на използването на батерията.</string>
-    <string name="app_killed_title">App was killed</string> <!-- TODO translate -->
+    <string name="app_killed_title">"App was killed"</string> <!-- TODO translate -->
 
     <!-- Next Notification -->
     <string name="next_notification_off">Изкл.</string>
@@ -29,14 +29,14 @@
     <string name="day_friday">Петък</string>
     <string name="day_saturday">Събота</string>
     <string name="day_sunday">Неделя</string>
-    <string name="preview_upcoming_notifications">Preview upcoming notifications</string> <!-- TODO translate -->
-    <string name="disable_premium_notifications">Disable Premium notifications</string> <!-- TODO translate -->
+    <string name="preview_upcoming_notifications">"Preview upcoming notifications"</string> <!-- TODO translate -->
+    <string name="disable_premium_notifications">"Disable Premium notifications"</string> <!-- TODO translate -->
 
     <!-- Sound -->
     <string name="sound_text">Мелодия</string>
-    <string name="sound_blipblip">BlipBlip</string> <!-- translated -->
+    <string name="sound_blipblip">BlipBlip</string>
     <string name="sound_casio_watch">Casio</string>
-    <string name="sound_casio_watch_single">Casio watch (single)</string> <!-- TODO translate -->
+    <string name="sound_casio_watch_single">"Casio watch (single)"</string> <!-- TODO translate -->
     <string name="sound_gong">Гонг</string>
     <string name="sound_ships_bell">Корабна камбана</string>
     <string name="sound_double_ships_bell">Двойна корабна камбана</string>
@@ -46,26 +46,26 @@
     <string name="sound_big_ben_strikes">Биг Бен кръгъл час</string>
     <string name="sound_bubble">Мехурче</string>
     <string name="sound_bird">Птица %1$s</string>
-    <string name="sound_cartoon">Cartoon %1$s</string> <!-- TODO translate -->
+    <string name="sound_cartoon">"Cartoon %1$s"</string> <!-- TODO translate -->
     <string name="sound_cat">Котка %1$s</string>
     <string name="sound_dog">Куче %1$s</string>
     <string name="sound_rooster">Петел</string>
-    <string name="sound_guitar_strum">Guitar strum %1$s</string> <!-- TODO translate -->
-    <string name="sound_water_drop">Water drop %1$s</string> <!-- TODO translate -->
-    <string name="sound_water_pouring">Water pouring %1$s</string> <!-- TODO translate -->
-    <string name="sound_sonar_ping">Sonar ping %1$s</string> <!-- TODO translate -->
-    <string name="sound_inception">Inception %1$s</string> <!-- TODO translate -->
-    <string name="sound_the_pips">The pips</string> <!-- TODO translate -->
-    <string name="sound_short_pip">Short pip</string> <!-- TODO translate -->
-    <string name="sound_long_pip">Long pip</string> <!-- TODO translate -->
-    <string name="sound_crystal_glass">Crystal glass</string> <!-- TODO translate -->
-    <string name="sound_ping">Ping</string> <!-- TODO translate -->
-    <string name="sound_gong_num">Gong %1$s</string> <!-- TODO translate -->
-    <string name="sound_boxing_bell">Boxing bell</string> <!-- TODO translate -->
-    <string name="sound_singing_bowl">Singing bowl %1$s</string> <!-- TODO translate -->
-    <string name="sound_ekg">Heart monitor %1$s</string> <!-- TODO translate -->
-    <string name="sound_got_item">Got item</string> <!-- TODO translate -->
-    <string name="sound_guitar">Guitar</string> <!-- TODO translate -->
+    <string name="sound_guitar_strum">"Guitar strum %1$s"</string> <!-- TODO translate -->
+    <string name="sound_water_drop">"Water drop %1$s"</string> <!-- TODO translate -->
+    <string name="sound_water_pouring">"Water pouring %1$s"</string> <!-- TODO translate -->
+    <string name="sound_sonar_ping">"Sonar ping %1$s"</string> <!-- TODO translate -->
+    <string name="sound_inception">"Inception %1$s"</string> <!-- TODO translate -->
+    <string name="sound_the_pips">"The pips"</string> <!-- TODO translate -->
+    <string name="sound_short_pip">"Short pip"</string> <!-- TODO translate -->
+    <string name="sound_long_pip">"Long pip"</string> <!-- TODO translate -->
+    <string name="sound_crystal_glass">"Crystal glass"</string> <!-- TODO translate -->
+    <string name="sound_ping">"Ping"</string> <!-- TODO translate -->
+    <string name="sound_gong_num">"Gong %1$s"</string> <!-- TODO translate -->
+    <string name="sound_boxing_bell">"Boxing bell"</string> <!-- TODO translate -->
+    <string name="sound_singing_bowl">"Singing bowl %1$s"</string> <!-- TODO translate -->
+    <string name="sound_ekg">"Heart monitor %1$s"</string> <!-- TODO translate -->
+    <string name="sound_got_item">"Got item"</string> <!-- TODO translate -->
+    <string name="sound_guitar">"Guitar"</string> <!-- TODO translate -->
 
     <!-- Volume -->
     <string name="text_seek_volume">Сила на звука</string>
@@ -165,7 +165,7 @@
     <string name="pref_notification_always_on">Показвай известие без значение дали е разрешено</string>
     <string name="pref_notification_always_off">Показвай известие само ако е разрешено</string>
     <string name="notification_settings_updated">Обновени са настройки на известието</string> <!-- message displayed when one of notification settings is updated without user interacting with these options -->
-    <string name="permanent_notification">Permanent notification</string> <!-- TODO translate -->
+    <string name="permanent_notification">"Permanent notification"</string> <!-- TODO translate -->
 
     <!-- Notification Priority -->
     <string name="pref_notification_priority">Предимство на известието</string>
@@ -178,9 +178,9 @@
     <!-- Dismissible Notification -->
 
     <!-- Auto dismiss -->
-    <string name="auto_dismiss_notification_title">Auto dismiss notification</string> <!-- TODO translate -->
-    <string name="auto_dismiss_notification_on">Dismiss notification automatically after some time.</string> <!-- TODO translate -->
-    <string name="auto_dismiss_notification_off">Notification will not be dismissed automatically.</string> <!-- TODO translate -->
+    <string name="auto_dismiss_notification_title">"Auto dismiss notification"</string> <!-- TODO translate -->
+    <string name="auto_dismiss_notification_on">"Dismiss notification automatically after some time."</string> <!-- TODO translate -->
+    <string name="auto_dismiss_notification_off">"Notification will not be dismissed automatically."</string> <!-- TODO translate -->
 
     <!-- Vibrate on Wear -->
     <string name="pref_vibrate_wear_title">Вибрация на Wear</string>
@@ -248,7 +248,7 @@
     <string name="pref_experimental">Тестови настройки</string>
     <string name="experimental_warning">Това са пробни настройки и може да бъдат премахнати в бъдеще.</string>
     <string name="title_experimental_settings">Тестови настройки</string>
-    <string name="huawei_fix">Huawei fix</string> <!-- TODO translate -->
+    <string name="huawei_fix">"Huawei fix"</string> <!-- TODO translate -->
 
     <!-- Time Offset -->
 
@@ -268,8 +268,8 @@
     <string name="rate_us_message">Благодарим Ви за отделеното време.</string>
     <string name="rate_us_onetofourstars">от 1 до 4 звезди</string>
     <string name="rate_us_fivestars">5 звезди!</string>
-    <string name="five_stars_description">Five stars</string> <!-- TODO translate -->
-    <string name="five_stars_title">Love BlipBlip?</string> <!-- TODO translate -->
+    <string name="five_stars_description">"Five stars"</string> <!-- TODO translate -->
+    <string name="five_stars_title">"Love BlipBlip?"</string> <!-- TODO translate -->
     <string name="five_stars_text">Rate us 5 stars to help make BlipBlip even more awesome. Thanks!</string>
 
     <!-- Menu - Error -->
@@ -290,10 +290,10 @@
     <string name="about_graphics">Дизайн</string>
     <string name="about_translations">Преводи</string>
     <string name="about_thank_you">Благодаря</string>
-    <string name="about_images">Images</string> <!-- TODO translate -->
+    <string name="about_images">"Images"</string> <!-- TODO translate -->
     <string name="about_libraries">Библиотеки</string> <!-- title of screen showing licenses of programming libraries used by the app -->
     <string name="about_acknowledgements">Благодарности</string> <!-- name of screen with authors, translators and other people who have helped -->
-    <string name="about_translators_thank_you">BlipBlip is translated by our users voluntarily and hereby we thank you for your support and contribution.</string> <!-- TODO translate -->
+    <string name="about_translators_thank_you">"BlipBlip is translated by our users voluntarily and hereby we thank you for your support and contribution."</string> <!-- TODO translate -->
 
     <!-- Visual -->
     <string name="pref_visual">Графични настройки</string>
@@ -356,7 +356,7 @@
     <string name="time_format_12h">12 часов</string>
     <string name="time_format_24h">24 часов</string>
 
-    <string name="theme_blipblip">BlipBlip</string> <!-- translated -->
+    <string name="theme_blipblip">BlipBlip</string>
     <string name="theme_standard">Обикновена</string>
     <string name="theme_blue">Синя</string>
     <string name="theme_yellow">Жълта</string>
@@ -366,8 +366,8 @@
     <string name="theme_blue_gray">Синьо-сива</string>
     <string name="theme_orange">Оранжева</string>
     <string name="theme_indigo">Индиго</string>
-    <string name="theme_cyan">Cyan</string> <!-- TODO translate -->
-    <string name="theme_teal">Teal</string> <!-- TODO translate -->
+    <string name="theme_cyan">"Cyan"</string> <!-- TODO translate -->
+    <string name="theme_teal">"Teal"</string> <!-- TODO translate -->
 
     <string name="pref_color_theme">Тема</string>
     <string name="cycle_themes_message">Превключвайте темите чрез копчетата за звука.</string>
@@ -377,16 +377,16 @@
     <string name="color_next_notification_bar">Оцветяване на полето на следващото известие</string>
     <string name="color_next_notification_bar_on">Използвай цветен фон за следващото известие.</string>
     <string name="color_next_notification_bar_off">Използвай сив фон за следващото известие.</string>
-    <string name="night_mode">Night mode</string> <!-- TODO translate -->
-    <string name="night_mode_on">On</string> <!-- TODO translate -->
-    <string name="night_mode_off">Off</string> <!-- TODO translate -->
-    <string name="night_mode_auto">Auto</string> <!-- TODO translate -->
-    <string name="night_mode_system">System setting</string> <!-- TODO translate -->
+    <string name="night_mode">"Night mode"</string> <!-- TODO translate -->
+    <string name="night_mode_on">"On"</string> <!-- TODO translate -->
+    <string name="night_mode_off">"Off"</string> <!-- TODO translate -->
+    <string name="night_mode_auto">"Auto"</string> <!-- TODO translate -->
+    <string name="night_mode_system">"System setting"</string> <!-- TODO translate -->
 
     <string name="title_activity_sounds">Звуци</string>
-    <string name="title_activity_sound">@string/sound_text</string>
+    <string name="title_activity_sound">@string/sound_text</string> <!-- TODO translate ""@string/sound_text""-->
     <string name="title_activity_vibrations">Вибрации</string>
-    <string name="title_activity_vibration">@string/vibrate</string>
+    <string name="title_activity_vibration">@string/vibrate</string> <!-- TODO translate ""@string/vibrate""-->
     <string name="action_delete">Изтрий</string>
     <string name="action_add_vibration_pattern">Създаване</string>
     <string name="dialog_title_deletion">Потвърждаване на изтриването</string>
@@ -398,19 +398,20 @@
     <string name="edit">Редактирай</string> <!-- Name of action to edit list of sounds or list of vibrations, should be short -->
     <string name="editing">Редактиране</string> <!-- Displayed in edit mode -->
     <string name="error_file_open_failed">Неуспешно отваряне на файла.</string>
-    <string name="error_file_open_no_permission">No permission to open the file.</string> <!-- TODO translate -->
-    <string name="error_file_open_failed_no_permission_title">Grant permission manually</string> <!-- TODO translate -->
-    <string name="error_file_open_failed_no_permission">No permission to open the file. Please open Settings and give permission to access storage.</string> <!-- TODO translate -->
-    <string name="error_file_open_failed_settings">Open Settings</string> <!-- TODO translate -->
+    <string name="error_file_open_no_permission">"No permission to open the file."</string> <!-- TODO translate -->
+    <string name="error_file_open_failed_no_permission_title">"Grant permission manually"</string> <!-- TODO translate -->
+    <string name="error_file_open_failed_no_permission">"No permission to open the file. Please open Settings and give permission to access storage."</string> <!-- TODO translate -->
+    <string name="error_file_open_failed_settings">"Open Settings"</string> <!-- TODO translate -->
     <string name="play_vibration">Вибрирай</string> <!-- description of action of a button to perform vibration -->
     <string name="play_sound">Изпълни звука</string> <!-- description of action of a button to play sound -->
-    <string name="drag_handle">Drag handle</string> <!-- TODO translate -->
+    <string name="drag_handle">"Drag handle"</string> <!-- TODO translate -->
     <string name="select_audio_file">Избор на звуков файл</string>
     <string name="add_sound_to_blipblip">Добави в BlipBlip</string>
     <string name="permission_denied">Отказан достъп</string>
-    <string name="permission_denied_message_no_addon">BlipBlip няма права за четене на този файл.\nМоля, използвайте друго приложение, което споделя файлове без нужда от допълнителни права (напр. Гугъл Диск).</string>
-    <string name="permission_denied_rationale_title">Permission needed</string> <!-- TODO translate -->
-    <string name="permission_denied_rationale">Application does not have permission to read the file. Please grant the app permission to access the file. You can also share the file using other app which does not need using this permission.</string> <!-- TODO translate -->
+    <string name="permission_denied_message_no_addon">BlipBlip няма права за четене на този файл.</string>
+    <string name="permission_denied_message_no_addon_part2">"Моля, използвайте друго приложение, което споделя файлове без нужда от допълнителни права (напр. Гугъл Диск)."</string>
+    <string name="permission_denied_rationale_title">"Permission needed"</string> <!-- TODO translate -->
+    <string name="permission_denied_rationale">"Application does not have permission to read the file. Please grant the app permission to access the file. You can also share the file using other app which does not need using this permission."</string> <!-- TODO translate -->
 
     <!-- Menu drawer strings -->
 
@@ -418,7 +419,7 @@
     <string name="start_time">Начален час</string>
     <string name="end_time">Краен час</string>
     <string name="whole_day">Целия ден</string>
-    <string name="enable_screen">Enable screen</string> <!-- TODO translate -->
+    <string name="enable_screen">"Enable screen"</string> <!-- TODO translate -->
     <string name="action_rename">Преименувай</string>
     <string name="pref_accessibility">Достъпност</string>
     <string name="pref_swipe">Замахване</string>
@@ -443,7 +444,7 @@
     <string name="notification_disabled_warning">Известието е забранено</string>
     <string name="social_facebook">Фейсбук</string>
     <string name="social_twitter">Туитър</string>
-    <string name="social_google_plus">Google+</string> <!-- translated -->
+    <string name="social_google_plus">Google+</string>
     <string name="social_google_plus_community">Общество в Google+</string>
     <string name="troubleshooting">Откриване на нередности</string>
     <string name="premium_features">Допълнителни платени функции</string>
@@ -452,7 +453,7 @@
     <string name="disable_when_headset_off">Всички известия са включени</string>
     <string name="disable_when_headset_toast">Известията от BlipBlip са изключени, понеже сте свързали слушалки.</string>
 
-    <string name="add">Add</string> <!-- TODO translate -->
+    <string name="add">"Add"</string> <!-- TODO translate -->
     <string name="add_item">Добавяне</string>
     <string name="action_add_condition">Добавяне на условие</string>
     <string name="dialog_title_days_of_week">Дни от седмицата</string>
@@ -474,7 +475,7 @@
     <string name="no_valid_condition_added">Не бяха описани действителни условия</string>
     <string name="no_upcoming_notifications">Няма предстоящи известия</string>
     <string name="error_indicator">Показател за грешка</string>
-    <string name="next_notification_app_off">Off (app disabled)</string> <!-- TODO translate -->
+    <string name="next_notification_app_off">"Off (app disabled)"</string> <!-- TODO translate -->
     <string name="next_day">на следващия ден</string> <!-- Used in: "22:00 - 6:00 next day" -->
     <string name="notifications">Известия</string>
     <string name="warning_no_email_app">Не бе открито приложение за пращане на ел. писмо с доклада.</string>
@@ -488,8 +489,11 @@
     <string name="advice_disable_task_killers">Забранете оптимизиращи приложения</string>
     <string name="advice_disable_task_killers_desc">Несистемни приложения за оптимизация трябва да бъдат изключени или BlipBlip да бъде вписан в белия им списък с позволени приложения, за да работи безпрепятствено.</string>
     <string name="advice_enable_foreground_service">Разрешете услугата на преден план</string>
-    <string name="advice_enable_foreground_service_desc2"><p>Възможността за услуга на преден план уведомява Андроид, че приложението не трябва да бъде прекратявано, ако не е наложително.</p>\n<p>Ще показва постоянно известие, което не може да бъде скрито.</p>\n<p>Може да използвате долния бутон за да влезете в системните настройки.</p></string>
-	<string name="sound_in_use">Звукът се използва и не може да бъде изтрит.</string>
+    <string name="advice_enable_foreground_service_desc2">Възможността за услуга на преден план уведомява Андроид, че приложението не трябва да бъде прекратявано, ако не е наложително.</string>
+    <string name="advice_enable_foreground_service_desc2_part2">"Ще показва постоянно известие, което не може да бъде скрито."</string>
+    <string name="advice_enable_foreground_service_desc2_part3">"Може да използвате долния бутон за да влезете в системните настройки."</string>
+
+    <string name="sound_in_use">Звукът се използва и не може да бъде изтрит.</string>
     <string name="vibration_in_use">Вибрацията се използва и не може да бъде изтрита.</string>
     <string name="sound_not_found">Не бе открит звук</string> <!-- for sound -->
     <string name="vibration_not_found">Не бе открита вибрация</string> <!-- for vibration -->
@@ -517,7 +521,7 @@
     <string name="inclusive_time">включително</string> <!-- used in the time range dialog to determine if edge value should be included -->
 
     <string name="pref_user_notifications">Потребителски известия</string>
-    <string name="user_notification">User notification</string> <!-- TODO translate -->
+    <string name="user_notification">"User notification"</string> <!-- TODO translate -->
 
     <string name="action_set_as_home_screens">Задай като начален екран</string>
 
@@ -528,7 +532,7 @@
     <string name="mode_vibration_title">Разрешаване на вибрации</string>
     <string name="mode_vibration_on">Вибрациите са разрешени в този режим</string>
     <string name="mode_vibration_off">Вибрациите са забранени в този режим</string>
-    <string name="mode_screen_title">Enabling screen allowed</string> <!-- TODO translate -->
+    <string name="mode_screen_title">"Enabling screen allowed"</string> <!-- TODO translate -->
     <string name="mode_screen_on">Screen is allowed to be enabled в този режим</string>
     <string name="mode_screen_off">Screen will not be enabled в този режим</string>
     <string name="battery_saver_preferences_warning">Тези функци може да не работят на всички устройства.</string>
@@ -559,20 +563,20 @@
     <string name="action_say_time">Изречи време</string>
     <string name="feature_say_text">Изречи текст</string>
     <string name="feature_say_time">Изречи време</string>
-    <string name="pref_text_to_speech_engine">Engine</string> <!-- TODO translate -->
-    <string name="pref_text_to_speech_voice">Voice</string> <!-- TODO translate -->
+    <string name="pref_text_to_speech_engine">"Engine"</string> <!-- TODO translate -->
+    <string name="pref_text_to_speech_voice">"Voice"</string> <!-- TODO translate -->
     <string name="pref_text_to_speech">Текст за произнасяне</string>
-    <string name="system_default_audio_stream">@string/setting_system_default</string>
+    <string name="system_default_audio_stream">@string/setting_system_default</string> <!-- TODO translate ""@string/setting_system_default""-->
     <string name="application_default">По подразбиране</string>
     <string name="speak_time_format_with_minutes">Прочети часа с минутите</string>
     <string name="speak_time_on_the_hour">Произнасяне на кръглия час</string>
     <string name="tts_not_initialized">TTS engine not yet initialized</string>
-    <string name="tts_test_say_time_title">Test saying time</string> <!-- TODO translate -->
-    <string name="tts_system_settings_title">System settings</string> <!-- TODO translate -->
-    <string name="tts_system_settings_summary">Open system text to speech settings</string> <!-- TODO translate -->
-    <string name="pref_tts_overlaps_sounds">Overlap sounds</string> <!-- TODO translate -->
-    <string name="pref_tts_overlaps_sounds_on">Speaking will overlap sounds</string> <!-- TODO translate -->
-    <string name="pref_tts_overlaps_sounds_off">Speaking will not overlap sounds (sound will play before or after speaking)</string> <!-- TODO translate -->
+    <string name="tts_test_say_time_title">"Test saying time"</string> <!-- TODO translate -->
+    <string name="tts_system_settings_title">"System settings"</string> <!-- TODO translate -->
+    <string name="tts_system_settings_summary">"Open system text to speech settings"</string> <!-- TODO translate -->
+    <string name="pref_tts_overlaps_sounds">"Overlap sounds"</string> <!-- TODO translate -->
+    <string name="pref_tts_overlaps_sounds_on">"Speaking will overlap sounds"</string> <!-- TODO translate -->
+    <string name="pref_tts_overlaps_sounds_off">"Speaking will not overlap sounds (sound will play before or after speaking)"</string> <!-- TODO translate -->
 
     <string name="operating_modes_settings">Режими на действие</string> <!-- name of menu with different mode settings e.g. Do Not Disturb, vibrate mode -->
     <string name="operating_modes_settings_summary">Не безпокой, Само вибрация и т.н.</string>
@@ -597,145 +601,145 @@
     <string name="premium_sound_lock">Това е платен звук, който изисква отключване, преди да бъде използван.</string>
     <string name="premium_feature_lock">Това е допълнителна платена възможност, която изисква отключване преди употреба.</string>
     <string name="change_subscription">Смяна на абонамента</string>
-    <string name="upgrade_to_pro">Upgrade</string> <!-- TODO translate -->
-    <string name="loading_failed">Error</string> <!-- TODO translate -->
-    <string name="month_very_short">mo.</string> <!-- TODO translate --> <!-- shortcut for word "month", singular -->
-    <string name="discount_save_money">Save</string> <!-- TODO translate --> <!-- percent saved will be displayed below this text -->
-    <string name="premium_settings">Upgrade to Premium to unlock all settings</string> <!-- TODO translate -->
-    <string name="buy_premium">Buy Premium</string> <!-- TODO translate -->
-    <string name="already_bought">Already bought</string> <!-- TODO translate -->
-    <string name="get_all_features">Get all features</string> <!-- TODO translate -->
-    <string name="get_all_sounds">Get all sounds</string> <!-- TODO translate -->
-    <string name="premium_what_you_get">What you will get:</string> <!-- TODO translate -->
-    <string name="feature1">Unlimited active notifications</string> <!-- TODO translate -->
-    <string name="feature2">Strike the hours</string> <!-- TODO translate -->
-    <string name="feature3">Custom repeat interval</string> <!-- TODO translate -->
-    <string name="feature4">Say text or time</string> <!-- TODO translate -->
-    <string name="feature5">Add your own sounds</string> <!-- TODO translate -->
-    <string name="feature6">Priority support</string> <!-- TODO translate -->
-    <string name="feature7">Night mode (dark theme)</string> <!-- TODO translate -->
-    <string name="feature_all_sounds">All sounds in the app</string> <!-- TODO translate -->
-    <string name="yearly_payment">Yearly payment.</string> <!-- TODO translate -->
-    <string name="free_trial">Free trial.</string> <!-- TODO translate -->
-    <string name="cancel_anytime">Cancel anytime.</string> <!-- TODO translate -->
-    <string name="premium_helps_support">By upgrading BlipBlip you not only get all features or sounds but you also support its continuous and independent development.</string> <!-- TODO translate -->
-    <string name="loading">Loading…</string> <!-- TODO translate -->
-    <string name="notification_has_premium_features">This notification uses Premium features</string> <!-- TODO translate -->
+    <string name="upgrade_to_pro">"Upgrade"</string> <!-- TODO translate -->
+    <string name="loading_failed">"Error"</string> <!-- TODO translate -->
+    <string name="month_very_short">"mo."</string> <!-- TODO translate --> <!-- shortcut for word "month", singular -->
+    <string name="discount_save_money">"Save"</string> <!-- TODO translate --> <!-- percent saved will be displayed below this text -->
+    <string name="premium_settings">"Upgrade to Premium to unlock all settings"</string> <!-- TODO translate -->
+    <string name="buy_premium">"Buy Premium"</string> <!-- TODO translate -->
+    <string name="already_bought">"Already bought"</string> <!-- TODO translate -->
+    <string name="get_all_features">"Get all features"</string> <!-- TODO translate -->
+    <string name="get_all_sounds">"Get all sounds"</string> <!-- TODO translate -->
+    <string name="premium_what_you_get">"What you will get:"</string> <!-- TODO translate -->
+    <string name="feature1">"Unlimited active notifications"</string> <!-- TODO translate -->
+    <string name="feature2">"Strike the hours"</string> <!-- TODO translate -->
+    <string name="feature3">"Custom repeat interval"</string> <!-- TODO translate -->
+    <string name="feature4">"Say text or time"</string> <!-- TODO translate -->
+    <string name="feature5">"Add your own sounds"</string> <!-- TODO translate -->
+    <string name="feature6">"Priority support"</string> <!-- TODO translate -->
+    <string name="feature7">"Night mode (dark theme)"</string> <!-- TODO translate -->
+    <string name="feature_all_sounds">"All sounds in the app"</string> <!-- TODO translate -->
+    <string name="yearly_payment">"Yearly payment."</string> <!-- TODO translate -->
+    <string name="free_trial">"Free trial."</string> <!-- TODO translate -->
+    <string name="cancel_anytime">"Cancel anytime."</string> <!-- TODO translate -->
+    <string name="premium_helps_support">"By upgrading BlipBlip you not only get all features or sounds but you also support its continuous and independent development."</string> <!-- TODO translate -->
+    <string name="loading">"Loading…"</string> <!-- TODO translate -->
+    <string name="notification_has_premium_features">"This notification uses Premium features"</string> <!-- TODO translate -->
 
     <!-- Premium Bar -->
-    <string name="bar_upgrade_to_enable_app">Upgrade to Premium</string> <!-- TODO translate -->
-    <string name="bar_upgrade_to_enable_notification">Upgrade to Premium</string> <!-- TODO translate -->
-    <string name="bar_upgrade">Buy now</string> <!-- TODO translate -->
-    <string name="bar_uses_premium_features">Notifcation uses Premium features</string> <!-- TODO translate -->
+    <string name="bar_upgrade_to_enable_app">"Upgrade to Premium"</string> <!-- TODO translate -->
+    <string name="bar_upgrade_to_enable_notification">"Upgrade to Premium"</string> <!-- TODO translate -->
+    <string name="bar_upgrade">"Buy now"</string> <!-- TODO translate -->
+    <string name="bar_uses_premium_features">"Notifcation uses Premium features"</string> <!-- TODO translate -->
 
     <!-- Premium dialog -->
-    <string name="premium_dialog_title">Premium</string> <!-- TODO translate -->
-    <string name="premium_dialog_upgrade_now">Buy now</string> <!-- TODO translate -->
-    <string name="premium_dialog_later">Later</string> <!-- TODO translate -->
-    <string name="premium_icon_description">Premium star icon</string> <!-- TODO translate -->
-    <string name="feature_user_sounds_title">User added sounds is a Premium feature</string> <!-- TODO translate -->
-    <string name="feature_user_sounds_description">Make BlipBlip app yours by adding your own sounds.</string> <!-- TODO translate -->
-    <string name="feature_premium_sounds_title">All sounds available in the app is a Premium feature</string> <!-- TODO translate -->
-    <string name="feature_premium_sounds_description">Customize your notification with many built-in sounds.</string> <!-- TODO translate -->
-    <string name="feature_strike_the_hour_title">Strike the hours is a Premium feature</string> <!-- TODO translate -->
+    <string name="premium_dialog_title">"Premium"</string> <!-- TODO translate -->
+    <string name="premium_dialog_upgrade_now">"Buy now"</string> <!-- TODO translate -->
+    <string name="premium_dialog_later">"Later"</string> <!-- TODO translate -->
+    <string name="premium_icon_description">"Premium star icon"</string> <!-- TODO translate -->
+    <string name="feature_user_sounds_title">"User added sounds is a Premium feature"</string> <!-- TODO translate -->
+    <string name="feature_user_sounds_description">"Make BlipBlip app yours by adding your own sounds."</string> <!-- TODO translate -->
+    <string name="feature_premium_sounds_title">"All sounds available in the app is a Premium feature"</string> <!-- TODO translate -->
+    <string name="feature_premium_sounds_description">"Customize your notification with many built-in sounds."</string> <!-- TODO translate -->
+    <string name="feature_strike_the_hour_title">"Strike the hours is a Premium feature"</string> <!-- TODO translate -->
     <string name="feature_strike_the_hour_description">"Create your own grandfather clock (e.g. plays 3 times at three o'clock)"</string> <!-- TODO translate -->
-    <string name="feature_say_text_title">Saying text is a Premium feature</string> <!-- TODO translate -->
-    <string name="feature_say_text_description">Use text to speech in your notifications.</string> <!-- TODO translate -->
-    <string name="feature_say_time_title">Saying time is a Premium feature</string> <!-- TODO translate -->
-    <string name="feature_say_time_description">Speak current time using text to speech.</string> <!-- TODO translate -->
-    <string name="feature_custom_repeat_interval_title">Custom repeat interval is a Premium feature</string> <!-- TODO translate -->
-    <string name="feature_custom_repeat_interval_description">Set any time interval (other than standard 1, 5, 10, 15, 20, 30 and 60 minutes).</string> <!-- TODO translate -->
-    <string name="feature_general_title">Notification uses Premium functions</string> <!-- TODO translate -->
-    <string name="feature_general_description">Upgrade to enable notification and enjoy all Premium features.</string> <!-- TODO translate -->
-    <string name="feature_multiple_active_notifications_title">Unlimited active notifications is a Premium feature</string> <!-- TODO translate -->
-    <string name="feature_multiple_active_notifications_description">Use many notifications with different settings at the same time (e.g. play twice at 12:00, play once at 12:30). In free version you can have one active notification.</string> <!-- TODO translate -->
-    <string name="feature_unlimited_silent_time_title">Unlimited silent time configuratipons is a Premium feature</string> <!-- TODO translate -->
-    <string name="feature_unlimited_silent_time_description">In free version you can activate 5 silent time configurations.</string> <!-- TODO translate -->
+    <string name="feature_say_text_title">"Saying text is a Premium feature"</string> <!-- TODO translate -->
+    <string name="feature_say_text_description">"Use text to speech in your notifications."</string> <!-- TODO translate -->
+    <string name="feature_say_time_title">"Saying time is a Premium feature"</string> <!-- TODO translate -->
+    <string name="feature_say_time_description">"Speak current time using text to speech."</string> <!-- TODO translate -->
+    <string name="feature_custom_repeat_interval_title">"Custom repeat interval is a Premium feature"</string> <!-- TODO translate -->
+    <string name="feature_custom_repeat_interval_description">"Set any time interval (other than standard 1, 5, 10, 15, 20, 30 and 60 minutes)."</string> <!-- TODO translate -->
+    <string name="feature_general_title">"Notification uses Premium functions"</string> <!-- TODO translate -->
+    <string name="feature_general_description">"Upgrade to enable notification and enjoy all Premium features."</string> <!-- TODO translate -->
+    <string name="feature_multiple_active_notifications_title">"Unlimited active notifications is a Premium feature"</string> <!-- TODO translate -->
+    <string name="feature_multiple_active_notifications_description">"Use many notifications with different settings at the same time (e.g. play twice at 12:00, play once at 12:30). In free version you can have one active notification."</string> <!-- TODO translate -->
+    <string name="feature_unlimited_silent_time_title">"Unlimited silent time configuratipons is a Premium feature"</string> <!-- TODO translate -->
+    <string name="feature_unlimited_silent_time_description">"In free version you can activate 5 silent time configurations."</string> <!-- TODO translate -->
 
     <string name="vibrate_seconds">Вибрирай %sсек.</string> <!-- s at the end is for seconds, %s will be replaced by value e.g. "Vibrate 1.2s" -->
     <string name="wait_and_vibrate_seconds">Изчакай %1$sсек., вибрирай %2$sсек.</string> <!-- s at the end is for seconds, "%1$s" and "%2$s" will be replaced by value e.g. "Vibrate 1.2s" -->
 
     <!-- button descriptions -->
-    <string name="add_new_sound">Add new sound from external app</string> <!-- TODO translate -->
-    <string name="create_new_vibration">Create new vibration</string> <!-- TODO translate -->
-    <string name="create_new_notification">Create new notification</string> <!-- TODO translate -->
-    <string name="create_new_silent_time">Create new silent time</string> <!-- TODO translate -->
-    <string name="additional_info_button">Additional information</string> <!-- TODO translate -->
-    <string name="start_playing">Start playing</string> <!-- TODO translate -->
-    <string name="stop_playing">Stop playing</string> <!-- TODO translate -->
-    <string name="edit_mode">Edit mode</string> <!-- TODO translate -->
+    <string name="add_new_sound">"Add new sound from external app"</string> <!-- TODO translate -->
+    <string name="create_new_vibration">"Create new vibration"</string> <!-- TODO translate -->
+    <string name="create_new_notification">"Create new notification"</string> <!-- TODO translate -->
+    <string name="create_new_silent_time">"Create new silent time"</string> <!-- TODO translate -->
+    <string name="additional_info_button">"Additional information"</string> <!-- TODO translate -->
+    <string name="start_playing">"Start playing"</string> <!-- TODO translate -->
+    <string name="stop_playing">"Stop playing"</string> <!-- TODO translate -->
+    <string name="edit_mode">"Edit mode"</string> <!-- TODO translate -->
 
     <!-- widget -->
-    <string name="app_enabled">App enabled</string> <!-- TODO translate -->
-    <string name="app_disabled">App disabled</string> <!-- TODO translate -->
+    <string name="app_enabled">"App enabled"</string> <!-- TODO translate -->
+    <string name="app_disabled">"App disabled"</string> <!-- TODO translate -->
 
-    <string name="warning_volume_dnd">Cannot show system volume because Do Not Disturb mode is enabled</string> <!-- TODO translate -->
+    <string name="warning_volume_dnd">"Cannot show system volume because Do Not Disturb mode is enabled"</string> <!-- TODO translate -->
 
     <!-- auto start failed dialog -->
-    <string name="auto_start_fail_title">Auto-start failed</string> <!-- TODO translate -->
-    <string name="auto_start_fail_message">Automatic start of the app failed. Please check your settings.</string> <!-- TODO translate -->
+    <string name="auto_start_fail_title">"Auto-start failed"</string> <!-- TODO translate -->
+    <string name="auto_start_fail_message">"Automatic start of the app failed. Please check your settings."</string> <!-- TODO translate -->
 
     <!-- manual settings dialog -->
-    <string name="manual_settings_title">Manual settings needed</string> <!-- TODO translate -->
-    <string name="manual_settings_summary">Some manual settings may be needed for BlipBlip to function properly.</string> <!-- TODO translate -->
-    <string name="manual_settings_tips_subtitle">Please try below tips</string> <!-- TODO translate -->
-    <string name="manual_settings_tip_settings_description">Open settings</string> <!-- TODO translate -->
-    <string name="manual_settings_snackbar">Please review manual settings which may be needed for app to function properly</string> <!-- TODO translate -->
-    <string name="manual_settings_show">Show</string> <!-- TODO translate -->
-    <string name="manual_settings_permanent_notification_description">Enable permanent notification (recommended)</string> <!-- TODO translate -->
-    <string name="manual_settings_permanent_notification_info">App will show permanently visible notification, which may prevent app from being killed.</string> <!-- TODO translate -->
-    <string name="manual_settings_general_tips_button">Show general tips</string> <!-- TODO translate -->
-    <string name="manual_settings_general_tips">General tips</string> <!-- TODO translate -->
-    <string name="manual_settings_general_tip1">Disable power saving modes in device settings</string> <!-- TODO translate -->
-    <string name="manual_settings_general_tip2">Disable apps that optimize battery or memory usage (e.g. task killers)</string> <!-- TODO translate -->
-    <string name="manual_settings_general_tips_info">If your device requires changing other options, please let us now using "Report problem" option.</string> <!-- TODO translate -->
-    <string name="manual_settings_suggest_report_problem">If after trying above tips you would still have issues with the app, please report the problem.</string> <!-- TODO translate -->
-    <string name="manual_settings_do_not_show_again">Do not show again</string> <!-- TODO translate -->
+    <string name="manual_settings_title">"Manual settings needed"</string> <!-- TODO translate -->
+    <string name="manual_settings_summary">"Some manual settings may be needed for BlipBlip to function properly."</string> <!-- TODO translate -->
+    <string name="manual_settings_tips_subtitle">"Please try below tips"</string> <!-- TODO translate -->
+    <string name="manual_settings_tip_settings_description">"Open settings"</string> <!-- TODO translate -->
+    <string name="manual_settings_snackbar">"Please review manual settings which may be needed for app to function properly"</string> <!-- TODO translate -->
+    <string name="manual_settings_show">"Show"</string> <!-- TODO translate -->
+    <string name="manual_settings_permanent_notification_description">"Enable permanent notification (recommended)"</string> <!-- TODO translate -->
+    <string name="manual_settings_permanent_notification_info">"App will show permanently visible notification, which may prevent app from being killed."</string> <!-- TODO translate -->
+    <string name="manual_settings_general_tips_button">"Show general tips"</string> <!-- TODO translate -->
+    <string name="manual_settings_general_tips">"General tips"</string> <!-- TODO translate -->
+    <string name="manual_settings_general_tip1">"Disable power saving modes in device settings"</string> <!-- TODO translate -->
+    <string name="manual_settings_general_tip2">"Disable apps that optimize battery or memory usage (e.g. task killers)"</string> <!-- TODO translate -->
+    <string name="manual_settings_general_tips_info">"If your device requires changing other options, please let us now using \"Report problem\" option."</string> <!-- TODO translate -->
+    <string name="manual_settings_suggest_report_problem">"If after trying above tips you would still have issues with the app, please report the problem."</string> <!-- TODO translate -->
+    <string name="manual_settings_do_not_show_again">"Do not show again"</string> <!-- TODO translate -->
 
     <!-- Tips -->
-    <string name="tip1">Add the app to Unmonitored Apps.</string> <!-- TODO translate -->
-    <string name="tip2">Add the app to Protected Apps.</string> <!-- TODO translate -->
-    <string name="tip3">Exclude app from lock screen cleanup.</string> <!-- TODO translate -->
-    <string name="tip4">Disable Stamina mode.</string> <!-- TODO translate -->
-    <string name="tip5">Disable battery usage restrictions.</string> <!-- TODO translate -->
-    <string name="tip6">Add app to auto-run.</string> <!-- TODO translate -->
-    <string name="tip7">Disable background task clearer.</string> <!-- TODO translate -->
-    <string name="tip8">Add app to auto-start.</string> <!-- TODO translate -->
-    <string name="tip9">Add app to auto-start.</string> <!-- TODO translate -->
-    <string name="tip10">Lock the app on recent apps screen.</string> <!-- TODO translate -->
-    <string name="tip11">Allow the app to work in Standby Mode.</string> <!-- TODO translate -->
-    <string name="tip12">Add the app to auto-launch.</string> <!-- TODO translate -->
-    <string name="tip14">Add the app to Background protection whitelist.</string> <!-- TODO translate -->
+    <string name="tip1">"Add the app to Unmonitored Apps."</string> <!-- TODO translate -->
+    <string name="tip2">"Add the app to Protected Apps."</string> <!-- TODO translate -->
+    <string name="tip3">"Exclude app from lock screen cleanup."</string> <!-- TODO translate -->
+    <string name="tip4">"Disable Stamina mode."</string> <!-- TODO translate -->
+    <string name="tip5">"Disable battery usage restrictions."</string> <!-- TODO translate -->
+    <string name="tip6">"Add app to auto-run."</string> <!-- TODO translate -->
+    <string name="tip7">"Disable background task clearer."</string> <!-- TODO translate -->
+    <string name="tip8">"Add app to auto-start."</string> <!-- TODO translate -->
+    <string name="tip9">"Add app to auto-start."</string> <!-- TODO translate -->
+    <string name="tip10">"Lock the app on recent apps screen."</string> <!-- TODO translate -->
+    <string name="tip11">"Allow the app to work in Standby Mode."</string> <!-- TODO translate -->
+    <string name="tip12">"Add the app to auto-launch."</string> <!-- TODO translate -->
+    <string name="tip14">"Add the app to Background protection whitelist."</string> <!-- TODO translate -->
 
     <!-- Tips detailed instructions -->
-    <string name="tip1_settings">Settings &gt; Device maintenance &gt; Battery &gt; Unmonitored apps list</string> <!-- TODO translate -->
-    <string name="tip2_settings">Settings &gt; Advanced Settings &gt; Battery Manager &gt; Protected Apps or Settings &gt; Privacy and Security &gt; Protected Apps</string> <!-- TODO translate -->
-    <string name="tip3_settings">Phone Manager &gt; Lock screen cleanup &gt; un-check the app (don\'t close) or Settings &gt; Battery &gt; Lock screen cleanup &gt; un-check the app (don\'t close)</string> <!-- TODO translate -->
-    <string name="tip4_settings">Settings &gt; Power management &gt; STAMINA mode &gt; Apps active in standby &gt; Add BlipBlip</string> <!-- TODO translate -->
-    <string name="tip5_settings">Settings &gt; Additional Settings &gt; Battery &amp; Performance &gt; Manage Apps Battery Usage &gt; Choose Apps &gt; BlipBlip &gt; No restrictions</string> <!-- TODO translate -->
-    <string name="tip6_settings">Settings &gt; Permissions &gt; Auto-run management</string> <!-- TODO translate -->
-    <string name="tip7_settings">Settings &gt; Background task clear &gt; White list</string> <!-- TODO translate -->
-    <string name="tip8_settings">Asus Mobile Manager &gt; Auto-start Manager</string> <!-- TODO translate -->
-    <string name="tip9_settings">Phone Manager &gt; Privacy Permissions &gt; Startup Manager</string> <!-- TODO translate -->
-    <string name="tip10_settings">Recent apps &gt; tap BlipBlip and pull it down</string> <!-- TODO translate -->
-    <string name="tip11_settings">Security &gt; Power &gt; Standby Management &gt; Set BlipBlip to run in Standby Mode</string> <!-- TODO translate -->
-    <string name="tip12_settings">Security &gt; Permission &gt; Auto-Launched apps &gt; enable auto-launch</string> <!-- TODO translate -->
-    <string name="tip13_settings">Long press red circle &gt; swipe down BlipBlip</string> <!-- TODO translate -->
-    <string name="tip14_settings">NeoSafe app &gt; Power &gt; right top settings icon &gt; Background protection whitelist &gt; add BlipBLip</string> <!-- TODO translate -->
-    <string name="tip15_settings">NeoSafe app &gt; Permission &gt; Power-on speedup &gt; Enable BlipBlip</string> <!-- TODO translate -->
+    <string name="tip1_settings">"Settings &gt; Device maintenance &gt; Battery &gt; Unmonitored apps list"</string> <!-- TODO translate -->
+    <string name="tip2_settings">"Settings &gt; Advanced Settings &gt; Battery Manager &gt; Protected Apps or Settings &gt; Privacy and Security &gt; Protected Apps"</string> <!-- TODO translate -->
+    <string name="tip3_settings">"Phone Manager &gt; Lock screen cleanup &gt; un-check the app (don't close) or Settings &gt; Battery &gt; Lock screen cleanup &gt; un-check the app (don't close)"</string> <!-- TODO translate -->
+    <string name="tip4_settings">"Settings &gt; Power management &gt; STAMINA mode &gt; Apps active in standby &gt; Add BlipBlip"</string> <!-- TODO translate -->
+    <string name="tip5_settings">"Settings &gt; Additional Settings &gt; Battery &amp; Performance &gt; Manage Apps Battery Usage &gt; Choose Apps &gt; BlipBlip &gt; No restrictions"</string> <!-- TODO translate -->
+    <string name="tip6_settings">"Settings &gt; Permissions &gt; Auto-run management"</string> <!-- TODO translate -->
+    <string name="tip7_settings">"Settings &gt; Background task clear &gt; White list"</string> <!-- TODO translate -->
+    <string name="tip8_settings">"Asus Mobile Manager &gt; Auto-start Manager"</string> <!-- TODO translate -->
+    <string name="tip9_settings">"Phone Manager &gt; Privacy Permissions &gt; Startup Manager"</string> <!-- TODO translate -->
+    <string name="tip10_settings">"Recent apps &gt; tap BlipBlip and pull it down"</string> <!-- TODO translate -->
+    <string name="tip11_settings">"Security &gt; Power &gt; Standby Management &gt; Set BlipBlip to run in Standby Mode"</string> <!-- TODO translate -->
+    <string name="tip12_settings">"Security &gt; Permission &gt; Auto-Launched apps &gt; enable auto-launch"</string> <!-- TODO translate -->
+    <string name="tip13_settings">"Long press red circle &gt; swipe down BlipBlip"</string> <!-- TODO translate -->
+    <string name="tip14_settings">"NeoSafe app &gt; Power &gt; right top settings icon &gt; Background protection whitelist &gt; add BlipBLip"</string> <!-- TODO translate -->
+    <string name="tip15_settings">"NeoSafe app &gt; Permission &gt; Power-on speedup &gt; Enable BlipBlip"</string> <!-- TODO translate -->
 
     <!-- UI Settings -->
     <string name="pref_user_interface">Потребителски интерфейс</string>
     <!-- edit button -->
-    <string name="edit_button_title">Edit button</string> <!-- TODO translate -->
-    <string name="edit_button_on">Show edit button</string> <!-- TODO translate -->
-    <string name="edit_button_off">Hide edit button. To enter edit mode use edit action from menu.</string> <!-- TODO translate -->
+    <string name="edit_button_title">"Edit button"</string> <!-- TODO translate -->
+    <string name="edit_button_on">"Show edit button"</string> <!-- TODO translate -->
+    <string name="edit_button_off">"Hide edit button. To enter edit mode use edit action from menu."</string> <!-- TODO translate -->
     <!-- changelog -->
-    <string name="version_history">Version history</string> <!-- TODO translate -->
-    <string name="changelog_title">What\'s new?</string> <!-- TODO translate -->
-    <string name="show_changelog_title">Show changelog</string> <!-- TODO translate -->
-    <string name="show_changelog_on">Show recent changes on startup.</string> <!-- TODO translate -->
-    <string name="show_changelog_off">Do not show recent changes on startup.</string> <!-- TODO translate -->
+    <string name="version_history">"Version history"</string> <!-- TODO translate -->
+    <string name="changelog_title">"What's new?"</string> <!-- TODO translate -->
+    <string name="show_changelog_title">"Show changelog"</string> <!-- TODO translate -->
+    <string name="show_changelog_on">"Show recent changes on startup."</string> <!-- TODO translate -->
+    <string name="show_changelog_off">"Do not show recent changes on startup."</string> <!-- TODO translate -->
     <!-- inclusive -->
     <string name="show_inclusive_title">Промяна на границите на времевия обхват</string>
     <string name="show_inclusive_on">При избиране на времеви обхват покажи бутони за уточняване дали времето да бъде включено в обхвата.</string>
@@ -745,88 +749,88 @@
     <string name="show_actions_switches_on">Покажи шалтери за забраняване на действия</string>
     <string name="show_actions_switches_off">Скрий шалтерите за забраняване на действия</string>
     <!-- Show kill dialog -->
-    <string name="show_kill_dialog_title">Notify if app was killed</string> <!-- TODO translate -->
-    <string name="show_kill_dialog_on">Display message when opening the app if it was detected that the app was killed.</string> <!-- TODO translate -->
-    <string name="show_kill_dialog_off">Do not display message when it was detected that the app was killed.</string> <!-- TODO translate -->
+    <string name="show_kill_dialog_title">"Notify if app was killed"</string> <!-- TODO translate -->
+    <string name="show_kill_dialog_on">"Display message when opening the app if it was detected that the app was killed."</string> <!-- TODO translate -->
+    <string name="show_kill_dialog_off">"Do not display message when it was detected that the app was killed."</string> <!-- TODO translate -->
 
     <!-- examples -->
-    <string name="double_sound_every_hour">Double sound every hour</string> <!-- TODO translate -->
-    <string name="single_sound_half_past">Sound half past every hour</string> <!-- TODO translate -->
-    <string name="speak_time_every_hour">Speak time every hour</string> <!-- TODO translate -->
+    <string name="double_sound_every_hour">"Double sound every hour"</string> <!-- TODO translate -->
+    <string name="single_sound_half_past">"Sound half past every hour"</string> <!-- TODO translate -->
+    <string name="speak_time_every_hour">"Speak time every hour"</string> <!-- TODO translate -->
 
     <!-- ads -->
-    <string name="remove_ads">Remove ads</string> <!-- TODO translate -->
-    <string name="channel_name_watch_ads">Watch ads</string> <!-- TODO translate -->
-    <string name="channel_name_premium_end_description">Get notified when you need to watch an ad to enjoy all Premium features for free</string> <!-- TODO translate -->
+    <string name="remove_ads">"Remove ads"</string> <!-- TODO translate -->
+    <string name="channel_name_watch_ads">"Watch ads"</string> <!-- TODO translate -->
+    <string name="channel_name_premium_end_description">"Get notified when you need to watch an ad to enjoy all Premium features for free"</string> <!-- TODO translate -->
 
-    <string name="watch_ads">Watch ads</string> <!-- TODO translate -->
-    <string name="watch_video">Watch video ad</string> <!-- TODO translate -->
-    <string name="subscribe_without_ads">Subscribe without ads</string> <!-- TODO translate -->
-    <string name="start_free_trial">Start a free trial</string> <!-- TODO translate -->
-    <string name="tooltip_accept_privacy_policy">Please check the box.</string> <!-- TODO translate -->
-    <string name="welcome_to_blipBlip">Welcome to BlipBlip!</string> <!-- TODO translate -->
-    <string name="blipblip_free_description_short">This app is free in exchange for watching ads.</string> <!-- TODO translate -->
-    <string name="blipblip_free_description">This app is free in exchange for watching ads. You can access all Blip Blip Premium features and sounds for specified time period after watching an ad. The more you watch the longer you can use the app.</string> <!-- TODO translate -->
-    <string name="blipblip_free_description2">There are no ads in user interface or popping up unexpectedly. You always choose when you want to watch an ad.</string> <!-- TODO translate -->
-    <string name="watch_ad">Watch ad</string> <!-- TODO translate -->
-    <string name="ad">Ad</string> <!-- TODO translate --> <!-- Short label of button for watching ads -->
-    <string name="accept_privacy_policy">I accept privacy policy.</string> <!-- TODO translate -->
-    <string name="get_blipblip">Want free app without ads and without Premium features? Get it here.</string> <!-- TODO translate -->
-    <string name="privacy_policy">Privacy policy.</string> <!-- TODO translate -->
-    <string name="get_time_of_premium">Get %1$s of Premium</string> <!-- TODO translate -->
-    <string name="get_time_of_premium_more">Watch ad to use the app for additional: %s.</string> <!-- TODO translate -->
-    <string name="premium_time_left">You have %s left using the app.</string> <!-- TODO translate -->
-    <string name="app_was_enabled">App has been enabled!</string> <!-- TODO translate -->
-    <string name="failed_loading_ad">Failed to load ad. Check your internet connection and try again.</string> <!-- TODO translate -->
-    <string name="continue_with_ads">Continue with ads</string> <!-- TODO translate -->
-    <string name="continue_with_relevant_question">Can we use your data to tailor ads for you?</string> <!-- TODO translate -->
-    <string name="continue_with_relevant_ads">Yes, continue with relevant ads</string> <!-- TODO translate -->
-    <string name="continue_with_less_relevant_ads">No, continue with less relevant ads</string> <!-- TODO translate -->
-    <string name="watch_ads_to_get_next_notification">Watch ads to get next notification</string> <!-- TODO translate -->
-    <string name="watch_ad_to_enable_app">Watch ad to enable app</string> <!-- TODO translate -->
-    <string name="popup_watch_more_ads_to_get_notification">Watch more ads to get this notification</string> <!-- TODO translate -->
+    <string name="watch_ads">"Watch ads"</string> <!-- TODO translate -->
+    <string name="watch_video">"Watch video ad"</string> <!-- TODO translate -->
+    <string name="subscribe_without_ads">"Subscribe without ads"</string> <!-- TODO translate -->
+    <string name="start_free_trial">"Start a free trial"</string> <!-- TODO translate -->
+    <string name="tooltip_accept_privacy_policy">"Please check the box."</string> <!-- TODO translate -->
+    <string name="welcome_to_blipBlip">"Welcome to BlipBlip!"</string> <!-- TODO translate -->
+    <string name="blipblip_free_description_short">"This app is free in exchange for watching ads."</string> <!-- TODO translate -->
+    <string name="blipblip_free_description">"This app is free in exchange for watching ads. You can access all Blip Blip Premium features and sounds for specified time period after watching an ad. The more you watch the longer you can use the app."</string> <!-- TODO translate -->
+    <string name="blipblip_free_description2">"There are no ads in user interface or popping up unexpectedly. You always choose when you want to watch an ad."</string> <!-- TODO translate -->
+    <string name="watch_ad">"Watch ad"</string> <!-- TODO translate -->
+    <string name="ad">"Ad"</string> <!-- TODO translate --> <!-- Short label of button for watching ads -->
+    <string name="accept_privacy_policy">"I accept privacy policy."</string> <!-- TODO translate -->
+    <string name="get_blipblip">"Want free app without ads and without Premium features? Get it here."</string> <!-- TODO translate -->
+    <string name="privacy_policy">"Privacy policy."</string> <!-- TODO translate -->
+    <string name="get_time_of_premium">"Get %1$s of Premium"</string> <!-- TODO translate -->
+    <string name="get_time_of_premium_more">"Watch ad to use the app for additional: %s."</string> <!-- TODO translate -->
+    <string name="premium_time_left">"You have %s left using the app."</string> <!-- TODO translate -->
+    <string name="app_was_enabled">"App has been enabled!"</string> <!-- TODO translate -->
+    <string name="failed_loading_ad">"Failed to load ad. Check your internet connection and try again."</string> <!-- TODO translate -->
+    <string name="continue_with_ads">"Continue with ads"</string> <!-- TODO translate -->
+    <string name="continue_with_relevant_question">"Can we use your data to tailor ads for you?"</string> <!-- TODO translate -->
+    <string name="continue_with_relevant_ads">"Yes, continue with relevant ads"</string> <!-- TODO translate -->
+    <string name="continue_with_less_relevant_ads">"No, continue with less relevant ads"</string> <!-- TODO translate -->
+    <string name="watch_ads_to_get_next_notification">"Watch ads to get next notification"</string> <!-- TODO translate -->
+    <string name="watch_ad_to_enable_app">"Watch ad to enable app"</string> <!-- TODO translate -->
+    <string name="popup_watch_more_ads_to_get_notification">"Watch more ads to get this notification"</string> <!-- TODO translate -->
 
     <!-- ads notifications -->
-    <string name="notif_premium_ended">Application disabled</string> <!-- TODO translate -->
-    <string name="notif_premium_ended_description">Watch ad to enable it again.</string> <!-- TODO translate -->
-    <string name="notif_stop_warn">Next notification won\'t be played</string> <!-- TODO translate -->
-    <string name="notif_stop_warn_description">Watch ad to extend time for using the app</string> <!-- TODO translate -->
+    <string name="notif_premium_ended">"Application disabled"</string> <!-- TODO translate -->
+    <string name="notif_premium_ended_description">"Watch ad to enable it again."</string> <!-- TODO translate -->
+    <string name="notif_stop_warn">"Next notification won't be played"</string> <!-- TODO translate -->
+    <string name="notif_stop_warn_description">"Watch ad to extend time for using the app"</string> <!-- TODO translate -->
 
     <!-- ads settings -->
-    <string name="ads_notifications">Need of watching ad</string> <!-- TODO translate -->
-    <string name="ads_notifications_on">You will get notifications about the need of watching ads</string> <!-- TODO translate -->
-    <string name="ads_notifications_off">You won\'t get any notifications about watching ads</string> <!-- TODO translate -->
-    <string name="ads_warn_app_disabled">Application disabled</string> <!-- TODO translate -->
-    <string name="ads_warn_app_disabled_on">Notify when app is disabled because not enough ads were watched</string> <!-- TODO translate -->
-    <string name="ads_warn_app_disabled_off">Do not notify when app will be disabled when not enough ads were watched</string> <!-- TODO translate -->
-    <string name="ads_warn_next_notification">Next notification</string> <!-- TODO translate -->
-    <string name="ads_warn_next_notification_on">Notify when next notification won\'t be played because not enough ads were watched</string> <!-- TODO translate -->
-    <string name="ads_warn_next_notification_off">Do no notify when next notification won\'t be played because not enough ads were watched</string> <!-- TODO translate -->
+    <string name="ads_notifications">"Need of watching ad"</string> <!-- TODO translate -->
+    <string name="ads_notifications_on">"You will get notifications about the need of watching ads"</string> <!-- TODO translate -->
+    <string name="ads_notifications_off">"You won't get any notifications about watching ads"</string> <!-- TODO translate -->
+    <string name="ads_warn_app_disabled">"Application disabled"</string> <!-- TODO translate -->
+    <string name="ads_warn_app_disabled_on">"Notify when app is disabled because not enough ads were watched"</string> <!-- TODO translate -->
+    <string name="ads_warn_app_disabled_off">"Do not notify when app will be disabled when not enough ads were watched"</string> <!-- TODO translate -->
+    <string name="ads_warn_next_notification">"Next notification"</string> <!-- TODO translate -->
+    <string name="ads_warn_next_notification_on">"Notify when next notification won't be played because not enough ads were watched"</string> <!-- TODO translate -->
+    <string name="ads_warn_next_notification_off">"Do no notify when next notification won't be played because not enough ads were watched"</string> <!-- TODO translate -->
 
     <!-- Privacy settings -->
-    <string name="privacy">Privacy</string> <!-- TODO translate -->
-    <string name="ads">Ads</string> <!-- TODO translate -->
-    <string name="pref_personalized_ads">Personalized ads</string> <!-- TODO translate -->
-    <string name="pref_personalized_ads_on">Ads will be personalized.</string> <!-- TODO translate -->
-    <string name="pref_personalized_ads_off">Your data will not be used to personalize ads.</string> <!-- TODO translate -->
-    <string name="pref_analytics">Analytics</string> <!-- TODO translate -->
-    <string name="pref_collect_analytics">Collect anonymous data</string> <!-- TODO translate -->
-    <string name="pref_collect_analytics_on">Collect anonymous, aggregated data to improve app experience.</string> <!-- TODO translate -->
-    <string name="pref_collect_analytics_off">Do not collect any data.</string> <!-- TODO translate -->
-    <string name="pref_analytics_anonymize_ip">Anonymize location</string> <!-- TODO translate -->
-    <string name="pref_analytics_anonymize_ip_on">Anonymize IP address sent to determine user location</string> <!-- TODO translate -->
-    <string name="pref_analytics_anonymize_ip_off">Use full IP address only for detemining user\'s general location (country, city).</string> <!-- TODO translate -->
+    <string name="privacy">"Privacy"</string> <!-- TODO translate -->
+    <string name="ads">"Ads"</string> <!-- TODO translate -->
+    <string name="pref_personalized_ads">"Personalized ads"</string> <!-- TODO translate -->
+    <string name="pref_personalized_ads_on">"Ads will be personalized."</string> <!-- TODO translate -->
+    <string name="pref_personalized_ads_off">"Your data will not be used to personalize ads."</string> <!-- TODO translate -->
+    <string name="pref_analytics">"Analytics"</string> <!-- TODO translate -->
+    <string name="pref_collect_analytics">"Collect anonymous data"</string> <!-- TODO translate -->
+    <string name="pref_collect_analytics_on">"Collect anonymous, aggregated data to improve app experience."</string> <!-- TODO translate -->
+    <string name="pref_collect_analytics_off">"Do not collect any data."</string> <!-- TODO translate -->
+    <string name="pref_analytics_anonymize_ip">"Anonymize location"</string> <!-- TODO translate -->
+    <string name="pref_analytics_anonymize_ip_on">"Anonymize IP address sent to determine user location"</string> <!-- TODO translate -->
+    <string name="pref_analytics_anonymize_ip_off">"Use full IP address only for detemining user's general location (country, city)."</string> <!-- TODO translate -->
 
     <!-- install BlipBlip free -->
-    <string name="dialog_free_premium_title">Want Premium free?</string> <!-- TODO translate -->
-    <string name="dialog_free_premium_description">Watch ads in exchange for Premium features in %1$s app.</string> <!-- TODO translate -->
-    <string name="open_app">Open</string> <!-- TODO translate -->
-    <string name="install_app">Install</string> <!-- TODO translate -->
-    <string name="maybe_later">Maybe later</string> <!-- TODO translate -->
+    <string name="dialog_free_premium_title">"Want Premium free?"</string> <!-- TODO translate -->
+    <string name="dialog_free_premium_description">"Watch ads in exchange for Premium features in %1$s app."</string> <!-- TODO translate -->
+    <string name="open_app">"Open"</string> <!-- TODO translate -->
+    <string name="install_app">"Install"</string> <!-- TODO translate -->
+    <string name="maybe_later">"Maybe later"</string> <!-- TODO translate -->
 
     <!-- tooltips -->
-    <string name="tooltip_play_next_button">Press to play next notification</string> <!-- TODO translate -->
-    <string name="tooltip_upcoming_notifications">Tap to see upcoming notifications</string> <!-- TODO translate -->
-    <string name="tooltip_upcoming_notification">Press time to play back upcoming notifications</string> <!-- TODO translate -->
+    <string name="tooltip_play_next_button">"Press to play next notification"</string> <!-- TODO translate -->
+    <string name="tooltip_upcoming_notifications">"Tap to see upcoming notifications"</string> <!-- TODO translate -->
+    <string name="tooltip_upcoming_notification">"Press time to play back upcoming notifications"</string> <!-- TODO translate -->
 
 </resources>

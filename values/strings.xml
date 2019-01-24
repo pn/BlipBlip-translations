@@ -407,7 +407,8 @@
     <string name="select_audio_file">"Select Audio"</string>
     <string name="add_sound_to_blipblip">"Add to BlipBlip"</string>
     <string name="permission_denied">"Permission denied"</string>
-    <string name="permission_denied_message_no_addon">"BlipBlip does not have permission to read the file.\nPlease use some other app that shares file without need for additional permission (e.g. Google Drive)."</string>
+    <string name="permission_denied_message_no_addon">"BlipBlip does not have permission to read the file."</string>
+    <string name="permission_denied_message_no_addon_part2">"Please use some other app that shares file without need for additional permission (e.g. Google Drive)."</string>
     <string name="permission_denied_rationale_title">"Permission needed"</string>
     <string name="permission_denied_rationale">"Application does not have permission to read the file. Please grant the app permission to access the file. You can also share the file using other app which does not need using this permission."</string>
 
@@ -487,7 +488,9 @@
     <string name="advice_disable_task_killers">"Disable task killers"</string>
     <string name="advice_disable_task_killers_desc">"Task killers should be disabled or BlipBlip should be added in their white lists to keep app alive."</string>
     <string name="advice_enable_foreground_service">"Enable foreground service"</string>
-    <string name="advice_enable_foreground_service_desc2">"&lt;p&gt;Foreground service option informs OS that application should not be killed if possible.&lt;/p&gt;\n&lt;p&gt;It will display persistent notification which can be hidden from system settings (hiding it from the app will disable this option).&lt;/p&gt;\n&lt;p&gt;You can use button below to access system settings&lt;/p&gt;"</string>
+    <string name="advice_enable_foreground_service_desc2">"Foreground service option informs OS that application should not be killed if possible."</string>
+    <string name="advice_enable_foreground_service_desc2_part2">"It will display persistent notification which can be hidden from system settings (hiding it from the app will disable this option)."</string>
+    <string name="advice_enable_foreground_service_desc2_part3">"You can use button below to access system settings."</string>
 
     <string name="sound_in_use">"Sound is in use and cannot be deleted."</string>
     <string name="vibration_in_use">"Vibration is in use and cannot be deleted."</string>
