@@ -34,9 +34,6 @@
     <string name="preview_upcoming_notifications">Podgląd nadchodzących powiadomień</string>
     <string name="disable_premium_notifications">Wyłącz powiadomienia Premium</string>
 
-    <!-- Period -->
-    <string name="repeat_every">Powtarzaj co</string>
-
     <!-- Sound -->
     <string name="sound_text">Dźwięk</string>
     <string name="sound_blipblip">BlipBlip</string> <!-- translated -->
@@ -431,7 +428,6 @@
     <string name="end_time">Czas zakończenia</string>
     <string name="whole_day">Cały dzień</string>
     <string name="enable_screen">Włącz ekran</string>
-    <string name="delay_to_next_chime">Zaczekaj na</string>
     <string name="action_rename">Zmień nazwę</string>
     <string name="pref_accessibility">Dostępność</string>
     <string name="pref_swipe">Gesty dotykowe</string>
@@ -458,16 +454,12 @@
     <string name="social_twitter">Twitter</string> <!-- translated -->
     <string name="social_google_plus">Google+</string> <!-- translated -->
     <string name="social_google_plus_community">Społeczność Google+</string>
-    <string name="finish_previous">Zakończ poprzednie akcje</string>
     <string name="troubleshooting">Rozwiązywanie problemów</string>
     <string name="premium_features">Funkcje dodatkowo płatne</string>
     <string name="disable_when_headset">Wyłącz kiedy słuchawki podłączone</string>
     <string name="disable_when_headset_on">Wszystkie powiadomienia wyłączone</string>
     <string name="disable_when_headset_off">Wszystkie powiadomienia włączone</string>
     <string name="disable_when_headset_toast">Powiadomienia są teraz wyłączone, ponieważ masz podłączone słuchawki.</string>
-    <string name="buy">Kup</string>
-    <string name="later">Później</string>
-    <string name="buy_custom_sounds">Dodawanie własnych dźwięków jest funkcją Premium. Czy chcesz ją kupić teraz?</string>
 
     <string name="add">Dodaj</string>
     <string name="add_item">Dodaj element</string>
@@ -604,10 +596,6 @@
 
     <!-- premium -->
     <string name="dialog_no_thanks">Nie, dziękuję</string> <!-- should be short -->
-    <string name="dialog_premium_unlock_button_text">Odblokuj</string> <!-- should be short -->
-    <string name="dialog_premium_trial_text2">Naciśnij \"Odblokuj\" aby rozpocząć okres próbny.</string> <!-- use same text as in dialog_premium_unlock_button_text -->
-    <string name="dialog_premium_trial_title">Odblokuj funkcje płatne</string> <!-- should be short -->
-    <string name="dialog_premium_features_description">Akcja, którą próbowałeś wykonać używa następujących płatnych funkcji:</string>
     <string name="feature_custom_sounds">niestandardowe dźwięki</string>
     <string name="feature_multiple_notifications">wiele powiadomień</string>
     <string name="feature_custom_reapeat">niestandardowy interwał powtarzania</string>

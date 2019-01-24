@@ -34,9 +34,6 @@
     <string name="preview_upcoming_notifications">Preview upcoming notifications</string>
     <string name="disable_premium_notifications">Disable Premium notifications</string>
 
-    <!-- Period -->
-    <string name="repeat_every">Repeat every</string>
-
     <!-- Sound -->
     <string name="sound_text">Sound</string>
     <string name="sound_blipblip">BlipBlip</string>
@@ -423,7 +420,6 @@
     <string name="end_time">End time</string>
     <string name="whole_day">Whole day</string>
     <string name="enable_screen">Enable screen</string>
-    <string name="delay_to_next_chime">Wait for</string>
     <string name="action_rename">Rename</string>
     <string name="pref_accessibility">Accessibility</string>
     <string name="pref_swipe">Swipe</string>
@@ -450,16 +446,12 @@
     <string name="social_twitter">Twitter</string>
     <string name="social_google_plus">Google+</string>
     <string name="social_google_plus_community">Google+ Community</string>
-    <string name="finish_previous">Finish previous actions</string>
     <string name="troubleshooting">Troubleshooting</string>
     <string name="premium_features">Premium features</string>
     <string name="disable_when_headset">Disable when headset connected</string>
     <string name="disable_when_headset_on">All notifications disabled</string>
     <string name="disable_when_headset_off">All notifications enabled</string>
     <string name="disable_when_headset_toast">BlipBlip notifications are now disabled, because you have headset connected.</string>
-    <string name="buy">Buy</string>
-    <string name="later">Later</string>
-    <string name="buy_custom_sounds">Adding own sounds is a Premium feature. Would you like to buy it now?</string>
 
     <string name="add">Add</string>
     <string name="add_item">Add item</string>
@@ -596,10 +588,6 @@
 
     <!-- premium -->
     <string name="dialog_no_thanks">No thanks</string> <!-- should be short -->
-    <string name="dialog_premium_unlock_button_text">Unlock</string> <!-- should be short -->
-    <string name="dialog_premium_trial_text2">Press \"Unlock\" to start your free trial.</string> <!-- use same text as in dialog_premium_unlock_button_text -->
-    <string name="dialog_premium_trial_title">Unlock Premium functions</string> <!-- should be short -->
-    <string name="dialog_premium_features_description">Action you tried to performed uses following Premium features:</string>
     <string name="feature_custom_sounds">Custom sounds</string>
     <string name="feature_multiple_notifications">Multiple notifications</string>
     <string name="feature_custom_reapeat">Custom repeat interval</string>

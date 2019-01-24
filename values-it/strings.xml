@@ -34,9 +34,6 @@
     <string name="preview_upcoming_notifications">Preview upcoming notifications</string> <!-- TODO translate -->
     <string name="disable_premium_notifications">Disable Premium notifications</string> <!-- TODO translate -->
 
-    <!-- Period -->
-    <string name="repeat_every">Ripeti ogni</string>
-
     <!-- Sound -->
     <string name="sound_text">Suono</string>
     <string name="sound_blipblip">BlipBlip</string> <!-- TODO translate -->
@@ -424,7 +421,6 @@
     <string name="end_time">End time</string> <!-- TODO translate -->
     <string name="whole_day">Whole day</string> <!-- TODO translate -->
     <string name="enable_screen">Enable screen</string> <!-- TODO translate -->
-    <string name="delay_to_next_chime">Wait for</string> <!-- TODO translate -->
     <string name="action_rename">Rename</string> <!-- TODO translate -->
     <string name="pref_accessibility">Accessibility</string> <!-- TODO translate -->
     <string name="pref_swipe">Swipe</string> <!-- TODO translate -->
@@ -451,16 +447,12 @@
     <string name="social_twitter">Twitter</string> <!-- TODO translate -->
     <string name="social_google_plus">Google+</string> <!-- TODO translate -->
     <string name="social_google_plus_community">Google+ Community</string> <!-- TODO translate -->
-    <string name="finish_previous">Finish previous actions</string> <!-- TODO translate -->
     <string name="troubleshooting">Troubleshooting</string> <!-- TODO translate -->
     <string name="premium_features">Premium features</string> <!-- TODO translate -->
     <string name="disable_when_headset">Disable when headset connected</string> <!-- TODO translate -->
     <string name="disable_when_headset_on">All notifications disabled</string> <!-- TODO translate -->
     <string name="disable_when_headset_off">All notifications enabled</string> <!-- TODO translate -->
     <string name="disable_when_headset_toast">BlipBlip notifications are now disabled, because you have headset connected.</string> <!-- TODO translate -->
-    <string name="buy">Buy</string> <!-- TODO translate -->
-    <string name="later">Later</string> <!-- TODO translate -->
-    <string name="buy_custom_sounds">Adding own sounds is a Premium feature. Would you like to buy it now?</string> <!-- TODO translate -->
 
     <string name="add">Add</string> <!-- TODO translate -->
     <string name="add_item">Add item</string> <!-- TODO translate -->
@@ -595,10 +587,6 @@
 
     <!-- premium -->
     <string name="dialog_no_thanks">No thanks</string> <!-- TODO translate --> <!-- should be short -->
-    <string name="dialog_premium_unlock_button_text">Unlock</string> <!-- TODO translate --> <!-- should be short -->
-    <string name="dialog_premium_trial_text2">Press \"Unlock\" to start your free trial.</string> <!-- TODO translate --> <!-- use same text as in dialog_premium_unlock_button_text -->
-    <string name="dialog_premium_trial_title">Unlock Premium functions</string> <!-- TODO translate --> <!-- should be short -->
-    <string name="dialog_premium_features_description">Action you tried to performed uses following Premium features:</string> <!-- TODO translate -->
     <string name="feature_custom_sounds">Custom sounds</string> <!-- TODO translate -->
     <string name="feature_multiple_notifications">Multiple notifications</string> <!-- TODO translate -->
     <string name="feature_custom_reapeat">Custom repeat interval</string> <!-- TODO translate -->

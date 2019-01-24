@@ -34,9 +34,6 @@
     <string name="preview_upcoming_notifications">Preview upcoming notifications</string> <!-- TODO translate -->
     <string name="disable_premium_notifications">Disable Premium notifications</string> <!-- TODO translate -->
 
-    <!-- Period -->
-    <string name="repeat_every">Wiederholungsintervall</string>
-
     <!-- Sound -->
     <string name="sound_text">Ton</string>
     <string name="sound_blipblip">BlipBlip</string> <!-- translated -->
@@ -422,7 +419,6 @@
     <string name="end_time">Endzeit</string>
     <string name="whole_day">Ganzer Tag</string>
     <string name="enable_screen">Schalte Bildschirm ein</string>
-    <string name="delay_to_next_chime">Warte auf</string>
     <string name="action_rename">Umbennen</string>
     <string name="pref_accessibility">Zugänglichkeit</string>
     <string name="pref_swipe">Wischen</string>
@@ -449,16 +445,12 @@
     <string name="social_twitter">Twitter</string> <!-- translated -->
     <string name="social_google_plus">Google+</string> <!-- translated -->
     <string name="social_google_plus_community">Google+ Community</string> <!-- translated -->
-    <string name="finish_previous">Beende vorhergehende Handlungen</string>
     <string name="troubleshooting">Problemlösung</string>
     <string name="premium_features">Premium Funktionen</string>
     <string name="disable_when_headset">Ausschalten, wenn Kopfhörer verbunden</string>
     <string name="disable_when_headset_on">Alle Benachrichtigungen ausgeschaltet</string>
     <string name="disable_when_headset_off">Alle Benachrichtigungen eingeschaltet</string>
     <string name="disable_when_headset_toast">BlipBlip Benachrichtigungen sind jetzt ausgeschaltet, da Kopfhörer verbunden sind.</string>
-    <string name="buy">Buy</string> <!-- TODO translate -->
-    <string name="later">Later</string> <!-- TODO translate -->
-    <string name="buy_custom_sounds">Adding own sounds is a Premium feature. Would you like to buy it now?</string> <!-- TODO translate -->
 
     <string name="add">Add</string> <!-- TODO translate -->
     <string name="add_item">Element hinzufügen</string>
@@ -595,10 +587,6 @@
 
     <!-- premium -->
     <string name="dialog_no_thanks">Nein, Danke</string> <!-- should be short -->
-    <string name="dialog_premium_unlock_button_text">Freischalten</string> <!-- should be short -->
-    <string name="dialog_premium_trial_text2">Drücke \"Freischalten\" um eine freie Testversion zu starten.</string> <!-- use same text as in dialog_premium_unlock_button_text -->
-    <string name="dialog_premium_trial_title">Schalte Premium-Akionen frei</string> <!-- should be short -->
-    <string name="dialog_premium_features_description">Handlungen die Du versuchst zu aktivieren benötigen folgende Premium-Aktionen:</string>
     <string name="feature_custom_sounds">Benutzerdefinierte Töne</string>
     <string name="feature_multiple_notifications">Mehrfach Benachrichtigungen</string>
     <string name="feature_custom_reapeat">Einstellbare Wiederholungsintervalle</string>

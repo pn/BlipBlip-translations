@@ -34,9 +34,6 @@
     <string name="preview_upcoming_notifications">Preview upcoming notifications</string> <!-- TODO translate -->
     <string name="disable_premium_notifications">Disable Premium notifications</string> <!-- TODO translate -->
 
-    <!-- Period -->
-    <string name="repeat_every">Ismétlődés</string>
-
     <!-- Sound -->
     <string name="sound_text">Hang</string>
     <string name="sound_blipblip">BlipBlip</string> <!-- translated -->
@@ -424,7 +421,6 @@
     <string name="end_time">Befejezés idő</string>
     <string name="whole_day">Egész nap</string>
     <string name="enable_screen">Képernyő engedélyezés</string>
-    <string name="delay_to_next_chime">Várakozás erre</string>
     <string name="action_rename">Átnevezés</string>
     <string name="pref_accessibility">Akadálymentesítés</string>
     <string name="pref_swipe">Seprés</string>
@@ -451,16 +447,12 @@
     <string name="social_twitter">Twitter</string> <!-- translated -->
     <string name="social_google_plus">Google+</string> <!-- translated -->
     <string name="social_google_plus_community">Google+ Közösség</string>
-    <string name="finish_previous">Előző művelet befejezése</string>
     <string name="troubleshooting">Hibaelhárítás</string>
     <string name="premium_features">Prémium jellemzők</string>
     <string name="disable_when_headset">Letiltás headset csatlakoztatásakor</string>
     <string name="disable_when_headset_on">Minden figyelmeztetés letiltott</string>
     <string name="disable_when_headset_off">Minden figyelmeztetés engedélyezett</string>
     <string name="disable_when_headset_toast">A BlipBlip figyelmeztetések most le vannak tiltve, mert headsetet csatlakoztatott.</string>
-    <string name="buy">Buy</string> <!-- TODO translate -->
-    <string name="later">Later</string> <!-- TODO translate -->
-    <string name="buy_custom_sounds">Adding own sounds is a Premium feature. Would you like to buy it now?</string> <!-- TODO translate -->
 
     <string name="add">Add</string> <!-- TODO translate -->
     <string name="add_item">Elem hozzáadása</string>
@@ -596,10 +588,6 @@
 
     <!-- premium -->
     <string name="dialog_no_thanks">Nem, köszönöm</string> <!-- should be short -->
-    <string name="dialog_premium_unlock_button_text">Feloldás</string> <!-- should be short -->
-    <string name="dialog_premium_trial_text2">Nyomja meg a \"Feloldás\"-t az ingyenes próbaidőszak megkezdéséhez.</string> <!-- use same text as in dialog_premium_unlock_button_text -->
-    <string name="dialog_premium_trial_title">Prémium funkciók feloldása</string> <!-- should be short -->
-    <string name="dialog_premium_features_description">A művelet, amit megpróbált elindítani, az alábbi prémium szolgáltatásokat használja:</string>
     <string name="feature_custom_sounds">Saját hangok</string>
     <string name="feature_multiple_notifications">Többszörös figyelmeztetés</string>
     <string name="feature_custom_reapeat">Egyedi ismétlési intervallum</string>

@@ -34,9 +34,6 @@
     <string name="preview_upcoming_notifications">Preview upcoming notifications</string> <!-- TODO translate -->
     <string name="disable_premium_notifications">Disable Premium notifications</string> <!-- TODO translate -->
 
-    <!-- Period -->
-    <string name="repeat_every">Herhaal elke</string>
-
     <!-- Sound -->
     <string name="sound_text">Geluid</string>
     <string name="sound_blipblip">BlipBlip</string> <!-- translated -->
@@ -424,7 +421,6 @@
     <string name="end_time">Stop time</string>
     <string name="whole_day">Hele dag</string>
     <string name="enable_screen">Scherm inschakelen</string>
-    <string name="delay_to_next_chime">Wacht op</string>
     <string name="action_rename">Hernoem</string>
     <string name="pref_accessibility">Toegankelijkheid</string>
     <string name="pref_swipe">Vegen</string>
@@ -451,16 +447,12 @@
     <string name="social_twitter">Twitter</string> <!-- translated -->
     <string name="social_google_plus">Google+</string> <!-- translated -->
     <string name="social_google_plus_community">Google+ Community</string> <!-- translated -->
-    <string name="finish_previous">Beëindig eerdere acties</string>
     <string name="troubleshooting">Probleem oplossing</string>
     <string name="premium_features">Premium features</string> <!-- translated -->
     <string name="disable_when_headset">Uitschakelen wanneer headset is aangesloten</string>
     <string name="disable_when_headset_on">Alle meldingen zijn uitgeschakeld</string>
     <string name="disable_when_headset_off">Alle meldingen zijn ingeschakeld</string>
     <string name="disable_when_headset_toast">BlipBlip-meldingen zijn nu uitgeschakeld omdat je een headset hebt aangesloten.</string>
-    <string name="buy">Buy</string> <!-- TODO translate -->
-    <string name="later">Later</string> <!-- TODO translate -->
-    <string name="buy_custom_sounds">Adding own sounds is a Premium feature. Would you like to buy it now?</string> <!-- TODO translate -->
 
     <string name="add">Add</string> <!-- TODO translate -->
     <string name="add_item">Item toevoegen</string>
@@ -596,10 +588,6 @@
 
     <!-- premium -->
     <string name="dialog_no_thanks">Nee, bedankt</string> <!-- should be short -->
-    <string name="dialog_premium_unlock_button_text">Ontgrendel</string> <!-- should be short -->
-    <string name="dialog_premium_trial_text2">Druk op \"Ontgrendelen\" om uw gratis proefperiode te starten.</string> <!-- use same text as in dialog_premium_unlock_button_text -->
-    <string name="dialog_premium_trial_title">Ontgrendel premiumfuncties</string> <!-- should be short -->
-    <string name="dialog_premium_features_description">Actie die u probeerde uit te voeren, maakt gebruik van de volgende premiumfuncties:</string>
     <string name="feature_custom_sounds">Aangepaste geluiden</string>
     <string name="feature_multiple_notifications">Meerdere meldingen</string>
     <string name="feature_custom_reapeat">Aangepaste herhalingsinterval</string>

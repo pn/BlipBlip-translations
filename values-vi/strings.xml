@@ -34,9 +34,6 @@
     <string name="preview_upcoming_notifications">Preview upcoming notifications</string> <!-- TODO translate -->
     <string name="disable_premium_notifications">Disable Premium notifications</string> <!-- TODO translate -->
 
-    <!-- Period -->
-    <string name="repeat_every">Lặp lại mỗi</string>
-
     <!-- Sound -->
     <string name="sound_text">Âm thanh</string>
     <string name="sound_blipblip">BlipBlip</string> <!-- translated -->
@@ -420,7 +417,6 @@
     <string name="end_time">Thời gian kết thúc</string>
     <string name="whole_day">Cả ngày</string>
     <string name="enable_screen">Bật màn hình</string>
-    <string name="delay_to_next_chime">Chờ</string>
     <string name="action_rename">Đổi tên</string>
     <string name="pref_accessibility">Dịch vụ trợ năng</string>
     <string name="pref_swipe">Vuốt</string>
@@ -447,16 +443,12 @@
     <string name="social_twitter">Twitter</string> <!-- translated -->
     <string name="social_google_plus">Google+</string> <!-- translated -->
     <string name="social_google_plus_community">Cộng đồng Google+</string>
-    <string name="finish_previous">Kết thúc hành động trước</string>
     <string name="troubleshooting">Xử lý sự cố</string>
     <string name="premium_features">Tính năng cao cấp</string>
     <string name="disable_when_headset">Vô hiệu hoá khi kết nối tai nghe</string>
     <string name="disable_when_headset_on">Đã tắt tất cả thông báo</string>
     <string name="disable_when_headset_off">Đã bật tất cả thông báo</string>
     <string name="disable_when_headset_toast">Đã tắt thông báo BlipBlip vì bạn kết nối tai nghe.</string>
-    <string name="buy">Buy</string> <!-- TODO translate -->
-    <string name="later">Later</string> <!-- TODO translate -->
-    <string name="buy_custom_sounds">Adding own sounds is a Premium feature. Would you like to buy it now?</string> <!-- TODO translate -->
 
     <string name="add">Add</string> <!-- TODO translate -->
     <string name="add_item">Thêm mục</string>
@@ -591,10 +583,6 @@
 
     <!-- premium -->
     <string name="dialog_no_thanks">Không, cảm ơn</string> <!-- should be short -->
-    <string name="dialog_premium_unlock_button_text">Mở khóa</string> <!-- should be short -->
-    <string name="dialog_premium_trial_text2">Nhấn \"Mở khóa\" để bắt đầu dùng thử miễn phí.</string> <!-- use same text as in dialog_premium_unlock_button_text -->
-    <string name="dialog_premium_trial_title">Mở khóa chức năng cao cấp</string> <!-- should be short -->
-    <string name="dialog_premium_features_description">Hành động bạn đã thử cố gắng thực hiện các tính năng cao cấp sau:</string>
     <string name="feature_custom_sounds">Âm thanh tùy chỉnh</string>
     <string name="feature_multiple_notifications">Đa thông báo</string>
     <string name="feature_custom_reapeat">Tùy chỉnh khoảng lặp lại</string>

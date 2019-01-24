@@ -35,9 +35,6 @@ ligeiramente a utilização da bateria.</string>
     <string name="preview_upcoming_notifications">Preview upcoming notifications</string> <!-- TODO translate -->
     <string name="disable_premium_notifications">Disable Premium notifications</string> <!-- TODO translate -->
 
-    <!-- Period -->
-    <string name="repeat_every">Repetir a cada</string>
-
     <!-- Sound -->
     <string name="sound_text">Som</string>
     <string name="sound_blipblip">BlipBlip</string> <!-- translated -->
@@ -425,7 +422,6 @@ ligeiramente a utilização da bateria.</string>
     <string name="end_time">Hora final</string>
     <string name="whole_day">Dia inteiro</string>
     <string name="enable_screen">Ligar o ecrã</string>
-    <string name="delay_to_next_chime">Aguardar por</string>
     <string name="action_rename">Mudar nome</string>
     <string name="pref_accessibility">Acessibilidade</string>
     <string name="pref_swipe">Deslizar</string>
@@ -452,16 +448,12 @@ ligeiramente a utilização da bateria.</string>
     <string name="social_twitter">Twitter</string> <!-- translated -->
     <string name="social_google_plus">Google+</string> <!-- translated -->
     <string name="social_google_plus_community">Comunidade do Google+</string>
-    <string name="finish_previous">Término de ações anteriores</string>
     <string name="troubleshooting">Resolução de problemas</string>
     <string name="premium_features">Funcionalidades premium</string>
     <string name="disable_when_headset">Desativar quando ligado a um auricular</string>
     <string name="disable_when_headset_on">Todas as notificações desativadas</string>
     <string name="disable_when_headset_off">Permitir todas as notificações</string>
     <string name="disable_when_headset_toast">As notificações do BlipBlip estão inativas, porque tem ligado um auricular.</string>
-    <string name="buy">Buy</string> <!-- TODO translate -->
-    <string name="later">Later</string> <!-- TODO translate -->
-    <string name="buy_custom_sounds">Adding own sounds is a Premium feature. Would you like to buy it now?</string> <!-- TODO translate -->
 
     <string name="add">Add</string> <!-- TODO translate -->
     <string name="add_item">Adicionar item</string>
@@ -597,10 +589,6 @@ ligeiramente a utilização da bateria.</string>
 
     <!-- premium -->
     <string name="dialog_no_thanks">Não, obrigado</string> <!-- should be short -->
-    <string name="dialog_premium_unlock_button_text">Desbloquear</string> <!-- should be short -->
-    <string name="dialog_premium_trial_text2">Prima \"Desbloquear\" para iniciar a avaliação gratuita.</string> <!-- use same text as in dialog_premium_unlock_button_text -->
-    <string name="dialog_premium_trial_title">Desbloquear as funcionalidades premium</string> <!-- should be short -->
-    <string name="dialog_premium_features_description">A ação que está a tentar executar utiliza as seguintes funcionalidades premium:</string>
     <string name="feature_custom_sounds">Sons personalizados</string>
     <string name="feature_multiple_notifications">Múltiplas notificações</string>
     <string name="feature_custom_reapeat">Intervalo de repetição personalizado</string>
