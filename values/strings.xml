@@ -813,8 +813,8 @@
     <string name="feature_unlimited_silent_time_title">Unlimited silent time configuratipons is a Premium feature</string>
     <string name="feature_unlimited_silent_time_description">In free version you can activate 5 silent time configurations.</string>
 
-    <string name="vibrate_seconds">Vibrate %ss</string> <!-- s at the end is for seconds, %s will be replaced vy value e.g. "Vibrate 1.2s" -->
-    <string name="wait_and_vibrate_seconds">Wait %1$ss, vibrate %1$ss</string>
+    <string name="vibrate_seconds">Vibrate %ss</string> <!-- s at the end is for seconds, %s will be replaced by value e.g. "Vibrate 1.2s" -->
+    <string name="wait_and_vibrate_seconds">Wait %1$ss, vibrate %2$ss</string> <!-- s at the end is for seconds, "%1$s" and "%2$s" will be replaced by value e.g. "Vibrate 1.2s" -->
 
     <!-- button descriptions -->
     <string name="open_menu">Open menu</string>
