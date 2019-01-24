@@ -2,10 +2,8 @@
 <resources>
 
     <!-- Buttons -->
-    <string name="ok">OK</string> <!-- translated -->
     <string name="dialog_ok">OK</string> <!-- translated -->
     <string name="cancel">Mégse</string>
-    <string name="set">Beállít</string>
     <string name="change_setting">Módosítás</string>
     <string name="send">Küldés</string>
     <string name="send_email_description">Email küldése…</string>
@@ -13,30 +11,16 @@
 
     <!-- Warnings -->
     <string name="warning">Figyelmeztetés</string>
-    <string name="warning_global_volume">Hanerő fel/le gombok használata rendszer hangerő változtatásához.</string>
     <string name="warning_understood">Megértettem</string>
-    <string name="warning_dont_show_again">Ne mutassa újra</string>
     <string name="please_wait">Kérem várjon…</string>
     <string name="warn_power_saving">A megbízható működéshez kérjük tiltson le minden energiatakarékos módot.</string> <!-- Please make this as short as possible -->
     <string name="allow_while_idle_title">Engedélyezze energiatakarékos módban</string>
     <string name="allow_while_idle_off">Mikor a telefon energiatakarékos módba lép, néhány értesítés kimaradhat.</string>
     <string name="allow_while_idle_on">Engedélyezés energiatakarékos (Alvó/Tétlen) módban. Lehetséges, hogy nem mindig működik 15 percnél gyakoribb értesítéseknél. A beállítás kis mértékben befolyásolhatja az akkumlátor használatot.</string>
     <string name="app_killed_title">App was killed</string> <!-- TODO translate -->
-    <string name="app_killed_warning">A közelmúltban a BlipBlip váratlanul leállt. &lt;b&gt;Kérjük győződjön meg róla, hogy nem használ semmilyen akku optimalizációs (vagy energiatakarékosság, eco, stb.) módot vagy alkalmazást (pl. task killers)&lt;/b&gt;. Ezek általában ilyen problémát okoznak. Ha szüksége van ezekre az alkalmazásokra, please add BlipBlip to whitelist in that app. Ha úgy gondolja, hogy ez egy hiba az alkalmazásban, vagy segítségre van szüksége, kérjük írja le a problémáját a \"Probléma jelentése\" opció használatával, vagy írjon a &lt;a href=\"%1$s\"&gt;BlipBlip Google+ közösségében&lt;/a&gt;.</string>
-    <string name="app_killed_warning2">A BlipBlip nemrég váratlanul leállt. &lt;b&gt;Kérjük bizonyosodjon meg róla, hogy nem használ akkumlátor optimalizáció (vagy energiatakarékosság, eco, stb.) üzemmódot vagy alkalmazást (pl. task killers)&lt;/b&gt;. Ezek általában okozhatnak ilyen problémát. Ha ilyen alkalmazásra van szüksége, kérjük adja a BlipBlipet annak fehérlistájához. Ha úgy véli, hogy a hiba az alkalmazásban van, vagy segítségre van szüksége, kérjük részletezze a problémát a \"%1$s\" opció használatával.</string> <!-- Text in quotes will be replaced by value of action_send_logs -->
 
     <!-- Next Notification -->
-    <string name="next_notification_today">Következő értesítés %1$s -kor</string>
-    <string name="next_notification_tomorrow">Következő értesítés holnap %1$s -kor</string>
-    <string name="next_notification_mon">Következő értesítés hétfőn %1$s -kor</string>
-    <string name="next_notification_tue">Következő értesítés kedden %1$s -kor</string>
-    <string name="next_notification_wed">Következő értesítés szerdán %1$s -kor</string>
-    <string name="next_notification_thu">Következő értesítés csütörtökön %1$s -kor</string>
-    <string name="next_notification_fri">Következő értesítés pénteken %1$s -kor</string>
-    <string name="next_notification_sat">Következő értesítés szombaton %1$s -kor</string>
-    <string name="next_notification_sun">Következő értesítés vasárnap %1$s -kor</string>
     <string name="next_notification_off">Ki</string>
-    <string name="next_notification_never">Ütköző beállítások.</string>
     <string name="upcoming_notifications">Közelgő értesítések</string>
     <string name="day_today">Ma</string>
     <string name="day_tomorrow">Holnap</string>
@@ -49,17 +33,9 @@
     <string name="day_sunday">Vasárnap</string>
     <string name="preview_upcoming_notifications">Preview upcoming notifications</string> <!-- TODO translate -->
     <string name="disable_premium_notifications">Disable Premium notifications</string> <!-- TODO translate -->
-    <string name="remove_premium_features">Remove premium features</string> <!-- TODO translate -->
 
     <!-- Period -->
     <string name="repeat_every">Ismétlődés</string>
-    <string name="period_1_minute">1 percenként</string>
-    <string name="period_5_minutes">5 percenként</string>
-    <string name="period_10_minutes">10 percenként</string>
-    <string name="period_15_minutes">15 percenként</string>
-    <string name="period_20_minutes">20 percenként</string>
-    <string name="period_30_minutes">30 percenként</string>
-    <string name="period_60_minutes">1 óránként</string>
 
     <!-- Sound -->
     <string name="sound_text">Hang</string>
@@ -153,23 +129,13 @@
 
     <!-- Quiet Hours -->
     <string name="quiet_hours_title">Csendes időszak</string>
-    <string name="quiet_hours_times_title">Csendes időszak tól-ig</string>
-    <string name="quiet_hours_from">Csendes időszak ettől</string>
-    <string name="quiet_hours_to">Csendes időszak eddig</string>
 
     <!-- Quiet Days -->
     <string name="quiet_days_title">Csendes napok</string>
     <string name="days_none">Nincs</string>
     <string name="days_everyday">Minden nap</string>
-    <string name="silent_day">Csendes nap</string>
     <string name="quiet_day_warning">Az értesítések le vanak tiltva, mert a mai \"Csendes nap\".</string>
     <string name="toast_change_quiet_days">Kérjük módosítsa a \"Csendes napok\" beállítást, hogy a BlipBlip működjön ma.</string>
-
-    <!-- Light Up Screen -->
-    <string name="light_up_screen_title">Képernyő bekapcsolása értesítéskor</string>
-    <string name="light_up_screen_off">Képernyő kikapcsolva hagyása</string>
-    <string name="light_up_screen_on">Képernyő bekapcsolása rövid időre</string>
-    <string name="warn_light_up_screen_disable">Ennek az opciónak a letiltása okozhatja az applikáció hibás működését egy android 5.0.1 bug miatt (különösen Samsung készülékeken). Ha bármilyen hibát tapasztal, kérjük próbálja újra engedélyezni ezt a beállítást.</string> <!-- Warning shown on android 5.0.1 when disabling option "Light up screen on notification" -->
 
     <!-- While Music -->
     <string name="while_music">Letiltás zenelejátszás közben</string>
@@ -215,9 +181,6 @@
     <string name="item_priority_maximum">Maximum</string> <!-- translated -->
 
     <!-- Dismissible Notification -->
-    <string name="pref_dismissible_notification_title">Elvethető értesítés</string>
-    <string name="pref_dismissible_notification_on">Az értesítés elvethető.</string>
-    <string name="pref_dismissible_notification_off">Az értesítés tartós.</string>
 
     <!-- Auto dismiss -->
     <string name="auto_dismiss_notification_title">Auto dismiss notification</string> <!-- TODO translate -->
@@ -226,45 +189,23 @@
 
     <!-- Vibrate on Wear -->
     <string name="pref_vibrate_wear_title">Vibrálás Wear-en</string>
-    <string name="pref_vibrate_wear_on">Ha a vibrálás engedélyezett, vibráljon a csatlakozó Android Wear készüléken is.</string>
     <string name="pref_vibrate_wear_off">Ne vibráljon Android Wear készüléken.</string>
     <string name="pref_vibrate_wearable_title">Vibrálás csatlakozó készüléken</string>
-    <string name="pref_vibrate_wearable_on">Ha a vibrálás engedélyezett, vibráljon a csatlakozó viselhető készüléken (pl. okosóra) </string> <!-- not used anymore -->
     <string name="pref_vibrate_wearable_on2">Ha a vibrálás engedélyezett, vibráljon a csatlakozó viselhető készüléken (pl. okosóra). Rendszer figyelmeztetés hozzáadását igényli.</string>
     <string name="pref_vibrate_wearable_off">Ne vibráljon csatlakozó viselhető készüléken</string>
 
-    <!-- Vibrate on Main Device -->
-    <string name="pref_vibrate_on_main_device">Vibrálás fő készüléken</string> <!-- Translation note: "device" is used because it can be phone or tablet. Related with pref_vibrate_wear_title option. -->
-    <string name="pref_vibrate_on_main_device_on">Vibrálás fő készüléken is.</string> <!-- Similar as above, description of "on" state for the option. -->
-    <string name="pref_vibrate_on_main_device_off">Lehetséges, hogy nem vibrál a fő készüléken, mikor az értesítés prioritás beállítása \"Minimum\". Más esetben igen.</string> <!-- Description of "off" state for the option. "may" is used because it is not 100% certain right now. Value in double quotes must be same value of name="item_priority_minimum" -->
-
     <!-- Action Buttons -->
     <string name="pref_notification_action_buttons">Művelet gombok</string> <!-- Preference name for choosing which buttons are visible on notification -->
-    <string name="notif_action_play">Lejátszás</string> <!-- Description of action button. This should refer to notif_action_play -->
-    <string name="notif_action_play_desc">Értesítés lejátszása (hang, vibrálás, stb.) ugyanaz, mint az alkalmazásból.</string>
     <string name="notif_action_stop">Leállítás</string> <!-- Description of action button. This should refer to notif_action_stop -->
-    <string name="notif_action_stop_desc">Figyelmeztetés visszajátszás leállítása.</string>
     <string name="notif_action_disable_or_enable">Engedélyezés/Letiltás</string> <!-- Description of action button. This refers to notif_action_enable and notif_action -->
-    <string name="notif_action_disable_or_enable_desc">Gomb az értesítések letiltására vagy engedélyezésére.</string>
-    <string name="notif_action_skip">Átugrás</string> <!-- this should refer to notif_button_skip -->
-    <string name="notif_action_skip_desc">Következő értesítés átugrása.</string>
-    <string name="notif_action_snooze">Szundi</string> <!-- this should refer to notif_button_snooze -->
-    <string name="notif_action_snooze_desc">Szundizza a csörgő ébresztőt vagy közeledő értesítést.</string>
-    <string name="notif_action_dismiss">Elvetés</string> <!-- this should refer to notif_button_dismiss -->
-    <string name="notif_action_dismiss_desc">Csörgő ébresztő elvetése.</string>
     <string name="notif_button_play">Lejátszás</string> <!-- Action button label in notification having same action as play button in the app - plays the notificaton for testing purposes. This text should be short, because it will be shown on notification button where there can be 3 of them -->
     <string name="notif_button_stop">Leállítás</string> <!-- Stops playback of notification. Should be short. -->
     <string name="notif_button_enable">Engedélyezés</string> <!-- This text should be short, because it will be shown on notification button where there can be 3 of them. -->
     <string name="notif_button_disable">Letiltás</string> <!-- This text should be short, because it will be shown on notification button where there can be 3 of them. -->
-    <string name="notif_button_skip">Átugrás</string> <!-- This text should be short, because it will be shown on notification button where there can be 3 of them. -->
-    <string name="notif_button_snooze">Szundi</string> <!-- This text should be short, because it will be shown on notification button where there can be 3 of them. -->
-    <string name="notif_button_dismiss">Elvetés</string> <!-- This text should be short, because it will be shown on notification button where there can be 3 of them. -->
 
     <!-- Custom Texts -->
     <string name="pref_custom_texts">Egyedi értesítés szövegek</string>
-    <string name="pref_custom_title">Egyedi cím</string>
     <string name="pref_notification_title_title">Értesítés címe</string>
-    <string name="pref_custom_description">Egyedi leírás</string>
     <string name="pref_notification_description_title">Értesítés leírása</string>
 
     <!-- Reliability -->
@@ -277,8 +218,6 @@
     <string name="notif_as_alarm_on">Értesítések kezelése ébresztésként – megoldja a néhány Samsung készüléken jelentkező 3–5 perces értesítési késéseket</string>
     <string name="late_notif_title">Ébresztés mód engedélyezve</string>
     <string name="late_notif_message">Az értesítés néhány perces késleltetését észleltük, amely előfordul néhány Samsung készüléken. Ennek megelőzésére a \"Ébresztés mód\" beállítás engedélyezésre került, amely meg kell, hogy oldja a problémát. Letilthatja ezt az opciót, illetve az opció automatikus engedélyezését a Haladó Beállításokban. Ha találunk jobb megoldást a probléma orvoslására, az alkalmazás frissítésre kerül. Ha bármi egyéb problémát észlel, kérjük jelezze emailben.</string>
-    <string name="late_notif_notif_title">BlipBlip konfiguráció megváltoztatva</string>
-    <string name="late_notif_notif_text">Ébresztés mód engedélyezve a késés probléma megoldására</string>
 
     <!-- Auto Alarm -->
     <string name="auto_notif_as_alarm_title">Ébresztés mód automatikus engedélyezése</string>
@@ -294,23 +233,12 @@
     <string name="pref_foreground_service_title">Előtér szolgáltatás</string>
     <string name="pref_foreground_service_on">Nem elvethető értesítés mutatása és háttér szolgáltatás engedélyezése, amely megelőzheti az alkalmazás leállását.</string>
     <string name="pref_foreground_service_off">Előtér szolgáltatás letiltva.</string>
-    <string name="msg_foreground_service_on">Előtér szolgáltatás engedélyezve</string> <!-- message displayed when foreground service is enabled without user interacting with this option -->
     <string name="msg_foreground_service_off">Előtér szolgáltatás letiltva</string> <!-- message displayed when foreground service is disabled without user interacting with this option -->
-    <string name="pref_keep_service_title">Háttér szolgáltatás</string>
-    <string name="pref_keep_service_on">A háttér szolgáltatást mindig indítsa el a háttérben (több memóriát igényelhet). Ha az értesítés tartós, a szolgáltatás előtérbe kerül.</string>
-    <string name="pref_keep_service_off">Csak akkor indítsa el a háttér szolgáltatást, amikor szükséges (kevesebb memóriát igényelhet).</string>
 
     <!-- Toast Notifications -->
     <string name="pref_toast_notifications">Felugró (toast) értesítések</string>
     <string name="pref_toast_notifications_on">Felugró (toast) értesítések mutatása</string>
     <string name="pref_toast_notifications_off">Felugró (toast) értesítések elrejtése</string>
-
-    <!-- Notification Question -->
-    <string name="notification_question_title">Megjelenítse az értesítést?</string>
-    <string name="notification_question_message2">Ha letiltja, engedélyezheti később a beállításokban.</string> <!-- Displayed right after notification_question_title text -->
-    <string name="dont_show_again">Ne kérdezze meg újra</string>
-    <string name="display_notification">Megjelenítés</string>
-    <string name="hide_notification">Elrejtés</string>
 
     <!-- Logs -->
     <string name="debug_logs_title">Hibaelhárítás naplózása</string>
@@ -328,17 +256,10 @@
     <string name="huawei_fix">Huawei fix</string> <!-- TODO translate -->
 
     <!-- Time Offset -->
-    <string name="pref_time_offset_title">Idő eltérés</string>
-    <string name="pref_time_offset_summary">Eltérés a célidőtől másodpercben</string>
 
     <!-- Random -->
-    <string name="pref_random_title">Véletlenszerűség</string>
-    <string name="pref_random_description">Másodpercek száma, amivel a véletlenszerű idő eltérhet a pontos időtől</string>
 
     <!-- Inline Attachments -->
-    <string name="inline_attachments_title">Soron belüli csatolmányok</string>
-    <string name="inline_attachments_on">\"Probléma jelentése\" csatolmány tartalmak soron belüli beillesztése.</string>
-    <string name="inline_attachments_off">Hagyományos email csatolmányok használata a \"Probléma jelentésében\".</string>
 
     <!-- Menu - Share -->
     <string name="action_share">Alkalmazás megosztása</string>
@@ -367,16 +288,12 @@
 
     <!-- Menu - About -->
     <string name="action_about">Névjegy</string>
-    <string name="about_dialog_title">Névjegy</string>
     <string name="about_version">Verzió:</string>
     <string name="about_authors">Szerzők</string>
     <string name="about_coding">Programozás</string>
     <string name="about_testing">Tesztelés</string>
     <string name="about_graphics">Grafika</string>
     <string name="about_translations">Fordítások</string>
-    <string name="about_send_feedback">Visszajelzés küldése</string>
-    <string name="about_community">Google+ közösség</string>
-    <string name="about_more_apps">További alkalmazások</string>
     <string name="about_thank_you">Köszönjük</string>
     <string name="about_images">Images</string> <!-- TODO translate -->
     <string name="about_libraries">Könyvtárak</string> <!-- title of screen showing licenses of programming libraries used by the app -->
@@ -389,10 +306,7 @@
 
     <!-- Unsorted -->
     <string name="warn_notification_skip">Néhány figyelmeztetés átugrása.</string> <!-- Please make this as short as possible. This warning is displayed when user chooses to skip few upcoming notifications. -->
-    <string name="warn_alarm_skip">Néhány ébresztés átugrása.</string> <!-- Please make this as short as possible. This warning is displayed when user chooses to skip few upcoming alarms. -->
     <string name="warn_volume_zero">Jelenlegi hangerő nulla.</string> <!-- Please make this as short as possible. This warning is displayed when current system volume is set to 0. -->
-    <string name="huawei_protected_apps_title">Huawei Védett Aplikációk</string> <!-- Title of dialog window -->
-    <string name="huawei_protected_apps_msg">A(z) %s helyes működéséhez engedélyeznie kell azt a "Védett Applikációk"-ban.</string> <!-- %s will be replaced with app name -->
     <string name="pref_low_mem_restart_title">Alacsony memória újraindítás</string>
     <string name="pref_low_mem_restart_on">Próbálja újraindítani az applikációt alacsony memória estén. Ez nem minden eszközön működik. Nem szükséges a legtöbbe szközön (magasabb). (Jobban merítheti az akkut).</string>
     <string name="pref_low_mem_restart_off">Ne próbálja újraindítani az applikációt alacsony memória esetén.</string>
@@ -416,23 +330,6 @@
     <!-- Plurals -->
     <!-- check which quantities and how should be used for given language here http://www.unicode.org/cldr/charts/29/supplemental/language_plural_rules.html -->
     <!-- Uncomment or add proper "zero", "two", "few" or "many" item if needed for your language -->
-    <plurals name="number_of_hours">
-        <!-- check which quantities and how should be used for given language here http://www.unicode.org/cldr/charts/29/supplemental/language_plural_rules.html -->
-        <!--item quantity="zero"></item-->
-        <item quantity="one">%d óra</item>
-        <!--item quantity="two"></item-->
-        <!--item quantity="few"></item-->
-        <!--item quantity="many"></item-->
-        <item quantity="other">%d óra</item>
-    </plurals>
-    <plurals name="number_of_minutes">
-        <item quantity="one">%d perc</item>
-        <item quantity="other">%d perc</item>
-    </plurals>
-    <plurals name="number_of_seconds">
-        <item quantity="one">%d másodperc</item>
-        <item quantity="other">%d másodperc</item>
-    </plurals>
     <plurals name="repeat_every_x_hours"> <!-- "X hours" as in "Repeat every X hours" is different in some languages (e.g. Polish) from regular "X hours" -->
         <item quantity="one">%d óránként</item>
         <item quantity="other">%d óránként</item>
@@ -457,7 +354,6 @@
 
     <!-- Airplane mode -->
     <string name="pref_airplane_mode">Repülőgép mód</string>
-    <string name="off_airplane">Letiltás repülőgép módban</string>
     <string name="while_airplane_toast">A BlipBlip figyelmeztetések le vannak tiltva, mert repülőgép üzemmódban van.</string>
 
     <string name="setting_system_default">Rendszer alapbeállítás</string>
@@ -491,9 +387,6 @@
     <string name="night_mode_off">Off</string> <!-- TODO translate -->
     <string name="night_mode_auto">Auto</string> <!-- TODO translate -->
     <string name="night_mode_system">System setting</string> <!-- TODO translate -->
-    <string name="dark_theme">Sötét téma</string>
-    <string name="dark_theme_on">Sötét téma használata</string>
-    <string name="dark_theme_off">Világos téma használata</string>
 
     <string name="title_activity_sounds">Hangok</string>
     <string name="title_activity_sound">@string/sound_text</string>
@@ -505,10 +398,7 @@
     <string name="dialog_message_confirm">Biztos benne?</string>
     <string name="vibration_name">Vibrálás neve</string>
     <string name="action_restore_defaults">Alapbeállítás visszaállítása</string> <!-- e.g. for sounds or vibrations -->
-    <string name="restore_defaults_title"> </string> <!-- translated --> <!-- not used anymore -->
-    <string name="restore_defaults_message"> </string> <!-- translated --> <!-- not used anymore -->
     <string name="restore_defaults_message2">Szeretné visszaállítani az alapbeállításokat?</string>
-    <string name="action_add_system_notification_sound">Figyelmeztető hang hozzáadása</string>
     <string name="add_vibration">Vibrálás hozzáadása</string>
     <string name="edit">Szerkeszt</string> <!-- Name of action to edit list of sounds or list of vibrations, should be short -->
     <string name="editing">Szerkesztés</string> <!-- Displayed in edit mode -->
@@ -520,19 +410,14 @@
     <string name="play_vibration">Vibrálás</string> <!-- description of action of a button to perform vibration -->
     <string name="play_sound">Hang lejátszása </string> <!-- description of action of a button to play sound -->
     <string name="drag_handle">Csúszka húzása</string>
-    <string name="app_icon_desc">Applikáció ikon</string>
     <string name="select_audio_file">Hang választása</string>
-    <string name="select_notification_tone">Hang választása</string>
     <string name="add_sound_to_blipblip">Hozzáadás BlipBliphez</string>
     <string name="permission_denied">Engedély megtagadva</string>
     <string name="permission_denied_message_no_addon">A BlipBlipnek nincs engedélye, hogy olvassa a fájlt.\nKérjük használjon más alkalmazást, amely megosztja a fájlt további engedélyezés igénye nélkül (pl. Google Drive).</string>
     <string name="permission_denied_rationale_title">Permission needed</string> <!-- TODO translate -->
     <string name="permission_denied_rationale">Application does not have permission to read the file. Please grant the app permission to access the file. You can also share the file using other app which does not need using this permission.</string> <!-- TODO translate -->
-    <string name="install">Telepítés</string> <!-- action text for button to install additional app -->
 
     <!-- Menu drawer strings -->
-    <string name="drawer_open">Navigáció kinyitása</string>
-    <string name="drawer_close">Navigáció becsukása</string>
 
     <string name="more_actions">Több lehetőség</string>
     <string name="start_time">Kezdés idő</string>
@@ -549,9 +434,6 @@
     <string name="pref_action_menus_on">Mutassa a menüket olyan műveletekkel, amelyek egyébként kézmozdulatot igényelnének (pl. seprést). Hasznos TalkBack használatakor.</string>
     <string name="pref_action_menus_off">Rejtse el a menüket olyan műveletekkel, amelyek kézmozdulattal is végrehajthatók.</string>
     <string name="next_notification">Következő figyelmeztetés: %1$s</string>
-    <string name="next_reminder">Következő emlékeztető: %1$s</string>
-    <string name="next_alarm">Következő ébresztés: %1$s</string>
-    <string name="next">Következő: %1$s</string> <!-- next notification, reminder or alarm time or date -->
     <string name="next_tomorrow">holnap %1$s-kor</string> <!-- e.g. tomorrow at 10:00 -->
     <string name="next_on_mon">hétfő %1$s-kor</string>
     <string name="next_on_tue">kedd %1$s-kor</string>
@@ -570,8 +452,6 @@
     <string name="social_google_plus">Google+</string> <!-- translated -->
     <string name="social_google_plus_community">Google+ Közösség</string>
     <string name="finish_previous">Előző művelet befejezése</string>
-    <string name="finish_previous_title">Várakozás erre</string>
-    <string name="finish_previous_description">befejezendő korábbi műveletek</string>
     <string name="troubleshooting">Hibaelhárítás</string>
     <string name="premium_features">Prémium jellemzők</string>
     <string name="disable_when_headset">Letiltás headset csatlakoztatásakor</string>
@@ -582,13 +462,8 @@
     <string name="later">Later</string> <!-- TODO translate -->
     <string name="buy_custom_sounds">Adding own sounds is a Premium feature. Would you like to buy it now?</string> <!-- TODO translate -->
 
-    <string name="snack_bar_text_item_removed">1 elem eltávolítva</string>
-    <string name="snack_bar_action_undo">VISSZAVONÁS</string>
-
     <string name="add">Add</string> <!-- TODO translate -->
     <string name="add_item">Elem hozzáadása</string>
-    <string name="action_add_child_notification">Alfigyelmeztetés hozzáadása</string>
-    <string name="action_add_notification">Figyelmeztetés hozzáadása</string>
     <string name="action_add_condition">Feltétel hozzáadása</string>
     <string name="dialog_title_days_of_week">A hét napjai</string>
     <string name="dialog_title_date">Dátum</string>
@@ -607,10 +482,8 @@
     <string name="no_actions_added">Nincs hozzáadott művelet</string>
     <string name="section_conditions">Feltételek</string>
     <string name="no_valid_condition_added">Nincs érvényes feltétel meghatározva</string>
-    <string name="no_valid_children_notification">Minden alfigyelmeztetés érvénytelen</string>
     <string name="no_upcoming_notifications">Nincs közeledő figyelmeztetés</string>
     <string name="error_indicator">Hibajelző</string>
-    <string name="next_notification_parent_off">Ki (szülő)</string>
     <string name="next_notification_app_off">Off (app disabled)</string> <!-- TODO translate -->
     <string name="next_day">következő nap</string> <!-- Used in: "22:00 - 6:00 next day" -->
     <string name="notifications">Figyelmeztetések</string>
@@ -618,11 +491,9 @@
     <string name="weeknights">Hétköznap éjjel</string> <!-- nights from sunday to thursday -->
     <string name="weekend_nights">Hétvége éjjel</string> <!-- nights on friday and saturday -->
     <string name="weekend">Hétvége</string> <!-- saturday and sunday -->
-    <string name="cannot_enable_app">Az app most nem engedélyezhető.</string>
 
     <string name="vibration_silence_millis">Csend időtartama ezredmásodpercben</string>
     <string name="vibration_duration_millis">Vibrálás időtartama ezredmásodpercben</string>
-    <string name="vibration_strength">Vibrálás erőssége</string>
 
     <string name="advice_disable_task_killers">Task killer alkalmazások letiltása</string>
     <string name="advice_disable_task_killers_desc">Szükséges a Task killer alkalmazások letiltása, vagy a BlipBlip hozzáadása a fehérlistájukhoz, hogy az app fusson.</string>
@@ -630,15 +501,12 @@
     <string name="advice_enable_foreground_service_desc2"><p>Előtér szolgáltatás opció értesíti az operációs rendszert, hogy az alkalmazást ne állítsa le, ha lehetséges.</p>\n<p>TArtós figyelmeztetést fog megjeleníteni, ami a rendszerbeállításokból elrejthető (az applikációból történő elrejtés letiltja ezt az opciót).</p>\n<p>Használhatja az alábbi gombot a rendszerbeállítások eléréséhez</p></string>
     <string name="sound_in_use">A hang használatban van, így nem törölhető.</string>
     <string name="vibration_in_use">A vibrálás használatban van, így nem törölhető.</string>
-    <string name="not_found">Nem található</string>
     <string name="sound_not_found">Nem található</string> <!-- for sound -->
     <string name="vibration_not_found">Nem található</string> <!-- for vibration -->
 
-    <string name="section_when">Mikor</string>
     <string name="section_actions">Műveletek</string>
     <string name="section_notifications">Figyelmeztetések</string>
     <string name="notification_name">Figyelmeztetés</string>
-    <string name="notification_name_id">Figyelmeztetés %1$d</string> <!-- e.g. "Notification 1" -->
 
     <string name="play">Lejátszás</string>
 
@@ -649,9 +517,7 @@
 
     <string name="unnamed_sound">Névtelen</string>
     <string name="unnamed_vibration">Névtelen</string>
-    <string name="unnamed_notification">Névtelen</string>
 
-    <string name="item_deleted">Elem törölve.</string> <!-- showed when one of list items is deleted -->
     <string name="value_deleted">Törölve \"%1$s\"</string> <!-- showed when one of list items is deleted and displays the value of the item -->
     <string name="action_undo">Visszavonás</string> <!-- action name to undo deletion e.g. from a list -->
     <string name="condition_deleted">Feltétel törölve.</string>
@@ -666,9 +532,6 @@
     <string name="action_set_as_home_screens">Beállítás kezdőképernyőként</string>
 
     <string name="pref_battery_saver_mode">Energiatakarékos mód</string>
-    <string name="mode_enable_app_title">App engedélyezve</string>
-    <string name="mode_enable_app_on">Engedje az app működését ebben a módban</string>
-    <string name="mode_enable_app_off">Az applikáció tiltva ebben a módban</string>
     <string name="mode_sound_title">Hangok engedélyezése</string>
     <string name="mode_sound_on">A hangok engedélyezve ebben a módban</string>
     <string name="mode_sound_off">A hangok tiltva ebben a módban</string>
@@ -680,7 +543,6 @@
     <string name="mode_screen_off">A képernyő nem lesz engedélyezett ebben a módban</string>
     <string name="battery_saver_preferences_warning">Ezek az opciók nem biztos, hogy minden készüléken működnek.</string>
     <string name="mode_sound_toast">A hang tiltve, mert a következő mód aktív: %1$s</string>
-    <string name="vibration_sound_toast">A vibrálás tiltve, mert a következő mód aktív: %1$s</string>
 
     <string name="pref_accessibility_settings_title">Akadálymentesítési szolgáltatás engedélyezése</string>
     <string name="pref_accessibility_settings_summary">Megnyitja a rendszer akadálymentesítési beállításait, ahol engedélyezheti az applikációt, mint akadálymentesítési szolgáltatást</string>
@@ -689,7 +551,6 @@
 
     <string name="swipe_right_to_delete">Seperjen jobbra elemek törléséhez</string>
 
-    <string name="action_repeat">Ismétlés</string>
     <string name="action_repeat_sound">Hang ismétlése</string>
     <string name="action_repeat_vibration">Vibrálás ismétlése</string>
     <string name="action_repeat_sound_vibration">Hang és vibrálás ismétlése</string>
@@ -729,41 +590,33 @@
     <string name="sound_settings">Hang</string>
 
     <string name="free_resources_title">Ingyenes források</string>
-    <string name="free_resources_off">Több memóriát használhat.</string>
-    <string name="free_resources_on">Kevesebb memóriát használ.</string>
 
     <string name="error_failed_to_open_file">Nem sikerült megnyitni a fájlt</string>
     <string name="error_corrupted_sound">A hang meghibásodott</string>
 
     <!-- premium -->
-    <string name="dialog_premium_trial_text">Minden jelenlegi és jövőbeli szolgáltatás megszerzése</string> <!-- should be short -->
     <string name="dialog_no_thanks">Nem, köszönöm</string> <!-- should be short -->
     <string name="dialog_premium_unlock_button_text">Feloldás</string> <!-- should be short -->
     <string name="dialog_premium_trial_text2">Nyomja meg a \"Feloldás\"-t az ingyenes próbaidőszak megkezdéséhez.</string> <!-- use same text as in dialog_premium_unlock_button_text -->
-    <string name="dialog_premium_trial_button_text">Ingyenes próbaidőszak megkezdése most</string> <!-- should be short -->
     <string name="dialog_premium_trial_title">Prémium funkciók feloldása</string> <!-- should be short -->
     <string name="dialog_premium_features_description">A művelet, amit megpróbált elindítani, az alábbi prémium szolgáltatásokat használja:</string>
     <string name="feature_custom_sounds">Saját hangok</string>
     <string name="feature_multiple_notifications">Többszörös figyelmeztetés</string>
     <string name="feature_custom_reapeat">Egyedi ismétlési intervallum</string>
-    <string name="feature_premium_content">Prémium tartalom</string>
     <string name="feature_premium_sounds">Prémium hagnok</string>
     <string name="feature_strike_the_hour">Órák jelzése harangütéssel</string>
     <string name="premium_get_plus">Minden jelenlegi szolgáltatás megszerzése</string> <!-- should be short -->
     <string name="premium_get_sounds">Minden hang megszerzése az alkalmazásban</string> <!-- should be short -->
     <string name="premium_get_plus_sounds">Minden jelenlegi szolgáltatás és hang megszerzése</string> <!-- should be short -->
-    <string name="lock_icon">Lakat ikon</string>
     <string name="premium_sound_lock">Ez egy prémium hang, amelyet használat előtt fel kell oldani.</string>
     <string name="premium_feature_lock">Ez egy prémium szolgáltatás, amelyet használat előtt fel kell oldani.</string>
     <string name="change_subscription">Előfizetés megváltoztatása</string>
     <string name="upgrade_to_pro">Upgrade</string> <!-- TODO translate -->
     <string name="loading_failed">Error</string> <!-- TODO translate -->
-    <string name="month">month</string> <!-- TODO translate -->
     <string name="month_very_short">mo.</string> <!-- TODO translate --> <!-- shortcut for word "month", singular -->
     <string name="discount_save_money">Save</string> <!-- TODO translate --> <!-- percent saved will be displayed below this text -->
     <string name="premium_settings">Upgrade to Premium to unlock all settings</string> <!-- TODO translate -->
     <string name="buy_premium">Buy Premium</string> <!-- TODO translate -->
-    <string name="use_free">Use free version</string> <!-- TODO translate -->
     <string name="already_bought">Already bought</string> <!-- TODO translate -->
     <string name="get_all_features">Get all features</string> <!-- TODO translate -->
     <string name="get_all_sounds">Get all sounds</string> <!-- TODO translate -->
@@ -777,7 +630,6 @@
     <string name="feature7">Night mode (dark theme)</string> <!-- TODO translate -->
     <string name="feature_all_sounds">All sounds in the app</string> <!-- TODO translate -->
     <string name="yearly_payment">Yearly payment.</string> <!-- TODO translate -->
-    <string name="free_trial_available">Free trial available.</string> <!-- TODO translate -->
     <string name="free_trial">Free trial.</string> <!-- TODO translate -->
     <string name="cancel_anytime">Cancel anytime.</string> <!-- TODO translate -->
     <string name="premium_helps_support">By upgrading BlipBlip you not only get all features or sounds but you also support its continuous and independent development.</string> <!-- TODO translate -->
@@ -818,7 +670,6 @@
     <string name="wait_and_vibrate_seconds">Várakozás %1$s mp, vibrálás %2$s mp</string> <!-- s at the end is for seconds, "%1$s" and "%2$s" will be replaced by value e.g. "Vibrate 1.2s" -->
 
     <!-- button descriptions -->
-    <string name="open_menu">Open menu</string> <!-- TODO translate -->
     <string name="add_new_sound">Add new sound from external app</string> <!-- TODO translate -->
     <string name="create_new_vibration">Create new vibration</string> <!-- TODO translate -->
     <string name="create_new_notification">Create new notification</string> <!-- TODO translate -->
@@ -854,10 +705,6 @@
     <string name="manual_settings_general_tips_info">If your device requires changing other options, please let us now using "Report problem" option.</string> <!-- TODO translate -->
     <string name="manual_settings_suggest_report_problem">If after trying above tips you would still have issues with the app, please report the problem.</string> <!-- TODO translate -->
     <string name="manual_settings_do_not_show_again">Do not show again</string> <!-- TODO translate -->
-    <string name="manual_settings_are_you_sure">Are you sure?</string> <!-- TODO translate -->
-    <string name="manual_settings_are_you_sure_description">"You won't receive any more warnings when this app gets killed."</string> <!-- TODO translate -->
-    <string name="manual_settings_are_you_sure_yes">"Yes"</string> <!-- TODO translate -->
-    <string name="manual_settings_are_you_sure_no">"No"</string> <!-- TODO translate -->
 
     <!-- Tips -->
     <string name="tip1">Add the app to Unmonitored Apps.</string> <!-- TODO translate -->
@@ -927,8 +774,6 @@
     <string name="channel_name_premium_end_description">Get notified when you need to watch an ad to enjoy all Premium features for free</string> <!-- TODO translate -->
 
     <string name="watch_ads">Watch ads</string> <!-- TODO translate -->
-    <string name="loading_ad">Loading ad...</string> <!-- TODO translate -->
-    <string name="watch_ad_now">Watch ad now</string> <!-- TODO translate -->
     <string name="watch_video">Watch video ad</string> <!-- TODO translate -->
     <string name="subscribe_without_ads">Subscribe without ads</string> <!-- TODO translate -->
     <string name="start_free_trial">Start a free trial</string> <!-- TODO translate -->
@@ -940,7 +785,6 @@
     <string name="watch_ad">Watch ad</string> <!-- TODO translate -->
     <string name="ad">Ad</string> <!-- TODO translate --> <!-- Short label of button for watching ads -->
     <string name="accept_privacy_policy">I accept privacy policy.</string> <!-- TODO translate -->
-    <string name="ad_is_loading">Ad is loading. Please wait...</string> <!-- TODO translate -->
     <string name="get_blipblip">Want free app without ads and without Premium features? Get it here.</string> <!-- TODO translate -->
     <string name="privacy_policy">Privacy policy.</string> <!-- TODO translate -->
     <string name="get_time_of_premium">Get %1$s of Premium</string> <!-- TODO translate -->
