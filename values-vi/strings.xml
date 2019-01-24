@@ -2,8 +2,6 @@
 <resources>
 
     <!-- Buttons -->
-    <string name="dialog_ok">Đồng ý</string>
-    <string name="cancel">Hủy bỏ</string>
     <string name="change_setting">Thay đổi</string>
     <string name="send">Gửi</string>
     <string name="send_email_description">Gửi email…</string>

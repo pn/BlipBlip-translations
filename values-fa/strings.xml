@@ -2,8 +2,6 @@
 <resources>
 
     <!-- Buttons -->
-    <string name="dialog_ok">"تایید"</string>
-    <string name="cancel">"انصراف"</string>
     <string name="change_setting">"تغییر"</string>
     <string name="send">"ارسال"</string>
     <string name="send_email_description">"ارسال ایمیل‌"</string>

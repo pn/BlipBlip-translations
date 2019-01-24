@@ -2,8 +2,6 @@
 <resources>
 
     <!-- Buttons -->
-    <string name="dialog_ok">Добре</string>
-    <string name="cancel">Отказ</string>
     <string name="change_setting">Промяна</string>
     <string name="send">Пращане</string>
     <string name="send_email_description">Прати</string>

@@ -2,8 +2,6 @@
 <resources>
 
     <!-- Buttons -->
-    <string name="dialog_ok">Accepta</string>
-    <string name="cancel">Cancel.la</string>
     <string name="change_setting">Canvia</string>
     <string name="send">Envia</string>
     <string name="send_email_description">Envia correu electrònic</string>

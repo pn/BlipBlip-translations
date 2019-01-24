@@ -2,8 +2,6 @@
 <resources>
 
     <!-- Buttons -->
-    <string name="dialog_ok">OK</string> <!-- translated -->
-    <string name="cancel">Abbruch</string>
     <string name="change_setting">Änderung</string>
     <string name="send">Senden</string>
     <string name="send_email_description">Email senden</string>

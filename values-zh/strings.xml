@@ -2,8 +2,6 @@
 <resources>
 
     <!-- Buttons -->
-    <string name="dialog_ok">好的</string>
-    <string name="cancel">取消</string>
     <string name="change_setting">修改</string>
     <string name="send">发送</string>
     <string name="send_email_description">发送邮件…</string>

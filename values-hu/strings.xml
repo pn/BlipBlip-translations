@@ -2,8 +2,6 @@
 <resources>
 
     <!-- Buttons -->
-    <string name="dialog_ok">OK</string> <!-- translated -->
-    <string name="cancel">Mégse</string>
     <string name="change_setting">Módosítás</string>
     <string name="send">Küldés</string>
     <string name="send_email_description">Email küldése…</string>

@@ -2,8 +2,6 @@
 <resources>
 
     <!-- Buttons -->
-    <string name="dialog_ok">Tamam</string>
-    <string name="cancel">İptal</string>
     <string name="change_setting">Değiştir</string>
     <string name="send">Gönder</string>
     <string name="send_email_description">E-postayı gönder</string>
