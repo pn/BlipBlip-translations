@@ -14,7 +14,7 @@
     <string name="warn_power_saving">"Per maggior stabilità disabilita qualsiasi modalità di risparmio energetico."</string> <!-- Please make this as short as possible -->
     <string name="allow_while_idle_title">"Permetti in modalità risparmio energia"</string>
     <string name="allow_while_idle_off">"Quando lo smartphone entra in modalità risparmio energia alcune notifiche possono essere ignorate."</string>
-    <string name="allow_while_idle_on">"Permette all\'applicazione di funzionare in modalità risparmio energia (Doze/Idle). Potrebbe non funzionare per notifiche con granularità minore dei 15 minuti. Questa impostazione potrebbe incidere lievemente sul consumo della batteria."</string>
+    <string name="allow_while_idle_on">"Permette all'applicazione di funzionare in modalità risparmio energia (Doze/Idle). Potrebbe non funzionare per notifiche con granularità minore dei 15 minuti. Questa impostazione potrebbe incidere lievemente sul consumo della batteria."</string>
     <string name="app_killed_title">"App was killed"</string> <!-- TODO translate -->
 
     <!-- Next Notification -->
@@ -88,8 +88,8 @@
     <string name="vibrate_in_silent_mode_title">"Vibra in modalità silenziosa"</string>
     <string name="vibrate_in_silent_mode_on">"Permetti la vibrazione in modalità silenziosa"</string>
     <string name="vibrate_in_silent_mode_off">"Disabilita la vibrazione in modalità silenziona"</string>
-    <string name="force_screen_in_silent_mode_title">"Forza l\'abilitazione dello schermo"</string>
-    <string name="force_screen_in_silent_mode_on">"Accendi lo schermo in modalità silenziosa anche se l\'opzione \"Attiva schermo per notifica\" è disabilitata"</string>
+    <string name="force_screen_in_silent_mode_title">"Forza l'abilitazione dello schermo"</string>
+    <string name="force_screen_in_silent_mode_on">"Accendi lo schermo in modalità silenziosa anche se l'opzione \"Attiva schermo per notifica\" è disabilitata"</string>
     <string name="force_screen_in_silent_mode_off">"Disabilitato"</string>
     <string name="warn_sound_disabled_silent_mode">"Notifiche sonore BlipBlip disabilitate, perché il tuo dispositivo è in modalità silenziosa."</string>
 
@@ -105,8 +105,8 @@
     <string name="force_vibrate_in_vibrate_mode_title">"Forza la vibrazione"</string>
     <string name="force_vibrate_in_vibrate_mode_on">"Forza la vibrazione in modalità vibrazione anche se la vibrazione è disabilitata"</string>
     <string name="force_vibrate_in_vibrate_mode_off">"Disabilitata"</string>
-    <string name="force_screen_in_vibrate_mode_title">"Forza l\'abilitazione dello schermo"</string>
-    <string name="force_screen_in_vibrate_mode_on">"Accendi lo schermo in modalità vibrazione anche se l\'opzione \"Attiva schermo per notifica\" è disabilitata"</string>
+    <string name="force_screen_in_vibrate_mode_title">"Forza l'abilitazione dello schermo"</string>
+    <string name="force_screen_in_vibrate_mode_on">"Accendi lo schermo in modalità vibrazione anche se l'opzione \"Attiva schermo per notifica\" è disabilitata"</string>
     <string name="force_screen_in_vibrate_mode_off">"Disabilitato"</string>
     <string name="warn_sound_disabled_vibrate_mode">"Notifiche sonore BlipBlip disabilitate, perché il tuo dispositivo è in modalità vibrazione."</string>
 
@@ -136,7 +136,7 @@
     <string name="while_music">"Disabilita su altro flusso audio"</string>
     <string name="while_music_on">"Notifiche disabilitate in caso di concomitanza flusso audio"</string>
     <string name="while_music_off">"Notifiche riprodotte anche in caso di concomitanza flusso audio"</string>
-    <string name="while_music_toast">"Notifiche BlipBlip disabilitate su riproduzione di un\'altro flusso audio"</string>
+    <string name="while_music_toast">"Notifiche BlipBlip disabilitate su riproduzione di un'altro flusso audio"</string>
     <!-- While phone call -->
     <string name="while_phonecall">"Disabilita durante le chiamate telefoniche"</string>
     <string name="while_phonecall_on">"Notifiche disabilitate in caso di chiamata telefonica"</string>
@@ -205,14 +205,14 @@
 
     <!-- Reliability -->
     <string name="pref_reliability">"Impostazioni di Affidabilità"</string> <!-- title of settings section meant for all settings which may improve running of the app without issues -->
-    <string name="reliability_warning">"Cambiare questi settaggi potrebbe influire sulla stabilità dell\'applicazione."</string> <!-- This message should be as short as possible. There is risk of cutting it off if it will be too long -->
+    <string name="reliability_warning">"Cambiare questi settaggi potrebbe influire sulla stabilità dell'applicazione."</string> <!-- This message should be as short as possible. There is risk of cutting it off if it will be too long -->
 
     <!-- Alarm Mode -->
     <string name="notif_as_alarm_title">"Modalità allarme"</string>
     <string name="notif_as_alarm_off">"Notifiche regolari"</string>
     <string name="notif_as_alarm_on">"Notifiche visualizzate come allarmi - risolve il ritardo delle notifiche su alcuni dispositivi Samsungs"</string>
     <string name="late_notif_title">"Modalità allarme abilitata"</string>
-    <string name="late_notif_message">"È stato rilevato che le notifiche sono state ritardate di molti minuti su alcuni dispositivi Samsung. Per prevenire ciò l\'opzione \"Modalità allarme\" è stata abilitata e dovrebbe risolvere questo problema. Puoi disabilitare o abilitare questa opzione nelle Impostazioni avanzate. Se verrà trovata una soluzione migliore per questo problema aggiorneremo l\'applicazione. Se riscontri altri problemi per favore segnalaceli via email."</string>
+    <string name="late_notif_message">"È stato rilevato che le notifiche sono state ritardate di molti minuti su alcuni dispositivi Samsung. Per prevenire ciò l'opzione \"Modalità allarme\" è stata abilitata e dovrebbe risolvere questo problema. Puoi disabilitare o abilitare questa opzione nelle Impostazioni avanzate. Se verrà trovata una soluzione migliore per questo problema aggiorneremo l'applicazione. Se riscontri altri problemi per favore segnalaceli via email."</string>
 
     <!-- Auto Alarm -->
     <string name="auto_notif_as_alarm_title">"Abilitazione automatica modalità allarme"</string>
@@ -226,7 +226,7 @@
 
     <!-- Foreground Service -->
     <string name="pref_foreground_service_title">"Servizio in primo piano"</string>
-    <string name="pref_foreground_service_on">"Mostra le notifiche non rimuovibili e abilita il servizio in background, dovrebbe prevenire lo stop dell\'applicazione."</string>
+    <string name="pref_foreground_service_on">"Mostra le notifiche non rimuovibili e abilita il servizio in background, dovrebbe prevenire lo stop dell'applicazione."</string>
     <string name="pref_foreground_service_off">"Il servizio in primo piano è disabilitato."</string>
     <string name="msg_foreground_service_off">"Servizio in primo piano disabilitato"</string> <!-- message displayed when foreground service is disabled without user interacting with this option -->
 
@@ -257,10 +257,10 @@
     <!-- Inline Attachments -->
 
     <!-- Menu - Share -->
-    <string name="action_share">"Condividi l\'applicazione"</string>
-    <string name="share_chooser_title">"Condividi l\'applicazione"</string>
-    <string name="share_title">"Controlla l\'applicazione BlipBlip hourly chime"</string>
-    <string name="share_text">"Controlla l\'applicazione Android BlipBlip hourly chime"</string>
+    <string name="action_share">"Condividi l'applicazione"</string>
+    <string name="share_chooser_title">"Condividi l'applicazione"</string>
+    <string name="share_title">"Controlla l'applicazione BlipBlip hourly chime"</string>
+    <string name="share_text">"Controlla l'applicazione Android BlipBlip hourly chime"</string>
 
     <!-- Menu - Rate -->
     <string name="action_rate">"Recensisci"</string>
@@ -274,12 +274,12 @@
 
     <!-- Menu - Error -->
     <string name="action_send_logs">"Segnala un problema"</string>
-    <string name="send_logs_describe">"Per favore, descrivi il problema che riscontri con l\'applicazione (preferibilmente in inglese):"</string>
+    <string name="send_logs_describe">"Per favore, descrivi il problema che riscontri con l'applicazione (preferibilmente in inglese):"</string>
     <string name="feedback_dialog_bug_found">"Ho trovato un bug (informazioni allegate)"</string>
 
     <!-- Menu - Improvement -->
     <string name="feedback_improvement_title">"BlipBlip necessita miglioramenti"</string>
-    <string name="feedback_improvement_message">"Per favore dicci come possiamo migliorare l\'applicazione per soddisfarti meglio."</string>
+    <string name="feedback_improvement_message">"Per favore dicci come possiamo migliorare l'applicazione per soddisfarti meglio."</string>
 
     <!-- Menu - About -->
     <string name="action_about">"Informazioni"</string>

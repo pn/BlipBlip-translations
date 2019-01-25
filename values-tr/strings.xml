@@ -82,14 +82,14 @@
     <!-- Silent Mode -->
     <string name="pref_silent_mode">"Sessiz mod"</string>
     <string name="title_silent_mode_settings">"Sessiz mod ayarları"</string>
-    <string name="sound_in_silent_mode_title">"Sessiz mod\'da ses"</string>
-    <string name="sound_in_silent_mode_on">"Sessiz mod\'da ses çalınmasına izin ver"</string>
-    <string name="sound_in_silent_mode_off">"Sessiz mod\'da sesi devre dışı bırak"</string>
-    <string name="vibrate_in_silent_mode_title">"Sessiz mod\'da titre"</string>
-    <string name="vibrate_in_silent_mode_on">"Sessiz mod\'da titreşime izin ver"</string>
-    <string name="vibrate_in_silent_mode_off">"Sessiz mod\'da titreşimi devre dışı bırak"</string>
+    <string name="sound_in_silent_mode_title">"Sessiz mod'da ses"</string>
+    <string name="sound_in_silent_mode_on">"Sessiz mod'da ses çalınmasına izin ver"</string>
+    <string name="sound_in_silent_mode_off">"Sessiz mod'da sesi devre dışı bırak"</string>
+    <string name="vibrate_in_silent_mode_title">"Sessiz mod'da titre"</string>
+    <string name="vibrate_in_silent_mode_on">"Sessiz mod'da titreşime izin ver"</string>
+    <string name="vibrate_in_silent_mode_off">"Sessiz mod'da titreşimi devre dışı bırak"</string>
     <string name="force_screen_in_silent_mode_title">"Ekran etkinleştirmeyi zorla"</string>
-    <string name="force_screen_in_silent_mode_on">"Ekranı sessiz mod\'da aç, \"Ekranı bildirim geldiğinde aç\" ayarı devre dışı olsa bile"</string>
+    <string name="force_screen_in_silent_mode_on">"Ekranı sessiz mod'da aç, \"Ekranı bildirim geldiğinde aç\" ayarı devre dışı olsa bile"</string>
     <string name="force_screen_in_silent_mode_off">"Devre dışı"</string>
     <string name="warn_sound_disabled_silent_mode">"Sessiz mod etkin. BlipBlip bildirim sesi devre dışı bırakılıyor."</string>
 
@@ -129,8 +129,8 @@
     <string name="quiet_days_title">"Sessiz günler"</string>
     <string name="days_none">"Yok"</string>
     <string name="days_everyday">"Everyday"</string> <!-- TODO translate -->
-    <string name="quiet_day_warning">" Bugün \"sessiz gün\". Bildirim devre dışı bırakıldı."</string>
-    <string name="toast_change_quiet_days">"Lütfen BlipBlip\'i bugün çalıştırmak için \"Sessiz zaman\" ayarını değiştir."</string>
+    <string name="quiet_day_warning">"Bugün \"sessiz gün\". Bildirim devre dışı bırakıldı."</string>
+    <string name="toast_change_quiet_days">"Lütfen BlipBlip'i bugün çalıştırmak için \"Sessiz zaman\" ayarını değiştir."</string>
 
     <!-- While Music -->
     <string name="while_music">"Müzik çalarken devre dışı"</string>
@@ -278,7 +278,7 @@
     <string name="feedback_dialog_bug_found">"Bir hata buldum (günlükleri ekle)"</string>
 
     <!-- Menu - Improvement -->
-    <string name="feedback_improvement_title">"BlipBlip\'in düzenlenmesi gerekiyor"</string>
+    <string name="feedback_improvement_title">"BlipBlip'in düzenlenmesi gerekiyor"</string>
     <string name="feedback_improvement_message">"Lütfen bize neyin düzenleneceğini söyle, senin için uygulamayı daha iyi yapalım."</string>
 
     <!-- Menu - About -->

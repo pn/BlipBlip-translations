@@ -11,16 +11,16 @@
     <string name="warning">"Avertissement"</string>
     <string name="warning_understood">"Obtenir"</string>
     <string name="please_wait">"Merci de patienter !"</string>
-    <string name="warn_power_saving">"Pour un fonctionnement fiable désactivez tous les modes d\'économie d\'énergie."</string> <!-- Please make this as short as possible -->
+    <string name="warn_power_saving">"Pour un fonctionnement fiable désactivez tous les modes d'économie d'énergie."</string> <!-- Please make this as short as possible -->
     <string name="allow_while_idle_title">"Autoriser en mode faible puissance"</string>
     <string name="allow_while_idle_off">"Lorsque le téléphone passe en mode de faible puissance des notifications peuvent être ignorées."</string>
-    <string name="allow_while_idle_on">"Autorisation de fonctionnement en mode de faible puissance (Sommeil/Ralenti). Ne fonctionne pas toujours pour les notifications ayant un fréquence de plus de 15 minutes. Ce réglage peut affecter légèrement la durée d\'utilisation de la batterie."</string>
+    <string name="allow_while_idle_on">"Autorisation de fonctionnement en mode de faible puissance (Sommeil/Ralenti). Ne fonctionne pas toujours pour les notifications ayant un fréquence de plus de 15 minutes. Ce réglage peut affecter légèrement la durée d'utilisation de la batterie."</string>
     <string name="app_killed_title">"App was killed"</string> <!-- TODO translate -->
 
     <!-- Next Notification -->
     <string name="next_notification_off">"Éteint"</string>
     <string name="upcoming_notifications">"Notifications à venir"</string>
-    <string name="day_today">"Aujourd\'hui"</string>
+    <string name="day_today">"Aujourd'hui"</string>
     <string name="day_tomorrow">"Demain"</string>
     <string name="day_monday">"Lundi"</string>
     <string name="day_tuesday">"Mardi"</string>
@@ -88,8 +88,8 @@
     <string name="vibrate_in_silent_mode_title">"Vibrations dans le mode silencieux"</string>
     <string name="vibrate_in_silent_mode_on">"Autoriser les vibrations dans le mode silencieux"</string>
     <string name="vibrate_in_silent_mode_off">"Désactiver le vibreur en mode silencieux"</string>
-    <string name="force_screen_in_silent_mode_title">"Forcer l\'activation de l\'écran"</string>
-    <string name="force_screen_in_silent_mode_on">"Allumer l\'écran en mode silencieux, même si l\'option \"Allumer l\'écran lors d\'une notification\" est désactivée"</string>
+    <string name="force_screen_in_silent_mode_title">"Forcer l'activation de l'écran"</string>
+    <string name="force_screen_in_silent_mode_on">"Allumer l'écran en mode silencieux, même si l'option \"Allumer l'écran lors d'une notification\" est désactivée"</string>
     <string name="force_screen_in_silent_mode_off">"Désactiver"</string>
     <string name="warn_sound_disabled_silent_mode">"Son de notification de BlipBlip désactivé, parce que votre appareil est en mode silencieux."</string>
 
@@ -105,8 +105,8 @@
     <string name="force_vibrate_in_vibrate_mode_title">"Forcer le vibreur"</string>
     <string name="force_vibrate_in_vibrate_mode_on">"Vibration forcée en mode vibreur, même si la vibration est désactivée"</string>
     <string name="force_vibrate_in_vibrate_mode_off">"Désactivé"</string>
-    <string name="force_screen_in_vibrate_mode_title">"Forcer l\'activation de l\'écran"</string>
-    <string name="force_screen_in_vibrate_mode_on">"Allumer l\'écran en mode vibreur, même si l\'option \"Allumer l\'écran lors d\'une notification\" est désactivée"</string>
+    <string name="force_screen_in_vibrate_mode_title">"Forcer l'activation de l'écran"</string>
+    <string name="force_screen_in_vibrate_mode_on">"Allumer l'écran en mode vibreur, même si l'option \"Allumer l'écran lors d'une notification\" est désactivée"</string>
     <string name="force_screen_in_vibrate_mode_off">"Désactivé"</string>
     <string name="warn_sound_disabled_vibrate_mode">"Son de notification de BlipBlip désactivé, parce que votre appareil est en mode vibreur."</string>
 
@@ -129,8 +129,8 @@
     <string name="quiet_days_title">"Jours de silence"</string>
     <string name="days_none">"Aucun"</string>
     <string name="days_everyday">"Everyday"</string> <!-- TODO translate -->
-    <string name="quiet_day_warning">"Notification désactivée, Parce qu\'aujourd\'hui est le \"jour de silence\"."</string>
-    <string name="toast_change_quiet_days">"Merci de modifier la configuration du \"jour de silence\" pour faire fonctionner BlipBlip aujourd\'hui."</string>
+    <string name="quiet_day_warning">"Notification désactivée, Parce qu'aujourd'hui est le \"jour de silence\"."</string>
+    <string name="toast_change_quiet_days">"Merci de modifier la configuration du \"jour de silence\" pour faire fonctionner BlipBlip aujourd'hui."</string>
 
     <!-- While Music -->
     <string name="while_music">"Désactiver avec la musique"</string>
@@ -162,8 +162,8 @@
 
     <!-- Show Notification Always -->
     <string name="pref_notification_always">"Toujours afficher"</string>
-    <string name="pref_notification_always_on">"Notification d\'affichage peu importe si elle est activée"</string>
-    <string name="pref_notification_always_off">"Notification d\'affichage uniquement si elle est activée"</string>
+    <string name="pref_notification_always_on">"Notification d'affichage peu importe si elle est activée"</string>
+    <string name="pref_notification_always_off">"Notification d'affichage uniquement si elle est activée"</string>
     <string name="notification_settings_updated">"Paramètres de notification mis à jour."</string> <!-- message displayed when one of notification settings is updated without user interacting with these options -->
     <string name="permanent_notification">"Permanent notification"</string> <!-- TODO translate -->
 
@@ -183,7 +183,7 @@
     <string name="auto_dismiss_notification_off">"Notification will not be dismissed automatically."</string> <!-- TODO translate -->
 
     <!-- Vibrate on Wear -->
-    <string name="pref_vibrate_wear_title">"Vibration lors de l\'utilisation"</string>
+    <string name="pref_vibrate_wear_title">"Vibration lors de l'utilisation"</string>
     <string name="pref_vibrate_wear_off">"Pas de vibration sur le périphérique Android"</string>
     <string name="pref_vibrate_wearable_title">@string/pref_vibrate_wear_title</string> <!-- TODO translate ""Vibrate on connected device""-->
     <string name="pref_vibrate_wearable_on2">"If vibration is enabled vibrate also on connected wearable device (e.g. smart watch). Requires adding System notification action."</string> <!-- TODO translate -->
@@ -205,18 +205,18 @@
 
     <!-- Reliability -->
     <string name="pref_reliability">"Paramètres de fiabilité"</string> <!-- title of settings section meant for all settings which may improve running of the app without issues -->
-    <string name="reliability_warning">"Modifier ces paramètres peut impacter la fiabilité de l\'application."</string> <!-- This message should be as short as possible. There is risk of cutting it off if it will be too long -->
+    <string name="reliability_warning">"Modifier ces paramètres peut impacter la fiabilité de l'application."</string> <!-- This message should be as short as possible. There is risk of cutting it off if it will be too long -->
 
     <!-- Alarm Mode -->
-    <string name="notif_as_alarm_title">"Mode d\'alarme"</string>
+    <string name="notif_as_alarm_title">"Mode d'alarme"</string>
     <string name="notif_as_alarm_off">"Notifications régulières"</string>
     <string name="notif_as_alarm_on">"Les notifications peuvent rencontrer un délai de quelques minutes sur certains périphériques Samsung"</string>
     <string name="late_notif_title">"Mode alarme activé"</string>
-    <string name="late_notif_message">"Il a été détecté que la notification a été retardée de plusieurs minutes, ce qui se passe sur certains appareils Samsung. Pour éviter ceci, ce \"Mode Alarme\" option a été activé et devrait résoudre ce problème. Vous pouvez désactiver cette option et l\'activation automatique de cette option dans les paramètres avancés. Dés qu\'une meilleure solution sera trouvée pour résoudre ce problème, l\'application sera mise à jour. Si vous rencontrez plus de problèmes, veuillez les signaler par e-mail."</string>
+    <string name="late_notif_message">"Il a été détecté que la notification a été retardée de plusieurs minutes, ce qui se passe sur certains appareils Samsung. Pour éviter ceci, ce \"Mode Alarme\" option a été activé et devrait résoudre ce problème. Vous pouvez désactiver cette option et l'activation automatique de cette option dans les paramètres avancés. Dés qu'une meilleure solution sera trouvée pour résoudre ce problème, l'application sera mise à jour. Si vous rencontrez plus de problèmes, veuillez les signaler par e-mail."</string>
 
     <!-- Auto Alarm -->
-    <string name="auto_notif_as_alarm_title">"Activation du mode d\'alarme auto"</string>
-    <string name="auto_notif_as_alarm_on">"Activer le mode d\'alarme en cas de détection de retard de notificationon"</string>
+    <string name="auto_notif_as_alarm_title">"Activation du mode d'alarme auto"</string>
+    <string name="auto_notif_as_alarm_on">"Activer le mode d'alarme en cas de détection de retard de notificationon"</string>
     <string name="auto_notif_as_alarm_off">"Ne pas activer le mode alarme automatiquement"</string>
 
     <!-- Low Valume -->
@@ -226,19 +226,19 @@
 
     <!-- Foreground Service -->
     <string name="pref_foreground_service_title">"Services de premier plan"</string>
-    <string name="pref_foreground_service_on">"Affiche une notification non révocable et permet un service d\'arrière-plan qui pourrait empêcher la fermeture de l\'application. Il est toujours préférable de le désactiver sur certains appareils pour empêcher la fermeture de l\'application."</string>
+    <string name="pref_foreground_service_on">"Affiche une notification non révocable et permet un service d'arrière-plan qui pourrait empêcher la fermeture de l'application. Il est toujours préférable de le désactiver sur certains appareils pour empêcher la fermeture de l'application."</string>
     <string name="pref_foreground_service_off">"Le service de premier plan est désactivé. Ce paramètre est recommandé."</string>
     <string name="msg_foreground_service_off">"Le service de premier plan est désactivé."</string> <!-- message displayed when foreground service is disabled without user interacting with this option -->
 
     <!-- Toast Notifications -->
-    <string name="pref_toast_notifications">"Messages sur l\'écran"</string>
-    <string name="pref_toast_notifications_on">"Afficher les messages et avertissements sur l\'écran"</string>
-    <string name="pref_toast_notifications_off">"Masquer les messages et avertissements sur l\'écran"</string>
+    <string name="pref_toast_notifications">"Messages sur l'écran"</string>
+    <string name="pref_toast_notifications_on">"Afficher les messages et avertissements sur l'écran"</string>
+    <string name="pref_toast_notifications_off">"Masquer les messages et avertissements sur l'écran"</string>
 
     <!-- Logs -->
     <string name="debug_logs_title">"Collecte des journaux de débogage"</string>
-    <string name="debug_logs_off">"Journal d\'écriture désactivé"</string>
-    <string name="debug_logs_on">"Enregistrer les journaux d\'erreurs pour reporter les problèmes par email"</string>
+    <string name="debug_logs_off">"Journal d'écriture désactivé"</string>
+    <string name="debug_logs_on">"Enregistrer les journaux d'erreurs pour reporter les problèmes par email"</string>
 
     <!-- Beta -->
     <string name="beta_preference_title">"BlipBlip Beta"</string> <!-- TODO translate -->
@@ -257,13 +257,13 @@
     <!-- Inline Attachments -->
 
     <!-- Menu - Share -->
-    <string name="action_share">"Partager l\'application"</string>
+    <string name="action_share">"Partager l'application"</string>
     <string name="share_chooser_title">"Partager cette application !"</string>
-    <string name="share_title">"Vérifier l\'application BlipBlip Carillon horaire !"</string>
-    <string name="share_text">"Vérifier l\'application BlipBlip Carillon horaire sur Android!"</string>
+    <string name="share_title">"Vérifier l'application BlipBlip Carillon horaire !"</string>
+    <string name="share_text">"Vérifier l'application BlipBlip Carillon horaire sur Android!"</string>
 
     <!-- Menu - Rate -->
-    <string name="action_rate">"Noter l\'application"</string>
+    <string name="action_rate">"Noter l'application"</string>
     <string name="rate_us_title">"Voter pour nous !"</string>
     <string name="rate_us_message">"Merci pour le temps que vous avez pris pour noter cette application."</string>
     <string name="rate_us_onetofourstars">"1 à 4 étoiles"</string>
@@ -274,8 +274,8 @@
 
     <!-- Menu - Error -->
     <string name="action_send_logs">"Signaler un problème"</string>
-    <string name="send_logs_describe">"Merci de décrire le problème rencontré avec l\'application (de préférence en anglais):"</string>
-    <string name="feedback_dialog_bug_found">"J\'ai trouvé un Bug (journal attaché)"</string>
+    <string name="send_logs_describe">"Merci de décrire le problème rencontré avec l'application (de préférence en anglais):"</string>
+    <string name="feedback_dialog_bug_found">"J'ai trouvé un Bug (journal attaché)"</string>
 
     <!-- Menu - Improvement -->
     <string name="feedback_improvement_title">"BlipBlip doit être amélioré"</string>
@@ -303,24 +303,24 @@
     <string name="warn_notification_skip">"Certaines notifications seront ignorées."</string> <!-- Please make this as short as possible. This warning is displayed when user chooses to skip few upcoming notifications. -->
     <string name="warn_volume_zero">"Le volume actuel est réglé sur zéro."</string> <!-- Please make this as short as possible. This warning is displayed when current system volume is set to 0. -->
     <string name="pref_low_mem_restart_title">"Redémarrage en mémoire faible"</string>
-    <string name="pref_low_mem_restart_on">"Essayez de redémarrer l\'application si le périphérique est faible en mémoire. Cela ne fonctionnera pas sur tous les périphériques. Il n\'est pas nécessaire sur la plupart des appareils (peut utiliser un peu plus de batterie)."</string>
-    <string name="pref_low_mem_restart_off">"N\'essayez pas de redémarrer l\'application si le périphérique est faible en mémoire."</string>
+    <string name="pref_low_mem_restart_on">"Essayez de redémarrer l'application si le périphérique est faible en mémoire. Cela ne fonctionnera pas sur tous les périphériques. Il n'est pas nécessaire sur la plupart des appareils (peut utiliser un peu plus de batterie)."</string>
+    <string name="pref_low_mem_restart_off">"N'essayez pas de redémarrer l'application si le périphérique est faible en mémoire."</string>
     <string name="pref_heading_notification_accuracy">"Exactitude des notifications"</string> <!-- punctuality -->
     <string name="pref_delay_prevention_title">"Prévenir les retards"</string>
-    <string name="pref_delay_prevention_on">"Essayer d\'empêcher les retards de notification qui se produisent sur certains périphériques. Peut utiliser plus de batterie."</string>
-    <string name="pref_delay_prevention_off">"Ne pas ssayer d\'empêcher les retards de notification qui se produisent sur certains périphériques. Utilise moins de batterie."</string>
+    <string name="pref_delay_prevention_on">"Essayer d'empêcher les retards de notification qui se produisent sur certains périphériques. Peut utiliser plus de batterie."</string>
+    <string name="pref_delay_prevention_off">"Ne pas ssayer d'empêcher les retards de notification qui se produisent sur certains périphériques. Utilise moins de batterie."</string>
     <string name="pref_aggressive_delay_prevention_title">"Prévenir les retards agressivement"</string>
     <string name="pref_aggressive_delay_prevention_on">"Affiner la précision des notifications. Peut utiliser plus de batterie."</string>
-    <string name="pref_aggressive_delay_prevention_off">"Les notifications peuvent s\'afficher avec du retard dans de rares cas. Utilise moins de batterie."</string>
+    <string name="pref_aggressive_delay_prevention_off">"Les notifications peuvent s'afficher avec du retard dans de rares cas. Utilise moins de batterie."</string>
     <string name="pref_ignore_delayed_title">"Ignorer les notifications retardées"</string>
     <string name="pref_ignore_delayed_on">"Si la notification est considérée comme retardée, elle ne sera pas montrée ou jouée."</string>
     <string name="pref_ignore_delayed_off">"Les notifications seront affichées ou lues même si elles sont retardées."</string>
     <string name="pref_audio_focus_title">"Mise au point audio"</string> <!-- option to improve ability to hear app sounds by decreasing volume of other apps or pausing them -->
-    <string name="pref_audio_focus_on">"Lorsque que l\'application utilise le son, le volume audio des autres applications sera plus silencieux ou en mis en pause."</string>
-    <string name="pref_audio_focus_off">"Les sons provenant d\'autres applications sont lus normalement."</string>
+    <string name="pref_audio_focus_on">"Lorsque que l'application utilise le son, le volume audio des autres applications sera plus silencieux ou en mis en pause."</string>
+    <string name="pref_audio_focus_off">"Les sons provenant d'autres applications sont lus normalement."</string>
     <string name="pref_audio_focus_dont_duck_title">"Mettre en pause la lecture"</string>
-    <string name="pref_audio_focus_dont_duck_on">"Alors que l\'application est en train de jouer, d\'autres applications peuvent mettre en pause leur son."</string>
-    <string name="pref_audio_focus_dont_duck_off">"Alors que l\'application est en train de jouer, d\'autres applications peuvent réduire leur volume sonore."</string>
+    <string name="pref_audio_focus_dont_duck_on">"Alors que l'application est en train de jouer, d'autres applications peuvent mettre en pause leur son."</string>
+    <string name="pref_audio_focus_dont_duck_off">"Alors que l'application est en train de jouer, d'autres applications peuvent réduire leur volume sonore."</string>
 
     <!-- Plurals -->
     <!-- check which quantities and how should be used for given language here http://www.unicode.org/cldr/charts/29/supplemental/language_plural_rules.html -->
@@ -345,7 +345,7 @@
 
     <string name="pref_reset_accuracy_params">"Réinitialiser les paramètres"</string>
     <string name="pref_reset_accuracy_params_desc">"Réinitialise les paramètres internes qui améliorent la précision des notifications."</string>
-    <string name="warn_foreground_service_disabled">"Le paramètre du service au premier plan a été désactivé. Cela peut augmenter les chances que le processus en arrière-plan se ferme et que l\'application s\'arrête."</string>
+    <string name="warn_foreground_service_disabled">"Le paramètre du service au premier plan a été désactivé. Cela peut augmenter les chances que le processus en arrière-plan se ferme et que l'application s'arrête."</string>
 
     <!-- Airplane mode -->
     <string name="pref_airplane_mode">"Airplane mode"</string> <!-- TODO translate -->

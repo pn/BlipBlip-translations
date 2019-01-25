@@ -215,7 +215,7 @@
     <string name="late_notif_message">"S' ha detectat que les notificacions s' han retardat dibersos minuts, cosa que passa en alguns dispositius de Samsung. Per poder previndre-ho activeu \"Mode d' alarma\", que deuria solucionar el problema. Podeu desactivar l' opció i activar-la de forma automàtica en la Configuració avançada. Si s' aconsegueix una millora al problema l' actualitzarem. Si teniu algun problema si us plau, aviseu-nos per correu electrònic."</string>
 
     <!-- Auto Alarm -->
-    <string name="auto_notif_as_alarm_title">"Mode d\'alarma automàtic"</string>
+    <string name="auto_notif_as_alarm_title">"Mode d'alarma automàtic"</string>
     <string name="auto_notif_as_alarm_on">"Activa Mode d' alarma si es detecta retard en les notificacions"</string>
     <string name="auto_notif_as_alarm_off">"Evita l' activació automàtica del Mode d' Alarma"</string>
 

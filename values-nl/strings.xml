@@ -370,9 +370,9 @@
     <string name="theme_teal">"Teal"</string> <!-- translated -->
 
     <string name="pref_color_theme">"Thema"</string>
-    <string name="cycle_themes_message">"Schakel thema\'s met behulp van de volumeknoppen"</string>
+    <string name="cycle_themes_message">"Schakel thema's met behulp van de volumeknoppen"</string>
     <string name="cycle_themes_finish">"Ok"</string>
-    <string name="cycle_themes">"Doorloop thema\'s"</string>
+    <string name="cycle_themes">"Doorloop thema's"</string>
     <string name="cycle_themes_description">"Laat toe om van thema te wisselen met behulp van de volumeknoppen"</string>
     <string name="color_next_notification_bar">"Kleur volgende meldingsbalk"</string>
     <string name="color_next_notification_bar_on">"Gebruik de achtergrondkleur voor de volgende meldingenbalk."</string>
@@ -426,8 +426,8 @@
     <string name="pref_swipe_on">"Vegen ingeschakeld op lijst items"</string>
     <string name="pref_swipe_off">"vegen uitgeschakeld op lijst items"</string>
     <string name="pref_action_menus">"Actie menus"</string>
-    <string name="pref_action_menus_on">"Toon menu\'s met acties die anders gebaren zouden vereisen (bijvoorbeeld vegen). Handig bij het gebruik van TalkBack."</string>
-    <string name="pref_action_menus_off">"Verberg menu\'s met acties die ook kunnen worden uitgevoerd met behulp van bewegingen."</string>
+    <string name="pref_action_menus_on">"Toon menu's met acties die anders gebaren zouden vereisen (bijvoorbeeld vegen). Handig bij het gebruik van TalkBack."</string>
+    <string name="pref_action_menus_off">"Verberg menu's met acties die ook kunnen worden uitgevoerd met behulp van bewegingen."</string>
     <string name="next_notification">"Volgende notificatie: %1$s"</string>
     <string name="next_tomorrow">"morgen at %1$s"</string> <!-- e.g. tomorrow at 10:00 -->
     <string name="next_on_mon">"Maandag om %1$s"</string>
