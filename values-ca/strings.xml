@@ -383,7 +383,7 @@
     <string name="night_mode_system">"System setting"</string> <!-- TODO translate -->
 
     <string name="title_activity_sounds">"Sounds"</string> <!-- TODO translate -->
-    <string name="title_activity_sound">@string/sound_text</string> <!-- TODO translate ""@string/sound_text""-->
+    <string name="title_activity_sound">"Sound"</string> <!-- TODO translate -->
     <string name="title_activity_vibrations">"Vibrations"</string> <!-- TODO translate -->
     <string name="title_activity_vibration">@string/vibrate</string> <!-- TODO translate ""@string/vibrate""-->
     <string name="action_delete">"Delete"</string> <!-- TODO translate -->

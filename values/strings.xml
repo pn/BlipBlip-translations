@@ -383,7 +383,7 @@
     <string name="night_mode_system">"System setting"</string>
 
     <string name="title_activity_sounds">"Sounds"</string>
-    <string name="title_activity_sound">"@string/sound_text"</string>
+    <string name="title_activity_sound">"Sound"</string>
     <string name="title_activity_vibrations">"Vibrations"</string>
     <string name="title_activity_vibration">"@string/vibrate"</string>
     <string name="action_delete">"Delete"</string>

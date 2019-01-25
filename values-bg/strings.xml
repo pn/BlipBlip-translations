@@ -383,9 +383,9 @@
     <string name="night_mode_system">"System setting"</string> <!-- TODO translate -->
 
     <string name="title_activity_sounds">"Звуци"</string>
-    <string name="title_activity_sound">@string/sound_text</string> <!-- TODO translate ""@string/sound_text""-->
+    <string name="title_activity_sound">"Мелодия"</string>
     <string name="title_activity_vibrations">"Вибрации"</string>
-    <string name="title_activity_vibration">@string/vibrate</string> <!-- TODO translate ""@string/vibrate""-->
+    <string name="title_activity_vibration">"Вибриране"</string>
     <string name="action_delete">"Изтрий"</string>
     <string name="action_add_vibration_pattern">"Създаване"</string>
     <string name="dialog_title_deletion">"Потвърждаване на изтриването"</string>
