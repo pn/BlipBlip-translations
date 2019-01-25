@@ -326,21 +326,20 @@
     <!-- check which quantities and how should be used for given language here http://www.unicode.org/cldr/charts/29/supplemental/language_plural_rules.html -->
     <!-- Uncomment or add proper "zero", "two", "few" or "many" item if needed for your language -->
     <plurals name="repeat_every_x_hours"> <!-- "X hours" as in "Repeat every X hours" is different in some languages (e.g. Polish) from regular "X hours" -->
-        <item quantity="one">%d hora</item>
-        <item quantity="other">%d hores</item>
+        <item quantity="one">"%d hora"</item>
+        <item quantity="other">"%d hores"</item>
     </plurals>
     <plurals name="repeat_every_x_minutes">
-        <item quantity="one">%d minut</item>
-        <item quantity="other">%d minuts</item>
+        <item quantity="one">"%d minut"</item>
+        <item quantity="other">"%d minuts"</item>
     </plurals>
     <plurals name="repeat_every_x_seconds">
-        <item quantity="one">%d segon</item>
-        <item quantity="other">%d segons</item>
+        <item quantity="one">"%d segon"</item>
+        <item quantity="other">"%d segons"</item>
     </plurals>
-
     <plurals name="repeat_number_of_times">
-        <item quantity="one">%d time</item>
-        <item quantity="other">%d times</item>
+        <item quantity="one">"%d time"</item>
+        <item quantity="other">"%d times"</item>
     </plurals>
 
     <string name="pref_reset_accuracy_params">"Restableix els paràmetres"</string>

@@ -326,28 +326,28 @@
     <!-- check which quantities and how should be used for given language here http://www.unicode.org/cldr/charts/29/supplemental/language_plural_rules.html -->
     <!-- Uncomment or add proper "zero", "two", "few" or "many" item if needed for your language -->
     <plurals name="repeat_every_x_hours">
-        <item quantity="one">%d godzinę</item>
-        <item quantity="few">%d godziny</item>
-        <item quantity="many">%d godzin</item>
-        <item quantity="other">%d godziny</item>
+        <item quantity="one">"%d godzinę"</item>
+        <item quantity="few">"%d godziny"</item>
+        <item quantity="many">"%d godzin"</item>
+        <item quantity="other">"%d godziny"</item>
     </plurals>
     <plurals name="repeat_every_x_minutes">
-        <item quantity="one">%d minutę</item>
-        <item quantity="few">%d minuty</item>
-        <item quantity="many">%d minut</item>
-        <item quantity="other">%d minuty</item>
+        <item quantity="one">"%d minutę"</item>
+        <item quantity="few">"%d minuty"</item>
+        <item quantity="many">"%d minut"</item>
+        <item quantity="other">"%d minuty"</item>
     </plurals>
     <plurals name="repeat_every_x_seconds">
-        <item quantity="one">%d sekundę</item>
-        <item quantity="few">%d sekundy</item>
-        <item quantity="many">%d sekund</item>
-        <item quantity="other">%d sekundy</item>
+        <item quantity="one">"%d sekundę"</item>
+        <item quantity="few">"%d sekundy"</item>
+        <item quantity="many">"%d sekund"</item>
+        <item quantity="other">"%d sekundy"</item>
     </plurals>
     <plurals name="repeat_number_of_times">
-        <item quantity="one">%d raz</item>
-        <item quantity="few">%d razy</item>
-        <item quantity="many">%d razy</item>
-        <item quantity="other">%d razy</item>
+        <item quantity="one">"%d raz"</item>
+        <item quantity="few">"%d razy"</item>
+        <item quantity="many">"%d razy"</item>
+        <item quantity="other">"%d razy"</item>
     </plurals>
 
     <string name="pref_reset_accuracy_params">"Resetuj parametry"</string>

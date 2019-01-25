@@ -326,17 +326,16 @@
     <!-- check which quantities and how should be used for given language here http://www.unicode.org/cldr/charts/29/supplemental/language_plural_rules.html -->
     <!-- Uncomment or add proper "zero", "two", "few" or "many" item if needed for your language -->
     <plurals name="repeat_every_x_hours"> <!-- "X hours" as in "Repeat every X hours" is different in some languages (e.g. Polish) from regular "X hours" -->
-        <item quantity="other">%d giờ</item>
+        <item quantity="other">"%d giờ"</item>
     </plurals>
     <plurals name="repeat_every_x_minutes">
-        <item quantity="other">%d phút</item>
+        <item quantity="other">"%d phút"</item>
     </plurals>
     <plurals name="repeat_every_x_seconds">
-        <item quantity="other">%d giây</item>
+        <item quantity="other">"%d giây"</item>
     </plurals>
-
     <plurals name="repeat_number_of_times">
-        <item quantity="one">%d lần</item>
+        <item quantity="other">"%d lần"</item>
     </plurals>
 
     <string name="pref_reset_accuracy_params">"Đặt lại các thông số"</string>

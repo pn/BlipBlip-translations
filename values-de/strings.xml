@@ -326,19 +326,20 @@
     <!-- check which quantities and how should be used for given language here http://www.unicode.org/cldr/charts/29/supplemental/language_plural_rules.html -->
     <!-- Uncomment or add proper "zero", "two", "few" or "many" item if needed for your language -->
     <plurals name="repeat_every_x_hours"> <!-- "X hours" as in "Repeat every X hours" is different in some languages (e.g. Polish) from regular "X hours" -->
-            <item quantity="one">%d Stunde</item>
-            <item quantity="other">%d Stunden</item></plurals>
-            <plurals name="repeat_every_x_minutes">
-            <item quantity="one">%d Minute</item>
-            <item quantity="other">%d Minuten</item>
-        </plurals>
-        <plurals name="repeat_every_x_seconds">
-            <item quantity="one">%d Sekunde</item>
-            <item quantity="other">%d Sekunden</item>
-        </plurals>
+        <item quantity="one">"%d Stunde"</item>
+        <item quantity="other">"%d Stunden"</item>
+    </plurals>
+    <plurals name="repeat_every_x_minutes">
+        <item quantity="one">"%d Minute"</item>
+        <item quantity="other">"%d Minuten"</item>
+    </plurals>
+    <plurals name="repeat_every_x_seconds">
+        <item quantity="one">"%d Sekunde"</item>
+        <item quantity="other">"%d Sekunden"</item>
+    </plurals>
     <plurals name="repeat_number_of_times">
-        <item quantity="one">%d mal</item>
-        <item quantity="other">%d male</item>
+        <item quantity="one">"%d mal"</item>
+        <item quantity="other">"%d male"</item>
     </plurals>
 
     <string name="pref_reset_accuracy_params">"Parameter zurücksetzen"</string>
