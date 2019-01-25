@@ -183,8 +183,6 @@
     <string name="auto_dismiss_notification_off">"Notification will not be dismissed automatically."</string> <!-- TODO translate -->
 
     <!-- Vibrate on Wear -->
-    <string name="pref_vibrate_wear_title">"Vibrálás Wear-en"</string>
-    <string name="pref_vibrate_wear_off">"Ne vibráljon Android Wear készüléken."</string>
     <string name="pref_vibrate_wearable_title">"Vibrálás csatlakozó készüléken"</string>
     <string name="pref_vibrate_wearable_on2">"Ha a vibrálás engedélyezett, vibráljon a csatlakozó viselhető készüléken (pl. okosóra). Rendszer figyelmeztetés hozzáadását igényli."</string>
     <string name="pref_vibrate_wearable_off">"Ne vibráljon csatlakozó viselhető készüléken"</string>
@@ -383,9 +381,9 @@
     <string name="night_mode_system">"System setting"</string> <!-- TODO translate -->
 
     <string name="title_activity_sounds">"Hangok"</string>
-    <string name="title_activity_sound">@string/sound_text</string> <!-- TODO translate ""@string/sound_text""-->
+    <string name="title_activity_sound">"Hang"</string> <!-- TODO validate -->
     <string name="title_activity_vibrations">"Vibrálások"</string>
-    <string name="title_activity_vibration">@string/vibrate</string> <!-- TODO translate ""@string/vibrate""-->
+    <string name="title_activity_vibration">"Vibrálás"</string> <!-- TODO validate -->
     <string name="action_delete">"Törlés"</string>
     <string name="action_add_vibration_pattern">"Bejegyzés hozzáadása"</string>
     <string name="dialog_title_deletion">"Törlés megerősítése"</string>
@@ -565,7 +563,7 @@
     <string name="pref_text_to_speech_engine">"Engine"</string> <!-- TODO translate -->
     <string name="pref_text_to_speech_voice">"Voice"</string> <!-- TODO translate -->
     <string name="pref_text_to_speech">"Szöveg beszéddé"</string>
-    <string name="system_default_audio_stream">@string/setting_system_default</string> <!-- TODO translate ""@string/setting_system_default""-->
+    <string name="system_default_audio_stream">"Rendszer alapbeállítás"</string> <!-- TODO validate -->
     <string name="application_default">"Alkalmazás alapbeállítás"</string>
     <string name="speak_time_format_with_minutes">"Kimondott idő percekkel"</string>
     <string name="speak_time_on_the_hour">"Kimondott idő, minden órakor"</string>

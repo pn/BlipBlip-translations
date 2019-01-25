@@ -183,11 +183,9 @@
     <string name="auto_dismiss_notification_off">"A notificação não será ignorada automaticamente."</string>
 
     <!-- Vibrate on Wear -->
-    <string name="pref_vibrate_wear_title">"Vibrar no Android Wear"</string>
-    <string name="pref_vibrate_wear_off">"Não vibrar no Android Wear"</string>
-    <string name="pref_vibrate_wearable_title">@string/pref_vibrate_wear_title</string> <!-- TODO translate ""Vibrate on connected device""-->
+    <string name="pref_vibrate_wearable_title">"Vibrate on connected device"</string> <!-- TODO translate -->
     <string name="pref_vibrate_wearable_on2">"Se a vibração estiver ativada, também vibrar nos dispositivos Android Wear compatíveis (por exemplo, Smart Watch). Necessita que tenha adicionado uma notificação do sistema."</string>
-    <string name="pref_vibrate_wearable_off">@string/pref_vibrate_wear_off</string> <!-- TODO translate ""Do not vibrate on connected wearable device""-->
+    <string name="pref_vibrate_wearable_off">"Do not vibrate on connected wearable device"</string> <!-- TODO translate -->
 
     <!-- Action Buttons -->
     <string name="pref_notification_action_buttons">"Botões de ação"</string> <!-- Preference name for choosing which buttons are visible on notification -->
@@ -383,9 +381,9 @@
     <string name="night_mode_system">"System setting"</string> <!-- TODO translate -->
 
     <string name="title_activity_sounds">"Sons"</string>
-    <string name="title_activity_sound">@string/sound_text</string> <!-- TODO translate ""@string/sound_text""-->
-    <string name="title_activity_vibrations">"Vibração"</string>
-    <string name="title_activity_vibration">@string/vibrate</string> <!-- TODO translate ""@string/vibrate""-->
+    <string name="title_activity_sound">"Som"</string> <!-- TODO validate -->
+    <string name="title_activity_vibrations">"Bibrações"</string>
+    <string name="title_activity_vibration">"Vibração"</string> <!-- TODO validate -->
     <string name="action_delete">"Eliminar"</string>
     <string name="action_add_vibration_pattern">"Adicionar"</string>
     <string name="dialog_title_deletion">"Pergunta"</string>
@@ -565,7 +563,7 @@
     <string name="pref_text_to_speech_engine">"Motor de TTS"</string>
     <string name="pref_text_to_speech_voice">"Voz"</string>
     <string name="pref_text_to_speech">"Texto para voz"</string>
-    <string name="system_default_audio_stream">@string/setting_system_default</string> <!-- TODO translate ""@string/setting_system_default""-->
+    <string name="system_default_audio_stream">"Predefinido pelo sistema"</string> <!-- TODO validate -->
     <string name="application_default">"Predefinido da aplicação"</string>
     <string name="speak_time_format_with_minutes">"Falar as horas e minutos"</string>
     <string name="speak_time_on_the_hour">"Falar nas horas certas"</string>

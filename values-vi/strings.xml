@@ -183,8 +183,6 @@
     <string name="auto_dismiss_notification_off">"Notification will not be dismissed automatically."</string> <!-- TODO translate -->
 
     <!-- Vibrate on Wear -->
-    <string name="pref_vibrate_wear_title">"Rung trên thiết bị Android Wear"</string>
-    <string name="pref_vibrate_wear_off">"Không rung trên thiết bị Android Wear"</string>
     <string name="pref_vibrate_wearable_title">"Rung trên thiết bị đã kết nối"</string>
     <string name="pref_vibrate_wearable_on2">"Nếu rung đã kích hoạt thì cũng sẽ rung trên các thiết bị đã kết nối (ví dụ: đồng hồ thông minh. Yêu cầu thêm vào thông báo hệ thống."</string>
     <string name="pref_vibrate_wearable_off">"Đừng rung trên thiết bị đeo tay đã kết nối"</string>
@@ -379,9 +377,9 @@
     <string name="night_mode_system">"System setting"</string> <!-- TODO translate -->
 
     <string name="title_activity_sounds">"Âm thanh"</string>
-    <string name="title_activity_sound">@string/sound_text</string> <!-- TODO translate ""@string/sound_text""-->
+    <string name="title_activity_sound">"Âm thanh"</string> <!-- TODO validate -->
     <string name="title_activity_vibrations">"Rung"</string>
-    <string name="title_activity_vibration">@string/vibrate</string> <!-- TODO translate ""@string/vibrate""-->
+    <string name="title_activity_vibration">"Rung"</string> <!-- TODO validate -->
     <string name="action_delete">"Xóa"</string>
     <string name="action_add_vibration_pattern">"Thêm mục nhập"</string>
     <string name="dialog_title_deletion">"Xác nhận xóa"</string>
@@ -561,7 +559,7 @@
     <string name="pref_text_to_speech_engine">"Engine"</string> <!-- TODO translate -->
     <string name="pref_text_to_speech_voice">"Voice"</string> <!-- TODO translate -->
     <string name="pref_text_to_speech">"Văn bản để nói"</string>
-    <string name="system_default_audio_stream">@string/setting_system_default</string> <!-- TODO translate ""@string/setting_system_default""-->
+    <string name="system_default_audio_stream">"Mặc định hệ thống"</string> <!-- TODO validate -->
     <string name="application_default">"Ứng dụng mặc định"</string>
     <string name="speak_time_format_with_minutes">"Nói thời gian với phút"</string>
     <string name="speak_time_on_the_hour">"Nói thời gian trong giờ"</string>

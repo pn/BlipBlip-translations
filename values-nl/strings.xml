@@ -183,8 +183,6 @@
     <string name="auto_dismiss_notification_off">"Notification will not be dismissed automatically."</string> <!-- TODO translate -->
 
     <!-- Vibrate on Wear -->
-    <string name="pref_vibrate_wear_title">"Trillen op Wear"</string>
-    <string name="pref_vibrate_wear_off">"Niet trillen op Android Wear"</string>
     <string name="pref_vibrate_wearable_title">"Trillen bij verbonden apparaat"</string>
     <string name="pref_vibrate_wearable_on2">"Als trillen is ingeschakeld, ook trillen bij aansluiten van een draagbaar apparaat (bijvoorbeeld een smart watch). Vereist systeemmelding toevoegen."</string>
     <string name="pref_vibrate_wearable_off">"Vibreer niet op aangesloten draagbare apparaten"</string>
@@ -383,9 +381,9 @@
     <string name="night_mode_system">"System setting"</string> <!-- TODO translate -->
 
     <string name="title_activity_sounds">"Geluiden"</string>
-    <string name="title_activity_sound">@string/sound_text</string> <!-- TODO translate ""@string/sound_text""-->
+    <string name="title_activity_sound">"Geluid"</string>
     <string name="title_activity_vibrations">"Trillingen"</string>
-    <string name="title_activity_vibration">@string/vibrate</string> <!-- TODO translate ""@string/vibrate""-->
+    <string name="title_activity_vibration">"Trillen"</string>
     <string name="action_delete">"Verwijderen"</string>
     <string name="action_add_vibration_pattern">"Item toevoegen"</string>
     <string name="dialog_title_deletion">"Bevestig verwijdering"</string>
@@ -565,7 +563,7 @@
     <string name="pref_text_to_speech_engine">"Engine"</string> <!-- TODO translate -->
     <string name="pref_text_to_speech_voice">"Voice"</string> <!-- TODO translate -->
     <string name="pref_text_to_speech">"Tekst naar spraak"</string>
-    <string name="system_default_audio_stream">@string/setting_system_default</string> <!-- TODO translate ""@string/setting_system_default""-->
+    <string name="system_default_audio_stream">"System standaard"</string>
     <string name="application_default">"Applicatie standaard"</string>
     <string name="speak_time_format_with_minutes">"Vertel tijd met minuten"</string>
     <string name="speak_time_on_the_hour">"Vertel tijd met uren"</string>

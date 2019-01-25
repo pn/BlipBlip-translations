@@ -183,8 +183,6 @@
     <string name="auto_dismiss_notification_off">"Notification will not be dismissed automatically."</string> <!-- TODO translate -->
 
     <!-- Vibrate on Wear -->
-    <string name="pref_vibrate_wear_title">"Вибрация на Wear"</string>
-    <string name="pref_vibrate_wear_off">"Не вибрирай на Android Wear"</string>
     <string name="pref_vibrate_wearable_title">"Вибриране на свързано устройство"</string>
     <string name="pref_vibrate_wearable_on2">"Ако вибрирането е разрешено, вибрирай и на свързано устройство (като например умен часовник). Изисква добавяне на системно известие."</string>
     <string name="pref_vibrate_wearable_off">"Без вибриране на свързано устройство"</string>
@@ -565,7 +563,7 @@
     <string name="pref_text_to_speech_engine">"Engine"</string> <!-- TODO translate -->
     <string name="pref_text_to_speech_voice">"Voice"</string> <!-- TODO translate -->
     <string name="pref_text_to_speech">"Текст за произнасяне"</string>
-    <string name="system_default_audio_stream">@string/setting_system_default</string> <!-- TODO translate ""@string/setting_system_default""-->
+    <string name="system_default_audio_stream">"System default"</string> <!-- TODO translate -->
     <string name="application_default">"По подразбиране"</string>
     <string name="speak_time_format_with_minutes">"Прочети часа с минутите"</string>
     <string name="speak_time_on_the_hour">"Произнасяне на кръглия час"</string>

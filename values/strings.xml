@@ -183,8 +183,6 @@
     <string name="auto_dismiss_notification_off">"Notification will not be dismissed automatically."</string>
 
     <!-- Vibrate on Wear -->
-    <string name="pref_vibrate_wear_title">"Vibrate on Android Wear device"</string>
-    <string name="pref_vibrate_wear_off">"Do not vibrate on Android Wear device"</string>
     <string name="pref_vibrate_wearable_title">"Vibrate on connected device"</string>
     <string name="pref_vibrate_wearable_on2">"If vibration is enabled vibrate also on connected wearable device (e.g. smart watch). Requires adding System notification action."</string>
     <string name="pref_vibrate_wearable_off">"Do not vibrate on connected wearable device"</string>
@@ -385,7 +383,7 @@
     <string name="title_activity_sounds">"Sounds"</string>
     <string name="title_activity_sound">"Sound"</string>
     <string name="title_activity_vibrations">"Vibrations"</string>
-    <string name="title_activity_vibration">"@string/vibrate"</string>
+    <string name="title_activity_vibration">"Vibration"</string>
     <string name="action_delete">"Delete"</string>
     <string name="action_add_vibration_pattern">"Add entry"</string>
     <string name="dialog_title_deletion">"Confirm deletion"</string>
@@ -565,7 +563,7 @@
     <string name="pref_text_to_speech_engine">"Engine"</string>
     <string name="pref_text_to_speech_voice">"Voice"</string>
     <string name="pref_text_to_speech">"Text to speech"</string>
-    <string name="system_default_audio_stream">"@string/setting_system_default"</string>
+    <string name="system_default_audio_stream">"System default"</string>
     <string name="application_default">"Application default"</string>
     <string name="speak_time_format_with_minutes">"Spoken time with minutes"</string>
     <string name="speak_time_on_the_hour">"Spoken time on the hour"</string>

@@ -183,11 +183,9 @@
     <string name="auto_dismiss_notification_off">"Notification will not be dismissed automatically."</string> <!-- TODO translate -->
 
     <!-- Vibrate on Wear -->
-    <string name="pref_vibrate_wear_title">"在手表上振动"</string>
-    <string name="pref_vibrate_wear_off">"不要在Android Wear上振动"</string>
-    <string name="pref_vibrate_wearable_title">@string/pref_vibrate_wear_title</string> <!-- TODO translate ""Vibrate on connected device""-->
+    <string name="pref_vibrate_wearable_title">"Vibrate on connected device"</string> <!-- TODO translate -->
     <string name="pref_vibrate_wearable_on2">"If vibration is enabled vibrate also on connected wearable device (e.g. smart watch). Requires adding System notification action."</string> <!-- TODO translate -->
-    <string name="pref_vibrate_wearable_off">@string/pref_vibrate_wear_off</string> <!-- TODO translate ""Do not vibrate on connected wearable device""-->
+    <string name="pref_vibrate_wearable_off">"Do not vibrate on connected wearable device"</string> <!-- TODO translate -->
 
     <!-- Action Buttons -->
     <string name="pref_notification_action_buttons">"动作按钮"</string> <!-- Preference name for choosing which buttons are visible on notification -->
@@ -379,9 +377,9 @@
     <string name="night_mode_system">"System setting"</string> <!-- TODO translate -->
 
     <string name="title_activity_sounds">"Sounds"</string> <!-- TODO translate -->
-    <string name="title_activity_sound">@string/sound_text</string> <!-- TODO translate ""@string/sound_text""-->
+    <string name="title_activity_sound">"Sound"</string> <!-- TODO translate -->
     <string name="title_activity_vibrations">"Vibrations"</string> <!-- TODO translate -->
-    <string name="title_activity_vibration">@string/vibrate</string> <!-- TODO translate ""@string/vibrate""-->
+    <string name="title_activity_vibration">"Vibration"</string> <!-- TODO translate -->
     <string name="action_delete">"Delete"</string> <!-- TODO translate -->
     <string name="action_add_vibration_pattern">"Add entry"</string> <!-- TODO translate -->
     <string name="dialog_title_deletion">"Confirm deletion"</string> <!-- TODO translate -->
@@ -561,7 +559,7 @@
     <string name="pref_text_to_speech_engine">"Engine"</string> <!-- TODO translate -->
     <string name="pref_text_to_speech_voice">"Voice"</string> <!-- TODO translate -->
     <string name="pref_text_to_speech">"Text to speech"</string> <!-- TODO translate -->
-    <string name="system_default_audio_stream">@string/setting_system_default</string> <!-- TODO translate ""@string/setting_system_default""-->
+    <string name="system_default_audio_stream">"System default"</string> <!-- TODO translate -->
     <string name="application_default">"Application default"</string> <!-- TODO translate -->
     <string name="speak_time_format_with_minutes">"Spoken time with minutes"</string> <!-- TODO translate -->
     <string name="speak_time_on_the_hour">"Spoken time on the hour"</string> <!-- TODO translate -->
