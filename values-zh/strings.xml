@@ -2,45 +2,45 @@
 <resources>
 
     <!-- Buttons -->
-    <string name="change_setting">修改</string>
-    <string name="send">发送</string>
-    <string name="send_email_description">发送邮件…</string>
-    <string name="play_button_description">测试你的设置</string>
+    <string name="change_setting">"修改"</string>
+    <string name="send">"发送"</string>
+    <string name="send_email_description">"发送邮件…"</string>
+    <string name="play_button_description">"测试你的设置"</string>
 
     <!-- Warnings -->
-    <string name="warning">警告</string>
-    <string name="warning_understood">好嘞</string>
-    <string name="please_wait">请稍后…</string>
-    <string name="warn_power_saving">请停用所有所有省电设置，确保操作有效</string> <!-- Please make this as short as possible -->
-    <string name="allow_while_idle_title">允许在省电模式中使用</string>
-    <string name="allow_while_idle_off">当使用省电模式时，一些通知可能无法送达。</string>
-    <string name="allow_while_idle_on">允许在低耗模式下工作。但可能没法每隔15分钟及以下频繁地接收通知。此设置可能轻微影响续航</string>
+    <string name="warning">"警告"</string>
+    <string name="warning_understood">"好嘞"</string>
+    <string name="please_wait">"请稍后…"</string>
+    <string name="warn_power_saving">"请停用所有所有省电设置，确保操作有效"</string> <!-- Please make this as short as possible -->
+    <string name="allow_while_idle_title">"允许在省电模式中使用"</string>
+    <string name="allow_while_idle_off">"当使用省电模式时，一些通知可能无法送达。"</string>
+    <string name="allow_while_idle_on">"允许在低耗模式下工作。但可能没法每隔15分钟及以下频繁地接收通知。此设置可能轻微影响续航"</string>
     <string name="app_killed_title">"App was killed"</string> <!-- TODO translate -->
 
     <!-- Next Notification -->
-    <string name="next_notification_off">关闭</string>
-    <string name="upcoming_notifications">即将到来的通知</string>
-    <string name="day_today">今天</string>
-    <string name="day_tomorrow">明天</string>
-    <string name="day_monday">周一</string>
-    <string name="day_tuesday">周二</string>
-    <string name="day_wednesday">周三</string>
-    <string name="day_thursday">周三</string>
-    <string name="day_friday">周五</string>
-    <string name="day_saturday">周六</string>
-    <string name="day_sunday">周日</string>
+    <string name="next_notification_off">"关闭"</string>
+    <string name="upcoming_notifications">"即将到来的通知"</string>
+    <string name="day_today">"今天"</string>
+    <string name="day_tomorrow">"明天"</string>
+    <string name="day_monday">"周一"</string>
+    <string name="day_tuesday">"周二"</string>
+    <string name="day_wednesday">"周三"</string>
+    <string name="day_thursday">"周三"</string>
+    <string name="day_friday">"周五"</string>
+    <string name="day_saturday">"周六"</string>
+    <string name="day_sunday">"周日"</string>
     <string name="preview_upcoming_notifications">"Preview upcoming notifications"</string> <!-- TODO translate -->
     <string name="disable_premium_notifications">"Disable Premium notifications"</string> <!-- TODO translate -->
 
     <!-- Sound -->
-    <string name="sound_text">音效</string>
+    <string name="sound_text">"音效"</string>
     <string name="sound_blipblip">"BlipBlip"</string> <!-- TODO translate -->
-    <string name="sound_casio_watch">卡西欧表</string>
+    <string name="sound_casio_watch">"卡西欧表"</string>
     <string name="sound_casio_watch_single">"Casio watch (single)"</string> <!-- TODO translate -->
-    <string name="sound_gong">锣</string>
-    <string name="sound_ships_bell">汽笛</string>
-    <string name="sound_double_ships_bell">两声汽笛</string>
-    <string name="sound_cuckoo">布谷鸟</string>
+    <string name="sound_gong">"锣"</string>
+    <string name="sound_ships_bell">"汽笛"</string>
+    <string name="sound_double_ships_bell">"两声汽笛"</string>
+    <string name="sound_cuckoo">"布谷鸟"</string>
     <string name="sound_watch_beep">"Watch beep"</string> <!-- TODO translate -->
     <string name="sound_big_ben">"Big Ben"</string> <!-- TODO translate -->
     <string name="sound_big_ben_strikes">"Big Ben Strikes"</string> <!-- TODO translate -->
@@ -68,112 +68,112 @@
     <string name="sound_guitar">"Guitar"</string> <!-- TODO translate -->
 
     <!-- Volume -->
-    <string name="text_seek_volume">音量</string>
+    <string name="text_seek_volume">"音量"</string>
 
     <!-- Vibration -->
-    <string name="vibrate">振动</string>
-    <string name="vibration_blipblip">BlipBlip</string>
-    <string name="vibration_casio_watch">卡西欧表</string>
-    <string name="vibration_single_short">短促的一次</string>
-    <string name="vibration_double_short">短促的两次</string>
-    <string name="vibration_single_long">较长的一次</string>
-    <string name="vibration_double_long">较长的两次</string>
+    <string name="vibrate">"振动"</string>
+    <string name="vibration_blipblip">"BlipBlip"</string>
+    <string name="vibration_casio_watch">"卡西欧表"</string>
+    <string name="vibration_single_short">"短促的一次"</string>
+    <string name="vibration_double_short">"短促的两次"</string>
+    <string name="vibration_single_long">"较长的一次"</string>
+    <string name="vibration_double_long">"较长的两次"</string>
 
     <!-- Silent Mode -->
-    <string name="pref_silent_mode">静音模式</string>
-    <string name="title_silent_mode_settings">免打扰时段设置</string>
-    <string name="sound_in_silent_mode_title">在静音模式下启用声音</string>
-    <string name="sound_in_silent_mode_on">允许在静音模式下播放声音</string>
-    <string name="sound_in_silent_mode_off">在静音模式下关闭声音</string>
-    <string name="vibrate_in_silent_mode_title">在静音模式下启用振动</string>
-    <string name="vibrate_in_silent_mode_on">在静音模式下允许振动</string>
-    <string name="vibrate_in_silent_mode_off">在振动模式下关闭声音</string>
-    <string name="force_screen_in_silent_mode_title">强制通知亮屏</string>
-    <string name="force_screen_in_silent_mode_on">在静音模式下点亮屏幕即使"通知时点亮屏幕"的选项关闭</string>
-    <string name="force_screen_in_silent_mode_off">关闭</string>
-    <string name="warn_sound_disabled_silent_mode">BlipBlip声音已关闭，因为你的设备处于静音模式中</string>
+    <string name="pref_silent_mode">"静音模式"</string>
+    <string name="title_silent_mode_settings">"免打扰时段设置"</string>
+    <string name="sound_in_silent_mode_title">"在静音模式下启用声音"</string>
+    <string name="sound_in_silent_mode_on">"允许在静音模式下播放声音"</string>
+    <string name="sound_in_silent_mode_off">"在静音模式下关闭声音"</string>
+    <string name="vibrate_in_silent_mode_title">"在静音模式下启用振动"</string>
+    <string name="vibrate_in_silent_mode_on">"在静音模式下允许振动"</string>
+    <string name="vibrate_in_silent_mode_off">"在振动模式下关闭声音"</string>
+    <string name="force_screen_in_silent_mode_title">"强制通知亮屏"</string>
+    <string name="force_screen_in_silent_mode_on">"在静音模式下点亮屏幕即使"通知时点亮屏幕"的选项关闭"</string>
+    <string name="force_screen_in_silent_mode_off">"关闭"</string>
+    <string name="warn_sound_disabled_silent_mode">"BlipBlip声音已关闭，因为你的设备处于静音模式中"</string>
 
     <!-- Vibration Mode -->
-    <string name="pref_vibrate_mode">振动模式</string>
-    <string name="title_vibrate_mode_settings">振动模式设置</string>
-    <string name="sound_in_vibrate_mode_title">在振动模式下启用声音</string>
-    <string name="sound_in_vibrate_mode_on">允许在振动模式下播放声音</string>
-    <string name="sound_in_vibrate_mode_off">在振动模式下关闭声音</string>
-    <string name="vibrate_in_vibrate_mode_title">在振动模式下振动</string>
-    <string name="vibrate_in_vibrate_mode_on">允许在振动模式下振动</string>
-    <string name="vibrate_in_vibrate_mode_off">在振动模式下停用振动</string>
-    <string name="force_vibrate_in_vibrate_mode_title">强制振动</string>
-    <string name="force_vibrate_in_vibrate_mode_on">即便关闭了振动也强制使用振动</string>
-    <string name="force_vibrate_in_vibrate_mode_off">关闭</string>
-    <string name="force_screen_in_vibrate_mode_title">强制通知亮屏</string>
-    <string name="force_screen_in_vibrate_mode_on">在振动模式下点亮屏幕即使"通知时点亮屏幕"的选项关闭</string>
-    <string name="force_screen_in_vibrate_mode_off">关闭</string>
-    <string name="warn_sound_disabled_vibrate_mode">BlipBlip声音已关闭，因为你的设备处于振动模式中</string>
+    <string name="pref_vibrate_mode">"振动模式"</string>
+    <string name="title_vibrate_mode_settings">"振动模式设置"</string>
+    <string name="sound_in_vibrate_mode_title">"在振动模式下启用声音"</string>
+    <string name="sound_in_vibrate_mode_on">"允许在振动模式下播放声音"</string>
+    <string name="sound_in_vibrate_mode_off">"在振动模式下关闭声音"</string>
+    <string name="vibrate_in_vibrate_mode_title">"在振动模式下振动"</string>
+    <string name="vibrate_in_vibrate_mode_on">"允许在振动模式下振动"</string>
+    <string name="vibrate_in_vibrate_mode_off">"在振动模式下停用振动"</string>
+    <string name="force_vibrate_in_vibrate_mode_title">"强制振动"</string>
+    <string name="force_vibrate_in_vibrate_mode_on">"即便关闭了振动也强制使用振动"</string>
+    <string name="force_vibrate_in_vibrate_mode_off">"关闭"</string>
+    <string name="force_screen_in_vibrate_mode_title">"强制通知亮屏"</string>
+    <string name="force_screen_in_vibrate_mode_on">"在振动模式下点亮屏幕即使"通知时点亮屏幕"的选项关闭"</string>
+    <string name="force_screen_in_vibrate_mode_off">"关闭"</string>
+    <string name="warn_sound_disabled_vibrate_mode">"BlipBlip声音已关闭，因为你的设备处于振动模式中"</string>
 
     <!-- Status Bar -->
-    <string name="service_disabled_warning">BlipBlip正被禁用</string>
-    <string name="service_enable">启用</string>
+    <string name="service_disabled_warning">"BlipBlip正被禁用"</string>
+    <string name="service_enable">"启用"</string>
 
     <!-- Menu - Settings -->
-    <string name="action_settings">设置</string>
+    <string name="action_settings">"设置"</string>
 
     <!-- Language -->
-    <string name="app_language">语言</string>
-    <string name="system_default_language">系统默认</string>
-    <string name="language_improve_translations">添加或完善翻译</string>
+    <string name="app_language">"语言"</string>
+    <string name="system_default_language">"系统默认"</string>
+    <string name="language_improve_translations">"添加或完善翻译"</string>
 
     <!-- Quiet Hours -->
-    <string name="quiet_hours_title">免打扰时段</string>
+    <string name="quiet_hours_title">"免打扰时段"</string>
 
     <!-- Quiet Days -->
-    <string name="quiet_days_title">免打扰日期</string>
-    <string name="days_none">无</string>
+    <string name="quiet_days_title">"免打扰日期"</string>
+    <string name="days_none">"无"</string>
     <string name="days_everyday">"Everyday"</string> <!-- TODO translate -->
-    <string name="quiet_day_warning">因为今天是 \"免打扰时段\"所以通知已禁用。</string>
-    <string name="toast_change_quiet_days">请修改 \"免打扰时段\" 中的设置来确保BlipBlip在今天能通知您。</string>
+    <string name="quiet_day_warning">"因为今天是 \"免打扰时段\"所以通知已禁用。"</string>
+    <string name="toast_change_quiet_days">"请修改 \"免打扰时段\" 中的设置来确保BlipBlip在今天能通知您。"</string>
 
     <!-- While Music -->
-    <string name="while_music">音乐播放时不通知</string>
-    <string name="while_music_on">禁用通知</string>
-    <string name="while_music_off">启用通知</string>
-    <string name="while_music_toast">BlipBlip通知已停用，因为你正在播放音乐</string>
+    <string name="while_music">"音乐播放时不通知"</string>
+    <string name="while_music_on">"禁用通知"</string>
+    <string name="while_music_off">"启用通知"</string>
+    <string name="while_music_toast">"BlipBlip通知已停用，因为你正在播放音乐"</string>
     <!-- While phone call -->
-    <string name="while_phonecall">通话时不通知</string>
-    <string name="while_phonecall_on">所有通知已被禁用</string>
-    <string name="while_phonecall_off">启用通知</string>
-    <string name="while_phonecall_toast">BlipBlip通知已停用，因为你正在通话</string>
+    <string name="while_phonecall">"通话时不通知"</string>
+    <string name="while_phonecall_on">"所有通知已被禁用"</string>
+    <string name="while_phonecall_off">"启用通知"</string>
+    <string name="while_phonecall_toast">"BlipBlip通知已停用，因为你正在通话"</string>
 
 
 
     <!-- ADVANCED SETTINGS -->
-    <string name="pref_advanced">高级设置</string>
-    <string name="title_advanced_settings">高级设置</string>
+    <string name="pref_advanced">"高级设置"</string>
+    <string name="title_advanced_settings">"高级设置"</string>
 
     <!-- Audio Stream -->
-    <string name="pref_choose_audio_stream">音频流</string>
-    <string name="audio_stream_phone_ring">电话铃</string>
-    <string name="audio_stream_alarm">闹钟</string>
-    <string name="audio_stream_media">音乐</string>
-    <string name="audio_stream_notification">免打扰</string>
+    <string name="pref_choose_audio_stream">"音频流"</string>
+    <string name="audio_stream_phone_ring">"电话铃"</string>
+    <string name="audio_stream_alarm">"闹钟"</string>
+    <string name="audio_stream_media">"音乐"</string>
+    <string name="audio_stream_notification">"免打扰"</string>
 
     <!-- Notifications -->
-    <string name="pref_notification_settings">通知设置</string>
-    <string name="pref_notification_status_title">显示通知</string>
+    <string name="pref_notification_settings">"通知设置"</string>
+    <string name="pref_notification_status_title">"显示通知"</string>
 
     <!-- Show Notification Always -->
-    <string name="pref_notification_always">总是显示</string>
-    <string name="pref_notification_always_on">无论是否开启都显示通知</string>
-    <string name="pref_notification_always_off">只当开启时显示通知</string>
-    <string name="notification_settings_updated">通知设置已更新</string> <!-- message displayed when one of notification settings is updated without user interacting with these options -->
+    <string name="pref_notification_always">"总是显示"</string>
+    <string name="pref_notification_always_on">"无论是否开启都显示通知"</string>
+    <string name="pref_notification_always_off">"只当开启时显示通知"</string>
+    <string name="notification_settings_updated">"通知设置已更新"</string> <!-- message displayed when one of notification settings is updated without user interacting with these options -->
     <string name="permanent_notification">"Permanent notification"</string> <!-- TODO translate -->
 
     <!-- Notification Priority -->
-    <string name="pref_notification_priority">通知优先级</string>
-    <string name="item_priority_minimum">最小</string>
-    <string name="item_priority_low">低</string>
-    <string name="item_priority_normal">正常</string>
-    <string name="item_priority_high">高</string>
-    <string name="item_priority_maximum">最大</string>
+    <string name="pref_notification_priority">"通知优先级"</string>
+    <string name="item_priority_minimum">"最小"</string>
+    <string name="item_priority_low">"低"</string>
+    <string name="item_priority_normal">"正常"</string>
+    <string name="item_priority_high">"高"</string>
+    <string name="item_priority_maximum">"最大"</string>
 
     <!-- Dismissible Notification -->
 
@@ -183,71 +183,71 @@
     <string name="auto_dismiss_notification_off">"Notification will not be dismissed automatically."</string> <!-- TODO translate -->
 
     <!-- Vibrate on Wear -->
-    <string name="pref_vibrate_wear_title">在手表上振动</string>
-    <string name="pref_vibrate_wear_off">不要在Android Wear上振动</string>
+    <string name="pref_vibrate_wear_title">"在手表上振动"</string>
+    <string name="pref_vibrate_wear_off">"不要在Android Wear上振动"</string>
     <string name="pref_vibrate_wearable_title">@string/pref_vibrate_wear_title</string> <!-- TODO translate ""Vibrate on connected device""-->
     <string name="pref_vibrate_wearable_on2">"If vibration is enabled vibrate also on connected wearable device (e.g. smart watch). Requires adding System notification action."</string> <!-- TODO translate -->
     <string name="pref_vibrate_wearable_off">@string/pref_vibrate_wear_off</string> <!-- TODO translate ""Do not vibrate on connected wearable device""-->
 
     <!-- Action Buttons -->
-    <string name="pref_notification_action_buttons">动作按钮</string> <!-- Preference name for choosing which buttons are visible on notification -->
+    <string name="pref_notification_action_buttons">"动作按钮"</string> <!-- Preference name for choosing which buttons are visible on notification -->
     <string name="notif_action_stop">"Stop"</string> <!-- TODO translate --> <!-- Description of action button. This should refer to notif_action_stop -->
-    <string name="notif_action_disable_or_enable">开启/关闭</string> <!-- Description of action button. This refers to notif_action_enable and notif_action -->
-    <string name="notif_button_play">播放</string> <!-- Action button label in notification having same action as play button in the app - plays the notificaton for testing purposes. This text should be short, because it will be shown on notification button where there can be 3 of them -->
+    <string name="notif_action_disable_or_enable">"开启/关闭"</string> <!-- Description of action button. This refers to notif_action_enable and notif_action -->
+    <string name="notif_button_play">"播放"</string> <!-- Action button label in notification having same action as play button in the app - plays the notificaton for testing purposes. This text should be short, because it will be shown on notification button where there can be 3 of them -->
     <string name="notif_button_stop">"Stop"</string> <!-- TODO translate --> <!-- Stops playback of notification. Should be short. -->
-    <string name="notif_button_enable">开启</string> <!-- This text should be short, because it will be shown on notification button where there can be 3 of them. -->
-    <string name="notif_button_disable">关闭</string> <!-- This text should be short, because it will be shown on notification button where there can be 3 of them. -->
+    <string name="notif_button_enable">"开启"</string> <!-- This text should be short, because it will be shown on notification button where there can be 3 of them. -->
+    <string name="notif_button_disable">"关闭"</string> <!-- This text should be short, because it will be shown on notification button where there can be 3 of them. -->
 
     <!-- Custom Texts -->
-    <string name="pref_custom_texts">自定义通知文字</string>
-    <string name="pref_notification_title_title">通知标题</string>
-    <string name="pref_notification_description_title">通知描述</string>
+    <string name="pref_custom_texts">"自定义通知文字"</string>
+    <string name="pref_notification_title_title">"通知标题"</string>
+    <string name="pref_notification_description_title">"通知描述"</string>
 
     <!-- Reliability -->
-    <string name="pref_reliability">可靠性设置</string> <!-- title of settings section meant for all settings which may improve running of the app without issues -->
-    <string name="reliability_warning">改变这些设置可能影响应用的稳定性</string> <!-- This message should be as short as possible. There is risk of cutting it off if it will be too long -->
+    <string name="pref_reliability">"可靠性设置"</string> <!-- title of settings section meant for all settings which may improve running of the app without issues -->
+    <string name="reliability_warning">"改变这些设置可能影响应用的稳定性"</string> <!-- This message should be as short as possible. There is risk of cutting it off if it will be too long -->
 
     <!-- Alarm Mode -->
-    <string name="notif_as_alarm_title">闹钟模式</string>
-    <string name="notif_as_alarm_off">重复提醒</string>
-    <string name="notif_as_alarm_on">像闹钟一样工作（可以修复在一些三星设备上的3–5分钟延迟）</string>
-    <string name="late_notif_title">闹钟模式已启用</string>
-    <string name="late_notif_message">检测到在三星设备上通知延迟。打开闹钟模式即可解决。你可以关闭此选项然后在高级设置里会自动更改。以后要是有更好的解决方法我会更新滴。如果你还有其它问题，邮件联系吼不吼哇！</string>
+    <string name="notif_as_alarm_title">"闹钟模式"</string>
+    <string name="notif_as_alarm_off">"重复提醒"</string>
+    <string name="notif_as_alarm_on">"像闹钟一样工作（可以修复在一些三星设备上的3–5分钟延迟）"</string>
+    <string name="late_notif_title">"闹钟模式已启用"</string>
+    <string name="late_notif_message">"检测到在三星设备上通知延迟。打开闹钟模式即可解决。你可以关闭此选项然后在高级设置里会自动更改。以后要是有更好的解决方法我会更新滴。如果你还有其它问题，邮件联系吼不吼哇！"</string>
 
     <!-- Auto Alarm -->
-    <string name="auto_notif_as_alarm_title">自动开启闹钟模式</string>
-    <string name="auto_notif_as_alarm_on">当检测到延迟时自动开启</string>
-    <string name="auto_notif_as_alarm_off">不自动开启</string>
+    <string name="auto_notif_as_alarm_title">"自动开启闹钟模式"</string>
+    <string name="auto_notif_as_alarm_on">"当检测到延迟时自动开启"</string>
+    <string name="auto_notif_as_alarm_off">"不自动开启"</string>
 
     <!-- Low Valume -->
-    <string name="pref_low_volume_fix">修复音量低</string>
-    <string name="pref_low_volume_fix_on">修复在一些摩托设备上的低音量问题。但可能会使声音反馈产生几秒的延迟</string>
-    <string name="pref_low_volume_fix_off">已关闭。大部分设备不需要这个</string>
+    <string name="pref_low_volume_fix">"修复音量低"</string>
+    <string name="pref_low_volume_fix_on">"修复在一些摩托设备上的低音量问题。但可能会使声音反馈产生几秒的延迟"</string>
+    <string name="pref_low_volume_fix_off">"已关闭。大部分设备不需要这个"</string>
 
     <!-- Foreground Service -->
-    <string name="pref_foreground_service_title">前台服务</string>
-    <string name="pref_foreground_service_on">展示常驻通知并且开启后台服务可以防止进程被杀</string>
-    <string name="pref_foreground_service_off">前台服务已关闭</string>
-    <string name="msg_foreground_service_off">前台服务关闭</string> <!-- message displayed when foreground service is disabled without user interacting with this option -->
+    <string name="pref_foreground_service_title">"前台服务"</string>
+    <string name="pref_foreground_service_on">"展示常驻通知并且开启后台服务可以防止进程被杀"</string>
+    <string name="pref_foreground_service_off">"前台服务已关闭"</string>
+    <string name="msg_foreground_service_off">"前台服务关闭"</string> <!-- message displayed when foreground service is disabled without user interacting with this option -->
 
     <!-- Toast Notifications -->
-    <string name="pref_toast_notifications">气泡通知</string>
-    <string name="pref_toast_notifications_on">显示气泡通知提醒</string>
-    <string name="pref_toast_notifications_off">隐藏气泡通知提醒</string>
+    <string name="pref_toast_notifications">"气泡通知"</string>
+    <string name="pref_toast_notifications_on">"显示气泡通知提醒"</string>
+    <string name="pref_toast_notifications_off">"隐藏气泡通知提醒"</string>
 
     <!-- Logs -->
-    <string name="debug_logs_title">收集错误日志</string>
-    <string name="debug_logs_off">不记录日志</string>
-    <string name="debug_logs_on">保存日志来发送报告邮件</string>
+    <string name="debug_logs_title">"收集错误日志"</string>
+    <string name="debug_logs_off">"不记录日志"</string>
+    <string name="debug_logs_on">"保存日志来发送报告邮件"</string>
 
     <!-- Beta -->
-    <string name="beta_preference_title">BlipBlip测试版</string>
-    <string name="beta_preference_description">开启或关闭测试版本</string>
+    <string name="beta_preference_title">"BlipBlip测试版"</string>
+    <string name="beta_preference_description">"开启或关闭测试版本"</string>
 
     <!-- Experimental Settings -->
-    <string name="pref_experimental">实验性设置</string>
-    <string name="experimental_warning">这些实验的设置可能在未来被移除。</string>
-    <string name="title_experimental_settings">实验设置</string>
+    <string name="pref_experimental">"实验性设置"</string>
+    <string name="experimental_warning">"这些实验的设置可能在未来被移除。"</string>
+    <string name="title_experimental_settings">"实验设置"</string>
     <string name="huawei_fix">"Huawei fix"</string> <!-- TODO translate -->
 
     <!-- Time Offset -->
@@ -257,38 +257,38 @@
     <!-- Inline Attachments -->
 
     <!-- Menu - Share -->
-    <string name="action_share">分享应用</string>
-    <string name="share_chooser_title">分享该应用!</string>
+    <string name="action_share">"分享应用"</string>
+    <string name="share_chooser_title">"分享该应用!"</string>
     <string name="share_title">"Check out BlipBlip hourly chime app!"</string> <!-- TODO translate -->
     <string name="share_text">"Check out BlipBlip hourly chime android app"</string> <!-- TODO translate -->
 
     <!-- Menu - Rate -->
-    <string name="action_rate">评分</string>
-    <string name="rate_us_title">评个分吧！</string>
-    <string name="rate_us_message">感谢您抽时间给我评价</string>
-    <string name="rate_us_onetofourstars">1–4 星</string>
-    <string name="rate_us_fivestars">5 星!</string>
+    <string name="action_rate">"评分"</string>
+    <string name="rate_us_title">"评个分吧！"</string>
+    <string name="rate_us_message">"感谢您抽时间给我评价"</string>
+    <string name="rate_us_onetofourstars">"1–4 星"</string>
+    <string name="rate_us_fivestars">"5 星!"</string>
     <string name="five_stars_description">"Five stars"</string> <!-- TODO translate -->
     <string name="five_stars_title">"Love BlipBlip?"</string> <!-- TODO translate -->
-    <string name="five_stars_text">Rate us 5 stars to help make BlipBlip even more awesome. Thanks!</string>
+    <string name="five_stars_text">"Rate us 5 stars to help make BlipBlip even more awesome. Thanks!"</string>
 
     <!-- Menu - Error -->
-    <string name="action_send_logs">问题报告</string>
-    <string name="send_logs_describe">请描述您碰到的问题(最好用英语)</string>
-    <string name="feedback_dialog_bug_found">我发现了一个漏洞(附上日志)</string>
+    <string name="action_send_logs">"问题报告"</string>
+    <string name="send_logs_describe">"请描述您碰到的问题(最好用英语)"</string>
+    <string name="feedback_dialog_bug_found">"我发现了一个漏洞(附上日志)"</string>
 
     <!-- Menu - Improvement -->
-    <string name="feedback_improvement_title">BlipBlip 需要改进</string>
-    <string name="feedback_improvement_message">请务必告诉我们如何做出一个让您喜欢的应用程序。</string>
+    <string name="feedback_improvement_title">"BlipBlip 需要改进"</string>
+    <string name="feedback_improvement_message">"请务必告诉我们如何做出一个让您喜欢的应用程序。"</string>
 
     <!-- Menu - About -->
-    <string name="action_about">关于</string>
-    <string name="about_version">版本:</string>
-    <string name="about_authors">开发者</string>
-    <string name="about_coding">程序</string>
+    <string name="action_about">"关于"</string>
+    <string name="about_version">"版本:"</string>
+    <string name="about_authors">"开发者"</string>
+    <string name="about_coding">"程序"</string>
     <string name="about_testing">"Testing"</string> <!-- TODO translate -->
-    <string name="about_graphics">美工</string>
-    <string name="about_translations">翻译</string>
+    <string name="about_graphics">"美工"</string>
+    <string name="about_translations">"翻译"</string>
     <string name="about_thank_you">"Thank You"</string> <!-- TODO translate -->
     <string name="about_images">"Images"</string> <!-- TODO translate -->
     <string name="about_libraries">"Libraries"</string> <!-- TODO translate --> <!-- title of screen showing licenses of programming libraries used by the app -->
@@ -296,31 +296,31 @@
     <string name="about_translators_thank_you">"BlipBlip is translated by our users voluntarily and hereby we thank you for your support and contribution."</string> <!-- TODO translate -->
 
     <!-- Visual -->
-    <string name="pref_visual">V外观设置</string>
-    <string name="title_visual_settings">外观设置</string>
+    <string name="pref_visual">"V外观设置"</string>
+    <string name="title_visual_settings">"外观设置"</string>
 
     <!-- Unsorted -->
-    <string name="warn_notification_skip">有些通知可能会被略过</string> <!-- Please make this as short as possible. This warning is displayed when user chooses to skip few upcoming notifications. -->
-    <string name="warn_volume_zero">音量已设为0</string> <!-- Please make this as short as possible. This warning is displayed when current system volume is set to 0. -->
-    <string name="pref_low_mem_restart_title">低内存重启</string>
-    <string name="pref_low_mem_restart_on">当设备内存不足时重启应用，这不会在所有设备上起作用，通常不需要开启（会消耗一些电量）</string>
-    <string name="pref_low_mem_restart_off">当设备内存不足时请不要尝试重启应用</string>
-    <string name="pref_heading_notification_accuracy">通知调校</string> <!-- punctuality -->
-    <string name="pref_delay_prevention_title">防延迟</string>
-    <string name="pref_delay_prevention_on">尝试阻止在某些设备上出现的通知延迟。可能更耗电</string>
-    <string name="pref_delay_prevention_off">不阻止某些设备上的通知延迟，更省电</string>
-    <string name="pref_aggressive_delay_prevention_title">强制阻止延迟</string>
-    <string name="pref_aggressive_delay_prevention_on">通知更加精确，但可能会更耗电</string>
-    <string name="pref_aggressive_delay_prevention_off">通知可能有时会延迟，但更省电</string>
-    <string name="pref_ignore_delayed_title">忽略延迟的通知</string>
-    <string name="pref_ignore_delayed_on">如果通知被判定为延迟，将不再显示</string>
-    <string name="pref_ignore_delayed_off">即使通知已延迟也显示</string>
-    <string name="pref_audio_focus_title">音频聚焦</string> <!-- option to improve ability to hear app sounds by decreasing volume of other apps or pausing them -->
-    <string name="pref_audio_focus_on">当应用报时，其它应用音频回避</string>
-    <string name="pref_audio_focus_off">其它应用音频不回避</string>
-    <string name="pref_audio_focus_dont_duck_title">暂停报时</string>
-    <string name="pref_audio_focus_dont_duck_on">当应用报时，其它应用可能停止音频</string>
-    <string name="pref_audio_focus_dont_duck_off">当应用报时，其它应用降低音量</string>
+    <string name="warn_notification_skip">"有些通知可能会被略过"</string> <!-- Please make this as short as possible. This warning is displayed when user chooses to skip few upcoming notifications. -->
+    <string name="warn_volume_zero">"音量已设为0"</string> <!-- Please make this as short as possible. This warning is displayed when current system volume is set to 0. -->
+    <string name="pref_low_mem_restart_title">"低内存重启"</string>
+    <string name="pref_low_mem_restart_on">"当设备内存不足时重启应用，这不会在所有设备上起作用，通常不需要开启（会消耗一些电量）"</string>
+    <string name="pref_low_mem_restart_off">"当设备内存不足时请不要尝试重启应用"</string>
+    <string name="pref_heading_notification_accuracy">"通知调校"</string> <!-- punctuality -->
+    <string name="pref_delay_prevention_title">"防延迟"</string>
+    <string name="pref_delay_prevention_on">"尝试阻止在某些设备上出现的通知延迟。可能更耗电"</string>
+    <string name="pref_delay_prevention_off">"不阻止某些设备上的通知延迟，更省电"</string>
+    <string name="pref_aggressive_delay_prevention_title">"强制阻止延迟"</string>
+    <string name="pref_aggressive_delay_prevention_on">"通知更加精确，但可能会更耗电"</string>
+    <string name="pref_aggressive_delay_prevention_off">"通知可能有时会延迟，但更省电"</string>
+    <string name="pref_ignore_delayed_title">"忽略延迟的通知"</string>
+    <string name="pref_ignore_delayed_on">"如果通知被判定为延迟，将不再显示"</string>
+    <string name="pref_ignore_delayed_off">"即使通知已延迟也显示"</string>
+    <string name="pref_audio_focus_title">"音频聚焦"</string> <!-- option to improve ability to hear app sounds by decreasing volume of other apps or pausing them -->
+    <string name="pref_audio_focus_on">"当应用报时，其它应用音频回避"</string>
+    <string name="pref_audio_focus_off">"其它应用音频不回避"</string>
+    <string name="pref_audio_focus_dont_duck_title">"暂停报时"</string>
+    <string name="pref_audio_focus_dont_duck_on">"当应用报时，其它应用可能停止音频"</string>
+    <string name="pref_audio_focus_dont_duck_off">"当应用报时，其它应用降低音量"</string>
 
     <!-- Plurals -->
     <!-- check which quantities and how should be used for given language here http://www.unicode.org/cldr/charts/29/supplemental/language_plural_rules.html -->

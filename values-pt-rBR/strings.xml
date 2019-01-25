@@ -2,45 +2,45 @@
 <resources>
 
     <!-- Buttons -->
-    <string name="change_setting">Alterar</string>
-    <string name="send">Enviar</string>
-    <string name="send_email_description">Enviar E-mail…</string>
-    <string name="play_button_description">Teste suas configurações</string>
+    <string name="change_setting">"Alterar"</string>
+    <string name="send">"Enviar"</string>
+    <string name="send_email_description">"Enviar E-mail…"</string>
+    <string name="play_button_description">"Teste suas configurações"</string>
 
     <!-- Warnings -->
-    <string name="warning">Atenção!</string>
-    <string name="warning_understood">entendi</string>
-    <string name="please_wait">Por favor, aguarde…</string>
+    <string name="warning">"Atenção!"</string>
+    <string name="warning_understood">"entendi"</string>
+    <string name="please_wait">"Por favor, aguarde…"</string>
     <string name="warn_power_saving">"To ensure reliable operation please disable all power saving modes."</string> <!-- TODO translate --> <!-- Please make this as short as possible -->
-    <string name="allow_while_idle_title">Permitir em modo de economia de energia</string>
-    <string name="allow_while_idle_off">Quando o telefone entra em modo de economia de energia, algumas notificações podem ser ignoradas.</string>
-    <string name="allow_while_idle_on">Permitir  trabalhar em modo  de economia (Doze/Idle) . Pode não funcionar sempre em notificações mais frequentes do que 15 minutos. A configuração pode afetar um pouco o uso da bateria.</string>
+    <string name="allow_while_idle_title">"Permitir em modo de economia de energia"</string>
+    <string name="allow_while_idle_off">"Quando o telefone entra em modo de economia de energia, algumas notificações podem ser ignoradas."</string>
+    <string name="allow_while_idle_on">"Permitir  trabalhar em modo  de economia (Doze/Idle) . Pode não funcionar sempre em notificações mais frequentes do que 15 minutos. A configuração pode afetar um pouco o uso da bateria."</string>
     <string name="app_killed_title">"App was killed"</string> <!-- TODO translate -->
 
     <!-- Next Notification -->
-    <string name="next_notification_off">Desativado</string>
-    <string name="upcoming_notifications">Próximas notificações</string>
-    <string name="day_today">Hoje</string>
-    <string name="day_tomorrow">Amanhã</string>
-    <string name="day_monday">Segunda-feira</string>
-    <string name="day_tuesday">Terça-feira</string>
-    <string name="day_wednesday">Quarta-feira</string>
-    <string name="day_thursday">Quinta-feira</string>
-    <string name="day_friday">Sexta-feira</string>
-    <string name="day_saturday">Sábado</string>
-    <string name="day_sunday">Domingo</string>
+    <string name="next_notification_off">"Desativado"</string>
+    <string name="upcoming_notifications">"Próximas notificações"</string>
+    <string name="day_today">"Hoje"</string>
+    <string name="day_tomorrow">"Amanhã"</string>
+    <string name="day_monday">"Segunda-feira"</string>
+    <string name="day_tuesday">"Terça-feira"</string>
+    <string name="day_wednesday">"Quarta-feira"</string>
+    <string name="day_thursday">"Quinta-feira"</string>
+    <string name="day_friday">"Sexta-feira"</string>
+    <string name="day_saturday">"Sábado"</string>
+    <string name="day_sunday">"Domingo"</string>
     <string name="preview_upcoming_notifications">"Preview upcoming notifications"</string> <!-- TODO translate -->
     <string name="disable_premium_notifications">"Disable Premium notifications"</string> <!-- TODO translate -->
 
     <!-- Sound -->
-    <string name="sound_text">Som</string>
+    <string name="sound_text">"Som"</string>
     <string name="sound_blipblip">"BlipBlip"</string> <!-- TODO translate -->
-    <string name="sound_casio_watch">Relógio Casio</string>
+    <string name="sound_casio_watch">"Relógio Casio"</string>
     <string name="sound_casio_watch_single">"Casio watch (single)"</string> <!-- TODO translate -->
-    <string name="sound_gong">Gongo</string>
-    <string name="sound_ships_bell">Sino de navio</string>
-    <string name="sound_double_ships_bell">Sino duplo de navio</string>
-    <string name="sound_cuckoo">Cuco</string>
+    <string name="sound_gong">"Gongo"</string>
+    <string name="sound_ships_bell">"Sino de navio"</string>
+    <string name="sound_double_ships_bell">"Sino duplo de navio"</string>
+    <string name="sound_cuckoo">"Cuco"</string>
     <string name="sound_watch_beep">"Watch beep"</string> <!-- TODO translate -->
     <string name="sound_big_ben">"Big Ben"</string> <!-- TODO translate -->
     <string name="sound_big_ben_strikes">"Big Ben Strikes"</string> <!-- TODO translate -->
@@ -71,94 +71,94 @@
     <string name="text_seek_volume">"Volume"</string> <!-- TODO translate -->
 
     <!-- Vibration -->
-    <string name="vibrate">Vibração</string>
-    <string name="vibration_blipblip">Como BlipBlip</string>
-    <string name="vibration_casio_watch">Como Relógio Casio</string>
-    <string name="vibration_single_short">Curta Única</string>
-    <string name="vibration_double_short">Curta Dupla</string>
-    <string name="vibration_single_long">Longa Única</string>
-    <string name="vibration_double_long">Longa Dupla</string>
+    <string name="vibrate">"Vibração"</string>
+    <string name="vibration_blipblip">"Como BlipBlip"</string>
+    <string name="vibration_casio_watch">"Como Relógio Casio"</string>
+    <string name="vibration_single_short">"Curta Única"</string>
+    <string name="vibration_double_short">"Curta Dupla"</string>
+    <string name="vibration_single_long">"Longa Única"</string>
+    <string name="vibration_double_long">"Longa Dupla"</string>
 
     <!-- Silent Mode -->
-    <string name="pref_silent_mode">Modo silencioso</string>
-    <string name="title_silent_mode_settings">Configurações do modo silencioso</string>
-    <string name="sound_in_silent_mode_title">Som no modo silencioso</string>
-    <string name="sound_in_silent_mode_on">Permitir reprodução de som no modo silencioso</string>
-    <string name="sound_in_silent_mode_off">Desativar som no modo silencioso</string>
-    <string name="vibrate_in_silent_mode_title">Vibrar no modo silencioso</string>
-    <string name="vibrate_in_silent_mode_on">Permitir vibração no modo silencioso</string>
-    <string name="vibrate_in_silent_mode_off">Desativar vibração no modo silencioso</string>
-    <string name="force_screen_in_silent_mode_title">Forçar ativação da tela</string>
-    <string name="force_screen_in_silent_mode_on">Ativar  a tela no modo silencioso, mesmo que a opção "Ligar tela ao notificar" esteja desativada</string>
-    <string name="force_screen_in_silent_mode_off">Desativado</string>
-    <string name="warn_sound_disabled_silent_mode">A notificação de som do BlipBlip foi desativada, porque o seu dispositivo está no modo silencioso.</string>
+    <string name="pref_silent_mode">"Modo silencioso"</string>
+    <string name="title_silent_mode_settings">"Configurações do modo silencioso"</string>
+    <string name="sound_in_silent_mode_title">"Som no modo silencioso"</string>
+    <string name="sound_in_silent_mode_on">"Permitir reprodução de som no modo silencioso"</string>
+    <string name="sound_in_silent_mode_off">"Desativar som no modo silencioso"</string>
+    <string name="vibrate_in_silent_mode_title">"Vibrar no modo silencioso"</string>
+    <string name="vibrate_in_silent_mode_on">"Permitir vibração no modo silencioso"</string>
+    <string name="vibrate_in_silent_mode_off">"Desativar vibração no modo silencioso"</string>
+    <string name="force_screen_in_silent_mode_title">"Forçar ativação da tela"</string>
+    <string name="force_screen_in_silent_mode_on">"Ativar  a tela no modo silencioso, mesmo que a opção "Ligar tela ao notificar" esteja desativada"</string>
+    <string name="force_screen_in_silent_mode_off">"Desativado"</string>
+    <string name="warn_sound_disabled_silent_mode">"A notificação de som do BlipBlip foi desativada, porque o seu dispositivo está no modo silencioso."</string>
 
     <!-- Vibration Mode -->
-    <string name="pref_vibrate_mode">Modo vibrar</string>
-    <string name="title_vibrate_mode_settings">Configurações do modo vibrar</string>
-    <string name="sound_in_vibrate_mode_title">Som no modo vibrar</string>
-    <string name="sound_in_vibrate_mode_on">Permitir reprodução de som no modo vibrar</string>
-    <string name="sound_in_vibrate_mode_off">Desativar som no modo vibrar</string>
-    <string name="vibrate_in_vibrate_mode_title">Vibração no modo vibrar</string>
-    <string name="vibrate_in_vibrate_mode_on">Permitir vibração no modo vibrar</string>
-    <string name="vibrate_in_vibrate_mode_off">Desativar vibração no modo vibrar</string>
-    <string name="force_vibrate_in_vibrate_mode_title">Forçar vibrar</string>
-    <string name="force_vibrate_in_vibrate_mode_on">Forçar vibração no modo vibrar, mesmo que a vibração esteja desativada</string>
-    <string name="force_vibrate_in_vibrate_mode_off">Desativado</string>
-    <string name="force_screen_in_vibrate_mode_title">Forçar ativação da tela</string>
-    <string name="force_screen_in_vibrate_mode_on">Ativar a tela no modo vibrar, mesmo que a opção "Ligar tela ao notificar" esteja desativada</string>
-    <string name="force_screen_in_vibrate_mode_off">Desativado</string>
-    <string name="warn_sound_disabled_vibrate_mode">A notificação de som do BlipBlip foi desativada, porque o seu dispositivo está no modo Vibrar.</string>
+    <string name="pref_vibrate_mode">"Modo vibrar"</string>
+    <string name="title_vibrate_mode_settings">"Configurações do modo vibrar"</string>
+    <string name="sound_in_vibrate_mode_title">"Som no modo vibrar"</string>
+    <string name="sound_in_vibrate_mode_on">"Permitir reprodução de som no modo vibrar"</string>
+    <string name="sound_in_vibrate_mode_off">"Desativar som no modo vibrar"</string>
+    <string name="vibrate_in_vibrate_mode_title">"Vibração no modo vibrar"</string>
+    <string name="vibrate_in_vibrate_mode_on">"Permitir vibração no modo vibrar"</string>
+    <string name="vibrate_in_vibrate_mode_off">"Desativar vibração no modo vibrar"</string>
+    <string name="force_vibrate_in_vibrate_mode_title">"Forçar vibrar"</string>
+    <string name="force_vibrate_in_vibrate_mode_on">"Forçar vibração no modo vibrar, mesmo que a vibração esteja desativada"</string>
+    <string name="force_vibrate_in_vibrate_mode_off">"Desativado"</string>
+    <string name="force_screen_in_vibrate_mode_title">"Forçar ativação da tela"</string>
+    <string name="force_screen_in_vibrate_mode_on">"Ativar a tela no modo vibrar, mesmo que a opção "Ligar tela ao notificar" esteja desativada"</string>
+    <string name="force_screen_in_vibrate_mode_off">"Desativado"</string>
+    <string name="warn_sound_disabled_vibrate_mode">"A notificação de som do BlipBlip foi desativada, porque o seu dispositivo está no modo Vibrar."</string>
 
     <!-- Status Bar -->
-    <string name="service_disabled_warning">BlipBlip está desativado</string>
-    <string name="service_enable">ativar</string>
+    <string name="service_disabled_warning">"BlipBlip está desativado"</string>
+    <string name="service_enable">"ativar"</string>
 
     <!-- Menu - Settings -->
-    <string name="action_settings">Configurações</string>
+    <string name="action_settings">"Configurações"</string>
 
     <!-- Language -->
-    <string name="app_language">Idioma</string>
-    <string name="system_default_language">Padrão do sistema</string>
-    <string name="language_improve_translations">Adicionar ou melhorar as traduções</string>
+    <string name="app_language">"Idioma"</string>
+    <string name="system_default_language">"Padrão do sistema"</string>
+    <string name="language_improve_translations">"Adicionar ou melhorar as traduções"</string>
 
     <!-- Quiet Hours -->
-    <string name="quiet_hours_title">Tempo em silêncio</string>
+    <string name="quiet_hours_title">"Tempo em silêncio"</string>
 
     <!-- Quiet Days -->
-    <string name="quiet_days_title">Dias em silêncio</string>
-    <string name="days_none">Nenhum</string>
+    <string name="quiet_days_title">"Dias em silêncio"</string>
+    <string name="days_none">"Nenhum"</string>
     <string name="days_everyday">"Everyday"</string> <!-- TODO translate -->
-    <string name="quiet_day_warning">Notificação desativada, pois hoje é "Dia em silêncio".</string>
-    <string name="toast_change_quiet_days">Por favor, altere a configuração "Dias em silêncio" para fazer o BlipBlip funcionar hoje.</string>
+    <string name="quiet_day_warning">"Notificação desativada, pois hoje é "Dia em silêncio"."</string>
+    <string name="toast_change_quiet_days">"Por favor, altere a configuração "Dias em silêncio" para fazer o BlipBlip funcionar hoje."</string>
 
     <!-- While Music -->
-    <string name="while_music">Desativar durante a reprodução de músicas</string>
-    <string name="while_music_on">Todas as notificações desativadas</string>
-    <string name="while_music_off">Notificações ativadas</string>
-    <string name="while_music_toast">As notificações BlipBlip estão desativadas, pois você está ouvindo músicas.</string>
+    <string name="while_music">"Desativar durante a reprodução de músicas"</string>
+    <string name="while_music_on">"Todas as notificações desativadas"</string>
+    <string name="while_music_off">"Notificações ativadas"</string>
+    <string name="while_music_toast">"As notificações BlipBlip estão desativadas, pois você está ouvindo músicas."</string>
     <!-- While phone call -->
-    <string name="while_phonecall">Desativar durante as chamadas </string>
-    <string name="while_phonecall_on">Todas as notificações desativadas</string>
-    <string name="while_phonecall_off">Notificações ativadas</string>
-    <string name="while_phonecall_toast">As notificações BlipBlip estão desativadas, pois você está em uma chamada.</string>
+    <string name="while_phonecall">"Desativar durante as chamadas "</string>
+    <string name="while_phonecall_on">"Todas as notificações desativadas"</string>
+    <string name="while_phonecall_off">"Notificações ativadas"</string>
+    <string name="while_phonecall_toast">"As notificações BlipBlip estão desativadas, pois você está em uma chamada."</string>
 
 
 
     <!-- ADVANCED SETTINGS -->
-    <string name="pref_advanced">Configurações avançadas</string>
-    <string name="title_advanced_settings">Configurações avançadas</string>
+    <string name="pref_advanced">"Configurações avançadas"</string>
+    <string name="title_advanced_settings">"Configurações avançadas"</string>
 
     <!-- Audio Stream -->
-    <string name="pref_choose_audio_stream">Fluxo de áudio</string>
-    <string name="audio_stream_phone_ring">Toque do telefone</string>
-    <string name="audio_stream_alarm">Alarme</string>
-    <string name="audio_stream_media">Mídia</string>
-    <string name="audio_stream_notification">Notificação</string>
+    <string name="pref_choose_audio_stream">"Fluxo de áudio"</string>
+    <string name="audio_stream_phone_ring">"Toque do telefone"</string>
+    <string name="audio_stream_alarm">"Alarme"</string>
+    <string name="audio_stream_media">"Mídia"</string>
+    <string name="audio_stream_notification">"Notificação"</string>
 
     <!-- Notifications -->
     <string name="pref_notification_settings">"Notification settings"</string> <!-- TODO translate -->
-    <string name="pref_notification_status_title">Exibir notificação</string>
+    <string name="pref_notification_status_title">"Exibir notificação"</string>
 
     <!-- Show Notification Always -->
     <string name="pref_notification_always">"Always display"</string> <!-- TODO translate -->
@@ -183,8 +183,8 @@
     <string name="auto_dismiss_notification_off">"Notification will not be dismissed automatically."</string> <!-- TODO translate -->
 
     <!-- Vibrate on Wear -->
-    <string name="pref_vibrate_wear_title">Vibrate on Wear</string>
-    <string name="pref_vibrate_wear_off">Do not vibrate on Android Wear</string>
+    <string name="pref_vibrate_wear_title">"Vibrate on Wear"</string>
+    <string name="pref_vibrate_wear_off">"Do not vibrate on Android Wear"</string>
     <string name="pref_vibrate_wearable_title">@string/pref_vibrate_wear_title</string> <!-- TODO translate ""Vibrate on connected device""-->
     <string name="pref_vibrate_wearable_on2">"If vibration is enabled vibrate also on connected wearable device (e.g. smart watch). Requires adding System notification action."</string> <!-- TODO translate -->
     <string name="pref_vibrate_wearable_off">@string/pref_vibrate_wear_off</string> <!-- TODO translate ""Do not vibrate on connected wearable device""-->
@@ -208,23 +208,21 @@
     <string name="reliability_warning">"Changing these settings may impact reliability of the app."</string> <!-- TODO translate --> <!-- This message should be as short as possible. There is risk of cutting it off if it will be too long -->
 
     <!-- Alarm Mode -->
-    <string name="notif_as_alarm_title">Modo de alarme</string>
-    <string name="notif_as_alarm_off">Notificações regulares</string>
-    <string name="notif_as_alarm_on">Notificações como alarmes Corrige o atraso de 3 a 5 minutos em alguns dispositivos Samsung)</string>
-    <string name="late_notif_title">Modo alarme ativado</string>
-    <string name="late_notif_message">Foi detectado que a notificação foi atrasada por vários minutos, o que acontece em alguns dispositivos Samsung. Para evitar 
-isso, a opção "Modo de alarme" foi habilitada, o que deve corrigir esse problema. Você pode desabilitar essa opção, bem como a ativação automática desta opção nas Configurações avançadas. Se houver uma melhor solução encontrada para resolver este problema, o aplicativo será atualizado. 
-Se você encontrar outros problemas, por favor, nos informe por e-mail.</string>
+    <string name="notif_as_alarm_title">"Modo de alarme"</string>
+    <string name="notif_as_alarm_off">"Notificações regulares"</string>
+    <string name="notif_as_alarm_on">"Notificações como alarmes Corrige o atraso de 3 a 5 minutos em alguns dispositivos Samsung)"</string>
+    <string name="late_notif_title">"Modo alarme ativado"</string>
+    <string name="late_notif_message">"Foi detectado que a notificação foi atrasada por vários minutos, o que acontece em alguns dispositivos Samsung. Para evitar isso, a opção "Modo de alarme" foi habilitada, o que deve corrigir esse problema. Você pode desabilitar essa opção, bem como a ativação automática desta opção nas Configurações avançadas. Se houver uma melhor solução encontrada para resolver este problema, o aplicativo será atualizado. Se você encontrar outros problemas, por favor, nos informe por e-mail."</string>
 
     <!-- Auto Alarm -->
-    <string name="auto_notif_as_alarm_title">Ativar modo de alarme automaticamente</string>
-    <string name="auto_notif_as_alarm_on">Ative o modo de alarme se o atraso de notificação for detectado</string>
-    <string name="auto_notif_as_alarm_off">Não ativar o modo de alarme automaticamente.</string>
+    <string name="auto_notif_as_alarm_title">"Ativar modo de alarme automaticamente"</string>
+    <string name="auto_notif_as_alarm_on">"Ative o modo de alarme se o atraso de notificação for detectado"</string>
+    <string name="auto_notif_as_alarm_off">"Não ativar o modo de alarme automaticamente."</string>
 
     <!-- Low Valume -->
-    <string name="pref_low_volume_fix">Correção de volume baixo</string>
-    <string name="pref_low_volume_fix_on">Corrige o volume baixo em alguns dispositivos Motorola com recurso volume crescente. Pode atrasar a reprodução de som por alguns segundos.</string>
-    <string name="pref_low_volume_fix_off">Desativado. Não é necessário para a maioria dos dispositivos.</string>
+    <string name="pref_low_volume_fix">"Correção de volume baixo"</string>
+    <string name="pref_low_volume_fix_on">"Corrige o volume baixo em alguns dispositivos Motorola com recurso volume crescente. Pode atrasar a reprodução de som por alguns segundos."</string>
+    <string name="pref_low_volume_fix_off">"Desativado. Não é necessário para a maioria dos dispositivos."</string>
 
     <!-- Foreground Service -->
     <string name="pref_foreground_service_title">"Foreground service"</string> <!-- TODO translate -->
@@ -233,23 +231,23 @@ Se você encontrar outros problemas, por favor, nos informe por e-mail.</string>
     <string name="msg_foreground_service_off">"Foreground service disabled"</string> <!-- TODO translate --> <!-- message displayed when foreground service is disabled without user interacting with this option -->
 
     <!-- Toast Notifications -->
-    <string name="pref_toast_notifications">Notificações do sistema</string>
-    <string name="pref_toast_notifications_on">Mostrar avisos de notificações do sistema</string>
-    <string name="pref_toast_notifications_off">Ocultar avisos de notificação do sistema</string>
+    <string name="pref_toast_notifications">"Notificações do sistema"</string>
+    <string name="pref_toast_notifications_on">"Mostrar avisos de notificações do sistema"</string>
+    <string name="pref_toast_notifications_off">"Ocultar avisos de notificação do sistema"</string>
 
     <!-- Logs -->
-    <string name="debug_logs_title">Coletar logs de depuração</string>
-    <string name="debug_logs_off">Escrita do Log desativada</string>
-    <string name="debug_logs_on">Salvar logs para reportar problemas por e-mail</string>
+    <string name="debug_logs_title">"Coletar logs de depuração"</string>
+    <string name="debug_logs_off">"Escrita do Log desativada"</string>
+    <string name="debug_logs_on">"Salvar logs para reportar problemas por e-mail"</string>
 
     <!-- Beta -->
     <string name="beta_preference_title">"BlipBlip Beta"</string> <!-- TODO translate -->
-    <string name="beta_preference_description">Ativar ou desativar versão Beta</string>
+    <string name="beta_preference_description">"Ativar ou desativar versão Beta"</string>
 
     <!-- Experimental Settings -->
-    <string name="pref_experimental">Configurações experimentais</string>
-    <string name="experimental_warning">Estas são as configurações experimentais e podem ser removidas futuramente.</string>
-    <string name="title_experimental_settings">Configurações experimentais</string>
+    <string name="pref_experimental">"Configurações experimentais"</string>
+    <string name="experimental_warning">"Estas são as configurações experimentais e podem ser removidas futuramente."</string>
+    <string name="title_experimental_settings">"Configurações experimentais"</string>
     <string name="huawei_fix">"Huawei fix"</string> <!-- TODO translate -->
 
     <!-- Time Offset -->
@@ -259,38 +257,38 @@ Se você encontrar outros problemas, por favor, nos informe por e-mail.</string>
     <!-- Inline Attachments -->
 
     <!-- Menu - Share -->
-    <string name="action_share">Compartilhar aplicativo</string>
-    <string name="share_chooser_title">Compartilhar o aplicativo!</string>
-    <string name="share_title">Confira o aplicativo "BlipBlip hourly chime"!</string>
-    <string name="share_text">Confira o aplicativo "BlipBlip hourly chime" para Android!</string>
+    <string name="action_share">"Compartilhar aplicativo"</string>
+    <string name="share_chooser_title">"Compartilhar o aplicativo!"</string>
+    <string name="share_title">"Confira o aplicativo "BlipBlip hourly chime"!"</string>
+    <string name="share_text">"Confira o aplicativo "BlipBlip hourly chime" para Android!"</string>
 
     <!-- Menu - Rate -->
-    <string name="action_rate">Avalie-nos</string>
-    <string name="rate_us_title">Avalie-nos!</string>
-    <string name="rate_us_message">Obrigado por rezervar um tempo para avaliar o aplicativo.</string>
-    <string name="rate_us_onetofourstars">1–4 estrelas</string>
-    <string name="rate_us_fivestars">5 estrelas!</string>
+    <string name="action_rate">"Avalie-nos"</string>
+    <string name="rate_us_title">"Avalie-nos!"</string>
+    <string name="rate_us_message">"Obrigado por rezervar um tempo para avaliar o aplicativo."</string>
+    <string name="rate_us_onetofourstars">"1–4 estrelas"</string>
+    <string name="rate_us_fivestars">"5 estrelas!"</string>
     <string name="five_stars_description">"Five stars"</string> <!-- TODO translate -->
     <string name="five_stars_title">"Love BlipBlip?"</string> <!-- TODO translate -->
-    <string name="five_stars_text">Rate us 5 stars to help make BlipBlip even more awesome. Thanks!</string>
+    <string name="five_stars_text">"Rate us 5 stars to help make BlipBlip even more awesome. Thanks!"</string>
 
     <!-- Menu - Error -->
-    <string name="action_send_logs">Reportar problema</string>
-    <string name="send_logs_describe">Por favor, descreva o seu problema com o aplicativo (De preferência em Inglês):</string>
-    <string name="feedback_dialog_bug_found">Eu encontrei um Bug (Anexar logs)</string>
+    <string name="action_send_logs">"Reportar problema"</string>
+    <string name="send_logs_describe">"Por favor, descreva o seu problema com o aplicativo (De preferência em Inglês):"</string>
+    <string name="feedback_dialog_bug_found">"Eu encontrei um Bug (Anexar logs)"</string>
 
     <!-- Menu - Improvement -->
-    <string name="feedback_improvement_title">O BlipBlip precisa ser melhorado</string>
-    <string name="feedback_improvement_message">Diga-nos, por favor, o que podemos fazer para tornar o aplicativo melhor para você.</string>
+    <string name="feedback_improvement_title">"O BlipBlip precisa ser melhorado"</string>
+    <string name="feedback_improvement_message">"Diga-nos, por favor, o que podemos fazer para tornar o aplicativo melhor para você."</string>
 
     <!-- Menu - About -->
-    <string name="action_about">Sobre</string>
-    <string name="about_version">Versão:</string>
-    <string name="about_authors">Autores</string>
-    <string name="about_coding">Codificação</string>
+    <string name="action_about">"Sobre"</string>
+    <string name="about_version">"Versão:"</string>
+    <string name="about_authors">"Autores"</string>
+    <string name="about_coding">"Codificação"</string>
     <string name="about_testing">"Testing"</string> <!-- TODO translate -->
-    <string name="about_graphics">Gráficos</string>
-    <string name="about_translations">Traduções</string>
+    <string name="about_graphics">"Gráficos"</string>
+    <string name="about_translations">"Traduções"</string>
     <string name="about_thank_you">"Thank You"</string> <!-- TODO translate -->
     <string name="about_images">"Images"</string> <!-- TODO translate -->
     <string name="about_libraries">"Libraries"</string> <!-- TODO translate --> <!-- title of screen showing licenses of programming libraries used by the app -->
@@ -298,14 +296,14 @@ Se você encontrar outros problemas, por favor, nos informe por e-mail.</string>
     <string name="about_translators_thank_you">"BlipBlip is translated by our users voluntarily and hereby we thank you for your support and contribution."</string> <!-- TODO translate -->
 
     <!-- Visual -->
-    <string name="pref_visual">Configurações de vizualização</string>
-    <string name="title_visual_settings">Configurações de visualização</string>
+    <string name="pref_visual">"Configurações de vizualização"</string>
+    <string name="title_visual_settings">"Configurações de visualização"</string>
 
     <!-- Unsorted -->
     <string name="warn_notification_skip">"Some notifications will be skipped."</string> <!-- TODO translate --> <!-- Please make this as short as possible. This warning is displayed when user chooses to skip few upcoming notifications. -->
     <string name="warn_volume_zero">"Current volume is set to zero."</string> <!-- TODO translate --> <!-- Please make this as short as possible. This warning is displayed when current system volume is set to 0. -->
     <string name="pref_low_mem_restart_title">"Low memory restart"</string> <!-- TODO translate -->
-    <string name="pref_low_mem_restart_on">Try restarting app if device is low on memory. This will not work on all devices. It is not needed on most devices (may use a bit more battery).</string>
+    <string name="pref_low_mem_restart_on">"Try restarting app if device is low on memory. This will not work on all devices. It is not needed on most devices (may use a bit more battery)."</string>
     <string name="pref_low_mem_restart_off">"Do not try restarting app if device is low on memory."</string> <!-- TODO translate -->
     <string name="pref_heading_notification_accuracy">"Notification accuracy"</string> <!-- TODO translate --> <!-- punctuality -->
     <string name="pref_delay_prevention_title">"Prevent delays"</string> <!-- TODO translate -->

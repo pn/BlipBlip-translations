@@ -2,54 +2,54 @@
 <resources>
 
     <!-- Buttons -->
-    <string name="change_setting">Änderung</string>
-    <string name="send">Senden</string>
-    <string name="send_email_description">Email senden</string>
-    <string name="play_button_description">Teste eigene Einstellungen</string>
+    <string name="change_setting">"Änderung"</string>
+    <string name="send">"Senden"</string>
+    <string name="send_email_description">"Email senden"</string>
+    <string name="play_button_description">"Teste eigene Einstellungen"</string>
 
     <!-- Warnings -->
-    <string name="warning">Warnung</string>
-    <string name="warning_understood">erhalten</string>
-    <string name="please_wait">Bitte warten…</string>
-    <string name="warn_power_saving">Damit die Zuverlässigkeit der Anwendung sichergestellt werden kann, schalte jegliche Energiespar Optionen aus.</string> <!-- Please make this as short as possible -->
-    <string name="allow_while_idle_title">Im Energiesparmodus erlaubt</string>
-    <string name="allow_while_idle_off">Im Energiesparmodus könnten einige Meldungen übersprungen werden.</string>
-    <string name="allow_while_idle_on">Erlaubnis im Energiesparmodus (Doze/Idle). Könnte sein, dass Benachrichtigungen übersprungen werden, die öfter als alle 15 Minuten kommen sollen. Diese Einstellung hat leichte Auswirkung auf die Akku-Restlaufzeit.</string>
+    <string name="warning">"Warnung"</string>
+    <string name="warning_understood">"erhalten"</string>
+    <string name="please_wait">"Bitte warten…"</string>
+    <string name="warn_power_saving">"Damit die Zuverlässigkeit der Anwendung sichergestellt werden kann, schalte jegliche Energiespar Optionen aus."</string> <!-- Please make this as short as possible -->
+    <string name="allow_while_idle_title">"Im Energiesparmodus erlaubt"</string>
+    <string name="allow_while_idle_off">"Im Energiesparmodus könnten einige Meldungen übersprungen werden."</string>
+    <string name="allow_while_idle_on">"Erlaubnis im Energiesparmodus (Doze/Idle). Könnte sein, dass Benachrichtigungen übersprungen werden, die öfter als alle 15 Minuten kommen sollen. Diese Einstellung hat leichte Auswirkung auf die Akku-Restlaufzeit."</string>
     <string name="app_killed_title">"App was killed"</string> <!-- TODO translate -->
 
     <!-- Next Notification -->
-    <string name="next_notification_off">Ausgeschaltet</string>
-    <string name="upcoming_notifications">Bevorstehende Benachrichtigung</string>
-    <string name="day_today">heute</string>
-    <string name="day_tomorrow">morgen</string>
-    <string name="day_monday">Montag</string>
-    <string name="day_tuesday">Dienstag</string>
-    <string name="day_wednesday">Mittwoch</string>
-    <string name="day_thursday">Donnerstag</string>
-    <string name="day_friday">Freitag</string>
-    <string name="day_saturday">Samstag</string>
-    <string name="day_sunday">Sonntag</string>
+    <string name="next_notification_off">"Ausgeschaltet"</string>
+    <string name="upcoming_notifications">"Bevorstehende Benachrichtigung"</string>
+    <string name="day_today">"heute"</string>
+    <string name="day_tomorrow">"morgen"</string>
+    <string name="day_monday">"Montag"</string>
+    <string name="day_tuesday">"Dienstag"</string>
+    <string name="day_wednesday">"Mittwoch"</string>
+    <string name="day_thursday">"Donnerstag"</string>
+    <string name="day_friday">"Freitag"</string>
+    <string name="day_saturday">"Samstag"</string>
+    <string name="day_sunday">"Sonntag"</string>
     <string name="preview_upcoming_notifications">"Preview upcoming notifications"</string> <!-- TODO translate -->
     <string name="disable_premium_notifications">"Disable Premium notifications"</string> <!-- TODO translate -->
 
     <!-- Sound -->
-    <string name="sound_text">Ton</string>
-    <string name="sound_blipblip">BlipBlip</string>
-    <string name="sound_casio_watch">Casio Uhr</string>
+    <string name="sound_text">"Ton"</string>
+    <string name="sound_blipblip">"BlipBlip"</string> <!-- translated -->
+    <string name="sound_casio_watch">"Casio Uhr"</string>
     <string name="sound_casio_watch_single">"Casio watch (single)"</string> <!-- TODO translate -->
-    <string name="sound_gong">Gong</string>
-    <string name="sound_ships_bell">Schiffsglocke</string>
-    <string name="sound_double_ships_bell">doppelte Schiffsglocke</string>
-    <string name="sound_cuckoo">Kuckuck</string>
-    <string name="sound_watch_beep">Armbanduhrton</string>
-    <string name="sound_big_ben">Big Ben</string>
-    <string name="sound_big_ben_strikes">Big Ben Ertönt</string>
-    <string name="sound_bubble">Blasen</string>
-    <string name="sound_bird">Vogel %1$s</string>
-    <string name="sound_cartoon">Zeichentrick %1$s</string>
-    <string name="sound_cat">Katze %1$s</string>
-    <string name="sound_dog">Hund %1$s</string>
-    <string name="sound_rooster">Hahn</string>
+    <string name="sound_gong">"Gong"</string> <!-- translated -->
+    <string name="sound_ships_bell">"Schiffsglocke"</string>
+    <string name="sound_double_ships_bell">"doppelte Schiffsglocke"</string>
+    <string name="sound_cuckoo">"Kuckuck"</string>
+    <string name="sound_watch_beep">"Armbanduhrton"</string>
+    <string name="sound_big_ben">"Big Ben"</string> <!-- translated -->
+    <string name="sound_big_ben_strikes">"Big Ben Ertönt"</string>
+    <string name="sound_bubble">"Blasen"</string>
+    <string name="sound_bird">"Vogel %1$s"</string>
+    <string name="sound_cartoon">"Zeichentrick %1$s"</string>
+    <string name="sound_cat">"Katze %1$s"</string>
+    <string name="sound_dog">"Hund %1$s"</string>
+    <string name="sound_rooster">"Hahn"</string>
     <string name="sound_guitar_strum">"Guitar strum %1$s"</string> <!-- TODO translate -->
     <string name="sound_water_drop">"Water drop %1$s"</string> <!-- TODO translate -->
     <string name="sound_water_pouring">"Water pouring %1$s"</string> <!-- TODO translate -->
@@ -68,112 +68,112 @@
     <string name="sound_guitar">"Guitar"</string> <!-- TODO translate -->
 
     <!-- Volume -->
-    <string name="text_seek_volume">Lautstärke</string>
+    <string name="text_seek_volume">"Lautstärke"</string>
 
     <!-- Vibration -->
-    <string name="vibrate">Vibration</string>
-    <string name="vibration_blipblip">BlipBlip</string>
-    <string name="vibration_casio_watch">Casio Uhr</string>
-    <string name="vibration_single_short">einmal kurz</string>
-    <string name="vibration_double_short">zweimal kurz</string>
-    <string name="vibration_single_long">einmal lang</string>
-    <string name="vibration_double_long">zweimal lang</string>
+    <string name="vibrate">"Vibration"</string> <!-- translated -->
+    <string name="vibration_blipblip">"BlipBlip"</string>
+    <string name="vibration_casio_watch">"Casio Uhr"</string>
+    <string name="vibration_single_short">"einmal kurz"</string>
+    <string name="vibration_double_short">"zweimal kurz"</string>
+    <string name="vibration_single_long">"einmal lang"</string>
+    <string name="vibration_double_long">"zweimal lang"</string>
 
     <!-- Silent Mode -->
-    <string name="pref_silent_mode">Ruhemodus</string>
-    <string name="title_silent_mode_settings">Einstellungen Ruhemodus</string>
-    <string name="sound_in_silent_mode_title">Ton im Ruhemodus</string>
-    <string name="sound_in_silent_mode_on">Tonausgabe im Nicht-stören-Modus erlaubt</string>
-    <string name="sound_in_silent_mode_off">Ton aus im Nicht-stören-Modus</string>
-    <string name="vibrate_in_silent_mode_title">Vibration im Ruhemodus</string>
-    <string name="vibrate_in_silent_mode_on"> Vibration im Nicht-stören-Modus erlaubt</string>
-    <string name="vibrate_in_silent_mode_off">Vibration aus im Nicht-stören-Modus</string>
-    <string name="force_screen_in_silent_mode_title">Bildschirm einschalten</string>
-    <string name="force_screen_in_silent_mode_on">Bildschirm einschalten im Nicht-stören-Modus sogar wenn \"Bildschirm an bei Nachrichten\" option ausgeschaltet ist</string>
-    <string name="force_screen_in_silent_mode_off">ausgeschaltet</string>
-    <string name="warn_sound_disabled_silent_mode">BlipBlip-Ton ausgeschaltet, weil das Gerät im Nicht-stören-Modus ist.</string>
+    <string name="pref_silent_mode">"Ruhemodus"</string>
+    <string name="title_silent_mode_settings">"Einstellungen Ruhemodus"</string>
+    <string name="sound_in_silent_mode_title">"Ton im Ruhemodus"</string>
+    <string name="sound_in_silent_mode_on">"Tonausgabe im Nicht-stören-Modus erlaubt"</string>
+    <string name="sound_in_silent_mode_off">"Ton aus im Nicht-stören-Modus"</string>
+    <string name="vibrate_in_silent_mode_title">"Vibration im Ruhemodus"</string>
+    <string name="vibrate_in_silent_mode_on">" Vibration im Nicht-stören-Modus erlaubt"</string>
+    <string name="vibrate_in_silent_mode_off">"Vibration aus im Nicht-stören-Modus"</string>
+    <string name="force_screen_in_silent_mode_title">"Bildschirm einschalten"</string>
+    <string name="force_screen_in_silent_mode_on">"Bildschirm einschalten im Nicht-stören-Modus sogar wenn \"Bildschirm an bei Nachrichten\" option ausgeschaltet ist"</string>
+    <string name="force_screen_in_silent_mode_off">"ausgeschaltet"</string>
+    <string name="warn_sound_disabled_silent_mode">"BlipBlip-Ton ausgeschaltet, weil das Gerät im Nicht-stören-Modus ist."</string>
 
     <!-- Vibration Mode -->
-    <string name="pref_vibrate_mode">Vibrationsmodus</string>
-    <string name="title_vibrate_mode_settings">Einstellungen Vibrationsmodus</string>
-    <string name="sound_in_vibrate_mode_title">Ton im Vibrationsmodus</string>
-    <string name="sound_in_vibrate_mode_on">Ton im Vibrationsmodus erlaubt</string>
-    <string name="sound_in_vibrate_mode_off">Ton aus im Vibrationsmodus</string>
-    <string name="vibrate_in_vibrate_mode_title">Vibration im Vibrationsmodus</string>
-    <string name="vibrate_in_vibrate_mode_on">Vibration im Vibrations-Modus erlaubt</string>
-    <string name="vibrate_in_vibrate_mode_off">Vibration aus im Vibrationsmodus</string>
-    <string name="force_vibrate_in_vibrate_mode_title">Vibration einschalten</string>
-    <string name="force_vibrate_in_vibrate_mode_on">Vibration im Vibrationsmodus, auch wenn Vibration ausgeschaltet ist</string>
-    <string name="force_vibrate_in_vibrate_mode_off">ausgeschaltet</string>
-    <string name="force_screen_in_vibrate_mode_title">Bildschirm einschalten</string>
-    <string name="force_screen_in_vibrate_mode_on">Bildschirm an im Vibrationsmodus auch wenn \"Bildschirm an bei Nachrichten\" option ausgeschaltet ist</string>
-    <string name="force_screen_in_vibrate_mode_off">ausgeschaltet</string>
-    <string name="warn_sound_disabled_vibrate_mode">BlipBlip-Ton ausgeschaltet, weil das Gerät im Vibrations-Modus ist.</string>
+    <string name="pref_vibrate_mode">"Vibrationsmodus"</string>
+    <string name="title_vibrate_mode_settings">"Einstellungen Vibrationsmodus"</string>
+    <string name="sound_in_vibrate_mode_title">"Ton im Vibrationsmodus"</string>
+    <string name="sound_in_vibrate_mode_on">"Ton im Vibrationsmodus erlaubt"</string>
+    <string name="sound_in_vibrate_mode_off">"Ton aus im Vibrationsmodus"</string>
+    <string name="vibrate_in_vibrate_mode_title">"Vibration im Vibrationsmodus"</string>
+    <string name="vibrate_in_vibrate_mode_on">"Vibration im Vibrations-Modus erlaubt"</string>
+    <string name="vibrate_in_vibrate_mode_off">"Vibration aus im Vibrationsmodus"</string>
+    <string name="force_vibrate_in_vibrate_mode_title">"Vibration einschalten"</string>
+    <string name="force_vibrate_in_vibrate_mode_on">"Vibration im Vibrationsmodus, auch wenn Vibration ausgeschaltet ist"</string>
+    <string name="force_vibrate_in_vibrate_mode_off">"ausgeschaltet"</string>
+    <string name="force_screen_in_vibrate_mode_title">"Bildschirm einschalten"</string>
+    <string name="force_screen_in_vibrate_mode_on">"Bildschirm an im Vibrationsmodus auch wenn \"Bildschirm an bei Nachrichten\" option ausgeschaltet ist"</string>
+    <string name="force_screen_in_vibrate_mode_off">"ausgeschaltet"</string>
+    <string name="warn_sound_disabled_vibrate_mode">"BlipBlip-Ton ausgeschaltet, weil das Gerät im Vibrations-Modus ist."</string>
 
     <!-- Status Bar -->
-    <string name="service_disabled_warning">BlipBlip ist ausgeschaltet</string>
-    <string name="service_enable">Einschalten</string>
+    <string name="service_disabled_warning">"BlipBlip ist ausgeschaltet"</string>
+    <string name="service_enable">"Einschalten"</string>
 
     <!-- Menu - Settings -->
-    <string name="action_settings">Einstellungen</string>
+    <string name="action_settings">"Einstellungen"</string>
 
     <!-- Language -->
-    <string name="app_language">Sprache</string>
-    <string name="system_default_language">Systemvoreinstellung</string>
-    <string name="language_improve_translations">Erstelle oder verbessere Übersetzungen</string>
+    <string name="app_language">"Sprache"</string>
+    <string name="system_default_language">"Systemvoreinstellung"</string>
+    <string name="language_improve_translations">"Erstelle oder verbessere Übersetzungen"</string>
 
     <!-- Quiet Hours -->
-    <string name="quiet_hours_title">Ruhezeit</string>
+    <string name="quiet_hours_title">"Ruhezeit"</string>
 
     <!-- Quiet Days -->
-    <string name="quiet_days_title">Ruhetage</string>
-    <string name="days_none">keine Ruhetage</string>
-    <string name="days_everyday">Jeden Tag</string>
-    <string name="quiet_day_warning">Benachrichtigung aus, weil heute \"Ruhetag\" ist.</string>
-    <string name="toast_change_quiet_days">Bitte ändere die \"Ruhetage\" damit BlipBlip heute arbeitet.</string>
+    <string name="quiet_days_title">"Ruhetage"</string>
+    <string name="days_none">"keine Ruhetage"</string>
+    <string name="days_everyday">"Jeden Tag"</string>
+    <string name="quiet_day_warning">"Benachrichtigung aus, weil heute \"Ruhetag\" ist."</string>
+    <string name="toast_change_quiet_days">"Bitte ändere die \"Ruhetage\" damit BlipBlip heute arbeitet."</string>
 
     <!-- While Music -->
-    <string name="while_music">Ton Aus während der Musikwiedergabe</string>
-    <string name="while_music_on">BlipBlip-Ton aus</string>
-    <string name="while_music_off">BlipBlip-Ton an</string>
-    <string name="while_music_toast">BlipBlip-Ton ist jetzt stumm, weil Musik spielt.</string>
+    <string name="while_music">"Ton Aus während der Musikwiedergabe"</string>
+    <string name="while_music_on">"BlipBlip-Ton aus"</string>
+    <string name="while_music_off">"BlipBlip-Ton an"</string>
+    <string name="while_music_toast">"BlipBlip-Ton ist jetzt stumm, weil Musik spielt."</string>
     <!-- While phone call -->
-    <string name="while_phonecall">Stumm bei Anrufen</string>
-    <string name="while_phonecall_on">BlipBlip-Ton aus</string>
-    <string name="while_phonecall_off">BlipBlip-Ton an</string>
-    <string name="while_phonecall_toast">BlipBlip-Ton ist bei laufenden Telefongesprächen stumm.</string>
+    <string name="while_phonecall">"Stumm bei Anrufen"</string>
+    <string name="while_phonecall_on">"BlipBlip-Ton aus"</string>
+    <string name="while_phonecall_off">"BlipBlip-Ton an"</string>
+    <string name="while_phonecall_toast">"BlipBlip-Ton ist bei laufenden Telefongesprächen stumm."</string>
 
 
 
     <!-- ADVANCED SETTINGS -->
-    <string name="pref_advanced">Erweiterte Einstellungen</string>
-    <string name="title_advanced_settings">Erweiterte Einstellungen</string>
+    <string name="pref_advanced">"Erweiterte Einstellungen"</string>
+    <string name="title_advanced_settings">"Erweiterte Einstellungen"</string>
 
     <!-- Audio Stream -->
-    <string name="pref_choose_audio_stream">Ausgabe über Kanal</string>
-    <string name="audio_stream_phone_ring">Telefonklingelton</string>
-    <string name="audio_stream_alarm">Wecker</string>
-    <string name="audio_stream_media">Medien</string>
-    <string name="audio_stream_notification">System-Meldungen</string>
+    <string name="pref_choose_audio_stream">"Ausgabe über Kanal"</string>
+    <string name="audio_stream_phone_ring">"Telefonklingelton"</string>
+    <string name="audio_stream_alarm">"Wecker"</string>
+    <string name="audio_stream_media">"Medien"</string>
+    <string name="audio_stream_notification">"System-Meldungen"</string>
 
     <!-- Notifications -->
-    <string name="pref_notification_settings">Benachrichtigungseinstellungen</string>
-    <string name="pref_notification_status_title">Benachrichtigung anzeigen</string>
+    <string name="pref_notification_settings">"Benachrichtigungseinstellungen"</string>
+    <string name="pref_notification_status_title">"Benachrichtigung anzeigen"</string>
 
     <!-- Show Notification Always -->
-    <string name="pref_notification_always">Immer Anzeigen</string>
-    <string name="pref_notification_always_on">Zeige Benachrichtigung unabhängig ob sie eingeschaltet ist.</string>
-    <string name="pref_notification_always_off">Zeige Benachrichtigung nur wenn sie eingeschaltet ist.</string>
-    <string name="notification_settings_updated">Benachrichtigungseinstellungen wurden geändert</string> <!-- message displayed when one of notification settings is updated without user interacting with these options -->
+    <string name="pref_notification_always">"Immer Anzeigen"</string>
+    <string name="pref_notification_always_on">"Zeige Benachrichtigung unabhängig ob sie eingeschaltet ist."</string>
+    <string name="pref_notification_always_off">"Zeige Benachrichtigung nur wenn sie eingeschaltet ist."</string>
+    <string name="notification_settings_updated">"Benachrichtigungseinstellungen wurden geändert"</string> <!-- message displayed when one of notification settings is updated without user interacting with these options -->
     <string name="permanent_notification">"Permanent notification"</string> <!-- TODO translate -->
 
     <!-- Notification Priority -->
-    <string name="pref_notification_priority">Mitteilungspriorität</string>
-    <string name="item_priority_minimum">Minimal</string>
-    <string name="item_priority_low">Gering</string>
-    <string name="item_priority_normal">Normal</string>
-    <string name="item_priority_high">Hoch</string>
-    <string name="item_priority_maximum">Maximal</string>
+    <string name="pref_notification_priority">"Mitteilungspriorität"</string>
+    <string name="item_priority_minimum">"Minimal"</string>
+    <string name="item_priority_low">"Gering"</string>
+    <string name="item_priority_normal">"Normal"</string> <!-- translated -->
+    <string name="item_priority_high">"Hoch"</string>
+    <string name="item_priority_maximum">"Maximal"</string>
 
     <!-- Dismissible Notification -->
 
@@ -183,71 +183,71 @@
     <string name="auto_dismiss_notification_off">"Notification will not be dismissed automatically."</string> <!-- TODO translate -->
 
     <!-- Vibrate on Wear -->
-    <string name="pref_vibrate_wear_title">Vibration auf Wearable-Geräten</string>
-    <string name="pref_vibrate_wear_off">Vibrieren ist ausgeschaltet, viebriert nicht auf verbundenen Android Wear-Gerät</string>
-    <string name="pref_vibrate_wearable_title">Vibrieren auf verbundenen Wear-Gerät</string>
-    <string name="pref_vibrate_wearable_on2">Wenn das Vibrieren eingeschaltet ist, vibriert ebenfalls auf verbundenen Wearable-Gerät (z.B. Smart-Watch). Benötigt eine zusätzliche Systembenachrichtigung.</string>
-    <string name="pref_vibrate_wearable_off">Viebriere nicht auf verbundenen Wearable-Gerät</string>
+    <string name="pref_vibrate_wear_title">"Vibration auf Wearable-Geräten"</string>
+    <string name="pref_vibrate_wear_off">"Vibrieren ist ausgeschaltet, viebriert nicht auf verbundenen Android Wear-Gerät"</string>
+    <string name="pref_vibrate_wearable_title">"Vibrieren auf verbundenen Wear-Gerät"</string>
+    <string name="pref_vibrate_wearable_on2">"Wenn das Vibrieren eingeschaltet ist, vibriert ebenfalls auf verbundenen Wearable-Gerät (z.B. Smart-Watch). Benötigt eine zusätzliche Systembenachrichtigung."</string>
+    <string name="pref_vibrate_wearable_off">"Viebriere nicht auf verbundenen Wearable-Gerät"</string>
 
     <!-- Action Buttons -->
-    <string name="pref_notification_action_buttons">Aktionsschaltflächen</string> <!-- Preference name for choosing which buttons are visible on notification -->
-    <string name="notif_action_stop">Anhalten</string> <!-- Description of action button. This should refer to notif_action_stop -->
-    <string name="notif_action_disable_or_enable">Aktiviere/Deaktiviere</string> <!-- Description of action button. This refers to notif_action_enable and notif_action -->
-    <string name="notif_button_play">Abspielen</string> <!-- Action button label in notification having same action as play button in the app - plays the notificaton for testing purposes. This text should be short, because it will be shown on notification button where there can be 3 of them -->
-    <string name="notif_button_stop">Anhalten</string> <!-- Stops playback of notification. Should be short. -->
-    <string name="notif_button_enable">Einschalten</string> <!-- This text should be short, because it will be shown on notification button where there can be 3 of them. -->
-    <string name="notif_button_disable">Ausschalten</string> <!-- This text should be short, because it will be shown on notification button where there can be 3 of them. -->
+    <string name="pref_notification_action_buttons">"Aktionsschaltflächen"</string> <!-- Preference name for choosing which buttons are visible on notification -->
+    <string name="notif_action_stop">"Anhalten"</string> <!-- Description of action button. This should refer to notif_action_stop -->
+    <string name="notif_action_disable_or_enable">"Aktiviere/Deaktiviere"</string> <!-- Description of action button. This refers to notif_action_enable and notif_action -->
+    <string name="notif_button_play">"Abspielen"</string> <!-- Action button label in notification having same action as play button in the app - plays the notificaton for testing purposes. This text should be short, because it will be shown on notification button where there can be 3 of them -->
+    <string name="notif_button_stop">"Anhalten"</string> <!-- Stops playback of notification. Should be short. -->
+    <string name="notif_button_enable">"Einschalten"</string> <!-- This text should be short, because it will be shown on notification button where there can be 3 of them. -->
+    <string name="notif_button_disable">"Ausschalten"</string> <!-- This text should be short, because it will be shown on notification button where there can be 3 of them. -->
 
     <!-- Custom Texts -->
-    <string name="pref_custom_texts">Benutzerdefinierter Text</string>
-    <string name="pref_notification_title_title">Benachrichtigungstitel</string>
-    <string name="pref_notification_description_title">Benachrichtigungsbeschreibung</string>
+    <string name="pref_custom_texts">"Benutzerdefinierter Text"</string>
+    <string name="pref_notification_title_title">"Benachrichtigungstitel"</string>
+    <string name="pref_notification_description_title">"Benachrichtigungsbeschreibung"</string>
 
     <!-- Reliability -->
-    <string name="pref_reliability">Zuverlässigkeitseinstellungen</string> <!-- title of settings section meant for all settings which may improve running of the app without issues -->
-    <string name="reliability_warning">Änderung dieser Einstellungen kann die Zuverlässigkeit der Anwendung verändern.</string> <!-- This message should be as short as possible. There is risk of cutting it off if it will be too long -->
+    <string name="pref_reliability">"Zuverlässigkeitseinstellungen"</string> <!-- title of settings section meant for all settings which may improve running of the app without issues -->
+    <string name="reliability_warning">"Änderung dieser Einstellungen kann die Zuverlässigkeit der Anwendung verändern."</string> <!-- This message should be as short as possible. There is risk of cutting it off if it will be too long -->
 
     <!-- Alarm Mode -->
-    <string name="notif_as_alarm_title">Alarm-Modus</string>
-    <string name="notif_as_alarm_off">normaler Modus</string>
-    <string name="notif_as_alarm_on">Benachrichtigungen funktionieren als Alarm, um die Verzögerungen zu eliminieren, die auf einigen Samsung-Geräten auftreten</string>
-    <string name="late_notif_title">Alarm-Modus ein</string>
-    <string name="late_notif_message">Es wurde bemerkt, dass Benachrichtigung um einige Minuten verzögert wurden, was bei einigen Samsung-Geräten passiert. Um das zu verhindern wurde die \"Alarm Modus\" Option aktiviert. Du kannst diese in den erweiterten Einstellungen aus- und automatisch ein- schalten. Sobald eine bessere Lösung gefunden wird, diesen Fehler zu beseitigen, gibt es ein Update. Wenn Du weitere Probleme entdeckt hast, beschreibe und sende sie uns bitte per Email.</string>
+    <string name="notif_as_alarm_title">"Alarm-Modus"</string>
+    <string name="notif_as_alarm_off">"normaler Modus"</string>
+    <string name="notif_as_alarm_on">"Benachrichtigungen funktionieren als Alarm, um die Verzögerungen zu eliminieren, die auf einigen Samsung-Geräten auftreten"</string>
+    <string name="late_notif_title">"Alarm-Modus ein"</string>
+    <string name="late_notif_message">"Es wurde bemerkt, dass Benachrichtigung um einige Minuten verzögert wurden, was bei einigen Samsung-Geräten passiert. Um das zu verhindern wurde die \"Alarm Modus\" Option aktiviert. Du kannst diese in den erweiterten Einstellungen aus- und automatisch ein- schalten. Sobald eine bessere Lösung gefunden wird, diesen Fehler zu beseitigen, gibt es ein Update. Wenn Du weitere Probleme entdeckt hast, beschreibe und sende sie uns bitte per Email."</string>
 
     <!-- Auto Alarm -->
-    <string name="auto_notif_as_alarm_title">Autoaktivierung Alarm-Modus</string>
-    <string name="auto_notif_as_alarm_on">Aktiviert Alarm-Modus, wenn Verzögerungen entdeckt werden</string>
-    <string name="auto_notif_as_alarm_off">Alarm-Modus deaktiviert</string>
+    <string name="auto_notif_as_alarm_title">"Autoaktivierung Alarm-Modus"</string>
+    <string name="auto_notif_as_alarm_on">"Aktiviert Alarm-Modus, wenn Verzögerungen entdeckt werden"</string>
+    <string name="auto_notif_as_alarm_off">"Alarm-Modus deaktiviert"</string>
 
     <!-- Low Valume -->
-    <string name="pref_low_volume_fix">Lautstärkeproblematik beheben</string>
-    <string name="pref_low_volume_fix_on">Stellt zu leise Tonfolgen von der ansteigender Lautstärke für einige Motorolageräte fest und erhöht diese. Das kann zur Verzögerung der Ausgabe führen.</string>
-    <string name="pref_low_volume_fix_off">Deaktiviert, da in der Regel nicht nötig</string>
+    <string name="pref_low_volume_fix">"Lautstärkeproblematik beheben"</string>
+    <string name="pref_low_volume_fix_on">"Stellt zu leise Tonfolgen von der ansteigender Lautstärke für einige Motorolageräte fest und erhöht diese. Das kann zur Verzögerung der Ausgabe führen."</string>
+    <string name="pref_low_volume_fix_off">"Deaktiviert, da in der Regel nicht nötig"</string>
 
     <!-- Foreground Service -->
-    <string name="pref_foreground_service_title">Vordergrundservice</string>
-    <string name="pref_foreground_service_on">Zeigt nicht verwerfbare Benachrichtigung und schaltet Hintergrundservice ein welches das Ausschalten der Anwendung verhindert.</string>
-    <string name="pref_foreground_service_off">Vordergrundservice ist deaktiviert.</string>
-    <string name="msg_foreground_service_off">Vordergrundservice ist deaktiviert</string> <!-- message displayed when foreground service is disabled without user interacting with this option -->
+    <string name="pref_foreground_service_title">"Vordergrundservice"</string>
+    <string name="pref_foreground_service_on">"Zeigt nicht verwerfbare Benachrichtigung und schaltet Hintergrundservice ein welches das Ausschalten der Anwendung verhindert."</string>
+    <string name="pref_foreground_service_off">"Vordergrundservice ist deaktiviert."</string>
+    <string name="msg_foreground_service_off">"Vordergrundservice ist deaktiviert"</string> <!-- message displayed when foreground service is disabled without user interacting with this option -->
 
     <!-- Toast Notifications -->
-    <string name="pref_toast_notifications">Kurze Meldungen und Warnungen</string>
-    <string name="pref_toast_notifications_on">Kurze Bildschirmmeldungen und Warnungen anzeigen</string>
-    <string name="pref_toast_notifications_off">Kurze Bildschirmmeldungen und Warnungen nicht anzeigen</string>
+    <string name="pref_toast_notifications">"Kurze Meldungen und Warnungen"</string>
+    <string name="pref_toast_notifications_on">"Kurze Bildschirmmeldungen und Warnungen anzeigen"</string>
+    <string name="pref_toast_notifications_off">"Kurze Bildschirmmeldungen und Warnungen nicht anzeigen"</string>
 
     <!-- Logs -->
-    <string name="debug_logs_title">Fehlerprotokoll aufzeichnen</string>
-    <string name="debug_logs_off">Fehlerprotokollierung aus</string>
-    <string name="debug_logs_on">Fehlerprotokollierung an für den Versand per email</string>
+    <string name="debug_logs_title">"Fehlerprotokoll aufzeichnen"</string>
+    <string name="debug_logs_off">"Fehlerprotokollierung aus"</string>
+    <string name="debug_logs_on">"Fehlerprotokollierung an für den Versand per email"</string>
 
     <!-- Beta -->
-    <string name="beta_preference_title">BlipBlip Testversion</string>
-    <string name="beta_preference_description">Ein-/Ausschalten der Testversion</string>
+    <string name="beta_preference_title">"BlipBlip Testversion"</string>
+    <string name="beta_preference_description">"Ein-/Ausschalten der Testversion"</string>
 
     <!-- Experimental Settings -->
-    <string name="pref_experimental">Versuchseinstellungen</string>
-    <string name="experimental_warning">Diese Versuchseinstellungen können in der Zukunft entfallen.</string>
-    <string name="title_experimental_settings">Versuchseinstellungen</string>
+    <string name="pref_experimental">"Versuchseinstellungen"</string>
+    <string name="experimental_warning">"Diese Versuchseinstellungen können in der Zukunft entfallen."</string>
+    <string name="title_experimental_settings">"Versuchseinstellungen"</string>
     <string name="huawei_fix">"Huawei fix"</string> <!-- TODO translate -->
 
     <!-- Time Offset -->
@@ -257,70 +257,70 @@
     <!-- Inline Attachments -->
 
     <!-- Menu - Share -->
-    <string name="action_share">Teile die App mit</string>
-    <string name="share_chooser_title">Empfehle diese App</string>
-    <string name="share_title">Teste die BlipBlip Stundengong-App aus!</string>
-    <string name="share_text">Probiere die BlipBlip Stundengong-App für Android aus</string>
+    <string name="action_share">"Teile die App mit"</string>
+    <string name="share_chooser_title">"Empfehle diese App"</string>
+    <string name="share_title">"Teste die BlipBlip Stundengong-App aus!"</string>
+    <string name="share_text">"Probiere die BlipBlip Stundengong-App für Android aus"</string>
 
     <!-- Menu - Rate -->
-    <string name="action_rate">Bewerte uns</string>
-    <string name="rate_us_title">Bewerte uns!</string>
-    <string name="rate_us_message">Danke, dass Du Dir die Zeit nimmst, die App zu bewerten.</string>
-    <string name="rate_us_onetofourstars">1–4 Sterne</string>
-    <string name="rate_us_fivestars">5 Sterne!</string>
+    <string name="action_rate">"Bewerte uns"</string>
+    <string name="rate_us_title">"Bewerte uns!"</string>
+    <string name="rate_us_message">"Danke, dass Du Dir die Zeit nimmst, die App zu bewerten."</string>
+    <string name="rate_us_onetofourstars">"1–4 Sterne"</string>
+    <string name="rate_us_fivestars">"5 Sterne!"</string>
     <string name="five_stars_description">"Five stars"</string> <!-- TODO translate -->
     <string name="five_stars_title">"Love BlipBlip?"</string> <!-- TODO translate -->
-    <string name="five_stars_text">Rate us 5 stars to help make BlipBlip even more awesome. Thanks!</string>
+    <string name="five_stars_text">"Rate us 5 stars to help make BlipBlip even more awesome. Thanks!"</string>
 
     <!-- Menu - Error -->
-    <string name="action_send_logs">Problem melden</string>
-    <string name="send_logs_describe">Bitte beschreibe Dein Problem mit der App (bevorzugt in Englisch):</string>
-    <string name="feedback_dialog_bug_found">Ich fand einen Fehler (Protokolle bitte beifügen)</string>
+    <string name="action_send_logs">"Problem melden"</string>
+    <string name="send_logs_describe">"Bitte beschreibe Dein Problem mit der App (bevorzugt in Englisch):"</string>
+    <string name="feedback_dialog_bug_found">"Ich fand einen Fehler (Protokolle bitte beifügen)"</string>
 
     <!-- Menu - Improvement -->
-    <string name="feedback_improvement_title">BlipBlip möchte besser werden</string>
-    <string name="feedback_improvement_message">Bitte sag uns, was wir verbessern können, damit Du vollauf zufrieden bist.</string>
+    <string name="feedback_improvement_title">"BlipBlip möchte besser werden"</string>
+    <string name="feedback_improvement_message">"Bitte sag uns, was wir verbessern können, damit Du vollauf zufrieden bist."</string>
 
     <!-- Menu - About -->
-    <string name="action_about">Impressum</string>
-    <string name="about_version">Version:</string>
-    <string name="about_authors">Autoren</string>
-    <string name="about_coding">Programmierung</string>
-    <string name="about_testing">Test</string>
-    <string name="about_graphics">Grafik</string>
-    <string name="about_translations">Übersetzungen</string>
-    <string name="about_thank_you">Vielen Dank</string>
+    <string name="action_about">"Impressum"</string>
+    <string name="about_version">"Version:"</string> <!-- translated -->
+    <string name="about_authors">"Autoren"</string>
+    <string name="about_coding">"Programmierung"</string>
+    <string name="about_testing">"Test"</string>
+    <string name="about_graphics">"Grafik"</string>
+    <string name="about_translations">"Übersetzungen"</string>
+    <string name="about_thank_you">"Vielen Dank"</string>
     <string name="about_images">"Images"</string> <!-- TODO translate -->
-    <string name="about_libraries">Bibliothek</string> <!-- title of screen showing licenses of programming libraries used by the app -->
-    <string name="about_acknowledgements">Danksagung</string> <!-- name of screen with authors, translators and other people who have helped -->
+    <string name="about_libraries">"Bibliothek"</string> <!-- title of screen showing licenses of programming libraries used by the app -->
+    <string name="about_acknowledgements">"Danksagung"</string> <!-- name of screen with authors, translators and other people who have helped -->
     <string name="about_translators_thank_you">"BlipBlip is translated by our users voluntarily and hereby we thank you for your support and contribution."</string> <!-- TODO translate -->
 
     <!-- Visual -->
-    <string name="pref_visual">Ansichteinstellungen</string>
-    <string name="title_visual_settings">Ansichteinstellungen</string>
+    <string name="pref_visual">"Ansichteinstellungen"</string>
+    <string name="title_visual_settings">"Ansichteinstellungen"</string>
 
     <!-- Unsorted -->
-    <string name="warn_notification_skip">Einige Benachrichtigungen werden übersprungen.</string> <!-- Please make this as short as possible. This warning is displayed when user chooses to skip few upcoming notifications. -->
-    <string name="warn_volume_zero">Gegenwärtige Lautstärkeeinstellung ist auf Lautlos.</string> <!-- Please make this as short as possible. This warning is displayed when current system volume is set to 0. -->
-    <string name="pref_low_mem_restart_title">Neustart bei Speicherplatzmangel</string>
-    <string name="pref_low_mem_restart_on">Versuche einen Neustart der Anwendung bei Speichermangel. Das wird nicht mit allen Geräten funktionieren, deswegen ist es bei den meisten Geräten nicht nötig (kann etwas höheren Akkuverbrauch verursachen).</string>
-    <string name="pref_low_mem_restart_off">Versuche keinen Neustart der Anwendung bei Speichermangel.</string>
-    <string name="pref_heading_notification_accuracy">Benachrichtigungsgenauigkeit</string> <!-- punctuality -->
-    <string name="pref_delay_prevention_title">Verspätungnen vorbeugen</string>
-    <string name="pref_delay_prevention_on">Versuche aktiv den Verspäteten Benachrichtigungen vorzubeugen, die bei einigen Geräten auftreten. Kann zu mehr Akkuverbrauch führen.</string>
-    <string name="pref_delay_prevention_off">Versuche nicht den Verspäteten Benachrichtigungen vorzubeugen, die bei einigen Geräten auftreten. Verbraucht weniger Akku.</string>
-    <string name="pref_aggressive_delay_prevention_title">Verspätungen aggressiv vorbeugen</string>
-    <string name="pref_aggressive_delay_prevention_on">Benachrichtigungen sollten öfters genau auftreten. Kann mehr Akku verbrauchen.</string>
-    <string name="pref_aggressive_delay_prevention_off">Benachrichtigungen könnten in selten Fällen verspätet auftreten. Nutzt wenig Akku.</string>
-    <string name="pref_ignore_delayed_title">Ignoriere verspätete Benachrichtigungnen</string>
-    <string name="pref_ignore_delayed_on">Wenn eine Benachrichtigung als verspätet erkannt wurde, wird sie nicht angezeigt oder abgespielt.</string>
-    <string name="pref_ignore_delayed_off">Benachrichtigungen werden angezeigt oder abgespielt auch wenn sie verspätet sind.</string>
-    <string name="pref_audio_focus_title">Klangbündelung</string> <!-- option to improve ability to hear app sounds by decreasing volume of other apps or pausing them -->
-    <string name="pref_audio_focus_on">Während einer Klangwiedergabe, werden Klänge anderer Anwendunngen leiser oder stumm gestellt.</string>
-    <string name="pref_audio_focus_off">Klänge anderer Anwendungnen werden normal abgespielt.</string>
-    <string name="pref_audio_focus_dont_duck_title">Abspielen anhalten</string>
-    <string name="pref_audio_focus_dont_duck_on">Während die Anwendung einen Klang abspielt, können andere Anwendungen die Klangwiedergabe anhalten.</string>
-    <string name="pref_audio_focus_dont_duck_off">Während die Anwendung einen Klang abspielt, können andere Anwendungen deren Klangwiedergabe leiser stellen.</string>
+    <string name="warn_notification_skip">"Einige Benachrichtigungen werden übersprungen."</string> <!-- Please make this as short as possible. This warning is displayed when user chooses to skip few upcoming notifications. -->
+    <string name="warn_volume_zero">"Gegenwärtige Lautstärkeeinstellung ist auf Lautlos."</string> <!-- Please make this as short as possible. This warning is displayed when current system volume is set to 0. -->
+    <string name="pref_low_mem_restart_title">"Neustart bei Speicherplatzmangel"</string>
+    <string name="pref_low_mem_restart_on">"Versuche einen Neustart der Anwendung bei Speichermangel. Das wird nicht mit allen Geräten funktionieren, deswegen ist es bei den meisten Geräten nicht nötig (kann etwas höheren Akkuverbrauch verursachen)."</string>
+    <string name="pref_low_mem_restart_off">"Versuche keinen Neustart der Anwendung bei Speichermangel."</string>
+    <string name="pref_heading_notification_accuracy">"Benachrichtigungsgenauigkeit"</string> <!-- punctuality -->
+    <string name="pref_delay_prevention_title">"Verspätungnen vorbeugen"</string>
+    <string name="pref_delay_prevention_on">"Versuche aktiv den Verspäteten Benachrichtigungen vorzubeugen, die bei einigen Geräten auftreten. Kann zu mehr Akkuverbrauch führen."</string>
+    <string name="pref_delay_prevention_off">"Versuche nicht den Verspäteten Benachrichtigungen vorzubeugen, die bei einigen Geräten auftreten. Verbraucht weniger Akku."</string>
+    <string name="pref_aggressive_delay_prevention_title">"Verspätungen aggressiv vorbeugen"</string>
+    <string name="pref_aggressive_delay_prevention_on">"Benachrichtigungen sollten öfters genau auftreten. Kann mehr Akku verbrauchen."</string>
+    <string name="pref_aggressive_delay_prevention_off">"Benachrichtigungen könnten in selten Fällen verspätet auftreten. Nutzt wenig Akku."</string>
+    <string name="pref_ignore_delayed_title">"Ignoriere verspätete Benachrichtigungnen"</string>
+    <string name="pref_ignore_delayed_on">"Wenn eine Benachrichtigung als verspätet erkannt wurde, wird sie nicht angezeigt oder abgespielt."</string>
+    <string name="pref_ignore_delayed_off">"Benachrichtigungen werden angezeigt oder abgespielt auch wenn sie verspätet sind."</string>
+    <string name="pref_audio_focus_title">"Klangbündelung"</string> <!-- option to improve ability to hear app sounds by decreasing volume of other apps or pausing them -->
+    <string name="pref_audio_focus_on">"Während einer Klangwiedergabe, werden Klänge anderer Anwendunngen leiser oder stumm gestellt."</string>
+    <string name="pref_audio_focus_off">"Klänge anderer Anwendungnen werden normal abgespielt."</string>
+    <string name="pref_audio_focus_dont_duck_title">"Abspielen anhalten"</string>
+    <string name="pref_audio_focus_dont_duck_on">"Während die Anwendung einen Klang abspielt, können andere Anwendungen die Klangwiedergabe anhalten."</string>
+    <string name="pref_audio_focus_dont_duck_off">"Während die Anwendung einen Klang abspielt, können andere Anwendungen deren Klangwiedergabe leiser stellen."</string>
 
     <!-- Plurals -->
     <!-- check which quantities and how should be used for given language here http://www.unicode.org/cldr/charts/29/supplemental/language_plural_rules.html -->
@@ -341,264 +341,264 @@
         <item quantity="other">%d male</item>
     </plurals>
 
-    <string name="pref_reset_accuracy_params">Parameter zurücksetzen</string>
-    <string name="pref_reset_accuracy_params_desc">Interne Parameter zurücksetzen, welche die genauigkeit von Benachrichtigung erhöhen.</string>
-    <string name="warn_foreground_service_disabled">Einstellungen des Vordergrund-Dienstes wurden deaktiviert. Das kann zum Abbruch des Hintergrundprozesses führen und somit zum Anhalten der Appfunktion.</string>
+    <string name="pref_reset_accuracy_params">"Parameter zurücksetzen"</string>
+    <string name="pref_reset_accuracy_params_desc">"Interne Parameter zurücksetzen, welche die genauigkeit von Benachrichtigung erhöhen."</string>
+    <string name="warn_foreground_service_disabled">"Einstellungen des Vordergrund-Dienstes wurden deaktiviert. Das kann zum Abbruch des Hintergrundprozesses führen und somit zum Anhalten der Appfunktion."</string>
 
     <!-- Airplane mode -->
-    <string name="pref_airplane_mode">Flugzeugmode</string>
-    <string name="while_airplane_toast">BlipBlip Benachrichtigungen sind jetzt ausgeschaltet, da du im Flugzeugmodus bist.</string>
+    <string name="pref_airplane_mode">"Flugzeugmode"</string>
+    <string name="while_airplane_toast">"BlipBlip Benachrichtigungen sind jetzt ausgeschaltet, da du im Flugzeugmodus bist."</string>
 
-    <string name="setting_system_default">Systemvoreinstellung</string>
-    <string name="pref_time_format_title">Zeitformat</string>
-    <string name="time_format_12h">12 Stunden Uhr</string>
-    <string name="time_format_24h">24 Stunden Uhr</string>
+    <string name="setting_system_default">"Systemvoreinstellung"</string>
+    <string name="pref_time_format_title">"Zeitformat"</string>
+    <string name="time_format_12h">"12 Stunden Uhr"</string>
+    <string name="time_format_24h">"24 Stunden Uhr"</string>
 
-    <string name="theme_blipblip">BlipBlip</string>
-    <string name="theme_standard">Standard</string>
-    <string name="theme_blue">Blau</string>
-    <string name="theme_yellow">Gelb</string>
-    <string name="theme_purple">Violett</string>
-    <string name="theme_red">Rot</string>
-    <string name="theme_green">Grün</string>
-    <string name="theme_blue_gray">Blaugrau</string>
-    <string name="theme_orange">Orange</string>
-    <string name="theme_indigo">Indigo</string>
-    <string name="theme_cyan">Zyan</string>
-    <string name="theme_teal">Blaugrün</string>
+    <string name="theme_blipblip">"BlipBlip"</string> <!-- translated -->
+    <string name="theme_standard">"Standard"</string> <!-- translated -->
+    <string name="theme_blue">"Blau"</string>
+    <string name="theme_yellow">"Gelb"</string>
+    <string name="theme_purple">"Violett"</string>
+    <string name="theme_red">"Rot"</string>
+    <string name="theme_green">"Grün"</string>
+    <string name="theme_blue_gray">"Blaugrau"</string>
+    <string name="theme_orange">"Orange"</string> <!-- translated -->
+    <string name="theme_indigo">"Indigo"</string> <!-- translated -->
+    <string name="theme_cyan">"Zyan"</string>
+    <string name="theme_teal">"Blaugrün"</string>
 
-    <string name="pref_color_theme">Farbauswahl</string>
-    <string name="cycle_themes_message">Farbauswahl mit Tonknöpfen.</string>
-    <string name="cycle_themes_finish">Ende</string>
-    <string name="cycle_themes">Wähle Farbe aus</string>
-    <string name="cycle_themes_description">Erlaubt die Farbauswahl mit Tonknöpfen.</string>
-    <string name="color_next_notification_bar">Farbe des nächsten Mitteilungsstreifens</string>
-    <string name="color_next_notification_bar_on">Benutze Farbhintergrund für den nächsten Mitteilungsstreifen.</string>
-    <string name="color_next_notification_bar_off">Benutze grauen Hintergrund für den nächsten Mitteilungsstreifen.</string>
+    <string name="pref_color_theme">"Farbauswahl"</string>
+    <string name="cycle_themes_message">"Farbauswahl mit Tonknöpfen."</string>
+    <string name="cycle_themes_finish">"Ende"</string>
+    <string name="cycle_themes">"Wähle Farbe aus"</string>
+    <string name="cycle_themes_description">"Erlaubt die Farbauswahl mit Tonknöpfen."</string>
+    <string name="color_next_notification_bar">"Farbe des nächsten Mitteilungsstreifens"</string>
+    <string name="color_next_notification_bar_on">"Benutze Farbhintergrund für den nächsten Mitteilungsstreifen."</string>
+    <string name="color_next_notification_bar_off">"Benutze grauen Hintergrund für den nächsten Mitteilungsstreifen."</string>
     <string name="night_mode">"Night mode"</string> <!-- TODO translate -->
     <string name="night_mode_on">"On"</string> <!-- TODO translate -->
     <string name="night_mode_off">"Off"</string> <!-- TODO translate -->
     <string name="night_mode_auto">"Auto"</string> <!-- TODO translate -->
     <string name="night_mode_system">"System setting"</string> <!-- TODO translate -->
 
-    <string name="title_activity_sounds">Töne</string>
-    <string name="title_activity_sound">Ton</string>
-    <string name="title_activity_vibrations">Vibrierungen</string>
-    <string name="title_activity_vibration">Vibrieren</string>
-    <string name="action_delete">Lösche</string>
-    <string name="action_add_vibration_pattern">Füge hinzu</string>
-    <string name="dialog_title_deletion">Bestätige die Löschung</string>
-    <string name="dialog_message_confirm">Bist Du Dir sicher?</string>
-    <string name="vibration_name">Vibrations Name</string>
-    <string name="action_restore_defaults">Standardwerte wiederherstellen</string> <!-- e.g. for sounds or vibrations -->
-    <string name="restore_defaults_message2">Möchtest du die Standardwerte wiederherstellen?</string>
-    <string name="add_vibration">Füge Vibrationsmuster hinzu</string>
-    <string name="edit">Bearbeite</string> <!-- Name of action to edit list of sounds or list of vibrations, should be short -->
-    <string name="editing">Bearbeitung</string> <!-- Displayed in edit mode -->
-    <string name="error_file_open_failed">Öffnen der Datei fehlgeschlagen.</string>
+    <string name="title_activity_sounds">"Töne"</string>
+    <string name="title_activity_sound">"Ton"</string>
+    <string name="title_activity_vibrations">"Vibrierungen"</string>
+    <string name="title_activity_vibration">"Vibrieren"</string>
+    <string name="action_delete">"Lösche"</string>
+    <string name="action_add_vibration_pattern">"Füge hinzu"</string>
+    <string name="dialog_title_deletion">"Bestätige die Löschung"</string>
+    <string name="dialog_message_confirm">"Bist Du Dir sicher?"</string>
+    <string name="vibration_name">"Vibrations Name"</string>
+    <string name="action_restore_defaults">"Standardwerte wiederherstellen"</string> <!-- e.g. for sounds or vibrations -->
+    <string name="restore_defaults_message2">"Möchtest du die Standardwerte wiederherstellen?"</string>
+    <string name="add_vibration">"Füge Vibrationsmuster hinzu"</string>
+    <string name="edit">"Bearbeite"</string> <!-- Name of action to edit list of sounds or list of vibrations, should be short -->
+    <string name="editing">"Bearbeitung"</string> <!-- Displayed in edit mode -->
+    <string name="error_file_open_failed">"Öffnen der Datei fehlgeschlagen."</string>
     <string name="error_file_open_no_permission">"No permission to open the file."</string> <!-- TODO translate -->
     <string name="error_file_open_failed_no_permission_title">"Grant permission manually"</string> <!-- TODO translate -->
     <string name="error_file_open_failed_no_permission">"No permission to open the file. Please open Settings and give permission to access storage."</string> <!-- TODO translate -->
     <string name="error_file_open_failed_settings">"Open Settings"</string> <!-- TODO translate -->
-    <string name="play_vibration">Vibriere</string> <!-- description of action of a button to perform vibration -->
-    <string name="play_sound">Spiele Ton ab</string> <!-- description of action of a button to play sound -->
-    <string name="drag_handle">Schieberegler</string>
-    <string name="select_audio_file">Wähle Tondatei aus</string>
-    <string name="add_sound_to_blipblip">Füge zu BlipBlip</string>
-    <string name="permission_denied">Keine Berechtigung</string>
-    <string name="permission_denied_message_no_addon">BlipBlip hat keine Berechtigung um diese Datei zu lesen.</string>
+    <string name="play_vibration">"Vibriere"</string> <!-- description of action of a button to perform vibration -->
+    <string name="play_sound">"Spiele Ton ab"</string> <!-- description of action of a button to play sound -->
+    <string name="drag_handle">"Schieberegler"</string>
+    <string name="select_audio_file">"Wähle Tondatei aus"</string>
+    <string name="add_sound_to_blipblip">"Füge zu BlipBlip"</string>
+    <string name="permission_denied">"Keine Berechtigung"</string>
+    <string name="permission_denied_message_no_addon">"BlipBlip hat keine Berechtigung um diese Datei zu lesen."</string>
     <string name="permission_denied_message_no_addon_part2">"Bitte benutze andere Applikationen die zum Tausch der Datei keine zusätzliche Berechtigungen benötigen (z.B. Google Drive)."</string>
     <string name="permission_denied_rationale_title">"Permission needed"</string> <!-- TODO translate -->
     <string name="permission_denied_rationale">"Application does not have permission to read the file. Please grant the app permission to access the file. You can also share the file using other app which does not need using this permission."</string> <!-- TODO translate -->
 
     <!-- Menu drawer strings -->
 
-    <string name="more_actions">Weitere Aktionen</string>
-    <string name="start_time">Startzeit</string>
-    <string name="end_time">Endzeit</string>
-    <string name="whole_day">Ganzer Tag</string>
-    <string name="enable_screen">Schalte Bildschirm ein</string>
-    <string name="action_rename">Umbennen</string>
-    <string name="pref_accessibility">Zugänglichkeit</string>
-    <string name="pref_swipe">Wischen</string>
-    <string name="pref_swipe_on">Wischen für die Listeninhalte eingeschaltet</string>
-    <string name="pref_swipe_off">Wischen für die Listeninhlate ausgeschaltet</string>
-    <string name="pref_action_menus">Aktionsmenü</string>
-    <string name="pref_action_menus_on">Zeige Aktionsmenü, welches normalerweise Gesten benötigt (z.B. Fingerwischen). Praktisch bei der Nutzung mit TalkBack.</string>
-    <string name="pref_action_menus_off">Verstecke Aktionsmenü welche mit Wischgesten bedient werden kann.</string>
-    <string name="next_notification">Nächste Benachrichtigung: %1$s</string>
-    <string name="next_tomorrow">morgen um %1$s</string> <!-- e.g. tomorrow at 10:00 -->
-    <string name="next_on_mon">Montag um %1$s</string>
-    <string name="next_on_tue">Dienstag um %1$s</string>
-    <string name="next_on_wed">Mittwoch um %1$s</string>
-    <string name="next_on_thu">Donnerstag um %1$s</string>
-    <string name="next_on_fri">Freitag um %1$s</string>
-    <string name="next_on_sat">Samstag um %1$s</string>
-    <string name="next_on_sun">Sonntag um %1$s</string>
-    <string name="never">niemals</string> <!-- if notification will never occur-->
-    <string name="show_seconds_title">Zeige Sekunden an</string>
-    <string name="show_seconds_on">Sekundenanzeige ist eingeschaltet. Zeigt die Zeit mit Sekunden an.</string>
-    <string name="show_seconds_off">Sekundenanzeige ist ausgeschaltet. Zeigt die Zeit ohne Sekunden an.</string>
-    <string name="notification_disabled_warning">Benachrichtigung ist ausgeschaltet</string>
-    <string name="social_facebook">Facebook</string>
-    <string name="social_twitter">Twitter</string>
-    <string name="social_google_plus">Google+</string>
-    <string name="social_google_plus_community">Google+ Community</string>
-    <string name="troubleshooting">Problemlösung</string>
-    <string name="premium_features">Premium Funktionen</string>
-    <string name="disable_when_headset">Ausschalten, wenn Kopfhörer verbunden</string>
-    <string name="disable_when_headset_on">Alle Benachrichtigungen ausgeschaltet</string>
-    <string name="disable_when_headset_off">Alle Benachrichtigungen eingeschaltet</string>
-    <string name="disable_when_headset_toast">BlipBlip Benachrichtigungen sind jetzt ausgeschaltet, da Kopfhörer verbunden sind.</string>
+    <string name="more_actions">"Weitere Aktionen"</string>
+    <string name="start_time">"Startzeit"</string>
+    <string name="end_time">"Endzeit"</string>
+    <string name="whole_day">"Ganzer Tag"</string>
+    <string name="enable_screen">"Schalte Bildschirm ein"</string>
+    <string name="action_rename">"Umbennen"</string>
+    <string name="pref_accessibility">"Zugänglichkeit"</string>
+    <string name="pref_swipe">"Wischen"</string>
+    <string name="pref_swipe_on">"Wischen für die Listeninhalte eingeschaltet"</string>
+    <string name="pref_swipe_off">"Wischen für die Listeninhlate ausgeschaltet"</string>
+    <string name="pref_action_menus">"Aktionsmenü"</string>
+    <string name="pref_action_menus_on">"Zeige Aktionsmenü, welches normalerweise Gesten benötigt (z.B. Fingerwischen). Praktisch bei der Nutzung mit TalkBack."</string>
+    <string name="pref_action_menus_off">"Verstecke Aktionsmenü welche mit Wischgesten bedient werden kann."</string>
+    <string name="next_notification">"Nächste Benachrichtigung: %1$s"</string>
+    <string name="next_tomorrow">"morgen um %1$s"</string> <!-- e.g. tomorrow at 10:00 -->
+    <string name="next_on_mon">"Montag um %1$s"</string>
+    <string name="next_on_tue">"Dienstag um %1$s"</string>
+    <string name="next_on_wed">"Mittwoch um %1$s"</string>
+    <string name="next_on_thu">"Donnerstag um %1$s"</string>
+    <string name="next_on_fri">"Freitag um %1$s"</string>
+    <string name="next_on_sat">"Samstag um %1$s"</string>
+    <string name="next_on_sun">"Sonntag um %1$s"</string>
+    <string name="never">"niemals"</string> <!-- if notification will never occur-->
+    <string name="show_seconds_title">"Zeige Sekunden an"</string>
+    <string name="show_seconds_on">"Sekundenanzeige ist eingeschaltet. Zeigt die Zeit mit Sekunden an."</string>
+    <string name="show_seconds_off">"Sekundenanzeige ist ausgeschaltet. Zeigt die Zeit ohne Sekunden an."</string>
+    <string name="notification_disabled_warning">"Benachrichtigung ist ausgeschaltet"</string>
+    <string name="social_facebook">"Facebook"</string> <!-- translated -->
+    <string name="social_twitter">"Twitter"</string> <!-- translated -->
+    <string name="social_google_plus">"Google+"</string> <!-- translated -->
+    <string name="social_google_plus_community">"Google+ Community"</string> <!-- translated -->
+    <string name="troubleshooting">"Problemlösung"</string>
+    <string name="premium_features">"Premium Funktionen"</string>
+    <string name="disable_when_headset">"Ausschalten, wenn Kopfhörer verbunden"</string>
+    <string name="disable_when_headset_on">"Alle Benachrichtigungen ausgeschaltet"</string>
+    <string name="disable_when_headset_off">"Alle Benachrichtigungen eingeschaltet"</string>
+    <string name="disable_when_headset_toast">"BlipBlip Benachrichtigungen sind jetzt ausgeschaltet, da Kopfhörer verbunden sind."</string>
 
     <string name="add">"Add"</string> <!-- TODO translate -->
-    <string name="add_item">Element hinzufügen</string>
-    <string name="action_add_condition">Bedingung hinzufügen</string>
-    <string name="dialog_title_days_of_week">Wochentage</string>
-    <string name="dialog_title_date">Datum</string>
-    <string name="start_date">Start Datum</string>
-    <string name="end_date">Ende Datum</string>
-    <string name="dialog_title_time">Zeit</string>
-    <string name="dialog_title_time_range">Zeitumfang</string>
-    <string name="dialog_title_repeat">Wiederholung je</string>
-    <string name="interval">Intervall</string>
-    <string name="no_repeat">Keine Wiederholung</string>
-    <string name="action_add_action">Aktion Hinzufügen</string>
-    <string name="favorite_condition_dialog_edit">Bearbeite</string>
-    <string name="favorite_condition_dialog_create">Erstelle</string>
-    <string name="system_notification">System-Benachrichtigung</string>
-    <string name="popup_text">Popuptext</string>
-    <string name="no_actions_added">Es wurden keine Aktionen hinzugefügt</string>
-    <string name="section_conditions">Bedingungen</string>
-    <string name="no_valid_condition_added">Keine gültige Bedienung definiert</string>
-    <string name="no_upcoming_notifications">Keine bevorstehenden Benachrichtigungen</string>
-    <string name="error_indicator">Fehleranzeiger</string>
+    <string name="add_item">"Element hinzufügen"</string>
+    <string name="action_add_condition">"Bedingung hinzufügen"</string>
+    <string name="dialog_title_days_of_week">"Wochentage"</string>
+    <string name="dialog_title_date">"Datum"</string>
+    <string name="start_date">"Start Datum"</string>
+    <string name="end_date">"Ende Datum"</string>
+    <string name="dialog_title_time">"Zeit"</string>
+    <string name="dialog_title_time_range">"Zeitumfang"</string>
+    <string name="dialog_title_repeat">"Wiederholung je"</string>
+    <string name="interval">"Intervall"</string>
+    <string name="no_repeat">"Keine Wiederholung"</string>
+    <string name="action_add_action">"Aktion Hinzufügen"</string>
+    <string name="favorite_condition_dialog_edit">"Bearbeite"</string>
+    <string name="favorite_condition_dialog_create">"Erstelle"</string>
+    <string name="system_notification">"System-Benachrichtigung"</string>
+    <string name="popup_text">"Popuptext"</string>
+    <string name="no_actions_added">"Es wurden keine Aktionen hinzugefügt"</string>
+    <string name="section_conditions">"Bedingungen"</string>
+    <string name="no_valid_condition_added">"Keine gültige Bedienung definiert"</string>
+    <string name="no_upcoming_notifications">"Keine bevorstehenden Benachrichtigungen"</string>
+    <string name="error_indicator">"Fehleranzeiger"</string>
     <string name="next_notification_app_off">"Off (app disabled)"</string> <!-- TODO translate -->
-    <string name="next_day">nächster Tag</string> <!-- Used in: "22:00 - 6:00 next day" -->
-    <string name="notifications">Benachrichtigungen</string>
-    <string name="warning_no_email_app">Kein E-mail-Programm zum versenden des Reports gefunden.</string>
-    <string name="weeknights">Nächte an Arbeitstagen</string> <!-- nights from sunday to thursday -->
-    <string name="weekend_nights">Nächte an Wochenende</string> <!-- nights on friday and saturday -->
-    <string name="weekend">Wochenende</string> <!-- saturday and sunday -->
+    <string name="next_day">"nächster Tag"</string> <!-- Used in: "22:00 - 6:00 next day" -->
+    <string name="notifications">"Benachrichtigungen"</string>
+    <string name="warning_no_email_app">"Kein E-mail-Programm zum versenden des Reports gefunden."</string>
+    <string name="weeknights">"Nächte an Arbeitstagen"</string> <!-- nights from sunday to thursday -->
+    <string name="weekend_nights">"Nächte an Wochenende"</string> <!-- nights on friday and saturday -->
+    <string name="weekend">"Wochenende"</string> <!-- saturday and sunday -->
 
-    <string name="vibration_silence_millis">Dauer der Stille in Millisekunden</string>
-    <string name="vibration_duration_millis">Vibrationsdauer in Millisekunden</string>
+    <string name="vibration_silence_millis">"Dauer der Stille in Millisekunden"</string>
+    <string name="vibration_duration_millis">"Vibrationsdauer in Millisekunden"</string>
 
-    <string name="advice_disable_task_killers">Deaktiviere Task Killer</string>
-    <string name="advice_disable_task_killers_desc">Task Killer sollten ausgeschaltet werden oder BlipBlip sollte in deren Weißeliste hinzugefügt werden, damit die Applikation fehlerfrei funktioniert.</string>
-    <string name="advice_enable_foreground_service">Schalte Vordergrundservice ein</string>
-    <string name="advice_enable_foreground_service_desc2">Vordergrundservice Option informiert das System, dass die Applikation nach Möglichkeit nicht ausgeschaltet werden sollte.</string>
+    <string name="advice_disable_task_killers">"Deaktiviere Task Killer"</string>
+    <string name="advice_disable_task_killers_desc">"Task Killer sollten ausgeschaltet werden oder BlipBlip sollte in deren Weißeliste hinzugefügt werden, damit die Applikation fehlerfrei funktioniert."</string>
+    <string name="advice_enable_foreground_service">"Schalte Vordergrundservice ein"</string>
+    <string name="advice_enable_foreground_service_desc2">"Vordergrundservice Option informiert das System, dass die Applikation nach Möglichkeit nicht ausgeschaltet werden sollte."</string>
     <string name="advice_enable_foreground_service_desc2_part2">"Es wird eine dauerhafte Mitteilung auf dem Bildschirm angezeigt, welche durch Systemeinstellungen versteckt werden kann(Das verstecken dieser durch die Applikation deaktiviert diese Option)."</string>
     <string name="advice_enable_foreground_service_desc2_part3">"Du kannst die unteren Schaltflächen benutzen um in die Systemeinstellungen zu gelangen."</string>
 
-    <string name="sound_in_use">Ton wird benutzt und kann nicht entfernt werden.</string>
-    <string name="vibration_in_use">Vibration wird benutzt und kann nicht entfernt werden</string>
-    <string name="sound_not_found">Nicht gefunden</string> <!-- for sound -->
-    <string name="vibration_not_found">Nicht gefunden</string> <!-- for vibration -->
+    <string name="sound_in_use">"Ton wird benutzt und kann nicht entfernt werden."</string>
+    <string name="vibration_in_use">"Vibration wird benutzt und kann nicht entfernt werden"</string>
+    <string name="sound_not_found">"Nicht gefunden"</string> <!-- for sound -->
+    <string name="vibration_not_found">"Nicht gefunden"</string> <!-- for vibration -->
 
-    <string name="section_actions">Aktionen</string>
-    <string name="section_notifications">Benachrichtigungen</string>
-    <string name="notification_name">Benachrichtigung</string>
+    <string name="section_actions">"Aktionen"</string>
+    <string name="section_notifications">"Benachrichtigungen"</string>
+    <string name="notification_name">"Benachrichtigung"</string>
 
-    <string name="play">Abspielen</string>
+    <string name="play">"Abspielen"</string>
 
-    <string name="cannot_perform_operation">Diese Tätigkeit kann jetzt nicht ausgeführt werden. Bitte versuche später nocheinmal.</string>
+    <string name="cannot_perform_operation">"Diese Tätigkeit kann jetzt nicht ausgeführt werden. Bitte versuche später nocheinmal."</string>
 
-    <string name="add_to_favorites">Zu den Favoriten hinzufügen</string>
-    <string name="open_favorites">Őffne Favoriten</string>
+    <string name="add_to_favorites">"Zu den Favoriten hinzufügen"</string>
+    <string name="open_favorites">"Őffne Favoriten"</string>
 
-    <string name="unnamed_sound">Unbennant</string>
-    <string name="unnamed_vibration">Unbennant</string>
+    <string name="unnamed_sound">"Unbennant"</string>
+    <string name="unnamed_vibration">"Unbennant"</string>
 
-    <string name="value_deleted">Entfernt \"%1$s\"</string> <!-- showed when one of list items is deleted and displays the value of the item -->
-    <string name="action_undo">zurück</string> <!-- action name to undo deletion e.g. from a list -->
-    <string name="condition_deleted">Bedingung entfernt.</string>
-    <string name="notification_deleted">Benachrichtigung entfernt.</string>
-    <string name="action_deleted">Aktion entfernt.</string>
+    <string name="value_deleted">"Entfernt \"%1$s\"</string> <!-- showed when one of list items is deleted and displays the value of the item -->
+    <string name="action_undo">"zurück"</string> <!-- action name to undo deletion e.g. from a list -->
+    <string name="condition_deleted">"Bedingung entfernt."</string>
+    <string name="notification_deleted">"Benachrichtigung entfernt."</string>
+    <string name="action_deleted">"Aktion entfernt."</string>
 
-    <string name="inclusive_time">einschließlich</string> <!-- used in the time range dialog to determine if edge value should be included -->
+    <string name="inclusive_time">"einschließlich"</string> <!-- used in the time range dialog to determine if edge value should be included -->
 
-    <string name="pref_user_notifications">Benutzerbenachrichtigung</string>
+    <string name="pref_user_notifications">"Benutzerbenachrichtigung"</string>
     <string name="user_notification">"User notification"</string> <!-- TODO translate -->
 
-    <string name="action_set_as_home_screens">Stelle als Startbildschirm ein</string>
+    <string name="action_set_as_home_screens">"Stelle als Startbildschirm ein"</string>
 
-    <string name="pref_battery_saver_mode">Energiesparmodus</string>
-    <string name="mode_sound_title">Erlaube Töne</string>
-    <string name="mode_sound_on">Töne sind in diesem Modus erlaubt</string>
-    <string name="mode_sound_off">Töne sind in diesem Modus ausgeschaltet </string>
-    <string name="mode_vibration_title">Erlaube Vibration</string>
-    <string name="mode_vibration_on">Vibrationen in diesem Modus erlaubt</string>
-    <string name="mode_vibration_off">Vibrationen in diesem Modus nicht erlaubt</string>
-    <string name="mode_screen_title">Schalte Bildschirmerlaubnis</string>
-    <string name="mode_screen_on">Einschalten des Bildschirms ist in diesem Modus erlaubt</string>
-    <string name="mode_screen_off">Bildschirm wird in diesem Modus nicht eingeschaltet</string>
-    <string name="battery_saver_preferences_warning">Diese Optionen könnten nicht auf allen Geräten funktionieren.</string>
-    <string name="mode_sound_toast">Ton ist ausgeschaltet, weil folgendr Modus eingeschaltet ist: %1$s</string>
+    <string name="pref_battery_saver_mode">"Energiesparmodus"</string>
+    <string name="mode_sound_title">"Erlaube Töne"</string>
+    <string name="mode_sound_on">"Töne sind in diesem Modus erlaubt"</string>
+    <string name="mode_sound_off">"Töne sind in diesem Modus ausgeschaltet "</string>
+    <string name="mode_vibration_title">"Erlaube Vibration"</string>
+    <string name="mode_vibration_on">"Vibrationen in diesem Modus erlaubt"</string>
+    <string name="mode_vibration_off">"Vibrationen in diesem Modus nicht erlaubt"</string>
+    <string name="mode_screen_title">"Schalte Bildschirmerlaubnis"</string>
+    <string name="mode_screen_on">"Einschalten des Bildschirms ist in diesem Modus erlaubt"</string>
+    <string name="mode_screen_off">"Bildschirm wird in diesem Modus nicht eingeschaltet"</string>
+    <string name="battery_saver_preferences_warning">"Diese Optionen könnten nicht auf allen Geräten funktionieren."</string>
+    <string name="mode_sound_toast">"Ton ist ausgeschaltet, weil folgendr Modus eingeschaltet ist: %1$s"</string>
 
-    <string name="pref_accessibility_settings_title">Zugangsdienst einschalten</string>
-    <string name="pref_accessibility_settings_summary">Öffnet die Systemverbindungseinstellungen wo man die Applikation als Verbindungsdienst einstellt.</string>
-    <string name="accessibility_service_description">Dieser Dienst hilft der App sie am laufen zu halten. Er bekommt kein Datenzugang und verändert sie nicht. Es ist ein Schutz gegen automatische Speicherverwalter, welche diese App zum anhlaten zwingen können. Wenn du diese Probleme nicht erfahren hast, brauchst es hier nicht zu aktivieren.</string>
-    <string name="accessibility_service_summary">Hilft die Applikation am laufen zu halten. Sammelt keine Daten.</string>
+    <string name="pref_accessibility_settings_title">"Zugangsdienst einschalten"</string>
+    <string name="pref_accessibility_settings_summary">"Öffnet die Systemverbindungseinstellungen wo man die Applikation als Verbindungsdienst einstellt."</string>
+    <string name="accessibility_service_description">"Dieser Dienst hilft der App sie am laufen zu halten. Er bekommt kein Datenzugang und verändert sie nicht. Es ist ein Schutz gegen automatische Speicherverwalter, welche diese App zum anhlaten zwingen können. Wenn du diese Probleme nicht erfahren hast, brauchst es hier nicht zu aktivieren."</string>
+    <string name="accessibility_service_summary">"Hilft die Applikation am laufen zu halten. Sammelt keine Daten."</string>
 
-    <string name="swipe_right_to_delete">Wische nach rechts um zu löschen</string>
+    <string name="swipe_right_to_delete">"Wische nach rechts um zu löschen"</string>
 
-    <string name="action_repeat_sound">Wiederhole den Klang</string>
-    <string name="action_repeat_vibration">Wiederhole die Vibration</string>
-    <string name="action_repeat_sound_vibration">Wiederhole den Klang und die Vibration</string>
-    <string name="action_strike_the_hour">Stundenschlag</string>
+    <string name="action_repeat_sound">"Wiederhole den Klang"</string>
+    <string name="action_repeat_vibration">"Wiederhole die Vibration"</string>
+    <string name="action_repeat_sound_vibration">"Wiederhole den Klang und die Vibration"</string>
+    <string name="action_strike_the_hour">"Stundenschlag"</string>
 
-    <string name="pref_do_not_disturb_mode">Nicht stören</string>
-    <string name="do_not_disturb_total_silence">Totale Stille</string>
-    <string name="do_not_disturb_alarms_only">Nur Alarme</string>
-    <string name="do_not_disturb_priority_only">Nur Vorgezogene</string>
+    <string name="pref_do_not_disturb_mode">"Nicht stören"</string>
+    <string name="do_not_disturb_total_silence">"Totale Stille"</string>
+    <string name="do_not_disturb_alarms_only">"Nur Alarme"</string>
+    <string name="do_not_disturb_priority_only">"Nur Vorgezogene"</string>
 
-    <string name="hide_notification_title">Benachrichtigung verstecken</string>
-    <string name="hide_notification_summary">Öffne Systemeinstellungen um Benachrichtigung zu verstecken. Das ist empfohlener Weg um Benachrchtigung zu verstecken, weil es der Applikation erlaubt in Vordergrund zu  arbeiten.</string>
+    <string name="hide_notification_title">"Benachrichtigung verstecken"</string>
+    <string name="hide_notification_summary">"Öffne Systemeinstellungen um Benachrichtigung zu verstecken. Das ist empfohlener Weg um Benachrchtigung zu verstecken, weil es der Applikation erlaubt in Vordergrund zu  arbeiten."</string>
 
     <!-- Text to speech -->
-    <string name="action_say_text">Sprich den Text</string>
-    <string name="action_say_time">Sprich die Uhrzeit</string>
-    <string name="feature_say_text">Textansage</string>
-    <string name="feature_say_time">Zeitansage</string>
+    <string name="action_say_text">"Sprich den Text"</string>
+    <string name="action_say_time">"Sprich die Uhrzeit"</string>
+    <string name="feature_say_text">"Textansage"</string>
+    <string name="feature_say_time">"Zeitansage"</string>
     <string name="pref_text_to_speech_engine">"Engine"</string> <!-- TODO translate -->
     <string name="pref_text_to_speech_voice">"Voice"</string> <!-- TODO translate -->
-    <string name="pref_text_to_speech">Text zu Sprache</string>
-    <string name="system_default_audio_stream">Systemvoreinstellung</string>
-    <string name="application_default">Applikationsvoreinstellung</string>
-    <string name="speak_time_format_with_minutes">Gesprochene Zeit mit Minuten</string>
-    <string name="speak_time_on_the_hour">Gesprochene Zeit an Vollstunden</string>
-    <string name="tts_not_initialized">Die Text-to-Speech-Engine wurde noch nicht initialisiert</string> <!-- TODO validate -->
-    <string name="tts_test_say_time_title">Testzeit sagen</string> <!-- TODO validate -->
-    <string name="tts_system_settings_title">Systemeinstellungen</string> <!-- TODO validate -->
-    <string name="tts_system_settings_summary">Öffnen Sie Systemtext zu Spracheinstellungen</string> <!-- TODO validate -->
+    <string name="pref_text_to_speech">"Text zu Sprache"</string>
+    <string name="system_default_audio_stream">"Systemvoreinstellung"</string>
+    <string name="application_default">"Applikationsvoreinstellung"</string>
+    <string name="speak_time_format_with_minutes">"Gesprochene Zeit mit Minuten"</string>
+    <string name="speak_time_on_the_hour">"Gesprochene Zeit an Vollstunden"</string>
+    <string name="tts_not_initialized">"Die Text-to-Speech-Engine wurde noch nicht initialisiert"</string> <!-- TODO validate -->
+    <string name="tts_test_say_time_title">"Testzeit sagen"</string> <!-- TODO validate -->
+    <string name="tts_system_settings_title">"Systemeinstellungen"</string> <!-- TODO validate -->
+    <string name="tts_system_settings_summary">"Öffnen Sie Systemtext zu Spracheinstellungen"</string> <!-- TODO validate -->
     <string name="pref_tts_overlaps_sounds">"Overlap sounds"</string> <!-- TODO translate -->
     <string name="pref_tts_overlaps_sounds_on">"Speaking will overlap sounds"</string> <!-- TODO translate -->
     <string name="pref_tts_overlaps_sounds_off">"Speaking will not overlap sounds (sound will play before or after speaking)"</string> <!-- TODO translate -->
 
-    <string name="operating_modes_settings">Arbeitsmodus</string> <!-- name of menu with different mode settings e.g. Do Not Disturb, vibrate mode -->
-    <string name="operating_modes_settings_summary">Nicht-Stören-Modus, Vibrationsmodus, usw.</string>
-    <string name="time_settings">Zeit</string>
-    <string name="sound_settings">Töne</string>
+    <string name="operating_modes_settings">"Arbeitsmodus"</string> <!-- name of menu with different mode settings e.g. Do Not Disturb, vibrate mode -->
+    <string name="operating_modes_settings_summary">"Nicht-Stören-Modus, Vibrationsmodus, usw."</string>
+    <string name="time_settings">"Zeit"</string>
+    <string name="sound_settings">"Töne"</string>
 
-    <string name="free_resources_title">Ressourcen Freigeben</string>
+    <string name="free_resources_title">"Ressourcen Freigeben"</string>
 
-    <string name="error_failed_to_open_file">Dateiöffnung fehlgeschlagen</string>
-    <string name="error_corrupted_sound">Der Klang ist beschädigt</string>
+    <string name="error_failed_to_open_file">"Dateiöffnung fehlgeschlagen"</string>
+    <string name="error_corrupted_sound">"Der Klang ist beschädigt"</string>
 
     <!-- premium -->
-    <string name="dialog_no_thanks">Nein, Danke</string> <!-- should be short -->
-    <string name="feature_custom_sounds">Benutzerdefinierte Töne</string>
-    <string name="feature_multiple_notifications">Mehrfach Benachrichtigungen</string>
-    <string name="feature_custom_reapeat">Einstellbare Wiederholungsintervalle</string>
-    <string name="feature_premium_sounds">Premium-Töne</string>
-    <string name="feature_strike_the_hour">Stundenschlag</string>
-    <string name="premium_get_plus">Erhalte alle gegenwärtige Aktionen</string> <!-- should be short -->
-    <string name="premium_get_sounds">Erhalte alle zugänglichen Töne der Aplikation</string> <!-- should be short -->
-    <string name="premium_get_plus_sounds">Erhalte alle zugänglichen Akionen und Töne</string> <!-- should be short -->
-    <string name="premium_sound_lock">Das ist Premium-Klang welcher vor der Benutzung die Freischaltung erfordert.</string>
-    <string name="premium_feature_lock">Das ist Premiumerweiterung welche vor der Benutzung die Freischaltung erfordert.</string>
-    <string name="change_subscription">Wechsle deine Stimmabgabe</string>
+    <string name="dialog_no_thanks">"Nein, Danke"</string> <!-- should be short -->
+    <string name="feature_custom_sounds">"Benutzerdefinierte Töne"</string>
+    <string name="feature_multiple_notifications">"Mehrfach Benachrichtigungen"</string>
+    <string name="feature_custom_reapeat">"Einstellbare Wiederholungsintervalle"</string>
+    <string name="feature_premium_sounds">"Premium-Töne"</string>
+    <string name="feature_strike_the_hour">"Stundenschlag"</string>
+    <string name="premium_get_plus">"Erhalte alle gegenwärtige Aktionen"</string> <!-- should be short -->
+    <string name="premium_get_sounds">"Erhalte alle zugänglichen Töne der Aplikation"</string> <!-- should be short -->
+    <string name="premium_get_plus_sounds">"Erhalte alle zugänglichen Akionen und Töne"</string> <!-- should be short -->
+    <string name="premium_sound_lock">"Das ist Premium-Klang welcher vor der Benutzung die Freischaltung erfordert."</string>
+    <string name="premium_feature_lock">"Das ist Premiumerweiterung welche vor der Benutzung die Freischaltung erfordert."</string>
+    <string name="change_subscription">"Wechsle deine Stimmabgabe"</string>
     <string name="upgrade_to_pro">"Upgrade"</string> <!-- TODO translate -->
     <string name="loading_failed">"Error"</string> <!-- TODO translate -->
     <string name="month_very_short">"mo."</string> <!-- TODO translate --> <!-- shortcut for word "month", singular -->
@@ -654,8 +654,8 @@
     <string name="feature_unlimited_silent_time_title">"Unlimited silent time configuratipons is a Premium feature"</string> <!-- TODO translate -->
     <string name="feature_unlimited_silent_time_description">"In free version you can activate 5 silent time configurations."</string> <!-- TODO translate -->
 
-    <string name="vibrate_seconds">Vibriere %ss</string> <!-- s at the end is for seconds, %s will be replaced by value e.g. "Vibrate 1.2s" -->
-    <string name="wait_and_vibrate_seconds">Warte %1$ss, vibriere %2$ss</string> <!-- s at the end is for seconds, "%1$s" and "%2$s" will be replaced by value e.g. "Vibrate 1.2s" -->
+    <string name="vibrate_seconds">"Vibriere %ss"</string> <!-- s at the end is for seconds, %s will be replaced by value e.g. "Vibrate 1.2s" -->
+    <string name="wait_and_vibrate_seconds">"Warte %1$ss, vibriere %2$ss"</string> <!-- s at the end is for seconds, "%1$s" and "%2$s" will be replaced by value e.g. "Vibrate 1.2s" -->
 
     <!-- button descriptions -->
     <string name="add_new_sound">"Add new sound from external app"</string> <!-- TODO translate -->
@@ -727,7 +727,7 @@
     <string name="tip15_settings">"NeoSafe app &gt; Permission &gt; Power-on speedup &gt; Enable BlipBlip"</string> <!-- TODO translate -->
 
     <!-- UI Settings -->
-    <string name="pref_user_interface">Benutzer Oberfläche</string>
+    <string name="pref_user_interface">"Benutzer Oberfläche"</string>
     <!-- edit button -->
     <string name="edit_button_title">"Edit button"</string> <!-- TODO translate -->
     <string name="edit_button_on">"Show edit button"</string> <!-- TODO translate -->
@@ -739,13 +739,13 @@
     <string name="show_changelog_on">"Show recent changes on startup."</string> <!-- TODO translate -->
     <string name="show_changelog_off">"Do not show recent changes on startup."</string> <!-- TODO translate -->
     <!-- inclusive -->
-    <string name="show_inclusive_title">Verändere das Ende des Zeitumfangs</string>
-    <string name="show_inclusive_on">Beim einstellen des Zeitumfangs zeige Schalter an, welche die Auswahl der gegebenen Zeit in Zeitumfangsmenü erlauben.</string>
-    <string name="show_inclusive_off">Verstecke die Auswahlschalter der Zeit welche die Zeitauswahl im Zeitumfangsmenü anzeigen.</string>
+    <string name="show_inclusive_title">"Verändere das Ende des Zeitumfangs"</string>
+    <string name="show_inclusive_on">"Beim einstellen des Zeitumfangs zeige Schalter an, welche die Auswahl der gegebenen Zeit in Zeitumfangsmenü erlauben."</string>
+    <string name="show_inclusive_off">"Verstecke die Auswahlschalter der Zeit welche die Zeitauswahl im Zeitumfangsmenü anzeigen."</string>
     <!-- show switches -->
-    <string name="show_actions_switches_title">Aktionsumschalter</string> <!-- option to show enable/disable switches for actions -->
-    <string name="show_actions_switches_on">Zeige Schalter zum ausschalten der Aktionen.</string>
-    <string name="show_actions_switches_off">Verstecke Schalter zum ausschalten der Aktionen.</string>
+    <string name="show_actions_switches_title">"Aktionsumschalter"</string> <!-- option to show enable/disable switches for actions -->
+    <string name="show_actions_switches_on">"Zeige Schalter zum ausschalten der Aktionen."</string>
+    <string name="show_actions_switches_off">"Verstecke Schalter zum ausschalten der Aktionen."</string>
     <!-- Show kill dialog -->
     <string name="show_kill_dialog_title">"Notify if app was killed"</string> <!-- TODO translate -->
     <string name="show_kill_dialog_on">"Display message when opening the app if it was detected that the app was killed."</string> <!-- TODO translate -->

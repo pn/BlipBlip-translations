@@ -164,7 +164,7 @@
     <string name="pref_notification_always">"Always display"</string> <!-- TODO translate -->
     <string name="pref_notification_always_on">"Display notification regardless if it is enabled"</string> <!-- TODO translate -->
     <string name="pref_notification_always_off">"Display notification only if it is enabled"</string> <!-- TODO translate -->
-    <string name="notification_settings_updated">Notification settings updated.</string> <!-- message displayed when one of notification settings is updated without user interacting with these options -->
+    <string name="notification_settings_updated">"Notification settings updated."</string> <!-- message displayed when one of notification settings is updated without user interacting with these options -->
     <string name="permanent_notification">"Permanent notification"</string> <!-- TODO translate -->
 
     <!-- Notification Priority -->
@@ -183,8 +183,8 @@
     <string name="auto_dismiss_notification_off">"Notification will not be dismissed automatically."</string> <!-- TODO translate -->
 
     <!-- Vibrate on Wear -->
-    <string name="pref_vibrate_wear_title">Vibrate on Wear</string>
-    <string name="pref_vibrate_wear_off">Do not vibrate on Android Wear</string>
+    <string name="pref_vibrate_wear_title">"Vibrate on Wear"</string>
+    <string name="pref_vibrate_wear_off">"Do not vibrate on Android Wear"</string>
     <string name="pref_vibrate_wearable_title">@string/pref_vibrate_wear_title</string> <!-- TODO translate ""Vibrate on connected device""-->
     <string name="pref_vibrate_wearable_on2">"If vibration is enabled vibrate also on connected wearable device (e.g. smart watch). Requires adding System notification action."</string> <!-- TODO translate -->
     <string name="pref_vibrate_wearable_off">@string/pref_vibrate_wear_off</string> <!-- TODO translate ""Do not vibrate on connected wearable device""-->
@@ -227,7 +227,7 @@
     <!-- Foreground Service -->
     <string name="pref_foreground_service_title">"Foreground service"</string> <!-- TODO translate -->
     <string name="pref_foreground_service_on">"Displays non-dismissible notification and enables background service which might prevent killing of the app."</string> <!-- TODO translate -->
-    <string name="pref_foreground_service_off">Foreground service is disabled</string>
+    <string name="pref_foreground_service_off">"Foreground service is disabled"</string>
     <string name="msg_foreground_service_off">"Foreground service disabled"</string> <!-- TODO translate --> <!-- message displayed when foreground service is disabled without user interacting with this option -->
 
     <!-- Toast Notifications -->
@@ -270,7 +270,7 @@
     <string name="rate_us_fivestars">"5 ستاره"</string>
     <string name="five_stars_description">"Five stars"</string> <!-- TODO translate -->
     <string name="five_stars_title">"Love BlipBlip?"</string> <!-- TODO translate -->
-    <string name="five_stars_text">Rate us 5 stars to help make BlipBlip even more awesome. Thanks!</string>
+    <string name="five_stars_text">"Rate us 5 stars to help make BlipBlip even more awesome. Thanks!"</string>
 
     <!-- Menu - Error -->
     <string name="action_send_logs">"گزارش مشکل"</string>
@@ -303,7 +303,7 @@
     <string name="warn_notification_skip">"Some notifications will be skipped."</string> <!-- TODO translate --> <!-- Please make this as short as possible. This warning is displayed when user chooses to skip few upcoming notifications. -->
     <string name="warn_volume_zero">"Current volume is set to zero."</string> <!-- TODO translate --> <!-- Please make this as short as possible. This warning is displayed when current system volume is set to 0. -->
     <string name="pref_low_mem_restart_title">"Low memory restart"</string> <!-- TODO translate -->
-    <string name="pref_low_mem_restart_on">Try restarting app if device is low on memory. This will not work on all devices. It is not needed on most devices (may use a bit more battery).</string>
+    <string name="pref_low_mem_restart_on">"Try restarting app if device is low on memory. This will not work on all devices. It is not needed on most devices (may use a bit more battery)."</string>
     <string name="pref_low_mem_restart_off">"Do not try restarting app if device is low on memory."</string> <!-- TODO translate -->
     <string name="pref_heading_notification_accuracy">"Notification accuracy"</string> <!-- TODO translate --> <!-- punctuality -->
     <string name="pref_delay_prevention_title">"Prevent delays"</string> <!-- TODO translate -->

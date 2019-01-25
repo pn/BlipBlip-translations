@@ -2,45 +2,45 @@
 <resources>
 
     <!-- Buttons -->
-    <string name="change_setting">Değiştir</string>
-    <string name="send">Gönder</string>
-    <string name="send_email_description">E-postayı gönder</string>
-    <string name="play_button_description">Ayarlarını dene</string>
+    <string name="change_setting">"Değiştir"</string>
+    <string name="send">"Gönder"</string>
+    <string name="send_email_description">"E-postayı gönder"</string>
+    <string name="play_button_description">"Ayarlarını dene"</string>
 
     <!-- Warnings -->
-    <string name="warning">Uyarı</string>
-    <string name="warning_understood">Anladım</string>
-    <string name="please_wait">Lütfen bekle</string>
-    <string name="warn_power_saving">Güvenilir çalışmayı sağlamak için tüm güç tasarrufu modunu kapalı bırak.</string> <!-- Please make this as short as possible -->
-    <string name="allow_while_idle_title">Enerji tasarrufu modunda izin ver</string>
-    <string name="allow_while_idle_off">Cihaz enerji tasarrufu moduna girdiğinde bazı bildirimler atlanacaktır.</string>
-    <string name="allow_while_idle_on">Enerji tasarrufu modunda (Doze) çalışması için izin verir. 15 dakikadan daha sık bildirimler için her zaman çalışmayabilir. Bu ayar pil kullanımını biraz etkileyebilir.</string>
+    <string name="warning">"Uyarı"</string>
+    <string name="warning_understood">"Anladım"</string>
+    <string name="please_wait">"Lütfen bekle"</string>
+    <string name="warn_power_saving">"Güvenilir çalışmayı sağlamak için tüm güç tasarrufu modunu kapalı bırak."</string> <!-- Please make this as short as possible -->
+    <string name="allow_while_idle_title">"Enerji tasarrufu modunda izin ver"</string>
+    <string name="allow_while_idle_off">"Cihaz enerji tasarrufu moduna girdiğinde bazı bildirimler atlanacaktır."</string>
+    <string name="allow_while_idle_on">"Enerji tasarrufu modunda (Doze) çalışması için izin verir. 15 dakikadan daha sık bildirimler için her zaman çalışmayabilir. Bu ayar pil kullanımını biraz etkileyebilir."</string>
     <string name="app_killed_title">"App was killed"</string> <!-- TODO translate -->
 
     <!-- Next Notification -->
-    <string name="next_notification_off">Kapalı</string>
-    <string name="upcoming_notifications">Gelecek bildirimler</string>
-    <string name="day_today">Bugün</string>
-    <string name="day_tomorrow">Yarın</string>
-    <string name="day_monday">Pazartesi</string>
-    <string name="day_tuesday">Salı</string>
-    <string name="day_wednesday">Çarşamba</string>
-    <string name="day_thursday">Perşembe</string>
-    <string name="day_friday">Cuma</string>
-    <string name="day_saturday">Cumartesi</string>
-    <string name="day_sunday">Pazar</string>
+    <string name="next_notification_off">"Kapalı"</string>
+    <string name="upcoming_notifications">"Gelecek bildirimler"</string>
+    <string name="day_today">"Bugün"</string>
+    <string name="day_tomorrow">"Yarın"</string>
+    <string name="day_monday">"Pazartesi"</string>
+    <string name="day_tuesday">"Salı"</string>
+    <string name="day_wednesday">"Çarşamba"</string>
+    <string name="day_thursday">"Perşembe"</string>
+    <string name="day_friday">"Cuma"</string>
+    <string name="day_saturday">"Cumartesi"</string>
+    <string name="day_sunday">"Pazar"</string>
     <string name="preview_upcoming_notifications">"Preview upcoming notifications"</string> <!-- TODO translate -->
     <string name="disable_premium_notifications">"Disable Premium notifications"</string> <!-- TODO translate -->
 
     <!-- Sound -->
-    <string name="sound_text">Ses</string>
-    <string name="sound_blipblip">"BlipBlip"</string> <!-- TODO translate -->
-    <string name="sound_casio_watch">Casio saati</string>
+    <string name="sound_text">"Ses"</string>
+    <string name="sound_blipblip">"BlipBlip"</string> <!-- translated -->
+    <string name="sound_casio_watch">"Casio saati"</string>
     <string name="sound_casio_watch_single">"Casio watch (single)"</string> <!-- TODO translate -->
-    <string name="sound_gong">"Gong"</string> <!-- TODO translate -->
-    <string name="sound_ships_bell">Gemi çanı</string>
-    <string name="sound_double_ships_bell">Çift gemi çanı</string>
-    <string name="sound_cuckoo">Guguk kuşu</string>
+    <string name="sound_gong">"Gong"</string> <!-- translated -->
+    <string name="sound_ships_bell">"Gemi çanı"</string>
+    <string name="sound_double_ships_bell">"Çift gemi çanı"</string>
+    <string name="sound_cuckoo">"Guguk kuşu"</string>
     <string name="sound_watch_beep">"Watch beep"</string> <!-- TODO translate -->
     <string name="sound_big_ben">"Big Ben"</string> <!-- TODO translate -->
     <string name="sound_big_ben_strikes">"Big Ben Strikes"</string> <!-- TODO translate -->
@@ -68,112 +68,112 @@
     <string name="sound_guitar">"Guitar"</string> <!-- TODO translate -->
 
     <!-- Volume -->
-    <string name="text_seek_volume">Ses seviyesi</string>
+    <string name="text_seek_volume">"Ses seviyesi"</string>
 
     <!-- Vibration -->
-    <string name="vibrate">Titreşim</string>
-    <string name="vibration_blipblip">BlipBlip</string>
-    <string name="vibration_casio_watch">Casio saati</string>
-    <string name="vibration_single_short">Tek kısa</string>
-    <string name="vibration_double_short">Çift kısa</string>
-    <string name="vibration_single_long">Tek uzun</string>
-    <string name="vibration_double_long">Çift uzun</string>
+    <string name="vibrate">"Titreşim"</string>
+    <string name="vibration_blipblip">"BlipBlip"</string>
+    <string name="vibration_casio_watch">"Casio saati"</string>
+    <string name="vibration_single_short">"Tek kısa"</string>
+    <string name="vibration_double_short">"Çift kısa"</string>
+    <string name="vibration_single_long">"Tek uzun"</string>
+    <string name="vibration_double_long">"Çift uzun"</string>
 
     <!-- Silent Mode -->
-    <string name="pref_silent_mode">Sessiz mod</string>
-    <string name="title_silent_mode_settings">Sessiz mod ayarları</string>
-    <string name="sound_in_silent_mode_title">Sessiz mod\'da ses</string>
-    <string name="sound_in_silent_mode_on">Sessiz mod\'da ses çalınmasına izin ver</string>
-    <string name="sound_in_silent_mode_off">Sessiz mod\'da sesi devre dışı bırak</string>
-    <string name="vibrate_in_silent_mode_title">Sessiz mod\'da titre</string>
-    <string name="vibrate_in_silent_mode_on">Sessiz mod\'da titreşime izin ver</string>
-    <string name="vibrate_in_silent_mode_off">Sessiz mod\'da titreşimi devre dışı bırak</string>
-    <string name="force_screen_in_silent_mode_title">Ekran etkinleştirmeyi zorla</string>
-    <string name="force_screen_in_silent_mode_on">Ekranı sessiz mod\'da aç, \"Ekranı bildirim geldiğinde aç\" ayarı devre dışı olsa bile</string>
-    <string name="force_screen_in_silent_mode_off">Devre dışı</string>
-    <string name="warn_sound_disabled_silent_mode">Sessiz mod etkin. BlipBlip bildirim sesi devre dışı bırakılıyor.</string>
+    <string name="pref_silent_mode">"Sessiz mod"</string>
+    <string name="title_silent_mode_settings">"Sessiz mod ayarları"</string>
+    <string name="sound_in_silent_mode_title">"Sessiz mod\'da ses"</string>
+    <string name="sound_in_silent_mode_on">"Sessiz mod\'da ses çalınmasına izin ver"</string>
+    <string name="sound_in_silent_mode_off">"Sessiz mod\'da sesi devre dışı bırak"</string>
+    <string name="vibrate_in_silent_mode_title">"Sessiz mod\'da titre"</string>
+    <string name="vibrate_in_silent_mode_on">"Sessiz mod\'da titreşime izin ver"</string>
+    <string name="vibrate_in_silent_mode_off">"Sessiz mod\'da titreşimi devre dışı bırak"</string>
+    <string name="force_screen_in_silent_mode_title">"Ekran etkinleştirmeyi zorla"</string>
+    <string name="force_screen_in_silent_mode_on">"Ekranı sessiz mod\'da aç, \"Ekranı bildirim geldiğinde aç\" ayarı devre dışı olsa bile"</string>
+    <string name="force_screen_in_silent_mode_off">"Devre dışı"</string>
+    <string name="warn_sound_disabled_silent_mode">"Sessiz mod etkin. BlipBlip bildirim sesi devre dışı bırakılıyor."</string>
 
     <!-- Vibration Mode -->
-    <string name="pref_vibrate_mode">Titreşim modu</string>
-    <string name="title_vibrate_mode_settings">Titreşim modu ayarları</string>
-    <string name="sound_in_vibrate_mode_title">Titreşim modunda ses</string>
-    <string name="sound_in_vibrate_mode_on">Titreşim modunda ses çalınmasına izin ver</string>
-    <string name="sound_in_vibrate_mode_off">Titreşim modunda sesi devre dışı bırak</string>
-    <string name="vibrate_in_vibrate_mode_title">Titreşim modunda titre</string>
-    <string name="vibrate_in_vibrate_mode_on">Titreşim modunda titreşime izin ver</string>
-    <string name="vibrate_in_vibrate_mode_off">Titreşim modunda titreşimi devre dışı bırak</string>
-    <string name="force_vibrate_in_vibrate_mode_title">Titreşim zorla</string>
-    <string name="force_vibrate_in_vibrate_mode_on">Titreşim modunda titreşimi zorla, devre dışı olsa bile</string>
-    <string name="force_vibrate_in_vibrate_mode_off">Devre dışı</string>
-    <string name="force_screen_in_vibrate_mode_title">Ekran etkinleştirmeyi zorla</string>
-    <string name="force_screen_in_vibrate_mode_on">Ekranı Titreşim modunda aç, \"Ekranı bildirim geldiğinde aç\" ayarı devre dışı olsa bile</string>
-    <string name="force_screen_in_vibrate_mode_off">Devre dışı</string>
-    <string name="warn_sound_disabled_vibrate_mode">Titreşim modu etkin. BlipBlip bildirim sesi devre dışı bırakılıyor.</string>
+    <string name="pref_vibrate_mode">"Titreşim modu"</string>
+    <string name="title_vibrate_mode_settings">"Titreşim modu ayarları"</string>
+    <string name="sound_in_vibrate_mode_title">"Titreşim modunda ses"</string>
+    <string name="sound_in_vibrate_mode_on">"Titreşim modunda ses çalınmasına izin ver"</string>
+    <string name="sound_in_vibrate_mode_off">"Titreşim modunda sesi devre dışı bırak"</string>
+    <string name="vibrate_in_vibrate_mode_title">"Titreşim modunda titre"</string>
+    <string name="vibrate_in_vibrate_mode_on">"Titreşim modunda titreşime izin ver"</string>
+    <string name="vibrate_in_vibrate_mode_off">"Titreşim modunda titreşimi devre dışı bırak"</string>
+    <string name="force_vibrate_in_vibrate_mode_title">"Titreşim zorla"</string>
+    <string name="force_vibrate_in_vibrate_mode_on">"Titreşim modunda titreşimi zorla, devre dışı olsa bile"</string>
+    <string name="force_vibrate_in_vibrate_mode_off">"Devre dışı"</string>
+    <string name="force_screen_in_vibrate_mode_title">"Ekran etkinleştirmeyi zorla"</string>
+    <string name="force_screen_in_vibrate_mode_on">"Ekranı Titreşim modunda aç, \"Ekranı bildirim geldiğinde aç\" ayarı devre dışı olsa bile"</string>
+    <string name="force_screen_in_vibrate_mode_off">"Devre dışı"</string>
+    <string name="warn_sound_disabled_vibrate_mode">"Titreşim modu etkin. BlipBlip bildirim sesi devre dışı bırakılıyor."</string>
 
     <!-- Status Bar -->
-    <string name="service_disabled_warning">BlipBlip devre dışı bırakıldı</string>
-    <string name="service_enable">Etkin</string>
+    <string name="service_disabled_warning">"BlipBlip devre dışı bırakıldı"</string>
+    <string name="service_enable">"Etkin"</string>
 
     <!-- Menu - Settings -->
-    <string name="action_settings">Ayarlar</string>
+    <string name="action_settings">"Ayarlar"</string>
 
     <!-- Language -->
-    <string name="app_language">Dil</string>
-    <string name="system_default_language">Varsayılan</string>
-    <string name="language_improve_translations">Dil ekle veya geliştir</string>
+    <string name="app_language">"Dil"</string>
+    <string name="system_default_language">"Varsayılan"</string>
+    <string name="language_improve_translations">"Dil ekle veya geliştir"</string>
 
     <!-- Quiet Hours -->
-    <string name="quiet_hours_title">Sessiz zaman</string>
+    <string name="quiet_hours_title">"Sessiz zaman"</string>
 
     <!-- Quiet Days -->
-    <string name="quiet_days_title">Sessiz günler</string>
-    <string name="days_none">Yok</string>
+    <string name="quiet_days_title">"Sessiz günler"</string>
+    <string name="days_none">"Yok"</string>
     <string name="days_everyday">"Everyday"</string> <!-- TODO translate -->
-    <string name="quiet_day_warning"> Bugün \"sessiz gün\". Bildirim devre dışı bırakıldı.</string>
-    <string name="toast_change_quiet_days">Lütfen BlipBlip\'i bugün çalıştırmak için \"Sessiz zaman\" ayarını değiştir.</string>
+    <string name="quiet_day_warning">" Bugün \"sessiz gün\". Bildirim devre dışı bırakıldı."</string>
+    <string name="toast_change_quiet_days">"Lütfen BlipBlip\'i bugün çalıştırmak için \"Sessiz zaman\" ayarını değiştir."</string>
 
     <!-- While Music -->
-    <string name="while_music">Müzik çalarken devre dışı</string>
-    <string name="while_music_on">Açık (tüm bildirimler devre dışı)</string>
-    <string name="while_music_off">Kapalı (bildirimler etkin)</string>
-    <string name="while_music_toast">Müzik dinleniyor. BlipBlip bildirimleri devre dışı bırakıldı.</string>
+    <string name="while_music">"Müzik çalarken devre dışı"</string>
+    <string name="while_music_on">"Açık (tüm bildirimler devre dışı)"</string>
+    <string name="while_music_off">"Kapalı (bildirimler etkin)"</string>
+    <string name="while_music_toast">"Müzik dinleniyor. BlipBlip bildirimleri devre dışı bırakıldı."</string>
     <!-- While phone call -->
-    <string name="while_phonecall">Telefon görüşmesinde devre dışı</string>
-    <string name="while_phonecall_on">Açık (tüm bildirimler devre dışı)</string>
-    <string name="while_phonecall_off">Kapalı (bildirimler etkin)</string>
-    <string name="while_phonecall_toast">Telefon görüşmesi aktif. BlipBlip bildirimleri devre dışı bırakıldı.</string>
+    <string name="while_phonecall">"Telefon görüşmesinde devre dışı"</string>
+    <string name="while_phonecall_on">"Açık (tüm bildirimler devre dışı)"</string>
+    <string name="while_phonecall_off">"Kapalı (bildirimler etkin)"</string>
+    <string name="while_phonecall_toast">"Telefon görüşmesi aktif. BlipBlip bildirimleri devre dışı bırakıldı."</string>
 
 
 
     <!-- ADVANCED SETTINGS -->
-    <string name="pref_advanced">Gelişmiş ayarlar</string>
-    <string name="title_advanced_settings">Gelişmiş ayarlar</string>
+    <string name="pref_advanced">"Gelişmiş ayarlar"</string>
+    <string name="title_advanced_settings">"Gelişmiş ayarlar"</string>
 
     <!-- Audio Stream -->
-    <string name="pref_choose_audio_stream">Ses akışı</string>
-    <string name="audio_stream_phone_ring">Zil sesi</string>
+    <string name="pref_choose_audio_stream">"Ses akışı"</string>
+    <string name="audio_stream_phone_ring">"Zil sesi"</string>
     <string name="audio_stream_alarm">"Alarm"</string> <!-- TODO translate -->
-    <string name="audio_stream_media">Medya</string>
-    <string name="audio_stream_notification">Bildirim sesi</string>
+    <string name="audio_stream_media">"Medya"</string>
+    <string name="audio_stream_notification">"Bildirim sesi"</string>
 
     <!-- Notifications -->
-    <string name="pref_notification_settings">Bildirim ayarları</string>
-    <string name="pref_notification_status_title">Ekran bildirimleri</string>
+    <string name="pref_notification_settings">"Bildirim ayarları"</string>
+    <string name="pref_notification_status_title">"Ekran bildirimleri"</string>
 
     <!-- Show Notification Always -->
-    <string name="pref_notification_always">Daima göster</string>
-    <string name="pref_notification_always_on">Etkinleştirilmiş olursa olsun bildirimi görüntüle</string>
-    <string name="pref_notification_always_off">Bildirimi yalnızca etkinleştirilmişse görüntüle</string>
-    <string name="notification_settings_updated">Bildirim ayarları güncellendi</string> <!-- message displayed when one of notification settings is updated without user interacting with these options -->
+    <string name="pref_notification_always">"Daima göster"</string>
+    <string name="pref_notification_always_on">"Etkinleştirilmiş olursa olsun bildirimi görüntüle"</string>
+    <string name="pref_notification_always_off">"Bildirimi yalnızca etkinleştirilmişse görüntüle"</string>
+    <string name="notification_settings_updated">"Bildirim ayarları güncellendi"</string> <!-- message displayed when one of notification settings is updated without user interacting with these options -->
     <string name="permanent_notification">"Permanent notification"</string> <!-- TODO translate -->
 
     <!-- Notification Priority -->
-    <string name="pref_notification_priority">Bildirim önceliği</string>
+    <string name="pref_notification_priority">"Bildirim önceliği"</string>
     <string name="item_priority_minimum">"Minimum"</string> <!-- TODO translate -->
-    <string name="item_priority_low">Düşük</string>
+    <string name="item_priority_low">"Düşük"</string>
     <string name="item_priority_normal">"Normal"</string> <!-- TODO translate -->
-    <string name="item_priority_high">Yüksek</string>
-    <string name="item_priority_maximum">Maksimum</string>
+    <string name="item_priority_high">"Yüksek"</string>
+    <string name="item_priority_maximum">"Maksimum"</string>
 
     <!-- Dismissible Notification -->
 
@@ -183,71 +183,71 @@
     <string name="auto_dismiss_notification_off">"Notification will not be dismissed automatically."</string> <!-- TODO translate -->
 
     <!-- Vibrate on Wear -->
-    <string name="pref_vibrate_wear_title">Wear cihazında titreşim</string>
-    <string name="pref_vibrate_wear_off">Titreşim kapalı</string>
+    <string name="pref_vibrate_wear_title">"Wear cihazında titreşim"</string>
+    <string name="pref_vibrate_wear_off">"Titreşim kapalı"</string>
     <string name="pref_vibrate_wearable_title">@string/pref_vibrate_wear_title</string> <!-- TODO translate ""Vibrate on connected device""-->
     <string name="pref_vibrate_wearable_on2">"If vibration is enabled vibrate also on connected wearable device (e.g. smart watch). Requires adding System notification action."</string> <!-- TODO translate -->
     <string name="pref_vibrate_wearable_off">@string/pref_vibrate_wear_off</string> <!-- TODO translate ""Do not vibrate on connected wearable device""-->
 
     <!-- Action Buttons -->
-    <string name="pref_notification_action_buttons">Aksiyon düğmeleri</string> <!-- Preference name for choosing which buttons are visible on notification -->
+    <string name="pref_notification_action_buttons">"Aksiyon düğmeleri"</string> <!-- Preference name for choosing which buttons are visible on notification -->
     <string name="notif_action_stop">"Stop"</string> <!-- TODO translate --> <!-- Description of action button. This should refer to notif_action_stop -->
-    <string name="notif_action_disable_or_enable">Etkin/Devre dışı</string> <!-- Description of action button. This refers to notif_action_enable and notif_action -->
-    <string name="notif_button_play">Oynat</string> <!-- Action button label in notification having same action as play button in the app - plays the notificaton for testing purposes. This text should be short, because it will be shown on notification button where there can be 3 of them -->
+    <string name="notif_action_disable_or_enable">"Etkin/Devre dışı"</string> <!-- Description of action button. This refers to notif_action_enable and notif_action -->
+    <string name="notif_button_play">"Oynat"</string> <!-- Action button label in notification having same action as play button in the app - plays the notificaton for testing purposes. This text should be short, because it will be shown on notification button where there can be 3 of them -->
     <string name="notif_button_stop">"Stop"</string> <!-- TODO translate --> <!-- Stops playback of notification. Should be short. -->
-    <string name="notif_button_enable">Etkin</string> <!-- This text should be short, because it will be shown on notification button where there can be 3 of them. -->
-    <string name="notif_button_disable">Devre dışı</string> <!-- This text should be short, because it will be shown on notification button where there can be 3 of them. -->
+    <string name="notif_button_enable">"Etkin"</string> <!-- This text should be short, because it will be shown on notification button where there can be 3 of them. -->
+    <string name="notif_button_disable">"Devre dışı"</string> <!-- This text should be short, because it will be shown on notification button where there can be 3 of them. -->
 
     <!-- Custom Texts -->
-    <string name="pref_custom_texts">Özel bildirim metinleri</string>
-    <string name="pref_notification_title_title">Bildirim başlığı</string>
-    <string name="pref_notification_description_title">Bildirim açıklaması</string>
+    <string name="pref_custom_texts">"Özel bildirim metinleri"</string>
+    <string name="pref_notification_title_title">"Bildirim başlığı"</string>
+    <string name="pref_notification_description_title">"Bildirim açıklaması"</string>
 
     <!-- Reliability -->
-    <string name="pref_reliability">Güvenilirlik ayarları</string> <!-- title of settings section meant for all settings which may improve running of the app without issues -->
-    <string name="reliability_warning">Bu ayarları değiştirmek uygulamanın güvenilirliğini etkileyebilir.</string> <!-- This message should be as short as possible. There is risk of cutting it off if it will be too long -->
+    <string name="pref_reliability">"Güvenilirlik ayarları"</string> <!-- title of settings section meant for all settings which may improve running of the app without issues -->
+    <string name="reliability_warning">"Bu ayarları değiştirmek uygulamanın güvenilirliğini etkileyebilir."</string> <!-- This message should be as short as possible. There is risk of cutting it off if it will be too long -->
 
     <!-- Alarm Mode -->
-    <string name="notif_as_alarm_title">Alarm modu</string>
-    <string name="notif_as_alarm_off">Genel bildirimler</string>
-    <string name="notif_as_alarm_on">Bildirimleri alarm olarak ayarlamak bazı Samsung cihazlarında bildirimlerin birkaç dakika gecikmesini önler</string>
-    <string name="late_notif_title">Alarm modu etkin</string>
-    <string name="late_notif_message">Bildirimin bir kaç dakika geç etkinleştirildiği algılandı. Bu bazı Samsung cihazlarında olabilir. Bunu önlemek için \"Alarm mode\" ayarı etkinleştirildi. Bu ayarı devre dışı bırakıp gelişmiş ayarlarda otomatik etkinleştirmeyi seçebilirsin. Daha iyi bir çözüm bulunduğunda uygulama güncelleştirilecektir. Eğer daha fazla sorun olursa, lütfen e-posta yoluyla rapor et.</string>
+    <string name="notif_as_alarm_title">"Alarm modu"</string>
+    <string name="notif_as_alarm_off">"Genel bildirimler"</string>
+    <string name="notif_as_alarm_on">"Bildirimleri alarm olarak ayarlamak bazı Samsung cihazlarında bildirimlerin birkaç dakika gecikmesini önler"</string>
+    <string name="late_notif_title">"Alarm modu etkin"</string>
+    <string name="late_notif_message">"Bildirimin bir kaç dakika geç etkinleştirildiği algılandı. Bu bazı Samsung cihazlarında olabilir. Bunu önlemek için \"Alarm mode\" ayarı etkinleştirildi. Bu ayarı devre dışı bırakıp gelişmiş ayarlarda otomatik etkinleştirmeyi seçebilirsin. Daha iyi bir çözüm bulunduğunda uygulama güncelleştirilecektir. Eğer daha fazla sorun olursa, lütfen e-posta yoluyla rapor et."</string>
 
     <!-- Auto Alarm -->
-    <string name="auto_notif_as_alarm_title">Alarm modunu otomatik etkinleştir</string>
-    <string name="auto_notif_as_alarm_on">Açık. Bildirim geç algılandığında alarm modu etkinleştirilecek.</string>
-    <string name="auto_notif_as_alarm_off">Kapalı</string>
+    <string name="auto_notif_as_alarm_title">"Alarm modunu otomatik etkinleştir"</string>
+    <string name="auto_notif_as_alarm_on">"Açık. Bildirim geç algılandığında alarm modu etkinleştirilecek."</string>
+    <string name="auto_notif_as_alarm_off">"Kapalı"</string>
 
     <!-- Low Valume -->
-    <string name="pref_low_volume_fix">Düşük ses düzeltme</string>
-    <string name="pref_low_volume_fix_on">Etkin. Bazı Motorola cihazlarında düşük ses sorununu çözer. Ses birkaç saniye geç çalabilir.</string>
-    <string name="pref_low_volume_fix_off">Devre dışı. Çoğu cihaz için lazım değil.</string>
+    <string name="pref_low_volume_fix">"Düşük ses düzeltme"</string>
+    <string name="pref_low_volume_fix_on">"Etkin. Bazı Motorola cihazlarında düşük ses sorununu çözer. Ses birkaç saniye geç çalabilir."</string>
+    <string name="pref_low_volume_fix_off">"Devre dışı. Çoğu cihaz için lazım değil."</string>
 
     <!-- Foreground Service -->
-    <string name="pref_foreground_service_title">Ön planda hizmet</string>
-    <string name="pref_foreground_service_on">İptal edilemez bir bildirim görüntüler ve uygulamanın sonlandırılmasını engelleyebilecek arka plan hizmetini etkinleştirir.</string>
-    <string name="pref_foreground_service_off">Ön plan hizmeti devre dışı.</string>
-    <string name="msg_foreground_service_off">Ön plan hizmeti devre dışı</string> <!-- message displayed when foreground service is disabled without user interacting with this option -->
+    <string name="pref_foreground_service_title">"Ön planda hizmet"</string>
+    <string name="pref_foreground_service_on">"İptal edilemez bir bildirim görüntüler ve uygulamanın sonlandırılmasını engelleyebilecek arka plan hizmetini etkinleştirir."</string>
+    <string name="pref_foreground_service_off">"Ön plan hizmeti devre dışı."</string>
+    <string name="msg_foreground_service_off">"Ön plan hizmeti devre dışı"</string> <!-- message displayed when foreground service is disabled without user interacting with this option -->
 
     <!-- Toast Notifications -->
-    <string name="pref_toast_notifications">Toast bildirimler</string>
-    <string name="pref_toast_notifications_on">Toast bildirim uyarılarını göster</string>
-    <string name="pref_toast_notifications_off">Toast bildirim uyarılarını sakla</string>
+    <string name="pref_toast_notifications">"Toast bildirimler"</string>
+    <string name="pref_toast_notifications_on">"Toast bildirim uyarılarını göster"</string>
+    <string name="pref_toast_notifications_off">"Toast bildirim uyarılarını sakla"</string>
 
     <!-- Logs -->
-    <string name="debug_logs_title">Hata ayıklama günlüklerini topla</string>
-    <string name="debug_logs_off">Devre dışı</string>
-    <string name="debug_logs_on">Etkin. Rapor sorunu e-postası için günlükler kaydedilecek.</string>
+    <string name="debug_logs_title">"Hata ayıklama günlüklerini topla"</string>
+    <string name="debug_logs_off">"Devre dışı"</string>
+    <string name="debug_logs_on">"Etkin. Rapor sorunu e-postası için günlükler kaydedilecek."</string>
 
     <!-- Beta -->
     <string name="beta_preference_title">"BlipBlip Beta"</string> <!-- TODO translate -->
-    <string name="beta_preference_description">Beta versiyonuna katıl</string>
+    <string name="beta_preference_description">"Beta versiyonuna katıl"</string>
 
     <!-- Experimental Settings -->
-    <string name="pref_experimental">Deneysel ayarlar</string>
-    <string name="experimental_warning">Bu ayarlar deneyseldir ve yakın zamanda kaldırılabilir.</string>
-    <string name="title_experimental_settings">Deneysel ayarlar</string>
+    <string name="pref_experimental">"Deneysel ayarlar"</string>
+    <string name="experimental_warning">"Bu ayarlar deneyseldir ve yakın zamanda kaldırılabilir."</string>
+    <string name="title_experimental_settings">"Deneysel ayarlar"</string>
     <string name="huawei_fix">"Huawei fix"</string> <!-- TODO translate -->
 
     <!-- Time Offset -->
@@ -257,38 +257,38 @@
     <!-- Inline Attachments -->
 
     <!-- Menu - Share -->
-    <string name="action_share">Uygulamayı paylaş</string>
-    <string name="share_chooser_title">Bu uygulamayı paylaş</string>
-    <string name="share_title">BliBlip saatlik bildirim uygulamasına göz at.</string>
-    <string name="share_text">Android için BlipBlip saatlik bildirim uygulamasına göz at.</string>
+    <string name="action_share">"Uygulamayı paylaş"</string>
+    <string name="share_chooser_title">"Bu uygulamayı paylaş"</string>
+    <string name="share_title">"BliBlip saatlik bildirim uygulamasına göz at."</string>
+    <string name="share_text">"Android için BlipBlip saatlik bildirim uygulamasına göz at."</string>
 
     <!-- Menu - Rate -->
-    <string name="action_rate">Bizi değerlendir</string>
-    <string name="rate_us_title">Bizi değerlendir.</string>
-    <string name="rate_us_message">Lütfen bizi değerlendir. Teşekkürler.</string>
-    <string name="rate_us_onetofourstars">Bir - dört yıldız</string>
-    <string name="rate_us_fivestars">Beş yıldız!</string>
+    <string name="action_rate">"Bizi değerlendir"</string>
+    <string name="rate_us_title">"Bizi değerlendir."</string>
+    <string name="rate_us_message">"Lütfen bizi değerlendir. Teşekkürler."</string>
+    <string name="rate_us_onetofourstars">"Bir - dört yıldız"</string>
+    <string name="rate_us_fivestars">"Beş yıldız!"</string>
     <string name="five_stars_description">"Five stars"</string> <!-- TODO translate -->
     <string name="five_stars_title">"Love BlipBlip?"</string> <!-- TODO translate -->
-    <string name="five_stars_text">Rate us 5 stars to help make BlipBlip even more awesome. Thanks!</string>
+    <string name="five_stars_text">"Rate us 5 stars to help make BlipBlip even more awesome. Thanks!"</string>
 
     <!-- Menu - Error -->
-    <string name="action_send_logs">Hata bildir</string>
-    <string name="send_logs_describe">Uygulamayla ilgili sorunu lütfen tarif et (tercihen İngilizce dilinde):</string>
-    <string name="feedback_dialog_bug_found">Bir hata buldum (günlükleri ekle)</string>
+    <string name="action_send_logs">"Hata bildir"</string>
+    <string name="send_logs_describe">"Uygulamayla ilgili sorunu lütfen tarif et (tercihen İngilizce dilinde):"</string>
+    <string name="feedback_dialog_bug_found">"Bir hata buldum (günlükleri ekle)"</string>
 
     <!-- Menu - Improvement -->
-    <string name="feedback_improvement_title">BlipBlip\'in düzenlenmesi gerekiyor</string>
-    <string name="feedback_improvement_message">Lütfen bize neyin düzenleneceğini söyle, senin için uygulamayı daha iyi yapalım.</string>
+    <string name="feedback_improvement_title">"BlipBlip\'in düzenlenmesi gerekiyor"</string>
+    <string name="feedback_improvement_message">"Lütfen bize neyin düzenleneceğini söyle, senin için uygulamayı daha iyi yapalım."</string>
 
     <!-- Menu - About -->
-    <string name="action_about">Hakkında</string>
-    <string name="about_version">Versiyon:</string>
-    <string name="about_authors">Yazarlar</string>
-    <string name="about_coding">Kodlama</string>
+    <string name="action_about">"Hakkında"</string>
+    <string name="about_version">"Versiyon:"</string>
+    <string name="about_authors">"Yazarlar"</string>
+    <string name="about_coding">"Kodlama"</string>
     <string name="about_testing">"Testing"</string> <!-- TODO translate -->
-    <string name="about_graphics">Görseller</string>
-    <string name="about_translations">Dil</string>
+    <string name="about_graphics">"Görseller"</string>
+    <string name="about_translations">"Dil"</string>
     <string name="about_thank_you">"Thank You"</string> <!-- TODO translate -->
     <string name="about_images">"Images"</string> <!-- TODO translate -->
     <string name="about_libraries">"Libraries"</string> <!-- TODO translate --> <!-- title of screen showing licenses of programming libraries used by the app -->
@@ -296,25 +296,25 @@
     <string name="about_translators_thank_you">"BlipBlip is translated by our users voluntarily and hereby we thank you for your support and contribution."</string> <!-- TODO translate -->
 
     <!-- Visual -->
-    <string name="pref_visual">Görsel ayarlar</string>
-    <string name="title_visual_settings">Görsel ayarlar</string>
+    <string name="pref_visual">"Görsel ayarlar"</string>
+    <string name="title_visual_settings">"Görsel ayarlar"</string>
 
     <!-- Unsorted -->
-    <string name="warn_notification_skip">Bazı bildirimler atlanacaktır.</string> <!-- Please make this as short as possible. This warning is displayed when user chooses to skip few upcoming notifications. -->
-    <string name="warn_volume_zero">Geçerli ses seviyesi sıfır.</string> <!-- Please make this as short as possible. This warning is displayed when current system volume is set to 0. -->
-    <string name="pref_low_mem_restart_title">Düşük RAM nedeniyle yeniden başlatma</string>
-    <string name="pref_low_mem_restart_on">Cihazın RAM hafızası az olduğunda uygulamayı tekrar başlatmayı dener. Bu, tüm cihazlarda çalışmaz. Çoğu cihazda gerekli değildir (biraz daha pil tüketebilir).</string>
-    <string name="pref_low_mem_restart_off">Cihazın RAM hafızası az olduğunda uygulamayı yeniden başlatmayı denemez.</string>
-    <string name="pref_heading_notification_accuracy">Bildirim doğruluğu</string> <!-- punctuality -->
-    <string name="pref_delay_prevention_title">Gecikmeleri önleme</string>
-    <string name="pref_delay_prevention_on">Bazı cihazlarda ortaya çıkan bildirim gecikmelerini önlemeye çalışır. Biraz daha pil tüketebilir.</string>
-    <string name="pref_delay_prevention_off">Gecikmeleri önlemeye çalışmaz. Daha az pil kullanır.</string>
-    <string name="pref_aggressive_delay_prevention_title">Gecikmeleri zorlu önleme</string>
-    <string name="pref_aggressive_delay_prevention_on">Bildirimler daha sıklıkla doğru olmalı. Daha fazla pil tüketebilir.</string>
-    <string name="pref_aggressive_delay_prevention_off">Nadir durumlarda bildirimler geç olabilir. Daha az pil kullanır.</string>
-    <string name="pref_ignore_delayed_title">Geç kalan bildirimleri yoksay</string>
-    <string name="pref_ignore_delayed_on">Bildirm geç olarak algılanırsa ne gösterilecek ne alarmı çalınacak.</string>
-    <string name="pref_ignore_delayed_off">Bildirimler geç kalsa bile gösterilecek ve alarmları çalınacak.</string>
+    <string name="warn_notification_skip">"Bazı bildirimler atlanacaktır."</string> <!-- Please make this as short as possible. This warning is displayed when user chooses to skip few upcoming notifications. -->
+    <string name="warn_volume_zero">"Geçerli ses seviyesi sıfır."</string> <!-- Please make this as short as possible. This warning is displayed when current system volume is set to 0. -->
+    <string name="pref_low_mem_restart_title">"Düşük RAM nedeniyle yeniden başlatma"</string>
+    <string name="pref_low_mem_restart_on">"Cihazın RAM hafızası az olduğunda uygulamayı tekrar başlatmayı dener. Bu, tüm cihazlarda çalışmaz. Çoğu cihazda gerekli değildir (biraz daha pil tüketebilir)."</string>
+    <string name="pref_low_mem_restart_off">"Cihazın RAM hafızası az olduğunda uygulamayı yeniden başlatmayı denemez."</string>
+    <string name="pref_heading_notification_accuracy">"Bildirim doğruluğu"</string> <!-- punctuality -->
+    <string name="pref_delay_prevention_title">"Gecikmeleri önleme"</string>
+    <string name="pref_delay_prevention_on">"Bazı cihazlarda ortaya çıkan bildirim gecikmelerini önlemeye çalışır. Biraz daha pil tüketebilir."</string>
+    <string name="pref_delay_prevention_off">"Gecikmeleri önlemeye çalışmaz. Daha az pil kullanır."</string>
+    <string name="pref_aggressive_delay_prevention_title">"Gecikmeleri zorlu önleme"</string>
+    <string name="pref_aggressive_delay_prevention_on">"Bildirimler daha sıklıkla doğru olmalı. Daha fazla pil tüketebilir."</string>
+    <string name="pref_aggressive_delay_prevention_off">"Nadir durumlarda bildirimler geç olabilir. Daha az pil kullanır."</string>
+    <string name="pref_ignore_delayed_title">"Geç kalan bildirimleri yoksay"</string>
+    <string name="pref_ignore_delayed_on">"Bildirm geç olarak algılanırsa ne gösterilecek ne alarmı çalınacak."</string>
+    <string name="pref_ignore_delayed_off">"Bildirimler geç kalsa bile gösterilecek ve alarmları çalınacak."</string>
     <string name="pref_audio_focus_title">"Audio focus"</string> <!-- TODO translate --> <!-- option to improve ability to hear app sounds by decreasing volume of other apps or pausing them -->
     <string name="pref_audio_focus_on">"While app plays sound, audio from other apps will be quieter or paused."</string> <!-- TODO translate -->
     <string name="pref_audio_focus_off">"Audio from other apps will be played normally."</string> <!-- TODO translate -->

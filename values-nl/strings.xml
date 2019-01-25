@@ -2,54 +2,54 @@
 <resources>
 
     <!-- Buttons -->
-    <string name="change_setting">Aanpassen</string>
-    <string name="send">Versturen</string>
-    <string name="send_email_description">Email versturen</string>
-    <string name="play_button_description">Test jouw instellingen</string>
+    <string name="change_setting">"Aanpassen"</string>
+    <string name="send">"Versturen"</string>
+    <string name="send_email_description">"Email versturen"</string>
+    <string name="play_button_description">"Test jouw instellingen"</string>
 
     <!-- Warnings -->
-    <string name="warning">Waarschuwing</string>
-    <string name="warning_understood">Begrepen!</string>
-    <string name="please_wait">Even geduld…</string>
-    <string name="warn_power_saving">Voor een betrouwbare werking schakel alle energiebesparende instellingen uit</string> <!-- Please make this as short as possible -->
-    <string name="allow_while_idle_title">Toestaan energiebesparende modus</string>
-    <string name="allow_while_idle_off">Wanneer de telefoon in de energiebesparende modus komt kunnen sommige notificaties overgeslagen worden.</string>
-    <string name="allow_while_idle_on">Toestaan in energiebesparende(Doze/Idle) modus. Kan niet altijd werken voor notificaties lager dan 15 minuten. Deze optie kan invloed hebben op het batterijverbruik.</string>
+    <string name="warning">"Waarschuwing"</string>
+    <string name="warning_understood">"Begrepen!"</string>
+    <string name="please_wait">"Even geduld…"</string>
+    <string name="warn_power_saving">"Voor een betrouwbare werking schakel alle energiebesparende instellingen uit"</string> <!-- Please make this as short as possible -->
+    <string name="allow_while_idle_title">"Toestaan energiebesparende modus"</string>
+    <string name="allow_while_idle_off">"Wanneer de telefoon in de energiebesparende modus komt kunnen sommige notificaties overgeslagen worden."</string>
+    <string name="allow_while_idle_on">"Toestaan in energiebesparende(Doze/Idle) modus. Kan niet altijd werken voor notificaties lager dan 15 minuten. Deze optie kan invloed hebben op het batterijverbruik."</string>
     <string name="app_killed_title">"App was killed"</string> <!-- TODO translate -->
 
     <!-- Next Notification -->
-    <string name="next_notification_off">Uit</string>
-    <string name="upcoming_notifications">Aankomende notificaties</string>
-    <string name="day_today">Vandaag</string>
-    <string name="day_tomorrow">Morgen</string>
-    <string name="day_monday">Maandag</string>
-    <string name="day_tuesday">Dinsdag</string>
-    <string name="day_wednesday">Woensdag</string>
-    <string name="day_thursday">Donderdag</string>
-    <string name="day_friday">Vrijdag</string>
-    <string name="day_saturday">Zaterdag</string>
-    <string name="day_sunday">Zondag</string>
+    <string name="next_notification_off">"Uit"</string>
+    <string name="upcoming_notifications">"Aankomende notificaties"</string>
+    <string name="day_today">"Vandaag"</string>
+    <string name="day_tomorrow">"Morgen"</string>
+    <string name="day_monday">"Maandag"</string>
+    <string name="day_tuesday">"Dinsdag"</string>
+    <string name="day_wednesday">"Woensdag"</string>
+    <string name="day_thursday">"Donderdag"</string>
+    <string name="day_friday">"Vrijdag"</string>
+    <string name="day_saturday">"Zaterdag"</string>
+    <string name="day_sunday">"Zondag"</string>
     <string name="preview_upcoming_notifications">"Preview upcoming notifications"</string> <!-- TODO translate -->
     <string name="disable_premium_notifications">"Disable Premium notifications"</string> <!-- TODO translate -->
 
     <!-- Sound -->
-    <string name="sound_text">Geluid</string>
-    <string name="sound_blipblip">BlipBlip</string>
-    <string name="sound_casio_watch">Casio horloge</string>
+    <string name="sound_text">"Geluid"</string>
+    <string name="sound_blipblip">"BlipBlip"</string> <!-- translated -->
+    <string name="sound_casio_watch">"Casio horloge"</string>
     <string name="sound_casio_watch_single">"Casio watch (single)"</string> <!-- TODO translate -->
-    <string name="sound_gong">Gong</string>
-    <string name="sound_ships_bell">Scheepsbel</string>
-    <string name="sound_double_ships_bell">Dubbele scheepsbel</string>
-    <string name="sound_cuckoo">Cuckoo</string>
-    <string name="sound_watch_beep">Horloge beep</string>
-    <string name="sound_big_ben">Big Ben</string>
-    <string name="sound_big_ben_strikes">Big Ben Strikes</string>
-    <string name="sound_bubble">Bubbel</string>
-    <string name="sound_bird">Vogel %1$s</string>
-    <string name="sound_cartoon">Cartoon %1$s</string>
-    <string name="sound_cat">Kat %1$s</string>
-    <string name="sound_dog">Hond %1$s</string>
-    <string name="sound_rooster">Haan</string>
+    <string name="sound_gong">"Gong"</string> <!-- translated -->
+    <string name="sound_ships_bell">"Scheepsbel"</string>
+    <string name="sound_double_ships_bell">"Dubbele scheepsbel"</string>
+    <string name="sound_cuckoo">"Cuckoo"</string> <!-- translated -->
+    <string name="sound_watch_beep">"Horloge beep"</string>
+    <string name="sound_big_ben">"Big Ben"</string> <!-- translated -->
+    <string name="sound_big_ben_strikes">"Big Ben Strikes"</string> <!-- translated -->
+    <string name="sound_bubble">"Bubbel"</string>
+    <string name="sound_bird">"Vogel %1$s"</string>
+    <string name="sound_cartoon">"Cartoon %1$s"</string> <!-- translated -->
+    <string name="sound_cat">"Kat %1$s"</string>
+    <string name="sound_dog">"Hond %1$s"</string>
+    <string name="sound_rooster">"Haan"</string>
     <string name="sound_guitar_strum">"Guitar strum %1$s"</string> <!-- TODO translate -->
     <string name="sound_water_drop">"Water drop %1$s"</string> <!-- TODO translate -->
     <string name="sound_water_pouring">"Water pouring %1$s"</string> <!-- TODO translate -->
@@ -68,112 +68,112 @@
     <string name="sound_guitar">"Guitar"</string> <!-- TODO translate -->
 
     <!-- Volume -->
-    <string name="text_seek_volume">Volume</string>
+    <string name="text_seek_volume">"Volume"</string> <!-- translated -->
 
     <!-- Vibration -->
-    <string name="vibrate">Trillen</string>
-    <string name="vibration_blipblip">Voor BlipBlip</string>
-    <string name="vibration_casio_watch">Voor Casio horloge</string>
-    <string name="vibration_single_short">Enkel kort</string>
-    <string name="vibration_double_short">Dubbel kort</string>
-    <string name="vibration_single_long">Enkel lang</string>
-    <string name="vibration_double_long">Dubbel lang</string>
+    <string name="vibrate">"Trillen"</string>
+    <string name="vibration_blipblip">"Voor BlipBlip"</string>
+    <string name="vibration_casio_watch">"Voor Casio horloge"</string>
+    <string name="vibration_single_short">"Enkel kort"</string>
+    <string name="vibration_double_short">"Dubbel kort"</string>
+    <string name="vibration_single_long">"Enkel lang"</string>
+    <string name="vibration_double_long">"Dubbel lang"</string>
 
     <!-- Silent Mode -->
-    <string name="pref_silent_mode">Stille Modus</string>
-    <string name="title_silent_mode_settings">Stille Modus Instellingen</string>
-    <string name="sound_in_silent_mode_title">Geluid in stille modus</string>
-    <string name="sound_in_silent_mode_on">Geluid afspelen toestaan in stille modus</string>
-    <string name="sound_in_silent_mode_off">Geluid uitschakelen in stille modus</string>
-    <string name="vibrate_in_silent_mode_title">Trillen in stille modus</string>
-    <string name="vibrate_in_silent_mode_on">Trillen toestaan in stille modus</string>
-    <string name="vibrate_in_silent_mode_off">Trillen uitschakelen in stille modus</string>
-    <string name="force_screen_in_silent_mode_title">Scherm aanzetten forceren</string>
-    <string name="force_screen_in_silent_mode_on">Scherm oplichten in stille modus zelfs wanneer \"Scherm oplichten bij notificatie\" optie is uitgeschakeld</string>
-    <string name="force_screen_in_silent_mode_off">Uitgeschakeld</string>
-    <string name="warn_sound_disabled_silent_mode">BlipBlip notificatie geluid uitgeschakeld omdat je apparaat op stille modus staat</string>
+    <string name="pref_silent_mode">"Stille Modus"</string>
+    <string name="title_silent_mode_settings">"Stille Modus Instellingen"</string>
+    <string name="sound_in_silent_mode_title">"Geluid in stille modus"</string>
+    <string name="sound_in_silent_mode_on">"Geluid afspelen toestaan in stille modus"</string>
+    <string name="sound_in_silent_mode_off">"Geluid uitschakelen in stille modus"</string>
+    <string name="vibrate_in_silent_mode_title">"Trillen in stille modus"</string>
+    <string name="vibrate_in_silent_mode_on">"Trillen toestaan in stille modus"</string>
+    <string name="vibrate_in_silent_mode_off">"Trillen uitschakelen in stille modus"</string>
+    <string name="force_screen_in_silent_mode_title">"Scherm aanzetten forceren"</string>
+    <string name="force_screen_in_silent_mode_on">"Scherm oplichten in stille modus zelfs wanneer \"Scherm oplichten bij notificatie\" optie is uitgeschakeld"</string>
+    <string name="force_screen_in_silent_mode_off">"Uitgeschakeld"</string>
+    <string name="warn_sound_disabled_silent_mode">"BlipBlip notificatie geluid uitgeschakeld omdat je apparaat op stille modus staat"</string>
 
     <!-- Vibration Mode -->
-    <string name="pref_vibrate_mode">Tril Modus</string>
-    <string name="title_vibrate_mode_settings">Tril Modus Instellingen</string>
-    <string name="sound_in_vibrate_mode_title">Geluid in tril modus</string>
-    <string name="sound_in_vibrate_mode_on">Geluid afspelen toestaan in tril modus</string>
-    <string name="sound_in_vibrate_mode_off">Geluid uitschakelen in tril modus</string>
-    <string name="vibrate_in_vibrate_mode_title">Trillen in tril modus</string>
-    <string name="vibrate_in_vibrate_mode_on">Trillen toestaan in tril modus</string>
-    <string name="vibrate_in_vibrate_mode_off">Trillen uitschakelen in tril modus</string>
-    <string name="force_vibrate_in_vibrate_mode_title">Trillen forceren</string>
-    <string name="force_vibrate_in_vibrate_mode_on">Trillen forceren zelfs als trillen is uitgeschakeld</string>
-    <string name="force_vibrate_in_vibrate_mode_off">Uitgeschakeld</string>
-    <string name="force_screen_in_vibrate_mode_title">Scherm aanzetten forceren</string>
-    <string name="force_screen_in_vibrate_mode_on">Scherm oplichten in tril modus zelfs wanneer \"Scherm oplichten bij notificatie\" optie is uitgeschakeld</string>
-    <string name="force_screen_in_vibrate_mode_off">Uitgeschakeld</string>
-    <string name="warn_sound_disabled_vibrate_mode">BlipBlip notificatie geluid uitgeschakeld omdat je apparaat op tril modus staat</string>
+    <string name="pref_vibrate_mode">"Tril Modus"</string>
+    <string name="title_vibrate_mode_settings">"Tril Modus Instellingen"</string>
+    <string name="sound_in_vibrate_mode_title">"Geluid in tril modus"</string>
+    <string name="sound_in_vibrate_mode_on">"Geluid afspelen toestaan in tril modus"</string>
+    <string name="sound_in_vibrate_mode_off">"Geluid uitschakelen in tril modus"</string>
+    <string name="vibrate_in_vibrate_mode_title">"Trillen in tril modus"</string>
+    <string name="vibrate_in_vibrate_mode_on">"Trillen toestaan in tril modus"</string>
+    <string name="vibrate_in_vibrate_mode_off">"Trillen uitschakelen in tril modus"</string>
+    <string name="force_vibrate_in_vibrate_mode_title">"Trillen forceren"</string>
+    <string name="force_vibrate_in_vibrate_mode_on">"Trillen forceren zelfs als trillen is uitgeschakeld"</string>
+    <string name="force_vibrate_in_vibrate_mode_off">"Uitgeschakeld"</string>
+    <string name="force_screen_in_vibrate_mode_title">"Scherm aanzetten forceren"</string>
+    <string name="force_screen_in_vibrate_mode_on">"Scherm oplichten in tril modus zelfs wanneer \"Scherm oplichten bij notificatie\" optie is uitgeschakeld"</string>
+    <string name="force_screen_in_vibrate_mode_off">"Uitgeschakeld"</string>
+    <string name="warn_sound_disabled_vibrate_mode">"BlipBlip notificatie geluid uitgeschakeld omdat je apparaat op tril modus staat"</string>
 
     <!-- Status Bar -->
-    <string name="service_disabled_warning">BlipBlip is uitgeschakeld</string>
-    <string name="service_enable">Inschakelen</string>
+    <string name="service_disabled_warning">"BlipBlip is uitgeschakeld"</string>
+    <string name="service_enable">"Inschakelen"</string>
 
     <!-- Menu - Settings -->
-    <string name="action_settings">Instellingen</string>
+    <string name="action_settings">"Instellingen"</string>
 
     <!-- Language -->
-    <string name="app_language">Taal</string>
-    <string name="system_default_language">Systeem standaard</string>
-    <string name="language_improve_translations">Vertalingen toevoegen of verbeteren</string>
+    <string name="app_language">"Taal"</string>
+    <string name="system_default_language">"Systeem standaard"</string>
+    <string name="language_improve_translations">"Vertalingen toevoegen of verbeteren"</string>
 
     <!-- Quiet Hours -->
-    <string name="quiet_hours_title">Stille uren</string>
+    <string name="quiet_hours_title">"Stille uren"</string>
 
     <!-- Quiet Days -->
-    <string name="quiet_days_title">Stille dagen</string>
-    <string name="days_none">Geen</string>
-    <string name="days_everyday">Elke dag</string>
-    <string name="quiet_day_warning">Notificatie uitgeschakeld omdat vandaag een \"stille dag\" is.</string>
-    <string name="toast_change_quiet_days">Verander \"stille dagen\" om BlipBlip te laten werken.</string>
+    <string name="quiet_days_title">"Stille dagen"</string>
+    <string name="days_none">"Geen"</string>
+    <string name="days_everyday">"Elke dag"</string>
+    <string name="quiet_day_warning">"Notificatie uitgeschakeld omdat vandaag een \"stille dag\" is."</string>
+    <string name="toast_change_quiet_days">"Verander \"stille dagen\" om BlipBlip te laten werken."</string>
 
     <!-- While Music -->
-    <string name="while_music">Niet activeren tijdens het afspelen van muziek</string>
-    <string name="while_music_on">Alle notificaties zijn uitgeschakeld</string>
-    <string name="while_music_off">Notificaties zijn ingeschakeld</string>
-    <string name="while_music_toast">Notificaties zijn uitgeschakeld omdat je naar muziek luistert. Je kunt dit veranderen in de instellingen van de applicatie.</string>
+    <string name="while_music">"Niet activeren tijdens het afspelen van muziek"</string>
+    <string name="while_music_on">"Alle notificaties zijn uitgeschakeld"</string>
+    <string name="while_music_off">"Notificaties zijn ingeschakeld"</string>
+    <string name="while_music_toast">"Notificaties zijn uitgeschakeld omdat je naar muziek luistert. Je kunt dit veranderen in de instellingen van de applicatie."</string>
     <!-- While phone call -->
-    <string name="while_phonecall">Niet activeren tijdens een telefoongesprek</string>
-    <string name="while_phonecall_on">Alle notificaties zijn uitgeschakeld</string>
-    <string name="while_phonecall_off">Notificaties zijn ingeschakeld</string>
-    <string name="while_phonecall_toast">Notificaties zijn uitgeschakeld omdat je in een telefoongesprek zit. Je kunt dit veranderen in de instellingen van de applicatie.</string>
+    <string name="while_phonecall">"Niet activeren tijdens een telefoongesprek"</string>
+    <string name="while_phonecall_on">"Alle notificaties zijn uitgeschakeld"</string>
+    <string name="while_phonecall_off">"Notificaties zijn ingeschakeld"</string>
+    <string name="while_phonecall_toast">"Notificaties zijn uitgeschakeld omdat je in een telefoongesprek zit. Je kunt dit veranderen in de instellingen van de applicatie."</string>
 
 
 
     <!-- ADVANCED SETTINGS -->
-    <string name="pref_advanced">Geadvanceerde instellingen</string>
-    <string name="title_advanced_settings">Geadvanceerde instellingen</string>
+    <string name="pref_advanced">"Geadvanceerde instellingen"</string>
+    <string name="title_advanced_settings">"Geadvanceerde instellingen"</string>
 
     <!-- Audio Stream -->
-    <string name="pref_choose_audio_stream">Audio stream</string>
-    <string name="audio_stream_phone_ring">Beltoon</string>
-    <string name="audio_stream_alarm">Alarm</string>
-    <string name="audio_stream_media">Media</string>
-    <string name="audio_stream_notification">Notificatie</string>
+    <string name="pref_choose_audio_stream">"Audio stream"</string> <!-- translated -->
+    <string name="audio_stream_phone_ring">"Beltoon"</string>
+    <string name="audio_stream_alarm">"Alarm"</string> <!-- translated -->
+    <string name="audio_stream_media">"Media"</string> <!-- translated -->
+    <string name="audio_stream_notification">"Notificatie"</string>
 
     <!-- Notifications -->
-    <string name="pref_notification_settings">Notificatie instellingen</string>
-    <string name="pref_notification_status_title">Toon notificatie</string>
+    <string name="pref_notification_settings">"Notificatie instellingen"</string>
+    <string name="pref_notification_status_title">"Toon notificatie"</string>
 
     <!-- Show Notification Always -->
-    <string name="pref_notification_always">Altijd laten zien</string>
-    <string name="pref_notification_always_on">Melding weergeven ongeacht of deze is ingeschakeld</string>
-    <string name="pref_notification_always_off">Melding weergeven alleen als het ingeschakeld is</string>
-    <string name="notification_settings_updated">Notificatie instellingen bijgewerkt</string> <!-- message displayed when one of notification settings is updated without user interacting with these options -->
+    <string name="pref_notification_always">"Altijd laten zien"</string>
+    <string name="pref_notification_always_on">"Melding weergeven ongeacht of deze is ingeschakeld"</string>
+    <string name="pref_notification_always_off">"Melding weergeven alleen als het ingeschakeld is"</string>
+    <string name="notification_settings_updated">"Notificatie instellingen bijgewerkt"</string> <!-- message displayed when one of notification settings is updated without user interacting with these options -->
     <string name="permanent_notification">"Permanent notification"</string> <!-- TODO translate -->
 
     <!-- Notification Priority -->
-    <string name="pref_notification_priority">Notificatie prioriteit</string>
-    <string name="item_priority_minimum">Minimaal</string>
-    <string name="item_priority_low">Laag</string>
-    <string name="item_priority_normal">Normaal</string>
-    <string name="item_priority_high">Hoog</string>
-    <string name="item_priority_maximum">Maximaal</string>
+    <string name="pref_notification_priority">"Notificatie prioriteit"</string>
+    <string name="item_priority_minimum">"Minimaal"</string>
+    <string name="item_priority_low">"Laag"</string>
+    <string name="item_priority_normal">"Normaal"</string>
+    <string name="item_priority_high">"Hoog"</string>
+    <string name="item_priority_maximum">"Maximaal"</string>
 
     <!-- Dismissible Notification -->
 
@@ -183,71 +183,71 @@
     <string name="auto_dismiss_notification_off">"Notification will not be dismissed automatically."</string> <!-- TODO translate -->
 
     <!-- Vibrate on Wear -->
-    <string name="pref_vibrate_wear_title">Trillen op Wear</string>
-    <string name="pref_vibrate_wear_off">Niet trillen op Android Wear</string>
-    <string name="pref_vibrate_wearable_title">Trillen bij verbonden apparaat</string>
-    <string name="pref_vibrate_wearable_on2">Als trillen is ingeschakeld, ook trillen bij aansluiten van een draagbaar apparaat (bijvoorbeeld een smart watch). Vereist systeemmelding toevoegen.</string>
-    <string name="pref_vibrate_wearable_off">Vibreer niet op aangesloten draagbare apparaten</string>
+    <string name="pref_vibrate_wear_title">"Trillen op Wear"</string>
+    <string name="pref_vibrate_wear_off">"Niet trillen op Android Wear"</string>
+    <string name="pref_vibrate_wearable_title">"Trillen bij verbonden apparaat"</string>
+    <string name="pref_vibrate_wearable_on2">"Als trillen is ingeschakeld, ook trillen bij aansluiten van een draagbaar apparaat (bijvoorbeeld een smart watch). Vereist systeemmelding toevoegen."</string>
+    <string name="pref_vibrate_wearable_off">"Vibreer niet op aangesloten draagbare apparaten"</string>
 
     <!-- Action Buttons -->
-    <string name="pref_notification_action_buttons">Actie knoppen</string> <!-- Preference name for choosing which buttons are visible on notification -->
-    <string name="notif_action_stop">Stop</string> <!-- Description of action button. This should refer to notif_action_stop -->
-    <string name="notif_action_disable_or_enable">Inschakelen/uitschakelen</string> <!-- Description of action button. This refers to notif_action_enable and notif_action -->
-    <string name="notif_button_play">Speel af</string> <!-- Action button label in notification having same action as play button in the app - plays the notificaton for testing purposes. This text should be short, because it will be shown on notification button where there can be 3 of them -->
-    <string name="notif_button_stop">Stop</string> <!-- Stops playback of notification. Should be short. -->
-    <string name="notif_button_enable">Inschakelen</string> <!-- This text should be short, because it will be shown on notification button where there can be 3 of them. -->
-    <string name="notif_button_disable">Uitschakelen</string> <!-- This text should be short, because it will be shown on notification button where there can be 3 of them. -->
+    <string name="pref_notification_action_buttons">"Actie knoppen"</string> <!-- Preference name for choosing which buttons are visible on notification -->
+    <string name="notif_action_stop">"Stop"</string> <!-- translated --> <!-- Description of action button. This should refer to notif_action_stop -->
+    <string name="notif_action_disable_or_enable">"Inschakelen/uitschakelen"</string> <!-- Description of action button. This refers to notif_action_enable and notif_action -->
+    <string name="notif_button_play">"Speel af"</string> <!-- Action button label in notification having same action as play button in the app - plays the notificaton for testing purposes. This text should be short, because it will be shown on notification button where there can be 3 of them -->
+    <string name="notif_button_stop">"Stop"</string> <!-- translated --> <!-- Stops playback of notification. Should be short. -->
+    <string name="notif_button_enable">"Inschakelen"</string> <!-- This text should be short, because it will be shown on notification button where there can be 3 of them. -->
+    <string name="notif_button_disable">"Uitschakelen"</string> <!-- This text should be short, because it will be shown on notification button where there can be 3 of them. -->
 
     <!-- Custom Texts -->
-    <string name="pref_custom_texts">Eigen notificatie tekst</string>
-    <string name="pref_notification_title_title">Notificatie titel</string>
-    <string name="pref_notification_description_title">Notificatie beschrijving</string>
+    <string name="pref_custom_texts">"Eigen notificatie tekst"</string>
+    <string name="pref_notification_title_title">"Notificatie titel"</string>
+    <string name="pref_notification_description_title">"Notificatie beschrijving"</string>
 
     <!-- Reliability -->
-    <string name="pref_reliability">Betrouwbaarheid instellingen</string> <!-- title of settings section meant for all settings which may improve running of the app without issues -->
-    <string name="reliability_warning">Wijzigen van deze instellingen kan invloed hebben op de betrouwbaarheid van de app.</string> <!-- This message should be as short as possible. There is risk of cutting it off if it will be too long -->
+    <string name="pref_reliability">"Betrouwbaarheid instellingen"</string> <!-- title of settings section meant for all settings which may improve running of the app without issues -->
+    <string name="reliability_warning">"Wijzigen van deze instellingen kan invloed hebben op de betrouwbaarheid van de app."</string> <!-- This message should be as short as possible. There is risk of cutting it off if it will be too long -->
 
     <!-- Alarm Mode -->
-    <string name="notif_as_alarm_title">Alarm modus</string>
-    <string name="notif_as_alarm_off">Normale notificaties</string>
-    <string name="notif_as_alarm_on">Notificaties als alarmen – lost het 3–5 minuten vertraging van notificaties op op sommige Samsung apparaten</string>
-    <string name="late_notif_title">Alarm modus ingeschakeld</string>
-    <string name="late_notif_message">Er is gedetecteerd dat notificaties vertraagd zijn met een aantal minuten, dit gebeurt op sommige Samsung apparaten. Om dit te voorkomen is de \"Alarm modus\" ingeschakeld, dit zou het probleem moeten oplossen. Je kunt deze optie uitschakelen en automatisch deze optie aanzetten in de Geavanceerde Instellingen. Als er een betere oplossing is om dit probleem op te lossen, zal de applicatie geüpdatet worden. Indien je meer problemen hebt, meld deze via de mail.</string>
+    <string name="notif_as_alarm_title">"Alarm modus"</string>
+    <string name="notif_as_alarm_off">"Normale notificaties"</string>
+    <string name="notif_as_alarm_on">"Notificaties als alarmen – lost het 3–5 minuten vertraging van notificaties op op sommige Samsung apparaten"</string>
+    <string name="late_notif_title">"Alarm modus ingeschakeld"</string>
+    <string name="late_notif_message">"Er is gedetecteerd dat notificaties vertraagd zijn met een aantal minuten, dit gebeurt op sommige Samsung apparaten. Om dit te voorkomen is de \"Alarm modus\" ingeschakeld, dit zou het probleem moeten oplossen. Je kunt deze optie uitschakelen en automatisch deze optie aanzetten in de Geavanceerde Instellingen. Als er een betere oplossing is om dit probleem op te lossen, zal de applicatie geüpdatet worden. Indien je meer problemen hebt, meld deze via de mail."</string>
 
     <!-- Auto Alarm -->
-    <string name="auto_notif_as_alarm_title">Alarm Modus automatisch inschakelen</string>
-    <string name="auto_notif_as_alarm_on">Alarm modus inschakelen als notificatie vertraging is gedetecteerd</string>
-    <string name="auto_notif_as_alarm_off">Alarm modus niet automatisch inschakelen</string>
+    <string name="auto_notif_as_alarm_title">"Alarm Modus automatisch inschakelen"</string>
+    <string name="auto_notif_as_alarm_on">"Alarm modus inschakelen als notificatie vertraging is gedetecteerd"</string>
+    <string name="auto_notif_as_alarm_off">"Alarm modus niet automatisch inschakelen"</string>
 
     <!-- Low Valume -->
-    <string name="pref_low_volume_fix">Laag volume fix</string>
-    <string name="pref_low_volume_fix_on">Lost het probleem op met lage volumes op sommige Motorola apparaten met een oplopende volume functionaliteit. Dit kan een vertraging veroorzaken van een paar seconden.</string>
-    <string name="pref_low_volume_fix_off">Uitgeschakeld, niet nodig voor de meeste apparaten.</string>
+    <string name="pref_low_volume_fix">"Laag volume fix"</string>
+    <string name="pref_low_volume_fix_on">"Lost het probleem op met lage volumes op sommige Motorola apparaten met een oplopende volume functionaliteit. Dit kan een vertraging veroorzaken van een paar seconden."</string>
+    <string name="pref_low_volume_fix_off">"Uitgeschakeld, niet nodig voor de meeste apparaten."</string>
 
     <!-- Foreground Service -->
-    <string name="pref_foreground_service_title">Voorgrond service</string>
-    <string name="pref_foreground_service_on">Laat een niet-verwijderbare notificatie zien en shakelt achtergrond service in die er voor zorgt dat de app niet gesloten kan worden.</string>
-    <string name="pref_foreground_service_off">Voorgrond service is uitgeschakeld.</string>
-    <string name="msg_foreground_service_off">Voorgrond service uitgeschakeld</string> <!-- message displayed when foreground service is disabled without user interacting with this option -->
+    <string name="pref_foreground_service_title">"Voorgrond service"</string>
+    <string name="pref_foreground_service_on">"Laat een niet-verwijderbare notificatie zien en shakelt achtergrond service in die er voor zorgt dat de app niet gesloten kan worden."</string>
+    <string name="pref_foreground_service_off">"Voorgrond service is uitgeschakeld."</string>
+    <string name="msg_foreground_service_off">"Voorgrond service uitgeschakeld"</string> <!-- message displayed when foreground service is disabled without user interacting with this option -->
 
     <!-- Toast Notifications -->
-    <string name="pref_toast_notifications">Toast notificaties</string>
-    <string name="pref_toast_notifications_on">Laat toast notificaties zien</string>
-    <string name="pref_toast_notifications_off">Verberg toast notificaties</string>
+    <string name="pref_toast_notifications">"Toast notificaties"</string>
+    <string name="pref_toast_notifications_on">"Laat toast notificaties zien"</string>
+    <string name="pref_toast_notifications_off">"Verberg toast notificaties"</string>
 
     <!-- Logs -->
-    <string name="debug_logs_title">Debug logs verzamelen</string>
-    <string name="debug_logs_off">Schrijven van logs uitgeschakeld</string>
-    <string name="debug_logs_on">Logs opslaan om een probleem te melden</string>
+    <string name="debug_logs_title">"Debug logs verzamelen"</string>
+    <string name="debug_logs_off">"Schrijven van logs uitgeschakeld"</string>
+    <string name="debug_logs_on">"Logs opslaan om een probleem te melden"</string>
 
     <!-- Beta -->
-    <string name="beta_preference_title">BlipBlip Beta</string>
-    <string name="beta_preference_description">Beta versie aan of uit zetten</string>
+    <string name="beta_preference_title">"BlipBlip Beta"</string> <!-- translated -->
+    <string name="beta_preference_description">"Beta versie aan of uit zetten"</string>
 
     <!-- Experimental Settings -->
-    <string name="pref_experimental">Experimentele instellingen</string>
-    <string name="experimental_warning">Dit zijn experimentele instellingen die in de toekomst verwijderd kunnen worden.</string>
-    <string name="title_experimental_settings">Experimentele instellingen</string>
+    <string name="pref_experimental">"Experimentele instellingen"</string>
+    <string name="experimental_warning">"Dit zijn experimentele instellingen die in de toekomst verwijderd kunnen worden."</string>
+    <string name="title_experimental_settings">"Experimentele instellingen"</string>
     <string name="huawei_fix">"Huawei fix"</string> <!-- TODO translate -->
 
     <!-- Time Offset -->
@@ -257,70 +257,70 @@
     <!-- Inline Attachments -->
 
     <!-- Menu - Share -->
-    <string name="action_share">Deel app</string>
-    <string name="share_chooser_title">Deel de app!</string>
-    <string name="share_title">Bekijk de BlipBlip app!</string>
-    <string name="share_text">Bekijk de BlipBlip Android app</string>
+    <string name="action_share">"Deel app"</string>
+    <string name="share_chooser_title">"Deel de app!"</string>
+    <string name="share_title">"Bekijk de BlipBlip app!"</string>
+    <string name="share_text">"Bekijk de BlipBlip Android app"</string>
 
     <!-- Menu - Rate -->
-    <string name="action_rate">Beoordel ons</string>
-    <string name="rate_us_title">Beoordeel ons!</string>
-    <string name="rate_us_message">Bedankt voor uw tijd om een review achter te laten.</string>
-    <string name="rate_us_onetofourstars">1–4 sterren</string>
-    <string name="rate_us_fivestars">5 sterren!</string>
+    <string name="action_rate">"Beoordel ons"</string>
+    <string name="rate_us_title">"Beoordeel ons!"</string>
+    <string name="rate_us_message">"Bedankt voor uw tijd om een review achter te laten."</string>
+    <string name="rate_us_onetofourstars">"1–4 sterren"</string>
+    <string name="rate_us_fivestars">"5 sterren!"</string>
     <string name="five_stars_description">"Five stars"</string> <!-- TODO translate -->
     <string name="five_stars_title">"Love BlipBlip?"</string> <!-- TODO translate -->
-    <string name="five_stars_text">Rate us 5 stars to help make BlipBlip even more awesome. Thanks!</string>
+    <string name="five_stars_text">"Rate us 5 stars to help make BlipBlip even more awesome. Thanks!"</string>
 
     <!-- Menu - Error -->
-    <string name="action_send_logs">Meld probleem</string>
-    <string name="send_logs_describe">Beschrijf je probleem (bij voorkeur in het Engels):</string>
-    <string name="feedback_dialog_bug_found">Ik heb een bug gevonden (logs bijvoegen)</string>
+    <string name="action_send_logs">"Meld probleem"</string>
+    <string name="send_logs_describe">"Beschrijf je probleem (bij voorkeur in het Engels):"</string>
+    <string name="feedback_dialog_bug_found">"Ik heb een bug gevonden (logs bijvoegen)"</string>
 
     <!-- Menu - Improvement -->
-    <string name="feedback_improvement_title">BlipBlip heeft verbetering nodig</string>
-    <string name="feedback_improvement_message">Vertel ons wat we kunnen doen om de applicatie te verbeteren.</string>
+    <string name="feedback_improvement_title">"BlipBlip heeft verbetering nodig"</string>
+    <string name="feedback_improvement_message">"Vertel ons wat we kunnen doen om de applicatie te verbeteren."</string>
 
     <!-- Menu - About -->
-    <string name="action_about">Over</string>
-    <string name="about_version">Versie:</string>
-    <string name="about_authors">Auteurs</string>
-    <string name="about_coding">Programmeren</string>
-    <string name="about_testing">Testen</string>
-    <string name="about_graphics">Grafisch</string>
-    <string name="about_translations">Vertalingen</string>
-    <string name="about_thank_you">Bedankt</string>
+    <string name="action_about">"Over"</string>
+    <string name="about_version">"Versie:"</string>
+    <string name="about_authors">"Auteurs"</string>
+    <string name="about_coding">"Programmeren"</string>
+    <string name="about_testing">"Testen"</string>
+    <string name="about_graphics">"Grafisch"</string>
+    <string name="about_translations">"Vertalingen"</string>
+    <string name="about_thank_you">"Bedankt"</string>
     <string name="about_images">"Images"</string> <!-- TODO translate -->
-    <string name="about_libraries">Libraries</string> <!-- title of screen showing licenses of programming libraries used by the app -->
-    <string name="about_acknowledgements">Dankwoord</string> <!-- name of screen with authors, translators and other people who have helped -->
+    <string name="about_libraries">"Libraries"</string> <!-- translated --> <!-- title of screen showing licenses of programming libraries used by the app -->
+    <string name="about_acknowledgements">"Dankwoord"</string> <!-- name of screen with authors, translators and other people who have helped -->
     <string name="about_translators_thank_you">"BlipBlip is translated by our users voluntarily and hereby we thank you for your support and contribution."</string> <!-- TODO translate -->
 
     <!-- Visual -->
-    <string name="pref_visual">Uiterlijk instellingen</string>
-    <string name="title_visual_settings">Uiterlijk instellingen</string>
+    <string name="pref_visual">"Uiterlijk instellingen"</string>
+    <string name="title_visual_settings">"Uiterlijk instellingen"</string>
 
     <!-- Unsorted -->
-    <string name="warn_notification_skip">Sommige notificaties worden overgeslagen.</string> <!-- Please make this as short as possible. This warning is displayed when user chooses to skip few upcoming notifications. -->
-    <string name="warn_volume_zero">Huidig volume is ingesteld op nul.</string> <!-- Please make this as short as possible. This warning is displayed when current system volume is set to 0. -->
-    <string name="pref_low_mem_restart_title">Opnieuw opstarten met weinig geheugen</string>
-    <string name="pref_low_mem_restart_on">Probeer de app opnieuw op te starten als het geheugen van het apparaat te laag is. Dit werkt niet op alle apparaten. Het is niet nodig op de meeste apparaten (kan een beetje meer batterij gebruiken).</string>
-    <string name="pref_low_mem_restart_off">Probeer de app niet opnieuw op te starten als het geheugen van het apparaat te laag is.</string>
-    <string name="pref_heading_notification_accuracy">Meldingsnauwkeurigheid</string> <!-- punctuality -->
-    <string name="pref_delay_prevention_title">Voorkom vertragingen</string>
-    <string name="pref_delay_prevention_on">Probeer actief meldingsvertragingen te voorkomen die op sommige apparaten kunnen optreden. Kan meer batterij gebruiken.</string>
-    <string name="pref_delay_prevention_off">Probeer niet om meldingsvertragingen te voorkomen die op sommige apparaten kunnen optreden. Gebruikt minder batterij.</string>
-    <string name="pref_aggressive_delay_prevention_title">Voorkom vertragingen op een agressieve manier</string>
-    <string name="pref_aggressive_delay_prevention_on">Meldingen moeten vaker kloppen. Kan meer batterij gebruiken.</string>
-    <string name="pref_aggressive_delay_prevention_off">Meldingen kunnen in zeldzame gevallen te laat zijn. Gebruikt minder batterij.</string>
-    <string name="pref_ignore_delayed_title">Negeer vertraagde meldingen</string>
-    <string name="pref_ignore_delayed_on">Als de melding als vertraagd wordt beschouwd, wordt deze niet getoond of gespeeld.</string>
-    <string name="pref_ignore_delayed_off">Meldingen worden getoond of gespeeld, zelfs als ze worden vertraagd.</string>
-    <string name="pref_audio_focus_title">Audio focus</string> <!-- option to improve ability to hear app sounds by decreasing volume of other apps or pausing them -->
-    <string name="pref_audio_focus_on">Terwijl de app geluid afspeelt, wordt de audio van andere apps stiller of gepauzeerd.</string>
-    <string name="pref_audio_focus_off">Audio van andere apps wordt normaal afgespeeld.</string>
-    <string name="pref_audio_focus_dont_duck_title">Pauzeer het afspelen</string>
-    <string name="pref_audio_focus_dont_duck_on">Terwijl de app geluid speelt, kunnen andere apps hun audio pauzeren.</string>
-    <string name="pref_audio_focus_dont_duck_off">Terwijl de app geluid speelt, kunnen andere apps het volume van hun audio verlagen.</string>
+    <string name="warn_notification_skip">"Sommige notificaties worden overgeslagen."</string> <!-- Please make this as short as possible. This warning is displayed when user chooses to skip few upcoming notifications. -->
+    <string name="warn_volume_zero">"Huidig volume is ingesteld op nul."</string> <!-- Please make this as short as possible. This warning is displayed when current system volume is set to 0. -->
+    <string name="pref_low_mem_restart_title">"Opnieuw opstarten met weinig geheugen"</string>
+    <string name="pref_low_mem_restart_on">"Probeer de app opnieuw op te starten als het geheugen van het apparaat te laag is. Dit werkt niet op alle apparaten. Het is niet nodig op de meeste apparaten (kan een beetje meer batterij gebruiken)."</string>
+    <string name="pref_low_mem_restart_off">"Probeer de app niet opnieuw op te starten als het geheugen van het apparaat te laag is."</string>
+    <string name="pref_heading_notification_accuracy">"Meldingsnauwkeurigheid"</string> <!-- punctuality -->
+    <string name="pref_delay_prevention_title">"Voorkom vertragingen"</string>
+    <string name="pref_delay_prevention_on">"Probeer actief meldingsvertragingen te voorkomen die op sommige apparaten kunnen optreden. Kan meer batterij gebruiken."</string>
+    <string name="pref_delay_prevention_off">"Probeer niet om meldingsvertragingen te voorkomen die op sommige apparaten kunnen optreden. Gebruikt minder batterij."</string>
+    <string name="pref_aggressive_delay_prevention_title">"Voorkom vertragingen op een agressieve manier"</string>
+    <string name="pref_aggressive_delay_prevention_on">"Meldingen moeten vaker kloppen. Kan meer batterij gebruiken."</string>
+    <string name="pref_aggressive_delay_prevention_off">"Meldingen kunnen in zeldzame gevallen te laat zijn. Gebruikt minder batterij."</string>
+    <string name="pref_ignore_delayed_title">"Negeer vertraagde meldingen"</string>
+    <string name="pref_ignore_delayed_on">"Als de melding als vertraagd wordt beschouwd, wordt deze niet getoond of gespeeld."</string>
+    <string name="pref_ignore_delayed_off">"Meldingen worden getoond of gespeeld, zelfs als ze worden vertraagd."</string>
+    <string name="pref_audio_focus_title">"Audio focus"</string> <!-- translated --> <!-- option to improve ability to hear app sounds by decreasing volume of other apps or pausing them -->
+    <string name="pref_audio_focus_on">"Terwijl de app geluid afspeelt, wordt de audio van andere apps stiller of gepauzeerd."</string>
+    <string name="pref_audio_focus_off">"Audio van andere apps wordt normaal afgespeeld."</string>
+    <string name="pref_audio_focus_dont_duck_title">"Pauzeer het afspelen"</string>
+    <string name="pref_audio_focus_dont_duck_on">"Terwijl de app geluid speelt, kunnen andere apps hun audio pauzeren."</string>
+    <string name="pref_audio_focus_dont_duck_off">"Terwijl de app geluid speelt, kunnen andere apps het volume van hun audio verlagen."</string>
 
     <!-- Plurals -->
     <!-- check which quantities and how should be used for given language here http://www.unicode.org/cldr/charts/29/supplemental/language_plural_rules.html -->
@@ -343,233 +343,233 @@
         <item quantity="other">%d keren</item>
     </plurals>
 
-    <string name="pref_reset_accuracy_params">Herstel parameters</string>
-    <string name="pref_reset_accuracy_params_desc">Herstel interne parameters die de nauwkeurigheid van meldingen verbeteren.</string>
-    <string name="warn_foreground_service_disabled">Voorgrondservice instelling is uitgeschakeld. Dit kan de kans vergroten dat het achtergrondproces wordt gestopt en de app stopt met werken.</string>
+    <string name="pref_reset_accuracy_params">"Herstel parameters"</string>
+    <string name="pref_reset_accuracy_params_desc">"Herstel interne parameters die de nauwkeurigheid van meldingen verbeteren."</string>
+    <string name="warn_foreground_service_disabled">"Voorgrondservice instelling is uitgeschakeld. Dit kan de kans vergroten dat het achtergrondproces wordt gestopt en de app stopt met werken."</string>
 
     <!-- Airplane mode -->
-    <string name="pref_airplane_mode">Vliegtuig modus</string>
-    <string name="while_airplane_toast">BlipBlip-meldingen zijn nu uitgeschakeld, omdat je in de vliegtuigmodus bent.</string>
+    <string name="pref_airplane_mode">"Vliegtuig modus"</string>
+    <string name="while_airplane_toast">"BlipBlip-meldingen zijn nu uitgeschakeld, omdat je in de vliegtuigmodus bent."</string>
 
-    <string name="setting_system_default">System standaard</string>
-    <string name="pref_time_format_title">Tijd formaat</string>
-    <string name="time_format_12h">12 uur klok</string>
-    <string name="time_format_24h">24 uur klok</string>
+    <string name="setting_system_default">"System standaard"</string>
+    <string name="pref_time_format_title">"Tijd formaat"</string>
+    <string name="time_format_12h">"12 uur klok"</string>
+    <string name="time_format_24h">"24 uur klok"</string>
 
-    <string name="theme_blipblip">BlipBlip</string>
-    <string name="theme_standard">Standaard</string>
-    <string name="theme_blue">Blauw</string>
-    <string name="theme_yellow">Geel</string>
-    <string name="theme_purple">Paars</string>
-    <string name="theme_red">Rood</string>
-    <string name="theme_green">Groen</string>
-    <string name="theme_blue_gray">Blauw grijs</string>
-    <string name="theme_orange">Oranje</string>
-    <string name="theme_indigo">Indigo</string>
-    <string name="theme_cyan">Cyaan</string>
-    <string name="theme_teal">Teal</string>
+    <string name="theme_blipblip">"BlipBlip"</string> <!-- translated -->
+    <string name="theme_standard">"Standaard"</string>
+    <string name="theme_blue">"Blauw"</string>
+    <string name="theme_yellow">"Geel"</string>
+    <string name="theme_purple">"Paars"</string>
+    <string name="theme_red">"Rood"</string>
+    <string name="theme_green">"Groen"</string>
+    <string name="theme_blue_gray">"Blauw grijs"</string>
+    <string name="theme_orange">"Oranje"</string>
+    <string name="theme_indigo">"Indigo"</string> <!-- translated -->
+    <string name="theme_cyan">"Cyaan"</string>
+    <string name="theme_teal">"Teal"</string> <!-- translated -->
 
-    <string name="pref_color_theme">Thema</string>
-    <string name="cycle_themes_message">Schakel thema\'s met behulp van de volumeknoppen</string>
-    <string name="cycle_themes_finish">Ok</string>
-    <string name="cycle_themes">Doorloop thema\'s</string>
-    <string name="cycle_themes_description">Laat toe om van thema te wisselen met behulp van de volumeknoppen</string>
-    <string name="color_next_notification_bar">Kleur volgende meldingsbalk</string>
-    <string name="color_next_notification_bar_on">Gebruik de achtergrondkleur voor de volgende meldingenbalk.</string>
-    <string name="color_next_notification_bar_off">Gebruik grijze kleur voor de volgende meldingenbalk.</string>
+    <string name="pref_color_theme">"Thema"</string>
+    <string name="cycle_themes_message">"Schakel thema\'s met behulp van de volumeknoppen"</string>
+    <string name="cycle_themes_finish">"Ok"</string>
+    <string name="cycle_themes">"Doorloop thema\'s"</string>
+    <string name="cycle_themes_description">"Laat toe om van thema te wisselen met behulp van de volumeknoppen"</string>
+    <string name="color_next_notification_bar">"Kleur volgende meldingsbalk"</string>
+    <string name="color_next_notification_bar_on">"Gebruik de achtergrondkleur voor de volgende meldingenbalk."</string>
+    <string name="color_next_notification_bar_off">"Gebruik grijze kleur voor de volgende meldingenbalk."</string>
     <string name="night_mode">"Night mode"</string> <!-- TODO translate -->
     <string name="night_mode_on">"On"</string> <!-- TODO translate -->
     <string name="night_mode_off">"Off"</string> <!-- TODO translate -->
     <string name="night_mode_auto">"Auto"</string> <!-- TODO translate -->
     <string name="night_mode_system">"System setting"</string> <!-- TODO translate -->
 
-    <string name="title_activity_sounds">Geluiden</string>
+    <string name="title_activity_sounds">"Geluiden"</string>
     <string name="title_activity_sound">@string/sound_text</string> <!-- TODO translate ""@string/sound_text""-->
-    <string name="title_activity_vibrations">Trillingen</string>
+    <string name="title_activity_vibrations">"Trillingen"</string>
     <string name="title_activity_vibration">@string/vibrate</string> <!-- TODO translate ""@string/vibrate""-->
-    <string name="action_delete">Verwijderen</string>
-    <string name="action_add_vibration_pattern">Item toevoegen</string>
-    <string name="dialog_title_deletion">Bevestig verwijdering</string>
-    <string name="dialog_message_confirm">Weet je het zeker?</string>
-    <string name="vibration_name">Trilling naam</string>
-    <string name="action_restore_defaults">Herstel standaardinstellingen</string> <!-- e.g. for sounds or vibrations -->
-    <string name="restore_defaults_message2">Wilt u de standaardinstellingen herstellen?</string>
-    <string name="add_vibration">Trilling toevoegen</string>
-    <string name="edit">Bewerken</string> <!-- Name of action to edit list of sounds or list of vibrations, should be short -->
-    <string name="editing">Bewerken</string> <!-- Displayed in edit mode -->
-    <string name="error_file_open_failed">Bestand openen mislukt</string>
+    <string name="action_delete">"Verwijderen"</string>
+    <string name="action_add_vibration_pattern">"Item toevoegen"</string>
+    <string name="dialog_title_deletion">"Bevestig verwijdering"</string>
+    <string name="dialog_message_confirm">"Weet je het zeker?"</string>
+    <string name="vibration_name">"Trilling naam"</string>
+    <string name="action_restore_defaults">"Herstel standaardinstellingen"</string> <!-- e.g. for sounds or vibrations -->
+    <string name="restore_defaults_message2">"Wilt u de standaardinstellingen herstellen?"</string>
+    <string name="add_vibration">"Trilling toevoegen"</string>
+    <string name="edit">"Bewerken"</string> <!-- Name of action to edit list of sounds or list of vibrations, should be short -->
+    <string name="editing">"Bewerken"</string> <!-- Displayed in edit mode -->
+    <string name="error_file_open_failed">"Bestand openen mislukt"</string>
     <string name="error_file_open_no_permission">"No permission to open the file."</string> <!-- TODO translate -->
     <string name="error_file_open_failed_no_permission_title">"Grant permission manually"</string> <!-- TODO translate -->
     <string name="error_file_open_failed_no_permission">"No permission to open the file. Please open Settings and give permission to access storage."</string> <!-- TODO translate -->
     <string name="error_file_open_failed_settings">"Open Settings"</string> <!-- TODO translate -->
-    <string name="play_vibration">Trillen</string> <!-- description of action of a button to perform vibration -->
-    <string name="play_sound">Geluid afspelen</string> <!-- description of action of a button to play sound -->
-    <string name="drag_handle">Drag handle</string>
-    <string name="select_audio_file">Selecteer Audio</string>
-    <string name="add_sound_to_blipblip">Toevoegen aan BlipBlip</string>
-    <string name="permission_denied">Geen toestemming</string>
-    <string name="permission_denied_message_no_addon">BlipBlip heeft geen toestemming om het bestand te lezen.</string>
+    <string name="play_vibration">"Trillen"</string> <!-- description of action of a button to perform vibration -->
+    <string name="play_sound">"Geluid afspelen"</string> <!-- description of action of a button to play sound -->
+    <string name="drag_handle">"Drag handle"</string> <!-- translated -->
+    <string name="select_audio_file">"Selecteer Audio"</string>
+    <string name="add_sound_to_blipblip">"Toevoegen aan BlipBlip"</string>
+    <string name="permission_denied">"Geen toestemming"</string>
+    <string name="permission_denied_message_no_addon">"BlipBlip heeft geen toestemming om het bestand te lezen."</string>
     <string name="permission_denied_message_no_addon_part2">"Gebruik alstublieft een andere app die het bestand deelt zonder dat hiervoor extra toestemming nodig is (bijvoorbeeld Google Drive)."</string>
     <string name="permission_denied_rationale_title">"Permission needed"</string> <!-- TODO translate -->
     <string name="permission_denied_rationale">"Application does not have permission to read the file. Please grant the app permission to access the file. You can also share the file using other app which does not need using this permission."</string> <!-- TODO translate -->
 
     <!-- Menu drawer strings -->
 
-    <string name="more_actions">Meer acties</string>
-    <string name="start_time">Start tijd</string>
-    <string name="end_time">Stop time</string>
-    <string name="whole_day">Hele dag</string>
-    <string name="enable_screen">Scherm inschakelen</string>
-    <string name="action_rename">Hernoem</string>
-    <string name="pref_accessibility">Toegankelijkheid</string>
-    <string name="pref_swipe">Vegen</string>
-    <string name="pref_swipe_on">Vegen ingeschakeld op lijst items</string>
-    <string name="pref_swipe_off">vegen uitgeschakeld op lijst items</string>
-    <string name="pref_action_menus">Actie menus</string>
-    <string name="pref_action_menus_on">Toon menu\'s met acties die anders gebaren zouden vereisen (bijvoorbeeld vegen). Handig bij het gebruik van TalkBack.</string>
-    <string name="pref_action_menus_off">Verberg menu\'s met acties die ook kunnen worden uitgevoerd met behulp van bewegingen.</string>
-    <string name="next_notification">Volgende notificatie: %1$s</string>
-    <string name="next_tomorrow">morgen at %1$s</string> <!-- e.g. tomorrow at 10:00 -->
-    <string name="next_on_mon">Maandag om %1$s</string>
-    <string name="next_on_tue">Dinsdag om %1$s</string>
-    <string name="next_on_wed">Woensdag om %1$s</string>
-    <string name="next_on_thu">Donderdag om %1$s</string>
-    <string name="next_on_fri">Vrijdag om %1$s</string>
-    <string name="next_on_sat">Zaterdag om %1$s</string>
-    <string name="next_on_sun">Zondag om %1$s</string>
-    <string name="never">nooit</string> <!-- if notification will never occur-->
-    <string name="show_seconds_title">Seconden tonen</string>
-    <string name="show_seconds_on">Het kiezen van seconden is ingeschakeld. Geeft tijden met seconden weer.</string>
-    <string name="show_seconds_off">Het kiezen van seconden is uitgeschakeld. Tijden weergeven zonder seconden.</string>
-    <string name="notification_disabled_warning">Notificatie is uitgeschakeld</string>
-    <string name="social_facebook">Facebook</string>
-    <string name="social_twitter">Twitter</string>
-    <string name="social_google_plus">Google+</string>
-    <string name="social_google_plus_community">Google+ Community</string>
-    <string name="troubleshooting">Probleem oplossing</string>
-    <string name="premium_features">Premium features</string>
-    <string name="disable_when_headset">Uitschakelen wanneer headset is aangesloten</string>
-    <string name="disable_when_headset_on">Alle meldingen zijn uitgeschakeld</string>
-    <string name="disable_when_headset_off">Alle meldingen zijn ingeschakeld</string>
-    <string name="disable_when_headset_toast">BlipBlip-meldingen zijn nu uitgeschakeld omdat je een headset hebt aangesloten.</string>
+    <string name="more_actions">"Meer acties"</string>
+    <string name="start_time">"Start tijd"</string>
+    <string name="end_time">"Stop time"</string>
+    <string name="whole_day">"Hele dag"</string>
+    <string name="enable_screen">"Scherm inschakelen"</string>
+    <string name="action_rename">"Hernoem"</string>
+    <string name="pref_accessibility">"Toegankelijkheid"</string>
+    <string name="pref_swipe">"Vegen"</string>
+    <string name="pref_swipe_on">"Vegen ingeschakeld op lijst items"</string>
+    <string name="pref_swipe_off">"vegen uitgeschakeld op lijst items"</string>
+    <string name="pref_action_menus">"Actie menus"</string>
+    <string name="pref_action_menus_on">"Toon menu\'s met acties die anders gebaren zouden vereisen (bijvoorbeeld vegen). Handig bij het gebruik van TalkBack."</string>
+    <string name="pref_action_menus_off">"Verberg menu\'s met acties die ook kunnen worden uitgevoerd met behulp van bewegingen."</string>
+    <string name="next_notification">"Volgende notificatie: %1$s"</string>
+    <string name="next_tomorrow">"morgen at %1$s"</string> <!-- e.g. tomorrow at 10:00 -->
+    <string name="next_on_mon">"Maandag om %1$s"</string>
+    <string name="next_on_tue">"Dinsdag om %1$s"</string>
+    <string name="next_on_wed">"Woensdag om %1$s"</string>
+    <string name="next_on_thu">"Donderdag om %1$s"</string>
+    <string name="next_on_fri">"Vrijdag om %1$s"</string>
+    <string name="next_on_sat">"Zaterdag om %1$s"</string>
+    <string name="next_on_sun">"Zondag om %1$s"</string>
+    <string name="never">"nooit"</string> <!-- if notification will never occur-->
+    <string name="show_seconds_title">"Seconden tonen"</string>
+    <string name="show_seconds_on">"Het kiezen van seconden is ingeschakeld. Geeft tijden met seconden weer."</string>
+    <string name="show_seconds_off">"Het kiezen van seconden is uitgeschakeld. Tijden weergeven zonder seconden."</string>
+    <string name="notification_disabled_warning">"Notificatie is uitgeschakeld"</string>
+    <string name="social_facebook">"Facebook"</string> <!-- translated -->
+    <string name="social_twitter">"Twitter"</string> <!-- translated -->
+    <string name="social_google_plus">"Google+"</string> <!-- translated -->
+    <string name="social_google_plus_community">"Google+ Community"</string> <!-- translated -->
+    <string name="troubleshooting">"Probleem oplossing"</string>
+    <string name="premium_features">"Premium features"</string> <!-- translated -->
+    <string name="disable_when_headset">"Uitschakelen wanneer headset is aangesloten"</string>
+    <string name="disable_when_headset_on">"Alle meldingen zijn uitgeschakeld"</string>
+    <string name="disable_when_headset_off">"Alle meldingen zijn ingeschakeld"</string>
+    <string name="disable_when_headset_toast">"BlipBlip-meldingen zijn nu uitgeschakeld omdat je een headset hebt aangesloten."</string>
 
     <string name="add">"Add"</string> <!-- TODO translate -->
-    <string name="add_item">Item toevoegen</string>
-    <string name="action_add_condition">Voorwaarde toevoegen</string>
-    <string name="dialog_title_days_of_week">Dagen van week</string>
-    <string name="dialog_title_date">Datum</string>
-    <string name="start_date">Start datum</string>
-    <string name="end_date">Eind datum</string>
-    <string name="dialog_title_time">Tijd</string>
-    <string name="dialog_title_time_range">Tijdspan</string>
-    <string name="dialog_title_repeat">Herhaal elke</string>
-    <string name="interval">Interval</string>
-    <string name="no_repeat">Niet herhalen</string>
-    <string name="action_add_action">Notificatie toevoegen</string>
-    <string name="favorite_condition_dialog_edit">Bewerken</string>
-    <string name="favorite_condition_dialog_create">Aanmaken</string>
-    <string name="system_notification">Systeem notificatie</string>
-    <string name="popup_text">Popup text</string>
-    <string name="no_actions_added">Geen acties toegevoegd</string>
-    <string name="section_conditions">Voorwaarden</string>
-    <string name="no_valid_condition_added">Geen geldige voorwaarden gedefinieerd</string>
-    <string name="no_upcoming_notifications">Geen komende meldingen</string>
-    <string name="error_indicator">Error indicator</string>
+    <string name="add_item">"Item toevoegen"</string>
+    <string name="action_add_condition">"Voorwaarde toevoegen"</string>
+    <string name="dialog_title_days_of_week">"Dagen van week"</string>
+    <string name="dialog_title_date">"Datum"</string>
+    <string name="start_date">"Start datum"</string>
+    <string name="end_date">"Eind datum"</string>
+    <string name="dialog_title_time">"Tijd"</string>
+    <string name="dialog_title_time_range">"Tijdspan"</string>
+    <string name="dialog_title_repeat">"Herhaal elke"</string>
+    <string name="interval">"Interval"</string> <!-- translated -->
+    <string name="no_repeat">"Niet herhalen"</string>
+    <string name="action_add_action">"Notificatie toevoegen"</string>
+    <string name="favorite_condition_dialog_edit">"Bewerken"</string>
+    <string name="favorite_condition_dialog_create">"Aanmaken"</string>
+    <string name="system_notification">"Systeem notificatie"</string>
+    <string name="popup_text">"Popup text"</string> <!-- translated -->
+    <string name="no_actions_added">"Geen acties toegevoegd"</string>
+    <string name="section_conditions">"Voorwaarden"</string>
+    <string name="no_valid_condition_added">"Geen geldige voorwaarden gedefinieerd"</string>
+    <string name="no_upcoming_notifications">"Geen komende meldingen"</string>
+    <string name="error_indicator">"Error indicator"</string> <!-- translated -->
     <string name="next_notification_app_off">"Off (app disabled)"</string> <!-- TODO translate -->
-    <string name="next_day">volgende dag</string> <!-- Used in: "22:00 - 6:00 next day" -->
-    <string name="notifications">Notificaties</string>
-    <string name="warning_no_email_app">Geen e-mailapplicatie gevonden om het rapport te verzenden.</string>
-    <string name="weeknights">Doordeweeks</string> <!-- nights from sunday to thursday -->
-    <string name="weekend_nights">Weekend</string> <!-- nights on friday and saturday -->
-    <string name="weekend">Weekend</string> <!-- saturday and sunday -->
+    <string name="next_day">"volgende dag"</string> <!-- Used in: "22:00 - 6:00 next day" -->
+    <string name="notifications">"Notificaties"</string>
+    <string name="warning_no_email_app">"Geen e-mailapplicatie gevonden om het rapport te verzenden."</string>
+    <string name="weeknights">"Doordeweeks"</string> <!-- nights from sunday to thursday -->
+    <string name="weekend_nights">"Weekend"</string> <!-- nights on friday and saturday -->
+    <string name="weekend">"Weekend"</string> <!-- translated --> <!-- saturday and sunday -->
 
-    <string name="vibration_silence_millis">Stilteduur in milliseconden</string>
-    <string name="vibration_duration_millis">Trillingsduur in milliseconden</string>
+    <string name="vibration_silence_millis">"Stilteduur in milliseconden"</string>
+    <string name="vibration_duration_millis">"Trillingsduur in milliseconden"</string>
 
-    <string name="advice_disable_task_killers">Task killers uitschakelen</string>
-    <string name="advice_disable_task_killers_desc">moeten worden uitgeschakeld of BlipBlip moet worden toegevoegd aan hun whitelist om de app in leven te houden.</string>
-    <string name="advice_enable_foreground_service">Schakel voorgrond service in</string>
-    <string name="advice_enable_foreground_service_desc2">De service-optie op de voorgrond informeert OS dat de toepassing indien mogelijk niet gestopt moet worden.</string>
+    <string name="advice_disable_task_killers">"Task killers uitschakelen"</string>
+    <string name="advice_disable_task_killers_desc">"moeten worden uitgeschakeld of BlipBlip moet worden toegevoegd aan hun whitelist om de app in leven te houden."</string>
+    <string name="advice_enable_foreground_service">"Schakel voorgrond service in"</string>
+    <string name="advice_enable_foreground_service_desc2">"De service-optie op de voorgrond informeert OS dat de toepassing indien mogelijk niet gestopt moet worden."</string>
     <string name="advice_enable_foreground_service_desc2_part2">"Het toont een blijvende melding die kan worden verborgen voor systeeminstellingen (als u deze verbergt vanuit de app, wordt deze optie uitgeschakeld)."</string>
     <string name="advice_enable_foreground_service_desc2_part3">"Je kunt de onderstaande knop gebruiken om toegang te krijgen tot de systeeminstellingen"</string>
 
-    <string name="sound_in_use">Geluid is in gebruik en kan niet worden verwijderd.</string>
-    <string name="vibration_in_use">Trillen is in gebruik en kan niet worden verwijderd.</string>
-    <string name="sound_not_found">Niet gevonden</string> <!-- for sound -->
-    <string name="vibration_not_found">Niet gevonden</string> <!-- for vibration -->
+    <string name="sound_in_use">"Geluid is in gebruik en kan niet worden verwijderd."</string>
+    <string name="vibration_in_use">"Trillen is in gebruik en kan niet worden verwijderd."</string>
+    <string name="sound_not_found">"Niet gevonden"</string> <!-- for sound -->
+    <string name="vibration_not_found">"Niet gevonden"</string> <!-- for vibration -->
 
-    <string name="section_actions">Actioes</string>
-    <string name="section_notifications">Notificaties</string>
-    <string name="notification_name">Notificatie</string>
+    <string name="section_actions">"Actioes"</string>
+    <string name="section_notifications">"Notificaties"</string>
+    <string name="notification_name">"Notificatie"</string>
 
-    <string name="play">Afspelen</string>
+    <string name="play">"Afspelen"</string>
 
-    <string name="cannot_perform_operation">Kan deze bewerking nu niet uitvoeren. Probeer het later opnieuw.</string>
+    <string name="cannot_perform_operation">"Kan deze bewerking nu niet uitvoeren. Probeer het later opnieuw."</string>
 
-    <string name="add_to_favorites">Toevoegen aan favorieten</string>
-    <string name="open_favorites">Open favorieten</string>
+    <string name="add_to_favorites">"Toevoegen aan favorieten"</string>
+    <string name="open_favorites">"Open favorieten"</string>
 
-    <string name="unnamed_sound">Naamloos</string>
-    <string name="unnamed_vibration">Naamloos</string>
+    <string name="unnamed_sound">"Naamloos"</string>
+    <string name="unnamed_vibration">"Naamloos"</string>
 
-    <string name="value_deleted">Verwijderd \"%1$s\"</string> <!-- showed when one of list items is deleted and displays the value of the item -->
-    <string name="action_undo">Ongedaan maken</string> <!-- action name to undo deletion e.g. from a list -->
-    <string name="condition_deleted">Voorwaarde verwijderd.</string>
-    <string name="notification_deleted">Notificatie verwijderd.</string>
-    <string name="action_deleted">Actie verwijderd.</string>
+    <string name="value_deleted">"Verwijderd \"%1$s\"</string> <!-- showed when one of list items is deleted and displays the value of the item -->
+    <string name="action_undo">"Ongedaan maken"</string> <!-- action name to undo deletion e.g. from a list -->
+    <string name="condition_deleted">"Voorwaarde verwijderd."</string>
+    <string name="notification_deleted">"Notificatie verwijderd."</string>
+    <string name="action_deleted">"Actie verwijderd."</string>
 
-    <string name="inclusive_time">inclusief</string> <!-- used in the time range dialog to determine if edge value should be included -->
+    <string name="inclusive_time">"inclusief"</string> <!-- used in the time range dialog to determine if edge value should be included -->
 
-    <string name="pref_user_notifications">Gebruiker notificaties</string>
+    <string name="pref_user_notifications">"Gebruiker notificaties"</string>
     <string name="user_notification">"User notification"</string> <!-- TODO translate -->
 
-    <string name="action_set_as_home_screens">Instellen als startscherm</string>
+    <string name="action_set_as_home_screens">"Instellen als startscherm"</string>
 
-    <string name="pref_battery_saver_mode">Batterij bespaar modus</string>
-    <string name="mode_sound_title">Sta geluid toe</string>
-    <string name="mode_sound_on">Geluiden zijn toegestaan in deze modus</string>
-    <string name="mode_sound_off">Geluiden uitgeschakeld in deze modus</string>
-    <string name="mode_vibration_title">Trillingen toestaan</string>
-    <string name="mode_vibration_on">Trillingen toegestaan in deze modus</string>
-    <string name="mode_vibration_off">Trillingen niet toestaan in deze modus</string>
-    <string name="mode_screen_title">Scherm inschakelen toegestaan</string>
-    <string name="mode_screen_on">Scherm kan in deze modus worden ingeschakeld</string>
-    <string name="mode_screen_off">Scherm wordt niet ingeschakeld in deze modus</string>
-    <string name="battery_saver_preferences_warning">Deze opties werken mogelijk niet op alle apparaten.</string>
-    <string name="mode_sound_toast">Geluid is uitgeschakeld omdat de volgende modus actief is: %1$s</string>
+    <string name="pref_battery_saver_mode">"Batterij bespaar modus"</string>
+    <string name="mode_sound_title">"Sta geluid toe"</string>
+    <string name="mode_sound_on">"Geluiden zijn toegestaan in deze modus"</string>
+    <string name="mode_sound_off">"Geluiden uitgeschakeld in deze modus"</string>
+    <string name="mode_vibration_title">"Trillingen toestaan"</string>
+    <string name="mode_vibration_on">"Trillingen toegestaan in deze modus"</string>
+    <string name="mode_vibration_off">"Trillingen niet toestaan in deze modus"</string>
+    <string name="mode_screen_title">"Scherm inschakelen toegestaan"</string>
+    <string name="mode_screen_on">"Scherm kan in deze modus worden ingeschakeld"</string>
+    <string name="mode_screen_off">"Scherm wordt niet ingeschakeld in deze modus"</string>
+    <string name="battery_saver_preferences_warning">"Deze opties werken mogelijk niet op alle apparaten."</string>
+    <string name="mode_sound_toast">"Geluid is uitgeschakeld omdat de volgende modus actief is: %1$s"</string>
 
-    <string name="pref_accessibility_settings_title">Schakel toegankelijkheidsservice in</string>
-    <string name="pref_accessibility_settings_summary">Opent de toegankelijkheidsinstellingen van het systeem, waar u de app kunt inschakelen als toegankelijkheidsservice</string>
-    <string name="accessibility_service_description">Deze service helpt om de app te laten werken. Het heeft geen toegang tot enige gegevens of enige inhoud te wijzigen. Het is gewoon een bescherming tegen geheugenbeheerders die de app kunnen doden. Als u geen problemen ondervindt met de app, hoeft u dit niet te activeren.</string>
-    <string name="accessibility_service_summary">Helpt de app levend te houden. Heeft geen toegang tot gegevens.</string>
+    <string name="pref_accessibility_settings_title">"Schakel toegankelijkheidsservice in"</string>
+    <string name="pref_accessibility_settings_summary">"Opent de toegankelijkheidsinstellingen van het systeem, waar u de app kunt inschakelen als toegankelijkheidsservice"</string>
+    <string name="accessibility_service_description">"Deze service helpt om de app te laten werken. Het heeft geen toegang tot enige gegevens of enige inhoud te wijzigen. Het is gewoon een bescherming tegen geheugenbeheerders die de app kunnen doden. Als u geen problemen ondervindt met de app, hoeft u dit niet te activeren."</string>
+    <string name="accessibility_service_summary">"Helpt de app levend te houden. Heeft geen toegang tot gegevens."</string>
 
-    <string name="swipe_right_to_delete">Veeg naar rechts om items te verwijderen</string>
+    <string name="swipe_right_to_delete">"Veeg naar rechts om items te verwijderen"</string>
 
-    <string name="action_repeat_sound">Herhaal geluid</string>
-    <string name="action_repeat_vibration">Herhaal trilling</string>
-    <string name="action_repeat_sound_vibration">Herhaal geluid en trilling</string>
-    <string name="action_strike_the_hour">Sla het uur</string>
+    <string name="action_repeat_sound">"Herhaal geluid"</string>
+    <string name="action_repeat_vibration">"Herhaal trilling"</string>
+    <string name="action_repeat_sound_vibration">"Herhaal geluid en trilling"</string>
+    <string name="action_strike_the_hour">"Sla het uur"</string>
 
-    <string name="pref_do_not_disturb_mode">Niet storen</string>
-    <string name="do_not_disturb_total_silence">Totale stilte</string>
-    <string name="do_not_disturb_alarms_only">Alleen alarmen</string>
-    <string name="do_not_disturb_priority_only">Alleen prioriteit</string>
+    <string name="pref_do_not_disturb_mode">"Niet storen"</string>
+    <string name="do_not_disturb_total_silence">"Totale stilte"</string>
+    <string name="do_not_disturb_alarms_only">"Alleen alarmen"</string>
+    <string name="do_not_disturb_priority_only">"Alleen prioriteit"</string>
 
-    <string name="hide_notification_title">Verberg notificaties</string>
-    <string name="hide_notification_summary">Open systeeminstellingen om de melding te verbergen. Dit is een aanbevolen manier om een melding te verbergen, omdat hiermee de app op de voorgrond kan werken.</string>
+    <string name="hide_notification_title">"Verberg notificaties"</string>
+    <string name="hide_notification_summary">"Open systeeminstellingen om de melding te verbergen. Dit is een aanbevolen manier om een melding te verbergen, omdat hiermee de app op de voorgrond kan werken."</string>
 
     <!-- Text to speech -->
-    <string name="action_say_text">Vertel tekst</string>
-    <string name="action_say_time">Vertel tijd</string>
-    <string name="feature_say_text">Vertel tekst</string>
-    <string name="feature_say_time">Vertel tijd</string>
+    <string name="action_say_text">"Vertel tekst"</string>
+    <string name="action_say_time">"Vertel tijd"</string>
+    <string name="feature_say_text">"Vertel tekst"</string>
+    <string name="feature_say_time">"Vertel tijd"</string>
     <string name="pref_text_to_speech_engine">"Engine"</string> <!-- TODO translate -->
     <string name="pref_text_to_speech_voice">"Voice"</string> <!-- TODO translate -->
-    <string name="pref_text_to_speech">Tekst naar spraak</string>
+    <string name="pref_text_to_speech">"Tekst naar spraak"</string>
     <string name="system_default_audio_stream">@string/setting_system_default</string> <!-- TODO translate ""@string/setting_system_default""-->
-    <string name="application_default">Applicatie standaard</string>
-    <string name="speak_time_format_with_minutes">Vertel tijd met minuten</string>
-    <string name="speak_time_on_the_hour">Vertel tijd met uren</string>
+    <string name="application_default">"Applicatie standaard"</string>
+    <string name="speak_time_format_with_minutes">"Vertel tijd met minuten"</string>
+    <string name="speak_time_on_the_hour">"Vertel tijd met uren"</string>
     <string name="tts_not_initialized">"Text to speech engine is not yet initialized"</string> <!-- TODO translate -->
     <string name="tts_test_say_time_title">"Test saying time"</string> <!-- TODO translate -->
     <string name="tts_system_settings_title">"System settings"</string> <!-- TODO translate -->
@@ -578,29 +578,29 @@
     <string name="pref_tts_overlaps_sounds_on">"Speaking will overlap sounds"</string> <!-- TODO translate -->
     <string name="pref_tts_overlaps_sounds_off">"Speaking will not overlap sounds (sound will play before or after speaking)"</string> <!-- TODO translate -->
 
-    <string name="operating_modes_settings">Uitvoer modus</string> <!-- name of menu with different mode settings e.g. Do Not Disturb, vibrate mode -->
-    <string name="operating_modes_settings_summary">Niet storen, trillen modus, etc.</string>
-    <string name="time_settings">Tijd</string>
-    <string name="sound_settings">Geluid</string>
+    <string name="operating_modes_settings">"Uitvoer modus"</string> <!-- name of menu with different mode settings e.g. Do Not Disturb, vibrate mode -->
+    <string name="operating_modes_settings_summary">"Niet storen, trillen modus, etc."</string>
+    <string name="time_settings">"Tijd"</string>
+    <string name="sound_settings">"Geluid"</string>
 
-    <string name="free_resources_title">Gratis bronnen</string>
+    <string name="free_resources_title">"Gratis bronnen"</string>
 
-    <string name="error_failed_to_open_file">Bestand openen mislukt</string>
-    <string name="error_corrupted_sound">Het geluid is beschadigd</string>
+    <string name="error_failed_to_open_file">"Bestand openen mislukt"</string>
+    <string name="error_corrupted_sound">"Het geluid is beschadigd"</string>
 
     <!-- premium -->
-    <string name="dialog_no_thanks">Nee, bedankt</string> <!-- should be short -->
-    <string name="feature_custom_sounds">Aangepaste geluiden</string>
-    <string name="feature_multiple_notifications">Meerdere meldingen</string>
-    <string name="feature_custom_reapeat">Aangepaste herhalingsinterval</string>
-    <string name="feature_premium_sounds">Premium geluiden</string>
-    <string name="feature_strike_the_hour">Sla het uur</string>
-    <string name="premium_get_plus">Krijg alle huidige functies</string> <!-- should be short -->
-    <string name="premium_get_sounds">Krijg alle geluiden in de app</string> <!-- should be short -->
-    <string name="premium_get_plus_sounds">Krijg alle huidige functies en geluiden</string> <!-- should be short -->
-    <string name="premium_sound_lock">Dit is premium geluid dat voor gebruik moet worden ontgrendeld.</string>
-    <string name="premium_feature_lock">Dit is een premium-functie die vóór gebruik moet worden ontgrendeld.</string>
-    <string name="change_subscription">Abonnement wijzigen</string>
+    <string name="dialog_no_thanks">"Nee, bedankt"</string> <!-- should be short -->
+    <string name="feature_custom_sounds">"Aangepaste geluiden"</string>
+    <string name="feature_multiple_notifications">"Meerdere meldingen"</string>
+    <string name="feature_custom_reapeat">"Aangepaste herhalingsinterval"</string>
+    <string name="feature_premium_sounds">"Premium geluiden"</string>
+    <string name="feature_strike_the_hour">"Sla het uur"</string>
+    <string name="premium_get_plus">"Krijg alle huidige functies"</string> <!-- should be short -->
+    <string name="premium_get_sounds">"Krijg alle geluiden in de app"</string> <!-- should be short -->
+    <string name="premium_get_plus_sounds">"Krijg alle huidige functies en geluiden"</string> <!-- should be short -->
+    <string name="premium_sound_lock">"Dit is premium geluid dat voor gebruik moet worden ontgrendeld."</string>
+    <string name="premium_feature_lock">"Dit is een premium-functie die vóór gebruik moet worden ontgrendeld."</string>
+    <string name="change_subscription">"Abonnement wijzigen"</string>
     <string name="upgrade_to_pro">"Upgrade"</string> <!-- TODO translate -->
     <string name="loading_failed">"Error"</string> <!-- TODO translate -->
     <string name="month_very_short">"mo."</string> <!-- TODO translate --> <!-- shortcut for word "month", singular -->
@@ -656,8 +656,8 @@
     <string name="feature_unlimited_silent_time_title">"Unlimited silent time configuratipons is a Premium feature"</string> <!-- TODO translate -->
     <string name="feature_unlimited_silent_time_description">"In free version you can activate 5 silent time configurations."</string> <!-- TODO translate -->
 
-    <string name="vibrate_seconds">Tril %ss</string> <!-- s at the end is for seconds, %s will be replaced by value e.g. "Vibrate 1.2s" -->
-    <string name="wait_and_vibrate_seconds">Wacht %1$ss, tril %2$ss</string> <!-- s at the end is for seconds, "%1$s" and "%2$s" will be replaced by value e.g. "Vibrate 1.2s" -->
+    <string name="vibrate_seconds">"Tril %ss"</string> <!-- s at the end is for seconds, %s will be replaced by value e.g. "Vibrate 1.2s" -->
+    <string name="wait_and_vibrate_seconds">"Wacht %1$ss, tril %2$ss"</string> <!-- s at the end is for seconds, "%1$s" and "%2$s" will be replaced by value e.g. "Vibrate 1.2s" -->
 
     <!-- button descriptions -->
     <string name="add_new_sound">"Add new sound from external app"</string> <!-- TODO translate -->
@@ -729,7 +729,7 @@
     <string name="tip15_settings">"NeoSafe app &gt; Permission &gt; Power-on speedup &gt; Enable BlipBlip"</string> <!-- TODO translate -->
 
     <!-- UI Settings -->
-    <string name="pref_user_interface">Gebruikersinterface</string>
+    <string name="pref_user_interface">"Gebruikersinterface"</string>
     <!-- edit button -->
     <string name="edit_button_title">"Edit button"</string> <!-- TODO translate -->
     <string name="edit_button_on">"Show edit button"</string> <!-- TODO translate -->
@@ -741,13 +741,13 @@
     <string name="show_changelog_on">"Show recent changes on startup."</string> <!-- TODO translate -->
     <string name="show_changelog_off">"Do not show recent changes on startup."</string> <!-- TODO translate -->
     <!-- inclusive -->
-    <string name="show_inclusive_title">Wijzig tijdbereik eindigen</string>
-    <string name="show_inclusive_on">Wanneer je het tijdbereik opgeeft, geef knoppen weer die toelaten om te specificeren of de opgegeven tijd in het tijdbereik moet worden opgenomen.</string>
-    <string name="show_inclusive_off">Verberg knoppen waarmee u kunt kiezen of tijd moet worden opgenomen in het tijdbereik.</string>
+    <string name="show_inclusive_title">"Wijzig tijdbereik eindigen"</string>
+    <string name="show_inclusive_on">"Wanneer je het tijdbereik opgeeft, geef knoppen weer die toelaten om te specificeren of de opgegeven tijd in het tijdbereik moet worden opgenomen."</string>
+    <string name="show_inclusive_off">"Verberg knoppen waarmee u kunt kiezen of tijd moet worden opgenomen in het tijdbereik."</string>
     <!-- show switches -->
-    <string name="show_actions_switches_title">Acties wisselen</string> <!-- option to show enable/disable switches for actions -->
-    <string name="show_actions_switches_on">Toon schakelaars voor uitschakel acties.</string>
-    <string name="show_actions_switches_off">Verberg schakelaars voor uitschakel acties.</string>
+    <string name="show_actions_switches_title">"Acties wisselen"</string> <!-- option to show enable/disable switches for actions -->
+    <string name="show_actions_switches_on">"Toon schakelaars voor uitschakel acties."</string>
+    <string name="show_actions_switches_off">"Verberg schakelaars voor uitschakel acties."</string>
     <!-- Show kill dialog -->
     <string name="show_kill_dialog_title">"Notify if app was killed"</string> <!-- TODO translate -->
     <string name="show_kill_dialog_on">"Display message when opening the app if it was detected that the app was killed."</string> <!-- TODO translate -->
