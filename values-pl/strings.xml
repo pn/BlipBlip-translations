@@ -153,7 +153,9 @@
     <string name="pref_choose_audio_stream">"Strumień dźwięku"</string>
     <string name="audio_stream_phone_ring">"Dzwonek telefonu"</string>
     <string name="audio_stream_alarm">"Budzik"</string>
+    <string name="audio_stream_alarm2">"Budzik"</string>
     <string name="audio_stream_media">"Muzyka"</string>
+    <string name="audio_stream_media2">"Muzyka, Filmy, Gry"</string>
     <string name="audio_stream_notification">"Powiadomienia"</string>
 
     <!-- Notifications -->
@@ -247,12 +249,6 @@
     <string name="experimental_warning">"To są ustawienia eksperymentalne i mogą zostać w przyszłości usunięte."</string>
     <string name="title_experimental_settings">"Ustawienia eksperymentalne"</string>
     <string name="huawei_fix">"Poprawka Huawei"</string>
-
-    <!-- Time Offset -->
-
-    <!-- Random -->
-
-    <!-- Inline Attachments -->
 
     <!-- Menu - Share -->
     <string name="action_share">"Podziel się aplikacją"</string>
@@ -432,7 +428,7 @@
     <string name="pref_swipe_off">"Gesty wyłączone dla elementów list"</string>
     <string name="pref_action_menus">"Menu z akcjami"</string>
     <string name="pref_action_menus_on">"Pokaż menu z akcjami, które normalnie wymagałyby użycia gestów (np. przesuwania palcem). Przydatne wraz z TalkBack."</string>
-    <string name="pref_action_menus_off">"Ukryj menu z akcjami, które mogą być wykonane używając gestów."</string>
+    <string name="pref_action_menus_off">"Ukryj menu zawierające akcje, które można wykonywać za pomocą gestów."</string>
     <string name="next_notification">"Następne powiadomienie: %1$s"</string>
     <string name="next_tomorrow">"jutro o %1$s"</string> <!-- e.g. tomorrow at 10:00 -->
     <string name="next_on_mon">"poniedziałek o %1$s"</string>
@@ -532,7 +528,7 @@
 
     <string name="pref_battery_saver_mode">"Tryb oszczędzania baterii"</string>
     <string name="mode_sound_title">"Zezwalaj na dźwięki"</string>
-    <string name="mode_sound_on">"Dżwięki są dozwolone w tym trybie"</string>
+    <string name="mode_sound_on">"Dźwięki są dozwolone w tym trybie"</string>
     <string name="mode_sound_off">"Dźwięki zostaną wyłączone w tym trybie"</string>
     <string name="mode_vibration_title">"Zezwalaj na wibracje"</string>
     <string name="mode_vibration_on">"Wibracje są dozwolone w tym trybie"</string>
@@ -572,14 +568,14 @@
     <string name="pref_text_to_speech_voice">"Głos"</string>
     <string name="pref_text_to_speech">"Synteza mowy"</string>
     <string name="system_default_audio_stream">"Domyślny systemowy"</string>
-    <string name="application_default">"Wartość domyślna aplikacji"</string>
+    <string name="application_default">"Wartość domyślna"</string>
     <string name="speak_time_format_with_minutes">"Wypowiadany czas z minutami"</string>
     <string name="speak_time_on_the_hour">"Wypowiadany czas o pełnej godzinie"</string>
     <string name="tts_not_initialized">"Silnik syntezy mowy nie jest jeszcze zainicjalizowany"</string>
     <string name="tts_test_say_time_title">"Testuj mówienie czasu"</string>
     <string name="tts_system_settings_title">"Ustawienia systemowe"</string>
-    <string name="tts_system_settings_summary">"Otwórzy ustawienia systemowe syntezy mowy"</string>
-    <string name="pref_tts_overlaps_sounds">"Mowa naraz z dźwiękami"</string>
+    <string name="tts_system_settings_summary">"Otwórz systemowe ustawienia zamiany tekstu na mowę"</string>
+    <string name="pref_tts_overlaps_sounds">"Nakładanie się głosu i dźwięku"</string>
     <string name="pref_tts_overlaps_sounds_on">"Mowa będzie odtwarzana razem z dźwiękami"</string>
     <string name="pref_tts_overlaps_sounds_off">"Mowa nie będzie odtwarzana razem z dźwiękami (dźwięk będzie odtworzony przed lub po mowie)"</string>
 
@@ -608,7 +604,7 @@
     <string name="change_subscription">"Zmień subskrypcję"</string>
     <string name="upgrade_to_pro">"Aktualizuj"</string>
     <string name="loading_failed">"Błąd"</string>
-    <string name="month_very_short">"mies."</string> <!-- shortcut for word "month", singular -->
+    <string name="month_very_short">"miesiąc"</string>
     <string name="discount_save_money">"Oszczędź"</string> <!-- percent saved will be displayed below this text -->
     <string name="premium_settings">"Aktualizuj do Premium by odblokować wszytkie opcje"</string>
     <string name="buy_premium">"Kup Premium"</string>
@@ -658,7 +654,7 @@
     <string name="feature_general_description">"Uaktualnij, aby włączyć powiadomienia i korzystać ze wszystkich funkcji Premium."</string>
     <string name="feature_multiple_active_notifications_title">"Nieograniczone aktywne powiadomienia to funkcja Premium"</string>
     <string name="feature_multiple_active_notifications_description">"Korzystaj z wielu powiadomień z różnymi ustawieniami w tym samym czasie (np. Graj dwukrotnie o 12:00, graj raz o 12:30). W bezpłatnej wersji możesz mieć jedno aktywne powiadomienie."</string>
-    <string name="feature_unlimited_silent_time_title">"Nieograniczona konfiguracja czasu cichego to funkcja Premium"</string>
+    <string name="feature_unlimited_silent_time_title">"Nieograniczone konfiguracje czasu cichego to funkcja Premium"</string>
     <string name="feature_unlimited_silent_time_description">"W wersji darmowej możesz aktywować 5 konfiguracji czasu ciszy."</string>
 
     <string name="vibrate_seconds">"Wibruj %ss"</string> <!-- s at the end is for seconds, %s will be replaced by value e.g. "Vibrate 1.2s" -->
@@ -761,12 +757,12 @@
     <!-- examples -->
     <string name="double_sound_every_hour">"Podwójny dźwięk co godzinę"</string>
     <string name="single_sound_half_past">"Dźwięk pół godziny po każdej godzinie"</string>
-    <string name="speak_time_every_hour">"Mów czas co godzinę"</string>
+    <string name="speak_time_every_hour">"Mów co godzinę aktualny czas"</string>
 
     <!-- ads -->
     <string name="remove_ads">"Usuń reklamy"</string>
     <string name="channel_name_watch_ads">"Oglądaj reklamy"</string>
-    <string name="channel_name_premium_end_description">"Będziesz powiadamiany kiedy należy obejrzeć reklamę, żeby cieszyć się funkcjami Premium za darmo"</string>
+    <string name="channel_name_premium_end_description">"Otrzymasz powiadomienie, gdy będziesz potrzebować oglądać reklamę, aby bezpłatnie korzystać ze wszystkich funkcji Premium"</string>
 
     <string name="watch_ads">"Oglądaj reklamy"</string>
     <string name="watch_video">"Obejrzyj reklamę wideo"</string>
@@ -776,55 +772,55 @@
     <string name="welcome_to_blipBlip">"Witaj w BlipBlip!"</string>
     <string name="blipblip_free_description_short">"Ta aplikacja jest bezpłatna w zamian za oglądanie reklam."</string>
     <string name="blipblip_free_description">"Ta aplikacja jest bezpłatna w zamian za oglądanie reklam. Masz dostęp do wszystkich funkcji Premium oraz dźwięków przez określony czas od obejrzenia reklamy. Im więcej oglądasz tym dłużej możesz używać aplikacji."</string>
-    <string name="blipblip_free_description2">"W interfejsie użytkownika nie ma reklam. Nie ma też reklam wyskakujących nieoczekiwanie. Ty zawsze wybierasz kiedy chcesz obejrzeć reklamę."</string>
+    <string name="blipblip_free_description2">"Brak reklam w interfejsie użytkownika. Nie ma niespodziewanie pojawiających się reklam. Zawsze wybierasz, kiedy chcesz oglądać reklamę."</string>
     <string name="watch_ad">"Obejrzyj reklamę"</string>
     <string name="ad">"Reklama"</string> <!-- Short label of button for watching ads -->
     <string name="accept_privacy_policy">"Akceptuję politykę prywatności."</string>
-    <string name="get_blipblip">"Chcesz darmową aplikację bez reklam oraz bez funkcji Premium? Pobierz ją tutaj."</string>
+    <string name="get_blipblip">"Chcesz darmową aplikację bez reklam i bez funkcji Premium? Naciśnij tutaj."</string>
     <string name="privacy_policy">"Polityka prywatności."</string>
     <string name="get_time_of_premium">"Otrzymaj %1$s Premium"</string>
-    <string name="get_time_of_premium_more">"Obejrzyj reklamę, żeby używać aplikacji przez dodatkowe %s."</string>
-    <string name="premium_time_left">"Pozostało Ci %s używania aplikacji."</string>
+    <string name="get_time_of_premium_more">"Wyświetl reklamę, aby korzystać z aplikacji przez dodatkowy czas: %s"</string>
+    <string name="premium_time_left">"Pozostały czas na korzystanie z aplikacji: %s"</string>
     <string name="app_was_enabled">"Aplikacja została uruchomiona!"</string>
-    <string name="failed_loading_ad">"Nieudało się załadować reklamy. Sprawdź połączenie z internetem i spróbuj ponownie.."</string>
+    <string name="failed_loading_ad">"Nie udało się załadować reklamy. Sprawdź połączenie z internetem i spróbuj ponownie.."</string>
     <string name="continue_with_ads">"Kontynuuj z reklamami"</string>
     <string name="continue_with_relevant_question">"Czy możemy wykorzystać Twoje dane, aby dopasować reklamy do Ciebie?"</string>
-    <string name="continue_with_relevant_ads">"Tak, Kontynuuj z trafnymi reklamami"</string>
+    <string name="continue_with_relevant_ads">"Tak, kontynuuj z trafnymi reklamami"</string>
     <string name="continue_with_less_relevant_ads">"Nie, kontynuuj z mniej trafnymi reklamami"</string>
-    <string name="watch_ads_to_get_next_notification">"Oglądaj reklamy by otrzymać następne powiadomienie"</string>
-    <string name="watch_ad_to_enable_app">"Obejrzyj reklamę by włączyć aplikację"</string>
+    <string name="watch_ads_to_get_next_notification">"Zobacz reklamy, aby uzyskać następne powiadomienie"</string>
+    <string name="watch_ad_to_enable_app">"Wyświetl reklamę, aby włączyć aplikację"</string>
     <string name="popup_watch_more_ads_to_get_notification">"Zobacz więcej reklam, by otrzymać to powiadomienie"</string>
 
     <!-- ads notifications -->
     <string name="notif_premium_ended">"Aplikacja wyłączona"</string>
-    <string name="notif_premium_ended_description">"Obejrzyj reklamę by włączyć ją ponownie,"</string>
+    <string name="notif_premium_ended_description">"Obejrzyj reklamę, aby włączyć ją ponownie,"</string>
     <string name="notif_stop_warn">"Następne powiadomienie nie będzie odtworzone"</string>
-    <string name="notif_stop_warn_description">"Obejrzyj reklamę, aby przedłużyć okres używania aplikacji"</string>
+    <string name="notif_stop_warn_description">"Obejrzyj reklamę, aby wydłużyć czas korzystania z aplikacji"</string>
 
     <!-- ads settings -->
     <string name="ads_notifications">"Potrzeba obejrzenia reklamy"</string>
-    <string name="ads_notifications_on">"Będziesz otrzymywać powiadomienia o potrzebie oglądania reklam"</string>
-    <string name="ads_notifications_off">"Nie będziesz otrzymywać żadnych powiadomień zachęcających do oglądania reklam"</string>
+    <string name="ads_notifications_on">"Otrzymasz powiadomienia o konieczności wyświetlania reklam"</string>
+    <string name="ads_notifications_off">"Nie będziesz otrzymywać żadnych powiadomień o konieczności wyświetlania reklam"</string>
     <string name="ads_warn_app_disabled">"Wyłączenie aplikacji"</string>
     <string name="ads_warn_app_disabled_on">"Powiadom kiedy aplikacja zostanie wyłączona z powodu nie obejrzenia wystarczającej ilości reklam"</string>
-    <string name="ads_warn_app_disabled_off">"Nie powiadamiaj kiedy aplikacja zostanie wyłączona z powodu nie obejrzenia wystarczającej ilości reklam"</string>
+    <string name="ads_warn_app_disabled_off">"Nie informuj, kiedy aplikacja zostanie wyłączona, ponieważ nie obejrzano wystarczającej liczby reklam"</string>
     <string name="ads_warn_next_notification">"Następne powiadomienie"</string>
-    <string name="ads_warn_next_notification_on">"Powiadom kiedy następne powiadomienie nie będzie odtworzone z powodu nie obejrzenia wystarczającej ilości reklam"</string>
-    <string name="ads_warn_next_notification_off">"Nie powiadamiaj kiedy następne powiadomienie nie będzie odtworzone z powodu nie obejrzenia wystarczającej ilości reklam"</string>
+    <string name="ads_warn_next_notification_on">"Powiadom, gdy następne powiadomienie nie zostanie odtworzone, ponieważ nie obejrzano wystarczającej liczby reklam"</string>
+    <string name="ads_warn_next_notification_off">"Nie powiadamiaj, gdy nie będzie odtwarzane następne powiadomienie, ponieważ nie obejrzano wystarczającej liczby reklam"</string>
 
     <!-- Privacy settings -->
     <string name="privacy">"Prywatność"</string>
     <string name="ads">"Reklamy"</string>
-    <string name="pref_personalized_ads">"Personalizuj reklamy"</string>
+    <string name="pref_personalized_ads">"Spersonalizowane reklamy"</string>
     <string name="pref_personalized_ads_on">"Reklamy będą spersonalizowane."</string>
     <string name="pref_personalized_ads_off">"Twoje dane nie będą użyte do personalizowania reklam."</string>
     <string name="pref_analytics">"Analityka"</string>
-    <string name="pref_collect_analytics">"Zbieranie anonimowych danych"</string>
-    <string name="pref_collect_analytics_on">"Zbieraj anonimowe, zagregowane dane w celu ulepszania aplikacji."</string>
+    <string name="pref_collect_analytics">"Zbieraj anonimowe dane"</string>
+    <string name="pref_collect_analytics_on">"Zbieraj anonimowe, zagregowane dane, aby pomóc ulepszać aplikację."</string>
     <string name="pref_collect_analytics_off">"Nie zbieraj żadnych danych.."</string>
-    <string name="pref_analytics_anonymize_ip">"Anonimizuj lokację"</string>
+    <string name="pref_analytics_anonymize_ip">"Anonimizuj lokalizację"</string>
     <string name="pref_analytics_anonymize_ip_on">"Anonimizuj adres IP wysyłany w celu określenia lokalizacji użytkownika."</string>
-    <string name="pref_analytics_anonymize_ip_off">"Użyj pełnego adresu IP, tylko aby określić ogólną lokalizację użytkownika (kraj, miasto)."</string>
+    <string name="pref_analytics_anonymize_ip_off">"Używaj pełnego adresu IP tylko do określenia ogólnej lokalizacji użytkownika (kraju, miasta)."</string>
 
     <!-- install BlipBlip free -->
     <string name="dialog_free_premium_title">"Chcesz Premium za darmo?"</string>
@@ -834,8 +830,8 @@
     <string name="maybe_later">"Może później"</string>
 
     <!-- tooltips -->
-    <string name="tooltip_play_next_button">"Naciśnij, aby odtworzyć następne powiadomienie"</string>
-    <string name="tooltip_upcoming_notifications">"Naciśnij, aby zobaczyć nadchodzące powiadomienia"</string>
+    <string name="tooltip_play_next_button">"Odtwórz następne powiadomienie"</string>
+    <string name="tooltip_upcoming_notifications">"Zobacz i odtwórz nadchodzące powiadomienia"</string>
     <string name="tooltip_upcoming_notification">"Naciśnij czas, aby odtworzyć nadchodzące powiadomienia"</string>
 
 </resources>
