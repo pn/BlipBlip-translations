@@ -264,7 +264,7 @@
     <string name="rate_us_fivestars">"¡5 estrellas!"</string>
     <string name="five_stars_description">"Five stars"</string> <!-- TODO translate -->
     <string name="five_stars_title">"Love BlipBlip?"</string> <!-- TODO translate -->
-    <string name="five_stars_text">"Rate us 5 stars to help make BlipBlip even more awesome. Thanks!"</string>
+    <string name="five_stars_text">"Rate us 5 stars to help make BlipBlip even more awesome. Thanks!"</string> <!-- TODO translate -->
 
     <!-- Menu - Error -->
     <string name="action_send_logs">"Reporta un problema"</string>
