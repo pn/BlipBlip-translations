@@ -1,0 +1,829 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Buttons -->
+    <string name="change_setting">"Změna"</string> <!-- TODO validate "Change" -->
+    <string name="send">"Poslat"</string> <!-- TODO validate "Send" -->
+    <string name="send_email_description">"Poslat e-mailem…"</string> <!-- TODO validate "Send email…" -->
+    <string name="play_button_description">"Otestujte nastavení"</string> <!-- TODO validate "Test your settings" -->
+
+    <!-- Warnings -->
+    <string name="warning">"Varování"</string> <!-- TODO validate "Warning" -->
+    <string name="warning_understood">"Mám to"</string> <!-- TODO validate "Got it" -->
+    <string name="please_wait">"Prosím, čekejte…"</string> <!-- TODO validate "Please wait…" -->
+    <string name="warn_power_saving">"Pro zajištění spolehlivého provozu deaktivujte všechny režimy úspory energie."</string> <!-- TODO validate "To ensure reliable operation please disable all power saving modes." --> <!-- Please make this as short as possible -->
+    <string name="allow_while_idle_title">"Povolit v režimu nízké spotřeby"</string> <!-- TODO validate "Allow in low power mode" -->
+    <string name="allow_while_idle_off">"Když telefon přejde do režimu nízké spotřeby, mohou být některé oznámení vynechány."</string> <!-- TODO validate "When phone enters low power mode some notifications may be skipped." -->
+    <string name="allow_while_idle_on">"Povolit práci v režimu s nízkou spotřebou energie (dávka / nečinnost). Nemusí vždy pracovat pro oznámení častěji než 15 minut. Nastavení může mírně ovlivnit používání baterie."</string> <!-- TODO validate "Allow to work in low power (Doze/Idle) mode. May not always work for notifications more frequent than 15 minutes. Setting may slightly affect battery usage." -->
+    <string name="app_killed_title">"Aplikace byla zabita"</string> <!-- TODO validate "App was killed" -->
+
+    <!-- Next Notification -->
+    <string name="next_notification_off">"Vypnuto"</string> <!-- TODO validate "Off" -->
+    <string name="upcoming_notifications">"Připravované oznámení"</string> <!-- TODO validate "Upcoming notifications" -->
+    <string name="day_today">"Dnes"</string> <!-- TODO validate "Today" -->
+    <string name="day_tomorrow">"Zítra"</string> <!-- TODO validate "Tomorrow" -->
+    <string name="day_monday">"pondělí"</string> <!-- TODO validate "Monday" -->
+    <string name="day_tuesday">"úterý"</string> <!-- TODO validate "Tuesday" -->
+    <string name="day_wednesday">"středa"</string> <!-- TODO validate "Wednesday" -->
+    <string name="day_thursday">"Čtvrtek"</string> <!-- TODO validate "Thursday" -->
+    <string name="day_friday">"pátek"</string> <!-- TODO validate "Friday" -->
+    <string name="day_saturday">"sobota"</string> <!-- TODO validate "Saturday" -->
+    <string name="day_sunday">"Neděle"</string> <!-- TODO validate "Sunday" -->
+    <string name="preview_upcoming_notifications">"Zobrazení náhledů na další oznámení"</string> <!-- TODO validate "Preview upcoming notifications" -->
+    <string name="disable_premium_notifications">"Zakázat upozornění Premium"</string> <!-- TODO validate "Disable Premium notifications" -->
+
+    <!-- Sound -->
+    <string name="sound_text">"Zvuk"</string> <!-- TODO validate "Sound" -->
+    <string name="sound_blipblip">"BlipBlip"</string> <!-- TODO validate "BlipBlip" -->
+    <string name="sound_casio_watch">"Casio hodinky"</string> <!-- TODO validate "Casio watch" -->
+    <string name="sound_casio_watch_single">"Casio hodinky (samostatné)"</string> <!-- TODO validate "Casio watch (single)" -->
+    <string name="sound_gong">"Gong"</string> <!-- TODO validate "Gong" -->
+    <string name="sound_ships_bell">"Loď zvon"</string> <!-- TODO validate "Ship's bell" -->
+    <string name="sound_double_ships_bell">"Dvojitý lodní zvon"</string> <!-- TODO validate "Double ship's bell" -->
+    <string name="sound_cuckoo">"Kukačka"</string> <!-- TODO validate "Cuckoo" -->
+    <string name="sound_watch_beep">"Sledujte pípnutí"</string> <!-- TODO validate "Watch beep" -->
+    <string name="sound_big_ben">"Big Ben"</string> <!-- TODO validate "Big Ben" -->
+    <string name="sound_big_ben_strikes">"Big Ben Strikes"</string> <!-- TODO validate "Big Ben Strikes" -->
+    <string name="sound_bubble">"Bublina"</string> <!-- TODO validate "Bubble" -->
+    <string name="sound_bird">"Bird %1$s"</string> <!-- TODO validate "Bird %1$s" -->
+    <string name="sound_cartoon">"Cartoon %1$s"</string> <!-- TODO validate "Cartoon %1$s" -->
+    <string name="sound_cat">"Cat %1$s"</string> <!-- TODO validate "Cat %1$s" -->
+    <string name="sound_dog">"Pes %1$s"</string> <!-- TODO validate "Dog %1$s" -->
+    <string name="sound_rooster">"Kohout"</string> <!-- TODO validate "Rooster" -->
+    <string name="sound_guitar_strum">"Kytarová struma %1$s"</string> <!-- TODO validate "Guitar strum %1$s" -->
+    <string name="sound_water_drop">"Kapka vody %1$s"</string> <!-- TODO validate "Water drop %1$s" -->
+    <string name="sound_water_pouring">"Vylévání vody %1$s"</string> <!-- TODO validate "Water pouring %1$s" -->
+    <string name="sound_sonar_ping">"Sonar ping %1$s"</string> <!-- TODO validate "Sonar ping %1$s" -->
+    <string name="sound_inception">"Počátek %1$s"</string> <!-- TODO validate "Inception %1$s" -->
+    <string name="sound_the_pips">"Pipy"</string> <!-- TODO validate "The pips" -->
+    <string name="sound_short_pip">"Krátký pip"</string> <!-- TODO validate "Short pip" -->
+    <string name="sound_long_pip">"Dlouhý pip"</string> <!-- TODO validate "Long pip" -->
+    <string name="sound_crystal_glass">"Křišťálové sklo"</string> <!-- TODO validate "Crystal glass" -->
+    <string name="sound_ping">"Ping"</string> <!-- TODO validate "Ping" -->
+    <string name="sound_gong_num">"Gong %1$s"</string> <!-- TODO validate "Gong %1$s" -->
+    <string name="sound_boxing_bell">"Boxerský zvon"</string> <!-- TODO validate "Boxing bell" -->
+    <string name="sound_singing_bowl">"Zpívající mísa %1$s"</string> <!-- TODO validate "Singing bowl %1$s" -->
+    <string name="sound_ekg">"Srdcový monitor %1$s"</string> <!-- TODO validate "Heart monitor %1$s" -->
+    <string name="sound_got_item">"Máte položku"</string> <!-- TODO validate "Got item" -->
+    <string name="sound_guitar">"Kytara"</string> <!-- TODO validate "Guitar" -->
+
+    <!-- Volume -->
+    <string name="text_seek_volume">"Hlasitost"</string> <!-- TODO validate "Sound volume" -->
+
+    <!-- Vibration -->
+    <string name="vibrate">"Vibrace"</string> <!-- TODO validate "Vibration" -->
+    <string name="vibration_blipblip">"Pro BlipBlip"</string> <!-- TODO validate "For BlipBlip" -->
+    <string name="vibration_casio_watch">"Pro hodinky Casio"</string> <!-- TODO validate "For Casio watch" -->
+    <string name="vibration_single_short">"Jeden krátký"</string> <!-- TODO validate "Single short" -->
+    <string name="vibration_double_short">"Dvojitý krátký"</string> <!-- TODO validate "Double short" -->
+    <string name="vibration_single_long">"Jeden dlouhý"</string> <!-- TODO validate "Single long" -->
+    <string name="vibration_double_long">"Dlouho dlouho"</string> <!-- TODO validate "Double long" -->
+
+    <!-- Silent Mode -->
+    <string name="pref_silent_mode">"Tichý mód"</string> <!-- TODO validate "Silent Mode" -->
+    <string name="title_silent_mode_settings">"Nastavení tichého režimu"</string> <!-- TODO validate "Silent Mode Settings" -->
+    <string name="sound_in_silent_mode_title">"Zvuk v tichém režimu"</string> <!-- TODO validate "Sound in Silent mode" -->
+    <string name="sound_in_silent_mode_on">"Povolit přehrávání zvuku v tichém režimu"</string> <!-- TODO validate "Allow playing sound in Silent mode" -->
+    <string name="sound_in_silent_mode_off">"Zakázat zvuk v tichém režimu"</string> <!-- TODO validate "Disable sound in Silent mode" -->
+    <string name="vibrate_in_silent_mode_title">"Vibrace v tichém režimu"</string> <!-- TODO validate "Vibrate in Silent mode" -->
+    <string name="vibrate_in_silent_mode_on">"Povolte vibrace v tichém režimu"</string> <!-- TODO validate "Allow vibration in Silent mode" -->
+    <string name="vibrate_in_silent_mode_off">"Zakázat vibrace v tichém režimu"</string> <!-- TODO validate "Disable vibration in Silent mode" -->
+    <string name="force_screen_in_silent_mode_title">"Obrazovka umožňující vynucení"</string> <!-- TODO validate "Force enable screen" -->
+    <string name="force_screen_in_silent_mode_on">"Rozsvítí se obrazovka v tichém režimu, i když je volba \ \"Obrazovka na upozornění \\" vypnutá"</string> <!-- TODO validate "Light up screen in Silent mode even if \"Light up screen on notification\" option is disabled" -->
+    <string name="force_screen_in_silent_mode_off">"Zakázáno"</string> <!-- TODO validate "Disabled" -->
+    <string name="warn_sound_disabled_silent_mode">"Oznámení zvuku BlipBlip je vypnuto, protože je v tichém režimu."</string> <!-- TODO validate "BlipBlip notification sound disabled, because your device is in silent mode." -->
+
+    <!-- Vibration Mode -->
+    <string name="pref_vibrate_mode">"Režim vibrování"</string> <!-- TODO validate "Vibrate Mode" -->
+    <string name="title_vibrate_mode_settings">"Nastavení režimu vibrací"</string> <!-- TODO validate "Vibrate Mode Settings" -->
+    <string name="sound_in_vibrate_mode_title">"Zvuk v režimu Vibrace"</string> <!-- TODO validate "Sound in Vibrate mode" -->
+    <string name="sound_in_vibrate_mode_on">"Povolit přehrávání zvuku v režimu Vibrace"</string> <!-- TODO validate "Allow playing sound in Vibrate mode" -->
+    <string name="sound_in_vibrate_mode_off">"Zakázat zvuk v režimu Vibrace"</string> <!-- TODO validate "Disable sound in Vibrate mode" -->
+    <string name="vibrate_in_vibrate_mode_title">"Vibrace v režimu Vibrace"</string> <!-- TODO validate "Vibrate in Vibrate mode" -->
+    <string name="vibrate_in_vibrate_mode_on">"Povolte vibrace v režimu Vibrace"</string> <!-- TODO validate "Allow vibration in Vibrate mode" -->
+    <string name="vibrate_in_vibrate_mode_off">"Zakázat vibrace v režimu Vibrace"</string> <!-- TODO validate "Disable vibration in Vibrate mode" -->
+    <string name="force_vibrate_in_vibrate_mode_title">"Vynucení vibrací"</string> <!-- TODO validate "Force vibrate" -->
+    <string name="force_vibrate_in_vibrate_mode_on">"Vynutí vibrace v režimu Vibrace, i když je vibrace deaktivována"</string> <!-- TODO validate "Force vibration in Vibrate mode even if vibration is disabled" -->
+    <string name="force_vibrate_in_vibrate_mode_off">"Zakázáno"</string> <!-- TODO validate "Disabled" -->
+    <string name="force_screen_in_vibrate_mode_title">"Obrazovka umožňující vynucení"</string> <!-- TODO validate "Force enable screen" -->
+    <string name="force_screen_in_vibrate_mode_on">"Obrazovka se rozsvítí v režimu Vibrace, i když je volba \ \"Obrazovka na upozornění \\" vypnutá"</string> <!-- TODO validate "Light up screen in Vibrate mode even if \"Light up screen on notification\" option is disabled" -->
+    <string name="force_screen_in_vibrate_mode_off">"Zakázáno"</string> <!-- TODO validate "Disabled" -->
+    <string name="warn_sound_disabled_vibrate_mode">"Oznámení zvuku BlipBlip je vypnuto, protože je v režimu vibrace."</string> <!-- TODO validate "BlipBlip notification sound disabled, because your device is in vibrate mode." -->
+
+    <!-- Status Bar -->
+    <string name="service_disabled_warning">"BlipBlip je zakázán"</string> <!-- TODO validate "BlipBlip is disabled" -->
+    <string name="service_enable">"Umožnit"</string> <!-- TODO validate "Enable" -->
+
+    <!-- Menu - Settings -->
+    <string name="action_settings">"Nastavení"</string> <!-- TODO validate "Settings" -->
+
+    <!-- Language -->
+    <string name="app_language">"Jazyk"</string> <!-- TODO validate "Language" -->
+    <string name="system_default_language">"Výchozí systém"</string> <!-- TODO validate "System default" -->
+    <string name="language_improve_translations">"Přidejte nebo vylepšete překlady"</string> <!-- TODO validate "Add or improve translations" -->
+
+    <!-- Quiet Hours -->
+    <string name="quiet_hours_title">"Tichý čas"</string> <!-- TODO validate "Silent time" -->
+
+    <!-- Quiet Days -->
+    <string name="quiet_days_title">"Tiché dny"</string> <!-- TODO validate "Silent days" -->
+    <string name="days_none">"Žádný"</string> <!-- TODO validate "None" -->
+    <string name="days_everyday">"Každý den"</string> <!-- TODO validate "Everyday" -->
+    <string name="quiet_day_warning">"Oznámení bylo zakázáno, protože dnes je \"tichý den\"."</string> <!-- TODO validate "Notification disabled, because today is \"silent day\"." -->
+    <string name="toast_change_quiet_days">"Změňte prosím nastavení \"Tiché dny\", chcete-li BlipBlip pracovat dnes."</string> <!-- TODO validate "Please change \"Silent days\" setting to make BlipBlip work today." -->
+
+    <!-- While Music -->
+    <string name="while_music">"Zakázat při přehrávání hudby"</string> <!-- TODO validate "Disable while music plays" -->
+    <string name="while_music_on">"Všechna oznámení byla deaktivována"</string> <!-- TODO validate "All notifications disabled" -->
+    <string name="while_music_off">"Upozornění povolena"</string> <!-- TODO validate "Notifications enabled" -->
+    <string name="while_music_toast">"Oznámení služby BlipBlip jsou nyní zakázána, protože posloucháte hudbu."</string> <!-- TODO validate "BlipBlip notifications are now disabled, because you are listening to music." -->
+    <!-- While phone call -->
+    <string name="while_phonecall">"Zakázat během telefonního hovoru"</string> <!-- TODO validate "Disable during phone call" -->
+    <string name="while_phonecall_on">"Všechna oznámení byla deaktivována"</string> <!-- TODO validate "All notifications disabled" -->
+    <string name="while_phonecall_off">"Upozornění povolena"</string> <!-- TODO validate "Notifications enabled" -->
+    <string name="while_phonecall_toast">"Oznámení BlipBlip jsou nyní zakázána, protože jste v telefonním hovoru."</string> <!-- TODO validate "BlipBlip notifications are now disabled, because you are in a phone call." -->
+
+
+
+    <!-- ADVANCED SETTINGS -->
+    <string name="pref_advanced">"Pokročilé nastavení"</string> <!-- TODO validate "Advanced settings" -->
+    <string name="title_advanced_settings">"Pokročilé nastavení"</string> <!-- TODO validate "Advanced settings" -->
+
+    <!-- Audio Stream -->
+    <string name="pref_choose_audio_stream">"Audio stream"</string> <!-- TODO validate "Audio stream" -->
+    <string name="audio_stream_phone_ring">"Vyzvánění telefonu"</string> <!-- TODO validate "Phone ring" -->
+    <string name="audio_stream_alarm">"Poplach"</string> <!-- TODO validate "Alarm" -->
+    <string name="audio_stream_alarm2">"Budík"</string> <!-- TODO validate "Alarm clock" -->
+    <string name="audio_stream_media">"Média"</string> <!-- TODO validate "Media" -->
+    <string name="audio_stream_media2">"Hudba, Videa, Hry"</string> <!-- TODO validate "Music, Videos, Games" -->
+    <string name="audio_stream_notification">"Oznámení"</string> <!-- TODO validate "Notification" -->
+
+    <!-- Notifications -->
+    <string name="pref_notification_settings">"Nastavení upozornění"</string> <!-- TODO validate "Notification settings" -->
+    <string name="pref_notification_status_title">"Zobrazit oznámení"</string> <!-- TODO validate "Display notification" -->
+
+    <!-- Show Notification Always -->
+    <string name="pref_notification_always">"Vždy zobrazte"</string> <!-- TODO validate "Always display" -->
+    <string name="pref_notification_always_on">"Zobrazení oznámení bez ohledu na to, zda je povoleno"</string> <!-- TODO validate "Display notification regardless if it is enabled" -->
+    <string name="pref_notification_always_off">"Zobrazit oznámení pouze v případě, že je povoleno"</string> <!-- TODO validate "Display notification only if it is enabled" -->
+    <string name="notification_settings_updated">"Nastavení oznámení bylo aktualizováno"</string> <!-- TODO validate "Notification settings updated" --> <!-- message displayed when one of notification settings is updated without user interacting with these options -->
+    <string name="permanent_notification">"Trvalé oznámení"</string> <!-- TODO validate "Permanent notification" -->
+
+    <!-- Notification Priority -->
+    <string name="pref_notification_priority">"Priorita oznámení"</string> <!-- TODO validate "Notification priority" -->
+    <string name="item_priority_minimum">"Minimální"</string> <!-- TODO validate "Minimum" -->
+    <string name="item_priority_low">"Nízký"</string> <!-- TODO validate "Low" -->
+    <string name="item_priority_normal">"Normální"</string> <!-- TODO validate "Normal" -->
+    <string name="item_priority_high">"Vysoký"</string> <!-- TODO validate "High" -->
+    <string name="item_priority_maximum">"Maximum"</string> <!-- TODO validate "Maximum" -->
+
+    <!-- Dismissible Notification -->
+
+    <!-- Auto dismiss -->
+    <string name="auto_dismiss_notification_title">"Automatická odmítnutí oznámení"</string> <!-- TODO validate "Auto dismiss notification" -->
+    <string name="auto_dismiss_notification_on">"Odmítnutí upozornění automaticky po uplynutí určité doby."</string> <!-- TODO validate "Dismiss notification automatically after some time." -->
+    <string name="auto_dismiss_notification_off">"Oznámení nebude automaticky odmítnuto."</string> <!-- TODO validate "Notification will not be dismissed automatically." -->
+
+    <!-- Vibrate on Wear -->
+    <string name="pref_vibrate_wearable_title">"Vibrace na připojeném zařízení"</string> <!-- TODO validate "Vibrate on connected device" -->
+    <string name="pref_vibrate_wearable_on2">"Je-li vibrace povolena, vibrujte také na připojeném nositelném zařízení (např. Inteligentní hodinky). Vyžaduje přidání akce oznamování systému."</string> <!-- TODO validate "If vibration is enabled vibrate also on connected wearable device (e.g. smart watch). Requires adding System notification action." -->
+    <string name="pref_vibrate_wearable_off">"Nevibrovejte na připojeném nositelném zařízení"</string> <!-- TODO validate "Do not vibrate on connected wearable device" -->
+
+    <!-- Action Buttons -->
+    <string name="pref_notification_action_buttons">"Akční tlačítka"</string> <!-- TODO validate "Action buttons" --> <!-- Preference name for choosing which buttons are visible on notification -->
+    <string name="notif_action_stop">"Stop"</string> <!-- TODO validate "Stop" --> <!-- Description of action button. This should refer to notif_action_stop -->
+    <string name="notif_action_disable_or_enable">"Povolit zakázat"</string> <!-- TODO validate "Enable/Disable" --> <!-- Description of action button. This refers to notif_action_enable and notif_action -->
+    <string name="notif_button_play">"Hrát si"</string> <!-- TODO validate "Play" --> <!-- Action button label in notification having same action as play button in the app - plays the notificaton for testing purposes. This text should be short, because it will be shown on notification button where there can be 3 of them -->
+    <string name="notif_button_stop">"Stop"</string> <!-- TODO validate "Stop" --> <!-- Stops playback of notification. Should be short. -->
+    <string name="notif_button_enable">"Umožnit"</string> <!-- TODO validate "Enable" --> <!-- This text should be short, because it will be shown on notification button where there can be 3 of them. -->
+    <string name="notif_button_disable">"Zakázat"</string> <!-- TODO validate "Disable" --> <!-- This text should be short, because it will be shown on notification button where there can be 3 of them. -->
+
+    <!-- Custom Texts -->
+    <string name="pref_custom_texts">"Vlastní texty oznámení"</string> <!-- TODO validate "Custom notification texts" -->
+    <string name="pref_notification_title_title">"Název oznámení"</string> <!-- TODO validate "Notification title" -->
+    <string name="pref_notification_description_title">"Popis oznámení"</string> <!-- TODO validate "Notification description" -->
+
+    <!-- Reliability -->
+    <string name="pref_reliability">"Nastavení spolehlivosti"</string> <!-- TODO validate "Reliability settings" --> <!-- title of settings section meant for all settings which may improve running of the app without issues -->
+    <string name="reliability_warning">"Změna těchto nastavení může mít vliv na spolehlivost aplikace."</string> <!-- TODO validate "Changing these settings may impact reliability of the app." --> <!-- This message should be as short as possible. There is risk of cutting it off if it will be too long -->
+
+    <!-- Alarm Mode -->
+    <string name="notif_as_alarm_title">"Režim alarmu"</string> <!-- TODO validate "Alarm mode" -->
+    <string name="notif_as_alarm_off">"Pravidelné oznámení"</string> <!-- TODO validate "Regular notifications" -->
+    <string name="notif_as_alarm_on">"Oznámení se chovají jako poplachy - v některých zařízeních společnosti Samsung jsou stanoveny zpoždění oznamování o délce 3-5 minut"</string> <!-- TODO validate "Notifications act as alarms – fixes 3–5 minute notification delays on some Samsung devices" -->
+    <string name="late_notif_title">"Režim budíku je povolen"</string> <!-- TODO validate "Alarm mode enabled" -->
+    <string name="late_notif_message">"Bylo zjištěno, že oznámení bylo odloženo o několik minut, což se děje u některých zařízení Samsung. Chcete-li tomu zabránit, byla povolena volba \ \"Režim alarmu \\", která by tento problém vyřešila. Tuto možnost můžete zakázat a automatické povolení této možnosti v rozšířených nastaveních. Pokud bude nalezeno lepší řešení k odstranění problému, aplikace bude aktualizována. Máte-li další problémy, oznamte je emailem."</string> <!-- TODO validate "It has been detected that notification was delayed by several minutes which happens on some Samsung devices. To prevent this, an \"Alarm mode\" option has been enabled, which should fix this issue. You can disable this option and automatic enabling of this option in the Advanced Settings. If there will be better solution found to fix the issue the app will be updated. If you have any more problems please report them via email." -->
+
+    <!-- Auto Alarm -->
+    <string name="auto_notif_as_alarm_title">"Automatický režim alarmu"</string> <!-- TODO validate "Auto enable Alarm Mode" -->
+    <string name="auto_notif_as_alarm_on">"Ak je detekováno zpoždění oznámení, povolte režim Alarm"</string> <!-- TODO validate "Enable Alarm mode if notification delay detected" -->
+    <string name="auto_notif_as_alarm_off">"Neumožňujte režim alarmů automaticky"</string> <!-- TODO validate "Do not enable Alarm mode automatically" -->
+
+    <!-- Low Valume -->
+    <string name="pref_low_volume_fix">"Oprava nízké hlasitosti"</string> <!-- TODO validate "Low volume fix" -->
+    <string name="pref_low_volume_fix_on">"Opravuje nízkou hlasitost některých zařízení Motorola se zvýšenou hlasitostí. Může zpomalit přehrávání zvuku o několik sekund."</string> <!-- TODO validate "Fixes low volume on some Motorola devices with rising volume feature. May delay sound playback by few seconds." -->
+    <string name="pref_low_volume_fix_off">"Zakázáno. Není zapotřebí pro většinu zařízení."</string> <!-- TODO validate "Disabled. Not needed for most devices." -->
+
+    <!-- Foreground Service -->
+    <string name="pref_foreground_service_title">"Služby v popředí"</string> <!-- TODO validate "Foreground service" -->
+    <string name="pref_foreground_service_on">"Zobrazuje nepovolené oznámení a povoluje službu na pozadí, která by mohla zabránit zabití aplikace."</string> <!-- TODO validate "Displays non-dismissible notification and enables background service which might prevent killing of the app." -->
+    <string name="pref_foreground_service_off">"Služba popředí je zakázána."</string> <!-- TODO validate "Foreground service is disabled." -->
+    <string name="msg_foreground_service_off">"Služba popředí je zakázána"</string> <!-- TODO validate "Foreground service disabled" --> <!-- message displayed when foreground service is disabled without user interacting with this option -->
+
+    <!-- Toast Notifications -->
+    <string name="pref_toast_notifications">"Pop-up varování"</string> <!-- TODO validate "Pop-up warnings" -->
+    <string name="pref_toast_notifications_on">"Zobrazit pop-up varování"</string> <!-- TODO validate "Show pop-up warnings" -->
+    <string name="pref_toast_notifications_off">"Skrýt pop-up varování"</string> <!-- TODO validate "Hide pop-up warnings" -->
+
+    <!-- Logs -->
+    <string name="debug_logs_title">"Shromažďujte protokoly ladění"</string> <!-- TODO validate "Collect debug logs" -->
+    <string name="debug_logs_off">"Protokol zápisu je zakázán"</string> <!-- TODO validate "Writing log disabled" -->
+    <string name="debug_logs_on">"Uložit protokoly pro hlášení problémových e-mailů"</string> <!-- TODO validate "Save logs for Report problem email" -->
+
+    <!-- Beta -->
+    <string name="beta_preference_title">"BlipBlip Beta"</string> <!-- TODO validate "BlipBlip Beta" -->
+    <string name="beta_preference_description">"Povolení nebo zakázání verze beta"</string> <!-- TODO validate "Enable or disable beta version" -->
+
+    <!-- Experimental Settings -->
+    <string name="pref_experimental">"Experimentální nastavení"</string> <!-- TODO validate "Experimental settings" -->
+    <string name="experimental_warning">"Toto jsou experimentální nastavení a mohou být v budoucnu odstraněny."</string> <!-- TODO validate "These are experimental settings and may be removed in the future." -->
+    <string name="title_experimental_settings">"Experimentální nastavení"</string> <!-- TODO validate "Experimental settings" -->
+    <string name="huawei_fix">"Huawei opravit"</string> <!-- TODO validate "Huawei fix" -->
+
+    <!-- Menu - Share -->
+    <string name="action_share">"Sdílet aplikaci"</string> <!-- TODO validate "Share app" -->
+    <string name="share_chooser_title">"Sdílejte aplikaci!"</string> <!-- TODO validate "Share the app!" -->
+    <string name="share_title">"Podívejte se na aplikaci BlipBlip hodinová zvonění!"</string> <!-- TODO validate "Check out BlipBlip hourly chime app!" -->
+    <string name="share_text">"Podívejte se na aplikaci BlipBlip hodinová zvonění pro Android"</string> <!-- TODO validate "Check out BlipBlip hourly chime android app" -->
+
+    <!-- Menu - Rate -->
+    <string name="action_rate">"Ohodnoťte nás"</string> <!-- TODO validate "Rate us" -->
+    <string name="rate_us_title">"Ohodnoťte nás!"</string> <!-- TODO validate "Rate Us!" -->
+    <string name="rate_us_message">"Děkujeme, že jste si čas přečetli aplikaci."</string> <!-- TODO validate "Thank you for taking time to review the app." -->
+    <string name="rate_us_onetofourstars">"1-4 hvězdičky"</string> <!-- TODO validate "1–4 stars" -->
+    <string name="rate_us_fivestars">"5 hvězdiček!"</string> <!-- TODO validate "5 stars!" -->
+    <string name="five_stars_description">"Pět hvězd"</string> <!-- TODO validate "Five stars" -->
+    <string name="five_stars_title">"Láska BlipBlip?"</string> <!-- TODO validate "Love BlipBlip?" -->
+    <string name="five_stars_text">"Ohodnoťte nám 5 hvězdiček, které vám pomohou udělat BlipBlip ještě úžasnější. Dík!"</string> <!-- TODO validate "Rate us 5 stars to help make BlipBlip even more awesome. Thanks!" -->
+
+    <!-- Menu - Error -->
+    <string name="action_send_logs">"Nahlásit problém"</string> <!-- TODO validate "Report problem" -->
+    <string name="send_logs_describe">"Popište svůj problém s aplikací (nejlépe v angličtině):"</string> <!-- TODO validate "Please describe your problem with the app (preferably in English):" -->
+    <string name="feedback_dialog_bug_found">"Našel jsem chybu (připojit protokoly)"</string> <!-- TODO validate "I found a bug (attach logs)" -->
+
+    <!-- Menu - Improvement -->
+    <string name="feedback_improvement_title">"BlipBlip potřebuje zlepšení"</string> <!-- TODO validate "BlipBlip needs improvement" -->
+    <string name="feedback_improvement_message">"Řekněte nám, co můžeme zlepšit, abyste byli s aplikací spokojeni."</string> <!-- TODO validate "Please tell us what we can improve to make you satisfied with the app." -->
+
+    <!-- Menu - About -->
+    <string name="action_about">"O"</string> <!-- TODO validate "About" -->
+    <string name="about_version">"Verze:"</string> <!-- TODO validate "Version:" -->
+    <string name="about_authors">"Autor"</string> <!-- TODO validate "Author" -->
+    <string name="about_coding">"Kódování"</string> <!-- TODO validate "Coding" -->
+    <string name="about_testing">"Testování"</string> <!-- TODO validate "Testing" -->
+    <string name="about_graphics">"Grafika"</string> <!-- TODO validate "Graphics" -->
+    <string name="about_translations">"Překlady"</string> <!-- TODO validate "Translations" -->
+    <string name="about_thank_you">"Děkuji"</string> <!-- TODO validate "Thank You" -->
+    <string name="about_images">"snímky"</string> <!-- TODO validate "Images" -->
+    <string name="about_libraries">"Knihovny"</string> <!-- TODO validate "Libraries" --> <!-- title of screen showing licenses of programming libraries used by the app -->
+    <string name="about_acknowledgements">"Poděkování"</string> <!-- TODO validate "Acknowledgements" --> <!-- name of screen with authors, translators and other people who have helped -->
+    <string name="about_translators_thank_you">"BlipBlip je dobrovolně přeložen našimi uživateli a tímto děkujeme za podporu a přispění."</string> <!-- TODO validate "BlipBlip is translated by our users voluntarily and hereby we thank you for your support and contribution." -->
+
+    <!-- Visual -->
+    <string name="pref_visual">"Vizuální nastavení"</string> <!-- TODO validate "Visual settings" -->
+    <string name="title_visual_settings">"Vizuální nastavení"</string> <!-- TODO validate "Visual settings" -->
+
+    <!-- Unsorted -->
+    <string name="warn_notification_skip">"Některá oznámení budou přeskočena."</string> <!-- TODO validate "Some notifications will be skipped." --> <!-- Please make this as short as possible. This warning is displayed when user chooses to skip few upcoming notifications. -->
+    <string name="warn_volume_zero">"Aktuální hlasitost je nastavena na nulu."</string> <!-- TODO validate "Current volume is set to zero." --> <!-- Please make this as short as possible. This warning is displayed when current system volume is set to 0. -->
+    <string name="pref_low_mem_restart_title">"Restart nízké paměti"</string> <!-- TODO validate "Low memory restart" -->
+    <string name="pref_low_mem_restart_on">"Zkuste restartovat aplikaci, pokud je zařízení nedostatečné. To nebude fungovat na všech zařízeních. Na většině zařízení není zapotřebí (může používat trochu více baterie)."</string> <!-- TODO validate "Try restarting app if device is low on memory. This will not work on all devices. It is not needed on most devices (may use a little bit more battery)." -->
+    <string name="pref_low_mem_restart_off">"Nepokoušejte se restartovat aplikaci, pokud je zařízení nedostatečné."</string> <!-- TODO validate "Do not try restarting app if device is low on memory." -->
+    <string name="pref_heading_notification_accuracy">"Přesnost oznámení"</string> <!-- TODO validate "Notification accuracy" --> <!-- punctuality -->
+    <string name="pref_delay_prevention_title">"Zabraňte zpožděním"</string> <!-- TODO validate "Prevent delays" -->
+    <string name="pref_delay_prevention_on">"Pokouší se aktivně zabránit zpoždění oznamování, ke kterému dochází na některých zařízeních. Může používat více baterií."</string> <!-- TODO validate "Tries to actively prevent notification delays which happen on some devices. May use more battery." -->
+    <string name="pref_delay_prevention_off">"Nesnaží se zabránit zpoždění oznámení, která se může na některých zařízeních vyskytnout. Používá méně baterie."</string> <!-- TODO validate "Does not try to prevent notification delays which may occur on some devices. Uses less battery." -->
+    <string name="pref_aggressive_delay_prevention_title">"Zabraňte agresivnímu zpoždění"</string> <!-- TODO validate "Prevent delays aggressively" -->
+    <string name="pref_aggressive_delay_prevention_on">"Oznámení by měla být častěji přesná. Může používat více baterií."</string> <!-- TODO validate "Notifications should be more often accurate. May use more battery." -->
+    <string name="pref_aggressive_delay_prevention_off">"Oznámení mohou být ve vzácných případech pozdě. Používá méně baterie."</string> <!-- TODO validate "Notifications may be late in rare cases. Uses less battery." -->
+    <string name="pref_ignore_delayed_title">"Ignorovat zpožděná oznámení"</string> <!-- TODO validate "Ignore delayed notifications" -->
+    <string name="pref_ignore_delayed_on">"Pokud je oznámení považováno za opožděné, nebude zobrazeno ani přehráno."</string> <!-- TODO validate "If notification is considered delayed it won't be shown or played." -->
+    <string name="pref_ignore_delayed_off">"Oznámení budou zobrazena nebo přehrána i v případě zpoždění."</string> <!-- TODO validate "Notifications will be shown or played even when they are delayed." -->
+    <string name="pref_audio_focus_title">"Ztlumení zvuku na pozadí"</string> <!-- TODO validate "Muting background audio" --> <!-- option to improve ability to hear app sounds by decreasing volume of other apps or pausing them -->
+    <string name="pref_audio_focus_on">"Zatímco aplikace přehrává zvuk, zvuk z jiných aplikací bude tišší nebo pozastavený."</string> <!-- TODO validate "While app plays sound, audio from other apps will be quieter or paused." -->
+    <string name="pref_audio_focus_off">"Zvuk z ostatních aplikací bude přehráván normálně."</string> <!-- TODO validate "Audio from other apps will be played normally." -->
+    <string name="pref_audio_focus_dont_duck_title">"Pozastavení přehrávání"</string> <!-- TODO validate "Pause playback" -->
+    <string name="pref_audio_focus_dont_duck_on">"Během přehrávání zvuku mohou ostatní aplikace pozastavit zvuk."</string> <!-- TODO validate "During sound playback other apps may pause their audio." -->
+    <string name="pref_audio_focus_dont_duck_off">"Během přehrávání zvuku mohou ostatní aplikace snížit hlasitost zvuku."</string> <!-- TODO validate "During sound playback other apps may lower volume of their audio." -->
+
+    <!-- Plurals -->
+    <!-- check which quantities and how should be used for given language here http://www.unicode.org/cldr/charts/29/supplemental/language_plural_rules.html -->
+    <!-- Uncomment or add proper "zero", "two", "few" or "many" item if needed for your language -->
+    <plurals name="repeat_every_x_hours"> <!-- "X hours" as in "Repeat every X hours" is different in some languages (e.g. Polish) from regular "X hours" -->
+        <item quantity="one">"%d hour"</item>
+        <item quantity="other">"%d hours"</item>
+    </plurals>
+    <plurals name="repeat_every_x_minutes">
+        <item quantity="one">"%d minute"</item>
+        <item quantity="other">"%d minutes"</item>
+    </plurals>
+    <plurals name="repeat_every_x_seconds">
+        <item quantity="one">"%d second"</item>
+        <item quantity="other">"%d seconds"</item>
+    </plurals>
+    <plurals name="repeat_number_of_times">
+        <item quantity="one">"%d time"</item>
+        <item quantity="other">"%d times"</item>
+    </plurals>
+
+    <string name="pref_reset_accuracy_params">"Obnovit parametry"</string> <!-- TODO validate "Reset parameters" -->
+    <string name="pref_reset_accuracy_params_desc">"Resetuje interní parametry, které zlepšují přesnost oznámení."</string> <!-- TODO validate "Resets internal parameters which improve notification accuracy." -->
+    <string name="warn_foreground_service_disabled">"Nastavení popředí bylo zakázáno. To může zvýšit šanci, že proces pozadí bude zabit a aplikace přestane fungovat."</string> <!-- TODO validate "Foreground service setting has been disabled. This may increase chance that background process is killed and app stops working." -->
+
+    <!-- Airplane mode -->
+    <string name="pref_airplane_mode">"Režim Letadlo"</string> <!-- TODO validate "Airplane mode" -->
+    <string name="while_airplane_toast">"Oznámení programu BlipBlip jsou nyní zakázány, protože jste v režimu letadla."</string> <!-- TODO validate "BlipBlip notifications are now disabled, because you are in airplane mode." -->
+
+    <string name="setting_system_default">"Výchozí systém"</string> <!-- TODO validate "System default" -->
+    <string name="pref_time_format_title">"Časový formát"</string> <!-- TODO validate "Time format" -->
+    <string name="time_format_12h">"12hodinové hodiny"</string> <!-- TODO validate "12 hour clock" -->
+    <string name="time_format_24h">"24hodinové hodiny"</string> <!-- TODO validate "24 hour clock" -->
+
+    <string name="theme_blipblip">"BlipBlip"</string> <!-- TODO validate "BlipBlip" -->
+    <string name="theme_standard">"Standard"</string> <!-- TODO validate "Standard" -->
+    <string name="theme_blue">"Modrý"</string> <!-- TODO validate "Blue" -->
+    <string name="theme_yellow">"Žlutá"</string> <!-- TODO validate "Yellow" -->
+    <string name="theme_purple">"Nachový"</string> <!-- TODO validate "Purple" -->
+    <string name="theme_red">"Červené"</string> <!-- TODO validate "Red" -->
+    <string name="theme_green">"Zelená"</string> <!-- TODO validate "Green" -->
+    <string name="theme_blue_gray">"Modrá šedá"</string> <!-- TODO validate "Blue grey" -->
+    <string name="theme_orange">"oranžový"</string> <!-- TODO validate "Orange" -->
+    <string name="theme_indigo">"Indigo"</string> <!-- TODO validate "Indigo" -->
+    <string name="theme_cyan">"Tyrkysová"</string> <!-- TODO validate "Cyan" -->
+    <string name="theme_teal">"Teal"</string> <!-- TODO validate "Teal" -->
+
+    <string name="pref_color_theme">"Téma"</string> <!-- TODO validate "Theme" -->
+    <string name="cycle_themes_message">"Přepněte motivy pomocí tlačítek pro ovládání hlasitosti."</string> <!-- TODO validate "Switch themes using volume buttons." -->
+    <string name="cycle_themes_finish">"Dokončit"</string> <!-- TODO validate "Finish" -->
+    <string name="cycle_themes">"Cyklujte témata"</string> <!-- TODO validate "Cycle themes" -->
+    <string name="cycle_themes_description">"Umožňuje přepínání motivů pomocí tlačítek pro ovládání hlasitosti."</string> <!-- TODO validate "Allows switching themes using volume buttons." -->
+    <string name="color_next_notification_bar">"Barevný další oznamovací pruh"</string> <!-- TODO validate "Color next notification bar" -->
+    <string name="color_next_notification_bar_on">"Použijte barvy pozadí pro další panel oznámení."</string> <!-- TODO validate "Use color background for next notification bar." -->
+    <string name="color_next_notification_bar_off">"Pro další panel oznámení použijte šedé pozadí."</string> <!-- TODO validate "Use gray background for next notification bar." -->
+    <string name="night_mode">"Noční režim"</string> <!-- TODO validate "Night mode" -->
+    <string name="night_mode_on">"Povoleno"</string> <!-- TODO validate "Enabled" -->
+    <string name="night_mode_off">"Zakázáno"</string> <!-- TODO validate "Disabled" -->
+    <string name="night_mode_auto">"Auto"</string> <!-- TODO validate "Auto" -->
+    <string name="night_mode_system">"Systémové nastavení"</string> <!-- TODO validate "System setting" -->
+
+    <string name="title_activity_sounds">"Zvuky"</string> <!-- TODO validate "Sounds" -->
+    <string name="title_activity_sound">"Zvuk"</string> <!-- TODO validate "Sound" -->
+    <string name="title_activity_vibrations">"Vibrace"</string> <!-- TODO validate "Vibrations" -->
+    <string name="title_activity_vibration">"Vibrace"</string> <!-- TODO validate "Vibration" -->
+    <string name="action_delete">"Odstranit"</string> <!-- TODO validate "Delete" -->
+    <string name="action_add_vibration_pattern">"Přidat záznam"</string> <!-- TODO validate "Add entry" -->
+    <string name="dialog_title_deletion">"Potvrdit vymazání"</string> <!-- TODO validate "Confirm deletion" -->
+    <string name="dialog_message_confirm">"Jsi si jistá?"</string> <!-- TODO validate "Are you sure?" -->
+    <string name="vibration_name">"Název vibrací"</string> <!-- TODO validate "Vibration name" -->
+    <string name="action_restore_defaults">"Obnovit výchozí nastavení"</string> <!-- TODO validate "Restore defaults" --> <!-- e.g. for sounds or vibrations -->
+    <string name="restore_defaults_message2">"Chcete obnovit výchozí hodnoty?"</string> <!-- TODO validate "Would you like to restore default values?" -->
+    <string name="add_vibration">"Přidejte vibrace"</string> <!-- TODO validate "Add vibration" -->
+    <string name="edit">"Upravit"</string> <!-- TODO validate "Edit" --> <!-- Name of action to edit list of sounds or list of vibrations, should be short -->
+    <string name="editing">"Úpravy"</string> <!-- TODO validate "Editing" --> <!-- Displayed in edit mode -->
+    <string name="error_file_open_failed">"Otevření souboru se nezdařilo."</string> <!-- TODO validate "Failed to open file." -->
+    <string name="error_file_open_no_permission">"Žádné oprávnění k otevření souboru."</string> <!-- TODO validate "No permission to open the file." -->
+    <string name="error_file_open_failed_no_permission_title">"Ručně udělit povolení"</string> <!-- TODO validate "Grant permission manually" -->
+    <string name="error_file_open_failed_no_permission">"Žádné oprávnění k otevření souboru. Otevřete Nastavení a udělejte oprávnění pro přístup k úložišti."</string> <!-- TODO validate "No permission to open the file. Please open Settings and give permission to access storage." -->
+    <string name="error_file_open_failed_settings">"Otevřete nastavení"</string> <!-- TODO validate "Open Settings" -->
+    <string name="play_vibration">"Vibrovat"</string> <!-- TODO validate "Vibrate" --> <!-- description of action of a button to perform vibration -->
+    <string name="play_sound">"Přehrát zvuk"</string> <!-- TODO validate "Play sound" --> <!-- description of action of a button to play sound -->
+    <string name="drag_handle">"Rukojeť pro tažení"</string> <!-- TODO validate "Handle for dragging" -->
+    <string name="select_audio_file">"Zvolte Audio soubor"</string> <!-- TODO validate "Select Audio file" -->
+    <string name="add_sound_to_blipblip">"Přidat na BlipBlip"</string> <!-- TODO validate "Add to BlipBlip" -->
+    <string name="permission_denied">"Přístup odepřen"</string> <!-- TODO validate "Permission denied" -->
+    <string name="permission_denied_message_no_addon">"BlipBlip nemá oprávnění číst soubor."</string> <!-- TODO validate "BlipBlip does not have permission to read the file." -->
+    <string name="permission_denied_message_no_addon_part2">"Použijte některou jinou aplikaci, která sdílí soubor bez nutnosti dalšího povolení (např. Disk Google)."</string> <!-- TODO validate "Please use some other app that shares file without need for additional permission (e.g. Google Drive)." -->
+    <string name="permission_denied_rationale_title">"Potřebné povolení"</string> <!-- TODO validate "Permission needed" -->
+    <string name="permission_denied_rationale">"Aplikace nemá oprávnění číst soubor. Udělte prosím aplikaci oprávnění k přístupu k souboru. Soubor můžete také sdílet pomocí jiné aplikace, která nepotřebuje toto oprávnění."</string> <!-- TODO validate "Application does not have permission to read the file. Please grant the app permission to access the file. You can also share the file using other app which does not need using this permission." -->
+
+    <!-- Menu drawer strings -->
+
+    <string name="more_actions">"Více akcí"</string> <!-- TODO validate "More actions" -->
+    <string name="start_time">"Doba spuštění"</string> <!-- TODO validate "Start time" -->
+    <string name="end_time">"Čas ukončení"</string> <!-- TODO validate "End time" -->
+    <string name="whole_day">"Celý den"</string> <!-- TODO validate "Whole day" -->
+    <string name="enable_screen">"Povolit obrazovku"</string> <!-- TODO validate "Enable screen" -->
+    <string name="action_rename">"Přejmenovat"</string> <!-- TODO validate "Rename" -->
+    <string name="pref_accessibility">"Přístupnost"</string> <!-- TODO validate "Accessibility" -->
+    <string name="pref_swipe">"Dotkněte se gest"</string> <!-- TODO validate "Touch gestures" -->
+    <string name="pref_swipe_on">"Přepínání povoleno v položkách seznamu"</string> <!-- TODO validate "Swiping enabled on list items" -->
+    <string name="pref_swipe_off">"Přesunutí zakázáno na položkách seznamu"</string> <!-- TODO validate "Swiping disabled on list items" -->
+    <string name="pref_action_menus">"Akční nabídky"</string> <!-- TODO validate "Action menus" -->
+    <string name="pref_action_menus_on">"Zobrazit nabídky s akcemi, které by jinak vyžadovaly gesta (např. Přeskakování). Užitečné při používání aplikace TalkBack."</string> <!-- TODO validate "Show menus with actions that would otherwise require gestures (e.g. swiping). Useful when using TalkBack." -->
+    <string name="pref_action_menus_off">"Skrýt nabídky obsahující akce, které lze provádět také pomocí gest."</string> <!-- TODO validate "Hide menus containing actions that can also be performed using gestures." -->
+    <string name="next_notification">"Další upozornění: %1$s"</string> <!-- TODO validate "Next notification: %1$s" -->
+    <string name="next_tomorrow">"zítra na %1$s"</string> <!-- TODO validate "tomorrow at %1$s" --> <!-- e.g. tomorrow at 10:00 -->
+    <string name="next_on_mon">"Pondělí v %1$s"</string> <!-- TODO validate "Monday at %1$s" -->
+    <string name="next_on_tue">"Úterý u %1$s"</string> <!-- TODO validate "Tuesday at %1$s" -->
+    <string name="next_on_wed">"Středa v %1$s"</string> <!-- TODO validate "Wednesday at %1$s" -->
+    <string name="next_on_thu">"Čtvrtek v %1$s"</string> <!-- TODO validate "Thursday at %1$s" -->
+    <string name="next_on_fri">"Pátek v %1$s"</string> <!-- TODO validate "Friday at %1$s" -->
+    <string name="next_on_sat">"Sobota v %1$s"</string> <!-- TODO validate "Saturday at %1$s" -->
+    <string name="next_on_sun">"Neděle v %1$s"</string> <!-- TODO validate "Sunday at %1$s" -->
+    <string name="never">"nikdy"</string> <!-- TODO validate "never" --> <!-- if notification will never occur-->
+    <string name="show_seconds_title">"Zobrazit sekundy"</string> <!-- TODO validate "Show seconds" -->
+    <string name="show_seconds_on">"Volba sekund je povolena. Zobrazí se krátky sekundy."</string> <!-- TODO validate "Choosing seconds is enabled. Displays times with seconds." -->
+    <string name="show_seconds_off">"Volba sekund je zakázána. Zobrazení časů bez sekund."</string> <!-- TODO validate "Choosing seconds is disabled. Display times without seconds." -->
+    <string name="notification_disabled_warning">"Oznámení je zakázáno"</string> <!-- TODO validate "Notification is disabled" -->
+    <string name="social_facebook">"Facebook"</string> <!-- TODO validate "Facebook" -->
+    <string name="social_twitter">"Cvrlikání"</string> <!-- TODO validate "Twitter" -->
+    <string name="social_google_plus">"Google+"</string> <!-- TODO validate "Google+" -->
+    <string name="social_google_plus_community">"Komunita Google+"</string> <!-- TODO validate "Google+ Community" -->
+    <string name="troubleshooting">"Odstraňování problémů"</string> <!-- TODO validate "Troubleshooting" -->
+    <string name="premium_features">"Prémiové funkce"</string> <!-- TODO validate "Premium features" -->
+    <string name="disable_when_headset">"Zakázat při připojení sluchátek"</string> <!-- TODO validate "Disable when headset connected" -->
+    <string name="disable_when_headset_on">"Všechna oznámení byla deaktivována"</string> <!-- TODO validate "All notifications disabled" -->
+    <string name="disable_when_headset_off">"Všechna oznámení byla povolena"</string> <!-- TODO validate "All notifications enabled" -->
+    <string name="disable_when_headset_toast">"Oznámení služby BlipBlip jsou nyní zakázána, protože máte připojen headset."</string> <!-- TODO validate "BlipBlip notifications are now disabled, because you have headset connected." -->
+
+    <string name="add">"Přidat"</string> <!-- TODO validate "Add" -->
+    <string name="add_item">"Přidat položku"</string> <!-- TODO validate "Add item" -->
+    <string name="action_add_condition">"Přidat podmínku"</string> <!-- TODO validate "Add condition" -->
+    <string name="dialog_title_days_of_week">"Dny v týdnu"</string> <!-- TODO validate "Days of Week" -->
+    <string name="dialog_title_date">"datum"</string> <!-- TODO validate "Date" -->
+    <string name="start_date">"Počáteční datum"</string> <!-- TODO validate "Start date" -->
+    <string name="end_date">"Datum ukončení"</string> <!-- TODO validate "End date" -->
+    <string name="dialog_title_time">"Čas"</string> <!-- TODO validate "Time" -->
+    <string name="dialog_title_time_range">"Časový rozsah"</string> <!-- TODO validate "Time range" -->
+    <string name="dialog_title_repeat">"Opakovat"</string> <!-- TODO validate "Repeat" -->
+    <string name="interval">"Interval"</string> <!-- TODO validate "Interval" -->
+    <string name="no_repeat">"Žádné opakování"</string> <!-- TODO validate "No repeat" -->
+    <string name="action_add_action">"Přidat akci"</string> <!-- TODO validate "Add action" -->
+    <string name="favorite_condition_dialog_edit">"Upravit"</string> <!-- TODO validate "Edit" -->
+    <string name="favorite_condition_dialog_create">"Vytvořit"</string> <!-- TODO validate "Create" -->
+    <string name="system_notification">"Systémové oznámení"</string> <!-- TODO validate "System notification" -->
+    <string name="popup_text">"Popup text"</string> <!-- TODO validate "Popup text" -->
+    <string name="no_actions_added">"Žádné akce nebyly přidány"</string> <!-- TODO validate "No actions added" -->
+    <string name="section_conditions">"Podmínky"</string> <!-- TODO validate "Conditions" -->
+    <string name="no_valid_condition_added">"Nebyly definovány žádné správné podmínky"</string> <!-- TODO validate "No correct conditions defined" -->
+    <string name="no_upcoming_notifications">"Žádné nadcházející oznámení"</string> <!-- TODO validate "No upcoming notifications" -->
+    <string name="error_indicator">"Indikátor chyby"</string> <!-- TODO validate "Error indicator" -->
+    <string name="next_notification_app_off">"Vypnuto (aplikace zakázána)"</string> <!-- TODO validate "Off (app disabled)" -->
+    <string name="next_day">"následující den"</string> <!-- TODO validate "following day" --> <!-- Used in: "22:00 - 6:00 next day" -->
+    <string name="notifications">"Oznámení"</string> <!-- TODO validate "Notifications" -->
+    <string name="warning_no_email_app">"Žádná e-mailová aplikace nebyla nalezena k odeslání zprávy."</string> <!-- TODO validate "No email application found to send the report." -->
+    <string name="weeknights">"Týdenní noci"</string> <!-- TODO validate "Weeknights" --> <!-- nights from sunday to thursday -->
+    <string name="weekend_nights">"Víkendové noci"</string> <!-- TODO validate "Weekend nights" --> <!-- nights on friday and saturday -->
+    <string name="weekend">"Víkend"</string> <!-- TODO validate "Weekend" --> <!-- saturday and sunday -->
+
+    <string name="vibration_silence_millis">"Trvání ticha v milisekundách"</string> <!-- TODO validate "Silence duration in milliseconds" -->
+    <string name="vibration_duration_millis">"Doba vibrací v milisekundách"</string> <!-- TODO validate "Vibration duration in milliseconds" -->
+
+    <string name="advice_disable_task_killers">"Zakázat útočníky"</string> <!-- TODO validate "Disable task killers" -->
+    <string name="advice_disable_task_killers_desc">"Zabezpečení úkolu by mělo být zakázáno nebo BlipBlip by měl být přidán do svých bílých seznamů, aby aplikace zůstala naživu."</string> <!-- TODO validate "Task killers should be disabled or BlipBlip should be added in their white lists to keep app alive." -->
+    <string name="advice_enable_foreground_service">"Povolit službu v popředí"</string> <!-- TODO validate "Enable foreground service" -->
+    <string name="advice_enable_foreground_service_desc2">"Možnost popředí služby informuje OS, že aplikace by neměla být zabita, pokud je to možné."</string> <!-- TODO validate "Foreground service option informs OS that application should not be killed if possible." -->
+    <string name="advice_enable_foreground_service_desc2_part2">"Zobrazí se trvalé upozornění, které může být skryto ze systémových nastavení (skrytí aplikace z této aplikace tuto možnost zakáže)."</string> <!-- TODO validate "It will display persistent notification which can be hidden from system settings (hiding it from the app will disable this option)." -->
+    <string name="advice_enable_foreground_service_desc2_part3">"Pro přístup k nastavení systému můžete použít tlačítko níže."</string> <!-- TODO validate "You can use button below to access system settings." -->
+
+    <string name="sound_in_use">"Zvuk se používá a nelze jej smazat."</string> <!-- TODO validate "Sound is in use and cannot be deleted." -->
+    <string name="vibration_in_use">"Vibrace jsou používány a nelze je smazat."</string> <!-- TODO validate "Vibration is in use and cannot be deleted." -->
+    <string name="sound_not_found">"Nenalezeno"</string> <!-- TODO validate "Not found" --> <!-- for sound -->
+    <string name="vibration_not_found">"Nenalezeno"</string> <!-- TODO validate "Not found" --> <!-- for vibration -->
+
+    <string name="section_actions">"Akce"</string> <!-- TODO validate "Actions" -->
+    <string name="section_notifications">"Oznámení"</string> <!-- TODO validate "Notifications" -->
+    <string name="notification_name">"Oznámení"</string> <!-- TODO validate "Notification" -->
+
+    <string name="play">"Hrát si"</string> <!-- TODO validate "Play" -->
+
+    <string name="cannot_perform_operation">"Tuto operaci nelze provést právě teď. Prosím zkuste to znovu později."</string> <!-- TODO validate "Cannot perform this operation right now. Please try again later." -->
+
+    <string name="add_to_favorites">"Přidat k oblíbeným"</string> <!-- TODO validate "Add to favorites" -->
+    <string name="open_favorites">"Otevřete oblíbené položky"</string> <!-- TODO validate "Open favorites" -->
+
+    <string name="unnamed_sound">"Nepojmenovaný zvuk"</string> <!-- TODO validate "Unnamed sound" -->
+    <string name="unnamed_vibration">"Nepojmenovaná vibrace"</string> <!-- TODO validate "Unnamed vibration" -->
+
+    <string name="value_deleted">"Odstraněno \ \" %1$s \\""</string> <!-- TODO validate "Deleted \"%1$s\" --> <!-- showed when one of list items is deleted and displays the value of the item -->
+    <string name="action_undo">"vrátit"</string> <!-- TODO validate "Undo" --> <!-- action name to undo deletion e.g. from a list -->
+    <string name="condition_deleted">"Stav byl smazán."</string> <!-- TODO validate "Condition deleted." -->
+    <string name="notification_deleted">"Oznámení bylo smazáno."</string> <!-- TODO validate "Notification deleted." -->
+    <string name="action_deleted">"Akce byla smazána."</string> <!-- TODO validate "Action deleted." -->
+
+    <string name="inclusive_time">"včetně"</string> <!-- TODO validate "inclusive" --> <!-- used in the time range dialog to determine if edge value should be included -->
+
+    <string name="pref_user_notifications">"Upozornění uživatele"</string> <!-- TODO validate "User notifications" -->
+    <string name="user_notification">"Upozornění uživatele"</string> <!-- TODO validate "User notification" -->
+
+    <string name="action_set_as_home_screens">"Nastavte jako počáteční obrazovku"</string> <!-- TODO validate "Set as start screen" -->
+
+    <string name="pref_battery_saver_mode">"Režim spořiče baterie"</string> <!-- TODO validate "Battery Saver mode" -->
+    <string name="mode_sound_title">"Povolit zvuk"</string> <!-- TODO validate "Allow sound" -->
+    <string name="mode_sound_on">"Zvuk je v tomto režimu povolen"</string> <!-- TODO validate "Sounds are allowed in this mode" -->
+    <string name="mode_sound_off">"Zvuky jsou v tomto režimu neaktivní"</string> <!-- TODO validate "Sounds disabled in this mode" -->
+    <string name="mode_vibration_title">"Povolte vibrace"</string> <!-- TODO validate "Allow vibrations" -->
+    <string name="mode_vibration_on">"V tomto režimu jsou povoleny vibrace"</string> <!-- TODO validate "Vibrations allowed in this mode" -->
+    <string name="mode_vibration_off">"V tomto režimu nejsou povoleny vibrace"</string> <!-- TODO validate "Vibrations not allowed in this mode" -->
+    <string name="mode_screen_title">"Povolení obrazovky povoleno"</string> <!-- TODO validate "Enabling screen allowed" -->
+    <string name="mode_screen_on">"V tomto režimu je povoleno zapnutí obrazovky"</string> <!-- TODO validate "Screen is allowed to be enabled in this mode" -->
+    <string name="mode_screen_off">"Obrazovka v tomto režimu nebude povolena"</string> <!-- TODO validate "Screen will not be enabled in this mode" -->
+    <string name="battery_saver_preferences_warning">"Tyto možnosti nemusí pracovat na všech zařízeních."</string> <!-- TODO validate "These options may not work on all devices." -->
+    <string name="mode_sound_toast">"Zvuk je vypnutý, protože je aktivní následující režim: %1$s"</string> <!-- TODO validate "Sound is disabled because following mode is active: %1$s" -->
+
+    <string name="pref_accessibility_settings_title">"Povolit službu usnadnění přístupu"</string> <!-- TODO validate "Enable accessibility service" -->
+    <string name="pref_accessibility_settings_summary">"Otevře systém nastavení usnadnění, kde můžete povolit aplikaci jako přístupovou službu"</string> <!-- TODO validate "Opens system Accessibility settings where you can enable app as accessibility service" -->
+    <string name="accessibility_service_description">"Tato služba pomáhá udržovat aplikaci v práci. Nepřijímá žádná data ani neupravuje žádný obsah. Je to jen ochrana proti správcům paměti, která mohou aplikaci zabít. Pokud nemáte problémy s aplikací, nemusíte ji aktivovat."</string> <!-- TODO validate "This service helps to keep the app working. It does not access any data or modify any content. It is just protection against memory managers which may kill the app. If you are not experiencing problems with the app you don't need to activate it." -->
+    <string name="accessibility_service_summary">"Pomáhá udržovat aplikaci naživu. Nepřijímá žádná data."</string> <!-- TODO validate "Helps keep app alive. Does not access any data." -->
+
+    <string name="swipe_right_to_delete">"Přejděte prstem doprava pro odstranění položek"</string> <!-- TODO validate "Swipe right to delete items" -->
+
+    <string name="action_repeat_sound">"Opakujte zvuk"</string> <!-- TODO validate "Repeat sound" -->
+    <string name="action_repeat_vibration">"Opakujte vibrace"</string> <!-- TODO validate "Repeat vibration" -->
+    <string name="action_repeat_sound_vibration">"Opakujte zvuk a vibrace"</string> <!-- TODO validate "Repeat sound and vibration" -->
+    <string name="action_strike_the_hour">"Stříkejte hodiny"</string> <!-- TODO validate "Strike the hours" -->
+
+    <string name="pref_do_not_disturb_mode">"Nerušit"</string> <!-- TODO validate "Do Not Disturb" -->
+    <string name="do_not_disturb_total_silence">"Celkové ticho"</string> <!-- TODO validate "Total silence" -->
+    <string name="do_not_disturb_alarms_only">"Pouze alarmy"</string> <!-- TODO validate "Alarms only" -->
+    <string name="do_not_disturb_priority_only">"Pouze s prioritou"</string> <!-- TODO validate "Priority only" -->
+
+    <string name="hide_notification_title">"Skrýt oznámení"</string> <!-- TODO validate "Hide notification" -->
+    <string name="hide_notification_summary">"Otevřete nastavení systému pro skrytí oznámení. Toto je doporučený způsob skrytí oznámení, protože umožňuje aplikaci pracovat v popředí."</string> <!-- TODO validate "Open system settings to hide notification. This is recommended way for hiding notification because it allows the app to work in foreground." -->
+
+    <!-- Text to speech -->
+    <string name="action_say_text">"Vyslovte text"</string> <!-- TODO validate "Say text" -->
+    <string name="action_say_time">"Řekni čas"</string> <!-- TODO validate "Say time" -->
+    <string name="feature_say_text">"Řekni čas"</string> <!-- TODO validate "Say time" -->
+    <string name="feature_say_time">"Řekni čas"</string> <!-- TODO validate "Say time" -->
+    <string name="pref_text_to_speech_engine">"Motor"</string> <!-- TODO validate "Engine" -->
+    <string name="pref_text_to_speech_voice">"Hlas"</string> <!-- TODO validate "Voice" -->
+    <string name="pref_text_to_speech">"Text na řeč"</string> <!-- TODO validate "Text to speech" -->
+    <string name="system_default_audio_stream">"Výchozí systém"</string> <!-- TODO validate "System default" -->
+    <string name="application_default">"Výchozí hodnota"</string> <!-- TODO validate "Default value" -->
+    <string name="speak_time_format_with_minutes">"Mluvený čas s minutami"</string> <!-- TODO validate "Spoken time with minutes" -->
+    <string name="speak_time_on_the_hour">"Hovořil o hodině"</string> <!-- TODO validate "Spoken time on the hour" -->
+    <string name="tts_not_initialized">"Textový a řečový engine ještě není inicializován"</string> <!-- TODO validate "Text to speech engine is not yet initialized" -->
+    <string name="tts_test_say_time_title">"Zkoušejte vyprávět čas"</string> <!-- TODO validate "Test saying time" -->
+    <string name="tts_system_settings_title">"Nastavení systému"</string> <!-- TODO validate "System settings" -->
+    <string name="tts_system_settings_summary">"Otevřete nastavení textového řeči"</string> <!-- TODO validate "Open system text-to-speech settings" -->
+    <string name="pref_tts_overlaps_sounds">"Hlasové a zvukové překrývání"</string> <!-- TODO validate "Voice and sound overlap" -->
+    <string name="pref_tts_overlaps_sounds_on">"Mluvící se překrývají zvuky"</string> <!-- TODO validate "Speaking will overlap sounds" -->
+    <string name="pref_tts_overlaps_sounds_off">"Mluvící se nebudou překrývat zvuky (zvuk se bude přehrávat před nebo po hlasu)"</string> <!-- TODO validate "Speaking will not overlap sounds (sound will play before or after voice)" -->
+
+    <string name="operating_modes_settings">"Provozní režimy"</string> <!-- TODO validate "Operating modes" --> <!-- name of menu with different mode settings e.g. Do Not Disturb, vibrate mode -->
+    <string name="operating_modes_settings_summary">"Režim Nerušit, vibrace atd."</string> <!-- TODO validate "Do Not Disturb, vibrate mode, etc." -->
+    <string name="time_settings">"Čas"</string> <!-- TODO validate "Time" -->
+    <string name="sound_settings">"Zvuk"</string> <!-- TODO validate "Sound" -->
+
+    <string name="free_resources_title">"Vydávejte prostředky"</string> <!-- TODO validate "Release resources" -->
+
+    <string name="error_failed_to_open_file">"Otevření souboru se nezdařilo"</string> <!-- TODO validate "Failed to open file" -->
+    <string name="error_corrupted_sound">"Zvuk je poškozen"</string> <!-- TODO validate "Sound is corrupted" -->
+
+    <!-- premium -->
+    <string name="dialog_no_thanks">"Ne, díky"</string> <!-- TODO validate "No thanks" --> <!-- should be short -->
+    <string name="feature_custom_sounds">"Vlastní zvuky"</string> <!-- TODO validate "Custom sounds" -->
+    <string name="feature_multiple_notifications">"Více oznámení"</string> <!-- TODO validate "Multiple notifications" -->
+    <string name="feature_custom_reapeat">"Vlastní interval opakování"</string> <!-- TODO validate "Custom repeat interval" -->
+    <string name="feature_premium_sounds">"Prémiové zvuky"</string> <!-- TODO validate "Premium sounds" -->
+    <string name="feature_strike_the_hour">"Stříkejte hodiny"</string> <!-- TODO validate "Strike the hours" -->
+    <string name="premium_get_plus">"Získejte všechny aktuální funkce"</string> <!-- TODO validate "Get all current features" --> <!-- should be short -->
+    <string name="premium_get_sounds">"Získejte všechny zvuky v aplikaci"</string> <!-- TODO validate "Get all sounds in the app" --> <!-- should be short -->
+    <string name="premium_get_plus_sounds">"Získejte všechny aktuální funkce a zvuky"</string> <!-- TODO validate "Get all current features and sounds" --> <!-- should be short -->
+    <string name="premium_sound_lock">"Jedná se o zvukový zvuk, který před použitím potřebuje odemknout."</string> <!-- TODO validate "This is Premium sound which requires unlocking before use." -->
+    <string name="premium_feature_lock">"Toto je prémie, která před použitím vyžaduje odemčení."</string> <!-- TODO validate "This is Premium feature which requires unlocking before use." -->
+    <string name="change_subscription">"Změnit odběr"</string> <!-- TODO validate "Change subscription" -->
+    <string name="upgrade_to_pro">"Vylepšit"</string> <!-- TODO validate "Upgrade" -->
+    <string name="loading_failed">"Chyba"</string> <!-- TODO validate "Error" -->
+    <string name="month_very_short">"Měsíc"</string> <!-- TODO validate "month" -->
+    <string name="discount_save_money">"Uložit"</string> <!-- TODO validate "Save" --> <!-- percent saved will be displayed below this text -->
+    <string name="premium_settings">"Chcete-li odemknout všechna nastavení, přejděte na verzi Premium"</string> <!-- TODO validate "Upgrade to Premium to unlock all settings" -->
+    <string name="buy_premium">"Koupit Premium"</string> <!-- TODO validate "Buy Premium" -->
+    <string name="already_bought">"Již jste koupili"</string> <!-- TODO validate "Already bought" -->
+    <string name="get_all_features">"Získejte všechny funkce"</string> <!-- TODO validate "Get all features" -->
+    <string name="get_all_sounds">"Získejte všechny zvuky"</string> <!-- TODO validate "Get all sounds" -->
+    <string name="premium_what_you_get">"Co dostanete:"</string> <!-- TODO validate "What you will get:" -->
+    <string name="feature1">"Neomezené aktivní oznámení"</string> <!-- TODO validate "Unlimited active notifications" -->
+    <string name="feature2">"Stříkejte hodiny"</string> <!-- TODO validate "Strike the hours" -->
+    <string name="feature3">"Vlastní interval opakování"</string> <!-- TODO validate "Custom repeat interval" -->
+    <string name="feature4">"Vyslovte text nebo čas"</string> <!-- TODO validate "Say text or time" -->
+    <string name="feature5">"Přidejte vlastní zvuky"</string> <!-- TODO validate "Add your own sounds" -->
+    <string name="feature6">"Prioritní podpora"</string> <!-- TODO validate "Priority support" -->
+    <string name="feature7">"Noční režim (tmavý motiv)"</string> <!-- TODO validate "Night mode (dark theme)" -->
+    <string name="feature_all_sounds">"Všechny zvuky v aplikaci"</string> <!-- TODO validate "All sounds in the app" -->
+    <string name="yearly_payment">"Roční platba."</string> <!-- TODO validate "Yearly payment." -->
+    <string name="free_trial">"Zkušební verze zdarma."</string> <!-- TODO validate "Free trial." -->
+    <string name="cancel_anytime">"Zrušit kdykoliv."</string> <!-- TODO validate "Cancel anytime." -->
+    <string name="premium_helps_support">"Upgradováním nástroje BlipBlip získáte nejen všechny funkce nebo zvuky, ale také podporujete jeho průběžný a nezávislý vývoj."</string> <!-- TODO validate "By upgrading BlipBlip you not only get all features or sounds but you also support its continuous and independent development." -->
+    <string name="loading">"Načítání…"</string> <!-- TODO validate "Loading…" -->
+    <string name="notification_has_premium_features">"Toto oznámení používá funkce Premium"</string> <!-- TODO validate "This notification uses Premium features" -->
+
+    <!-- Premium Bar -->
+    <string name="bar_upgrade_to_enable_app">"Upgrade na Premium"</string> <!-- TODO validate "Upgrade to Premium" -->
+    <string name="bar_upgrade_to_enable_notification">"Upgrade na Premium"</string> <!-- TODO validate "Upgrade to Premium" -->
+    <string name="bar_upgrade">"Kup nyní"</string> <!-- TODO validate "Buy now" -->
+    <string name="bar_uses_premium_features">"Oznámení používá funkce Premium"</string> <!-- TODO validate "Notification uses Premium features" -->
+
+    <!-- Premium dialog -->
+    <string name="premium_dialog_title">"Pojistné"</string> <!-- TODO validate "Premium" -->
+    <string name="premium_dialog_upgrade_now">"Kup nyní"</string> <!-- TODO validate "Buy now" -->
+    <string name="premium_dialog_later">"Později"</string> <!-- TODO validate "Later" -->
+    <string name="premium_icon_description">"Ikona hvězdy Premium"</string> <!-- TODO validate "Premium star icon" -->
+    <string name="feature_user_sounds_title">"Přidané zvuky uživatele jsou funkce Premium"</string> <!-- TODO validate "User added sounds is a Premium feature" -->
+    <string name="feature_user_sounds_description">"Aplikujte aplikaci BlipBlip svým přidáním vlastních zvuků."</string> <!-- TODO validate "Make BlipBlip app yours by adding your own sounds." -->
+    <string name="feature_premium_sounds_title">"Všechny zvuky dostupné v aplikaci jsou funkce Premium"</string> <!-- TODO validate "All sounds available in the app is a Premium feature" -->
+    <string name="feature_premium_sounds_description">"Upravte své oznámení mnoha vestavěnými zvuky."</string> <!-- TODO validate "Customize your notification with many built-in sounds." -->
+    <string name="feature_strike_the_hour_title">"Stříkání hodin je funkce Premium"</string> <!-- TODO validate "Strike the hours is a Premium feature" -->
+    <string name="feature_strike_the_hour_description">"Vytvořte si vlastní dědečkové hodiny (např. 3 krát ve tři hodiny)"</string> <!-- TODO validate "Create your own grandfather clock (e.g. plays 3 times at three o'clock)" -->
+    <string name="feature_say_text_title">"Řeknějící text je funkce Premium"</string> <!-- TODO validate "Saying text is a Premium feature" -->
+    <string name="feature_say_text_description">"Použijte text v řeči v oznámení."</string> <!-- TODO validate "Use text-to-speech in your notifications." -->
+    <string name="feature_say_time_title">"Doba spuštění je funkce Premium"</string> <!-- TODO validate "Saying time is a Premium feature" -->
+    <string name="feature_say_time_description">"Mluvte o aktuálním čase pomocí textu na řeč."</string> <!-- TODO validate "Speak current time using text to speech." -->
+    <string name="feature_custom_repeat_interval_title">"Vlastní interval opakování je funkce Premium"</string> <!-- TODO validate "Custom repeat interval is a Premium feature" -->
+    <string name="feature_custom_repeat_interval_description">"Nastavte časový interval (jiný než standard 1, 5, 10, 15, 20, 30 a 60 minut)."</string> <!-- TODO validate "Set any time interval (other than standard 1, 5, 10, 15, 20, 30 and 60 minutes)." -->
+    <string name="feature_general_title">"Oznámení používá funkce Premium"</string> <!-- TODO validate "Notification uses Premium functions" -->
+    <string name="feature_general_description">"Upgradujte, chcete-li povolit oznámení a vychutnat si všechny funkce Premium."</string> <!-- TODO validate "Upgrade to enable notification and enjoy all Premium features." -->
+    <string name="feature_multiple_active_notifications_title">"Neomezené aktivní oznámení je funkce Premium"</string> <!-- TODO validate "Unlimited active notifications is a Premium feature" -->
+    <string name="feature_multiple_active_notifications_description">"Použijte mnoho upozornění s různými nastaveními současně (např. Přehrávání dvakrát v 12:00, přehrávání jednou v 12:30). Ve volné verzi můžete mít jedno aktivní oznámení."</string> <!-- TODO validate "Use many notifications with different settings at the same time (e.g. play twice at 12:00, play once at 12:30). In free version you can have one active notification." -->
+    <string name="feature_unlimited_silent_time_title">"Neomezená konfigurace tichého času jsou funkcí Premium"</string> <!-- TODO validate "Unlimited silent time configurations is a Premium feature" -->
+    <string name="feature_unlimited_silent_time_description">"Ve volné verzi můžete aktivovat 5 tichých časových konfigurací."</string> <!-- TODO validate "In free version you can activate 5 silent time configurations." -->
+
+    <string name="vibrate_seconds">"Vibrace %s s"</string> <!-- TODO validate "Vibrate %ss" --> <!-- s at the end is for seconds, %s will be replaced by value e.g. "Vibrate 1.2s" -->
+    <string name="wait_and_vibrate_seconds">"Počkat %1$s s, vibrovat %2$s s"</string> <!-- TODO validate "Wait %1$ss, vibrate %2$ss" --> <!-- s at the end is for seconds, "%1$s" and "%2$s" will be replaced by value e.g. "Vibrate 1.2s" -->
+
+    <!-- button descriptions -->
+    <string name="add_new_sound">"Přidat nový zvuk z externí aplikace"</string> <!-- TODO validate "Add new sound from external app" -->
+    <string name="create_new_vibration">"Vytvořte novou vibraci"</string> <!-- TODO validate "Create new vibration" -->
+    <string name="create_new_notification">"Vytvořit nové oznámení"</string> <!-- TODO validate "Create new notification" -->
+    <string name="create_new_silent_time">"Vytvořte nový tichý čas"</string> <!-- TODO validate "Create new silent time" -->
+    <string name="additional_info_button">"Dodatečné informace"</string> <!-- TODO validate "Additional information" -->
+    <string name="start_playing">"Začněte hrát"</string> <!-- TODO validate "Start playing" -->
+    <string name="stop_playing">"Přestat hrát"</string> <!-- TODO validate "Stop playing" -->
+    <string name="edit_mode">"Mód úprav"</string> <!-- TODO validate "Edit mode" -->
+
+    <!-- widget -->
+    <string name="app_enabled">"Aplikace povolena"</string> <!-- TODO validate "App enabled" -->
+    <string name="app_disabled">"Aplikace je zakázána"</string> <!-- TODO validate "App disabled" -->
+
+    <string name="warning_volume_dnd">"Nelze zobrazit posuvník hlasitosti, protože je povolen režim Nerušit"</string> <!-- TODO validate "Cannot show volume slider because Do Not Disturb mode is enabled" -->
+
+    <!-- auto start failed dialog -->
+    <string name="auto_start_fail_title">"Automatické spuštění selhalo"</string> <!-- TODO validate "Auto-start failed" -->
+    <string name="auto_start_fail_message">"Automatické spuštění aplikace se nezdařilo. Zkontrolujte prosím nastavení."</string> <!-- TODO validate "Automatic start of the app failed. Please check your settings." -->
+
+    <!-- manual settings dialog -->
+    <string name="manual_settings_title">"Potřebné ruční nastavení"</string> <!-- TODO validate "Manual settings needed" -->
+    <string name="manual_settings_summary">"Některé ruční nastavení může být zapotřebí, aby BlipBlip fungoval správně."</string> <!-- TODO validate "Some manual settings may be needed for BlipBlip to function properly." -->
+    <string name="manual_settings_tips_subtitle">"Zkuste prosím tipy níže"</string> <!-- TODO validate "Please try tips below" -->
+    <string name="manual_settings_tip_settings_description">"Otevřete nastavení"</string> <!-- TODO validate "Open settings" -->
+    <string name="manual_settings_snackbar">"Přečtěte si prosím ruční nastavení, která mohou být potřebná pro správnou funkci aplikace"</string> <!-- TODO validate "Please review manual settings which may be needed for app to function properly" -->
+    <string name="manual_settings_show">"Show"</string> <!-- TODO validate "Show" -->
+    <string name="manual_settings_permanent_notification_description">"Povolit trvalé upozornění (doporučeno)"</string> <!-- TODO validate "Enable permanent notification (recommended)" -->
+    <string name="manual_settings_permanent_notification_info">"Aplikace zobrazí trvale viditelné oznámení, což může zabránit zabití aplikace."</string> <!-- TODO validate "App will show permanently visible notification, which may prevent app from being killed." -->
+    <string name="manual_settings_general_tips_button">"Zobrazit obecné tipy"</string> <!-- TODO validate "Show general tips" -->
+    <string name="manual_settings_general_tips">"Obecné tipy"</string> <!-- TODO validate "General tips" -->
+    <string name="manual_settings_general_tip1">"Zakázat režimy úspory energie v nastavení zařízení"</string> <!-- TODO validate "Disable power saving modes in device settings" -->
+    <string name="manual_settings_general_tip2">"Zakázat aplikace, které optimalizují využití baterie nebo paměti (např."</string> <!-- TODO validate "Disable apps that optimize battery or memory usage (e.g. task killers)" -->
+    <string name="manual_settings_general_tips_info">"Pokud vaše zařízení vyžaduje změnu dalších možností, dejte nám prosím vědět pomocí volby \ \"Nahlásit problém \\"."</string> <!-- TODO validate "If your device requires changing other options, please let us know using \"Report problem\" option." -->
+    <string name="manual_settings_suggest_report_problem">"Pokud byste se po pokusu o výše uvedené tipy stále vyskytly problémy s aplikací, nahláste problém."</string> <!-- TODO validate "If after trying above tips you would still have issues with the app, please report the problem." -->
+    <string name="manual_settings_do_not_show_again">"Znovu se neukazuj"</string> <!-- TODO validate "Do not show again" -->
+
+    <!-- Tips -->
+    <string name="tip1">"Přidejte aplikaci do Aplikace bez monitorování."</string> <!-- TODO validate "Add the app to Un-monitored Apps." -->
+    <string name="tip2">"Přidejte aplikaci do Chráněné aplikace."</string> <!-- TODO validate "Add the app to Protected Apps." -->
+    <string name="tip3">"Vyloučit aplikaci z vyčištění zámku obrazovky."</string> <!-- TODO validate "Exclude app from lock screen cleanup." -->
+    <string name="tip4">"Zakázat režim Stamina."</string> <!-- TODO validate "Disable Stamina mode." -->
+    <string name="tip5">"Zakázat omezení používání baterie."</string> <!-- TODO validate "Disable battery usage restrictions." -->
+    <string name="tip6">"Přidat aplikaci k automatickému spuštění."</string> <!-- TODO validate "Add app to auto-run." -->
+    <string name="tip7">"Zakažte čistič úloh na pozadí."</string> <!-- TODO validate "Disable background task cleaner." -->
+    <string name="tip8">"Přidat aplikaci k automatickému spuštění."</string> <!-- TODO validate "Add app to auto-start." -->
+    <string name="tip9">"Přidat aplikaci k automatickému spuštění."</string> <!-- TODO validate "Add app to auto-start." -->
+    <string name="tip10">"Uzamkněte aplikaci na obrazovce nedávných aplikací."</string> <!-- TODO validate "Lock the app on recent apps screen." -->
+    <string name="tip11">"Povolte aplikaci pracovat v pohotovostním režimu."</string> <!-- TODO validate "Allow the app to work in Standby Mode." -->
+    <string name="tip12">"Přidejte aplikaci k automatickému spuštění."</string> <!-- TODO validate "Add the app to auto-launch." -->
+    <string name="tip14">"Přidejte aplikaci do seznamu whitelistu ochrany na pozadí."</string> <!-- TODO validate "Add the app to Background protection whitelist." -->
+
+    <!-- Tips detailed instructions -->
+    <string name="tip1_settings">"Nastavení&gt; Údržba zařízení&gt; Baterie&gt; Seznam nepodmíněných aplikací"</string> <!-- TODO validate "Settings > Device maintenance > Battery > Unmonitored apps list" -->
+    <string name="tip2_settings">"Nastavení&gt; Rozšířené nastavení&gt; Správce baterií&gt; Chráněné aplikace nebo nastavení&gt; Ochrana soukromí a zabezpečení&gt; Chráněné aplikace"</string> <!-- TODO validate "Settings > Advanced Settings > Battery Manager > Protected Apps or Settings > Privacy and Security > Protected Apps" -->
+    <string name="tip3_settings">"Správce telefonu&gt; Vyčistit uzamčení obrazovky&gt; zrušte kontrolu aplikace (neuzavřete) nebo Nastavení&gt; Baterie&gt; Vyčistit uzamčení obrazovky&gt; zrušte kontrolu aplikace (nezavírejte)"</string> <!-- TODO validate "Phone Manager > Lock screen cleanup > un-check the app (don't close) or Settings > Battery > Lock screen cleanup > un-check the app (don't close)" -->
+    <string name="tip4_settings">"Nastavení&gt; Správa napájení&gt; Režim STAMINA&gt; Aplikace aktivní v pohotovostním režimu&gt; Přidat BlipBlip"</string> <!-- TODO validate "Settings > Power management > STAMINA mode > Apps active in standby > Add BlipBlip" -->
+    <string name="tip5_settings">"Nastavení&gt; Další nastavení&gt; Baterie a výkon&gt; Správa aplikací Používání baterie&gt; Zvolte aplikaci&gt; BlipBlip&gt; Žádné omezení"</string> <!-- TODO validate "Settings > Additional Settings > Battery & Performance > Manage Apps Battery Usage > Choose Apps > BlipBlip > No restrictions" -->
+    <string name="tip6_settings">"Nastavení&gt; Oprávnění&gt; Správa automatického spuštění"</string> <!-- TODO validate "Settings > Permissions > Auto-run management" -->
+    <string name="tip7_settings">"Nastavení&gt; Výchozí úloha&gt; Bílý seznam"</string> <!-- TODO validate "Settings > Background task clear > White list" -->
+    <string name="tip8_settings">"Asus Mobile Manager&gt; Správce automatického spuštění"</string> <!-- TODO validate "Asus Mobile Manager > Auto-start Manager" -->
+    <string name="tip9_settings">"Správce telefonu&gt; Oprávnění k ochraně osobních údajů&gt; Správce po spuštění"</string> <!-- TODO validate "Phone Manager > Privacy Permissions > Startup Manager" -->
+    <string name="tip10_settings">"Nedávné aplikace&gt; klepněte na položku BlipBlip a stáhněte ji"</string> <!-- TODO validate "Recent apps > tap BlipBlip and pull it down" -->
+    <string name="tip11_settings">"Zabezpečení&gt; Napájení&gt; Správa pohotovostního režimu&gt; Nastavte BlipBlip pro spuštění v pohotovostním režimu"</string> <!-- TODO validate "Security > Power > Standby Management > Set BlipBlip to run in Standby Mode" -->
+    <string name="tip12_settings">"Zabezpečení&gt; Povolení&gt; Aplikace s automatickým spuštěním&gt; povolit automatické spuštění"</string> <!-- TODO validate "Security > Permission > Auto-Launched apps > enable auto-launch" -->
+    <string name="tip13_settings">"Dlouze stiskněte červený kruh&gt; přejetím prstem dolů BlipBlip"</string> <!-- TODO validate "Long press red circle > swipe down BlipBlip" -->
+    <string name="tip14_settings">"Aplikace NeoSafe&gt; Napájení&gt; ikona pravého horního nastavení&gt; Bílá listina pro ochranu pozadí&gt; přidat BlipBLip"</string> <!-- TODO validate "NeoSafe app > Power > right top settings icon > Background protection whitelist > add BlipBLip" -->
+    <string name="tip15_settings">"Aplikace NeoSafe&gt; Povolení&gt; Rychlé spuštění&gt; Zapnout funkci BlipBlip"</string> <!-- TODO validate "NeoSafe app > Permission > Power-on speedup > Enable BlipBlip" -->
+
+    <!-- UI Settings -->
+    <string name="pref_user_interface">"Uživatelské rozhraní"</string> <!-- TODO validate "User interface" -->
+    <!-- edit button -->
+    <string name="edit_button_title">"Tlačítko pro úpravy"</string> <!-- TODO validate "Editing button" -->
+    <string name="edit_button_on">"Zobrazit tlačítko pro úpravy"</string> <!-- TODO validate "Show edit button" -->
+    <string name="edit_button_off">"Skrýt tlačítko pro úpravu. Chcete-li vstoupit do režimu úprav, použijte akci úprav z nabídky."</string> <!-- TODO validate "Hide edit button. To enter edit mode use edit action from menu." -->
+    <!-- changelog -->
+    <string name="version_history">"Historie verzí"</string> <!-- TODO validate "Version history" -->
+    <string name="changelog_title">"Co je nového?"</string> <!-- TODO validate "What's new?" -->
+    <string name="show_changelog_title">"Zobrazit seznam změn"</string> <!-- TODO validate "Show changelog" -->
+    <string name="show_changelog_on">"Zobrazit poslední změny při spuštění."</string> <!-- TODO validate "Show recent changes on startup." -->
+    <string name="show_changelog_off">"Nezobrazovat poslední změny při spuštění."</string> <!-- TODO validate "Do not show recent changes on startup." -->
+    <!-- inclusive -->
+    <string name="show_inclusive_title">"Změna zakončení časového rozsahu"</string> <!-- TODO validate "Change time range endings" -->
+    <string name="show_inclusive_on">"Při zadávání časového rozmezí zobrazte tlačítka, která umožňují určit, zda daný čas má být zahrnut v časovém rozsahu."</string> <!-- TODO validate "When specifying time range show buttons which allow to specify whether given time should be included in time range." -->
+    <string name="show_inclusive_off">"Skrýt tlačítka, která umožňují zvolit, zda má být v časovém rozsahu zahrnut čas."</string> <!-- TODO validate "Hide buttons allowing to choose if time should be included in time range." -->
+    <!-- show switches -->
+    <string name="show_actions_switches_title">"Akce se přepne"</string> <!-- TODO validate "Actions switches" --> <!-- option to show enable/disable switches for actions -->
+    <string name="show_actions_switches_on">"Zobrazit vypínače pro zakázání akcí."</string> <!-- TODO validate "Show switches for disabling actions." -->
+    <string name="show_actions_switches_off">"Skrýt přepínače, které zakazují akce."</string> <!-- TODO validate "Hide switches which disable actions." -->
+    <!-- Show kill dialog -->
+    <string name="show_kill_dialog_title">"Oznamte, zda byla aplikace zabita"</string> <!-- TODO validate "Notify if app was killed" -->
+    <string name="show_kill_dialog_on">"Zobrazí se zpráva při otevírání aplikace, pokud bylo zjištěno, že aplikace byla zabita."</string> <!-- TODO validate "Display message when opening the app if it was detected that the app was killed." -->
+    <string name="show_kill_dialog_off">"Nezobrazovat zprávu, když bylo zjištěno, že aplikace byla zabita."</string> <!-- TODO validate "Do not display message when it was detected that the app was killed." -->
+
+    <!-- examples -->
+    <string name="double_sound_every_hour">"Dvojitý zvuk každou hodinu"</string> <!-- TODO validate "Double sound every hour" -->
+    <string name="single_sound_half_past">"Zvuku půl za každou hodinu"</string> <!-- TODO validate "Sound half past every hour" -->
+    <string name="speak_time_every_hour">"Zadejte aktuální čas každou hodinu"</string> <!-- TODO validate "Speak current time every hour" -->
+
+    <!-- ads -->
+    <string name="remove_ads">"Odebrat reklamy"</string> <!-- TODO validate "Remove ads" -->
+    <string name="channel_name_watch_ads">"Sledujte reklamy"</string> <!-- TODO validate "Watch ads" -->
+    <string name="channel_name_premium_end_description">"Obdržíte upozornění, když budete potřebovat sledovat reklamu a užívat si všechny funkce Premium zdarma"</string> <!-- TODO validate "You will get notified when you need to watch an ad to enjoy all Premium features for free" -->
+
+    <string name="watch_ads">"Sledujte reklamy"</string> <!-- TODO validate "Watch ads" -->
+    <string name="watch_video">"Sledujte videoreklamu"</string> <!-- TODO validate "Watch video ad" -->
+    <string name="subscribe_without_ads">"Přihlaste se bez reklam"</string> <!-- TODO validate "Subscribe without ads" -->
+    <string name="start_free_trial">"Začněte zkušební verzi zdarma"</string> <!-- TODO validate "Start a free trial" -->
+    <string name="tooltip_accept_privacy_policy">"Zaškrtněte políčko."</string> <!-- TODO validate "Please check the box." -->
+    <string name="welcome_to_blipBlip">"Vítejte na stránkách BlipBlip!"</string> <!-- TODO validate "Welcome to BlipBlip!" -->
+    <string name="blipblip_free_description_short">"Tato aplikace je bezplatná výměnou za sledování reklam."</string> <!-- TODO validate "This app is free in exchange for watching ads." -->
+    <string name="blipblip_free_description">"Tato aplikace je bezplatná výměnou za sledování reklam. K dispozici jsou všechny funkce a zvuky Blip Blip Premium po určitou dobu po sledování reklamy. Čím více budete sledovat, tím déle můžete aplikaci používat."</string> <!-- TODO validate "This app is free in exchange for watching ads. You can access all Blip Blip Premium features and sounds for specified time period after watching an ad. The more you watch the longer you can use the app." -->
+    <string name="blipblip_free_description2">"V uživatelském rozhraní nejsou žádné reklamy. Neočekávaně se objevují žádné reklamy. Vždy si vyberete, kdy chcete sledovat reklamu."</string> <!-- TODO validate "There are no ads in user interface. There are no ads popping up unexpectedly. You always choose when you want to watch an ad." -->
+    <string name="watch_ad">"Zobrazit reklamu"</string> <!-- TODO validate "View ad" -->
+    <string name="ad">"Inzerát"</string> <!-- TODO validate "Ad" --> <!-- Short label of button for watching ads -->
+    <string name="accept_privacy_policy">"Přijímám zásady ochrany osobních údajů."</string> <!-- TODO validate "I accept privacy policy." -->
+    <string name="get_blipblip">"Chcete bezplatnou aplikaci bez reklam a bez funkcí Premium? Klepněte sem."</string> <!-- TODO validate "Want free app without ads and without Premium features? Tap here." -->
+    <string name="privacy_policy">"Zásady ochrany osobních údajů."</string> <!-- TODO validate "Privacy policy." -->
+    <string name="get_time_of_premium">"Získejte %1$s Premium"</string> <!-- TODO validate "Get %1$s of Premium" -->
+    <string name="get_time_of_premium_more">"Zobrazte reklamu, abyste mohli aplikaci používat dodatečně: %s ."</string> <!-- TODO validate "View ad to use the app for additional time: %s." -->
+    <string name="premium_time_left">"Zbývající čas pro použití aplikace: %s"</string> <!-- TODO validate "Time left for using the app: %s" -->
+    <string name="app_was_enabled">"Aplikace byla povolena!"</string> <!-- TODO validate "App has been enabled!" -->
+    <string name="failed_loading_ad">"Reklama se nepodařilo načíst. Zkontrolujte připojení k internetu a zkuste to znovu."</string> <!-- TODO validate "Failed to load ad. Check your internet connection and try again." -->
+    <string name="continue_with_ads">"Pokračujte v reklamách"</string> <!-- TODO validate "Continue with ads" -->
+    <string name="continue_with_relevant_question">"Můžeme pro vaše reklamy použít vaše údaje?"</string> <!-- TODO validate "Can we use your data to tailor ads for you?" -->
+    <string name="continue_with_relevant_ads">"Ano, pokračujte s relevantními reklamami"</string> <!-- TODO validate "Yes, continue with relevant ads" -->
+    <string name="continue_with_less_relevant_ads">"Ne, pokračujte s méně relevantními reklamami"</string> <!-- TODO validate "No, continue with less relevant ads" -->
+    <string name="watch_ads_to_get_next_notification">"Zobrazte reklamy a získejte další oznámení"</string> <!-- TODO validate "View ads to get next notification" -->
+    <string name="watch_ad_to_enable_app">"Zobrazit reklamu a povolit aplikaci"</string> <!-- TODO validate "View ad to enable app" -->
+    <string name="popup_watch_more_ads_to_get_notification">"Sledujte další reklamy, abyste získali toto oznámení"</string> <!-- TODO validate "Watch more ads to get this notification" -->
+
+    <!-- ads notifications -->
+    <string name="notif_premium_ended">"Aplikace je zakázána"</string> <!-- TODO validate "Application disabled" -->
+    <string name="notif_premium_ended_description">"Sledujte reklamu a znovu ji povolte."</string> <!-- TODO validate "Watch ad to enable it again." -->
+    <string name="notif_stop_warn">"Další oznámení nebude přehráno"</string> <!-- TODO validate "Next notification won't be played" -->
+    <string name="notif_stop_warn_description">"Sledujte reklamu, abyste prodloužili dobu používání aplikace"</string> <!-- TODO validate "Watch ad to extend time for using the app" -->
+
+    <!-- ads settings -->
+    <string name="ads_notifications">"Potřeba prohlížení reklam"</string> <!-- TODO validate "Need of viewing ads" -->
+    <string name="ads_notifications_on">"Obdržíte upozornění na potřebu zobrazení reklam"</string> <!-- TODO validate "You will get notifications about the need of viewing ads" -->
+    <string name="ads_notifications_off">"Nebudete dostávat oznámení o potřebě prohlížení reklam"</string> <!-- TODO validate "You won't get any notifications about the need of viewing ads" -->
+    <string name="ads_warn_app_disabled">"Zakázání aplikace"</string> <!-- TODO validate "Application disabling" -->
+    <string name="ads_warn_app_disabled_on">"Upozornit, když je aplikace zakázána, protože nebylo sledováno dostatečné množství reklam"</string> <!-- TODO validate "Notify when app is disabled because not enough ads were watched" -->
+    <string name="ads_warn_app_disabled_off">"Neupozorňujte, kdy bude aplikace zakázána, protože nebylo sledováno dostatečné množství reklam"</string> <!-- TODO validate "Do not notify when app will be disabled because not enough ads were watched" -->
+    <string name="ads_warn_next_notification">"Další upozornění"</string> <!-- TODO validate "Next notification" -->
+    <string name="ads_warn_next_notification_on">"Oznamte, kdy se další oznámení nebude přehrát, protože nebylo sledováno dostatečné množství reklam"</string> <!-- TODO validate "Notify when next notification won't be played because not enough ads were watched" -->
+    <string name="ads_warn_next_notification_off">"Neoznamujte, kdy se další oznámení nebude přehrát, protože nebylo sledováno dostatečné množství reklam"</string> <!-- TODO validate "Do not notify when next notification won't be played because not enough ads were watched" -->
+
+    <!-- Privacy settings -->
+    <string name="privacy">"Soukromí"</string> <!-- TODO validate "Privacy" -->
+    <string name="ads">"Reklamy"</string> <!-- TODO validate "Ads" -->
+    <string name="pref_personalized_ads">"Personalizované reklamy"</string> <!-- TODO validate "Personalized ads" -->
+    <string name="pref_personalized_ads_on">"Reklamy budou přizpůsobeny."</string> <!-- TODO validate "Ads will be personalized." -->
+    <string name="pref_personalized_ads_off">"Vaše údaje nebudou použity k personalizaci reklam."</string> <!-- TODO validate "Your data will not be used to personalize ads." -->
+    <string name="pref_analytics">"Analytics"</string> <!-- TODO validate "Analytics" -->
+    <string name="pref_collect_analytics">"Sběr anonymních dat"</string> <!-- TODO validate "Collect anonymous data" -->
+    <string name="pref_collect_analytics_on">"Shromažďujte anonymní, agregované údaje, které vám pomohou vylepšit aplikaci."</string> <!-- TODO validate "Collect anonymous, aggregated data to help improve the app." -->
+    <string name="pref_collect_analytics_off">"Nezhromažďujte žádné údaje."</string> <!-- TODO validate "Do not collect any data." -->
+    <string name="pref_analytics_anonymize_ip">"Anonymní umístění"</string> <!-- TODO validate "Anonymize location" -->
+    <string name="pref_analytics_anonymize_ip_on">"Anonymní adresa IP byla odeslána k určení umístění uživatele."</string> <!-- TODO validate "Anonymize IP address sent to determine user location." -->
+    <string name="pref_analytics_anonymize_ip_off">"Použijte úplnou IP adresu pouze pro určení obecné polohy uživatele (země, město)."</string> <!-- TODO validate "Use full IP address only for detemining user's general location (country, city)." -->
+
+    <!-- install BlipBlip free -->
+    <string name="dialog_free_premium_title">"Chcete zdarma?"</string> <!-- TODO validate "Want Premium free?" -->
+    <string name="dialog_free_premium_description">"Sledujte reklamy výměnou za funkce Premium v aplikaci %1$s ."</string> <!-- TODO validate "Watch ads in exchange for Premium features in %1$s app." -->
+    <string name="open_app">"Otevřete aplikaci"</string> <!-- TODO validate "Open app" -->
+    <string name="install_app">"Nainstalovat aplikaci"</string> <!-- TODO validate "Install app" -->
+    <string name="maybe_later">"Možná později"</string> <!-- TODO validate "Maybe later" -->
+
+    <!-- tooltips -->
+    <string name="tooltip_play_next_button">"Přehraje další oznámení"</string> <!-- TODO validate "Playback next notification" -->
+    <string name="tooltip_upcoming_notifications">"Zobrazte a přehrajte nadcházející oznámení"</string> <!-- TODO validate "See and playback upcoming notifications" -->
+    <string name="tooltip_upcoming_notification">"Stiskněte čas pro přehrání dalších upozornění"</string> <!-- TODO validate "Press time to playback upcoming notifications" -->
+
+</resources>

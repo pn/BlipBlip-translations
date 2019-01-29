@@ -1,0 +1,829 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Buttons -->
+    <string name="change_setting">"Schimbare"</string> <!-- TODO validate "Change" -->
+    <string name="send">"Trimite"</string> <!-- TODO validate "Send" -->
+    <string name="send_email_description">"Trimite email…"</string> <!-- TODO validate "Send email…" -->
+    <string name="play_button_description">"Testați-vă setările"</string> <!-- TODO validate "Test your settings" -->
+
+    <!-- Warnings -->
+    <string name="warning">"Avertizare"</string> <!-- TODO validate "Warning" -->
+    <string name="warning_understood">"Am înțeles"</string> <!-- TODO validate "Got it" -->
+    <string name="please_wait">"Te rog asteapta…"</string> <!-- TODO validate "Please wait…" -->
+    <string name="warn_power_saving">"Pentru a asigura funcționarea fiabilă, dezactivați toate modurile de economisire a energiei."</string> <!-- TODO validate "To ensure reliable operation please disable all power saving modes." --> <!-- Please make this as short as possible -->
+    <string name="allow_while_idle_title">"Permiteți în modul de alimentare redusă"</string> <!-- TODO validate "Allow in low power mode" -->
+    <string name="allow_while_idle_off">"Când telefonul intră în modul de alimentare redusă, este posibil să fie ignorate anumite notificări."</string> <!-- TODO validate "When phone enters low power mode some notifications may be skipped." -->
+    <string name="allow_while_idle_on">"Permiteți să lucrați în mod redus (doze / inactiv). Nu poate funcționa întotdeauna pentru notificări mai frecvente decât 15 minute. Setarea poate afecta ușor utilizarea bateriei."</string> <!-- TODO validate "Allow to work in low power (Doze/Idle) mode. May not always work for notifications more frequent than 15 minutes. Setting may slightly affect battery usage." -->
+    <string name="app_killed_title">"Aplicația a fost ucisă"</string> <!-- TODO validate "App was killed" -->
+
+    <!-- Next Notification -->
+    <string name="next_notification_off">"de pe"</string> <!-- TODO validate "Off" -->
+    <string name="upcoming_notifications">"Notificări viitoare"</string> <!-- TODO validate "Upcoming notifications" -->
+    <string name="day_today">"Astăzi"</string> <!-- TODO validate "Today" -->
+    <string name="day_tomorrow">"Mâine"</string> <!-- TODO validate "Tomorrow" -->
+    <string name="day_monday">"luni"</string> <!-- TODO validate "Monday" -->
+    <string name="day_tuesday">"marţi"</string> <!-- TODO validate "Tuesday" -->
+    <string name="day_wednesday">"miercuri"</string> <!-- TODO validate "Wednesday" -->
+    <string name="day_thursday">"joi"</string> <!-- TODO validate "Thursday" -->
+    <string name="day_friday">"vineri"</string> <!-- TODO validate "Friday" -->
+    <string name="day_saturday">"sâmbătă"</string> <!-- TODO validate "Saturday" -->
+    <string name="day_sunday">"duminică"</string> <!-- TODO validate "Sunday" -->
+    <string name="preview_upcoming_notifications">"Vizualizați notificările viitoare"</string> <!-- TODO validate "Preview upcoming notifications" -->
+    <string name="disable_premium_notifications">"Dezactivați notificările Premium"</string> <!-- TODO validate "Disable Premium notifications" -->
+
+    <!-- Sound -->
+    <string name="sound_text">"Sunet"</string> <!-- TODO validate "Sound" -->
+    <string name="sound_blipblip">"BlipBlip"</string> <!-- TODO validate "BlipBlip" -->
+    <string name="sound_casio_watch">"Casio ceas"</string> <!-- TODO validate "Casio watch" -->
+    <string name="sound_casio_watch_single">"Casio ceas (singur)"</string> <!-- TODO validate "Casio watch (single)" -->
+    <string name="sound_gong">"Gong"</string> <!-- TODO validate "Gong" -->
+    <string name="sound_ships_bell">"Clopotul navei"</string> <!-- TODO validate "Ship's bell" -->
+    <string name="sound_double_ships_bell">"Clopot dublu de navă"</string> <!-- TODO validate "Double ship's bell" -->
+    <string name="sound_cuckoo">"Cuc"</string> <!-- TODO validate "Cuckoo" -->
+    <string name="sound_watch_beep">"Uita-te la bip"</string> <!-- TODO validate "Watch beep" -->
+    <string name="sound_big_ben">"Marele Ben"</string> <!-- TODO validate "Big Ben" -->
+    <string name="sound_big_ben_strikes">"Big Ben Strikes"</string> <!-- TODO validate "Big Ben Strikes" -->
+    <string name="sound_bubble">"balon"</string> <!-- TODO validate "Bubble" -->
+    <string name="sound_bird">"Bird %1$s"</string> <!-- TODO validate "Bird %1$s" -->
+    <string name="sound_cartoon">"Desen animat %1$s"</string> <!-- TODO validate "Cartoon %1$s" -->
+    <string name="sound_cat">"Cat %1$s"</string> <!-- TODO validate "Cat %1$s" -->
+    <string name="sound_dog">"Câine %1$s"</string> <!-- TODO validate "Dog %1$s" -->
+    <string name="sound_rooster">"Cocoş"</string> <!-- TODO validate "Rooster" -->
+    <string name="sound_guitar_strum">"Guitar strum %1$s"</string> <!-- TODO validate "Guitar strum %1$s" -->
+    <string name="sound_water_drop">"Picătură de apă %1$s"</string> <!-- TODO validate "Water drop %1$s" -->
+    <string name="sound_water_pouring">"Turnarea apei %1$s"</string> <!-- TODO validate "Water pouring %1$s" -->
+    <string name="sound_sonar_ping">"Sonar ping %1$s"</string> <!-- TODO validate "Sonar ping %1$s" -->
+    <string name="sound_inception">"Inception %1$s"</string> <!-- TODO validate "Inception %1$s" -->
+    <string name="sound_the_pips">"Sâmburii"</string> <!-- TODO validate "The pips" -->
+    <string name="sound_short_pip">"Pipă scurtă"</string> <!-- TODO validate "Short pip" -->
+    <string name="sound_long_pip">"Pipă lungă"</string> <!-- TODO validate "Long pip" -->
+    <string name="sound_crystal_glass">"Sticlă de sticlă"</string> <!-- TODO validate "Crystal glass" -->
+    <string name="sound_ping">"Ping"</string> <!-- TODO validate "Ping" -->
+    <string name="sound_gong_num">"Gong %1$s"</string> <!-- TODO validate "Gong %1$s" -->
+    <string name="sound_boxing_bell">"Box clopot"</string> <!-- TODO validate "Boxing bell" -->
+    <string name="sound_singing_bowl">"Cântecul de cântat %1$s"</string> <!-- TODO validate "Singing bowl %1$s" -->
+    <string name="sound_ekg">"Monitorul cardiac %1$s"</string> <!-- TODO validate "Heart monitor %1$s" -->
+    <string name="sound_got_item">"Am primit un articol"</string> <!-- TODO validate "Got item" -->
+    <string name="sound_guitar">"Chitară"</string> <!-- TODO validate "Guitar" -->
+
+    <!-- Volume -->
+    <string name="text_seek_volume">"Volumul sunetului"</string> <!-- TODO validate "Sound volume" -->
+
+    <!-- Vibration -->
+    <string name="vibrate">"vibrație"</string> <!-- TODO validate "Vibration" -->
+    <string name="vibration_blipblip">"Pentru BlipBlip"</string> <!-- TODO validate "For BlipBlip" -->
+    <string name="vibration_casio_watch">"Pentru ceasul Casio"</string> <!-- TODO validate "For Casio watch" -->
+    <string name="vibration_single_short">"Singurul scurt"</string> <!-- TODO validate "Single short" -->
+    <string name="vibration_double_short">"Dublu scurt"</string> <!-- TODO validate "Double short" -->
+    <string name="vibration_single_long">"Singură lungă"</string> <!-- TODO validate "Single long" -->
+    <string name="vibration_double_long">"Dublu lung"</string> <!-- TODO validate "Double long" -->
+
+    <!-- Silent Mode -->
+    <string name="pref_silent_mode">"Mod silențios"</string> <!-- TODO validate "Silent Mode" -->
+    <string name="title_silent_mode_settings">"Moduri Silențioase"</string> <!-- TODO validate "Silent Mode Settings" -->
+    <string name="sound_in_silent_mode_title">"Sunet în mod silențios"</string> <!-- TODO validate "Sound in Silent mode" -->
+    <string name="sound_in_silent_mode_on">"Permiteți redarea sunetului în modul Silențios"</string> <!-- TODO validate "Allow playing sound in Silent mode" -->
+    <string name="sound_in_silent_mode_off">"Dezactivați sunetul în modul Silențios"</string> <!-- TODO validate "Disable sound in Silent mode" -->
+    <string name="vibrate_in_silent_mode_title">"Vibrați în modul Silențios"</string> <!-- TODO validate "Vibrate in Silent mode" -->
+    <string name="vibrate_in_silent_mode_on">"Permiteți vibrațiile în modul silențios"</string> <!-- TODO validate "Allow vibration in Silent mode" -->
+    <string name="vibrate_in_silent_mode_off">"Dezactivați vibrațiile în modul silențios"</string> <!-- TODO validate "Disable vibration in Silent mode" -->
+    <string name="force_screen_in_silent_mode_title">"Activați ecranul de activare"</string> <!-- TODO validate "Force enable screen" -->
+    <string name="force_screen_in_silent_mode_on">"Se aprinde ecranul în modul Silențios, chiar dacă opțiunea \"Afișează ecranul la notificare\" este dezactivată"</string> <!-- TODO validate "Light up screen in Silent mode even if \"Light up screen on notification\" option is disabled" -->
+    <string name="force_screen_in_silent_mode_off">"invalid"</string> <!-- TODO validate "Disabled" -->
+    <string name="warn_sound_disabled_silent_mode">"Sunetul notificării BlipBlip este dezactivat, deoarece dispozitivul este în modul silențios."</string> <!-- TODO validate "BlipBlip notification sound disabled, because your device is in silent mode." -->
+
+    <!-- Vibration Mode -->
+    <string name="pref_vibrate_mode">"Vibrați"</string> <!-- TODO validate "Vibrate Mode" -->
+    <string name="title_vibrate_mode_settings">"Setări mod Vibrare"</string> <!-- TODO validate "Vibrate Mode Settings" -->
+    <string name="sound_in_vibrate_mode_title">"Sunet în modul vibrare"</string> <!-- TODO validate "Sound in Vibrate mode" -->
+    <string name="sound_in_vibrate_mode_on">"Permiteți redarea sunetului în modul Vibrare"</string> <!-- TODO validate "Allow playing sound in Vibrate mode" -->
+    <string name="sound_in_vibrate_mode_off">"Dezactivați sunetul în modul Vibrare"</string> <!-- TODO validate "Disable sound in Vibrate mode" -->
+    <string name="vibrate_in_vibrate_mode_title">"Vibrați în modul vibrare"</string> <!-- TODO validate "Vibrate in Vibrate mode" -->
+    <string name="vibrate_in_vibrate_mode_on">"Permiteți vibrațiile în modul vibrare"</string> <!-- TODO validate "Allow vibration in Vibrate mode" -->
+    <string name="vibrate_in_vibrate_mode_off">"Dezactivați vibrațiile în modul Vibrație"</string> <!-- TODO validate "Disable vibration in Vibrate mode" -->
+    <string name="force_vibrate_in_vibrate_mode_title">"Forțați vibrația"</string> <!-- TODO validate "Force vibrate" -->
+    <string name="force_vibrate_in_vibrate_mode_on">"Forțați vibrațiile în modul Vibrație, chiar dacă vibrația este dezactivată"</string> <!-- TODO validate "Force vibration in Vibrate mode even if vibration is disabled" -->
+    <string name="force_vibrate_in_vibrate_mode_off">"invalid"</string> <!-- TODO validate "Disabled" -->
+    <string name="force_screen_in_vibrate_mode_title">"Activați ecranul de activare"</string> <!-- TODO validate "Force enable screen" -->
+    <string name="force_screen_in_vibrate_mode_on">"Afișați ecranul în modul Vibrație, chiar dacă opțiunea \"Afișează ecranul la notificare\" este dezactivată"</string> <!-- TODO validate "Light up screen in Vibrate mode even if \"Light up screen on notification\" option is disabled" -->
+    <string name="force_screen_in_vibrate_mode_off">"invalid"</string> <!-- TODO validate "Disabled" -->
+    <string name="warn_sound_disabled_vibrate_mode">"Sunetul de notificare BlipBlip este dezactivat, deoarece dispozitivul este în mod vibrat."</string> <!-- TODO validate "BlipBlip notification sound disabled, because your device is in vibrate mode." -->
+
+    <!-- Status Bar -->
+    <string name="service_disabled_warning">"BlipBlip este dezactivat"</string> <!-- TODO validate "BlipBlip is disabled" -->
+    <string name="service_enable">"Permite"</string> <!-- TODO validate "Enable" -->
+
+    <!-- Menu - Settings -->
+    <string name="action_settings">"Setări"</string> <!-- TODO validate "Settings" -->
+
+    <!-- Language -->
+    <string name="app_language">"Limba"</string> <!-- TODO validate "Language" -->
+    <string name="system_default_language">"Defectiune de sistem"</string> <!-- TODO validate "System default" -->
+    <string name="language_improve_translations">"Adăugați sau îmbunătățiți traducerile"</string> <!-- TODO validate "Add or improve translations" -->
+
+    <!-- Quiet Hours -->
+    <string name="quiet_hours_title">"Ora silențioasă"</string> <!-- TODO validate "Silent time" -->
+
+    <!-- Quiet Days -->
+    <string name="quiet_days_title">"Zile tăcute"</string> <!-- TODO validate "Silent days" -->
+    <string name="days_none">"Nici unul"</string> <!-- TODO validate "None" -->
+    <string name="days_everyday">"In fiecare zi"</string> <!-- TODO validate "Everyday" -->
+    <string name="quiet_day_warning">"Notificarea este dezactivată, deoarece astăzi este \"Zile tăcute\"."</string> <!-- TODO validate "Notification disabled, because today is \"silent day\"." -->
+    <string name="toast_change_quiet_days">"Vă rugăm să schimbați setarea \"Silent days\" pentru ca BlipBlip să funcționeze astăzi."</string> <!-- TODO validate "Please change \"Silent days\" setting to make BlipBlip work today." -->
+
+    <!-- While Music -->
+    <string name="while_music">"Dezactivați în timp ce se redă muzica"</string> <!-- TODO validate "Disable while music plays" -->
+    <string name="while_music_on">"Toate notificările au fost dezactivate"</string> <!-- TODO validate "All notifications disabled" -->
+    <string name="while_music_off">"Notificările au fost activate"</string> <!-- TODO validate "Notifications enabled" -->
+    <string name="while_music_toast">"Notificările BlipBlip sunt acum dezactivate, deoarece ascultați muzică."</string> <!-- TODO validate "BlipBlip notifications are now disabled, because you are listening to music." -->
+    <!-- While phone call -->
+    <string name="while_phonecall">"Dezactivați în timpul apelului telefonic"</string> <!-- TODO validate "Disable during phone call" -->
+    <string name="while_phonecall_on">"Toate notificările au fost dezactivate"</string> <!-- TODO validate "All notifications disabled" -->
+    <string name="while_phonecall_off">"Notificările au fost activate"</string> <!-- TODO validate "Notifications enabled" -->
+    <string name="while_phonecall_toast">"Notificările BlipBlip sunt dezactivate acum, deoarece sunteți într-un apel telefonic."</string> <!-- TODO validate "BlipBlip notifications are now disabled, because you are in a phone call." -->
+
+
+
+    <!-- ADVANCED SETTINGS -->
+    <string name="pref_advanced">"Setari avansate"</string> <!-- TODO validate "Advanced settings" -->
+    <string name="title_advanced_settings">"Setari avansate"</string> <!-- TODO validate "Advanced settings" -->
+
+    <!-- Audio Stream -->
+    <string name="pref_choose_audio_stream">"Fluxul audio"</string> <!-- TODO validate "Audio stream" -->
+    <string name="audio_stream_phone_ring">"Inel telefonic"</string> <!-- TODO validate "Phone ring" -->
+    <string name="audio_stream_alarm">"Alarma"</string> <!-- TODO validate "Alarm" -->
+    <string name="audio_stream_alarm2">"Ceas cu alarmă"</string> <!-- TODO validate "Alarm clock" -->
+    <string name="audio_stream_media">"Mass-media"</string> <!-- TODO validate "Media" -->
+    <string name="audio_stream_media2">"Muzică, Video, Jocuri"</string> <!-- TODO validate "Music, Videos, Games" -->
+    <string name="audio_stream_notification">"Notificare"</string> <!-- TODO validate "Notification" -->
+
+    <!-- Notifications -->
+    <string name="pref_notification_settings">"Setări de notificare"</string> <!-- TODO validate "Notification settings" -->
+    <string name="pref_notification_status_title">"Afișați notificarea"</string> <!-- TODO validate "Display notification" -->
+
+    <!-- Show Notification Always -->
+    <string name="pref_notification_always">"Afișați întotdeauna"</string> <!-- TODO validate "Always display" -->
+    <string name="pref_notification_always_on">"Afișați notificarea, indiferent dacă este activată"</string> <!-- TODO validate "Display notification regardless if it is enabled" -->
+    <string name="pref_notification_always_off">"Afișați notificarea numai dacă este activată"</string> <!-- TODO validate "Display notification only if it is enabled" -->
+    <string name="notification_settings_updated">"Setările de notificare au fost actualizate"</string> <!-- TODO validate "Notification settings updated" --> <!-- message displayed when one of notification settings is updated without user interacting with these options -->
+    <string name="permanent_notification">"Notificare permanentă"</string> <!-- TODO validate "Permanent notification" -->
+
+    <!-- Notification Priority -->
+    <string name="pref_notification_priority">"Prioritate de notificare"</string> <!-- TODO validate "Notification priority" -->
+    <string name="item_priority_minimum">"Minim"</string> <!-- TODO validate "Minimum" -->
+    <string name="item_priority_low">"Scăzut"</string> <!-- TODO validate "Low" -->
+    <string name="item_priority_normal">"Normal"</string> <!-- TODO validate "Normal" -->
+    <string name="item_priority_high">"Înalt"</string> <!-- TODO validate "High" -->
+    <string name="item_priority_maximum">"Maxim"</string> <!-- TODO validate "Maximum" -->
+
+    <!-- Dismissible Notification -->
+
+    <!-- Auto dismiss -->
+    <string name="auto_dismiss_notification_title">"Ștergerea automată a notificării"</string> <!-- TODO validate "Auto dismiss notification" -->
+    <string name="auto_dismiss_notification_on">"Renunțați la notificare automat după o anumită perioadă de timp."</string> <!-- TODO validate "Dismiss notification automatically after some time." -->
+    <string name="auto_dismiss_notification_off">"Notificarea nu va fi respinsă automat."</string> <!-- TODO validate "Notification will not be dismissed automatically." -->
+
+    <!-- Vibrate on Wear -->
+    <string name="pref_vibrate_wearable_title">"Vibrați pe dispozitivul conectat"</string> <!-- TODO validate "Vibrate on connected device" -->
+    <string name="pref_vibrate_wearable_on2">"Dacă vibrația este activată, vibrați și pe dispozitivul portabil conectat (de exemplu, ceas inteligent). Necesită adăugarea unei acțiuni de notificare sistem."</string> <!-- TODO validate "If vibration is enabled vibrate also on connected wearable device (e.g. smart watch). Requires adding System notification action." -->
+    <string name="pref_vibrate_wearable_off">"Nu vibrați pe dispozitivul portabil conectat"</string> <!-- TODO validate "Do not vibrate on connected wearable device" -->
+
+    <!-- Action Buttons -->
+    <string name="pref_notification_action_buttons">"Butoane de acțiune"</string> <!-- TODO validate "Action buttons" --> <!-- Preference name for choosing which buttons are visible on notification -->
+    <string name="notif_action_stop">"Stop"</string> <!-- TODO validate "Stop" --> <!-- Description of action button. This should refer to notif_action_stop -->
+    <string name="notif_action_disable_or_enable">"Permite dezactivarea"</string> <!-- TODO validate "Enable/Disable" --> <!-- Description of action button. This refers to notif_action_enable and notif_action -->
+    <string name="notif_button_play">"Joaca"</string> <!-- TODO validate "Play" --> <!-- Action button label in notification having same action as play button in the app - plays the notificaton for testing purposes. This text should be short, because it will be shown on notification button where there can be 3 of them -->
+    <string name="notif_button_stop">"Stop"</string> <!-- TODO validate "Stop" --> <!-- Stops playback of notification. Should be short. -->
+    <string name="notif_button_enable">"Permite"</string> <!-- TODO validate "Enable" --> <!-- This text should be short, because it will be shown on notification button where there can be 3 of them. -->
+    <string name="notif_button_disable">"Dezactivați"</string> <!-- TODO validate "Disable" --> <!-- This text should be short, because it will be shown on notification button where there can be 3 of them. -->
+
+    <!-- Custom Texts -->
+    <string name="pref_custom_texts">"Texte de notificare personalizate"</string> <!-- TODO validate "Custom notification texts" -->
+    <string name="pref_notification_title_title">"Titlul de notificare"</string> <!-- TODO validate "Notification title" -->
+    <string name="pref_notification_description_title">"Descrierea descrierii"</string> <!-- TODO validate "Notification description" -->
+
+    <!-- Reliability -->
+    <string name="pref_reliability">"Setările de fiabilitate"</string> <!-- TODO validate "Reliability settings" --> <!-- title of settings section meant for all settings which may improve running of the app without issues -->
+    <string name="reliability_warning">"Modificarea acestor setări poate avea un impact asupra fiabilității aplicației."</string> <!-- TODO validate "Changing these settings may impact reliability of the app." --> <!-- This message should be as short as possible. There is risk of cutting it off if it will be too long -->
+
+    <!-- Alarm Mode -->
+    <string name="notif_as_alarm_title">"Modul de alarmă"</string> <!-- TODO validate "Alarm mode" -->
+    <string name="notif_as_alarm_off">"Notificări regulate"</string> <!-- TODO validate "Regular notifications" -->
+    <string name="notif_as_alarm_on">"Notificările funcționează ca alarme - stabilește întârzieri de notificare de 3-5 minute pe unele dispozitive Samsung"</string> <!-- TODO validate "Notifications act as alarms – fixes 3–5 minute notification delays on some Samsung devices" -->
+    <string name="late_notif_title">"Modul de alarmă este activat"</string> <!-- TODO validate "Alarm mode enabled" -->
+    <string name="late_notif_message">"S-a constatat că notificarea a fost amânată cu câteva minute, ceea ce se întâmplă pe unele dispozitive Samsung. Pentru a preveni acest lucru, a fost activată o opțiune \ \"Mod de alarmă \\", care ar trebui să remedieze această problemă. Puteți dezactiva această opțiune și activați automat această opțiune în setările avansate. Dacă va fi o soluție mai bună găsită pentru a remedia problema, aplicația va fi actualizată. Dacă aveți alte probleme, vă rugăm să le raportați prin e-mail."</string> <!-- TODO validate "It has been detected that notification was delayed by several minutes which happens on some Samsung devices. To prevent this, an \"Alarm mode\" option has been enabled, which should fix this issue. You can disable this option and automatic enabling of this option in the Advanced Settings. If there will be better solution found to fix the issue the app will be updated. If you have any more problems please report them via email." -->
+
+    <!-- Auto Alarm -->
+    <string name="auto_notif_as_alarm_title">"Activați automat modul de alarmă"</string> <!-- TODO validate "Auto enable Alarm Mode" -->
+    <string name="auto_notif_as_alarm_on">"Activați modul Alarmă dacă a fost detectată o întârziere de notificare"</string> <!-- TODO validate "Enable Alarm mode if notification delay detected" -->
+    <string name="auto_notif_as_alarm_off">"Nu activați automat modul de alarmă"</string> <!-- TODO validate "Do not enable Alarm mode automatically" -->
+
+    <!-- Low Valume -->
+    <string name="pref_low_volume_fix">"Fixarea volumului redus"</string> <!-- TODO validate "Low volume fix" -->
+    <string name="pref_low_volume_fix_on">"Fixează volumul redus pe unele dispozitive Motorola cu caracteristică în creștere a volumului. Poate întârzia redarea sunetului cu câteva secunde."</string> <!-- TODO validate "Fixes low volume on some Motorola devices with rising volume feature. May delay sound playback by few seconds." -->
+    <string name="pref_low_volume_fix_off">"Pentru persoane cu handicap. Nu este necesar pentru majoritatea dispozitivelor."</string> <!-- TODO validate "Disabled. Not needed for most devices." -->
+
+    <!-- Foreground Service -->
+    <string name="pref_foreground_service_title">"Serviciul primordial"</string> <!-- TODO validate "Foreground service" -->
+    <string name="pref_foreground_service_on">"Afișează notificări nepermisibile și permite serviciul de fundal care ar putea împiedica uciderea aplicației."</string> <!-- TODO validate "Displays non-dismissible notification and enables background service which might prevent killing of the app." -->
+    <string name="pref_foreground_service_off">"Serviciile primare sunt dezactivate."</string> <!-- TODO validate "Foreground service is disabled." -->
+    <string name="msg_foreground_service_off">"Serviciul în prim plan este dezactivat"</string> <!-- TODO validate "Foreground service disabled" --> <!-- message displayed when foreground service is disabled without user interacting with this option -->
+
+    <!-- Toast Notifications -->
+    <string name="pref_toast_notifications">"Avertizări pop-up"</string> <!-- TODO validate "Pop-up warnings" -->
+    <string name="pref_toast_notifications_on">"Afișați avertismentele pop-up"</string> <!-- TODO validate "Show pop-up warnings" -->
+    <string name="pref_toast_notifications_off">"Ascundeți avertismentele de tip pop-up"</string> <!-- TODO validate "Hide pop-up warnings" -->
+
+    <!-- Logs -->
+    <string name="debug_logs_title">"Colectați jurnalele de depanare"</string> <!-- TODO validate "Collect debug logs" -->
+    <string name="debug_logs_off">"Dezactivarea jurnalului de scriere"</string> <!-- TODO validate "Writing log disabled" -->
+    <string name="debug_logs_on">"Salvați jurnalele pentru a semnala e-mailurile cu probleme"</string> <!-- TODO validate "Save logs for Report problem email" -->
+
+    <!-- Beta -->
+    <string name="beta_preference_title">"BlipBlip Beta"</string> <!-- TODO validate "BlipBlip Beta" -->
+    <string name="beta_preference_description">"Activează sau dezactivează versiunea beta"</string> <!-- TODO validate "Enable or disable beta version" -->
+
+    <!-- Experimental Settings -->
+    <string name="pref_experimental">"Setări experimentale"</string> <!-- TODO validate "Experimental settings" -->
+    <string name="experimental_warning">"Acestea sunt setări experimentale și pot fi eliminate în viitor."</string> <!-- TODO validate "These are experimental settings and may be removed in the future." -->
+    <string name="title_experimental_settings">"Setări experimentale"</string> <!-- TODO validate "Experimental settings" -->
+    <string name="huawei_fix">"Huawei repară"</string> <!-- TODO validate "Huawei fix" -->
+
+    <!-- Menu - Share -->
+    <string name="action_share">"Distribuiți aplicația"</string> <!-- TODO validate "Share app" -->
+    <string name="share_chooser_title">"Distribuiți aplicația!"</string> <!-- TODO validate "Share the app!" -->
+    <string name="share_title">"Check out BlipBlip aplicația oră de oră!"</string> <!-- TODO validate "Check out BlipBlip hourly chime app!" -->
+    <string name="share_text">"Verificați aplicația BlipBlip cu orar orar și Android"</string> <!-- TODO validate "Check out BlipBlip hourly chime android app" -->
+
+    <!-- Menu - Rate -->
+    <string name="action_rate">"Ne evalua"</string> <!-- TODO validate "Rate us" -->
+    <string name="rate_us_title">"Ne evalua!"</string> <!-- TODO validate "Rate Us!" -->
+    <string name="rate_us_message">"Vă mulțumim că ați luat timp pentru a examina aplicația."</string> <!-- TODO validate "Thank you for taking time to review the app." -->
+    <string name="rate_us_onetofourstars">"1-4 stele"</string> <!-- TODO validate "1–4 stars" -->
+    <string name="rate_us_fivestars">"5 stele!"</string> <!-- TODO validate "5 stars!" -->
+    <string name="five_stars_description">"Cinci stele"</string> <!-- TODO validate "Five stars" -->
+    <string name="five_stars_title">"Dragoste BlipBlip?"</string> <!-- TODO validate "Love BlipBlip?" -->
+    <string name="five_stars_text">"Ratează-ne 5 stele pentru a face BlipBlip chiar mai minunat. Mulțumiri!"</string> <!-- TODO validate "Rate us 5 stars to help make BlipBlip even more awesome. Thanks!" -->
+
+    <!-- Menu - Error -->
+    <string name="action_send_logs">"Raporteaza problema"</string> <!-- TODO validate "Report problem" -->
+    <string name="send_logs_describe">"Descrieți problema dvs. cu aplicația (de preferință în limba engleză):"</string> <!-- TODO validate "Please describe your problem with the app (preferably in English):" -->
+    <string name="feedback_dialog_bug_found">"Am găsit un bug (atașați jurnalele)"</string> <!-- TODO validate "I found a bug (attach logs)" -->
+
+    <!-- Menu - Improvement -->
+    <string name="feedback_improvement_title">"BlipBlip are nevoie de îmbunătățire"</string> <!-- TODO validate "BlipBlip needs improvement" -->
+    <string name="feedback_improvement_message">"Spuneți-ne ce putem îmbunătăți pentru a vă face mulțumiți de aplicație."</string> <!-- TODO validate "Please tell us what we can improve to make you satisfied with the app." -->
+
+    <!-- Menu - About -->
+    <string name="action_about">"Despre"</string> <!-- TODO validate "About" -->
+    <string name="about_version">"Versiune:"</string> <!-- TODO validate "Version:" -->
+    <string name="about_authors">"Autor"</string> <!-- TODO validate "Author" -->
+    <string name="about_coding">"Codificare"</string> <!-- TODO validate "Coding" -->
+    <string name="about_testing">"Testarea"</string> <!-- TODO validate "Testing" -->
+    <string name="about_graphics">"Grafică"</string> <!-- TODO validate "Graphics" -->
+    <string name="about_translations">"Traduceri"</string> <!-- TODO validate "Translations" -->
+    <string name="about_thank_you">"Mulțumesc"</string> <!-- TODO validate "Thank You" -->
+    <string name="about_images">"Imagini"</string> <!-- TODO validate "Images" -->
+    <string name="about_libraries">"Biblioteci"</string> <!-- TODO validate "Libraries" --> <!-- title of screen showing licenses of programming libraries used by the app -->
+    <string name="about_acknowledgements">"Recunoasteri"</string> <!-- TODO validate "Acknowledgements" --> <!-- name of screen with authors, translators and other people who have helped -->
+    <string name="about_translators_thank_you">"BlipBlip este tradusă de utilizatorii noștri în mod voluntar și vă mulțumim pentru sprijinul și contribuția dvs."</string> <!-- TODO validate "BlipBlip is translated by our users voluntarily and hereby we thank you for your support and contribution." -->
+
+    <!-- Visual -->
+    <string name="pref_visual">"Setări vizuale"</string> <!-- TODO validate "Visual settings" -->
+    <string name="title_visual_settings">"Setări vizuale"</string> <!-- TODO validate "Visual settings" -->
+
+    <!-- Unsorted -->
+    <string name="warn_notification_skip">"Anumite notificări vor fi ignorate."</string> <!-- TODO validate "Some notifications will be skipped." --> <!-- Please make this as short as possible. This warning is displayed when user chooses to skip few upcoming notifications. -->
+    <string name="warn_volume_zero">"Volumul actual este setat la zero."</string> <!-- TODO validate "Current volume is set to zero." --> <!-- Please make this as short as possible. This warning is displayed when current system volume is set to 0. -->
+    <string name="pref_low_mem_restart_title">"Restartarea redusă a memoriei"</string> <!-- TODO validate "Low memory restart" -->
+    <string name="pref_low_mem_restart_on">"Încercați să reporniți aplicația dacă dispozitivul are o memorie redusă. Acest lucru nu va funcționa pe toate dispozitivele. Nu este necesar pe majoritatea dispozitivelor (poate utiliza un pic mai multă baterie)."</string> <!-- TODO validate "Try restarting app if device is low on memory. This will not work on all devices. It is not needed on most devices (may use a little bit more battery)." -->
+    <string name="pref_low_mem_restart_off">"Nu încercați să reporniți aplicația dacă dispozitivul nu dispune de memorie."</string> <!-- TODO validate "Do not try restarting app if device is low on memory." -->
+    <string name="pref_heading_notification_accuracy">"Acuratețea notificării"</string> <!-- TODO validate "Notification accuracy" --> <!-- punctuality -->
+    <string name="pref_delay_prevention_title">"Preveniți întârzierile"</string> <!-- TODO validate "Prevent delays" -->
+    <string name="pref_delay_prevention_on">"Se încearcă să împiedice în mod activ întârzierile de notificare care apar pe unele dispozitive. Poate utiliza mai multă baterie."</string> <!-- TODO validate "Tries to actively prevent notification delays which happen on some devices. May use more battery." -->
+    <string name="pref_delay_prevention_off">"Nu încercați să împiedicați întârzierile de notificare care pot apărea pe unele dispozitive. Folosește mai puțină baterie."</string> <!-- TODO validate "Does not try to prevent notification delays which may occur on some devices. Uses less battery." -->
+    <string name="pref_aggressive_delay_prevention_title">"Preveniți întârzierile în mod agresiv"</string> <!-- TODO validate "Prevent delays aggressively" -->
+    <string name="pref_aggressive_delay_prevention_on">"Notificările trebuie să fie mai des exacte. Poate utiliza mai multă baterie."</string> <!-- TODO validate "Notifications should be more often accurate. May use more battery." -->
+    <string name="pref_aggressive_delay_prevention_off">"Notificările pot fi întârziate în cazuri rare. Folosește mai puțină baterie."</string> <!-- TODO validate "Notifications may be late in rare cases. Uses less battery." -->
+    <string name="pref_ignore_delayed_title">"Ignorați notificările întârziate"</string> <!-- TODO validate "Ignore delayed notifications" -->
+    <string name="pref_ignore_delayed_on">"Dacă notificarea este considerată întârziată, aceasta nu va fi afișată sau jucată."</string> <!-- TODO validate "If notification is considered delayed it won't be shown or played." -->
+    <string name="pref_ignore_delayed_off">"Notificările vor fi afișate sau redate chiar și atunci când sunt întârziate."</string> <!-- TODO validate "Notifications will be shown or played even when they are delayed." -->
+    <string name="pref_audio_focus_title">"Anularea sunetului de fundal"</string> <!-- TODO validate "Muting background audio" --> <!-- option to improve ability to hear app sounds by decreasing volume of other apps or pausing them -->
+    <string name="pref_audio_focus_on">"În timp ce aplicația redă sunet, sunetul din alte aplicații va fi mai silențios sau pauză."</string> <!-- TODO validate "While app plays sound, audio from other apps will be quieter or paused." -->
+    <string name="pref_audio_focus_off">"Audio din alte aplicații vor fi redate în mod normal."</string> <!-- TODO validate "Audio from other apps will be played normally." -->
+    <string name="pref_audio_focus_dont_duck_title">"Întrerupeți redarea"</string> <!-- TODO validate "Pause playback" -->
+    <string name="pref_audio_focus_dont_duck_on">"În timpul redării sunetului, alte aplicații își pot întrerupe audio."</string> <!-- TODO validate "During sound playback other apps may pause their audio." -->
+    <string name="pref_audio_focus_dont_duck_off">"În timpul redării sunetului, alte aplicații pot reduce volumul sonor."</string> <!-- TODO validate "During sound playback other apps may lower volume of their audio." -->
+
+    <!-- Plurals -->
+    <!-- check which quantities and how should be used for given language here http://www.unicode.org/cldr/charts/29/supplemental/language_plural_rules.html -->
+    <!-- Uncomment or add proper "zero", "two", "few" or "many" item if needed for your language -->
+    <plurals name="repeat_every_x_hours"> <!-- "X hours" as in "Repeat every X hours" is different in some languages (e.g. Polish) from regular "X hours" -->
+        <item quantity="one">"%d hour"</item>
+        <item quantity="other">"%d hours"</item>
+    </plurals>
+    <plurals name="repeat_every_x_minutes">
+        <item quantity="one">"%d minute"</item>
+        <item quantity="other">"%d minutes"</item>
+    </plurals>
+    <plurals name="repeat_every_x_seconds">
+        <item quantity="one">"%d second"</item>
+        <item quantity="other">"%d seconds"</item>
+    </plurals>
+    <plurals name="repeat_number_of_times">
+        <item quantity="one">"%d time"</item>
+        <item quantity="other">"%d times"</item>
+    </plurals>
+
+    <string name="pref_reset_accuracy_params">"Resetați parametrii"</string> <!-- TODO validate "Reset parameters" -->
+    <string name="pref_reset_accuracy_params_desc">"Resetează parametrii interni care îmbunătățesc acuratețea notificărilor."</string> <!-- TODO validate "Resets internal parameters which improve notification accuracy." -->
+    <string name="warn_foreground_service_disabled">"Setările pentru serviciile primare au fost dezactivate. Acest lucru poate crește șansa ca procesul de fundal să fie ucis și aplicația să nu mai funcționeze."</string> <!-- TODO validate "Foreground service setting has been disabled. This may increase chance that background process is killed and app stops working." -->
+
+    <!-- Airplane mode -->
+    <string name="pref_airplane_mode">"Modul avion"</string> <!-- TODO validate "Airplane mode" -->
+    <string name="while_airplane_toast">"Notificările BlipBlip sunt acum dezactivate, deoarece sunteți în modul avion."</string> <!-- TODO validate "BlipBlip notifications are now disabled, because you are in airplane mode." -->
+
+    <string name="setting_system_default">"Defectiune de sistem"</string> <!-- TODO validate "System default" -->
+    <string name="pref_time_format_title">"Formatul timpului"</string> <!-- TODO validate "Time format" -->
+    <string name="time_format_12h">"Ceas 12 ore"</string> <!-- TODO validate "12 hour clock" -->
+    <string name="time_format_24h">"Ceas 24 ore"</string> <!-- TODO validate "24 hour clock" -->
+
+    <string name="theme_blipblip">"BlipBlip"</string> <!-- TODO validate "BlipBlip" -->
+    <string name="theme_standard">"Standard"</string> <!-- TODO validate "Standard" -->
+    <string name="theme_blue">"Albastru"</string> <!-- TODO validate "Blue" -->
+    <string name="theme_yellow">"Galben"</string> <!-- TODO validate "Yellow" -->
+    <string name="theme_purple">"Violet"</string> <!-- TODO validate "Purple" -->
+    <string name="theme_red">"roșu"</string> <!-- TODO validate "Red" -->
+    <string name="theme_green">"Verde"</string> <!-- TODO validate "Green" -->
+    <string name="theme_blue_gray">"Albastru gri"</string> <!-- TODO validate "Blue grey" -->
+    <string name="theme_orange">"portocale"</string> <!-- TODO validate "Orange" -->
+    <string name="theme_indigo">"Indigo"</string> <!-- TODO validate "Indigo" -->
+    <string name="theme_cyan">"Cyan"</string> <!-- TODO validate "Cyan" -->
+    <string name="theme_teal">"Turcoaz"</string> <!-- TODO validate "Teal" -->
+
+    <string name="pref_color_theme">"Temă"</string> <!-- TODO validate "Theme" -->
+    <string name="cycle_themes_message">"Schimbați temele folosind butoanele de volum."</string> <!-- TODO validate "Switch themes using volume buttons." -->
+    <string name="cycle_themes_finish">"finalizarea"</string> <!-- TODO validate "Finish" -->
+    <string name="cycle_themes">"Ciclul de teme"</string> <!-- TODO validate "Cycle themes" -->
+    <string name="cycle_themes_description">"Permite comutarea temelor folosind butoanele de volum."</string> <!-- TODO validate "Allows switching themes using volume buttons." -->
+    <string name="color_next_notification_bar">"Culoare bara de notificare viitoare"</string> <!-- TODO validate "Color next notification bar" -->
+    <string name="color_next_notification_bar_on">"Utilizați fundalul color pentru următoarea bara de notificare."</string> <!-- TODO validate "Use color background for next notification bar." -->
+    <string name="color_next_notification_bar_off">"Utilizați fundalul gri pentru următoarea bară de notificare."</string> <!-- TODO validate "Use gray background for next notification bar." -->
+    <string name="night_mode">"Modul de noapte"</string> <!-- TODO validate "Night mode" -->
+    <string name="night_mode_on">"Activat"</string> <!-- TODO validate "Enabled" -->
+    <string name="night_mode_off">"invalid"</string> <!-- TODO validate "Disabled" -->
+    <string name="night_mode_auto">"Auto"</string> <!-- TODO validate "Auto" -->
+    <string name="night_mode_system">"Setarea sistemului"</string> <!-- TODO validate "System setting" -->
+
+    <string name="title_activity_sounds">"Sunete"</string> <!-- TODO validate "Sounds" -->
+    <string name="title_activity_sound">"Sunet"</string> <!-- TODO validate "Sound" -->
+    <string name="title_activity_vibrations">"vibraţiile"</string> <!-- TODO validate "Vibrations" -->
+    <string name="title_activity_vibration">"vibrație"</string> <!-- TODO validate "Vibration" -->
+    <string name="action_delete">"Șterge"</string> <!-- TODO validate "Delete" -->
+    <string name="action_add_vibration_pattern">"Adaugă înregistrare"</string> <!-- TODO validate "Add entry" -->
+    <string name="dialog_title_deletion">"Confirma stergerea"</string> <!-- TODO validate "Confirm deletion" -->
+    <string name="dialog_message_confirm">"Esti sigur?"</string> <!-- TODO validate "Are you sure?" -->
+    <string name="vibration_name">"Numele vibrației"</string> <!-- TODO validate "Vibration name" -->
+    <string name="action_restore_defaults">"Restabiliti setarile de baza"</string> <!-- TODO validate "Restore defaults" --> <!-- e.g. for sounds or vibrations -->
+    <string name="restore_defaults_message2">"Doriți să restaurați valorile implicite?"</string> <!-- TODO validate "Would you like to restore default values?" -->
+    <string name="add_vibration">"Adăugați vibrații"</string> <!-- TODO validate "Add vibration" -->
+    <string name="edit">"Editați | ×"</string> <!-- TODO validate "Edit" --> <!-- Name of action to edit list of sounds or list of vibrations, should be short -->
+    <string name="editing">"Editarea"</string> <!-- TODO validate "Editing" --> <!-- Displayed in edit mode -->
+    <string name="error_file_open_failed">"Deschiderea fișierului a eșuat."</string> <!-- TODO validate "Failed to open file." -->
+    <string name="error_file_open_no_permission">"Nu ai permisiunea de a deschide fișierul."</string> <!-- TODO validate "No permission to open the file." -->
+    <string name="error_file_open_failed_no_permission_title">"Acordați permisiunea manuală"</string> <!-- TODO validate "Grant permission manually" -->
+    <string name="error_file_open_failed_no_permission">"Nu ai permisiunea de a deschide fișierul. Deschideți Setări și acordați permisiunea de a accesa spațiul de stocare."</string> <!-- TODO validate "No permission to open the file. Please open Settings and give permission to access storage." -->
+    <string name="error_file_open_failed_settings">"Deschide setările"</string> <!-- TODO validate "Open Settings" -->
+    <string name="play_vibration">"Vibra"</string> <!-- TODO validate "Vibrate" --> <!-- description of action of a button to perform vibration -->
+    <string name="play_sound">"Redați sunetul"</string> <!-- TODO validate "Play sound" --> <!-- description of action of a button to play sound -->
+    <string name="drag_handle">"Manipulați pentru tragere"</string> <!-- TODO validate "Handle for dragging" -->
+    <string name="select_audio_file">"Selectați fișierul audio"</string> <!-- TODO validate "Select Audio file" -->
+    <string name="add_sound_to_blipblip">"Adăugați la BlipBlip"</string> <!-- TODO validate "Add to BlipBlip" -->
+    <string name="permission_denied">"Acces refuzat"</string> <!-- TODO validate "Permission denied" -->
+    <string name="permission_denied_message_no_addon">"BlipBlip nu are permisiunea de a citi fișierul."</string> <!-- TODO validate "BlipBlip does not have permission to read the file." -->
+    <string name="permission_denied_message_no_addon_part2">"Utilizați o altă aplicație care permite accesul la fișier fără a fi nevoie de permisiuni suplimentare (de exemplu, Google Drive)."</string> <!-- TODO validate "Please use some other app that shares file without need for additional permission (e.g. Google Drive)." -->
+    <string name="permission_denied_rationale_title">"Ai nevoie de permisiune"</string> <!-- TODO validate "Permission needed" -->
+    <string name="permission_denied_rationale">"Aplicația nu are permisiunea de a citi fișierul. Acordați permisiunea aplicației de a accesa fișierul. De asemenea, puteți să distribuiți fișierul utilizând altă aplicație care nu are nevoie de această permisiune."</string> <!-- TODO validate "Application does not have permission to read the file. Please grant the app permission to access the file. You can also share the file using other app which does not need using this permission." -->
+
+    <!-- Menu drawer strings -->
+
+    <string name="more_actions">"Mai multe actiuni"</string> <!-- TODO validate "More actions" -->
+    <string name="start_time">"Timpul de începere"</string> <!-- TODO validate "Start time" -->
+    <string name="end_time">"Ora de terminare"</string> <!-- TODO validate "End time" -->
+    <string name="whole_day">"Întreaga zi"</string> <!-- TODO validate "Whole day" -->
+    <string name="enable_screen">"Activați ecran"</string> <!-- TODO validate "Enable screen" -->
+    <string name="action_rename">"Redenumiți"</string> <!-- TODO validate "Rename" -->
+    <string name="pref_accessibility">"Accesibilitate"</string> <!-- TODO validate "Accessibility" -->
+    <string name="pref_swipe">"Atingeți gesturile"</string> <!-- TODO validate "Touch gestures" -->
+    <string name="pref_swipe_on">"Schimbarea este activată în elementele listate"</string> <!-- TODO validate "Swiping enabled on list items" -->
+    <string name="pref_swipe_off">"Deplasarea este dezactivată pe elementele listate"</string> <!-- TODO validate "Swiping disabled on list items" -->
+    <string name="pref_action_menus">"Meniuri de acțiune"</string> <!-- TODO validate "Action menus" -->
+    <string name="pref_action_menus_on">"Afișați meniuri cu acțiuni care altfel ar necesita gesturi (de ex. Utile când utilizați TalkBack."</string> <!-- TODO validate "Show menus with actions that would otherwise require gestures (e.g. swiping). Useful when using TalkBack." -->
+    <string name="pref_action_menus_off">"Ascundeți meniurile care conțin acțiuni care pot fi de asemenea efectuate utilizând gesturi."</string> <!-- TODO validate "Hide menus containing actions that can also be performed using gestures." -->
+    <string name="next_notification">"Notificare ulterioară: %1$s"</string> <!-- TODO validate "Next notification: %1$s" -->
+    <string name="next_tomorrow">"mâine la %1$s"</string> <!-- TODO validate "tomorrow at %1$s" --> <!-- e.g. tomorrow at 10:00 -->
+    <string name="next_on_mon">"Luni la %1$s"</string> <!-- TODO validate "Monday at %1$s" -->
+    <string name="next_on_tue">"Marți la %1$s"</string> <!-- TODO validate "Tuesday at %1$s" -->
+    <string name="next_on_wed">"Miercuri la %1$s"</string> <!-- TODO validate "Wednesday at %1$s" -->
+    <string name="next_on_thu">"Joi la %1$s"</string> <!-- TODO validate "Thursday at %1$s" -->
+    <string name="next_on_fri">"Vineri la %1$s"</string> <!-- TODO validate "Friday at %1$s" -->
+    <string name="next_on_sat">"Sâmbătă la %1$s"</string> <!-- TODO validate "Saturday at %1$s" -->
+    <string name="next_on_sun">"Duminică la %1$s"</string> <!-- TODO validate "Sunday at %1$s" -->
+    <string name="never">"nu"</string> <!-- TODO validate "never" --> <!-- if notification will never occur-->
+    <string name="show_seconds_title">"Afișează secunde"</string> <!-- TODO validate "Show seconds" -->
+    <string name="show_seconds_on">"Alegerea secundelor este activată. Se afișează ori cu secunde."</string> <!-- TODO validate "Choosing seconds is enabled. Displays times with seconds." -->
+    <string name="show_seconds_off">"Alegerea secundelor este dezactivată. Afișați ori fără secunde."</string> <!-- TODO validate "Choosing seconds is disabled. Display times without seconds." -->
+    <string name="notification_disabled_warning">"Notificarea este dezactivată"</string> <!-- TODO validate "Notification is disabled" -->
+    <string name="social_facebook">"Facebook"</string> <!-- TODO validate "Facebook" -->
+    <string name="social_twitter">"Stare de nervozitate"</string> <!-- TODO validate "Twitter" -->
+    <string name="social_google_plus">"Google+"</string> <!-- TODO validate "Google+" -->
+    <string name="social_google_plus_community">"Comunitatea Google+"</string> <!-- TODO validate "Google+ Community" -->
+    <string name="troubleshooting">"Depanare"</string> <!-- TODO validate "Troubleshooting" -->
+    <string name="premium_features">"Caracteristici premium"</string> <!-- TODO validate "Premium features" -->
+    <string name="disable_when_headset">"Dezactivați când setul cu cască este conectat"</string> <!-- TODO validate "Disable when headset connected" -->
+    <string name="disable_when_headset_on">"Toate notificările au fost dezactivate"</string> <!-- TODO validate "All notifications disabled" -->
+    <string name="disable_when_headset_off">"Toate notificările sunt activate"</string> <!-- TODO validate "All notifications enabled" -->
+    <string name="disable_when_headset_toast">"Notificările BlipBlip sunt acum dezactivate, deoarece aveți conectat căștile."</string> <!-- TODO validate "BlipBlip notifications are now disabled, because you have headset connected." -->
+
+    <string name="add">"Adăuga"</string> <!-- TODO validate "Add" -->
+    <string name="add_item">"Adaugare element"</string> <!-- TODO validate "Add item" -->
+    <string name="action_add_condition">"Adăugați o condiție"</string> <!-- TODO validate "Add condition" -->
+    <string name="dialog_title_days_of_week">"Zilele saptamanii"</string> <!-- TODO validate "Days of Week" -->
+    <string name="dialog_title_date">"Data"</string> <!-- TODO validate "Date" -->
+    <string name="start_date">"Data de început"</string> <!-- TODO validate "Start date" -->
+    <string name="end_date">"Data de încheiere"</string> <!-- TODO validate "End date" -->
+    <string name="dialog_title_time">"Timp"</string> <!-- TODO validate "Time" -->
+    <string name="dialog_title_time_range">"Interval de timp"</string> <!-- TODO validate "Time range" -->
+    <string name="dialog_title_repeat">"Repeta"</string> <!-- TODO validate "Repeat" -->
+    <string name="interval">"Interval"</string> <!-- TODO validate "Interval" -->
+    <string name="no_repeat">"Nu repetați"</string> <!-- TODO validate "No repeat" -->
+    <string name="action_add_action">"Adăugați o acțiune"</string> <!-- TODO validate "Add action" -->
+    <string name="favorite_condition_dialog_edit">"Editați | ×"</string> <!-- TODO validate "Edit" -->
+    <string name="favorite_condition_dialog_create">"Crea"</string> <!-- TODO validate "Create" -->
+    <string name="system_notification">"Notificare sistem"</string> <!-- TODO validate "System notification" -->
+    <string name="popup_text">"Text de tip popup"</string> <!-- TODO validate "Popup text" -->
+    <string name="no_actions_added">"Nu au fost adăugate acțiuni"</string> <!-- TODO validate "No actions added" -->
+    <string name="section_conditions">"Condiții"</string> <!-- TODO validate "Conditions" -->
+    <string name="no_valid_condition_added">"Nu au fost definite condiții corecte"</string> <!-- TODO validate "No correct conditions defined" -->
+    <string name="no_upcoming_notifications">"Nu există notificări viitoare"</string> <!-- TODO validate "No upcoming notifications" -->
+    <string name="error_indicator">"Indicator de eroare"</string> <!-- TODO validate "Error indicator" -->
+    <string name="next_notification_app_off">"Off (aplicația este dezactivată)"</string> <!-- TODO validate "Off (app disabled)" -->
+    <string name="next_day">"ziua urmatoare"</string> <!-- TODO validate "following day" --> <!-- Used in: "22:00 - 6:00 next day" -->
+    <string name="notifications">"notificări"</string> <!-- TODO validate "Notifications" -->
+    <string name="warning_no_email_app">"Nu a fost găsită nicio cerere de e-mail pentru a trimite raportul."</string> <!-- TODO validate "No email application found to send the report." -->
+    <string name="weeknights">"weeknights"</string> <!-- TODO validate "Weeknights" --> <!-- nights from sunday to thursday -->
+    <string name="weekend_nights">"Săptămâni nopți"</string> <!-- TODO validate "Weekend nights" --> <!-- nights on friday and saturday -->
+    <string name="weekend">"Sfârșit de săptămână"</string> <!-- TODO validate "Weekend" --> <!-- saturday and sunday -->
+
+    <string name="vibration_silence_millis">"Timpul de tăcere în milisecunde"</string> <!-- TODO validate "Silence duration in milliseconds" -->
+    <string name="vibration_duration_millis">"Durata vibrațiilor în milisecunde"</string> <!-- TODO validate "Vibration duration in milliseconds" -->
+
+    <string name="advice_disable_task_killers">"Dezactivați ucigașii de activități"</string> <!-- TODO validate "Disable task killers" -->
+    <string name="advice_disable_task_killers_desc">"Task Killers ar trebui să fie dezactivate sau BlipBlip trebuie adăugate pe listele lor albe pentru a menține aplicația în viață."</string> <!-- TODO validate "Task killers should be disabled or BlipBlip should be added in their white lists to keep app alive." -->
+    <string name="advice_enable_foreground_service">"Activați serviciul în prim plan"</string> <!-- TODO validate "Enable foreground service" -->
+    <string name="advice_enable_foreground_service_desc2">"Opțiunea pentru serviciile primare informează OS că cererea nu ar trebui ucisă, dacă este posibil."</string> <!-- TODO validate "Foreground service option informs OS that application should not be killed if possible." -->
+    <string name="advice_enable_foreground_service_desc2_part2">"Acesta va afișa o notificare persistentă care poate fi ascunsă de setările de sistem (ascunderea acesteia de la aplicație va dezactiva această opțiune)."</string> <!-- TODO validate "It will display persistent notification which can be hidden from system settings (hiding it from the app will disable this option)." -->
+    <string name="advice_enable_foreground_service_desc2_part3">"Puteți utiliza butonul de mai jos pentru a accesa setările de sistem."</string> <!-- TODO validate "You can use button below to access system settings." -->
+
+    <string name="sound_in_use">"Sunetul este în uz și nu poate fi șters."</string> <!-- TODO validate "Sound is in use and cannot be deleted." -->
+    <string name="vibration_in_use">"Vibrația este utilizată și nu poate fi ștearsă."</string> <!-- TODO validate "Vibration is in use and cannot be deleted." -->
+    <string name="sound_not_found">"Nu a fost gasit"</string> <!-- TODO validate "Not found" --> <!-- for sound -->
+    <string name="vibration_not_found">"Nu a fost gasit"</string> <!-- TODO validate "Not found" --> <!-- for vibration -->
+
+    <string name="section_actions">"acţiuni"</string> <!-- TODO validate "Actions" -->
+    <string name="section_notifications">"notificări"</string> <!-- TODO validate "Notifications" -->
+    <string name="notification_name">"Notificare"</string> <!-- TODO validate "Notification" -->
+
+    <string name="play">"Joaca"</string> <!-- TODO validate "Play" -->
+
+    <string name="cannot_perform_operation">"Nu se poate efectua această operație chiar acum. Vă rugăm să încercați din nou mai târziu."</string> <!-- TODO validate "Cannot perform this operation right now. Please try again later." -->
+
+    <string name="add_to_favorites">"Adauga la favorite"</string> <!-- TODO validate "Add to favorites" -->
+    <string name="open_favorites">"Deschideți favoritele"</string> <!-- TODO validate "Open favorites" -->
+
+    <string name="unnamed_sound">"Sunete fără nume"</string> <!-- TODO validate "Unnamed sound" -->
+    <string name="unnamed_vibration">"Vibrații nesemnate"</string> <!-- TODO validate "Unnamed vibration" -->
+
+    <string name="value_deleted">"Ștersat \ \" %1$s \\""</string> <!-- TODO validate "Deleted \"%1$s\" --> <!-- showed when one of list items is deleted and displays the value of the item -->
+    <string name="action_undo">"Anula"</string> <!-- TODO validate "Undo" --> <!-- action name to undo deletion e.g. from a list -->
+    <string name="condition_deleted">"Starea a fost șters."</string> <!-- TODO validate "Condition deleted." -->
+    <string name="notification_deleted">"Notificarea a fost ștearsă."</string> <!-- TODO validate "Notification deleted." -->
+    <string name="action_deleted">"Acțiunea a fost șters."</string> <!-- TODO validate "Action deleted." -->
+
+    <string name="inclusive_time">"inclusiv"</string> <!-- TODO validate "inclusive" --> <!-- used in the time range dialog to determine if edge value should be included -->
+
+    <string name="pref_user_notifications">"Notificări utilizator"</string> <!-- TODO validate "User notifications" -->
+    <string name="user_notification">"Notificare utilizator"</string> <!-- TODO validate "User notification" -->
+
+    <string name="action_set_as_home_screens">"Setați ca ecran de pornire"</string> <!-- TODO validate "Set as start screen" -->
+
+    <string name="pref_battery_saver_mode">"Modul de economisire a bateriei"</string> <!-- TODO validate "Battery Saver mode" -->
+    <string name="mode_sound_title">"Lăsați sunetul"</string> <!-- TODO validate "Allow sound" -->
+    <string name="mode_sound_on">"Sunetele sunt permise în acest mod"</string> <!-- TODO validate "Sounds are allowed in this mode" -->
+    <string name="mode_sound_off">"Sunetele sunt dezactivate în acest mod"</string> <!-- TODO validate "Sounds disabled in this mode" -->
+    <string name="mode_vibration_title">"Permiteți vibrațiile"</string> <!-- TODO validate "Allow vibrations" -->
+    <string name="mode_vibration_on">"Vibrațiile sunt permise în acest mod"</string> <!-- TODO validate "Vibrations allowed in this mode" -->
+    <string name="mode_vibration_off">"Vibrațiile nu sunt permise în acest mod"</string> <!-- TODO validate "Vibrations not allowed in this mode" -->
+    <string name="mode_screen_title">"Se permite activarea ecranului"</string> <!-- TODO validate "Enabling screen allowed" -->
+    <string name="mode_screen_on">"Ecranul este activat în acest mod"</string> <!-- TODO validate "Screen is allowed to be enabled in this mode" -->
+    <string name="mode_screen_off">"Ecranul nu va fi activat în acest mod"</string> <!-- TODO validate "Screen will not be enabled in this mode" -->
+    <string name="battery_saver_preferences_warning">"Este posibil ca aceste opțiuni să nu funcționeze pe toate dispozitivele."</string> <!-- TODO validate "These options may not work on all devices." -->
+    <string name="mode_sound_toast">"Sunetul este dezactivat, deoarece modul următor este activ: %1$s"</string> <!-- TODO validate "Sound is disabled because following mode is active: %1$s" -->
+
+    <string name="pref_accessibility_settings_title">"Activați serviciul de accesibilitate"</string> <!-- TODO validate "Enable accessibility service" -->
+    <string name="pref_accessibility_settings_summary">"Deschide setările de accesibilitate ale sistemului în care puteți activa aplicația ca serviciu de accesibilitate"</string> <!-- TODO validate "Opens system Accessibility settings where you can enable app as accessibility service" -->
+    <string name="accessibility_service_description">"Acest serviciu ajută la menținerea funcționării aplicației. Nu accesează niciun fel de date și nu modifică niciun fel de conținut. Este doar o protecție împotriva administratorilor de memorie care ar putea să-l omoare pe aplicație. Dacă nu întâmpinați probleme cu aplicația, nu trebuie să o activați."</string> <!-- TODO validate "This service helps to keep the app working. It does not access any data or modify any content. It is just protection against memory managers which may kill the app. If you are not experiencing problems with the app you don't need to activate it." -->
+    <string name="accessibility_service_summary">"Ajută la menținerea aplicației în viață. Nu accesează niciun fel de date."</string> <!-- TODO validate "Helps keep app alive. Does not access any data." -->
+
+    <string name="swipe_right_to_delete">"Glisați spre dreapta pentru a șterge elementele"</string> <!-- TODO validate "Swipe right to delete items" -->
+
+    <string name="action_repeat_sound">"Repetați sunetul"</string> <!-- TODO validate "Repeat sound" -->
+    <string name="action_repeat_vibration">"Repetați vibrațiile"</string> <!-- TODO validate "Repeat vibration" -->
+    <string name="action_repeat_sound_vibration">"Repetați sunetul și vibrațiile"</string> <!-- TODO validate "Repeat sound and vibration" -->
+    <string name="action_strike_the_hour">"Loviți orele"</string> <!-- TODO validate "Strike the hours" -->
+
+    <string name="pref_do_not_disturb_mode">"Nu deranja"</string> <!-- TODO validate "Do Not Disturb" -->
+    <string name="do_not_disturb_total_silence">"Total tăcere"</string> <!-- TODO validate "Total silence" -->
+    <string name="do_not_disturb_alarms_only">"Numai alarme"</string> <!-- TODO validate "Alarms only" -->
+    <string name="do_not_disturb_priority_only">"Numai pe prioritate"</string> <!-- TODO validate "Priority only" -->
+
+    <string name="hide_notification_title">"Ascundeți notificarea"</string> <!-- TODO validate "Hide notification" -->
+    <string name="hide_notification_summary">"Deschideți setările de sistem pentru a ascunde notificarea. Acesta este modul recomandat pentru ascunderea notificării deoarece permite aplicației să lucreze în prim-plan."</string> <!-- TODO validate "Open system settings to hide notification. This is recommended way for hiding notification because it allows the app to work in foreground." -->
+
+    <!-- Text to speech -->
+    <string name="action_say_text">"Spuneți textul"</string> <!-- TODO validate "Say text" -->
+    <string name="action_say_time">"Spuneți timp"</string> <!-- TODO validate "Say time" -->
+    <string name="feature_say_text">"Spuneți timp"</string> <!-- TODO validate "Say time" -->
+    <string name="feature_say_time">"Spuneți timp"</string> <!-- TODO validate "Say time" -->
+    <string name="pref_text_to_speech_engine">"Motor"</string> <!-- TODO validate "Engine" -->
+    <string name="pref_text_to_speech_voice">"Voce"</string> <!-- TODO validate "Voice" -->
+    <string name="pref_text_to_speech">"Text în discurs"</string> <!-- TODO validate "Text to speech" -->
+    <string name="system_default_audio_stream">"Defectiune de sistem"</string> <!-- TODO validate "System default" -->
+    <string name="application_default">"Valoare implicită"</string> <!-- TODO validate "Default value" -->
+    <string name="speak_time_format_with_minutes">"Timp de vorbire cu minute"</string> <!-- TODO validate "Spoken time with minutes" -->
+    <string name="speak_time_on_the_hour">"Timp de vorbire pe oră"</string> <!-- TODO validate "Spoken time on the hour" -->
+    <string name="tts_not_initialized">"Motorul de tip text pentru vorbire nu este încă inițializat"</string> <!-- TODO validate "Text to speech engine is not yet initialized" -->
+    <string name="tts_test_say_time_title">"Testați timpul"</string> <!-- TODO validate "Test saying time" -->
+    <string name="tts_system_settings_title">"Setarile sistemului"</string> <!-- TODO validate "System settings" -->
+    <string name="tts_system_settings_summary">"Deschideți setările text-to-speech ale sistemului"</string> <!-- TODO validate "Open system text-to-speech settings" -->
+    <string name="pref_tts_overlaps_sounds">"Voce și sunet se suprapun"</string> <!-- TODO validate "Voice and sound overlap" -->
+    <string name="pref_tts_overlaps_sounds_on">"Vorbirea va suprapune sunetele"</string> <!-- TODO validate "Speaking will overlap sounds" -->
+    <string name="pref_tts_overlaps_sounds_off">"Vorbirea nu va suprapune sunetele (sunetul va fi redat înainte sau după voce)"</string> <!-- TODO validate "Speaking will not overlap sounds (sound will play before or after voice)" -->
+
+    <string name="operating_modes_settings">"Moduri de operare"</string> <!-- TODO validate "Operating modes" --> <!-- name of menu with different mode settings e.g. Do Not Disturb, vibrate mode -->
+    <string name="operating_modes_settings_summary">"Nu deranjați, nu vibrați, etc."</string> <!-- TODO validate "Do Not Disturb, vibrate mode, etc." -->
+    <string name="time_settings">"Timp"</string> <!-- TODO validate "Time" -->
+    <string name="sound_settings">"Sunet"</string> <!-- TODO validate "Sound" -->
+
+    <string name="free_resources_title">"Eliberați resurse"</string> <!-- TODO validate "Release resources" -->
+
+    <string name="error_failed_to_open_file">"Deschiderea fișierului a eșuat"</string> <!-- TODO validate "Failed to open file" -->
+    <string name="error_corrupted_sound">"Sunetul este corupt"</string> <!-- TODO validate "Sound is corrupted" -->
+
+    <!-- premium -->
+    <string name="dialog_no_thanks">"Nu multumesc"</string> <!-- TODO validate "No thanks" --> <!-- should be short -->
+    <string name="feature_custom_sounds">"Sunete personalizate"</string> <!-- TODO validate "Custom sounds" -->
+    <string name="feature_multiple_notifications">"Anunțuri multiple"</string> <!-- TODO validate "Multiple notifications" -->
+    <string name="feature_custom_reapeat">"Interval de repetare particularizat"</string> <!-- TODO validate "Custom repeat interval" -->
+    <string name="feature_premium_sounds">"Sunete premium"</string> <!-- TODO validate "Premium sounds" -->
+    <string name="feature_strike_the_hour">"Loviți orele"</string> <!-- TODO validate "Strike the hours" -->
+    <string name="premium_get_plus">"Obțineți toate funcțiile actuale"</string> <!-- TODO validate "Get all current features" --> <!-- should be short -->
+    <string name="premium_get_sounds">"Obțineți toate sunetele din aplicație"</string> <!-- TODO validate "Get all sounds in the app" --> <!-- should be short -->
+    <string name="premium_get_plus_sounds">"Obțineți toate caracteristicile și sunetele curente"</string> <!-- TODO validate "Get all current features and sounds" --> <!-- should be short -->
+    <string name="premium_sound_lock">"Acesta este un sunet premium care necesită deblocare înainte de utilizare."</string> <!-- TODO validate "This is Premium sound which requires unlocking before use." -->
+    <string name="premium_feature_lock">"Aceasta este caracteristica Premium care necesită deblocare înainte de utilizare."</string> <!-- TODO validate "This is Premium feature which requires unlocking before use." -->
+    <string name="change_subscription">"Schimbați abonamentul"</string> <!-- TODO validate "Change subscription" -->
+    <string name="upgrade_to_pro">"Modernizare"</string> <!-- TODO validate "Upgrade" -->
+    <string name="loading_failed">"Eroare"</string> <!-- TODO validate "Error" -->
+    <string name="month_very_short">"lună"</string> <!-- TODO validate "month" -->
+    <string name="discount_save_money">"Salvați"</string> <!-- TODO validate "Save" --> <!-- percent saved will be displayed below this text -->
+    <string name="premium_settings">"Treceți la Premium pentru a debloca toate setările"</string> <!-- TODO validate "Upgrade to Premium to unlock all settings" -->
+    <string name="buy_premium">"Cumpără Premium"</string> <!-- TODO validate "Buy Premium" -->
+    <string name="already_bought">"Deja cumparat"</string> <!-- TODO validate "Already bought" -->
+    <string name="get_all_features">"Obțineți toate caracteristicile"</string> <!-- TODO validate "Get all features" -->
+    <string name="get_all_sounds">"Obțineți toate sunetele"</string> <!-- TODO validate "Get all sounds" -->
+    <string name="premium_what_you_get">"Ce veți obține:"</string> <!-- TODO validate "What you will get:" -->
+    <string name="feature1">"Notificări active nelimitate"</string> <!-- TODO validate "Unlimited active notifications" -->
+    <string name="feature2">"Loviți orele"</string> <!-- TODO validate "Strike the hours" -->
+    <string name="feature3">"Interval de repetare particularizat"</string> <!-- TODO validate "Custom repeat interval" -->
+    <string name="feature4">"Spuneți textul sau ora"</string> <!-- TODO validate "Say text or time" -->
+    <string name="feature5">"Adăugați propriile dvs. sunete"</string> <!-- TODO validate "Add your own sounds" -->
+    <string name="feature6">"Sprijin prioritar"</string> <!-- TODO validate "Priority support" -->
+    <string name="feature7">"Modul de noapte (temă închisă)"</string> <!-- TODO validate "Night mode (dark theme)" -->
+    <string name="feature_all_sounds">"Toate sunetele din aplicație"</string> <!-- TODO validate "All sounds in the app" -->
+    <string name="yearly_payment">"Plata anuală."</string> <!-- TODO validate "Yearly payment." -->
+    <string name="free_trial">"Încercare gratuită."</string> <!-- TODO validate "Free trial." -->
+    <string name="cancel_anytime">"Anulați oricând."</string> <!-- TODO validate "Cancel anytime." -->
+    <string name="premium_helps_support">"Prin actualizarea BlipBlip, nu numai că beneficiați de toate caracteristicile sau sunetele, ci și de dezvoltarea continuă și independentă."</string> <!-- TODO validate "By upgrading BlipBlip you not only get all features or sounds but you also support its continuous and independent development." -->
+    <string name="loading">"Se incarca…"</string> <!-- TODO validate "Loading…" -->
+    <string name="notification_has_premium_features">"Această notificare utilizează funcțiile Premium"</string> <!-- TODO validate "This notification uses Premium features" -->
+
+    <!-- Premium Bar -->
+    <string name="bar_upgrade_to_enable_app">"Treceți la Premium"</string> <!-- TODO validate "Upgrade to Premium" -->
+    <string name="bar_upgrade_to_enable_notification">"Treceți la Premium"</string> <!-- TODO validate "Upgrade to Premium" -->
+    <string name="bar_upgrade">"Cumpară acum"</string> <!-- TODO validate "Buy now" -->
+    <string name="bar_uses_premium_features">"Notificarea folosește funcțiile Premium"</string> <!-- TODO validate "Notification uses Premium features" -->
+
+    <!-- Premium dialog -->
+    <string name="premium_dialog_title">"premiu"</string> <!-- TODO validate "Premium" -->
+    <string name="premium_dialog_upgrade_now">"Cumpară acum"</string> <!-- TODO validate "Buy now" -->
+    <string name="premium_dialog_later">"Mai tarziu"</string> <!-- TODO validate "Later" -->
+    <string name="premium_icon_description">"Pictograma stea superioară"</string> <!-- TODO validate "Premium star icon" -->
+    <string name="feature_user_sounds_title">"Sunetele adăugate de utilizator sunt o caracteristică Premium"</string> <!-- TODO validate "User added sounds is a Premium feature" -->
+    <string name="feature_user_sounds_description">"Faceți aplicația BlipBlip a ta adăugând propriile dvs. sunete."</string> <!-- TODO validate "Make BlipBlip app yours by adding your own sounds." -->
+    <string name="feature_premium_sounds_title">"Toate sunetele disponibile în aplicație sunt o caracteristică Premium"</string> <!-- TODO validate "All sounds available in the app is a Premium feature" -->
+    <string name="feature_premium_sounds_description">"Personalizați-vă notificarea cu multe sunete încorporate."</string> <!-- TODO validate "Customize your notification with many built-in sounds." -->
+    <string name="feature_strike_the_hour_title">"Strike ore este o caracteristică Premium"</string> <!-- TODO validate "Strike the hours is a Premium feature" -->
+    <string name="feature_strike_the_hour_description">"Creați propriul ceas de bunic (de exemplu, se joacă de 3 ori la ora trei)"</string> <!-- TODO validate "Create your own grandfather clock (e.g. plays 3 times at three o'clock)" -->
+    <string name="feature_say_text_title">"Textul spunând este o caracteristică Premium"</string> <!-- TODO validate "Saying text is a Premium feature" -->
+    <string name="feature_say_text_description">"Utilizați funcția text-la-vorbire în notificările dvs."</string> <!-- TODO validate "Use text-to-speech in your notifications." -->
+    <string name="feature_say_time_title">"Timpul de difuzare este o caracteristică Premium"</string> <!-- TODO validate "Saying time is a Premium feature" -->
+    <string name="feature_say_time_description">"Vorbiți timpul curent folosind textul în vorbire."</string> <!-- TODO validate "Speak current time using text to speech." -->
+    <string name="feature_custom_repeat_interval_title">"Intervalul de repetare particularizat este o caracteristică Premium"</string> <!-- TODO validate "Custom repeat interval is a Premium feature" -->
+    <string name="feature_custom_repeat_interval_description">"Setați orice interval de timp (altul decât standardul 1, 5, 10, 15, 20, 30 și 60 de minute)."</string> <!-- TODO validate "Set any time interval (other than standard 1, 5, 10, 15, 20, 30 and 60 minutes)." -->
+    <string name="feature_general_title">"Notificarea folosește funcțiile Premium"</string> <!-- TODO validate "Notification uses Premium functions" -->
+    <string name="feature_general_description">"Actualizați pentru a permite notificarea și a vă bucura de toate funcțiile Premium."</string> <!-- TODO validate "Upgrade to enable notification and enjoy all Premium features." -->
+    <string name="feature_multiple_active_notifications_title">"Notificările active nelimitate sunt o caracteristică Premium"</string> <!-- TODO validate "Unlimited active notifications is a Premium feature" -->
+    <string name="feature_multiple_active_notifications_description">"Utilizați mai multe notificări cu setări diferite în același timp (de exemplu, jucați de două ori la ora 12:00, jucați o dată la ora 12:30). În versiunea gratuită puteți avea o notificare activă."</string> <!-- TODO validate "Use many notifications with different settings at the same time (e.g. play twice at 12:00, play once at 12:30). In free version you can have one active notification." -->
+    <string name="feature_unlimited_silent_time_title">"Setările de timp silențioase nelimitate sunt o caracteristică Premium"</string> <!-- TODO validate "Unlimited silent time configurations is a Premium feature" -->
+    <string name="feature_unlimited_silent_time_description">"În versiunea gratuită puteți activa 5 configurații de timp silențioase."</string> <!-- TODO validate "In free version you can activate 5 silent time configurations." -->
+
+    <string name="vibrate_seconds">"Vibrați %s s"</string> <!-- TODO validate "Vibrate %ss" --> <!-- s at the end is for seconds, %s will be replaced by value e.g. "Vibrate 1.2s" -->
+    <string name="wait_and_vibrate_seconds">"Așteptați %1$s s, vibrați %2$s s"</string> <!-- TODO validate "Wait %1$ss, vibrate %2$ss" --> <!-- s at the end is for seconds, "%1$s" and "%2$s" will be replaced by value e.g. "Vibrate 1.2s" -->
+
+    <!-- button descriptions -->
+    <string name="add_new_sound">"Adăugați un sunet nou din aplicația externă"</string> <!-- TODO validate "Add new sound from external app" -->
+    <string name="create_new_vibration">"Creați vibrații noi"</string> <!-- TODO validate "Create new vibration" -->
+    <string name="create_new_notification">"Creați o notificare nouă"</string> <!-- TODO validate "Create new notification" -->
+    <string name="create_new_silent_time">"Creați un timp silențios"</string> <!-- TODO validate "Create new silent time" -->
+    <string name="additional_info_button">"Informatii suplimentare"</string> <!-- TODO validate "Additional information" -->
+    <string name="start_playing">"Începeți să jucați"</string> <!-- TODO validate "Start playing" -->
+    <string name="stop_playing">"Nu te mai juca"</string> <!-- TODO validate "Stop playing" -->
+    <string name="edit_mode">"Mod de editare"</string> <!-- TODO validate "Edit mode" -->
+
+    <!-- widget -->
+    <string name="app_enabled">"App activat"</string> <!-- TODO validate "App enabled" -->
+    <string name="app_disabled">"App dezactivat"</string> <!-- TODO validate "App disabled" -->
+
+    <string name="warning_volume_dnd">"Nu se poate afișa glisorul de volum, deoarece modul Nu este deranjat"</string> <!-- TODO validate "Cannot show volume slider because Do Not Disturb mode is enabled" -->
+
+    <!-- auto start failed dialog -->
+    <string name="auto_start_fail_title">"Auto-start a eșuat"</string> <!-- TODO validate "Auto-start failed" -->
+    <string name="auto_start_fail_message">"Startul automat al aplicației a eșuat. Verificați setările."</string> <!-- TODO validate "Automatic start of the app failed. Please check your settings." -->
+
+    <!-- manual settings dialog -->
+    <string name="manual_settings_title">"Setările manual necesare"</string> <!-- TODO validate "Manual settings needed" -->
+    <string name="manual_settings_summary">"Unele setări manuale pot fi necesare pentru ca BlipBlip să funcționeze corect."</string> <!-- TODO validate "Some manual settings may be needed for BlipBlip to function properly." -->
+    <string name="manual_settings_tips_subtitle">"Încercați sfaturile de mai jos"</string> <!-- TODO validate "Please try tips below" -->
+    <string name="manual_settings_tip_settings_description">"Deschide setările"</string> <!-- TODO validate "Open settings" -->
+    <string name="manual_settings_snackbar">"Revedeți setările manuale care ar putea fi necesare pentru ca aplicația să funcționeze corect"</string> <!-- TODO validate "Please review manual settings which may be needed for app to function properly" -->
+    <string name="manual_settings_show">"Spectacol"</string> <!-- TODO validate "Show" -->
+    <string name="manual_settings_permanent_notification_description">"Activați notificarea permanentă (recomandată)"</string> <!-- TODO validate "Enable permanent notification (recommended)" -->
+    <string name="manual_settings_permanent_notification_info">"Aplicația va afișa în permanență o notificare vizibilă, care poate împiedica uciderea aplicației."</string> <!-- TODO validate "App will show permanently visible notification, which may prevent app from being killed." -->
+    <string name="manual_settings_general_tips_button">"Afișați sfaturi generale"</string> <!-- TODO validate "Show general tips" -->
+    <string name="manual_settings_general_tips">"Sfaturi generale"</string> <!-- TODO validate "General tips" -->
+    <string name="manual_settings_general_tip1">"Dezactivați modurile de economisire a energiei în setările dispozitivului"</string> <!-- TODO validate "Disable power saving modes in device settings" -->
+    <string name="manual_settings_general_tip2">"Dezactivați aplicațiile care optimizează utilizarea bateriei sau a memoriei (de exemplu, ucigătoare de activități)"</string> <!-- TODO validate "Disable apps that optimize battery or memory usage (e.g. task killers)" -->
+    <string name="manual_settings_general_tips_info">"Dacă dispozitivul dvs. necesită modificarea altor opțiuni, anunțați-ne folosind opțiunea \"Raportați problema\"."</string> <!-- TODO validate "If your device requires changing other options, please let us know using \"Report problem\" option." -->
+    <string name="manual_settings_suggest_report_problem">"Dacă după încercarea de mai sus veți avea probleme cu aplicația, vă rugăm să raportați problema."</string> <!-- TODO validate "If after trying above tips you would still have issues with the app, please report the problem." -->
+    <string name="manual_settings_do_not_show_again">"Nu se afișează din nou"</string> <!-- TODO validate "Do not show again" -->
+
+    <!-- Tips -->
+    <string name="tip1">"Adăugați aplicația la Aplicații ne-monitorizate."</string> <!-- TODO validate "Add the app to Un-monitored Apps." -->
+    <string name="tip2">"Adăugați aplicația la Aplicații protejate."</string> <!-- TODO validate "Add the app to Protected Apps." -->
+    <string name="tip3">"Excludeți aplicația de la curățarea ecranului de blocare."</string> <!-- TODO validate "Exclude app from lock screen cleanup." -->
+    <string name="tip4">"Dezactivați modul Stamina."</string> <!-- TODO validate "Disable Stamina mode." -->
+    <string name="tip5">"Dezactivați restricțiile privind utilizarea bateriilor."</string> <!-- TODO validate "Disable battery usage restrictions." -->
+    <string name="tip6">"Adăugați aplicația pentru a rula automat."</string> <!-- TODO validate "Add app to auto-run." -->
+    <string name="tip7">"Dezactivați curățarea sarcinii de fundal."</string> <!-- TODO validate "Disable background task cleaner." -->
+    <string name="tip8">"Adăugați aplicația pentru a începe automat."</string> <!-- TODO validate "Add app to auto-start." -->
+    <string name="tip9">"Adăugați aplicația pentru a începe automat."</string> <!-- TODO validate "Add app to auto-start." -->
+    <string name="tip10">"Blocați aplicația pe ecranul aplicațiilor recente."</string> <!-- TODO validate "Lock the app on recent apps screen." -->
+    <string name="tip11">"Permiteți aplicației să lucreze în modul de așteptare."</string> <!-- TODO validate "Allow the app to work in Standby Mode." -->
+    <string name="tip12">"Adăugați aplicația pentru lansarea automată."</string> <!-- TODO validate "Add the app to auto-launch." -->
+    <string name="tip14">"Adăugați aplicația în lista albă pentru protejarea fundalului."</string> <!-- TODO validate "Add the app to Background protection whitelist." -->
+
+    <!-- Tips detailed instructions -->
+    <string name="tip1_settings">"Setări&gt; Întreținere dispozitiv&gt; Baterie&gt; Listă de aplicații fără monitoare"</string> <!-- TODO validate "Settings > Device maintenance > Battery > Unmonitored apps list" -->
+    <string name="tip2_settings">"Setări&gt; Setări avansate&gt; Manager baterie&gt; Aplicații sau setări protejate&gt; Confidențialitate și securitate&gt; Aplicații protejate"</string> <!-- TODO validate "Settings > Advanced Settings > Battery Manager > Protected Apps or Settings > Privacy and Security > Protected Apps" -->
+    <string name="tip3_settings">"Manager telefon&gt; Ecranul de blocare a ecranului&gt; debifați aplicația (nu închideți) sau Setări&gt; Baterie&gt; Ecran de blocare ecran&gt; debifați aplicația (nu închideți)"</string> <!-- TODO validate "Phone Manager > Lock screen cleanup > un-check the app (don't close) or Settings > Battery > Lock screen cleanup > un-check the app (don't close)" -->
+    <string name="tip4_settings">"Setări&gt; Gestionarea alimentării&gt; modul STAMINA&gt; Aplicații active în regimul de așteptare&gt; Adăugați BlipBlip"</string> <!-- TODO validate "Settings > Power management > STAMINA mode > Apps active in standby > Add BlipBlip" -->
+    <string name="tip5_settings">"Setări&gt; Setări suplimentare&gt; Baterie și performanță&gt; Gestionați aplicațiile Utilizarea bateriei&gt; Alegeți aplicații&gt; BlipBlip&gt; Fără restricții"</string> <!-- TODO validate "Settings > Additional Settings > Battery & Performance > Manage Apps Battery Usage > Choose Apps > BlipBlip > No restrictions" -->
+    <string name="tip6_settings">"Setări&gt; Permisiuni&gt; Gestiune automată"</string> <!-- TODO validate "Settings > Permissions > Auto-run management" -->
+    <string name="tip7_settings">"Setări&gt; Activitate fundal clar&gt; Listă albă"</string> <!-- TODO validate "Settings > Background task clear > White list" -->
+    <string name="tip8_settings">"Asus Mobile Manager&gt; Manager de pornire automată"</string> <!-- TODO validate "Asus Mobile Manager > Auto-start Manager" -->
+    <string name="tip9_settings">"Manager de telefon&gt; Permisiuni de confidențialitate&gt; Manager de pornire"</string> <!-- TODO validate "Phone Manager > Privacy Permissions > Startup Manager" -->
+    <string name="tip10_settings">"Aplicații recente&gt; atingeți BlipBlip și trageți-o în jos"</string> <!-- TODO validate "Recent apps > tap BlipBlip and pull it down" -->
+    <string name="tip11_settings">"Securitate&gt; Alimentare&gt; Gestionare în așteptare&gt; Setați BlipBlip pentru a rula în modul de așteptare"</string> <!-- TODO validate "Security > Power > Standby Management > Set BlipBlip to run in Standby Mode" -->
+    <string name="tip12_settings">"Securitate&gt; Permisiune&gt; Aplicații lansate automat&gt; activați lansarea automată"</string> <!-- TODO validate "Security > Permission > Auto-Launched apps > enable auto-launch" -->
+    <string name="tip13_settings">"Apăsați lung cercul roșu&gt; glisați în jos BlipBlip"</string> <!-- TODO validate "Long press red circle > swipe down BlipBlip" -->
+    <string name="tip14_settings">"Aplicația NeoSafe&gt; Power&gt; pictograma de setări de top dreapta&gt; lista albă pentru protecția fundalului&gt; adăugați BlipBLip"</string> <!-- TODO validate "NeoSafe app > Power > right top settings icon > Background protection whitelist > add BlipBLip" -->
+    <string name="tip15_settings">"Aplicație NeoSafe&gt; Permisiune&gt; Accelerare pornire&gt; Activați BlipBlip"</string> <!-- TODO validate "NeoSafe app > Permission > Power-on speedup > Enable BlipBlip" -->
+
+    <!-- UI Settings -->
+    <string name="pref_user_interface">"Interfața cu utilizatorul"</string> <!-- TODO validate "User interface" -->
+    <!-- edit button -->
+    <string name="edit_button_title">"Butonul de editare"</string> <!-- TODO validate "Editing button" -->
+    <string name="edit_button_on">"Afișați butonul de editare"</string> <!-- TODO validate "Show edit button" -->
+    <string name="edit_button_off">"Ascundeți butonul de editare. Pentru a intra în modul de editare, utilizați acțiunea de editare din meniu."</string> <!-- TODO validate "Hide edit button. To enter edit mode use edit action from menu." -->
+    <!-- changelog -->
+    <string name="version_history">"Versiunea istorică"</string> <!-- TODO validate "Version history" -->
+    <string name="changelog_title">"Ce mai e nou?"</string> <!-- TODO validate "What's new?" -->
+    <string name="show_changelog_title">"Afișați lista de modificări"</string> <!-- TODO validate "Show changelog" -->
+    <string name="show_changelog_on">"Afișați modificările recente la pornire."</string> <!-- TODO validate "Show recent changes on startup." -->
+    <string name="show_changelog_off">"Nu afișați modificările recente la pornire."</string> <!-- TODO validate "Do not show recent changes on startup." -->
+    <!-- inclusive -->
+    <string name="show_inclusive_title">"Modificați terminațiile pentru intervalul de timp"</string> <!-- TODO validate "Change time range endings" -->
+    <string name="show_inclusive_on">"Când se specifică intervalul de timp, se afișează butoanele care permit să se precizeze dacă timpul dat trebuie inclus în intervalul de timp."</string> <!-- TODO validate "When specifying time range show buttons which allow to specify whether given time should be included in time range." -->
+    <string name="show_inclusive_off">"Ascundeți butoanele care permit să alegeți dacă timpul trebuie inclus în intervalul de timp."</string> <!-- TODO validate "Hide buttons allowing to choose if time should be included in time range." -->
+    <!-- show switches -->
+    <string name="show_actions_switches_title">"Acțiunile comută"</string> <!-- TODO validate "Actions switches" --> <!-- option to show enable/disable switches for actions -->
+    <string name="show_actions_switches_on">"Afișați comutatoarele pentru dezactivarea acțiunilor."</string> <!-- TODO validate "Show switches for disabling actions." -->
+    <string name="show_actions_switches_off">"Ascundeți comutatoarele care dezactivează acțiunile."</string> <!-- TODO validate "Hide switches which disable actions." -->
+    <!-- Show kill dialog -->
+    <string name="show_kill_dialog_title">"Notificați dacă aplicația a fost ucisă"</string> <!-- TODO validate "Notify if app was killed" -->
+    <string name="show_kill_dialog_on">"Afișați mesajul când deschideți aplicația dacă s-a detectat că aplicația a fost ucisă."</string> <!-- TODO validate "Display message when opening the app if it was detected that the app was killed." -->
+    <string name="show_kill_dialog_off">"Nu afișați mesajul când a fost detectat că aplicația a fost ucisă."</string> <!-- TODO validate "Do not display message when it was detected that the app was killed." -->
+
+    <!-- examples -->
+    <string name="double_sound_every_hour">"Sunet dublu la fiecare oră"</string> <!-- TODO validate "Double sound every hour" -->
+    <string name="single_sound_half_past">"Sună la jumătate din fiecare oră"</string> <!-- TODO validate "Sound half past every hour" -->
+    <string name="speak_time_every_hour">"Vorbiți ora curentă la fiecare oră"</string> <!-- TODO validate "Speak current time every hour" -->
+
+    <!-- ads -->
+    <string name="remove_ads">"Elimina anunțurile"</string> <!-- TODO validate "Remove ads" -->
+    <string name="channel_name_watch_ads">"Urmăriți anunțurile"</string> <!-- TODO validate "Watch ads" -->
+    <string name="channel_name_premium_end_description">"Veți primi notificări atunci când trebuie să vizionați un anunț pentru a beneficia gratuit de toate funcțiile Premium"</string> <!-- TODO validate "You will get notified when you need to watch an ad to enjoy all Premium features for free" -->
+
+    <string name="watch_ads">"Urmăriți anunțurile"</string> <!-- TODO validate "Watch ads" -->
+    <string name="watch_video">"Vizionați un anunț video"</string> <!-- TODO validate "Watch video ad" -->
+    <string name="subscribe_without_ads">"Abonați-vă fără anunțuri"</string> <!-- TODO validate "Subscribe without ads" -->
+    <string name="start_free_trial">"Începeți o încercare gratuită"</string> <!-- TODO validate "Start a free trial" -->
+    <string name="tooltip_accept_privacy_policy">"Verificați caseta."</string> <!-- TODO validate "Please check the box." -->
+    <string name="welcome_to_blipBlip">"Bun venit la BlipBlip!"</string> <!-- TODO validate "Welcome to BlipBlip!" -->
+    <string name="blipblip_free_description_short">"Această aplicație este gratuită în schimbul vizionării anunțurilor."</string> <!-- TODO validate "This app is free in exchange for watching ads." -->
+    <string name="blipblip_free_description">"Această aplicație este gratuită în schimbul vizionării anunțurilor. Puteți accesa toate funcțiile și sunetele Blip Blip Premium pentru o perioadă de timp specificată după vizionarea unui anunț. Cu cât privești mai mult cu cât poți folosi mai mult aplicația."</string> <!-- TODO validate "This app is free in exchange for watching ads. You can access all Blip Blip Premium features and sounds for specified time period after watching an ad. The more you watch the longer you can use the app." -->
+    <string name="blipblip_free_description2">"Nu există anunțuri în interfața cu utilizatorul. Nu există anunțuri care să apară în mod neașteptat. Alegi mereu când vrei să urmărești un anunț."</string> <!-- TODO validate "There are no ads in user interface. There are no ads popping up unexpectedly. You always choose when you want to watch an ad." -->
+    <string name="watch_ad">"Afișați anunțul"</string> <!-- TODO validate "View ad" -->
+    <string name="ad">"Anunț"</string> <!-- TODO validate "Ad" --> <!-- Short label of button for watching ads -->
+    <string name="accept_privacy_policy">"Accept politica de confidențialitate."</string> <!-- TODO validate "I accept privacy policy." -->
+    <string name="get_blipblip">"Doriți o aplicație gratuită fără anunțuri și fără funcții Premium? Apasa aici."</string> <!-- TODO validate "Want free app without ads and without Premium features? Tap here." -->
+    <string name="privacy_policy">"Politica de confidentialitate."</string> <!-- TODO validate "Privacy policy." -->
+    <string name="get_time_of_premium">"Obțineți %1$s de la Premium"</string> <!-- TODO validate "Get %1$s of Premium" -->
+    <string name="get_time_of_premium_more">"Vedeți anunțul pentru a utiliza aplicația pentru o perioadă suplimentară: %s ."</string> <!-- TODO validate "View ad to use the app for additional time: %s." -->
+    <string name="premium_time_left">"Timpul rămas pentru utilizarea aplicației: %s"</string> <!-- TODO validate "Time left for using the app: %s" -->
+    <string name="app_was_enabled">"Aplicația a fost activată!"</string> <!-- TODO validate "App has been enabled!" -->
+    <string name="failed_loading_ad">"Imposibil de încărcat anunțul. Verificați conexiunea la internet și încercați din nou."</string> <!-- TODO validate "Failed to load ad. Check your internet connection and try again." -->
+    <string name="continue_with_ads">"Continuați cu anunțurile"</string> <!-- TODO validate "Continue with ads" -->
+    <string name="continue_with_relevant_question">"Putem folosi datele dvs. pentru a personaliza anunțurile pentru dvs.?"</string> <!-- TODO validate "Can we use your data to tailor ads for you?" -->
+    <string name="continue_with_relevant_ads">"Da, continuați cu anunțuri relevante"</string> <!-- TODO validate "Yes, continue with relevant ads" -->
+    <string name="continue_with_less_relevant_ads">"Nu, continuați cu anunțuri mai puțin relevante"</string> <!-- TODO validate "No, continue with less relevant ads" -->
+    <string name="watch_ads_to_get_next_notification">"Vizualizați anunțurile pentru a primi următoarea notificare"</string> <!-- TODO validate "View ads to get next notification" -->
+    <string name="watch_ad_to_enable_app">"Vedeți anunțul pentru a activa aplicația"</string> <!-- TODO validate "View ad to enable app" -->
+    <string name="popup_watch_more_ads_to_get_notification">"Urmăriți mai multe anunțuri pentru a obține această notificare"</string> <!-- TODO validate "Watch more ads to get this notification" -->
+
+    <!-- ads notifications -->
+    <string name="notif_premium_ended">"Aplicația este dezactivată"</string> <!-- TODO validate "Application disabled" -->
+    <string name="notif_premium_ended_description">"Urmăriți anunțul pentru al activa din nou."</string> <!-- TODO validate "Watch ad to enable it again." -->
+    <string name="notif_stop_warn">"Notificarea următoare nu va fi redată"</string> <!-- TODO validate "Next notification won't be played" -->
+    <string name="notif_stop_warn_description">"Urmăriți anunțul pentru a prelungi timpul pentru utilizarea aplicației"</string> <!-- TODO validate "Watch ad to extend time for using the app" -->
+
+    <!-- ads settings -->
+    <string name="ads_notifications">"Necesitatea de a vizualiza anunțuri"</string> <!-- TODO validate "Need of viewing ads" -->
+    <string name="ads_notifications_on">"Veți primi notificări despre necesitatea de a vizualiza anunțuri"</string> <!-- TODO validate "You will get notifications about the need of viewing ads" -->
+    <string name="ads_notifications_off">"Nu veți primi nicio notificare cu privire la necesitatea de a vizualiza anunțuri"</string> <!-- TODO validate "You won't get any notifications about the need of viewing ads" -->
+    <string name="ads_warn_app_disabled">"Dezactivarea aplicației"</string> <!-- TODO validate "Application disabling" -->
+    <string name="ads_warn_app_disabled_on">"Anunțați când aplicația este dezactivată, deoarece nu au fost vizionate suficiente anunțuri"</string> <!-- TODO validate "Notify when app is disabled because not enough ads were watched" -->
+    <string name="ads_warn_app_disabled_off">"Nu notificați când aplicația va fi dezactivată deoarece nu au fost vizionate suficiente anunțuri"</string> <!-- TODO validate "Do not notify when app will be disabled because not enough ads were watched" -->
+    <string name="ads_warn_next_notification">"Notificare ulterioară"</string> <!-- TODO validate "Next notification" -->
+    <string name="ads_warn_next_notification_on">"Anunță când următoarea notificare nu va fi redată deoarece nu au fost vizionate suficiente anunțuri"</string> <!-- TODO validate "Notify when next notification won't be played because not enough ads were watched" -->
+    <string name="ads_warn_next_notification_off">"Nu notificați când următoarea notificare nu va fi redată deoarece nu au fost vizionate suficiente anunțuri"</string> <!-- TODO validate "Do not notify when next notification won't be played because not enough ads were watched" -->
+
+    <!-- Privacy settings -->
+    <string name="privacy">"intimitate"</string> <!-- TODO validate "Privacy" -->
+    <string name="ads">"Anunțuri"</string> <!-- TODO validate "Ads" -->
+    <string name="pref_personalized_ads">"Anunțuri personalizate"</string> <!-- TODO validate "Personalized ads" -->
+    <string name="pref_personalized_ads_on">"Anunțurile vor fi personalizate."</string> <!-- TODO validate "Ads will be personalized." -->
+    <string name="pref_personalized_ads_off">"Datele dvs. nu vor fi utilizate pentru personalizarea anunțurilor."</string> <!-- TODO validate "Your data will not be used to personalize ads." -->
+    <string name="pref_analytics">"Google Analytics"</string> <!-- TODO validate "Analytics" -->
+    <string name="pref_collect_analytics">"Colectați date anonime"</string> <!-- TODO validate "Collect anonymous data" -->
+    <string name="pref_collect_analytics_on">"Colectați date anonime și agregate pentru a îmbunătăți aplicația."</string> <!-- TODO validate "Collect anonymous, aggregated data to help improve the app." -->
+    <string name="pref_collect_analytics_off">"Nu colectați date."</string> <!-- TODO validate "Do not collect any data." -->
+    <string name="pref_analytics_anonymize_ip">"Anonimați locația"</string> <!-- TODO validate "Anonymize location" -->
+    <string name="pref_analytics_anonymize_ip_on">"Anonimați adresa IP trimisă pentru a determina locația utilizatorului."</string> <!-- TODO validate "Anonymize IP address sent to determine user location." -->
+    <string name="pref_analytics_anonymize_ip_off">"Utilizați adresa IP completă numai pentru a determina locația generală a utilizatorului (țară, oraș)."</string> <!-- TODO validate "Use full IP address only for detemining user's general location (country, city)." -->
+
+    <!-- install BlipBlip free -->
+    <string name="dialog_free_premium_title">"Vrei Premium gratuit?"</string> <!-- TODO validate "Want Premium free?" -->
+    <string name="dialog_free_premium_description">"Urmăriți anunțurile în schimbul funcțiilor Premium din aplicația %1$s ."</string> <!-- TODO validate "Watch ads in exchange for Premium features in %1$s app." -->
+    <string name="open_app">"Deschide aplicatia"</string> <!-- TODO validate "Open app" -->
+    <string name="install_app">"Instalează aplicația"</string> <!-- TODO validate "Install app" -->
+    <string name="maybe_later">"Poate mai târziu"</string> <!-- TODO validate "Maybe later" -->
+
+    <!-- tooltips -->
+    <string name="tooltip_play_next_button">"Redați următoarea notificare"</string> <!-- TODO validate "Playback next notification" -->
+    <string name="tooltip_upcoming_notifications">"Vedeți și redă notificările viitoare"</string> <!-- TODO validate "See and playback upcoming notifications" -->
+    <string name="tooltip_upcoming_notification">"Apăsați pe butonul pentru a reda notificările viitoare"</string> <!-- TODO validate "Press time to playback upcoming notifications" -->
+
+</resources>

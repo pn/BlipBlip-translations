@@ -1,0 +1,829 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Buttons -->
+    <string name="change_setting">"เปลี่ยนแปลง"</string> <!-- TODO validate "Change" -->
+    <string name="send">"ส่ง"</string> <!-- TODO validate "Send" -->
+    <string name="send_email_description">"ส่งอีเมล…"</string> <!-- TODO validate "Send email…" -->
+    <string name="play_button_description">"ทดสอบการตั้งค่าของคุณ"</string> <!-- TODO validate "Test your settings" -->
+
+    <!-- Warnings -->
+    <string name="warning">"การเตือน"</string> <!-- TODO validate "Warning" -->
+    <string name="warning_understood">"เข้าใจแล้ว"</string> <!-- TODO validate "Got it" -->
+    <string name="please_wait">"โปรดรอ…"</string> <!-- TODO validate "Please wait…" -->
+    <string name="warn_power_saving">"เพื่อให้การใช้งานมีความน่าเชื่อถือโปรดปิดใช้งานโหมดประหยัดพลังงานทั้งหมด"</string> <!-- TODO validate "To ensure reliable operation please disable all power saving modes." --> <!-- Please make this as short as possible -->
+    <string name="allow_while_idle_title">"อนุญาตในโหมดพลังงานต่ำ"</string> <!-- TODO validate "Allow in low power mode" -->
+    <string name="allow_while_idle_off">"เมื่อโทรศัพท์เข้าสู่โหมดพลังงานต่ำการแจ้งเตือนบางอย่างอาจถูกข้ามไป"</string> <!-- TODO validate "When phone enters low power mode some notifications may be skipped." -->
+    <string name="allow_while_idle_on">"อนุญาตให้ทำงานในโหมดพลังงานต่ำ (Doze / Idle) อาจไม่ทำงานสำหรับการแจ้งเตือนบ่อยกว่า 15 นาที การตั้งค่าอาจส่งผลกระทบต่อการใช้งานแบตเตอรี่เล็กน้อย"</string> <!-- TODO validate "Allow to work in low power (Doze/Idle) mode. May not always work for notifications more frequent than 15 minutes. Setting may slightly affect battery usage." -->
+    <string name="app_killed_title">"แอปถูกฆ่าตาย"</string> <!-- TODO validate "App was killed" -->
+
+    <!-- Next Notification -->
+    <string name="next_notification_off">"ปิด"</string> <!-- TODO validate "Off" -->
+    <string name="upcoming_notifications">"การแจ้งเตือนที่จะเกิดขึ้น"</string> <!-- TODO validate "Upcoming notifications" -->
+    <string name="day_today">"ในวันนี้"</string> <!-- TODO validate "Today" -->
+    <string name="day_tomorrow">"วันพรุ่งนี้"</string> <!-- TODO validate "Tomorrow" -->
+    <string name="day_monday">"วันจันทร์"</string> <!-- TODO validate "Monday" -->
+    <string name="day_tuesday">"วันอังคาร"</string> <!-- TODO validate "Tuesday" -->
+    <string name="day_wednesday">"วันพุธ"</string> <!-- TODO validate "Wednesday" -->
+    <string name="day_thursday">"วันพฤหัสบดี"</string> <!-- TODO validate "Thursday" -->
+    <string name="day_friday">"วันศุกร์"</string> <!-- TODO validate "Friday" -->
+    <string name="day_saturday">"วันเสาร์"</string> <!-- TODO validate "Saturday" -->
+    <string name="day_sunday">"วันอาทิตย์"</string> <!-- TODO validate "Sunday" -->
+    <string name="preview_upcoming_notifications">"ดูตัวอย่างการแจ้งเตือนที่กำลังจะมาถึง"</string> <!-- TODO validate "Preview upcoming notifications" -->
+    <string name="disable_premium_notifications">"ปิดใช้งานการแจ้งเตือนระดับพรีเมียม"</string> <!-- TODO validate "Disable Premium notifications" -->
+
+    <!-- Sound -->
+    <string name="sound_text">"เสียง"</string> <!-- TODO validate "Sound" -->
+    <string name="sound_blipblip">"BlipBlip"</string> <!-- TODO validate "BlipBlip" -->
+    <string name="sound_casio_watch">"นาฬิกาคาสิโอ"</string> <!-- TODO validate "Casio watch" -->
+    <string name="sound_casio_watch_single">"นาฬิกาคาสิโอ (เดี่ยว)"</string> <!-- TODO validate "Casio watch (single)" -->
+    <string name="sound_gong">"ฆ้อง"</string> <!-- TODO validate "Gong" -->
+    <string name="sound_ships_bell">"ระฆังของเรือ"</string> <!-- TODO validate "Ship's bell" -->
+    <string name="sound_double_ships_bell">"ระฆังของเรือสองเท่า"</string> <!-- TODO validate "Double ship's bell" -->
+    <string name="sound_cuckoo">"นกกาเหว่า"</string> <!-- TODO validate "Cuckoo" -->
+    <string name="sound_watch_beep">"ดูบี๊บ"</string> <!-- TODO validate "Watch beep" -->
+    <string name="sound_big_ben">"บิ๊กเบน"</string> <!-- TODO validate "Big Ben" -->
+    <string name="sound_big_ben_strikes">"บิ๊กเบนสไตรค์"</string> <!-- TODO validate "Big Ben Strikes" -->
+    <string name="sound_bubble">"ฟอง"</string> <!-- TODO validate "Bubble" -->
+    <string name="sound_bird">"นก %1$s"</string> <!-- TODO validate "Bird %1$s" -->
+    <string name="sound_cartoon">"การ์ตูน %1$s"</string> <!-- TODO validate "Cartoon %1$s" -->
+    <string name="sound_cat">"แมว %1$s"</string> <!-- TODO validate "Cat %1$s" -->
+    <string name="sound_dog">"สุนัข %1$s"</string> <!-- TODO validate "Dog %1$s" -->
+    <string name="sound_rooster">"ไก่ตัวผู้"</string> <!-- TODO validate "Rooster" -->
+    <string name="sound_guitar_strum">"กีต้าร์ดีด %1$s"</string> <!-- TODO validate "Guitar strum %1$s" -->
+    <string name="sound_water_drop">"หยดน้ำ %1$s"</string> <!-- TODO validate "Water drop %1$s" -->
+    <string name="sound_water_pouring">"น้ำไหล %1$s"</string> <!-- TODO validate "Water pouring %1$s" -->
+    <string name="sound_sonar_ping">"โซนาร์ ping %1$s"</string> <!-- TODO validate "Sonar ping %1$s" -->
+    <string name="sound_inception">"รายได้ %1$s"</string> <!-- TODO validate "Inception %1$s" -->
+    <string name="sound_the_pips">"จุดต่อ"</string> <!-- TODO validate "The pips" -->
+    <string name="sound_short_pip">"pip สั้น"</string> <!-- TODO validate "Short pip" -->
+    <string name="sound_long_pip">"pip ยาว"</string> <!-- TODO validate "Long pip" -->
+    <string name="sound_crystal_glass">"แก้วคริสตัล"</string> <!-- TODO validate "Crystal glass" -->
+    <string name="sound_ping">"ปิง"</string> <!-- TODO validate "Ping" -->
+    <string name="sound_gong_num">"Gong %1$s"</string> <!-- TODO validate "Gong %1$s" -->
+    <string name="sound_boxing_bell">"ระฆังมวย"</string> <!-- TODO validate "Boxing bell" -->
+    <string name="sound_singing_bowl">"กำลังร้องเพลงขัน %1$s"</string> <!-- TODO validate "Singing bowl %1$s" -->
+    <string name="sound_ekg">"จอภาพหัวใจ %1$s"</string> <!-- TODO validate "Heart monitor %1$s" -->
+    <string name="sound_got_item">"มีรายการแล้ว"</string> <!-- TODO validate "Got item" -->
+    <string name="sound_guitar">"กีตาร์"</string> <!-- TODO validate "Guitar" -->
+
+    <!-- Volume -->
+    <string name="text_seek_volume">"ระดับเสียง"</string> <!-- TODO validate "Sound volume" -->
+
+    <!-- Vibration -->
+    <string name="vibrate">"การสั่นสะเทือน"</string> <!-- TODO validate "Vibration" -->
+    <string name="vibration_blipblip">"สำหรับ BlipBlip"</string> <!-- TODO validate "For BlipBlip" -->
+    <string name="vibration_casio_watch">"สำหรับนาฬิกา Casio"</string> <!-- TODO validate "For Casio watch" -->
+    <string name="vibration_single_short">"สั้นเดี่ยว"</string> <!-- TODO validate "Single short" -->
+    <string name="vibration_double_short">"สั้นสองเท่า"</string> <!-- TODO validate "Double short" -->
+    <string name="vibration_single_long">"ยาวเดี่ยว"</string> <!-- TODO validate "Single long" -->
+    <string name="vibration_double_long">"ยาวเป็นสองเท่า"</string> <!-- TODO validate "Double long" -->
+
+    <!-- Silent Mode -->
+    <string name="pref_silent_mode">"โหมดเงียบ"</string> <!-- TODO validate "Silent Mode" -->
+    <string name="title_silent_mode_settings">"การตั้งค่าโหมดเงียบ"</string> <!-- TODO validate "Silent Mode Settings" -->
+    <string name="sound_in_silent_mode_title">"เสียงในโหมดเงียบ"</string> <!-- TODO validate "Sound in Silent mode" -->
+    <string name="sound_in_silent_mode_on">"อนุญาตให้เล่นเสียงในโหมดเงียบ"</string> <!-- TODO validate "Allow playing sound in Silent mode" -->
+    <string name="sound_in_silent_mode_off">"ปิดใช้งานเสียงในโหมดเงียบ"</string> <!-- TODO validate "Disable sound in Silent mode" -->
+    <string name="vibrate_in_silent_mode_title">"สั่นในโหมดเงียบ"</string> <!-- TODO validate "Vibrate in Silent mode" -->
+    <string name="vibrate_in_silent_mode_on">"อนุญาตการสั่นสะเทือนในโหมดเงียบ"</string> <!-- TODO validate "Allow vibration in Silent mode" -->
+    <string name="vibrate_in_silent_mode_off">"ปิดใช้งานการสั่นสะเทือนในโหมดเงียบ"</string> <!-- TODO validate "Disable vibration in Silent mode" -->
+    <string name="force_screen_in_silent_mode_title">"บังคับให้เปิดใช้งานหน้าจอ"</string> <!-- TODO validate "Force enable screen" -->
+    <string name="force_screen_in_silent_mode_on">"หน้าจอสว่างขึ้นในโหมดปิดเสียงแม้ว่าตัวเลือก \ \"หน้าจอสว่างขึ้นบนการแจ้งเตือน \\" จะถูกปิดใช้งาน"</string> <!-- TODO validate "Light up screen in Silent mode even if \"Light up screen on notification\" option is disabled" -->
+    <string name="force_screen_in_silent_mode_off">"พิการ"</string> <!-- TODO validate "Disabled" -->
+    <string name="warn_sound_disabled_silent_mode">"ปิดเสียงแจ้งเตือน BlipBlip เนื่องจากอุปกรณ์ของคุณอยู่ในโหมดเงียบ"</string> <!-- TODO validate "BlipBlip notification sound disabled, because your device is in silent mode." -->
+
+    <!-- Vibration Mode -->
+    <string name="pref_vibrate_mode">"โหมดสั่น"</string> <!-- TODO validate "Vibrate Mode" -->
+    <string name="title_vibrate_mode_settings">"การตั้งค่าโหมดสั่น"</string> <!-- TODO validate "Vibrate Mode Settings" -->
+    <string name="sound_in_vibrate_mode_title">"เสียงในโหมดสั่น"</string> <!-- TODO validate "Sound in Vibrate mode" -->
+    <string name="sound_in_vibrate_mode_on">"อนุญาตให้เล่นเสียงในโหมดสั่น"</string> <!-- TODO validate "Allow playing sound in Vibrate mode" -->
+    <string name="sound_in_vibrate_mode_off">"ปิดใช้งานเสียงในโหมดสั่น"</string> <!-- TODO validate "Disable sound in Vibrate mode" -->
+    <string name="vibrate_in_vibrate_mode_title">"สั่นในโหมดสั่น"</string> <!-- TODO validate "Vibrate in Vibrate mode" -->
+    <string name="vibrate_in_vibrate_mode_on">"อนุญาตการสั่นสะเทือนในโหมดสั่น"</string> <!-- TODO validate "Allow vibration in Vibrate mode" -->
+    <string name="vibrate_in_vibrate_mode_off">"ปิดใช้งานการสั่นสะเทือนในโหมดสั่น"</string> <!-- TODO validate "Disable vibration in Vibrate mode" -->
+    <string name="force_vibrate_in_vibrate_mode_title">"แรงสั่นสะเทือน"</string> <!-- TODO validate "Force vibrate" -->
+    <string name="force_vibrate_in_vibrate_mode_on">"บังคับการสั่นสะเทือนในโหมดสั่นแม้ว่าจะปิดการใช้งานการสั่นก็ตาม"</string> <!-- TODO validate "Force vibration in Vibrate mode even if vibration is disabled" -->
+    <string name="force_vibrate_in_vibrate_mode_off">"พิการ"</string> <!-- TODO validate "Disabled" -->
+    <string name="force_screen_in_vibrate_mode_title">"บังคับให้เปิดใช้งานหน้าจอ"</string> <!-- TODO validate "Force enable screen" -->
+    <string name="force_screen_in_vibrate_mode_on">"หน้าจอสว่างขึ้นในโหมดสั่นแม้ว่าตัวเลือก \ \"หน้าจอสว่างขึ้นบนการแจ้งเตือน \\" จะถูกปิดใช้งาน"</string> <!-- TODO validate "Light up screen in Vibrate mode even if \"Light up screen on notification\" option is disabled" -->
+    <string name="force_screen_in_vibrate_mode_off">"พิการ"</string> <!-- TODO validate "Disabled" -->
+    <string name="warn_sound_disabled_vibrate_mode">"ปิดเสียงแจ้งเตือน BlipBlip เนื่องจากอุปกรณ์ของคุณอยู่ในโหมดสั่น"</string> <!-- TODO validate "BlipBlip notification sound disabled, because your device is in vibrate mode." -->
+
+    <!-- Status Bar -->
+    <string name="service_disabled_warning">"BlipBlip ถูกปิดใช้งาน"</string> <!-- TODO validate "BlipBlip is disabled" -->
+    <string name="service_enable">"ทำให้สามารถ"</string> <!-- TODO validate "Enable" -->
+
+    <!-- Menu - Settings -->
+    <string name="action_settings">"การตั้งค่า"</string> <!-- TODO validate "Settings" -->
+
+    <!-- Language -->
+    <string name="app_language">"ภาษา"</string> <!-- TODO validate "Language" -->
+    <string name="system_default_language">"ระบบเริ่มต้น"</string> <!-- TODO validate "System default" -->
+    <string name="language_improve_translations">"เพิ่มหรือปรับปรุงการแปล"</string> <!-- TODO validate "Add or improve translations" -->
+
+    <!-- Quiet Hours -->
+    <string name="quiet_hours_title">"เวลาเงียบ ๆ"</string> <!-- TODO validate "Silent time" -->
+
+    <!-- Quiet Days -->
+    <string name="quiet_days_title">"วันเงียบ ๆ"</string> <!-- TODO validate "Silent days" -->
+    <string name="days_none">"ไม่มี"</string> <!-- TODO validate "None" -->
+    <string name="days_everyday">"ทุกวัน"</string> <!-- TODO validate "Everyday" -->
+    <string name="quiet_day_warning">"การแจ้งเตือนถูกปิดใช้งานเนื่องจากวันนี้เป็น \ \"วันเงียบ \\""</string> <!-- TODO validate "Notification disabled, because today is \"silent day\"." -->
+    <string name="toast_change_quiet_days">"โปรดเปลี่ยนการตั้งค่า \ \"เงียบวัน \\" เพื่อให้ BlipBlip ทำงานได้ในวันนี้"</string> <!-- TODO validate "Please change \"Silent days\" setting to make BlipBlip work today." -->
+
+    <!-- While Music -->
+    <string name="while_music">"ปิดใช้งานในขณะที่เล่นเพลง"</string> <!-- TODO validate "Disable while music plays" -->
+    <string name="while_music_on">"การแจ้งเตือนทั้งหมดถูกปิดใช้งาน"</string> <!-- TODO validate "All notifications disabled" -->
+    <string name="while_music_off">"เปิดใช้งานการแจ้งเตือน"</string> <!-- TODO validate "Notifications enabled" -->
+    <string name="while_music_toast">"การแจ้งเตือน BlipBlip ถูกปิดใช้งานเนื่องจากคุณกำลังฟังเพลง"</string> <!-- TODO validate "BlipBlip notifications are now disabled, because you are listening to music." -->
+    <!-- While phone call -->
+    <string name="while_phonecall">"ปิดใช้งานระหว่างการโทร"</string> <!-- TODO validate "Disable during phone call" -->
+    <string name="while_phonecall_on">"การแจ้งเตือนทั้งหมดถูกปิดใช้งาน"</string> <!-- TODO validate "All notifications disabled" -->
+    <string name="while_phonecall_off">"เปิดใช้งานการแจ้งเตือน"</string> <!-- TODO validate "Notifications enabled" -->
+    <string name="while_phonecall_toast">"การแจ้งเตือน BlipBlip ถูกปิดใช้งานเนื่องจากคุณอยู่ในสายโทรศัพท์"</string> <!-- TODO validate "BlipBlip notifications are now disabled, because you are in a phone call." -->
+
+
+
+    <!-- ADVANCED SETTINGS -->
+    <string name="pref_advanced">"ตั้งค่าขั้นสูง"</string> <!-- TODO validate "Advanced settings" -->
+    <string name="title_advanced_settings">"ตั้งค่าขั้นสูง"</string> <!-- TODO validate "Advanced settings" -->
+
+    <!-- Audio Stream -->
+    <string name="pref_choose_audio_stream">"สตรีมเสียง"</string> <!-- TODO validate "Audio stream" -->
+    <string name="audio_stream_phone_ring">"เสียงโทรศัพท์"</string> <!-- TODO validate "Phone ring" -->
+    <string name="audio_stream_alarm">"สัญญาณเตือนภัย"</string> <!-- TODO validate "Alarm" -->
+    <string name="audio_stream_alarm2">"นาฬิกาปลุก"</string> <!-- TODO validate "Alarm clock" -->
+    <string name="audio_stream_media">"สื่อ"</string> <!-- TODO validate "Media" -->
+    <string name="audio_stream_media2">"เพลงวิดีโอเกม"</string> <!-- TODO validate "Music, Videos, Games" -->
+    <string name="audio_stream_notification">"การแจ้งเตือน"</string> <!-- TODO validate "Notification" -->
+
+    <!-- Notifications -->
+    <string name="pref_notification_settings">"การตั้งค่าการแจ้งเตือน"</string> <!-- TODO validate "Notification settings" -->
+    <string name="pref_notification_status_title">"แสดงการแจ้งเตือน"</string> <!-- TODO validate "Display notification" -->
+
+    <!-- Show Notification Always -->
+    <string name="pref_notification_always">"แสดงเสมอ"</string> <!-- TODO validate "Always display" -->
+    <string name="pref_notification_always_on">"แสดงการแจ้งเตือนไม่ว่าจะเปิดใช้งานหรือไม่"</string> <!-- TODO validate "Display notification regardless if it is enabled" -->
+    <string name="pref_notification_always_off">"แสดงการแจ้งเตือนเฉพาะเมื่อเปิดใช้งาน"</string> <!-- TODO validate "Display notification only if it is enabled" -->
+    <string name="notification_settings_updated">"อัปเดตการตั้งค่าการแจ้งเตือนแล้ว"</string> <!-- TODO validate "Notification settings updated" --> <!-- message displayed when one of notification settings is updated without user interacting with these options -->
+    <string name="permanent_notification">"การแจ้งเตือนถาวร"</string> <!-- TODO validate "Permanent notification" -->
+
+    <!-- Notification Priority -->
+    <string name="pref_notification_priority">"ลำดับความสำคัญการแจ้งเตือน"</string> <!-- TODO validate "Notification priority" -->
+    <string name="item_priority_minimum">"ขั้นต่ำ"</string> <!-- TODO validate "Minimum" -->
+    <string name="item_priority_low">"ต่ำ"</string> <!-- TODO validate "Low" -->
+    <string name="item_priority_normal">"ปกติ"</string> <!-- TODO validate "Normal" -->
+    <string name="item_priority_high">"สูง"</string> <!-- TODO validate "High" -->
+    <string name="item_priority_maximum">"สูงสุด"</string> <!-- TODO validate "Maximum" -->
+
+    <!-- Dismissible Notification -->
+
+    <!-- Auto dismiss -->
+    <string name="auto_dismiss_notification_title">"ปิดการแจ้งเตือนอัตโนมัติ"</string> <!-- TODO validate "Auto dismiss notification" -->
+    <string name="auto_dismiss_notification_on">"ปิดการแจ้งเตือนโดยอัตโนมัติหลังจากผ่านไปสักพัก"</string> <!-- TODO validate "Dismiss notification automatically after some time." -->
+    <string name="auto_dismiss_notification_off">"การแจ้งเตือนจะไม่ถูกยกเลิกโดยอัตโนมัติ"</string> <!-- TODO validate "Notification will not be dismissed automatically." -->
+
+    <!-- Vibrate on Wear -->
+    <string name="pref_vibrate_wearable_title">"สั่นบนอุปกรณ์ที่เชื่อมต่อ"</string> <!-- TODO validate "Vibrate on connected device" -->
+    <string name="pref_vibrate_wearable_on2">"หากเปิดใช้งานการสั่นด้วยระบบสั่นก็จะทำการเชื่อมต่อกับอุปกรณ์ที่สวมใส่ได้เช่นกัน (เช่น smart watch) ต้องเพิ่มการดำเนินการแจ้งเตือนของระบบ"</string> <!-- TODO validate "If vibration is enabled vibrate also on connected wearable device (e.g. smart watch). Requires adding System notification action." -->
+    <string name="pref_vibrate_wearable_off">"อย่าเขย่าอุปกรณ์สวมใส่เชื่อมต่อ"</string> <!-- TODO validate "Do not vibrate on connected wearable device" -->
+
+    <!-- Action Buttons -->
+    <string name="pref_notification_action_buttons">"ปุ่มการกระทำ"</string> <!-- TODO validate "Action buttons" --> <!-- Preference name for choosing which buttons are visible on notification -->
+    <string name="notif_action_stop">"หยุด"</string> <!-- TODO validate "Stop" --> <!-- Description of action button. This should refer to notif_action_stop -->
+    <string name="notif_action_disable_or_enable">"เปิดปิด"</string> <!-- TODO validate "Enable/Disable" --> <!-- Description of action button. This refers to notif_action_enable and notif_action -->
+    <string name="notif_button_play">"เล่น"</string> <!-- TODO validate "Play" --> <!-- Action button label in notification having same action as play button in the app - plays the notificaton for testing purposes. This text should be short, because it will be shown on notification button where there can be 3 of them -->
+    <string name="notif_button_stop">"หยุด"</string> <!-- TODO validate "Stop" --> <!-- Stops playback of notification. Should be short. -->
+    <string name="notif_button_enable">"ทำให้สามารถ"</string> <!-- TODO validate "Enable" --> <!-- This text should be short, because it will be shown on notification button where there can be 3 of them. -->
+    <string name="notif_button_disable">"ปิดการใช้งาน"</string> <!-- TODO validate "Disable" --> <!-- This text should be short, because it will be shown on notification button where there can be 3 of them. -->
+
+    <!-- Custom Texts -->
+    <string name="pref_custom_texts">"ข้อความแจ้งเตือนที่กำหนดเอง"</string> <!-- TODO validate "Custom notification texts" -->
+    <string name="pref_notification_title_title">"ชื่อการแจ้งเตือน"</string> <!-- TODO validate "Notification title" -->
+    <string name="pref_notification_description_title">"คำอธิบายการแจ้งเตือน"</string> <!-- TODO validate "Notification description" -->
+
+    <!-- Reliability -->
+    <string name="pref_reliability">"การตั้งค่าความน่าเชื่อถือ"</string> <!-- TODO validate "Reliability settings" --> <!-- title of settings section meant for all settings which may improve running of the app without issues -->
+    <string name="reliability_warning">"การเปลี่ยนการตั้งค่าเหล่านี้อาจส่งผลต่อความน่าเชื่อถือของแอพ"</string> <!-- TODO validate "Changing these settings may impact reliability of the app." --> <!-- This message should be as short as possible. There is risk of cutting it off if it will be too long -->
+
+    <!-- Alarm Mode -->
+    <string name="notif_as_alarm_title">"โหมดสัญญาณเตือน"</string> <!-- TODO validate "Alarm mode" -->
+    <string name="notif_as_alarm_off">"การแจ้งเตือนปกติ"</string> <!-- TODO validate "Regular notifications" -->
+    <string name="notif_as_alarm_on">"การแจ้งเตือนทำหน้าที่เป็นสัญญาณเตือน - แก้ไขความล่าช้าในการแจ้งเตือน 3–5 นาทีสำหรับอุปกรณ์ Samsung บางรุ่น"</string> <!-- TODO validate "Notifications act as alarms – fixes 3–5 minute notification delays on some Samsung devices" -->
+    <string name="late_notif_title">"เปิดใช้งานโหมดปลุก"</string> <!-- TODO validate "Alarm mode enabled" -->
+    <string name="late_notif_message">"ตรวจพบว่าการแจ้งเตือนล่าช้าหลายนาทีซึ่งเกิดขึ้นในอุปกรณ์ Samsung บางรุ่น เพื่อป้องกันสิ่งนี้มีการเปิดใช้งานตัวเลือก \ \"สัญญาณเตือนภัย \\" ซึ่งควรแก้ไขปัญหานี้ คุณสามารถปิดใช้งานตัวเลือกนี้และเปิดใช้งานตัวเลือกนี้โดยอัตโนมัติในการตั้งค่าขั้นสูง หากจะมีวิธีการแก้ปัญหาที่ดีกว่าในการแก้ไขปัญหาแอปจะได้รับการอัปเดต หากคุณมีปัญหาใด ๆ เพิ่มเติมโปรดรายงานปัญหาเหล่านั้นทางอีเมล"</string> <!-- TODO validate "It has been detected that notification was delayed by several minutes which happens on some Samsung devices. To prevent this, an \"Alarm mode\" option has been enabled, which should fix this issue. You can disable this option and automatic enabling of this option in the Advanced Settings. If there will be better solution found to fix the issue the app will be updated. If you have any more problems please report them via email." -->
+
+    <!-- Auto Alarm -->
+    <string name="auto_notif_as_alarm_title">"เปิดใช้งานโหมดปลุกอัตโนมัติ"</string> <!-- TODO validate "Auto enable Alarm Mode" -->
+    <string name="auto_notif_as_alarm_on">"เปิดใช้งานโหมดการเตือนหากตรวจพบการแจ้งเตือนล่าช้า"</string> <!-- TODO validate "Enable Alarm mode if notification delay detected" -->
+    <string name="auto_notif_as_alarm_off">"อย่าเปิดใช้งานโหมดปลุกโดยอัตโนมัติ"</string> <!-- TODO validate "Do not enable Alarm mode automatically" -->
+
+    <!-- Low Valume -->
+    <string name="pref_low_volume_fix">"แก้ไขปริมาณต่ำ"</string> <!-- TODO validate "Low volume fix" -->
+    <string name="pref_low_volume_fix_on">"แก้ไขปริมาณต่ำในอุปกรณ์ Motorola บางรุ่นที่มีคุณสมบัติเพิ่มขึ้น อาจชะลอการเล่นเสียงภายในไม่กี่วินาที"</string> <!-- TODO validate "Fixes low volume on some Motorola devices with rising volume feature. May delay sound playback by few seconds." -->
+    <string name="pref_low_volume_fix_off">"พิการ ไม่จำเป็นสำหรับอุปกรณ์ส่วนใหญ่"</string> <!-- TODO validate "Disabled. Not needed for most devices." -->
+
+    <!-- Foreground Service -->
+    <string name="pref_foreground_service_title">"บริการเบื้องหน้า"</string> <!-- TODO validate "Foreground service" -->
+    <string name="pref_foreground_service_on">"แสดงการแจ้งเตือนที่ไม่สามารถยกเลิกได้และเปิดใช้บริการพื้นหลังซึ่งอาจป้องกันการฆ่าแอป"</string> <!-- TODO validate "Displays non-dismissible notification and enables background service which might prevent killing of the app." -->
+    <string name="pref_foreground_service_off">"บริการเบื้องหน้าปิดการใช้งาน"</string> <!-- TODO validate "Foreground service is disabled." -->
+    <string name="msg_foreground_service_off">"บริการเบื้องหน้าปิดการใช้งาน"</string> <!-- TODO validate "Foreground service disabled" --> <!-- message displayed when foreground service is disabled without user interacting with this option -->
+
+    <!-- Toast Notifications -->
+    <string name="pref_toast_notifications">"คำเตือนป๊อปอัพ"</string> <!-- TODO validate "Pop-up warnings" -->
+    <string name="pref_toast_notifications_on">"แสดงคำเตือนป๊อปอัป"</string> <!-- TODO validate "Show pop-up warnings" -->
+    <string name="pref_toast_notifications_off">"ซ่อนคำเตือนป๊อปอัป"</string> <!-- TODO validate "Hide pop-up warnings" -->
+
+    <!-- Logs -->
+    <string name="debug_logs_title">"รวบรวมบันทึกการดีบัก"</string> <!-- TODO validate "Collect debug logs" -->
+    <string name="debug_logs_off">"ปิดใช้งานการบันทึกการเขียน"</string> <!-- TODO validate "Writing log disabled" -->
+    <string name="debug_logs_on">"บันทึกบันทึกสำหรับอีเมลแจ้งปัญหา"</string> <!-- TODO validate "Save logs for Report problem email" -->
+
+    <!-- Beta -->
+    <string name="beta_preference_title">"BlipBlip Beta"</string> <!-- TODO validate "BlipBlip Beta" -->
+    <string name="beta_preference_description">"เปิดหรือปิดรุ่นเบต้า"</string> <!-- TODO validate "Enable or disable beta version" -->
+
+    <!-- Experimental Settings -->
+    <string name="pref_experimental">"การตั้งค่าทดลอง"</string> <!-- TODO validate "Experimental settings" -->
+    <string name="experimental_warning">"การตั้งค่าเหล่านี้เป็นการทดลองและอาจถูกลบออกในอนาคต"</string> <!-- TODO validate "These are experimental settings and may be removed in the future." -->
+    <string name="title_experimental_settings">"การตั้งค่าทดลอง"</string> <!-- TODO validate "Experimental settings" -->
+    <string name="huawei_fix">"แก้ไขหัวเว่ย"</string> <!-- TODO validate "Huawei fix" -->
+
+    <!-- Menu - Share -->
+    <string name="action_share">"แชร์แอพ"</string> <!-- TODO validate "Share app" -->
+    <string name="share_chooser_title">"แชร์แอพ!"</string> <!-- TODO validate "Share the app!" -->
+    <string name="share_title">"ลองใช้แอป Chime BlipBlip ทุกชั่วโมง!"</string> <!-- TODO validate "Check out BlipBlip hourly chime app!" -->
+    <string name="share_text">"ตรวจสอบแอป Android ของ BlipBlip ทุกชั่วโมง"</string> <!-- TODO validate "Check out BlipBlip hourly chime android app" -->
+
+    <!-- Menu - Rate -->
+    <string name="action_rate">"ให้คะแนนเรา"</string> <!-- TODO validate "Rate us" -->
+    <string name="rate_us_title">"ให้คะแนนเรา!"</string> <!-- TODO validate "Rate Us!" -->
+    <string name="rate_us_message">"ขอบคุณที่สละเวลาในการตรวจสอบแอป"</string> <!-- TODO validate "Thank you for taking time to review the app." -->
+    <string name="rate_us_onetofourstars">"1-4 ดาว"</string> <!-- TODO validate "1–4 stars" -->
+    <string name="rate_us_fivestars">"5 ดาว!"</string> <!-- TODO validate "5 stars!" -->
+    <string name="five_stars_description">"ห้าดาว"</string> <!-- TODO validate "Five stars" -->
+    <string name="five_stars_title">"รัก BlipBlip?"</string> <!-- TODO validate "Love BlipBlip?" -->
+    <string name="five_stars_text">"ให้คะแนนเรา 5 ดาวเพื่อช่วยให้ BlipBlip ยอดเยี่ยมยิ่งขึ้น ขอบคุณ!"</string> <!-- TODO validate "Rate us 5 stars to help make BlipBlip even more awesome. Thanks!" -->
+
+    <!-- Menu - Error -->
+    <string name="action_send_logs">"รายงานปัญหา"</string> <!-- TODO validate "Report problem" -->
+    <string name="send_logs_describe">"โปรดอธิบายปัญหาของคุณกับแอป (ควรเป็นภาษาอังกฤษ):"</string> <!-- TODO validate "Please describe your problem with the app (preferably in English):" -->
+    <string name="feedback_dialog_bug_found">"ฉันพบข้อผิดพลาด (แนบบันทึก)"</string> <!-- TODO validate "I found a bug (attach logs)" -->
+
+    <!-- Menu - Improvement -->
+    <string name="feedback_improvement_title">"BlipBlip ต้องการการปรับปรุง"</string> <!-- TODO validate "BlipBlip needs improvement" -->
+    <string name="feedback_improvement_message">"โปรดบอกเราว่าเราสามารถปรับปรุงอะไรได้บ้างที่จะทำให้คุณพึงพอใจกับแอป"</string> <!-- TODO validate "Please tell us what we can improve to make you satisfied with the app." -->
+
+    <!-- Menu - About -->
+    <string name="action_about">"เกี่ยวกับ"</string> <!-- TODO validate "About" -->
+    <string name="about_version">"เวอร์ชัน:"</string> <!-- TODO validate "Version:" -->
+    <string name="about_authors">"ผู้เขียน"</string> <!-- TODO validate "Author" -->
+    <string name="about_coding">"การเข้ารหัส"</string> <!-- TODO validate "Coding" -->
+    <string name="about_testing">"การทดสอบ"</string> <!-- TODO validate "Testing" -->
+    <string name="about_graphics">"กราฟิก"</string> <!-- TODO validate "Graphics" -->
+    <string name="about_translations">"การแปล"</string> <!-- TODO validate "Translations" -->
+    <string name="about_thank_you">"ขอบคุณ"</string> <!-- TODO validate "Thank You" -->
+    <string name="about_images">"ภาพ"</string> <!-- TODO validate "Images" -->
+    <string name="about_libraries">"ห้องสมุด"</string> <!-- TODO validate "Libraries" --> <!-- title of screen showing licenses of programming libraries used by the app -->
+    <string name="about_acknowledgements">"กิตติกรรมประกาศ"</string> <!-- TODO validate "Acknowledgements" --> <!-- name of screen with authors, translators and other people who have helped -->
+    <string name="about_translators_thank_you">"BlipBlip ได้รับการแปลโดยผู้ใช้ของเราโดยสมัครใจและเราขอขอบคุณสำหรับการสนับสนุนและความช่วยเหลือของคุณ"</string> <!-- TODO validate "BlipBlip is translated by our users voluntarily and hereby we thank you for your support and contribution." -->
+
+    <!-- Visual -->
+    <string name="pref_visual">"การตั้งค่าภาพ"</string> <!-- TODO validate "Visual settings" -->
+    <string name="title_visual_settings">"การตั้งค่าภาพ"</string> <!-- TODO validate "Visual settings" -->
+
+    <!-- Unsorted -->
+    <string name="warn_notification_skip">"การแจ้งเตือนบางอย่างจะถูกข้าม"</string> <!-- TODO validate "Some notifications will be skipped." --> <!-- Please make this as short as possible. This warning is displayed when user chooses to skip few upcoming notifications. -->
+    <string name="warn_volume_zero">"ปริมาณปัจจุบันถูกตั้งค่าเป็นศูนย์"</string> <!-- TODO validate "Current volume is set to zero." --> <!-- Please make this as short as possible. This warning is displayed when current system volume is set to 0. -->
+    <string name="pref_low_mem_restart_title">"รีสตาร์ทหน่วยความจำต่ำ"</string> <!-- TODO validate "Low memory restart" -->
+    <string name="pref_low_mem_restart_on">"ลองรีสตาร์ทแอพหากอุปกรณ์มีหน่วยความจำเหลือน้อย สิ่งนี้จะไม่ทำงานในอุปกรณ์ทั้งหมด ไม่จำเป็นสำหรับอุปกรณ์ส่วนใหญ่ (อาจใช้แบตเตอรี่เพิ่มขึ้นเล็กน้อย)"</string> <!-- TODO validate "Try restarting app if device is low on memory. This will not work on all devices. It is not needed on most devices (may use a little bit more battery)." -->
+    <string name="pref_low_mem_restart_off">"อย่าลองรีสตาร์ทแอพหากอุปกรณ์มีหน่วยความจำเหลือน้อย"</string> <!-- TODO validate "Do not try restarting app if device is low on memory." -->
+    <string name="pref_heading_notification_accuracy">"แจ้งความแม่นยำ"</string> <!-- TODO validate "Notification accuracy" --> <!-- punctuality -->
+    <string name="pref_delay_prevention_title">"ป้องกันความล่าช้า"</string> <!-- TODO validate "Prevent delays" -->
+    <string name="pref_delay_prevention_on">"พยายามป้องกันการแจ้งเตือนล่าช้าซึ่งเกิดขึ้นในอุปกรณ์บางอย่าง อาจใช้แบตเตอรี่มากขึ้น"</string> <!-- TODO validate "Tries to actively prevent notification delays which happen on some devices. May use more battery." -->
+    <string name="pref_delay_prevention_off">"อย่าพยายามป้องกันการแจ้งเตือนล่าช้าซึ่งอาจเกิดขึ้นในอุปกรณ์บางอย่าง ใช้แบตเตอรี่น้อยลง"</string> <!-- TODO validate "Does not try to prevent notification delays which may occur on some devices. Uses less battery." -->
+    <string name="pref_aggressive_delay_prevention_title">"ป้องกันความล่าช้าอย่างก้าวร้าว"</string> <!-- TODO validate "Prevent delays aggressively" -->
+    <string name="pref_aggressive_delay_prevention_on">"การแจ้งเตือนควรมีความแม่นยำมากกว่า อาจใช้แบตเตอรี่มากขึ้น"</string> <!-- TODO validate "Notifications should be more often accurate. May use more battery." -->
+    <string name="pref_aggressive_delay_prevention_off">"การแจ้งเตือนอาจล่าช้าในบางกรณี ใช้แบตเตอรี่น้อยลง"</string> <!-- TODO validate "Notifications may be late in rare cases. Uses less battery." -->
+    <string name="pref_ignore_delayed_title">"ละเว้นการแจ้งเตือนที่ล่าช้า"</string> <!-- TODO validate "Ignore delayed notifications" -->
+    <string name="pref_ignore_delayed_on">"หากการแจ้งเตือนถูกพิจารณาล่าช้ามันจะไม่แสดงหรือเล่น"</string> <!-- TODO validate "If notification is considered delayed it won't be shown or played." -->
+    <string name="pref_ignore_delayed_off">"การแจ้งเตือนจะแสดงหรือเล่นแม้ในขณะที่มีการล่าช้า"</string> <!-- TODO validate "Notifications will be shown or played even when they are delayed." -->
+    <string name="pref_audio_focus_title">"ปิดเสียงพื้นหลัง"</string> <!-- TODO validate "Muting background audio" --> <!-- option to improve ability to hear app sounds by decreasing volume of other apps or pausing them -->
+    <string name="pref_audio_focus_on">"ในขณะที่แอปเล่นเสียงเสียงจากแอพอื่น ๆ จะเงียบหรือหยุดชั่วคราว"</string> <!-- TODO validate "While app plays sound, audio from other apps will be quieter or paused." -->
+    <string name="pref_audio_focus_off">"เสียงจากแอปอื่น ๆ จะเล่นตามปกติ"</string> <!-- TODO validate "Audio from other apps will be played normally." -->
+    <string name="pref_audio_focus_dont_duck_title">"หยุดการเล่นชั่วคราว"</string> <!-- TODO validate "Pause playback" -->
+    <string name="pref_audio_focus_dont_duck_on">"แอพอื่นอาจหยุดเสียงชั่วคราว"</string> <!-- TODO validate "During sound playback other apps may pause their audio." -->
+    <string name="pref_audio_focus_dont_duck_off">"ในระหว่างการเล่นเสียงแอพอื่น ๆ อาจลดระดับเสียงลง"</string> <!-- TODO validate "During sound playback other apps may lower volume of their audio." -->
+
+    <!-- Plurals -->
+    <!-- check which quantities and how should be used for given language here http://www.unicode.org/cldr/charts/29/supplemental/language_plural_rules.html -->
+    <!-- Uncomment or add proper "zero", "two", "few" or "many" item if needed for your language -->
+    <plurals name="repeat_every_x_hours"> <!-- "X hours" as in "Repeat every X hours" is different in some languages (e.g. Polish) from regular "X hours" -->
+        <item quantity="one">"%d hour"</item>
+        <item quantity="other">"%d hours"</item>
+    </plurals>
+    <plurals name="repeat_every_x_minutes">
+        <item quantity="one">"%d minute"</item>
+        <item quantity="other">"%d minutes"</item>
+    </plurals>
+    <plurals name="repeat_every_x_seconds">
+        <item quantity="one">"%d second"</item>
+        <item quantity="other">"%d seconds"</item>
+    </plurals>
+    <plurals name="repeat_number_of_times">
+        <item quantity="one">"%d time"</item>
+        <item quantity="other">"%d times"</item>
+    </plurals>
+
+    <string name="pref_reset_accuracy_params">"รีเซ็ตพารามิเตอร์"</string> <!-- TODO validate "Reset parameters" -->
+    <string name="pref_reset_accuracy_params_desc">"รีเซ็ตพารามิเตอร์ภายในซึ่งปรับปรุงความแม่นยำของการแจ้งเตือน"</string> <!-- TODO validate "Resets internal parameters which improve notification accuracy." -->
+    <string name="warn_foreground_service_disabled">"การตั้งค่าบริการเบื้องหน้าถูกปิดใช้งาน นี่อาจเพิ่มโอกาสที่กระบวนการพื้นหลังถูกฆ่าและแอปหยุดทำงาน"</string> <!-- TODO validate "Foreground service setting has been disabled. This may increase chance that background process is killed and app stops working." -->
+
+    <!-- Airplane mode -->
+    <string name="pref_airplane_mode">"โหมดเครื่องบิน"</string> <!-- TODO validate "Airplane mode" -->
+    <string name="while_airplane_toast">"การแจ้งเตือน BlipBlip ถูกปิดใช้งานเนื่องจากคุณอยู่ในโหมดเครื่องบิน"</string> <!-- TODO validate "BlipBlip notifications are now disabled, because you are in airplane mode." -->
+
+    <string name="setting_system_default">"ระบบเริ่มต้น"</string> <!-- TODO validate "System default" -->
+    <string name="pref_time_format_title">"รูปแบบเวลา"</string> <!-- TODO validate "Time format" -->
+    <string name="time_format_12h">"นาฬิกา 12 ชั่วโมง"</string> <!-- TODO validate "12 hour clock" -->
+    <string name="time_format_24h">"นาฬิกา 24 ชั่วโมง"</string> <!-- TODO validate "24 hour clock" -->
+
+    <string name="theme_blipblip">"BlipBlip"</string> <!-- TODO validate "BlipBlip" -->
+    <string name="theme_standard">"มาตรฐาน"</string> <!-- TODO validate "Standard" -->
+    <string name="theme_blue">"สีน้ำเงิน"</string> <!-- TODO validate "Blue" -->
+    <string name="theme_yellow">"สีเหลือง"</string> <!-- TODO validate "Yellow" -->
+    <string name="theme_purple">"สีม่วง"</string> <!-- TODO validate "Purple" -->
+    <string name="theme_red">"สีแดง"</string> <!-- TODO validate "Red" -->
+    <string name="theme_green">"สีเขียว"</string> <!-- TODO validate "Green" -->
+    <string name="theme_blue_gray">"ฟ้าเทา"</string> <!-- TODO validate "Blue grey" -->
+    <string name="theme_orange">"ส้ม"</string> <!-- TODO validate "Orange" -->
+    <string name="theme_indigo">"คราม"</string> <!-- TODO validate "Indigo" -->
+    <string name="theme_cyan">"สีฟ้า"</string> <!-- TODO validate "Cyan" -->
+    <string name="theme_teal">"นกเป็ดน้ำ"</string> <!-- TODO validate "Teal" -->
+
+    <string name="pref_color_theme">"กระทู้"</string> <!-- TODO validate "Theme" -->
+    <string name="cycle_themes_message">"สลับธีมโดยใช้ปุ่มปรับระดับเสียง"</string> <!-- TODO validate "Switch themes using volume buttons." -->
+    <string name="cycle_themes_finish">"เสร็จสิ้น"</string> <!-- TODO validate "Finish" -->
+    <string name="cycle_themes">"ธีมรอบ"</string> <!-- TODO validate "Cycle themes" -->
+    <string name="cycle_themes_description">"อนุญาตให้เปลี่ยนธีมโดยใช้ปุ่มปรับระดับเสียง"</string> <!-- TODO validate "Allows switching themes using volume buttons." -->
+    <string name="color_next_notification_bar">"สีแถบการแจ้งเตือนถัดไป"</string> <!-- TODO validate "Color next notification bar" -->
+    <string name="color_next_notification_bar_on">"ใช้พื้นหลังสีสำหรับแถบการแจ้งเตือนถัดไป"</string> <!-- TODO validate "Use color background for next notification bar." -->
+    <string name="color_next_notification_bar_off">"ใช้พื้นหลังสีเทาสำหรับแถบการแจ้งเตือนถัดไป"</string> <!-- TODO validate "Use gray background for next notification bar." -->
+    <string name="night_mode">"โหมดกลางคืน"</string> <!-- TODO validate "Night mode" -->
+    <string name="night_mode_on">"เปิดการใช้งาน"</string> <!-- TODO validate "Enabled" -->
+    <string name="night_mode_off">"พิการ"</string> <!-- TODO validate "Disabled" -->
+    <string name="night_mode_auto">"รถยนต์"</string> <!-- TODO validate "Auto" -->
+    <string name="night_mode_system">"การตั้งค่าระบบ"</string> <!-- TODO validate "System setting" -->
+
+    <string name="title_activity_sounds">"เสียง"</string> <!-- TODO validate "Sounds" -->
+    <string name="title_activity_sound">"เสียง"</string> <!-- TODO validate "Sound" -->
+    <string name="title_activity_vibrations">"การสั่นสะเทือน"</string> <!-- TODO validate "Vibrations" -->
+    <string name="title_activity_vibration">"การสั่นสะเทือน"</string> <!-- TODO validate "Vibration" -->
+    <string name="action_delete">"ลบ"</string> <!-- TODO validate "Delete" -->
+    <string name="action_add_vibration_pattern">"เพิ่มรายการ"</string> <!-- TODO validate "Add entry" -->
+    <string name="dialog_title_deletion">"ยืนยันการลบ"</string> <!-- TODO validate "Confirm deletion" -->
+    <string name="dialog_message_confirm">"คุณแน่ใจไหม?"</string> <!-- TODO validate "Are you sure?" -->
+    <string name="vibration_name">"ชื่อการสั่นสะเทือน"</string> <!-- TODO validate "Vibration name" -->
+    <string name="action_restore_defaults">"คืนค่าเริ่มต้น"</string> <!-- TODO validate "Restore defaults" --> <!-- e.g. for sounds or vibrations -->
+    <string name="restore_defaults_message2">"คุณต้องการคืนค่าเริ่มต้นหรือไม่"</string> <!-- TODO validate "Would you like to restore default values?" -->
+    <string name="add_vibration">"เพิ่มการสั่นสะเทือน"</string> <!-- TODO validate "Add vibration" -->
+    <string name="edit">"แก้ไข"</string> <!-- TODO validate "Edit" --> <!-- Name of action to edit list of sounds or list of vibrations, should be short -->
+    <string name="editing">"การตัดต่อ"</string> <!-- TODO validate "Editing" --> <!-- Displayed in edit mode -->
+    <string name="error_file_open_failed">"ไม่สามารถเปิดไฟล์"</string> <!-- TODO validate "Failed to open file." -->
+    <string name="error_file_open_no_permission">"ไม่ได้รับอนุญาตให้เปิดไฟล์"</string> <!-- TODO validate "No permission to open the file." -->
+    <string name="error_file_open_failed_no_permission_title">"ให้สิทธิ์ด้วยตนเอง"</string> <!-- TODO validate "Grant permission manually" -->
+    <string name="error_file_open_failed_no_permission">"ไม่ได้รับอนุญาตให้เปิดไฟล์ โปรดเปิดการตั้งค่าและให้สิทธิ์ในการเข้าถึงที่เก็บข้อมูล"</string> <!-- TODO validate "No permission to open the file. Please open Settings and give permission to access storage." -->
+    <string name="error_file_open_failed_settings">"เปิดการตั้งค่า"</string> <!-- TODO validate "Open Settings" -->
+    <string name="play_vibration">"สั่น"</string> <!-- TODO validate "Vibrate" --> <!-- description of action of a button to perform vibration -->
+    <string name="play_sound">"เล่นเสียง"</string> <!-- TODO validate "Play sound" --> <!-- description of action of a button to play sound -->
+    <string name="drag_handle">"จัดการสำหรับการลาก"</string> <!-- TODO validate "Handle for dragging" -->
+    <string name="select_audio_file">"เลือกไฟล์เสียง"</string> <!-- TODO validate "Select Audio file" -->
+    <string name="add_sound_to_blipblip">"เพิ่มไปยัง BlipBlip"</string> <!-- TODO validate "Add to BlipBlip" -->
+    <string name="permission_denied">"ปฏิเสธการอนุญาต"</string> <!-- TODO validate "Permission denied" -->
+    <string name="permission_denied_message_no_addon">"BlipBlip ไม่ได้รับอนุญาตให้อ่านไฟล์"</string> <!-- TODO validate "BlipBlip does not have permission to read the file." -->
+    <string name="permission_denied_message_no_addon_part2">"โปรดใช้แอปอื่น ๆ ที่แชร์ไฟล์โดยไม่ต้องขออนุญาตเพิ่มเติม (เช่น Google Drive)"</string> <!-- TODO validate "Please use some other app that shares file without need for additional permission (e.g. Google Drive)." -->
+    <string name="permission_denied_rationale_title">"ต้องได้รับอนุญาต"</string> <!-- TODO validate "Permission needed" -->
+    <string name="permission_denied_rationale">"แอปพลิเคชันไม่ได้รับอนุญาตให้อ่านไฟล์ โปรดอนุญาตให้แอปเข้าถึงไฟล์ คุณสามารถแชร์ไฟล์โดยใช้แอพอื่นซึ่งไม่จำเป็นต้องใช้การอนุญาตนี้"</string> <!-- TODO validate "Application does not have permission to read the file. Please grant the app permission to access the file. You can also share the file using other app which does not need using this permission." -->
+
+    <!-- Menu drawer strings -->
+
+    <string name="more_actions">"การดำเนินการมากขึ้น"</string> <!-- TODO validate "More actions" -->
+    <string name="start_time">"เวลาเริ่มต้น"</string> <!-- TODO validate "Start time" -->
+    <string name="end_time">"เวลาสิ้นสุด"</string> <!-- TODO validate "End time" -->
+    <string name="whole_day">"ทั้งวัน"</string> <!-- TODO validate "Whole day" -->
+    <string name="enable_screen">"เปิดใช้งานหน้าจอ"</string> <!-- TODO validate "Enable screen" -->
+    <string name="action_rename">"ตั้งชื่อใหม่"</string> <!-- TODO validate "Rename" -->
+    <string name="pref_accessibility">"การเข้าถึง"</string> <!-- TODO validate "Accessibility" -->
+    <string name="pref_swipe">"สัมผัสท่าทาง"</string> <!-- TODO validate "Touch gestures" -->
+    <string name="pref_swipe_on">"การกวาดเปิดใช้งานในรายการ"</string> <!-- TODO validate "Swiping enabled on list items" -->
+    <string name="pref_swipe_off">"การรูดถูกปิดการใช้งานในรายการ"</string> <!-- TODO validate "Swiping disabled on list items" -->
+    <string name="pref_action_menus">"เมนูการกระทำ"</string> <!-- TODO validate "Action menus" -->
+    <string name="pref_action_menus_on">"แสดงเมนูพร้อมการกระทำที่อาจต้องใช้ท่าทาง (เช่นการปัดนิ้ว) มีประโยชน์เมื่อใช้ TalkBack"</string> <!-- TODO validate "Show menus with actions that would otherwise require gestures (e.g. swiping). Useful when using TalkBack." -->
+    <string name="pref_action_menus_off">"ซ่อนเมนูที่มีการกระทำที่สามารถทำได้ด้วยท่าทางสัมผัส"</string> <!-- TODO validate "Hide menus containing actions that can also be performed using gestures." -->
+    <string name="next_notification">"การแจ้งเตือนครั้งถัดไป: %1$s"</string> <!-- TODO validate "Next notification: %1$s" -->
+    <string name="next_tomorrow">"พรุ่งนี้ที่ %1$s"</string> <!-- TODO validate "tomorrow at %1$s" --> <!-- e.g. tomorrow at 10:00 -->
+    <string name="next_on_mon">"วันจันทร์ที่ %1$s"</string> <!-- TODO validate "Monday at %1$s" -->
+    <string name="next_on_tue">"วันอังคารที่ %1$s"</string> <!-- TODO validate "Tuesday at %1$s" -->
+    <string name="next_on_wed">"วันพุธที่ %1$s"</string> <!-- TODO validate "Wednesday at %1$s" -->
+    <string name="next_on_thu">"วันพฤหัสบดีเวลา %1$s"</string> <!-- TODO validate "Thursday at %1$s" -->
+    <string name="next_on_fri">"วันศุกร์ที่ %1$s"</string> <!-- TODO validate "Friday at %1$s" -->
+    <string name="next_on_sat">"วันเสาร์ที่ %1$s"</string> <!-- TODO validate "Saturday at %1$s" -->
+    <string name="next_on_sun">"วันอาทิตย์เวลา %1$s"</string> <!-- TODO validate "Sunday at %1$s" -->
+    <string name="never">"ไม่เคย"</string> <!-- TODO validate "never" --> <!-- if notification will never occur-->
+    <string name="show_seconds_title">"แสดงวินาที"</string> <!-- TODO validate "Show seconds" -->
+    <string name="show_seconds_on">"เปิดใช้งานการเลือกวินาที แสดงเวลาด้วยวินาที"</string> <!-- TODO validate "Choosing seconds is enabled. Displays times with seconds." -->
+    <string name="show_seconds_off">"การเลือกวินาทีถูกปิดใช้งาน แสดงเวลาโดยไม่วินาที"</string> <!-- TODO validate "Choosing seconds is disabled. Display times without seconds." -->
+    <string name="notification_disabled_warning">"การแจ้งเตือนถูกปิดใช้งาน"</string> <!-- TODO validate "Notification is disabled" -->
+    <string name="social_facebook">"Facebook"</string> <!-- TODO validate "Facebook" -->
+    <string name="social_twitter">"พูดเบาและรวดเร็ว"</string> <!-- TODO validate "Twitter" -->
+    <string name="social_google_plus">"Google+"</string> <!-- TODO validate "Google+" -->
+    <string name="social_google_plus_community">"ชุมชน Google+"</string> <!-- TODO validate "Google+ Community" -->
+    <string name="troubleshooting">"การแก้ไขปัญหา"</string> <!-- TODO validate "Troubleshooting" -->
+    <string name="premium_features">"คุณสมบัติพิเศษ"</string> <!-- TODO validate "Premium features" -->
+    <string name="disable_when_headset">"ปิดใช้งานเมื่อเชื่อมต่อชุดหูฟัง"</string> <!-- TODO validate "Disable when headset connected" -->
+    <string name="disable_when_headset_on">"การแจ้งเตือนทั้งหมดถูกปิดใช้งาน"</string> <!-- TODO validate "All notifications disabled" -->
+    <string name="disable_when_headset_off">"เปิดใช้งานการแจ้งเตือนทั้งหมด"</string> <!-- TODO validate "All notifications enabled" -->
+    <string name="disable_when_headset_toast">"การแจ้งเตือน BlipBlip ถูกปิดใช้งานเนื่องจากคุณเชื่อมต่อชุดหูฟังแล้ว"</string> <!-- TODO validate "BlipBlip notifications are now disabled, because you have headset connected." -->
+
+    <string name="add">"เพิ่ม"</string> <!-- TODO validate "Add" -->
+    <string name="add_item">"เพิ่มรายการ"</string> <!-- TODO validate "Add item" -->
+    <string name="action_add_condition">"เพิ่มเงื่อนไข"</string> <!-- TODO validate "Add condition" -->
+    <string name="dialog_title_days_of_week">"วันในสัปดาห์"</string> <!-- TODO validate "Days of Week" -->
+    <string name="dialog_title_date">"วันที่"</string> <!-- TODO validate "Date" -->
+    <string name="start_date">"วันที่เริ่มต้น"</string> <!-- TODO validate "Start date" -->
+    <string name="end_date">"วันที่สิ้นสุด"</string> <!-- TODO validate "End date" -->
+    <string name="dialog_title_time">"เวลา"</string> <!-- TODO validate "Time" -->
+    <string name="dialog_title_time_range">"ช่วงเวลา"</string> <!-- TODO validate "Time range" -->
+    <string name="dialog_title_repeat">"ทำซ้ำ"</string> <!-- TODO validate "Repeat" -->
+    <string name="interval">"ระยะห่าง"</string> <!-- TODO validate "Interval" -->
+    <string name="no_repeat">"ไม่ต้องทำซ้ำ"</string> <!-- TODO validate "No repeat" -->
+    <string name="action_add_action">"เพิ่มการกระทำ"</string> <!-- TODO validate "Add action" -->
+    <string name="favorite_condition_dialog_edit">"แก้ไข"</string> <!-- TODO validate "Edit" -->
+    <string name="favorite_condition_dialog_create">"สร้าง"</string> <!-- TODO validate "Create" -->
+    <string name="system_notification">"ระบบแจ้งเตือน"</string> <!-- TODO validate "System notification" -->
+    <string name="popup_text">"ข้อความป๊อปอัพ"</string> <!-- TODO validate "Popup text" -->
+    <string name="no_actions_added">"ไม่มีการเพิ่มการกระทำ"</string> <!-- TODO validate "No actions added" -->
+    <string name="section_conditions">"เงื่อนไข"</string> <!-- TODO validate "Conditions" -->
+    <string name="no_valid_condition_added">"ไม่ได้ระบุเงื่อนไขที่ถูกต้อง"</string> <!-- TODO validate "No correct conditions defined" -->
+    <string name="no_upcoming_notifications">"ไม่มีการแจ้งเตือนที่จะมาถึง"</string> <!-- TODO validate "No upcoming notifications" -->
+    <string name="error_indicator">"ตัวบ่งชี้ข้อผิดพลาด"</string> <!-- TODO validate "Error indicator" -->
+    <string name="next_notification_app_off">"ปิด (แอปถูกปิดใช้งาน)"</string> <!-- TODO validate "Off (app disabled)" -->
+    <string name="next_day">"วันต่อมา"</string> <!-- TODO validate "following day" --> <!-- Used in: "22:00 - 6:00 next day" -->
+    <string name="notifications">"การแจ้งเตือน"</string> <!-- TODO validate "Notifications" -->
+    <string name="warning_no_email_app">"ไม่พบแอปพลิเคชันอีเมลเพื่อส่งรายงาน"</string> <!-- TODO validate "No email application found to send the report." -->
+    <string name="weeknights">"weeknights"</string> <!-- TODO validate "Weeknights" --> <!-- nights from sunday to thursday -->
+    <string name="weekend_nights">"คืนวันหยุดสุดสัปดาห์"</string> <!-- TODO validate "Weekend nights" --> <!-- nights on friday and saturday -->
+    <string name="weekend">"สุดสัปดาห์"</string> <!-- TODO validate "Weekend" --> <!-- saturday and sunday -->
+
+    <string name="vibration_silence_millis">"ระยะเวลาเงียบในหน่วยมิลลิวินาที"</string> <!-- TODO validate "Silence duration in milliseconds" -->
+    <string name="vibration_duration_millis">"ระยะเวลาการสั่นสะเทือนเป็นมิลลิวินาที"</string> <!-- TODO validate "Vibration duration in milliseconds" -->
+
+    <string name="advice_disable_task_killers">"ปิดการใช้งาน task killer"</string> <!-- TODO validate "Disable task killers" -->
+    <string name="advice_disable_task_killers_desc">"ควรปิดใช้งานตัวทำลายงานหรือควรเพิ่ม BlipBlip ในรายการสีขาวเพื่อให้แอปมีชีวิต"</string> <!-- TODO validate "Task killers should be disabled or BlipBlip should be added in their white lists to keep app alive." -->
+    <string name="advice_enable_foreground_service">"เปิดใช้งานบริการเบื้องหน้า"</string> <!-- TODO validate "Enable foreground service" -->
+    <string name="advice_enable_foreground_service_desc2">"ตัวเลือกบริการเบื้องหน้าแจ้งให้ระบบปฏิบัติการทราบว่าไม่ควรฆ่าแอปพลิเคชันหากเป็นไปได้"</string> <!-- TODO validate "Foreground service option informs OS that application should not be killed if possible." -->
+    <string name="advice_enable_foreground_service_desc2_part2">"มันจะแสดงการแจ้งเตือนถาวรซึ่งสามารถซ่อนจากการตั้งค่าระบบ (การซ่อนไว้จากแอพจะปิดการใช้งานตัวเลือกนี้)"</string> <!-- TODO validate "It will display persistent notification which can be hidden from system settings (hiding it from the app will disable this option)." -->
+    <string name="advice_enable_foreground_service_desc2_part3">"คุณสามารถใช้ปุ่มด้านล่างเพื่อเข้าถึงการตั้งค่าระบบ"</string> <!-- TODO validate "You can use button below to access system settings." -->
+
+    <string name="sound_in_use">"เสียงใช้งานอยู่และไม่สามารถลบได้"</string> <!-- TODO validate "Sound is in use and cannot be deleted." -->
+    <string name="vibration_in_use">"มีการใช้งานการสั่นสะเทือนและไม่สามารถลบได้"</string> <!-- TODO validate "Vibration is in use and cannot be deleted." -->
+    <string name="sound_not_found">"ไม่พบ"</string> <!-- TODO validate "Not found" --> <!-- for sound -->
+    <string name="vibration_not_found">"ไม่พบ"</string> <!-- TODO validate "Not found" --> <!-- for vibration -->
+
+    <string name="section_actions">"การปฏิบัติ"</string> <!-- TODO validate "Actions" -->
+    <string name="section_notifications">"การแจ้งเตือน"</string> <!-- TODO validate "Notifications" -->
+    <string name="notification_name">"การแจ้งเตือน"</string> <!-- TODO validate "Notification" -->
+
+    <string name="play">"เล่น"</string> <!-- TODO validate "Play" -->
+
+    <string name="cannot_perform_operation">"ไม่สามารถดำเนินการนี้ได้ในขณะนี้ กรุณาลองใหม่อีกครั้งในภายหลัง."</string> <!-- TODO validate "Cannot perform this operation right now. Please try again later." -->
+
+    <string name="add_to_favorites">"เพิ่มในรายการโปรด"</string> <!-- TODO validate "Add to favorites" -->
+    <string name="open_favorites">"เปิดรายการโปรด"</string> <!-- TODO validate "Open favorites" -->
+
+    <string name="unnamed_sound">"เสียงที่ไม่มีชื่อ"</string> <!-- TODO validate "Unnamed sound" -->
+    <string name="unnamed_vibration">"ไม่มีการสั่นสะเทือน"</string> <!-- TODO validate "Unnamed vibration" -->
+
+    <string name="value_deleted">"ลบ \ \" %1$s \\""</string> <!-- TODO validate "Deleted \"%1$s\" --> <!-- showed when one of list items is deleted and displays the value of the item -->
+    <string name="action_undo">"แก้"</string> <!-- TODO validate "Undo" --> <!-- action name to undo deletion e.g. from a list -->
+    <string name="condition_deleted">"ลบเงื่อนไขแล้ว"</string> <!-- TODO validate "Condition deleted." -->
+    <string name="notification_deleted">"ลบการแจ้งเตือนแล้ว"</string> <!-- TODO validate "Notification deleted." -->
+    <string name="action_deleted">"การกระทำที่ถูกลบ"</string> <!-- TODO validate "Action deleted." -->
+
+    <string name="inclusive_time">"รวมทั้ง"</string> <!-- TODO validate "inclusive" --> <!-- used in the time range dialog to determine if edge value should be included -->
+
+    <string name="pref_user_notifications">"การแจ้งเตือนผู้ใช้"</string> <!-- TODO validate "User notifications" -->
+    <string name="user_notification">"การแจ้งเตือนผู้ใช้"</string> <!-- TODO validate "User notification" -->
+
+    <string name="action_set_as_home_screens">"ตั้งเป็นหน้าจอเริ่มต้น"</string> <!-- TODO validate "Set as start screen" -->
+
+    <string name="pref_battery_saver_mode">"โหมดประหยัดแบตเตอรี่"</string> <!-- TODO validate "Battery Saver mode" -->
+    <string name="mode_sound_title">"อนุญาตให้ใช้เสียง"</string> <!-- TODO validate "Allow sound" -->
+    <string name="mode_sound_on">"อนุญาตให้ใช้เสียงในโหมดนี้"</string> <!-- TODO validate "Sounds are allowed in this mode" -->
+    <string name="mode_sound_off">"เสียงปิดใช้งานในโหมดนี้"</string> <!-- TODO validate "Sounds disabled in this mode" -->
+    <string name="mode_vibration_title">"อนุญาตการสั่นสะเทือน"</string> <!-- TODO validate "Allow vibrations" -->
+    <string name="mode_vibration_on">"อนุญาตให้มีการสั่นสะเทือนในโหมดนี้"</string> <!-- TODO validate "Vibrations allowed in this mode" -->
+    <string name="mode_vibration_off">"ไม่อนุญาตให้มีการสั่นสะเทือนในโหมดนี้"</string> <!-- TODO validate "Vibrations not allowed in this mode" -->
+    <string name="mode_screen_title">"เปิดใช้งานหน้าจอที่อนุญาต"</string> <!-- TODO validate "Enabling screen allowed" -->
+    <string name="mode_screen_on">"อนุญาตให้ใช้หน้าจอในโหมดนี้"</string> <!-- TODO validate "Screen is allowed to be enabled in this mode" -->
+    <string name="mode_screen_off">"หน้าจอจะไม่เปิดใช้งานในโหมดนี้"</string> <!-- TODO validate "Screen will not be enabled in this mode" -->
+    <string name="battery_saver_preferences_warning">"ตัวเลือกเหล่านี้อาจไม่ทำงานในอุปกรณ์ทั้งหมด"</string> <!-- TODO validate "These options may not work on all devices." -->
+    <string name="mode_sound_toast">"เสียงถูกปิดใช้งานเนื่องจากโหมดต่อไปนี้เปิดใช้งาน: %1$s"</string> <!-- TODO validate "Sound is disabled because following mode is active: %1$s" -->
+
+    <string name="pref_accessibility_settings_title">"เปิดใช้งานบริการการเข้าถึง"</string> <!-- TODO validate "Enable accessibility service" -->
+    <string name="pref_accessibility_settings_summary">"เปิดการตั้งค่าการช่วยสำหรับการเข้าถึงระบบที่คุณสามารถเปิดใช้งานแอปเป็นบริการการเข้าถึง"</string> <!-- TODO validate "Opens system Accessibility settings where you can enable app as accessibility service" -->
+    <string name="accessibility_service_description">"บริการนี้ช่วยให้แอปทำงานได้ ไม่สามารถเข้าถึงข้อมูลใด ๆ หรือแก้ไขเนื้อหาใด ๆ มันเป็นเพียงการป้องกันผู้จัดการหน่วยความจำซึ่งอาจฆ่าแอพ หากคุณไม่พบปัญหากับแอพคุณไม่จำเป็นต้องเปิดใช้งาน"</string> <!-- TODO validate "This service helps to keep the app working. It does not access any data or modify any content. It is just protection against memory managers which may kill the app. If you are not experiencing problems with the app you don't need to activate it." -->
+    <string name="accessibility_service_summary">"ช่วยให้แอปมีชีวิต ไม่เข้าถึงข้อมูลใด ๆ"</string> <!-- TODO validate "Helps keep app alive. Does not access any data." -->
+
+    <string name="swipe_right_to_delete">"ปัดไปทางขวาเพื่อลบรายการ"</string> <!-- TODO validate "Swipe right to delete items" -->
+
+    <string name="action_repeat_sound">"เล่นซ้ำเสียง"</string> <!-- TODO validate "Repeat sound" -->
+    <string name="action_repeat_vibration">"การสั่นสะเทือนซ้ำ"</string> <!-- TODO validate "Repeat vibration" -->
+    <string name="action_repeat_sound_vibration">"ทำซ้ำเสียงและการสั่นสะเทือน"</string> <!-- TODO validate "Repeat sound and vibration" -->
+    <string name="action_strike_the_hour">"ตีชั่วโมง"</string> <!-- TODO validate "Strike the hours" -->
+
+    <string name="pref_do_not_disturb_mode">"ห้ามรบกวน"</string> <!-- TODO validate "Do Not Disturb" -->
+    <string name="do_not_disturb_total_silence">"ความเงียบสนิท"</string> <!-- TODO validate "Total silence" -->
+    <string name="do_not_disturb_alarms_only">"สัญญาณเตือนภัยเท่านั้น"</string> <!-- TODO validate "Alarms only" -->
+    <string name="do_not_disturb_priority_only">"ลำดับความสำคัญเท่านั้น"</string> <!-- TODO validate "Priority only" -->
+
+    <string name="hide_notification_title">"ซ่อนการแจ้งเตือน"</string> <!-- TODO validate "Hide notification" -->
+    <string name="hide_notification_summary">"เปิดการตั้งค่าระบบเพื่อซ่อนการแจ้งเตือน วิธีนี้เป็นวิธีที่แนะนำสำหรับการซ่อนการแจ้งเตือนเนื่องจากอนุญาตให้แอปทำงานในเบื้องหน้า"</string> <!-- TODO validate "Open system settings to hide notification. This is recommended way for hiding notification because it allows the app to work in foreground." -->
+
+    <!-- Text to speech -->
+    <string name="action_say_text">"พูดข้อความ"</string> <!-- TODO validate "Say text" -->
+    <string name="action_say_time">"บอกเวลา"</string> <!-- TODO validate "Say time" -->
+    <string name="feature_say_text">"บอกเวลา"</string> <!-- TODO validate "Say time" -->
+    <string name="feature_say_time">"บอกเวลา"</string> <!-- TODO validate "Say time" -->
+    <string name="pref_text_to_speech_engine">"เครื่องยนต์"</string> <!-- TODO validate "Engine" -->
+    <string name="pref_text_to_speech_voice">"เสียงพูด"</string> <!-- TODO validate "Voice" -->
+    <string name="pref_text_to_speech">"ข้อความเป็นคำพูด"</string> <!-- TODO validate "Text to speech" -->
+    <string name="system_default_audio_stream">"ระบบเริ่มต้น"</string> <!-- TODO validate "System default" -->
+    <string name="application_default">"ค่าเริ่มต้น"</string> <!-- TODO validate "Default value" -->
+    <string name="speak_time_format_with_minutes">"พูดเวลาด้วยนาที"</string> <!-- TODO validate "Spoken time with minutes" -->
+    <string name="speak_time_on_the_hour">"พูดเวลาเป็นชั่วโมง"</string> <!-- TODO validate "Spoken time on the hour" -->
+    <string name="tts_not_initialized">"เอ็นจิ้นข้อความเป็นคำพูดยังไม่ได้เริ่มต้น"</string> <!-- TODO validate "Text to speech engine is not yet initialized" -->
+    <string name="tts_test_say_time_title">"ทดสอบเวลาพูด"</string> <!-- TODO validate "Test saying time" -->
+    <string name="tts_system_settings_title">"การตั้งค่าระบบ"</string> <!-- TODO validate "System settings" -->
+    <string name="tts_system_settings_summary">"เปิดการตั้งค่าการอ่านออกเสียงข้อความของระบบ"</string> <!-- TODO validate "Open system text-to-speech settings" -->
+    <string name="pref_tts_overlaps_sounds">"เสียงและเสียงซ้อนทับกัน"</string> <!-- TODO validate "Voice and sound overlap" -->
+    <string name="pref_tts_overlaps_sounds_on">"การพูดจะทับซ้อนเสียง"</string> <!-- TODO validate "Speaking will overlap sounds" -->
+    <string name="pref_tts_overlaps_sounds_off">"การพูดจะไม่ทับซ้อนกันเสียง (เสียงจะเล่นก่อนหรือหลังเสียง)"</string> <!-- TODO validate "Speaking will not overlap sounds (sound will play before or after voice)" -->
+
+    <string name="operating_modes_settings">"โหมดการทำงาน"</string> <!-- TODO validate "Operating modes" --> <!-- name of menu with different mode settings e.g. Do Not Disturb, vibrate mode -->
+    <string name="operating_modes_settings_summary">"ห้ามรบกวนโหมดสั่นสะเทือน ฯลฯ"</string> <!-- TODO validate "Do Not Disturb, vibrate mode, etc." -->
+    <string name="time_settings">"เวลา"</string> <!-- TODO validate "Time" -->
+    <string name="sound_settings">"เสียง"</string> <!-- TODO validate "Sound" -->
+
+    <string name="free_resources_title">"ปล่อยทรัพยากร"</string> <!-- TODO validate "Release resources" -->
+
+    <string name="error_failed_to_open_file">"ไม่สามารถเปิดไฟล์"</string> <!-- TODO validate "Failed to open file" -->
+    <string name="error_corrupted_sound">"เสียงเสียหาย"</string> <!-- TODO validate "Sound is corrupted" -->
+
+    <!-- premium -->
+    <string name="dialog_no_thanks">"ไม่เป็นไรขอบคุณ"</string> <!-- TODO validate "No thanks" --> <!-- should be short -->
+    <string name="feature_custom_sounds">"เสียงที่กำหนดเอง"</string> <!-- TODO validate "Custom sounds" -->
+    <string name="feature_multiple_notifications">"การแจ้งเตือนหลายรายการ"</string> <!-- TODO validate "Multiple notifications" -->
+    <string name="feature_custom_reapeat">"ช่วงเวลาการทำซ้ำที่กำหนดเอง"</string> <!-- TODO validate "Custom repeat interval" -->
+    <string name="feature_premium_sounds">"เสียงพรีเมี่ยม"</string> <!-- TODO validate "Premium sounds" -->
+    <string name="feature_strike_the_hour">"ตีชั่วโมง"</string> <!-- TODO validate "Strike the hours" -->
+    <string name="premium_get_plus">"รับคุณสมบัติปัจจุบันทั้งหมด"</string> <!-- TODO validate "Get all current features" --> <!-- should be short -->
+    <string name="premium_get_sounds">"รับเสียงทั้งหมดในแอพ"</string> <!-- TODO validate "Get all sounds in the app" --> <!-- should be short -->
+    <string name="premium_get_plus_sounds">"รับคุณสมบัติและเสียงปัจจุบันทั้งหมด"</string> <!-- TODO validate "Get all current features and sounds" --> <!-- should be short -->
+    <string name="premium_sound_lock">"นี่คือเสียงพรีเมี่ยมที่ต้องปลดล็อคก่อนใช้งาน"</string> <!-- TODO validate "This is Premium sound which requires unlocking before use." -->
+    <string name="premium_feature_lock">"นี่คือคุณสมบัติพิเศษที่ต้องปลดล็อคก่อนใช้งาน"</string> <!-- TODO validate "This is Premium feature which requires unlocking before use." -->
+    <string name="change_subscription">"เปลี่ยนการสมัครสมาชิก"</string> <!-- TODO validate "Change subscription" -->
+    <string name="upgrade_to_pro">"อัพเกรด"</string> <!-- TODO validate "Upgrade" -->
+    <string name="loading_failed">"ความผิดพลาด"</string> <!-- TODO validate "Error" -->
+    <string name="month_very_short">"เดือน"</string> <!-- TODO validate "month" -->
+    <string name="discount_save_money">"บันทึก"</string> <!-- TODO validate "Save" --> <!-- percent saved will be displayed below this text -->
+    <string name="premium_settings">"อัปเกรดเป็นพรีเมียมเพื่อปลดล็อกการตั้งค่าทั้งหมด"</string> <!-- TODO validate "Upgrade to Premium to unlock all settings" -->
+    <string name="buy_premium">"ซื้อพรีเมี่ยม"</string> <!-- TODO validate "Buy Premium" -->
+    <string name="already_bought">"ซื้อแล้ว"</string> <!-- TODO validate "Already bought" -->
+    <string name="get_all_features">"รับคุณสมบัติทั้งหมด"</string> <!-- TODO validate "Get all features" -->
+    <string name="get_all_sounds">"รับเสียงทั้งหมด"</string> <!-- TODO validate "Get all sounds" -->
+    <string name="premium_what_you_get">"สิ่งที่คุณจะได้รับ:"</string> <!-- TODO validate "What you will get:" -->
+    <string name="feature1">"การแจ้งเตือนที่ใช้งานไม่ จำกัด"</string> <!-- TODO validate "Unlimited active notifications" -->
+    <string name="feature2">"ตีชั่วโมง"</string> <!-- TODO validate "Strike the hours" -->
+    <string name="feature3">"ช่วงเวลาการทำซ้ำที่กำหนดเอง"</string> <!-- TODO validate "Custom repeat interval" -->
+    <string name="feature4">"พูดข้อความหรือเวลา"</string> <!-- TODO validate "Say text or time" -->
+    <string name="feature5">"เพิ่มเสียงของคุณเอง"</string> <!-- TODO validate "Add your own sounds" -->
+    <string name="feature6">"การสนับสนุนลำดับความสำคัญ"</string> <!-- TODO validate "Priority support" -->
+    <string name="feature7">"โหมดกลางคืน (ชุดรูปแบบสีเข้ม)"</string> <!-- TODO validate "Night mode (dark theme)" -->
+    <string name="feature_all_sounds">"เสียงทั้งหมดในแอพ"</string> <!-- TODO validate "All sounds in the app" -->
+    <string name="yearly_payment">"ชำระรายปี"</string> <!-- TODO validate "Yearly payment." -->
+    <string name="free_trial">"ทดลองฟรี."</string> <!-- TODO validate "Free trial." -->
+    <string name="cancel_anytime">"ยกเลิกได้ตลอดเวลา"</string> <!-- TODO validate "Cancel anytime." -->
+    <string name="premium_helps_support">"ด้วยการอัปเกรด BlipBlip ไม่เพียง แต่คุณจะได้รับคุณสมบัติหรือเสียงทั้งหมด แต่ยังสนับสนุนการพัฒนาอย่างต่อเนื่อง"</string> <!-- TODO validate "By upgrading BlipBlip you not only get all features or sounds but you also support its continuous and independent development." -->
+    <string name="loading">"กำลังโหลด ..."</string> <!-- TODO validate "Loading…" -->
+    <string name="notification_has_premium_features">"การแจ้งเตือนนี้ใช้คุณสมบัติพรีเมียม"</string> <!-- TODO validate "This notification uses Premium features" -->
+
+    <!-- Premium Bar -->
+    <string name="bar_upgrade_to_enable_app">"อัปเกรดเป็นพรีเมียม"</string> <!-- TODO validate "Upgrade to Premium" -->
+    <string name="bar_upgrade_to_enable_notification">"อัปเกรดเป็นพรีเมียม"</string> <!-- TODO validate "Upgrade to Premium" -->
+    <string name="bar_upgrade">"ซื้อเลย"</string> <!-- TODO validate "Buy now" -->
+    <string name="bar_uses_premium_features">"การแจ้งเตือนใช้คุณสมบัติพรีเมียม"</string> <!-- TODO validate "Notification uses Premium features" -->
+
+    <!-- Premium dialog -->
+    <string name="premium_dialog_title">"เบี้ยประกันภัย"</string> <!-- TODO validate "Premium" -->
+    <string name="premium_dialog_upgrade_now">"ซื้อเลย"</string> <!-- TODO validate "Buy now" -->
+    <string name="premium_dialog_later">"ต่อมา"</string> <!-- TODO validate "Later" -->
+    <string name="premium_icon_description">"ไอคอนรูปดาวพรีเมี่ยม"</string> <!-- TODO validate "Premium star icon" -->
+    <string name="feature_user_sounds_title">"เสียงที่ผู้ใช้เพิ่มเป็นคุณสมบัติพิเศษ"</string> <!-- TODO validate "User added sounds is a Premium feature" -->
+    <string name="feature_user_sounds_description">"สร้างแอป BlipBlip ของคุณโดยเพิ่มเสียงของคุณเอง"</string> <!-- TODO validate "Make BlipBlip app yours by adding your own sounds." -->
+    <string name="feature_premium_sounds_title">"เสียงทั้งหมดที่มีในแอพเป็นคุณสมบัติพิเศษ"</string> <!-- TODO validate "All sounds available in the app is a Premium feature" -->
+    <string name="feature_premium_sounds_description">"ปรับแต่งการแจ้งเตือนของคุณด้วยเสียงในตัวมากมาย"</string> <!-- TODO validate "Customize your notification with many built-in sounds." -->
+    <string name="feature_strike_the_hour_title">"Strike the Hours เป็นคุณสมบัติพิเศษ"</string> <!-- TODO validate "Strike the hours is a Premium feature" -->
+    <string name="feature_strike_the_hour_description">"สร้างนาฬิกาของคุณเอง (เช่นเล่น 3 ครั้งเวลาสามนาฬิกา)"</string> <!-- TODO validate "Create your own grandfather clock (e.g. plays 3 times at three o'clock)" -->
+    <string name="feature_say_text_title">"การพูดข้อความเป็นคุณสมบัติพิเศษ"</string> <!-- TODO validate "Saying text is a Premium feature" -->
+    <string name="feature_say_text_description">"ใช้การอ่านออกเสียงข้อความในการแจ้งเตือนของคุณ"</string> <!-- TODO validate "Use text-to-speech in your notifications." -->
+    <string name="feature_say_time_title">"เวลาบอกว่าเป็นคุณสมบัติพิเศษ"</string> <!-- TODO validate "Saying time is a Premium feature" -->
+    <string name="feature_say_time_description">"พูดเวลาปัจจุบันโดยใช้ข้อความเป็นคำพูด"</string> <!-- TODO validate "Speak current time using text to speech." -->
+    <string name="feature_custom_repeat_interval_title">"ช่วงเวลาการทำซ้ำที่กำหนดเองเป็นคุณสมบัติพิเศษ"</string> <!-- TODO validate "Custom repeat interval is a Premium feature" -->
+    <string name="feature_custom_repeat_interval_description">"กำหนดช่วงเวลาใดก็ได้ (นอกเหนือจากมาตรฐาน 1, 5, 10, 15, 20, 30 และ 60 นาที)"</string> <!-- TODO validate "Set any time interval (other than standard 1, 5, 10, 15, 20, 30 and 60 minutes)." -->
+    <string name="feature_general_title">"การแจ้งเตือนใช้ฟังก์ชั่นพิเศษ"</string> <!-- TODO validate "Notification uses Premium functions" -->
+    <string name="feature_general_description">"อัปเกรดเพื่อเปิดใช้งานการแจ้งเตือนและเพลิดเพลินกับฟีเจอร์พรีเมียมทั้งหมด"</string> <!-- TODO validate "Upgrade to enable notification and enjoy all Premium features." -->
+    <string name="feature_multiple_active_notifications_title">"การแจ้งเตือนที่ใช้งานไม่ จำกัด เป็นคุณสมบัติพิเศษ"</string> <!-- TODO validate "Unlimited active notifications is a Premium feature" -->
+    <string name="feature_multiple_active_notifications_description">"ใช้การแจ้งเตือนจำนวนมากพร้อมการตั้งค่าที่แตกต่างกันในเวลาเดียวกัน (เช่นเล่นสองครั้งเวลา 12:00 น. เล่นหนึ่งครั้งในเวลา 12:30 น.) ในรุ่นฟรีคุณสามารถมีหนึ่งการแจ้งเตือนที่ใช้งานอยู่"</string> <!-- TODO validate "Use many notifications with different settings at the same time (e.g. play twice at 12:00, play once at 12:30). In free version you can have one active notification." -->
+    <string name="feature_unlimited_silent_time_title">"การกำหนดค่าเวลาเงียบไม่ จำกัด เป็นคุณสมบัติพิเศษ"</string> <!-- TODO validate "Unlimited silent time configurations is a Premium feature" -->
+    <string name="feature_unlimited_silent_time_description">"ในรุ่นฟรีคุณสามารถเปิดใช้งานการกำหนดค่าเวลา 5 เงียบ"</string> <!-- TODO validate "In free version you can activate 5 silent time configurations." -->
+
+    <string name="vibrate_seconds">"สั่น %s s"</string> <!-- TODO validate "Vibrate %ss" --> <!-- s at the end is for seconds, %s will be replaced by value e.g. "Vibrate 1.2s" -->
+    <string name="wait_and_vibrate_seconds">"รอ %1$s s สั่น %2$s s"</string> <!-- TODO validate "Wait %1$ss, vibrate %2$ss" --> <!-- s at the end is for seconds, "%1$s" and "%2$s" will be replaced by value e.g. "Vibrate 1.2s" -->
+
+    <!-- button descriptions -->
+    <string name="add_new_sound">"เพิ่มเสียงใหม่จากแอพภายนอก"</string> <!-- TODO validate "Add new sound from external app" -->
+    <string name="create_new_vibration">"สร้างการสั่นสะเทือนใหม่"</string> <!-- TODO validate "Create new vibration" -->
+    <string name="create_new_notification">"สร้างการแจ้งเตือนใหม่"</string> <!-- TODO validate "Create new notification" -->
+    <string name="create_new_silent_time">"สร้างเวลาเงียบใหม่"</string> <!-- TODO validate "Create new silent time" -->
+    <string name="additional_info_button">"ข้อมูลเพิ่มเติม"</string> <!-- TODO validate "Additional information" -->
+    <string name="start_playing">"เริ่มเล่น"</string> <!-- TODO validate "Start playing" -->
+    <string name="stop_playing">"หยุดเล่น"</string> <!-- TODO validate "Stop playing" -->
+    <string name="edit_mode">"โหมดแก้ไข"</string> <!-- TODO validate "Edit mode" -->
+
+    <!-- widget -->
+    <string name="app_enabled">"เปิดใช้งานแอปแล้ว"</string> <!-- TODO validate "App enabled" -->
+    <string name="app_disabled">"ปิดใช้งานแอปแล้ว"</string> <!-- TODO validate "App disabled" -->
+
+    <string name="warning_volume_dnd">"ไม่สามารถแสดงแถบเลื่อนระดับเสียงเนื่องจากเปิดใช้งานโหมดห้ามรบกวน"</string> <!-- TODO validate "Cannot show volume slider because Do Not Disturb mode is enabled" -->
+
+    <!-- auto start failed dialog -->
+    <string name="auto_start_fail_title">"การเริ่มอัตโนมัติล้มเหลว"</string> <!-- TODO validate "Auto-start failed" -->
+    <string name="auto_start_fail_message">"การเริ่มต้นแอปอัตโนมัติล้มเหลว โปรดตรวจสอบการตั้งค่าของคุณ"</string> <!-- TODO validate "Automatic start of the app failed. Please check your settings." -->
+
+    <!-- manual settings dialog -->
+    <string name="manual_settings_title">"จำเป็นต้องตั้งค่าด้วยตนเอง"</string> <!-- TODO validate "Manual settings needed" -->
+    <string name="manual_settings_summary">"อาจจำเป็นต้องใช้การตั้งค่าแบบแมนนวลเพื่อให้ BlipBlip ทำงานอย่างถูกต้อง"</string> <!-- TODO validate "Some manual settings may be needed for BlipBlip to function properly." -->
+    <string name="manual_settings_tips_subtitle">"โปรดลองเคล็ดลับด้านล่าง"</string> <!-- TODO validate "Please try tips below" -->
+    <string name="manual_settings_tip_settings_description">"เปิดการตั้งค่า"</string> <!-- TODO validate "Open settings" -->
+    <string name="manual_settings_snackbar">"โปรดตรวจสอบการตั้งค่าด้วยตนเองซึ่งอาจจำเป็นสำหรับแอปเพื่อให้ทำงานได้อย่างถูกต้อง"</string> <!-- TODO validate "Please review manual settings which may be needed for app to function properly" -->
+    <string name="manual_settings_show">"แสดง"</string> <!-- TODO validate "Show" -->
+    <string name="manual_settings_permanent_notification_description">"เปิดใช้งานการแจ้งเตือนถาวร (แนะนำ)"</string> <!-- TODO validate "Enable permanent notification (recommended)" -->
+    <string name="manual_settings_permanent_notification_info">"แอปจะแสดงการแจ้งเตือนที่มองเห็นได้อย่างถาวรซึ่งอาจป้องกันไม่ให้แอปถูกฆ่า"</string> <!-- TODO validate "App will show permanently visible notification, which may prevent app from being killed." -->
+    <string name="manual_settings_general_tips_button">"แสดงเคล็ดลับทั่วไป"</string> <!-- TODO validate "Show general tips" -->
+    <string name="manual_settings_general_tips">"เคล็ดลับทั่วไป"</string> <!-- TODO validate "General tips" -->
+    <string name="manual_settings_general_tip1">"ปิดใช้งานโหมดประหยัดพลังงานในการตั้งค่าอุปกรณ์"</string> <!-- TODO validate "Disable power saving modes in device settings" -->
+    <string name="manual_settings_general_tip2">"ปิดการใช้งานแอพที่ปรับการใช้งานแบตเตอรี่หรือหน่วยความจำให้เหมาะสม (เช่น task killer)"</string> <!-- TODO validate "Disable apps that optimize battery or memory usage (e.g. task killers)" -->
+    <string name="manual_settings_general_tips_info">"หากอุปกรณ์ของคุณต้องการเปลี่ยนตัวเลือกอื่น ๆ โปรดแจ้งให้เราทราบโดยใช้ตัวเลือก \ \"รายงานปัญหา \\""</string> <!-- TODO validate "If your device requires changing other options, please let us know using \"Report problem\" option." -->
+    <string name="manual_settings_suggest_report_problem">"หากหลังจากลองทำตามเคล็ดลับข้างต้นแล้วคุณยังคงมีปัญหากับแอพโปรดรายงานปัญหา"</string> <!-- TODO validate "If after trying above tips you would still have issues with the app, please report the problem." -->
+    <string name="manual_settings_do_not_show_again">"ไม่แสดงอีกครั้ง"</string> <!-- TODO validate "Do not show again" -->
+
+    <!-- Tips -->
+    <string name="tip1">"เพิ่มแอพลงในแอปที่ไม่ได้ตรวจสอบ"</string> <!-- TODO validate "Add the app to Un-monitored Apps." -->
+    <string name="tip2">"เพิ่มแอพลงในแอปที่ได้รับการป้องกัน"</string> <!-- TODO validate "Add the app to Protected Apps." -->
+    <string name="tip3">"ไม่รวมแอพจากการล้างหน้าจอล็อค"</string> <!-- TODO validate "Exclude app from lock screen cleanup." -->
+    <string name="tip4">"ปิดใช้งานโหมด Stamina"</string> <!-- TODO validate "Disable Stamina mode." -->
+    <string name="tip5">"ปิดใช้งานข้อ จำกัด การใช้แบตเตอรี่"</string> <!-- TODO validate "Disable battery usage restrictions." -->
+    <string name="tip6">"เพิ่มแอพเพื่อเรียกใช้อัตโนมัติ"</string> <!-- TODO validate "Add app to auto-run." -->
+    <string name="tip7">"ปิดการใช้งานเครื่องมือทำความสะอาดพื้นหลัง"</string> <!-- TODO validate "Disable background task cleaner." -->
+    <string name="tip8">"เพิ่มแอพเพื่อเริ่มอัตโนมัติ"</string> <!-- TODO validate "Add app to auto-start." -->
+    <string name="tip9">"เพิ่มแอพเพื่อเริ่มอัตโนมัติ"</string> <!-- TODO validate "Add app to auto-start." -->
+    <string name="tip10">"ล็อคแอพในหน้าจอแอพล่าสุด"</string> <!-- TODO validate "Lock the app on recent apps screen." -->
+    <string name="tip11">"อนุญาตให้แอปทำงานในโหมดสแตนด์บาย"</string> <!-- TODO validate "Allow the app to work in Standby Mode." -->
+    <string name="tip12">"เพิ่มแอพเพื่อเรียกใช้อัตโนมัติ"</string> <!-- TODO validate "Add the app to auto-launch." -->
+    <string name="tip14">"เพิ่มแอพลงในรายการที่ปลอดภัยของการป้องกันพื้นหลัง"</string> <!-- TODO validate "Add the app to Background protection whitelist." -->
+
+    <!-- Tips detailed instructions -->
+    <string name="tip1_settings">"การตั้งค่า&gt; การบำรุงรักษาอุปกรณ์&gt; แบตเตอรี่&gt; รายการแอปที่ไม่ได้ตรวจสอบ"</string> <!-- TODO validate "Settings > Device maintenance > Battery > Unmonitored apps list" -->
+    <string name="tip2_settings">"การตั้งค่า&gt; การตั้งค่าขั้นสูง&gt; ตัวจัดการแบตเตอรี่&gt; แอปที่ได้รับการป้องกันหรือการตั้งค่า&gt; ความเป็นส่วนตัวและความปลอดภัย&gt; แอปที่ได้รับการป้องกัน"</string> <!-- TODO validate "Settings > Advanced Settings > Battery Manager > Protected Apps or Settings > Privacy and Security > Protected Apps" -->
+    <string name="tip3_settings">"ตัวจัดการโทรศัพท์&gt; ล้างหน้าจอล็อค&gt; ยกเลิกการตรวจสอบแอพ (ไม่ปิด) หรือการตั้งค่า&gt; แบตเตอรี่&gt; ล้างหน้าจอล็อค&gt; ยกเลิกการตรวจสอบแอพ (ไม่ปิด)"</string> <!-- TODO validate "Phone Manager > Lock screen cleanup > un-check the app (don't close) or Settings > Battery > Lock screen cleanup > un-check the app (don't close)" -->
+    <string name="tip4_settings">"การตั้งค่า&gt; การจัดการพลังงาน&gt; โหมด STAMINA&gt; แอปที่ใช้งานอยู่ในโหมดสแตนด์บาย&gt; เพิ่ม BlipBlip"</string> <!-- TODO validate "Settings > Power management > STAMINA mode > Apps active in standby > Add BlipBlip" -->
+    <string name="tip5_settings">"การตั้งค่า&gt; การตั้งค่าเพิ่มเติม&gt; แบตเตอรี่และประสิทธิภาพ&gt; จัดการการใช้งานแบตเตอรี่ของแอพ&gt; เลือกแอป&gt; BlipBlip&gt; ไม่มีข้อ จำกัด"</string> <!-- TODO validate "Settings > Additional Settings > Battery & Performance > Manage Apps Battery Usage > Choose Apps > BlipBlip > No restrictions" -->
+    <string name="tip6_settings">"การตั้งค่า&gt; สิทธิ์&gt; การจัดการอัตโนมัติ"</string> <!-- TODO validate "Settings > Permissions > Auto-run management" -->
+    <string name="tip7_settings">"การตั้งค่า&gt; ล้างภารกิจพื้นหลัง&gt; รายการสีขาว"</string> <!-- TODO validate "Settings > Background task clear > White list" -->
+    <string name="tip8_settings">"Asus Mobile Manager&gt; Auto-start Manager"</string> <!-- TODO validate "Asus Mobile Manager > Auto-start Manager" -->
+    <string name="tip9_settings">"ตัวจัดการโทรศัพท์&gt; สิทธิ์ส่วนบุคคล&gt; ตัวจัดการการเริ่มต้น"</string> <!-- TODO validate "Phone Manager > Privacy Permissions > Startup Manager" -->
+    <string name="tip10_settings">"แอพล่าสุด&gt; แตะ BlipBlip แล้วดึงลง"</string> <!-- TODO validate "Recent apps > tap BlipBlip and pull it down" -->
+    <string name="tip11_settings">"ความปลอดภัย&gt; พลังงาน&gt; การจัดการสแตนด์บาย&gt; ตั้ง BlipBlip ให้ทำงานในโหมดสแตนด์บาย"</string> <!-- TODO validate "Security > Power > Standby Management > Set BlipBlip to run in Standby Mode" -->
+    <string name="tip12_settings">"ความปลอดภัย&gt; การอนุญาต&gt; แอปที่เรียกใช้อัตโนมัติ&gt; เปิดใช้งานการเปิดใช้อัตโนมัติ"</string> <!-- TODO validate "Security > Permission > Auto-Launched apps > enable auto-launch" -->
+    <string name="tip13_settings">"กดวงกลมสีแดงค้าง&gt; กวาดลง BlipBlip"</string> <!-- TODO validate "Long press red circle > swipe down BlipBlip" -->
+    <string name="tip14_settings">"แอป NeoSafe&gt; พลังงาน&gt; ไอคอนการตั้งค่าด้านบนขวา&gt; รายการที่อนุญาตสำหรับการป้องกันพื้นหลัง&gt; เพิ่ม BlipBLip"</string> <!-- TODO validate "NeoSafe app > Power > right top settings icon > Background protection whitelist > add BlipBLip" -->
+    <string name="tip15_settings">"แอป NeoSafe&gt; การอนุญาต&gt; การเปิดเครื่องเร็ว&gt; เปิดใช้งาน BlipBlip"</string> <!-- TODO validate "NeoSafe app > Permission > Power-on speedup > Enable BlipBlip" -->
+
+    <!-- UI Settings -->
+    <string name="pref_user_interface">"หน้าจอผู้ใช้"</string> <!-- TODO validate "User interface" -->
+    <!-- edit button -->
+    <string name="edit_button_title">"ปุ่มแก้ไข"</string> <!-- TODO validate "Editing button" -->
+    <string name="edit_button_on">"แสดงปุ่มแก้ไข"</string> <!-- TODO validate "Show edit button" -->
+    <string name="edit_button_off">"ซ่อนปุ่มแก้ไข ในการเข้าสู่โหมดแก้ไขให้ใช้การดำเนินการแก้ไขจากเมนู"</string> <!-- TODO validate "Hide edit button. To enter edit mode use edit action from menu." -->
+    <!-- changelog -->
+    <string name="version_history">"ประวัติรุ่น"</string> <!-- TODO validate "Version history" -->
+    <string name="changelog_title">"มีอะไรใหม่"</string> <!-- TODO validate "What's new?" -->
+    <string name="show_changelog_title">"แสดงการเปลี่ยนแปลง"</string> <!-- TODO validate "Show changelog" -->
+    <string name="show_changelog_on">"แสดงการเปลี่ยนแปลงล่าสุดเมื่อเริ่มต้น"</string> <!-- TODO validate "Show recent changes on startup." -->
+    <string name="show_changelog_off">"อย่าแสดงการเปลี่ยนแปลงล่าสุดเมื่อเริ่มต้น"</string> <!-- TODO validate "Do not show recent changes on startup." -->
+    <!-- inclusive -->
+    <string name="show_inclusive_title">"เปลี่ยนการสิ้นสุดช่วงเวลา"</string> <!-- TODO validate "Change time range endings" -->
+    <string name="show_inclusive_on">"เมื่อระบุช่วงเวลาแสดงปุ่มที่อนุญาตให้ระบุว่าควรรวมเวลาที่กำหนดไว้ในช่วงเวลาหรือไม่"</string> <!-- TODO validate "When specifying time range show buttons which allow to specify whether given time should be included in time range." -->
+    <string name="show_inclusive_off">"ซ่อนปุ่มที่อนุญาตให้เลือกว่าควรรวมเวลาไว้ในช่วงเวลาใด"</string> <!-- TODO validate "Hide buttons allowing to choose if time should be included in time range." -->
+    <!-- show switches -->
+    <string name="show_actions_switches_title">"สวิตช์การทำงาน"</string> <!-- TODO validate "Actions switches" --> <!-- option to show enable/disable switches for actions -->
+    <string name="show_actions_switches_on">"แสดงสวิตช์สำหรับปิดการใช้งานการกระทำ"</string> <!-- TODO validate "Show switches for disabling actions." -->
+    <string name="show_actions_switches_off">"ซ่อนสวิตช์ที่ปิดใช้งานการกระทำ"</string> <!-- TODO validate "Hide switches which disable actions." -->
+    <!-- Show kill dialog -->
+    <string name="show_kill_dialog_title">"แจ้งเตือนหากแอปถูกฆ่า"</string> <!-- TODO validate "Notify if app was killed" -->
+    <string name="show_kill_dialog_on">"แสดงข้อความเมื่อเปิดแอพหากตรวจพบว่าแอพถูกฆ่า"</string> <!-- TODO validate "Display message when opening the app if it was detected that the app was killed." -->
+    <string name="show_kill_dialog_off">"อย่าแสดงข้อความเมื่อตรวจพบว่าแอปถูกฆ่า"</string> <!-- TODO validate "Do not display message when it was detected that the app was killed." -->
+
+    <!-- examples -->
+    <string name="double_sound_every_hour">"เสียงสองเท่าทุกชั่วโมง"</string> <!-- TODO validate "Double sound every hour" -->
+    <string name="single_sound_half_past">"เสียงครึ่งชั่วโมงผ่านไปทุกชั่วโมง"</string> <!-- TODO validate "Sound half past every hour" -->
+    <string name="speak_time_every_hour">"พูดเวลาปัจจุบันทุกชั่วโมง"</string> <!-- TODO validate "Speak current time every hour" -->
+
+    <!-- ads -->
+    <string name="remove_ads">"ลบโฆษณา"</string> <!-- TODO validate "Remove ads" -->
+    <string name="channel_name_watch_ads">"ดูโฆษณา"</string> <!-- TODO validate "Watch ads" -->
+    <string name="channel_name_premium_end_description">"คุณจะได้รับการแจ้งเตือนเมื่อคุณต้องดูโฆษณาเพื่อเพลิดเพลินกับฟีเจอร์พรีเมียมทั้งหมดได้ฟรี"</string> <!-- TODO validate "You will get notified when you need to watch an ad to enjoy all Premium features for free" -->
+
+    <string name="watch_ads">"ดูโฆษณา"</string> <!-- TODO validate "Watch ads" -->
+    <string name="watch_video">"ดูโฆษณาวิดีโอ"</string> <!-- TODO validate "Watch video ad" -->
+    <string name="subscribe_without_ads">"สมัครสมาชิกโดยไม่มีโฆษณา"</string> <!-- TODO validate "Subscribe without ads" -->
+    <string name="start_free_trial">"เริ่มทดลองใช้ฟรี"</string> <!-- TODO validate "Start a free trial" -->
+    <string name="tooltip_accept_privacy_policy">"โปรดทำเครื่องหมายในช่อง"</string> <!-- TODO validate "Please check the box." -->
+    <string name="welcome_to_blipBlip">"ยินดีต้อนรับสู่ BlipBlip!"</string> <!-- TODO validate "Welcome to BlipBlip!" -->
+    <string name="blipblip_free_description_short">"แอพนี้แลกเปลี่ยนกับการดูโฆษณาฟรี"</string> <!-- TODO validate "This app is free in exchange for watching ads." -->
+    <string name="blipblip_free_description">"แอพนี้แลกเปลี่ยนกับการดูโฆษณาฟรี คุณสามารถเข้าถึงคุณลักษณะและเสียงทั้งหมดของ Blip Blip Premium ในช่วงเวลาที่กำหนดหลังจากดูโฆษณา ยิ่งคุณรับชมอีกนานเท่าไหร่คุณก็สามารถใช้แอพได้"</string> <!-- TODO validate "This app is free in exchange for watching ads. You can access all Blip Blip Premium features and sounds for specified time period after watching an ad. The more you watch the longer you can use the app." -->
+    <string name="blipblip_free_description2">"ไม่มีโฆษณาในส่วนต่อประสานผู้ใช้ ไม่มีโฆษณาปรากฏขึ้นโดยไม่คาดคิด คุณมักจะเลือกเมื่อคุณต้องการดูโฆษณา"</string> <!-- TODO validate "There are no ads in user interface. There are no ads popping up unexpectedly. You always choose when you want to watch an ad." -->
+    <string name="watch_ad">"ดูโฆษณา"</string> <!-- TODO validate "View ad" -->
+    <string name="ad">"การโฆษณา"</string> <!-- TODO validate "Ad" --> <!-- Short label of button for watching ads -->
+    <string name="accept_privacy_policy">"ฉันยอมรับนโยบายความเป็นส่วนตัว"</string> <!-- TODO validate "I accept privacy policy." -->
+    <string name="get_blipblip">"ต้องการแอพฟรีที่ไม่มีโฆษณาและไม่มีฟีเจอร์พิเศษหรือไม่ แตะที่นี่."</string> <!-- TODO validate "Want free app without ads and without Premium features? Tap here." -->
+    <string name="privacy_policy">"นโยบายความเป็นส่วนตัว"</string> <!-- TODO validate "Privacy policy." -->
+    <string name="get_time_of_premium">"รับพรีเมี่ยม %1$s"</string> <!-- TODO validate "Get %1$s of Premium" -->
+    <string name="get_time_of_premium_more">"ดูโฆษณาเพื่อใช้แอพสำหรับเวลาเพิ่มเติม: %s"</string> <!-- TODO validate "View ad to use the app for additional time: %s." -->
+    <string name="premium_time_left">"เหลือเวลาสำหรับการใช้แอป: %s"</string> <!-- TODO validate "Time left for using the app: %s" -->
+    <string name="app_was_enabled">"เปิดใช้งานแอปแล้ว!"</string> <!-- TODO validate "App has been enabled!" -->
+    <string name="failed_loading_ad">"ไม่สามารถโหลดโฆษณา ตรวจสอบการเชื่อมต่ออินเทอร์เน็ตของคุณแล้วลองอีกครั้ง"</string> <!-- TODO validate "Failed to load ad. Check your internet connection and try again." -->
+    <string name="continue_with_ads">"ดำเนินการต่อด้วยโฆษณา"</string> <!-- TODO validate "Continue with ads" -->
+    <string name="continue_with_relevant_question">"เราสามารถใช้ข้อมูลของคุณเพื่อปรับแต่งโฆษณาให้คุณได้หรือไม่?"</string> <!-- TODO validate "Can we use your data to tailor ads for you?" -->
+    <string name="continue_with_relevant_ads">"ใช่ดำเนินการกับโฆษณาที่เกี่ยวข้องต่อไป"</string> <!-- TODO validate "Yes, continue with relevant ads" -->
+    <string name="continue_with_less_relevant_ads">"ไม่ดำเนินการต่อด้วยโฆษณาที่มีความเกี่ยวข้องน้อยกว่า"</string> <!-- TODO validate "No, continue with less relevant ads" -->
+    <string name="watch_ads_to_get_next_notification">"ดูโฆษณาเพื่อรับการแจ้งเตือนครั้งต่อไป"</string> <!-- TODO validate "View ads to get next notification" -->
+    <string name="watch_ad_to_enable_app">"ดูโฆษณาเพื่อเปิดใช้งานแอป"</string> <!-- TODO validate "View ad to enable app" -->
+    <string name="popup_watch_more_ads_to_get_notification">"ดูโฆษณาเพิ่มเติมเพื่อรับการแจ้งเตือนนี้"</string> <!-- TODO validate "Watch more ads to get this notification" -->
+
+    <!-- ads notifications -->
+    <string name="notif_premium_ended">"แอปพลิเคชันถูกปิดใช้งาน"</string> <!-- TODO validate "Application disabled" -->
+    <string name="notif_premium_ended_description">"ดูโฆษณาเพื่อเปิดใช้งานอีกครั้ง"</string> <!-- TODO validate "Watch ad to enable it again." -->
+    <string name="notif_stop_warn">"การแจ้งเตือนครั้งต่อไปจะไม่เล่น"</string> <!-- TODO validate "Next notification won't be played" -->
+    <string name="notif_stop_warn_description">"ชมโฆษณาเพื่อยืดเวลาในการใช้แอพ"</string> <!-- TODO validate "Watch ad to extend time for using the app" -->
+
+    <!-- ads settings -->
+    <string name="ads_notifications">"ต้องการดูโฆษณา"</string> <!-- TODO validate "Need of viewing ads" -->
+    <string name="ads_notifications_on">"คุณจะได้รับการแจ้งเตือนเกี่ยวกับความต้องการในการดูโฆษณา"</string> <!-- TODO validate "You will get notifications about the need of viewing ads" -->
+    <string name="ads_notifications_off">"คุณจะไม่ได้รับการแจ้งเตือนใด ๆ เกี่ยวกับความต้องการในการดูโฆษณา"</string> <!-- TODO validate "You won't get any notifications about the need of viewing ads" -->
+    <string name="ads_warn_app_disabled">"ปิดการใช้งานแอปพลิเคชัน"</string> <!-- TODO validate "Application disabling" -->
+    <string name="ads_warn_app_disabled_on">"แจ้งเตือนเมื่อแอปถูกปิดการใช้งานเนื่องจากมีการดูโฆษณาไม่เพียงพอ"</string> <!-- TODO validate "Notify when app is disabled because not enough ads were watched" -->
+    <string name="ads_warn_app_disabled_off">"อย่าแจ้งว่าแอปจะถูกปิดใช้งานเมื่อมีการดูโฆษณาไม่เพียงพอ"</string> <!-- TODO validate "Do not notify when app will be disabled because not enough ads were watched" -->
+    <string name="ads_warn_next_notification">"แจ้งเตือนครั้งต่อไป"</string> <!-- TODO validate "Next notification" -->
+    <string name="ads_warn_next_notification_on">"แจ้งเตือนเมื่อไม่สามารถเล่นการแจ้งเตือนครั้งต่อไปเนื่องจากมีการดูโฆษณาไม่เพียงพอ"</string> <!-- TODO validate "Notify when next notification won't be played because not enough ads were watched" -->
+    <string name="ads_warn_next_notification_off">"อย่าแจ้งเตือนเมื่อไม่สามารถเล่นการแจ้งเตือนครั้งต่อไปเนื่องจากมีการดูโฆษณาไม่เพียงพอ"</string> <!-- TODO validate "Do not notify when next notification won't be played because not enough ads were watched" -->
+
+    <!-- Privacy settings -->
+    <string name="privacy">"ความเป็นส่วนตัว"</string> <!-- TODO validate "Privacy" -->
+    <string name="ads">"โฆษณา"</string> <!-- TODO validate "Ads" -->
+    <string name="pref_personalized_ads">"โฆษณาในแบบของคุณ"</string> <!-- TODO validate "Personalized ads" -->
+    <string name="pref_personalized_ads_on">"โฆษณาจะเป็นแบบส่วนบุคคล"</string> <!-- TODO validate "Ads will be personalized." -->
+    <string name="pref_personalized_ads_off">"ข้อมูลของคุณจะไม่ถูกใช้เพื่อปรับเปลี่ยนโฆษณาในแบบของคุณ"</string> <!-- TODO validate "Your data will not be used to personalize ads." -->
+    <string name="pref_analytics">"Analytics"</string> <!-- TODO validate "Analytics" -->
+    <string name="pref_collect_analytics">"รวบรวมข้อมูลที่ไม่ระบุชื่อ"</string> <!-- TODO validate "Collect anonymous data" -->
+    <string name="pref_collect_analytics_on">"รวบรวมข้อมูลรวมที่ไม่ระบุชื่อเพื่อช่วยในการปรับปรุงแอพ"</string> <!-- TODO validate "Collect anonymous, aggregated data to help improve the app." -->
+    <string name="pref_collect_analytics_off">"อย่าเก็บรวบรวมข้อมูลใด ๆ"</string> <!-- TODO validate "Do not collect any data." -->
+    <string name="pref_analytics_anonymize_ip">"ยกเลิกการระบุตำแหน่ง"</string> <!-- TODO validate "Anonymize location" -->
+    <string name="pref_analytics_anonymize_ip_on">"ส่งที่อยู่ IP แบบไม่ระบุชื่อเพื่อระบุตำแหน่งของผู้ใช้"</string> <!-- TODO validate "Anonymize IP address sent to determine user location." -->
+    <string name="pref_analytics_anonymize_ip_off">"ใช้ที่อยู่ IP แบบเต็มเท่านั้นเพื่อตรวจสอบตำแหน่งทั่วไปของผู้ใช้ (ประเทศเมือง)"</string> <!-- TODO validate "Use full IP address only for detemining user's general location (country, city)." -->
+
+    <!-- install BlipBlip free -->
+    <string name="dialog_free_premium_title">"ต้องการพรีเมี่ยมฟรีหรือไม่"</string> <!-- TODO validate "Want Premium free?" -->
+    <string name="dialog_free_premium_description">"ดูโฆษณาเพื่อแลกเปลี่ยนกับคุณสมบัติพิเศษในแอป %1$s"</string> <!-- TODO validate "Watch ads in exchange for Premium features in %1$s app." -->
+    <string name="open_app">"เปิดแอพ"</string> <!-- TODO validate "Open app" -->
+    <string name="install_app">"ติดตั้งแอพ"</string> <!-- TODO validate "Install app" -->
+    <string name="maybe_later">"ไว้ก่อน"</string> <!-- TODO validate "Maybe later" -->
+
+    <!-- tooltips -->
+    <string name="tooltip_play_next_button">"เล่นการแจ้งเตือนครั้งต่อไป"</string> <!-- TODO validate "Playback next notification" -->
+    <string name="tooltip_upcoming_notifications">"ดูและเล่นการแจ้งเตือนที่กำลังจะมาถึง"</string> <!-- TODO validate "See and playback upcoming notifications" -->
+    <string name="tooltip_upcoming_notification">"กดเวลาเพื่อเล่นการแจ้งเตือนที่กำลังจะมาถึง"</string> <!-- TODO validate "Press time to playback upcoming notifications" -->
+
+</resources>

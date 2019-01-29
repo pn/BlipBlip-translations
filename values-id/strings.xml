@@ -1,0 +1,829 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Buttons -->
+    <string name="change_setting">"Perubahan"</string> <!-- TODO validate "Change" -->
+    <string name="send">"Kirim"</string> <!-- TODO validate "Send" -->
+    <string name="send_email_description">"Mengirim email…"</string> <!-- TODO validate "Send email…" -->
+    <string name="play_button_description">"Uji pengaturan Anda"</string> <!-- TODO validate "Test your settings" -->
+
+    <!-- Warnings -->
+    <string name="warning">"Peringatan"</string> <!-- TODO validate "Warning" -->
+    <string name="warning_understood">"Oke"</string> <!-- TODO validate "Got it" -->
+    <string name="please_wait">"Tunggu sebentar…"</string> <!-- TODO validate "Please wait…" -->
+    <string name="warn_power_saving">"Untuk memastikan operasi yang andal, nonaktifkan semua mode hemat daya."</string> <!-- TODO validate "To ensure reliable operation please disable all power saving modes." --> <!-- Please make this as short as possible -->
+    <string name="allow_while_idle_title">"Izinkan dalam mode daya rendah"</string> <!-- TODO validate "Allow in low power mode" -->
+    <string name="allow_while_idle_off">"Ketika ponsel memasuki mode daya rendah, beberapa pemberitahuan mungkin dilewati."</string> <!-- TODO validate "When phone enters low power mode some notifications may be skipped." -->
+    <string name="allow_while_idle_on">"Izinkan untuk bekerja dalam mode daya rendah (Doze / Idle). Mungkin tidak selalu berfungsi untuk notifikasi yang lebih sering dari 15 menit. Pengaturan dapat sedikit memengaruhi penggunaan baterai."</string> <!-- TODO validate "Allow to work in low power (Doze/Idle) mode. May not always work for notifications more frequent than 15 minutes. Setting may slightly affect battery usage." -->
+    <string name="app_killed_title">"Aplikasi terbunuh"</string> <!-- TODO validate "App was killed" -->
+
+    <!-- Next Notification -->
+    <string name="next_notification_off">"Mati"</string> <!-- TODO validate "Off" -->
+    <string name="upcoming_notifications">"Pemberitahuan yang akan datang"</string> <!-- TODO validate "Upcoming notifications" -->
+    <string name="day_today">"Hari ini"</string> <!-- TODO validate "Today" -->
+    <string name="day_tomorrow">"Besok"</string> <!-- TODO validate "Tomorrow" -->
+    <string name="day_monday">"Senin"</string> <!-- TODO validate "Monday" -->
+    <string name="day_tuesday">"Selasa"</string> <!-- TODO validate "Tuesday" -->
+    <string name="day_wednesday">"Rabu"</string> <!-- TODO validate "Wednesday" -->
+    <string name="day_thursday">"Kamis"</string> <!-- TODO validate "Thursday" -->
+    <string name="day_friday">"Jumat"</string> <!-- TODO validate "Friday" -->
+    <string name="day_saturday">"Sabtu"</string> <!-- TODO validate "Saturday" -->
+    <string name="day_sunday">"Minggu"</string> <!-- TODO validate "Sunday" -->
+    <string name="preview_upcoming_notifications">"Pratinjau pemberitahuan yang akan datang"</string> <!-- TODO validate "Preview upcoming notifications" -->
+    <string name="disable_premium_notifications">"Nonaktifkan pemberitahuan Premium"</string> <!-- TODO validate "Disable Premium notifications" -->
+
+    <!-- Sound -->
+    <string name="sound_text">"Suara"</string> <!-- TODO validate "Sound" -->
+    <string name="sound_blipblip">"BlipBlip"</string> <!-- TODO validate "BlipBlip" -->
+    <string name="sound_casio_watch">"Casio menonton"</string> <!-- TODO validate "Casio watch" -->
+    <string name="sound_casio_watch_single">"Casio watch (single)"</string> <!-- TODO validate "Casio watch (single)" -->
+    <string name="sound_gong">"Gong"</string> <!-- TODO validate "Gong" -->
+    <string name="sound_ships_bell">"Bel kapal"</string> <!-- TODO validate "Ship's bell" -->
+    <string name="sound_double_ships_bell">"Bel kapal ganda"</string> <!-- TODO validate "Double ship's bell" -->
+    <string name="sound_cuckoo">"Gila"</string> <!-- TODO validate "Cuckoo" -->
+    <string name="sound_watch_beep">"Perhatikan bunyi bip"</string> <!-- TODO validate "Watch beep" -->
+    <string name="sound_big_ben">"Big Ben"</string> <!-- TODO validate "Big Ben" -->
+    <string name="sound_big_ben_strikes">"Big Ben Strikes"</string> <!-- TODO validate "Big Ben Strikes" -->
+    <string name="sound_bubble">"Gelembung"</string> <!-- TODO validate "Bubble" -->
+    <string name="sound_bird">"Burung %1$s"</string> <!-- TODO validate "Bird %1$s" -->
+    <string name="sound_cartoon">"Kartun %1$s"</string> <!-- TODO validate "Cartoon %1$s" -->
+    <string name="sound_cat">"Cat %1$s"</string> <!-- TODO validate "Cat %1$s" -->
+    <string name="sound_dog">"Anjing %1$s"</string> <!-- TODO validate "Dog %1$s" -->
+    <string name="sound_rooster">"Ayam jantan"</string> <!-- TODO validate "Rooster" -->
+    <string name="sound_guitar_strum">"Guitar strum %1$s"</string> <!-- TODO validate "Guitar strum %1$s" -->
+    <string name="sound_water_drop">"Setetes air %1$s"</string> <!-- TODO validate "Water drop %1$s" -->
+    <string name="sound_water_pouring">"Menuangkan air %1$s"</string> <!-- TODO validate "Water pouring %1$s" -->
+    <string name="sound_sonar_ping">"Sonar ping %1$s"</string> <!-- TODO validate "Sonar ping %1$s" -->
+    <string name="sound_inception">"Inception %1$s"</string> <!-- TODO validate "Inception %1$s" -->
+    <string name="sound_the_pips">"Pips"</string> <!-- TODO validate "The pips" -->
+    <string name="sound_short_pip">"Pip pendek"</string> <!-- TODO validate "Short pip" -->
+    <string name="sound_long_pip">"Pip panjang"</string> <!-- TODO validate "Long pip" -->
+    <string name="sound_crystal_glass">"Gelas kristal"</string> <!-- TODO validate "Crystal glass" -->
+    <string name="sound_ping">"Ping"</string> <!-- TODO validate "Ping" -->
+    <string name="sound_gong_num">"Gong %1$s"</string> <!-- TODO validate "Gong %1$s" -->
+    <string name="sound_boxing_bell">"Bel tinju"</string> <!-- TODO validate "Boxing bell" -->
+    <string name="sound_singing_bowl">"Mangkuk bernyanyi %1$s"</string> <!-- TODO validate "Singing bowl %1$s" -->
+    <string name="sound_ekg">"Monitor jantung %1$s"</string> <!-- TODO validate "Heart monitor %1$s" -->
+    <string name="sound_got_item">"Ada barang"</string> <!-- TODO validate "Got item" -->
+    <string name="sound_guitar">"Gitar"</string> <!-- TODO validate "Guitar" -->
+
+    <!-- Volume -->
+    <string name="text_seek_volume">"Volume suara"</string> <!-- TODO validate "Sound volume" -->
+
+    <!-- Vibration -->
+    <string name="vibrate">"Getaran"</string> <!-- TODO validate "Vibration" -->
+    <string name="vibration_blipblip">"Untuk BlipBlip"</string> <!-- TODO validate "For BlipBlip" -->
+    <string name="vibration_casio_watch">"Untuk jam tangan Casio"</string> <!-- TODO validate "For Casio watch" -->
+    <string name="vibration_single_short">"Single pendek"</string> <!-- TODO validate "Single short" -->
+    <string name="vibration_double_short">"Ganda pendek"</string> <!-- TODO validate "Double short" -->
+    <string name="vibration_single_long">"Lajang panjang"</string> <!-- TODO validate "Single long" -->
+    <string name="vibration_double_long">"Panjang ganda"</string> <!-- TODO validate "Double long" -->
+
+    <!-- Silent Mode -->
+    <string name="pref_silent_mode">"Mode diam"</string> <!-- TODO validate "Silent Mode" -->
+    <string name="title_silent_mode_settings">"Pengaturan Mode Senyap"</string> <!-- TODO validate "Silent Mode Settings" -->
+    <string name="sound_in_silent_mode_title">"Suara dalam mode Diam"</string> <!-- TODO validate "Sound in Silent mode" -->
+    <string name="sound_in_silent_mode_on">"Izinkan memainkan suara dalam mode Senyap"</string> <!-- TODO validate "Allow playing sound in Silent mode" -->
+    <string name="sound_in_silent_mode_off">"Nonaktifkan suara dalam mode Senyap"</string> <!-- TODO validate "Disable sound in Silent mode" -->
+    <string name="vibrate_in_silent_mode_title">"Getar dalam mode Senyap"</string> <!-- TODO validate "Vibrate in Silent mode" -->
+    <string name="vibrate_in_silent_mode_on">"Izinkan getaran dalam mode Senyap"</string> <!-- TODO validate "Allow vibration in Silent mode" -->
+    <string name="vibrate_in_silent_mode_off">"Nonaktifkan getaran dalam mode Senyap"</string> <!-- TODO validate "Disable vibration in Silent mode" -->
+    <string name="force_screen_in_silent_mode_title">"Aktifkan layar dengan paksa"</string> <!-- TODO validate "Force enable screen" -->
+    <string name="force_screen_in_silent_mode_on">"Nyalakan layar dalam mode Hening bahkan jika opsi \ \"Nyalakan layar pada pemberitahuan \\" dinonaktifkan"</string> <!-- TODO validate "Light up screen in Silent mode even if \"Light up screen on notification\" option is disabled" -->
+    <string name="force_screen_in_silent_mode_off">"Cacat"</string> <!-- TODO validate "Disabled" -->
+    <string name="warn_sound_disabled_silent_mode">"Suara pemberitahuan BlipBlip dinonaktifkan, karena perangkat Anda dalam mode diam."</string> <!-- TODO validate "BlipBlip notification sound disabled, because your device is in silent mode." -->
+
+    <!-- Vibration Mode -->
+    <string name="pref_vibrate_mode">"Mode Getar"</string> <!-- TODO validate "Vibrate Mode" -->
+    <string name="title_vibrate_mode_settings">"Pengaturan Mode Getar"</string> <!-- TODO validate "Vibrate Mode Settings" -->
+    <string name="sound_in_vibrate_mode_title">"Suara dalam mode Getar"</string> <!-- TODO validate "Sound in Vibrate mode" -->
+    <string name="sound_in_vibrate_mode_on">"Izinkan memainkan suara dalam mode Getar"</string> <!-- TODO validate "Allow playing sound in Vibrate mode" -->
+    <string name="sound_in_vibrate_mode_off">"Nonaktifkan suara dalam mode Getar"</string> <!-- TODO validate "Disable sound in Vibrate mode" -->
+    <string name="vibrate_in_vibrate_mode_title">"Getar dalam mode Getar"</string> <!-- TODO validate "Vibrate in Vibrate mode" -->
+    <string name="vibrate_in_vibrate_mode_on">"Izinkan getaran dalam mode Getar"</string> <!-- TODO validate "Allow vibration in Vibrate mode" -->
+    <string name="vibrate_in_vibrate_mode_off">"Nonaktifkan getaran dalam mode Getar"</string> <!-- TODO validate "Disable vibration in Vibrate mode" -->
+    <string name="force_vibrate_in_vibrate_mode_title">"Paksa bergetar"</string> <!-- TODO validate "Force vibrate" -->
+    <string name="force_vibrate_in_vibrate_mode_on">"Paksa getaran dalam mode Getar bahkan jika getaran dinonaktifkan"</string> <!-- TODO validate "Force vibration in Vibrate mode even if vibration is disabled" -->
+    <string name="force_vibrate_in_vibrate_mode_off">"Cacat"</string> <!-- TODO validate "Disabled" -->
+    <string name="force_screen_in_vibrate_mode_title">"Aktifkan layar dengan paksa"</string> <!-- TODO validate "Force enable screen" -->
+    <string name="force_screen_in_vibrate_mode_on">"Nyalakan layar dalam mode Getar bahkan jika opsi \ \"Nyalakan layar pada pemberitahuan \\" dinonaktifkan"</string> <!-- TODO validate "Light up screen in Vibrate mode even if \"Light up screen on notification\" option is disabled" -->
+    <string name="force_screen_in_vibrate_mode_off">"Cacat"</string> <!-- TODO validate "Disabled" -->
+    <string name="warn_sound_disabled_vibrate_mode">"Suara pemberitahuan BlipBlip dinonaktifkan, karena perangkat Anda dalam mode getar."</string> <!-- TODO validate "BlipBlip notification sound disabled, because your device is in vibrate mode." -->
+
+    <!-- Status Bar -->
+    <string name="service_disabled_warning">"BlipBlip dinonaktifkan"</string> <!-- TODO validate "BlipBlip is disabled" -->
+    <string name="service_enable">"Memungkinkan"</string> <!-- TODO validate "Enable" -->
+
+    <!-- Menu - Settings -->
+    <string name="action_settings">"Pengaturan"</string> <!-- TODO validate "Settings" -->
+
+    <!-- Language -->
+    <string name="app_language">"Bahasa"</string> <!-- TODO validate "Language" -->
+    <string name="system_default_language">"Sistem standar"</string> <!-- TODO validate "System default" -->
+    <string name="language_improve_translations">"Tambah atau perbaiki terjemahan"</string> <!-- TODO validate "Add or improve translations" -->
+
+    <!-- Quiet Hours -->
+    <string name="quiet_hours_title">"Waktu diam"</string> <!-- TODO validate "Silent time" -->
+
+    <!-- Quiet Days -->
+    <string name="quiet_days_title">"Hari yang hening"</string> <!-- TODO validate "Silent days" -->
+    <string name="days_none">"Tidak ada"</string> <!-- TODO validate "None" -->
+    <string name="days_everyday">"Setiap hari"</string> <!-- TODO validate "Everyday" -->
+    <string name="quiet_day_warning">"Pemberitahuan dinonaktifkan, karena hari ini \ \"hari sunyi \\"."</string> <!-- TODO validate "Notification disabled, because today is \"silent day\"." -->
+    <string name="toast_change_quiet_days">"Silakan ubah pengaturan \ \"Silent days \\" untuk membuat BlipBlip berfungsi hari ini."</string> <!-- TODO validate "Please change \"Silent days\" setting to make BlipBlip work today." -->
+
+    <!-- While Music -->
+    <string name="while_music">"Nonaktifkan saat musik diputar"</string> <!-- TODO validate "Disable while music plays" -->
+    <string name="while_music_on">"Semua notifikasi dinonaktifkan"</string> <!-- TODO validate "All notifications disabled" -->
+    <string name="while_music_off">"Pemberitahuan diaktifkan"</string> <!-- TODO validate "Notifications enabled" -->
+    <string name="while_music_toast">"Pemberitahuan BlipBlip sekarang dinonaktifkan, karena Anda mendengarkan musik."</string> <!-- TODO validate "BlipBlip notifications are now disabled, because you are listening to music." -->
+    <!-- While phone call -->
+    <string name="while_phonecall">"Nonaktifkan selama panggilan telepon"</string> <!-- TODO validate "Disable during phone call" -->
+    <string name="while_phonecall_on">"Semua notifikasi dinonaktifkan"</string> <!-- TODO validate "All notifications disabled" -->
+    <string name="while_phonecall_off">"Pemberitahuan diaktifkan"</string> <!-- TODO validate "Notifications enabled" -->
+    <string name="while_phonecall_toast">"Pemberitahuan BlipBlip sekarang dinonaktifkan, karena Anda sedang melakukan panggilan telepon."</string> <!-- TODO validate "BlipBlip notifications are now disabled, because you are in a phone call." -->
+
+
+
+    <!-- ADVANCED SETTINGS -->
+    <string name="pref_advanced">"Pengaturan lanjutan"</string> <!-- TODO validate "Advanced settings" -->
+    <string name="title_advanced_settings">"Pengaturan lanjutan"</string> <!-- TODO validate "Advanced settings" -->
+
+    <!-- Audio Stream -->
+    <string name="pref_choose_audio_stream">"Aliran audio"</string> <!-- TODO validate "Audio stream" -->
+    <string name="audio_stream_phone_ring">"Dering telepon"</string> <!-- TODO validate "Phone ring" -->
+    <string name="audio_stream_alarm">"Alarm"</string> <!-- TODO validate "Alarm" -->
+    <string name="audio_stream_alarm2">"Jam alarm"</string> <!-- TODO validate "Alarm clock" -->
+    <string name="audio_stream_media">"Media"</string> <!-- TODO validate "Media" -->
+    <string name="audio_stream_media2">"Musik, Video, Permainan"</string> <!-- TODO validate "Music, Videos, Games" -->
+    <string name="audio_stream_notification">"Pemberitahuan"</string> <!-- TODO validate "Notification" -->
+
+    <!-- Notifications -->
+    <string name="pref_notification_settings">"Pengaturan pemberitahuan"</string> <!-- TODO validate "Notification settings" -->
+    <string name="pref_notification_status_title">"Tampilkan pemberitahuan"</string> <!-- TODO validate "Display notification" -->
+
+    <!-- Show Notification Always -->
+    <string name="pref_notification_always">"Selalu ditampilkan"</string> <!-- TODO validate "Always display" -->
+    <string name="pref_notification_always_on">"Tampilkan pemberitahuan terlepas dari apakah itu diaktifkan"</string> <!-- TODO validate "Display notification regardless if it is enabled" -->
+    <string name="pref_notification_always_off">"Tampilkan pemberitahuan hanya jika diaktifkan"</string> <!-- TODO validate "Display notification only if it is enabled" -->
+    <string name="notification_settings_updated">"Pengaturan pemberitahuan diperbarui"</string> <!-- TODO validate "Notification settings updated" --> <!-- message displayed when one of notification settings is updated without user interacting with these options -->
+    <string name="permanent_notification">"Pemberitahuan permanen"</string> <!-- TODO validate "Permanent notification" -->
+
+    <!-- Notification Priority -->
+    <string name="pref_notification_priority">"Prioritas pemberitahuan"</string> <!-- TODO validate "Notification priority" -->
+    <string name="item_priority_minimum">"Minimum"</string> <!-- TODO validate "Minimum" -->
+    <string name="item_priority_low">"Rendah"</string> <!-- TODO validate "Low" -->
+    <string name="item_priority_normal">"Normal"</string> <!-- TODO validate "Normal" -->
+    <string name="item_priority_high">"Tinggi"</string> <!-- TODO validate "High" -->
+    <string name="item_priority_maximum">"Maksimum"</string> <!-- TODO validate "Maximum" -->
+
+    <!-- Dismissible Notification -->
+
+    <!-- Auto dismiss -->
+    <string name="auto_dismiss_notification_title">"Abaikan pemberitahuan secara otomatis"</string> <!-- TODO validate "Auto dismiss notification" -->
+    <string name="auto_dismiss_notification_on">"Singkirkan pemberitahuan secara otomatis setelah beberapa waktu."</string> <!-- TODO validate "Dismiss notification automatically after some time." -->
+    <string name="auto_dismiss_notification_off">"Pemberitahuan tidak akan diberhentikan secara otomatis."</string> <!-- TODO validate "Notification will not be dismissed automatically." -->
+
+    <!-- Vibrate on Wear -->
+    <string name="pref_vibrate_wearable_title">"Bergetar pada perangkat yang terhubung"</string> <!-- TODO validate "Vibrate on connected device" -->
+    <string name="pref_vibrate_wearable_on2">"Jika getaran diaktifkan, bergetar juga pada perangkat yang dapat dipakai yang terhubung (mis. Jam tangan pintar). Perlu menambahkan tindakan pemberitahuan Sistem."</string> <!-- TODO validate "If vibration is enabled vibrate also on connected wearable device (e.g. smart watch). Requires adding System notification action." -->
+    <string name="pref_vibrate_wearable_off">"Jangan bergetar pada perangkat yang dapat dipakai yang terhubung"</string> <!-- TODO validate "Do not vibrate on connected wearable device" -->
+
+    <!-- Action Buttons -->
+    <string name="pref_notification_action_buttons">"Tombol aksi"</string> <!-- TODO validate "Action buttons" --> <!-- Preference name for choosing which buttons are visible on notification -->
+    <string name="notif_action_stop">"Berhenti"</string> <!-- TODO validate "Stop" --> <!-- Description of action button. This should refer to notif_action_stop -->
+    <string name="notif_action_disable_or_enable">"Aktifkan / Nonaktifkan"</string> <!-- TODO validate "Enable/Disable" --> <!-- Description of action button. This refers to notif_action_enable and notif_action -->
+    <string name="notif_button_play">"Bermain"</string> <!-- TODO validate "Play" --> <!-- Action button label in notification having same action as play button in the app - plays the notificaton for testing purposes. This text should be short, because it will be shown on notification button where there can be 3 of them -->
+    <string name="notif_button_stop">"Berhenti"</string> <!-- TODO validate "Stop" --> <!-- Stops playback of notification. Should be short. -->
+    <string name="notif_button_enable">"Memungkinkan"</string> <!-- TODO validate "Enable" --> <!-- This text should be short, because it will be shown on notification button where there can be 3 of them. -->
+    <string name="notif_button_disable">"Nonaktifkan"</string> <!-- TODO validate "Disable" --> <!-- This text should be short, because it will be shown on notification button where there can be 3 of them. -->
+
+    <!-- Custom Texts -->
+    <string name="pref_custom_texts">"Teks notifikasi khusus"</string> <!-- TODO validate "Custom notification texts" -->
+    <string name="pref_notification_title_title">"Judul pemberitahuan"</string> <!-- TODO validate "Notification title" -->
+    <string name="pref_notification_description_title">"Deskripsi pemberitahuan"</string> <!-- TODO validate "Notification description" -->
+
+    <!-- Reliability -->
+    <string name="pref_reliability">"Pengaturan keandalan"</string> <!-- TODO validate "Reliability settings" --> <!-- title of settings section meant for all settings which may improve running of the app without issues -->
+    <string name="reliability_warning">"Mengubah pengaturan ini dapat memengaruhi keandalan aplikasi."</string> <!-- TODO validate "Changing these settings may impact reliability of the app." --> <!-- This message should be as short as possible. There is risk of cutting it off if it will be too long -->
+
+    <!-- Alarm Mode -->
+    <string name="notif_as_alarm_title">"Mode alarm"</string> <!-- TODO validate "Alarm mode" -->
+    <string name="notif_as_alarm_off">"Pemberitahuan reguler"</string> <!-- TODO validate "Regular notifications" -->
+    <string name="notif_as_alarm_on">"Pemberitahuan bertindak sebagai alarm - memperbaiki keterlambatan pemberitahuan 3-5 menit pada beberapa perangkat Samsung"</string> <!-- TODO validate "Notifications act as alarms – fixes 3–5 minute notification delays on some Samsung devices" -->
+    <string name="late_notif_title">"Mode alarm diaktifkan"</string> <!-- TODO validate "Alarm mode enabled" -->
+    <string name="late_notif_message">"Telah terdeteksi bahwa notifikasi tertunda beberapa menit yang terjadi pada beberapa perangkat Samsung. Untuk mencegah hal ini, opsi \ \"Mode alarm \\" telah diaktifkan, yang seharusnya memperbaiki masalah ini. Anda dapat menonaktifkan opsi ini dan mengaktifkan otomatis opsi ini di Pengaturan Lanjut. Jika akan ditemukan solusi yang lebih baik untuk memperbaiki masalah, aplikasi akan diperbarui. Jika Anda memiliki masalah lagi, harap laporkan melalui email."</string> <!-- TODO validate "It has been detected that notification was delayed by several minutes which happens on some Samsung devices. To prevent this, an \"Alarm mode\" option has been enabled, which should fix this issue. You can disable this option and automatic enabling of this option in the Advanced Settings. If there will be better solution found to fix the issue the app will be updated. If you have any more problems please report them via email." -->
+
+    <!-- Auto Alarm -->
+    <string name="auto_notif_as_alarm_title">"Aktifkan Mode Alarm secara otomatis"</string> <!-- TODO validate "Auto enable Alarm Mode" -->
+    <string name="auto_notif_as_alarm_on">"Aktifkan mode Alarm jika penundaan pemberitahuan terdeteksi"</string> <!-- TODO validate "Enable Alarm mode if notification delay detected" -->
+    <string name="auto_notif_as_alarm_off">"Jangan aktifkan mode Alarm secara otomatis"</string> <!-- TODO validate "Do not enable Alarm mode automatically" -->
+
+    <!-- Low Valume -->
+    <string name="pref_low_volume_fix">"Memperbaiki volume rendah"</string> <!-- TODO validate "Low volume fix" -->
+    <string name="pref_low_volume_fix_on">"Memperbaiki volume rendah pada beberapa perangkat Motorola dengan fitur volume yang meningkat. Dapat menunda pemutaran suara beberapa detik."</string> <!-- TODO validate "Fixes low volume on some Motorola devices with rising volume feature. May delay sound playback by few seconds." -->
+    <string name="pref_low_volume_fix_off">"Cacat. Tidak diperlukan untuk sebagian besar perangkat."</string> <!-- TODO validate "Disabled. Not needed for most devices." -->
+
+    <!-- Foreground Service -->
+    <string name="pref_foreground_service_title">"Layanan latar depan"</string> <!-- TODO validate "Foreground service" -->
+    <string name="pref_foreground_service_on">"Menampilkan notifikasi yang tidak dapat ditolak dan memungkinkan layanan latar belakang yang dapat mencegah terbunuhnya aplikasi."</string> <!-- TODO validate "Displays non-dismissible notification and enables background service which might prevent killing of the app." -->
+    <string name="pref_foreground_service_off">"Layanan latar depan dinonaktifkan."</string> <!-- TODO validate "Foreground service is disabled." -->
+    <string name="msg_foreground_service_off">"Layanan latar depan dinonaktifkan"</string> <!-- TODO validate "Foreground service disabled" --> <!-- message displayed when foreground service is disabled without user interacting with this option -->
+
+    <!-- Toast Notifications -->
+    <string name="pref_toast_notifications">"Peringatan munculan"</string> <!-- TODO validate "Pop-up warnings" -->
+    <string name="pref_toast_notifications_on">"Tampilkan peringatan munculan"</string> <!-- TODO validate "Show pop-up warnings" -->
+    <string name="pref_toast_notifications_off">"Sembunyikan peringatan munculan"</string> <!-- TODO validate "Hide pop-up warnings" -->
+
+    <!-- Logs -->
+    <string name="debug_logs_title">"Kumpulkan log debug"</string> <!-- TODO validate "Collect debug logs" -->
+    <string name="debug_logs_off">"Log penulisan dinonaktifkan"</string> <!-- TODO validate "Writing log disabled" -->
+    <string name="debug_logs_on">"Simpan log untuk melaporkan masalah email"</string> <!-- TODO validate "Save logs for Report problem email" -->
+
+    <!-- Beta -->
+    <string name="beta_preference_title">"BlipBlip Beta"</string> <!-- TODO validate "BlipBlip Beta" -->
+    <string name="beta_preference_description">"Aktifkan atau nonaktifkan versi beta"</string> <!-- TODO validate "Enable or disable beta version" -->
+
+    <!-- Experimental Settings -->
+    <string name="pref_experimental">"Pengaturan eksperimental"</string> <!-- TODO validate "Experimental settings" -->
+    <string name="experimental_warning">"Ini adalah pengaturan eksperimental dan dapat dihapus di masa depan."</string> <!-- TODO validate "These are experimental settings and may be removed in the future." -->
+    <string name="title_experimental_settings">"Pengaturan eksperimental"</string> <!-- TODO validate "Experimental settings" -->
+    <string name="huawei_fix">"Huawei memperbaiki"</string> <!-- TODO validate "Huawei fix" -->
+
+    <!-- Menu - Share -->
+    <string name="action_share">"Bagikan aplikasi"</string> <!-- TODO validate "Share app" -->
+    <string name="share_chooser_title">"Bagikan aplikasi!"</string> <!-- TODO validate "Share the app!" -->
+    <string name="share_title">"Lihat aplikasi berpadu BlipBlip setiap jam!"</string> <!-- TODO validate "Check out BlipBlip hourly chime app!" -->
+    <string name="share_text">"Periksa BlipBlip aplikasi Android berpadu setiap jam"</string> <!-- TODO validate "Check out BlipBlip hourly chime android app" -->
+
+    <!-- Menu - Rate -->
+    <string name="action_rate">"Nilai kami"</string> <!-- TODO validate "Rate us" -->
+    <string name="rate_us_title">"Beri Nilai Kami!"</string> <!-- TODO validate "Rate Us!" -->
+    <string name="rate_us_message">"Terima kasih telah meluangkan waktu untuk meninjau aplikasi."</string> <!-- TODO validate "Thank you for taking time to review the app." -->
+    <string name="rate_us_onetofourstars">"1-4 bintang"</string> <!-- TODO validate "1–4 stars" -->
+    <string name="rate_us_fivestars">"5 bintang!"</string> <!-- TODO validate "5 stars!" -->
+    <string name="five_stars_description">"Bintang lima"</string> <!-- TODO validate "Five stars" -->
+    <string name="five_stars_title">"Suka BlipBlip?"</string> <!-- TODO validate "Love BlipBlip?" -->
+    <string name="five_stars_text">"Beri kami 5 bintang untuk membantu membuat BlipBlip lebih menakjubkan. Terima kasih!"</string> <!-- TODO validate "Rate us 5 stars to help make BlipBlip even more awesome. Thanks!" -->
+
+    <!-- Menu - Error -->
+    <string name="action_send_logs">"Laporkan masalah"</string> <!-- TODO validate "Report problem" -->
+    <string name="send_logs_describe">"Tolong jelaskan masalah Anda dengan aplikasi (lebih disukai dalam bahasa Inggris):"</string> <!-- TODO validate "Please describe your problem with the app (preferably in English):" -->
+    <string name="feedback_dialog_bug_found">"Saya menemukan bug (lampirkan log)"</string> <!-- TODO validate "I found a bug (attach logs)" -->
+
+    <!-- Menu - Improvement -->
+    <string name="feedback_improvement_title">"BlipBlip perlu ditingkatkan"</string> <!-- TODO validate "BlipBlip needs improvement" -->
+    <string name="feedback_improvement_message">"Beri tahu kami apa yang dapat kami tingkatkan untuk membuat Anda puas dengan aplikasi ini."</string> <!-- TODO validate "Please tell us what we can improve to make you satisfied with the app." -->
+
+    <!-- Menu - About -->
+    <string name="action_about">"Tentang"</string> <!-- TODO validate "About" -->
+    <string name="about_version">"Versi:"</string> <!-- TODO validate "Version:" -->
+    <string name="about_authors">"Penulis"</string> <!-- TODO validate "Author" -->
+    <string name="about_coding">"Coding"</string> <!-- TODO validate "Coding" -->
+    <string name="about_testing">"Pengujian"</string> <!-- TODO validate "Testing" -->
+    <string name="about_graphics">"Grafik"</string> <!-- TODO validate "Graphics" -->
+    <string name="about_translations">"Terjemahan"</string> <!-- TODO validate "Translations" -->
+    <string name="about_thank_you">"Terima kasih"</string> <!-- TODO validate "Thank You" -->
+    <string name="about_images">"Gambar"</string> <!-- TODO validate "Images" -->
+    <string name="about_libraries">"Perpustakaan"</string> <!-- TODO validate "Libraries" --> <!-- title of screen showing licenses of programming libraries used by the app -->
+    <string name="about_acknowledgements">"Ucapan Terima Kasih"</string> <!-- TODO validate "Acknowledgements" --> <!-- name of screen with authors, translators and other people who have helped -->
+    <string name="about_translators_thank_you">"BlipBlip diterjemahkan oleh pengguna kami secara sukarela dan dengan ini kami ucapkan terima kasih atas dukungan dan kontribusi Anda."</string> <!-- TODO validate "BlipBlip is translated by our users voluntarily and hereby we thank you for your support and contribution." -->
+
+    <!-- Visual -->
+    <string name="pref_visual">"Pengaturan visual"</string> <!-- TODO validate "Visual settings" -->
+    <string name="title_visual_settings">"Pengaturan visual"</string> <!-- TODO validate "Visual settings" -->
+
+    <!-- Unsorted -->
+    <string name="warn_notification_skip">"Beberapa notifikasi akan dilewati."</string> <!-- TODO validate "Some notifications will be skipped." --> <!-- Please make this as short as possible. This warning is displayed when user chooses to skip few upcoming notifications. -->
+    <string name="warn_volume_zero">"Volume saat ini diatur ke nol."</string> <!-- TODO validate "Current volume is set to zero." --> <!-- Please make this as short as possible. This warning is displayed when current system volume is set to 0. -->
+    <string name="pref_low_mem_restart_title">"Memori rendah restart"</string> <!-- TODO validate "Low memory restart" -->
+    <string name="pref_low_mem_restart_on">"Coba mulai ulang aplikasi jika perangkat kekurangan memori. Ini tidak akan berfungsi pada semua perangkat. Ini tidak diperlukan pada sebagian besar perangkat (dapat menggunakan baterai sedikit lebih banyak)."</string> <!-- TODO validate "Try restarting app if device is low on memory. This will not work on all devices. It is not needed on most devices (may use a little bit more battery)." -->
+    <string name="pref_low_mem_restart_off">"Jangan coba memulai ulang aplikasi jika perangkat memiliki memori rendah."</string> <!-- TODO validate "Do not try restarting app if device is low on memory." -->
+    <string name="pref_heading_notification_accuracy">"Akurasi pemberitahuan"</string> <!-- TODO validate "Notification accuracy" --> <!-- punctuality -->
+    <string name="pref_delay_prevention_title">"Cegah keterlambatan"</string> <!-- TODO validate "Prevent delays" -->
+    <string name="pref_delay_prevention_on">"Berusaha untuk secara aktif mencegah penundaan pemberitahuan yang terjadi pada beberapa perangkat. Dapat menggunakan lebih banyak baterai."</string> <!-- TODO validate "Tries to actively prevent notification delays which happen on some devices. May use more battery." -->
+    <string name="pref_delay_prevention_off">"Tidak mencoba mencegah keterlambatan pemberitahuan yang mungkin terjadi pada beberapa perangkat. Lebih sedikit menggunakan baterai."</string> <!-- TODO validate "Does not try to prevent notification delays which may occur on some devices. Uses less battery." -->
+    <string name="pref_aggressive_delay_prevention_title">"Cegah penundaan secara agresif"</string> <!-- TODO validate "Prevent delays aggressively" -->
+    <string name="pref_aggressive_delay_prevention_on">"Pemberitahuan harus lebih sering akurat. Dapat menggunakan lebih banyak baterai."</string> <!-- TODO validate "Notifications should be more often accurate. May use more battery." -->
+    <string name="pref_aggressive_delay_prevention_off">"Pemberitahuan mungkin terlambat dalam kasus yang jarang terjadi. Lebih sedikit menggunakan baterai."</string> <!-- TODO validate "Notifications may be late in rare cases. Uses less battery." -->
+    <string name="pref_ignore_delayed_title">"Abaikan pemberitahuan yang tertunda"</string> <!-- TODO validate "Ignore delayed notifications" -->
+    <string name="pref_ignore_delayed_on">"Jika pemberitahuan dianggap tertunda itu tidak akan ditampilkan atau diputar."</string> <!-- TODO validate "If notification is considered delayed it won't be shown or played." -->
+    <string name="pref_ignore_delayed_off">"Pemberitahuan akan ditampilkan atau diputar bahkan ketika mereka tertunda."</string> <!-- TODO validate "Notifications will be shown or played even when they are delayed." -->
+    <string name="pref_audio_focus_title">"Membisukan audio latar belakang"</string> <!-- TODO validate "Muting background audio" --> <!-- option to improve ability to hear app sounds by decreasing volume of other apps or pausing them -->
+    <string name="pref_audio_focus_on">"Saat aplikasi memutar suara, audio dari aplikasi lain akan lebih tenang atau dijeda."</string> <!-- TODO validate "While app plays sound, audio from other apps will be quieter or paused." -->
+    <string name="pref_audio_focus_off">"Audio dari aplikasi lain akan diputar secara normal."</string> <!-- TODO validate "Audio from other apps will be played normally." -->
+    <string name="pref_audio_focus_dont_duck_title">"Jeda pemutaran"</string> <!-- TODO validate "Pause playback" -->
+    <string name="pref_audio_focus_dont_duck_on">"Selama pemutaran suara, aplikasi lain mungkin menghentikan audio mereka."</string> <!-- TODO validate "During sound playback other apps may pause their audio." -->
+    <string name="pref_audio_focus_dont_duck_off">"Selama pemutaran suara, aplikasi lain dapat menurunkan volume audio mereka."</string> <!-- TODO validate "During sound playback other apps may lower volume of their audio." -->
+
+    <!-- Plurals -->
+    <!-- check which quantities and how should be used for given language here http://www.unicode.org/cldr/charts/29/supplemental/language_plural_rules.html -->
+    <!-- Uncomment or add proper "zero", "two", "few" or "many" item if needed for your language -->
+    <plurals name="repeat_every_x_hours"> <!-- "X hours" as in "Repeat every X hours" is different in some languages (e.g. Polish) from regular "X hours" -->
+        <item quantity="one">"%d hour"</item>
+        <item quantity="other">"%d hours"</item>
+    </plurals>
+    <plurals name="repeat_every_x_minutes">
+        <item quantity="one">"%d minute"</item>
+        <item quantity="other">"%d minutes"</item>
+    </plurals>
+    <plurals name="repeat_every_x_seconds">
+        <item quantity="one">"%d second"</item>
+        <item quantity="other">"%d seconds"</item>
+    </plurals>
+    <plurals name="repeat_number_of_times">
+        <item quantity="one">"%d time"</item>
+        <item quantity="other">"%d times"</item>
+    </plurals>
+
+    <string name="pref_reset_accuracy_params">"Setel ulang parameter"</string> <!-- TODO validate "Reset parameters" -->
+    <string name="pref_reset_accuracy_params_desc">"Mereset parameter internal yang meningkatkan akurasi pemberitahuan."</string> <!-- TODO validate "Resets internal parameters which improve notification accuracy." -->
+    <string name="warn_foreground_service_disabled">"Pengaturan layanan latar depan telah dinonaktifkan. Ini dapat meningkatkan peluang proses latar belakang dimatikan dan aplikasi berhenti bekerja."</string> <!-- TODO validate "Foreground service setting has been disabled. This may increase chance that background process is killed and app stops working." -->
+
+    <!-- Airplane mode -->
+    <string name="pref_airplane_mode">"Mode pesawat"</string> <!-- TODO validate "Airplane mode" -->
+    <string name="while_airplane_toast">"Pemberitahuan BlipBlip sekarang dinonaktifkan, karena Anda berada dalam mode pesawat."</string> <!-- TODO validate "BlipBlip notifications are now disabled, because you are in airplane mode." -->
+
+    <string name="setting_system_default">"Sistem standar"</string> <!-- TODO validate "System default" -->
+    <string name="pref_time_format_title">"Format waktu"</string> <!-- TODO validate "Time format" -->
+    <string name="time_format_12h">"Jam 12 jam"</string> <!-- TODO validate "12 hour clock" -->
+    <string name="time_format_24h">"Jam 24 jam"</string> <!-- TODO validate "24 hour clock" -->
+
+    <string name="theme_blipblip">"BlipBlip"</string> <!-- TODO validate "BlipBlip" -->
+    <string name="theme_standard">"Standar"</string> <!-- TODO validate "Standard" -->
+    <string name="theme_blue">"Biru"</string> <!-- TODO validate "Blue" -->
+    <string name="theme_yellow">"Kuning"</string> <!-- TODO validate "Yellow" -->
+    <string name="theme_purple">"Ungu"</string> <!-- TODO validate "Purple" -->
+    <string name="theme_red">"Merah"</string> <!-- TODO validate "Red" -->
+    <string name="theme_green">"hijau"</string> <!-- TODO validate "Green" -->
+    <string name="theme_blue_gray">"Abu-abu biru"</string> <!-- TODO validate "Blue grey" -->
+    <string name="theme_orange">"Jeruk"</string> <!-- TODO validate "Orange" -->
+    <string name="theme_indigo">"Nila"</string> <!-- TODO validate "Indigo" -->
+    <string name="theme_cyan">"Cyan"</string> <!-- TODO validate "Cyan" -->
+    <string name="theme_teal">"Teal"</string> <!-- TODO validate "Teal" -->
+
+    <string name="pref_color_theme">"Tema"</string> <!-- TODO validate "Theme" -->
+    <string name="cycle_themes_message">"Beralih tema menggunakan tombol volume."</string> <!-- TODO validate "Switch themes using volume buttons." -->
+    <string name="cycle_themes_finish">"Selesai"</string> <!-- TODO validate "Finish" -->
+    <string name="cycle_themes">"Tema siklus"</string> <!-- TODO validate "Cycle themes" -->
+    <string name="cycle_themes_description">"Mengizinkan beralih tema menggunakan tombol volume."</string> <!-- TODO validate "Allows switching themes using volume buttons." -->
+    <string name="color_next_notification_bar">"Warna bilah notifikasi berikutnya"</string> <!-- TODO validate "Color next notification bar" -->
+    <string name="color_next_notification_bar_on">"Gunakan latar belakang warna untuk bilah pemberitahuan berikutnya."</string> <!-- TODO validate "Use color background for next notification bar." -->
+    <string name="color_next_notification_bar_off">"Gunakan latar belakang abu-abu untuk bilah pemberitahuan berikutnya."</string> <!-- TODO validate "Use gray background for next notification bar." -->
+    <string name="night_mode">"Mode malam"</string> <!-- TODO validate "Night mode" -->
+    <string name="night_mode_on">"Diaktifkan"</string> <!-- TODO validate "Enabled" -->
+    <string name="night_mode_off">"Cacat"</string> <!-- TODO validate "Disabled" -->
+    <string name="night_mode_auto">"Mobil"</string> <!-- TODO validate "Auto" -->
+    <string name="night_mode_system">"Pengaturan sistem"</string> <!-- TODO validate "System setting" -->
+
+    <string name="title_activity_sounds">"Kedengarannya"</string> <!-- TODO validate "Sounds" -->
+    <string name="title_activity_sound">"Suara"</string> <!-- TODO validate "Sound" -->
+    <string name="title_activity_vibrations">"Getaran"</string> <!-- TODO validate "Vibrations" -->
+    <string name="title_activity_vibration">"Getaran"</string> <!-- TODO validate "Vibration" -->
+    <string name="action_delete">"Menghapus"</string> <!-- TODO validate "Delete" -->
+    <string name="action_add_vibration_pattern">"Tambahkan entri"</string> <!-- TODO validate "Add entry" -->
+    <string name="dialog_title_deletion">"Konfirmasi penghapusan"</string> <!-- TODO validate "Confirm deletion" -->
+    <string name="dialog_message_confirm">"Apakah kamu yakin"</string> <!-- TODO validate "Are you sure?" -->
+    <string name="vibration_name">"Nama getaran"</string> <!-- TODO validate "Vibration name" -->
+    <string name="action_restore_defaults">"Pulihkan default"</string> <!-- TODO validate "Restore defaults" --> <!-- e.g. for sounds or vibrations -->
+    <string name="restore_defaults_message2">"Apakah Anda ingin mengembalikan nilai default?"</string> <!-- TODO validate "Would you like to restore default values?" -->
+    <string name="add_vibration">"Tambahkan getaran"</string> <!-- TODO validate "Add vibration" -->
+    <string name="edit">"Edit"</string> <!-- TODO validate "Edit" --> <!-- Name of action to edit list of sounds or list of vibrations, should be short -->
+    <string name="editing">"Editing"</string> <!-- TODO validate "Editing" --> <!-- Displayed in edit mode -->
+    <string name="error_file_open_failed">"Gagal membuka file."</string> <!-- TODO validate "Failed to open file." -->
+    <string name="error_file_open_no_permission">"Tidak ada izin untuk membuka file."</string> <!-- TODO validate "No permission to open the file." -->
+    <string name="error_file_open_failed_no_permission_title">"Berikan izin secara manual"</string> <!-- TODO validate "Grant permission manually" -->
+    <string name="error_file_open_failed_no_permission">"Tidak ada izin untuk membuka file. Silakan buka Pengaturan dan berikan izin untuk mengakses penyimpanan."</string> <!-- TODO validate "No permission to open the file. Please open Settings and give permission to access storage." -->
+    <string name="error_file_open_failed_settings">"Buka Pengaturan"</string> <!-- TODO validate "Open Settings" -->
+    <string name="play_vibration">"Bergetar"</string> <!-- TODO validate "Vibrate" --> <!-- description of action of a button to perform vibration -->
+    <string name="play_sound">"Memainkan suara"</string> <!-- TODO validate "Play sound" --> <!-- description of action of a button to play sound -->
+    <string name="drag_handle">"Tangani untuk menyeret"</string> <!-- TODO validate "Handle for dragging" -->
+    <string name="select_audio_file">"Pilih file Audio"</string> <!-- TODO validate "Select Audio file" -->
+    <string name="add_sound_to_blipblip">"Tambahkan ke BlipBlip"</string> <!-- TODO validate "Add to BlipBlip" -->
+    <string name="permission_denied">"Izin ditolak"</string> <!-- TODO validate "Permission denied" -->
+    <string name="permission_denied_message_no_addon">"BlipBlip tidak memiliki izin untuk membaca file."</string> <!-- TODO validate "BlipBlip does not have permission to read the file." -->
+    <string name="permission_denied_message_no_addon_part2">"Silakan gunakan beberapa aplikasi lain yang berbagi file tanpa perlu izin tambahan (mis. Google Drive)."</string> <!-- TODO validate "Please use some other app that shares file without need for additional permission (e.g. Google Drive)." -->
+    <string name="permission_denied_rationale_title">"Izin diperlukan"</string> <!-- TODO validate "Permission needed" -->
+    <string name="permission_denied_rationale">"Aplikasi tidak memiliki izin untuk membaca file. Tolong beri izin aplikasi untuk mengakses file. Anda juga dapat berbagi file menggunakan aplikasi lain yang tidak perlu menggunakan izin ini."</string> <!-- TODO validate "Application does not have permission to read the file. Please grant the app permission to access the file. You can also share the file using other app which does not need using this permission." -->
+
+    <!-- Menu drawer strings -->
+
+    <string name="more_actions">"Lebih banyak aksi"</string> <!-- TODO validate "More actions" -->
+    <string name="start_time">"Waktu mulai"</string> <!-- TODO validate "Start time" -->
+    <string name="end_time">"Akhir waktu"</string> <!-- TODO validate "End time" -->
+    <string name="whole_day">"Sepanjang hari"</string> <!-- TODO validate "Whole day" -->
+    <string name="enable_screen">"Aktifkan layar"</string> <!-- TODO validate "Enable screen" -->
+    <string name="action_rename">"Ganti nama"</string> <!-- TODO validate "Rename" -->
+    <string name="pref_accessibility">"Aksesibilitas"</string> <!-- TODO validate "Accessibility" -->
+    <string name="pref_swipe">"Sentuh gerakan"</string> <!-- TODO validate "Touch gestures" -->
+    <string name="pref_swipe_on">"Menggesekkan diaktifkan pada item daftar"</string> <!-- TODO validate "Swiping enabled on list items" -->
+    <string name="pref_swipe_off">"Menggesekkan dinonaktifkan pada item daftar"</string> <!-- TODO validate "Swiping disabled on list items" -->
+    <string name="pref_action_menus">"Menu tindakan"</string> <!-- TODO validate "Action menus" -->
+    <string name="pref_action_menus_on">"Tampilkan menu dengan tindakan yang seharusnya memerlukan gerakan (mis. Menggesekkan). Berguna saat menggunakan TalkBack."</string> <!-- TODO validate "Show menus with actions that would otherwise require gestures (e.g. swiping). Useful when using TalkBack." -->
+    <string name="pref_action_menus_off">"Sembunyikan menu yang berisi tindakan yang juga dapat dilakukan menggunakan gerakan."</string> <!-- TODO validate "Hide menus containing actions that can also be performed using gestures." -->
+    <string name="next_notification">"Pemberitahuan berikutnya: %1$s"</string> <!-- TODO validate "Next notification: %1$s" -->
+    <string name="next_tomorrow">"besok di %1$s"</string> <!-- TODO validate "tomorrow at %1$s" --> <!-- e.g. tomorrow at 10:00 -->
+    <string name="next_on_mon">"Senin di %1$s"</string> <!-- TODO validate "Monday at %1$s" -->
+    <string name="next_on_tue">"Selasa di %1$s"</string> <!-- TODO validate "Tuesday at %1$s" -->
+    <string name="next_on_wed">"Rabu pada %1$s"</string> <!-- TODO validate "Wednesday at %1$s" -->
+    <string name="next_on_thu">"Kamis pada %1$s"</string> <!-- TODO validate "Thursday at %1$s" -->
+    <string name="next_on_fri">"Jumat pada %1$s"</string> <!-- TODO validate "Friday at %1$s" -->
+    <string name="next_on_sat">"Sabtu di %1$s"</string> <!-- TODO validate "Saturday at %1$s" -->
+    <string name="next_on_sun">"Minggu di %1$s"</string> <!-- TODO validate "Sunday at %1$s" -->
+    <string name="never">"tak pernah"</string> <!-- TODO validate "never" --> <!-- if notification will never occur-->
+    <string name="show_seconds_title">"Tampilkan detik"</string> <!-- TODO validate "Show seconds" -->
+    <string name="show_seconds_on">"Memilih detik diaktifkan. Menampilkan waktu dengan detik."</string> <!-- TODO validate "Choosing seconds is enabled. Displays times with seconds." -->
+    <string name="show_seconds_off">"Memilih detik tidak aktif. Tampilkan waktu tanpa detik."</string> <!-- TODO validate "Choosing seconds is disabled. Display times without seconds." -->
+    <string name="notification_disabled_warning">"Pemberitahuan dinonaktifkan"</string> <!-- TODO validate "Notification is disabled" -->
+    <string name="social_facebook">"Facebook"</string> <!-- TODO validate "Facebook" -->
+    <string name="social_twitter">"Kericau"</string> <!-- TODO validate "Twitter" -->
+    <string name="social_google_plus">"Google+"</string> <!-- TODO validate "Google+" -->
+    <string name="social_google_plus_community">"Komunitas Google+"</string> <!-- TODO validate "Google+ Community" -->
+    <string name="troubleshooting">"Penyelesaian masalah"</string> <!-- TODO validate "Troubleshooting" -->
+    <string name="premium_features">"Fitur premium"</string> <!-- TODO validate "Premium features" -->
+    <string name="disable_when_headset">"Nonaktifkan saat headset terhubung"</string> <!-- TODO validate "Disable when headset connected" -->
+    <string name="disable_when_headset_on">"Semua notifikasi dinonaktifkan"</string> <!-- TODO validate "All notifications disabled" -->
+    <string name="disable_when_headset_off">"Semua notifikasi diaktifkan"</string> <!-- TODO validate "All notifications enabled" -->
+    <string name="disable_when_headset_toast">"Pemberitahuan BlipBlip sekarang dinonaktifkan, karena headset Anda terhubung."</string> <!-- TODO validate "BlipBlip notifications are now disabled, because you have headset connected." -->
+
+    <string name="add">"Menambahkan"</string> <!-- TODO validate "Add" -->
+    <string name="add_item">"Tambahkan Barang"</string> <!-- TODO validate "Add item" -->
+    <string name="action_add_condition">"Tambahkan kondisi"</string> <!-- TODO validate "Add condition" -->
+    <string name="dialog_title_days_of_week">"Hari-hari dalam seminggu"</string> <!-- TODO validate "Days of Week" -->
+    <string name="dialog_title_date">"Tanggal"</string> <!-- TODO validate "Date" -->
+    <string name="start_date">"Mulai tanggal"</string> <!-- TODO validate "Start date" -->
+    <string name="end_date">"Tanggal akhir"</string> <!-- TODO validate "End date" -->
+    <string name="dialog_title_time">"Waktu"</string> <!-- TODO validate "Time" -->
+    <string name="dialog_title_time_range">"Rentang waktu"</string> <!-- TODO validate "Time range" -->
+    <string name="dialog_title_repeat">"Ulangi"</string> <!-- TODO validate "Repeat" -->
+    <string name="interval">"Selang"</string> <!-- TODO validate "Interval" -->
+    <string name="no_repeat">"Tidak mengulangi"</string> <!-- TODO validate "No repeat" -->
+    <string name="action_add_action">"Tambahkan aksi"</string> <!-- TODO validate "Add action" -->
+    <string name="favorite_condition_dialog_edit">"Edit"</string> <!-- TODO validate "Edit" -->
+    <string name="favorite_condition_dialog_create">"Membuat"</string> <!-- TODO validate "Create" -->
+    <string name="system_notification">"Pemberitahuan sistem"</string> <!-- TODO validate "System notification" -->
+    <string name="popup_text">"Teks sembulan"</string> <!-- TODO validate "Popup text" -->
+    <string name="no_actions_added">"Tidak ada tindakan yang ditambahkan"</string> <!-- TODO validate "No actions added" -->
+    <string name="section_conditions">"Kondisi"</string> <!-- TODO validate "Conditions" -->
+    <string name="no_valid_condition_added">"Tidak ada kondisi yang benar yang ditentukan"</string> <!-- TODO validate "No correct conditions defined" -->
+    <string name="no_upcoming_notifications">"Tidak ada pemberitahuan yang akan datang"</string> <!-- TODO validate "No upcoming notifications" -->
+    <string name="error_indicator">"Indikator kesalahan"</string> <!-- TODO validate "Error indicator" -->
+    <string name="next_notification_app_off">"Mati (aplikasi dinonaktifkan)"</string> <!-- TODO validate "Off (app disabled)" -->
+    <string name="next_day">"hari berikutnya"</string> <!-- TODO validate "following day" --> <!-- Used in: "22:00 - 6:00 next day" -->
+    <string name="notifications">"Notifikasi"</string> <!-- TODO validate "Notifications" -->
+    <string name="warning_no_email_app">"Tidak ada aplikasi email yang ditemukan untuk mengirim laporan."</string> <!-- TODO validate "No email application found to send the report." -->
+    <string name="weeknights">"Malam hari kerja"</string> <!-- TODO validate "Weeknights" --> <!-- nights from sunday to thursday -->
+    <string name="weekend_nights">"Malam akhir pekan"</string> <!-- TODO validate "Weekend nights" --> <!-- nights on friday and saturday -->
+    <string name="weekend">"Akhir pekan"</string> <!-- TODO validate "Weekend" --> <!-- saturday and sunday -->
+
+    <string name="vibration_silence_millis">"Durasi hening dalam milidetik"</string> <!-- TODO validate "Silence duration in milliseconds" -->
+    <string name="vibration_duration_millis">"Durasi getaran dalam milidetik"</string> <!-- TODO validate "Vibration duration in milliseconds" -->
+
+    <string name="advice_disable_task_killers">"Nonaktifkan pembunuh tugas"</string> <!-- TODO validate "Disable task killers" -->
+    <string name="advice_disable_task_killers_desc">"Pembunuh tugas harus dinonaktifkan atau BlipBlip harus ditambahkan dalam daftar putih mereka untuk menjaga aplikasi tetap hidup."</string> <!-- TODO validate "Task killers should be disabled or BlipBlip should be added in their white lists to keep app alive." -->
+    <string name="advice_enable_foreground_service">"Aktifkan layanan latar depan"</string> <!-- TODO validate "Enable foreground service" -->
+    <string name="advice_enable_foreground_service_desc2">"Opsi layanan latar depan menginformasikan OS bahwa aplikasi tidak boleh dibunuh jika memungkinkan."</string> <!-- TODO validate "Foreground service option informs OS that application should not be killed if possible." -->
+    <string name="advice_enable_foreground_service_desc2_part2">"Ini akan menampilkan pemberitahuan terus-menerus yang dapat disembunyikan dari pengaturan sistem (menyembunyikannya dari aplikasi akan menonaktifkan opsi ini)."</string> <!-- TODO validate "It will display persistent notification which can be hidden from system settings (hiding it from the app will disable this option)." -->
+    <string name="advice_enable_foreground_service_desc2_part3">"Anda dapat menggunakan tombol di bawah ini untuk mengakses pengaturan sistem."</string> <!-- TODO validate "You can use button below to access system settings." -->
+
+    <string name="sound_in_use">"Suara sedang digunakan dan tidak bisa dihapus."</string> <!-- TODO validate "Sound is in use and cannot be deleted." -->
+    <string name="vibration_in_use">"Getaran sedang digunakan dan tidak bisa dihapus."</string> <!-- TODO validate "Vibration is in use and cannot be deleted." -->
+    <string name="sound_not_found">"Tidak ditemukan"</string> <!-- TODO validate "Not found" --> <!-- for sound -->
+    <string name="vibration_not_found">"Tidak ditemukan"</string> <!-- TODO validate "Not found" --> <!-- for vibration -->
+
+    <string name="section_actions">"Tindakan"</string> <!-- TODO validate "Actions" -->
+    <string name="section_notifications">"Notifikasi"</string> <!-- TODO validate "Notifications" -->
+    <string name="notification_name">"Pemberitahuan"</string> <!-- TODO validate "Notification" -->
+
+    <string name="play">"Bermain"</string> <!-- TODO validate "Play" -->
+
+    <string name="cannot_perform_operation">"Tidak dapat melakukan operasi ini sekarang. Silakan coba lagi nanti."</string> <!-- TODO validate "Cannot perform this operation right now. Please try again later." -->
+
+    <string name="add_to_favorites">"Tambahkan ke Favorit"</string> <!-- TODO validate "Add to favorites" -->
+    <string name="open_favorites">"Buka favorit"</string> <!-- TODO validate "Open favorites" -->
+
+    <string name="unnamed_sound">"Suara yang tidak disebutkan namanya"</string> <!-- TODO validate "Unnamed sound" -->
+    <string name="unnamed_vibration">"Getaran tanpa nama"</string> <!-- TODO validate "Unnamed vibration" -->
+
+    <string name="value_deleted">"Dihapus \ \" %1$s \\""</string> <!-- TODO validate "Deleted \"%1$s\" --> <!-- showed when one of list items is deleted and displays the value of the item -->
+    <string name="action_undo">"Batalkan"</string> <!-- TODO validate "Undo" --> <!-- action name to undo deletion e.g. from a list -->
+    <string name="condition_deleted">"Kondisi dihapus."</string> <!-- TODO validate "Condition deleted." -->
+    <string name="notification_deleted">"Pemberitahuan dihapus."</string> <!-- TODO validate "Notification deleted." -->
+    <string name="action_deleted">"Tindakan dihapus."</string> <!-- TODO validate "Action deleted." -->
+
+    <string name="inclusive_time">"inklusif"</string> <!-- TODO validate "inclusive" --> <!-- used in the time range dialog to determine if edge value should be included -->
+
+    <string name="pref_user_notifications">"Notifikasi pengguna"</string> <!-- TODO validate "User notifications" -->
+    <string name="user_notification">"Notifikasi pengguna"</string> <!-- TODO validate "User notification" -->
+
+    <string name="action_set_as_home_screens">"Tetapkan sebagai layar mulai"</string> <!-- TODO validate "Set as start screen" -->
+
+    <string name="pref_battery_saver_mode">"Mode Penghemat Baterai"</string> <!-- TODO validate "Battery Saver mode" -->
+    <string name="mode_sound_title">"Biarkan suara"</string> <!-- TODO validate "Allow sound" -->
+    <string name="mode_sound_on">"Suara diizinkan dalam mode ini"</string> <!-- TODO validate "Sounds are allowed in this mode" -->
+    <string name="mode_sound_off">"Suara dinonaktifkan dalam mode ini"</string> <!-- TODO validate "Sounds disabled in this mode" -->
+    <string name="mode_vibration_title">"Biarkan getaran"</string> <!-- TODO validate "Allow vibrations" -->
+    <string name="mode_vibration_on">"Getaran diizinkan dalam mode ini"</string> <!-- TODO validate "Vibrations allowed in this mode" -->
+    <string name="mode_vibration_off">"Getaran tidak diizinkan dalam mode ini"</string> <!-- TODO validate "Vibrations not allowed in this mode" -->
+    <string name="mode_screen_title">"Layar pengaktifan diizinkan"</string> <!-- TODO validate "Enabling screen allowed" -->
+    <string name="mode_screen_on">"Layar diizinkan untuk diaktifkan dalam mode ini"</string> <!-- TODO validate "Screen is allowed to be enabled in this mode" -->
+    <string name="mode_screen_off">"Layar tidak akan diaktifkan dalam mode ini"</string> <!-- TODO validate "Screen will not be enabled in this mode" -->
+    <string name="battery_saver_preferences_warning">"Opsi ini mungkin tidak berfungsi di semua perangkat."</string> <!-- TODO validate "These options may not work on all devices." -->
+    <string name="mode_sound_toast">"Suara dinonaktifkan karena mode berikut ini aktif: %1$s"</string> <!-- TODO validate "Sound is disabled because following mode is active: %1$s" -->
+
+    <string name="pref_accessibility_settings_title">"Aktifkan layanan aksesibilitas"</string> <!-- TODO validate "Enable accessibility service" -->
+    <string name="pref_accessibility_settings_summary">"Membuka pengaturan Aksesibilitas sistem yang memungkinkan Anda mengaktifkan aplikasi sebagai layanan aksesibilitas"</string> <!-- TODO validate "Opens system Accessibility settings where you can enable app as accessibility service" -->
+    <string name="accessibility_service_description">"Layanan ini membantu aplikasi tetap berfungsi. Itu tidak mengakses data apa pun atau memodifikasi konten apa pun. Ini hanya perlindungan terhadap manajer memori yang dapat mematikan aplikasi. Jika Anda tidak mengalami masalah dengan aplikasi, Anda tidak perlu mengaktifkannya."</string> <!-- TODO validate "This service helps to keep the app working. It does not access any data or modify any content. It is just protection against memory managers which may kill the app. If you are not experiencing problems with the app you don't need to activate it." -->
+    <string name="accessibility_service_summary">"Membantu menjaga aplikasi tetap hidup. Tidak mengakses data apa pun."</string> <!-- TODO validate "Helps keep app alive. Does not access any data." -->
+
+    <string name="swipe_right_to_delete">"Geser ke kanan untuk menghapus item"</string> <!-- TODO validate "Swipe right to delete items" -->
+
+    <string name="action_repeat_sound">"Ulangi suara"</string> <!-- TODO validate "Repeat sound" -->
+    <string name="action_repeat_vibration">"Ulangi getaran"</string> <!-- TODO validate "Repeat vibration" -->
+    <string name="action_repeat_sound_vibration">"Ulangi suara dan getaran"</string> <!-- TODO validate "Repeat sound and vibration" -->
+    <string name="action_strike_the_hour">"Pukul berjam-jam"</string> <!-- TODO validate "Strike the hours" -->
+
+    <string name="pref_do_not_disturb_mode">"Jangan ganggu"</string> <!-- TODO validate "Do Not Disturb" -->
+    <string name="do_not_disturb_total_silence">"Keheningan total"</string> <!-- TODO validate "Total silence" -->
+    <string name="do_not_disturb_alarms_only">"Hanya alarm"</string> <!-- TODO validate "Alarms only" -->
+    <string name="do_not_disturb_priority_only">"Prioritas saja"</string> <!-- TODO validate "Priority only" -->
+
+    <string name="hide_notification_title">"Sembunyikan pemberitahuan"</string> <!-- TODO validate "Hide notification" -->
+    <string name="hide_notification_summary">"Buka pengaturan sistem untuk menyembunyikan notifikasi. Ini adalah cara yang disarankan untuk menyembunyikan pemberitahuan karena memungkinkan aplikasi untuk bekerja di latar depan."</string> <!-- TODO validate "Open system settings to hide notification. This is recommended way for hiding notification because it allows the app to work in foreground." -->
+
+    <!-- Text to speech -->
+    <string name="action_say_text">"Ucapkan teks"</string> <!-- TODO validate "Say text" -->
+    <string name="action_say_time">"Katakan waktu"</string> <!-- TODO validate "Say time" -->
+    <string name="feature_say_text">"Katakan waktu"</string> <!-- TODO validate "Say time" -->
+    <string name="feature_say_time">"Katakan waktu"</string> <!-- TODO validate "Say time" -->
+    <string name="pref_text_to_speech_engine">"Mesin"</string> <!-- TODO validate "Engine" -->
+    <string name="pref_text_to_speech_voice">"Suara"</string> <!-- TODO validate "Voice" -->
+    <string name="pref_text_to_speech">"Teks pidato"</string> <!-- TODO validate "Text to speech" -->
+    <string name="system_default_audio_stream">"Sistem standar"</string> <!-- TODO validate "System default" -->
+    <string name="application_default">"Nilai standar"</string> <!-- TODO validate "Default value" -->
+    <string name="speak_time_format_with_minutes">"Waktu yang diucapkan dengan menit"</string> <!-- TODO validate "Spoken time with minutes" -->
+    <string name="speak_time_on_the_hour">"Waktu yang diucapkan pada jam tersebut"</string> <!-- TODO validate "Spoken time on the hour" -->
+    <string name="tts_not_initialized">"Mesin text to speech belum diinisialisasi"</string> <!-- TODO validate "Text to speech engine is not yet initialized" -->
+    <string name="tts_test_say_time_title">"Tes mengatakan waktu"</string> <!-- TODO validate "Test saying time" -->
+    <string name="tts_system_settings_title">"Pengaturan sistem"</string> <!-- TODO validate "System settings" -->
+    <string name="tts_system_settings_summary">"Buka pengaturan text-to-speech sistem"</string> <!-- TODO validate "Open system text-to-speech settings" -->
+    <string name="pref_tts_overlaps_sounds">"Suara dan suara tumpang tindih"</string> <!-- TODO validate "Voice and sound overlap" -->
+    <string name="pref_tts_overlaps_sounds_on">"Berbicara akan tumpang tindih suara"</string> <!-- TODO validate "Speaking will overlap sounds" -->
+    <string name="pref_tts_overlaps_sounds_off">"Berbicara tidak akan tumpang tindih suara (suara akan diputar sebelum atau sesudah suara)"</string> <!-- TODO validate "Speaking will not overlap sounds (sound will play before or after voice)" -->
+
+    <string name="operating_modes_settings">"Mode operasi"</string> <!-- TODO validate "Operating modes" --> <!-- name of menu with different mode settings e.g. Do Not Disturb, vibrate mode -->
+    <string name="operating_modes_settings_summary">"Jangan Ganggu, mode getar, dll."</string> <!-- TODO validate "Do Not Disturb, vibrate mode, etc." -->
+    <string name="time_settings">"Waktu"</string> <!-- TODO validate "Time" -->
+    <string name="sound_settings">"Suara"</string> <!-- TODO validate "Sound" -->
+
+    <string name="free_resources_title">"Lepaskan sumber daya"</string> <!-- TODO validate "Release resources" -->
+
+    <string name="error_failed_to_open_file">"Gagal membuka file"</string> <!-- TODO validate "Failed to open file" -->
+    <string name="error_corrupted_sound">"Suara rusak"</string> <!-- TODO validate "Sound is corrupted" -->
+
+    <!-- premium -->
+    <string name="dialog_no_thanks">"Tidak, terima kasih"</string> <!-- TODO validate "No thanks" --> <!-- should be short -->
+    <string name="feature_custom_sounds">"Suara khusus"</string> <!-- TODO validate "Custom sounds" -->
+    <string name="feature_multiple_notifications">"Beberapa notifikasi"</string> <!-- TODO validate "Multiple notifications" -->
+    <string name="feature_custom_reapeat">"Interval pengulangan kustom"</string> <!-- TODO validate "Custom repeat interval" -->
+    <string name="feature_premium_sounds">"Suara premium"</string> <!-- TODO validate "Premium sounds" -->
+    <string name="feature_strike_the_hour">"Pukul berjam-jam"</string> <!-- TODO validate "Strike the hours" -->
+    <string name="premium_get_plus">"Dapatkan semua fitur saat ini"</string> <!-- TODO validate "Get all current features" --> <!-- should be short -->
+    <string name="premium_get_sounds">"Dapatkan semua suara di aplikasi"</string> <!-- TODO validate "Get all sounds in the app" --> <!-- should be short -->
+    <string name="premium_get_plus_sounds">"Dapatkan semua fitur dan suara saat ini"</string> <!-- TODO validate "Get all current features and sounds" --> <!-- should be short -->
+    <string name="premium_sound_lock">"Ini adalah suara Premium yang harus dibuka sebelum digunakan."</string> <!-- TODO validate "This is Premium sound which requires unlocking before use." -->
+    <string name="premium_feature_lock">"Ini adalah fitur Premium yang membutuhkan pembukaan kunci sebelum digunakan."</string> <!-- TODO validate "This is Premium feature which requires unlocking before use." -->
+    <string name="change_subscription">"Ubah langganan"</string> <!-- TODO validate "Change subscription" -->
+    <string name="upgrade_to_pro">"Meningkatkan"</string> <!-- TODO validate "Upgrade" -->
+    <string name="loading_failed">"Kesalahan"</string> <!-- TODO validate "Error" -->
+    <string name="month_very_short">"bulan"</string> <!-- TODO validate "month" -->
+    <string name="discount_save_money">"Menyimpan"</string> <!-- TODO validate "Save" --> <!-- percent saved will be displayed below this text -->
+    <string name="premium_settings">"Tingkatkan ke Premium untuk membuka kunci semua pengaturan"</string> <!-- TODO validate "Upgrade to Premium to unlock all settings" -->
+    <string name="buy_premium">"Beli Premium"</string> <!-- TODO validate "Buy Premium" -->
+    <string name="already_bought">"Sudah dibeli"</string> <!-- TODO validate "Already bought" -->
+    <string name="get_all_features">"Dapatkan semua fitur"</string> <!-- TODO validate "Get all features" -->
+    <string name="get_all_sounds">"Dapatkan semua suara"</string> <!-- TODO validate "Get all sounds" -->
+    <string name="premium_what_you_get">"Apa yang akan Anda dapatkan:"</string> <!-- TODO validate "What you will get:" -->
+    <string name="feature1">"Pemberitahuan aktif tanpa batas"</string> <!-- TODO validate "Unlimited active notifications" -->
+    <string name="feature2">"Pukul berjam-jam"</string> <!-- TODO validate "Strike the hours" -->
+    <string name="feature3">"Interval pengulangan kustom"</string> <!-- TODO validate "Custom repeat interval" -->
+    <string name="feature4">"Ucapkan teks atau waktu"</string> <!-- TODO validate "Say text or time" -->
+    <string name="feature5">"Tambahkan suara Anda sendiri"</string> <!-- TODO validate "Add your own sounds" -->
+    <string name="feature6">"Dukungan prioritas"</string> <!-- TODO validate "Priority support" -->
+    <string name="feature7">"Mode malam (tema gelap)"</string> <!-- TODO validate "Night mode (dark theme)" -->
+    <string name="feature_all_sounds">"Semua suara di aplikasi"</string> <!-- TODO validate "All sounds in the app" -->
+    <string name="yearly_payment">"Pembayaran tahunan"</string> <!-- TODO validate "Yearly payment." -->
+    <string name="free_trial">"Uji coba gratis."</string> <!-- TODO validate "Free trial." -->
+    <string name="cancel_anytime">"Batalkan kapan saja."</string> <!-- TODO validate "Cancel anytime." -->
+    <string name="premium_helps_support">"Dengan memutakhirkan BlipBlip Anda tidak hanya mendapatkan semua fitur atau suara tetapi Anda juga mendukung pengembangan yang berkelanjutan dan mandiri."</string> <!-- TODO validate "By upgrading BlipBlip you not only get all features or sounds but you also support its continuous and independent development." -->
+    <string name="loading">"Pemuatan…"</string> <!-- TODO validate "Loading…" -->
+    <string name="notification_has_premium_features">"Pemberitahuan ini menggunakan fitur Premium"</string> <!-- TODO validate "This notification uses Premium features" -->
+
+    <!-- Premium Bar -->
+    <string name="bar_upgrade_to_enable_app">"Tingkatkan ke Premium"</string> <!-- TODO validate "Upgrade to Premium" -->
+    <string name="bar_upgrade_to_enable_notification">"Tingkatkan ke Premium"</string> <!-- TODO validate "Upgrade to Premium" -->
+    <string name="bar_upgrade">"Beli sekarang"</string> <!-- TODO validate "Buy now" -->
+    <string name="bar_uses_premium_features">"Notifikasi menggunakan fitur Premium"</string> <!-- TODO validate "Notification uses Premium features" -->
+
+    <!-- Premium dialog -->
+    <string name="premium_dialog_title">"Premium"</string> <!-- TODO validate "Premium" -->
+    <string name="premium_dialog_upgrade_now">"Beli sekarang"</string> <!-- TODO validate "Buy now" -->
+    <string name="premium_dialog_later">"Kemudian"</string> <!-- TODO validate "Later" -->
+    <string name="premium_icon_description">"Ikon bintang premium"</string> <!-- TODO validate "Premium star icon" -->
+    <string name="feature_user_sounds_title">"Suara yang ditambahkan pengguna adalah fitur Premium"</string> <!-- TODO validate "User added sounds is a Premium feature" -->
+    <string name="feature_user_sounds_description">"Buat aplikasi BlipBlip menjadi milik Anda dengan menambahkan suara Anda sendiri."</string> <!-- TODO validate "Make BlipBlip app yours by adding your own sounds." -->
+    <string name="feature_premium_sounds_title">"Semua suara yang tersedia di aplikasi adalah fitur Premium"</string> <!-- TODO validate "All sounds available in the app is a Premium feature" -->
+    <string name="feature_premium_sounds_description">"Sesuaikan notifikasi Anda dengan banyak suara bawaan."</string> <!-- TODO validate "Customize your notification with many built-in sounds." -->
+    <string name="feature_strike_the_hour_title">"Memukul jam adalah fitur Premium"</string> <!-- TODO validate "Strike the hours is a Premium feature" -->
+    <string name="feature_strike_the_hour_description">"Buat jam kakek Anda sendiri (mis. Mainkan 3 kali pada jam tiga)"</string> <!-- TODO validate "Create your own grandfather clock (e.g. plays 3 times at three o'clock)" -->
+    <string name="feature_say_text_title">"Mengatakan teks adalah fitur Premium"</string> <!-- TODO validate "Saying text is a Premium feature" -->
+    <string name="feature_say_text_description">"Gunakan text-to-speech dalam notifikasi Anda."</string> <!-- TODO validate "Use text-to-speech in your notifications." -->
+    <string name="feature_say_time_title">"Mengatakan waktu adalah fitur Premium"</string> <!-- TODO validate "Saying time is a Premium feature" -->
+    <string name="feature_say_time_description">"Ucapkan waktu saat ini menggunakan teks ke ucapan."</string> <!-- TODO validate "Speak current time using text to speech." -->
+    <string name="feature_custom_repeat_interval_title">"Interval pengulangan kustom adalah fitur Premium"</string> <!-- TODO validate "Custom repeat interval is a Premium feature" -->
+    <string name="feature_custom_repeat_interval_description">"Tetapkan setiap interval waktu (selain dari standar 1, 5, 10, 15, 20, 30 dan 60 menit)."</string> <!-- TODO validate "Set any time interval (other than standard 1, 5, 10, 15, 20, 30 and 60 minutes)." -->
+    <string name="feature_general_title">"Notifikasi menggunakan fungsi Premium"</string> <!-- TODO validate "Notification uses Premium functions" -->
+    <string name="feature_general_description">"Tingkatkan untuk mengaktifkan notifikasi dan nikmati semua fitur Premium."</string> <!-- TODO validate "Upgrade to enable notification and enjoy all Premium features." -->
+    <string name="feature_multiple_active_notifications_title">"Pemberitahuan aktif tanpa batas adalah fitur Premium"</string> <!-- TODO validate "Unlimited active notifications is a Premium feature" -->
+    <string name="feature_multiple_active_notifications_description">"Gunakan banyak pemberitahuan dengan pengaturan berbeda pada saat yang sama (mis. Main dua kali pada pukul 12:00, main sekali pada pukul 12:30). Dalam versi gratis Anda dapat memiliki satu notifikasi aktif."</string> <!-- TODO validate "Use many notifications with different settings at the same time (e.g. play twice at 12:00, play once at 12:30). In free version you can have one active notification." -->
+    <string name="feature_unlimited_silent_time_title">"Konfigurasi waktu hening yang tidak terbatas adalah fitur Premium"</string> <!-- TODO validate "Unlimited silent time configurations is a Premium feature" -->
+    <string name="feature_unlimited_silent_time_description">"Dalam versi gratis Anda dapat mengaktifkan 5 konfigurasi waktu hening."</string> <!-- TODO validate "In free version you can activate 5 silent time configurations." -->
+
+    <string name="vibrate_seconds">"Getar %s s"</string> <!-- TODO validate "Vibrate %ss" --> <!-- s at the end is for seconds, %s will be replaced by value e.g. "Vibrate 1.2s" -->
+    <string name="wait_and_vibrate_seconds">"Tunggu %1$s s, getar %2$s s"</string> <!-- TODO validate "Wait %1$ss, vibrate %2$ss" --> <!-- s at the end is for seconds, "%1$s" and "%2$s" will be replaced by value e.g. "Vibrate 1.2s" -->
+
+    <!-- button descriptions -->
+    <string name="add_new_sound">"Tambahkan suara baru dari aplikasi eksternal"</string> <!-- TODO validate "Add new sound from external app" -->
+    <string name="create_new_vibration">"Buat getaran baru"</string> <!-- TODO validate "Create new vibration" -->
+    <string name="create_new_notification">"Buat pemberitahuan baru"</string> <!-- TODO validate "Create new notification" -->
+    <string name="create_new_silent_time">"Buat waktu hening baru"</string> <!-- TODO validate "Create new silent time" -->
+    <string name="additional_info_button">"Informasi tambahan"</string> <!-- TODO validate "Additional information" -->
+    <string name="start_playing">"Mulai bermain"</string> <!-- TODO validate "Start playing" -->
+    <string name="stop_playing">"Berhenti bermain"</string> <!-- TODO validate "Stop playing" -->
+    <string name="edit_mode">"Mode edit"</string> <!-- TODO validate "Edit mode" -->
+
+    <!-- widget -->
+    <string name="app_enabled">"Aplikasi diaktifkan"</string> <!-- TODO validate "App enabled" -->
+    <string name="app_disabled">"Aplikasi dinonaktifkan"</string> <!-- TODO validate "App disabled" -->
+
+    <string name="warning_volume_dnd">"Tidak dapat menampilkan bilah geser volume karena mode Jangan Ganggu diaktifkan"</string> <!-- TODO validate "Cannot show volume slider because Do Not Disturb mode is enabled" -->
+
+    <!-- auto start failed dialog -->
+    <string name="auto_start_fail_title">"Mulai otomatis gagal"</string> <!-- TODO validate "Auto-start failed" -->
+    <string name="auto_start_fail_message">"Mulai otomatis aplikasi gagal. Silakan periksa pengaturan Anda."</string> <!-- TODO validate "Automatic start of the app failed. Please check your settings." -->
+
+    <!-- manual settings dialog -->
+    <string name="manual_settings_title">"Pengaturan manual diperlukan"</string> <!-- TODO validate "Manual settings needed" -->
+    <string name="manual_settings_summary">"Beberapa pengaturan manual mungkin diperlukan agar BlipBlip berfungsi dengan baik."</string> <!-- TODO validate "Some manual settings may be needed for BlipBlip to function properly." -->
+    <string name="manual_settings_tips_subtitle">"Silakan coba tips di bawah ini"</string> <!-- TODO validate "Please try tips below" -->
+    <string name="manual_settings_tip_settings_description">"Buka pengaturan"</string> <!-- TODO validate "Open settings" -->
+    <string name="manual_settings_snackbar">"Harap tinjau pengaturan manual yang mungkin diperlukan agar aplikasi berfungsi dengan baik"</string> <!-- TODO validate "Please review manual settings which may be needed for app to function properly" -->
+    <string name="manual_settings_show">"Menunjukkan"</string> <!-- TODO validate "Show" -->
+    <string name="manual_settings_permanent_notification_description">"Aktifkan pemberitahuan permanen (disarankan)"</string> <!-- TODO validate "Enable permanent notification (recommended)" -->
+    <string name="manual_settings_permanent_notification_info">"Aplikasi akan menampilkan notifikasi yang terlihat secara permanen, yang dapat mencegah aplikasi terbunuh."</string> <!-- TODO validate "App will show permanently visible notification, which may prevent app from being killed." -->
+    <string name="manual_settings_general_tips_button">"Tampilkan kiat umum"</string> <!-- TODO validate "Show general tips" -->
+    <string name="manual_settings_general_tips">"Kiat umum"</string> <!-- TODO validate "General tips" -->
+    <string name="manual_settings_general_tip1">"Nonaktifkan mode hemat daya dalam pengaturan perangkat"</string> <!-- TODO validate "Disable power saving modes in device settings" -->
+    <string name="manual_settings_general_tip2">"Nonaktifkan aplikasi yang mengoptimalkan penggunaan baterai atau memori (mis. Pembunuh tugas)"</string> <!-- TODO validate "Disable apps that optimize battery or memory usage (e.g. task killers)" -->
+    <string name="manual_settings_general_tips_info">"Jika perangkat Anda perlu mengubah opsi lain, beri tahu kami menggunakan opsi \ \"Laporkan masalah \\"."</string> <!-- TODO validate "If your device requires changing other options, please let us know using \"Report problem\" option." -->
+    <string name="manual_settings_suggest_report_problem">"Jika setelah mencoba tips di atas Anda masih akan memiliki masalah dengan aplikasi, silakan laporkan masalahnya."</string> <!-- TODO validate "If after trying above tips you would still have issues with the app, please report the problem." -->
+    <string name="manual_settings_do_not_show_again">"Jangan perlihatkan lagi"</string> <!-- TODO validate "Do not show again" -->
+
+    <!-- Tips -->
+    <string name="tip1">"Tambahkan aplikasi ke Aplikasi yang tidak dipantau."</string> <!-- TODO validate "Add the app to Un-monitored Apps." -->
+    <string name="tip2">"Tambahkan aplikasi ke Aplikasi yang Dilindungi."</string> <!-- TODO validate "Add the app to Protected Apps." -->
+    <string name="tip3">"Kecualikan aplikasi dari pembersihan layar kunci."</string> <!-- TODO validate "Exclude app from lock screen cleanup." -->
+    <string name="tip4">"Nonaktifkan mode Stamina."</string> <!-- TODO validate "Disable Stamina mode." -->
+    <string name="tip5">"Nonaktifkan pembatasan penggunaan baterai."</string> <!-- TODO validate "Disable battery usage restrictions." -->
+    <string name="tip6">"Tambahkan aplikasi ke jalankan otomatis."</string> <!-- TODO validate "Add app to auto-run." -->
+    <string name="tip7">"Nonaktifkan pembersih tugas latar belakang."</string> <!-- TODO validate "Disable background task cleaner." -->
+    <string name="tip8">"Tambahkan aplikasi ke mulai otomatis."</string> <!-- TODO validate "Add app to auto-start." -->
+    <string name="tip9">"Tambahkan aplikasi ke mulai otomatis."</string> <!-- TODO validate "Add app to auto-start." -->
+    <string name="tip10">"Kunci aplikasi pada layar aplikasi terbaru."</string> <!-- TODO validate "Lock the app on recent apps screen." -->
+    <string name="tip11">"Izinkan aplikasi berfungsi dalam Mode Siaga."</string> <!-- TODO validate "Allow the app to work in Standby Mode." -->
+    <string name="tip12">"Tambahkan aplikasi ke peluncuran otomatis."</string> <!-- TODO validate "Add the app to auto-launch." -->
+    <string name="tip14">"Tambahkan aplikasi ke daftar putih perlindungan Latar Belakang."</string> <!-- TODO validate "Add the app to Background protection whitelist." -->
+
+    <!-- Tips detailed instructions -->
+    <string name="tip1_settings">"Pengaturan&gt; Pemeliharaan perangkat&gt; Baterai&gt; Daftar aplikasi yang tidak dipantau"</string> <!-- TODO validate "Settings > Device maintenance > Battery > Unmonitored apps list" -->
+    <string name="tip2_settings">"Pengaturan&gt; Pengaturan Lanjut&gt; Manajer Baterai&gt; Aplikasi yang Dilindungi atau Pengaturan&gt; Privasi dan Keamanan&gt; Aplikasi yang Dilindungi"</string> <!-- TODO validate "Settings > Advanced Settings > Battery Manager > Protected Apps or Settings > Privacy and Security > Protected Apps" -->
+    <string name="tip3_settings">"Manajer Telepon&gt; Pembersihan layar kunci&gt; hapus centang aplikasi (jangan tutup) atau Pengaturan&gt; Baterai&gt; Pembersihan layar kunci&gt; hapus centang aplikasi (jangan tutup)"</string> <!-- TODO validate "Phone Manager > Lock screen cleanup > un-check the app (don't close) or Settings > Battery > Lock screen cleanup > un-check the app (don't close)" -->
+    <string name="tip4_settings">"Pengaturan&gt; Manajemen daya&gt; Mode STAMINA&gt; Aplikasi aktif di layar siaga&gt; Tambah BlipBlip"</string> <!-- TODO validate "Settings > Power management > STAMINA mode > Apps active in standby > Add BlipBlip" -->
+    <string name="tip5_settings">"Pengaturan&gt; Pengaturan Tambahan&gt; Baterai &amp; Kinerja&gt; Kelola Aplikasi Penggunaan Baterai&gt; Pilih Aplikasi&gt; BlipBlip&gt; Tanpa batasan"</string> <!-- TODO validate "Settings > Additional Settings > Battery & Performance > Manage Apps Battery Usage > Choose Apps > BlipBlip > No restrictions" -->
+    <string name="tip6_settings">"Pengaturan&gt; Izin&gt; Manajemen jalankan otomatis"</string> <!-- TODO validate "Settings > Permissions > Auto-run management" -->
+    <string name="tip7_settings">"Pengaturan&gt; Tugas latar belakang jelas&gt; Daftar putih"</string> <!-- TODO validate "Settings > Background task clear > White list" -->
+    <string name="tip8_settings">"Asus Mobile Manager&gt; Manajer Mulai-Otomatis"</string> <!-- TODO validate "Asus Mobile Manager > Auto-start Manager" -->
+    <string name="tip9_settings">"Manajer Telepon&gt; Izin Privasi&gt; Manajer Startup"</string> <!-- TODO validate "Phone Manager > Privacy Permissions > Startup Manager" -->
+    <string name="tip10_settings">"Aplikasi terkini&gt; ketuk BlipBlip dan tarik ke bawah"</string> <!-- TODO validate "Recent apps > tap BlipBlip and pull it down" -->
+    <string name="tip11_settings">"Keamanan&gt; Daya&gt; Manajemen Siaga&gt; Atur BlipBlip untuk dijalankan dalam Mode Siaga"</string> <!-- TODO validate "Security > Power > Standby Management > Set BlipBlip to run in Standby Mode" -->
+    <string name="tip12_settings">"Keamanan&gt; Izin&gt; Aplikasi yang Diluncurkan Otomatis&gt; aktifkan peluncuran otomatis"</string> <!-- TODO validate "Security > Permission > Auto-Launched apps > enable auto-launch" -->
+    <string name="tip13_settings">"Tekan lama lingkaran merah&gt; geser ke bawah BlipBlip"</string> <!-- TODO validate "Long press red circle > swipe down BlipBlip" -->
+    <string name="tip14_settings">"Aplikasi NeoSafe&gt; Daya&gt; ikon pengaturan kanan atas&gt; Daftar putih perlindungan latar belakang&gt; tambahkan BlipBLip"</string> <!-- TODO validate "NeoSafe app > Power > right top settings icon > Background protection whitelist > add BlipBLip" -->
+    <string name="tip15_settings">"Aplikasi NeoSafe&gt; Izin&gt; Power-on speedup&gt; Aktifkan BlipBlip"</string> <!-- TODO validate "NeoSafe app > Permission > Power-on speedup > Enable BlipBlip" -->
+
+    <!-- UI Settings -->
+    <string name="pref_user_interface">"Antarmuka pengguna"</string> <!-- TODO validate "User interface" -->
+    <!-- edit button -->
+    <string name="edit_button_title">"Tombol pengeditan"</string> <!-- TODO validate "Editing button" -->
+    <string name="edit_button_on">"Tampilkan tombol edit"</string> <!-- TODO validate "Show edit button" -->
+    <string name="edit_button_off">"Sembunyikan tombol edit. Untuk masuk ke mode edit gunakan tindakan edit dari menu."</string> <!-- TODO validate "Hide edit button. To enter edit mode use edit action from menu." -->
+    <!-- changelog -->
+    <string name="version_history">"Riwayat versi"</string> <!-- TODO validate "Version history" -->
+    <string name="changelog_title">"Apa yang baru?"</string> <!-- TODO validate "What's new?" -->
+    <string name="show_changelog_title">"Tampilkan changelog"</string> <!-- TODO validate "Show changelog" -->
+    <string name="show_changelog_on">"Tampilkan perubahan terbaru saat startup."</string> <!-- TODO validate "Show recent changes on startup." -->
+    <string name="show_changelog_off">"Jangan tampilkan perubahan terbaru saat startup."</string> <!-- TODO validate "Do not show recent changes on startup." -->
+    <!-- inclusive -->
+    <string name="show_inclusive_title">"Ubah akhir rentang waktu"</string> <!-- TODO validate "Change time range endings" -->
+    <string name="show_inclusive_on">"Ketika menentukan rentang waktu, tunjukkan tombol yang memungkinkan untuk menentukan apakah waktu yang diberikan harus dimasukkan dalam rentang waktu."</string> <!-- TODO validate "When specifying time range show buttons which allow to specify whether given time should be included in time range." -->
+    <string name="show_inclusive_off">"Sembunyikan tombol yang memungkinkan untuk memilih jika waktu harus dimasukkan dalam rentang waktu."</string> <!-- TODO validate "Hide buttons allowing to choose if time should be included in time range." -->
+    <!-- show switches -->
+    <string name="show_actions_switches_title">"Aksi beralih"</string> <!-- TODO validate "Actions switches" --> <!-- option to show enable/disable switches for actions -->
+    <string name="show_actions_switches_on">"Tampilkan sakelar untuk menonaktifkan aksi."</string> <!-- TODO validate "Show switches for disabling actions." -->
+    <string name="show_actions_switches_off">"Sembunyikan sakelar yang menonaktifkan aksi."</string> <!-- TODO validate "Hide switches which disable actions." -->
+    <!-- Show kill dialog -->
+    <string name="show_kill_dialog_title">"Beri tahu jika aplikasi terbunuh"</string> <!-- TODO validate "Notify if app was killed" -->
+    <string name="show_kill_dialog_on">"Tampilkan pesan saat membuka aplikasi jika terdeteksi bahwa aplikasi tersebut terbunuh."</string> <!-- TODO validate "Display message when opening the app if it was detected that the app was killed." -->
+    <string name="show_kill_dialog_off">"Jangan tampilkan pesan ketika terdeteksi bahwa aplikasi terbunuh."</string> <!-- TODO validate "Do not display message when it was detected that the app was killed." -->
+
+    <!-- examples -->
+    <string name="double_sound_every_hour">"Suara ganda setiap jam"</string> <!-- TODO validate "Double sound every hour" -->
+    <string name="single_sound_half_past">"Suara setengah lewat setiap jam"</string> <!-- TODO validate "Sound half past every hour" -->
+    <string name="speak_time_every_hour">"Bicaralah waktu saat ini setiap jam"</string> <!-- TODO validate "Speak current time every hour" -->
+
+    <!-- ads -->
+    <string name="remove_ads">"Hilangkan iklan"</string> <!-- TODO validate "Remove ads" -->
+    <string name="channel_name_watch_ads">"Tonton iklan"</string> <!-- TODO validate "Watch ads" -->
+    <string name="channel_name_premium_end_description">"Anda akan diberitahu ketika Anda perlu menonton iklan untuk menikmati semua fitur Premium secara gratis"</string> <!-- TODO validate "You will get notified when you need to watch an ad to enjoy all Premium features for free" -->
+
+    <string name="watch_ads">"Tonton iklan"</string> <!-- TODO validate "Watch ads" -->
+    <string name="watch_video">"Tonton iklan video"</string> <!-- TODO validate "Watch video ad" -->
+    <string name="subscribe_without_ads">"Berlangganan tanpa iklan"</string> <!-- TODO validate "Subscribe without ads" -->
+    <string name="start_free_trial">"Mulai uji coba gratis"</string> <!-- TODO validate "Start a free trial" -->
+    <string name="tooltip_accept_privacy_policy">"Silakan centang kotak."</string> <!-- TODO validate "Please check the box." -->
+    <string name="welcome_to_blipBlip">"Selamat datang di BlipBlip!"</string> <!-- TODO validate "Welcome to BlipBlip!" -->
+    <string name="blipblip_free_description_short">"Aplikasi ini gratis dengan imbalan menonton iklan."</string> <!-- TODO validate "This app is free in exchange for watching ads." -->
+    <string name="blipblip_free_description">"Aplikasi ini gratis dengan imbalan menonton iklan. Anda dapat mengakses semua fitur dan suara Blip Blip Premium untuk periode waktu tertentu setelah menonton iklan. Semakin banyak Anda menonton, semakin lama Anda dapat menggunakan aplikasi."</string> <!-- TODO validate "This app is free in exchange for watching ads. You can access all Blip Blip Premium features and sounds for specified time period after watching an ad. The more you watch the longer you can use the app." -->
+    <string name="blipblip_free_description2">"Tidak ada iklan di antarmuka pengguna. Tidak ada iklan yang muncul secara tak terduga. Anda selalu memilih kapan Anda ingin menonton iklan."</string> <!-- TODO validate "There are no ads in user interface. There are no ads popping up unexpectedly. You always choose when you want to watch an ad." -->
+    <string name="watch_ad">"Lihat iklan"</string> <!-- TODO validate "View ad" -->
+    <string name="ad">"Iklan"</string> <!-- TODO validate "Ad" --> <!-- Short label of button for watching ads -->
+    <string name="accept_privacy_policy">"Saya menerima kebijakan privasi."</string> <!-- TODO validate "I accept privacy policy." -->
+    <string name="get_blipblip">"Ingin aplikasi gratis tanpa iklan dan tanpa fitur Premium? Ketuk di sini."</string> <!-- TODO validate "Want free app without ads and without Premium features? Tap here." -->
+    <string name="privacy_policy">"Rahasia pribadi."</string> <!-- TODO validate "Privacy policy." -->
+    <string name="get_time_of_premium">"Dapatkan %1$s Premium"</string> <!-- TODO validate "Get %1$s of Premium" -->
+    <string name="get_time_of_premium_more">"Lihat iklan untuk menggunakan aplikasi untuk waktu tambahan: %s ."</string> <!-- TODO validate "View ad to use the app for additional time: %s." -->
+    <string name="premium_time_left">"Waktu yang tersisa untuk menggunakan aplikasi: %s"</string> <!-- TODO validate "Time left for using the app: %s" -->
+    <string name="app_was_enabled">"Aplikasi telah diaktifkan!"</string> <!-- TODO validate "App has been enabled!" -->
+    <string name="failed_loading_ad">"Gagal memuat iklan. Periksa koneksi internet Anda dan coba lagi."</string> <!-- TODO validate "Failed to load ad. Check your internet connection and try again." -->
+    <string name="continue_with_ads">"Lanjutkan dengan iklan"</string> <!-- TODO validate "Continue with ads" -->
+    <string name="continue_with_relevant_question">"Bisakah kami menggunakan data Anda untuk menyesuaikan iklan untuk Anda?"</string> <!-- TODO validate "Can we use your data to tailor ads for you?" -->
+    <string name="continue_with_relevant_ads">"Ya, lanjutkan dengan iklan yang relevan"</string> <!-- TODO validate "Yes, continue with relevant ads" -->
+    <string name="continue_with_less_relevant_ads">"Tidak, lanjutkan dengan iklan yang kurang relevan"</string> <!-- TODO validate "No, continue with less relevant ads" -->
+    <string name="watch_ads_to_get_next_notification">"Lihat iklan untuk mendapatkan pemberitahuan selanjutnya"</string> <!-- TODO validate "View ads to get next notification" -->
+    <string name="watch_ad_to_enable_app">"Lihat iklan untuk mengaktifkan aplikasi"</string> <!-- TODO validate "View ad to enable app" -->
+    <string name="popup_watch_more_ads_to_get_notification">"Tonton lebih banyak iklan untuk mendapatkan notifikasi ini"</string> <!-- TODO validate "Watch more ads to get this notification" -->
+
+    <!-- ads notifications -->
+    <string name="notif_premium_ended">"Aplikasi dinonaktifkan"</string> <!-- TODO validate "Application disabled" -->
+    <string name="notif_premium_ended_description">"Tonton iklan untuk mengaktifkannya lagi."</string> <!-- TODO validate "Watch ad to enable it again." -->
+    <string name="notif_stop_warn">"Notifikasi selanjutnya tidak akan diputar"</string> <!-- TODO validate "Next notification won't be played" -->
+    <string name="notif_stop_warn_description">"Tonton iklan untuk memperpanjang waktu penggunaan aplikasi"</string> <!-- TODO validate "Watch ad to extend time for using the app" -->
+
+    <!-- ads settings -->
+    <string name="ads_notifications">"Perlu melihat iklan"</string> <!-- TODO validate "Need of viewing ads" -->
+    <string name="ads_notifications_on">"Anda akan mendapatkan pemberitahuan tentang perlunya melihat iklan"</string> <!-- TODO validate "You will get notifications about the need of viewing ads" -->
+    <string name="ads_notifications_off">"Anda tidak akan mendapatkan pemberitahuan tentang perlunya melihat iklan"</string> <!-- TODO validate "You won't get any notifications about the need of viewing ads" -->
+    <string name="ads_warn_app_disabled">"Penonaktifan aplikasi"</string> <!-- TODO validate "Application disabling" -->
+    <string name="ads_warn_app_disabled_on">"Beri tahu saat aplikasi dinonaktifkan karena tidak cukup banyak iklan ditonton"</string> <!-- TODO validate "Notify when app is disabled because not enough ads were watched" -->
+    <string name="ads_warn_app_disabled_off">"Jangan beri tahu kapan aplikasi akan dinonaktifkan karena tidak cukup banyak iklan yang ditonton"</string> <!-- TODO validate "Do not notify when app will be disabled because not enough ads were watched" -->
+    <string name="ads_warn_next_notification">"Pemberitahuan selanjutnya"</string> <!-- TODO validate "Next notification" -->
+    <string name="ads_warn_next_notification_on">"Beri tahu kapan pemberitahuan berikutnya tidak akan diputar karena tidak cukup banyak iklan yang ditonton"</string> <!-- TODO validate "Notify when next notification won't be played because not enough ads were watched" -->
+    <string name="ads_warn_next_notification_off">"Jangan beri tahu kapan pemberitahuan berikutnya tidak akan diputar karena tidak cukup banyak iklan yang ditonton"</string> <!-- TODO validate "Do not notify when next notification won't be played because not enough ads were watched" -->
+
+    <!-- Privacy settings -->
+    <string name="privacy">"Pribadi"</string> <!-- TODO validate "Privacy" -->
+    <string name="ads">"Iklan"</string> <!-- TODO validate "Ads" -->
+    <string name="pref_personalized_ads">"Iklan hasil personalisasi"</string> <!-- TODO validate "Personalized ads" -->
+    <string name="pref_personalized_ads_on">"Iklan akan dipersonalisasi."</string> <!-- TODO validate "Ads will be personalized." -->
+    <string name="pref_personalized_ads_off">"Data Anda tidak akan digunakan untuk mempersonalisasi iklan."</string> <!-- TODO validate "Your data will not be used to personalize ads." -->
+    <string name="pref_analytics">"Analisis"</string> <!-- TODO validate "Analytics" -->
+    <string name="pref_collect_analytics">"Kumpulkan data anonim"</string> <!-- TODO validate "Collect anonymous data" -->
+    <string name="pref_collect_analytics_on">"Kumpulkan data anonim, agregat untuk membantu meningkatkan aplikasi."</string> <!-- TODO validate "Collect anonymous, aggregated data to help improve the app." -->
+    <string name="pref_collect_analytics_off">"Jangan kumpulkan data apa pun."</string> <!-- TODO validate "Do not collect any data." -->
+    <string name="pref_analytics_anonymize_ip">"Anonimkan lokasi"</string> <!-- TODO validate "Anonymize location" -->
+    <string name="pref_analytics_anonymize_ip_on">"Anonimkan alamat IP yang dikirim untuk menentukan lokasi pengguna."</string> <!-- TODO validate "Anonymize IP address sent to determine user location." -->
+    <string name="pref_analytics_anonymize_ip_off">"Gunakan alamat IP lengkap hanya untuk menentukan lokasi umum pengguna (negara, kota)."</string> <!-- TODO validate "Use full IP address only for detemining user's general location (country, city)." -->
+
+    <!-- install BlipBlip free -->
+    <string name="dialog_free_premium_title">"Ingin Premium gratis?"</string> <!-- TODO validate "Want Premium free?" -->
+    <string name="dialog_free_premium_description">"Tonton iklan dengan imbalan fitur Premium %1$s aplikasi %1$s ."</string> <!-- TODO validate "Watch ads in exchange for Premium features in %1$s app." -->
+    <string name="open_app">"Buka aplikasi"</string> <!-- TODO validate "Open app" -->
+    <string name="install_app">"Instal aplikasi"</string> <!-- TODO validate "Install app" -->
+    <string name="maybe_later">"Mungkin nanti"</string> <!-- TODO validate "Maybe later" -->
+
+    <!-- tooltips -->
+    <string name="tooltip_play_next_button">"Putar pemberitahuan berikutnya"</string> <!-- TODO validate "Playback next notification" -->
+    <string name="tooltip_upcoming_notifications">"Lihat dan putar pemberitahuan yang akan datang"</string> <!-- TODO validate "See and playback upcoming notifications" -->
+    <string name="tooltip_upcoming_notification">"Tekan waktu untuk memutar notifikasi yang akan datang"</string> <!-- TODO validate "Press time to playback upcoming notifications" -->
+
+</resources>

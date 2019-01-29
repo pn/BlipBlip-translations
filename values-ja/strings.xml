@@ -1,0 +1,829 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Buttons -->
+    <string name="change_setting">"変化する"</string> <!-- TODO validate "Change" -->
+    <string name="send">"送る"</string> <!-- TODO validate "Send" -->
+    <string name="send_email_description">"メールを送る…"</string> <!-- TODO validate "Send email…" -->
+    <string name="play_button_description">"設定をテストする"</string> <!-- TODO validate "Test your settings" -->
+
+    <!-- Warnings -->
+    <string name="warning">"警告"</string> <!-- TODO validate "Warning" -->
+    <string name="warning_understood">"とった"</string> <!-- TODO validate "Got it" -->
+    <string name="please_wait">"お待ちください…"</string> <!-- TODO validate "Please wait…" -->
+    <string name="warn_power_saving">"確実な動作を保証するために、すべての省電力モードを無効にしてください。"</string> <!-- TODO validate "To ensure reliable operation please disable all power saving modes." --> <!-- Please make this as short as possible -->
+    <string name="allow_while_idle_title">"低電力モードで許可"</string> <!-- TODO validate "Allow in low power mode" -->
+    <string name="allow_while_idle_off">"電話機が低電力モードに入ると、一部の通知がスキップされることがあります。"</string> <!-- TODO validate "When phone enters low power mode some notifications may be skipped." -->
+    <string name="allow_while_idle_on">"低電力（Doze / Idle）モードで作業することを許可します。 15分以上の頻度で通知が届くとは限りません。設定は電池の使用量に多少影響するかもしれません。"</string> <!-- TODO validate "Allow to work in low power (Doze/Idle) mode. May not always work for notifications more frequent than 15 minutes. Setting may slightly affect battery usage." -->
+    <string name="app_killed_title">"アプリが殺されました"</string> <!-- TODO validate "App was killed" -->
+
+    <!-- Next Notification -->
+    <string name="next_notification_off">"オフ"</string> <!-- TODO validate "Off" -->
+    <string name="upcoming_notifications">"今後の通知"</string> <!-- TODO validate "Upcoming notifications" -->
+    <string name="day_today">"今日"</string> <!-- TODO validate "Today" -->
+    <string name="day_tomorrow">"明日"</string> <!-- TODO validate "Tomorrow" -->
+    <string name="day_monday">"月曜"</string> <!-- TODO validate "Monday" -->
+    <string name="day_tuesday">"火曜日"</string> <!-- TODO validate "Tuesday" -->
+    <string name="day_wednesday">"水曜日"</string> <!-- TODO validate "Wednesday" -->
+    <string name="day_thursday">"木曜日"</string> <!-- TODO validate "Thursday" -->
+    <string name="day_friday">"金曜日"</string> <!-- TODO validate "Friday" -->
+    <string name="day_saturday">"土曜日"</string> <!-- TODO validate "Saturday" -->
+    <string name="day_sunday">"日曜日"</string> <!-- TODO validate "Sunday" -->
+    <string name="preview_upcoming_notifications">"今後の通知をプレビューする"</string> <!-- TODO validate "Preview upcoming notifications" -->
+    <string name="disable_premium_notifications">"プレミアム通知を無効にする"</string> <!-- TODO validate "Disable Premium notifications" -->
+
+    <!-- Sound -->
+    <string name="sound_text">"音"</string> <!-- TODO validate "Sound" -->
+    <string name="sound_blipblip">"BlipBlip"</string> <!-- TODO validate "BlipBlip" -->
+    <string name="sound_casio_watch">"カシオウォッチ"</string> <!-- TODO validate "Casio watch" -->
+    <string name="sound_casio_watch_single">"カシオウォッチ（シングル）"</string> <!-- TODO validate "Casio watch (single)" -->
+    <string name="sound_gong">"ゴング"</string> <!-- TODO validate "Gong" -->
+    <string name="sound_ships_bell">"船の鐘"</string> <!-- TODO validate "Ship's bell" -->
+    <string name="sound_double_ships_bell">"二重船の鐘"</string> <!-- TODO validate "Double ship's bell" -->
+    <string name="sound_cuckoo">"カッコウ"</string> <!-- TODO validate "Cuckoo" -->
+    <string name="sound_watch_beep">"ビープ音を見る"</string> <!-- TODO validate "Watch beep" -->
+    <string name="sound_big_ben">"ビッグベン"</string> <!-- TODO validate "Big Ben" -->
+    <string name="sound_big_ben_strikes">"ビッグベンストライク"</string> <!-- TODO validate "Big Ben Strikes" -->
+    <string name="sound_bubble">"バブル"</string> <!-- TODO validate "Bubble" -->
+    <string name="sound_bird">"鳥%1$s"</string> <!-- TODO validate "Bird %1$s" -->
+    <string name="sound_cartoon">"漫画%1$s"</string> <!-- TODO validate "Cartoon %1$s" -->
+    <string name="sound_cat">"猫%1$s"</string> <!-- TODO validate "Cat %1$s" -->
+    <string name="sound_dog">"犬%1$s"</string> <!-- TODO validate "Dog %1$s" -->
+    <string name="sound_rooster">"おんどり"</string> <!-- TODO validate "Rooster" -->
+    <string name="sound_guitar_strum">"ギターストラム%1$s"</string> <!-- TODO validate "Guitar strum %1$s" -->
+    <string name="sound_water_drop">"水滴%1$s"</string> <!-- TODO validate "Water drop %1$s" -->
+    <string name="sound_water_pouring">"注水%1$s"</string> <!-- TODO validate "Water pouring %1$s" -->
+    <string name="sound_sonar_ping">"ソナーping %1$s"</string> <!-- TODO validate "Sonar ping %1$s" -->
+    <string name="sound_inception">"インセプション%1$s"</string> <!-- TODO validate "Inception %1$s" -->
+    <string name="sound_the_pips">"ピップス"</string> <!-- TODO validate "The pips" -->
+    <string name="sound_short_pip">"ショートピップ"</string> <!-- TODO validate "Short pip" -->
+    <string name="sound_long_pip">"ロングピップ"</string> <!-- TODO validate "Long pip" -->
+    <string name="sound_crystal_glass">"クリスタルガラス"</string> <!-- TODO validate "Crystal glass" -->
+    <string name="sound_ping">"ping"</string> <!-- TODO validate "Ping" -->
+    <string name="sound_gong_num">"ゴング%1$s"</string> <!-- TODO validate "Gong %1$s" -->
+    <string name="sound_boxing_bell">"ボクシングベル"</string> <!-- TODO validate "Boxing bell" -->
+    <string name="sound_singing_bowl">"歌ボウル%1$s"</string> <!-- TODO validate "Singing bowl %1$s" -->
+    <string name="sound_ekg">"心臓モニター%1$s"</string> <!-- TODO validate "Heart monitor %1$s" -->
+    <string name="sound_got_item">"アイテムを手に入れた"</string> <!-- TODO validate "Got item" -->
+    <string name="sound_guitar">"ギター"</string> <!-- TODO validate "Guitar" -->
+
+    <!-- Volume -->
+    <string name="text_seek_volume">"音量"</string> <!-- TODO validate "Sound volume" -->
+
+    <!-- Vibration -->
+    <string name="vibrate">"振動"</string> <!-- TODO validate "Vibration" -->
+    <string name="vibration_blipblip">"BlipBlipの場合"</string> <!-- TODO validate "For BlipBlip" -->
+    <string name="vibration_casio_watch">"カシオウォッチ用"</string> <!-- TODO validate "For Casio watch" -->
+    <string name="vibration_single_short">"シングルショート"</string> <!-- TODO validate "Single short" -->
+    <string name="vibration_double_short">"ダブルショート"</string> <!-- TODO validate "Double short" -->
+    <string name="vibration_single_long">"シングルロング"</string> <!-- TODO validate "Single long" -->
+    <string name="vibration_double_long">"ダブルロング"</string> <!-- TODO validate "Double long" -->
+
+    <!-- Silent Mode -->
+    <string name="pref_silent_mode">"サイレントモード"</string> <!-- TODO validate "Silent Mode" -->
+    <string name="title_silent_mode_settings">"サイレントモード設定"</string> <!-- TODO validate "Silent Mode Settings" -->
+    <string name="sound_in_silent_mode_title">"サイレントモードで鳴らす"</string> <!-- TODO validate "Sound in Silent mode" -->
+    <string name="sound_in_silent_mode_on">"サイレントモードでサウンドの再生を許可する"</string> <!-- TODO validate "Allow playing sound in Silent mode" -->
+    <string name="sound_in_silent_mode_off">"サイレントモードで音声を無効にする"</string> <!-- TODO validate "Disable sound in Silent mode" -->
+    <string name="vibrate_in_silent_mode_title">"サイレントモードで振動する"</string> <!-- TODO validate "Vibrate in Silent mode" -->
+    <string name="vibrate_in_silent_mode_on">"サイレントモードで振動を許可する"</string> <!-- TODO validate "Allow vibration in Silent mode" -->
+    <string name="vibrate_in_silent_mode_off">"サイレントモードで振動を無効にする"</string> <!-- TODO validate "Disable vibration in Silent mode" -->
+    <string name="force_screen_in_silent_mode_title">"画面を強制的に有効にする"</string> <!-- TODO validate "Force enable screen" -->
+    <string name="force_screen_in_silent_mode_on">"「通知時に画面をライトアップ」オプションが無効になっている場合でも、画面をサイレントモードでライトアップする"</string> <!-- TODO validate "Light up screen in Silent mode even if \"Light up screen on notification\" option is disabled" -->
+    <string name="force_screen_in_silent_mode_off">"無効"</string> <!-- TODO validate "Disabled" -->
+    <string name="warn_sound_disabled_silent_mode">"お使いのデバイスがサイレントモードになっているため、BlipBlip通知音が無効になりました。"</string> <!-- TODO validate "BlipBlip notification sound disabled, because your device is in silent mode." -->
+
+    <!-- Vibration Mode -->
+    <string name="pref_vibrate_mode">"振動モード"</string> <!-- TODO validate "Vibrate Mode" -->
+    <string name="title_vibrate_mode_settings">"振動モード設定"</string> <!-- TODO validate "Vibrate Mode Settings" -->
+    <string name="sound_in_vibrate_mode_title">"バイブレーションモードで鳴らす"</string> <!-- TODO validate "Sound in Vibrate mode" -->
+    <string name="sound_in_vibrate_mode_on">"バイブレーションモードでサウンドの再生を許可する"</string> <!-- TODO validate "Allow playing sound in Vibrate mode" -->
+    <string name="sound_in_vibrate_mode_off">"バイブレーションモードでサウンドを無効にする"</string> <!-- TODO validate "Disable sound in Vibrate mode" -->
+    <string name="vibrate_in_vibrate_mode_title">"振動モードで振動する"</string> <!-- TODO validate "Vibrate in Vibrate mode" -->
+    <string name="vibrate_in_vibrate_mode_on">"振動モードで振動させる"</string> <!-- TODO validate "Allow vibration in Vibrate mode" -->
+    <string name="vibrate_in_vibrate_mode_off">"振動モードで振動を無効にする"</string> <!-- TODO validate "Disable vibration in Vibrate mode" -->
+    <string name="force_vibrate_in_vibrate_mode_title">"振動させる"</string> <!-- TODO validate "Force vibrate" -->
+    <string name="force_vibrate_in_vibrate_mode_on">"振動が無効になっている場合でも振動モードで振動を強制する"</string> <!-- TODO validate "Force vibration in Vibrate mode even if vibration is disabled" -->
+    <string name="force_vibrate_in_vibrate_mode_off">"無効"</string> <!-- TODO validate "Disabled" -->
+    <string name="force_screen_in_vibrate_mode_title">"画面を強制的に有効にする"</string> <!-- TODO validate "Force enable screen" -->
+    <string name="force_screen_in_vibrate_mode_on">"「通知時に画面をライトアップ」オプションが無効になっている場合でも、画面をバイブレーションモードでライトアップする"</string> <!-- TODO validate "Light up screen in Vibrate mode even if \"Light up screen on notification\" option is disabled" -->
+    <string name="force_screen_in_vibrate_mode_off">"無効"</string> <!-- TODO validate "Disabled" -->
+    <string name="warn_sound_disabled_vibrate_mode">"お使いのデバイスがバイブレーションモードになっているため、BlipBlip通知音が無効になりました。"</string> <!-- TODO validate "BlipBlip notification sound disabled, because your device is in vibrate mode." -->
+
+    <!-- Status Bar -->
+    <string name="service_disabled_warning">"BlipBlipは無効です"</string> <!-- TODO validate "BlipBlip is disabled" -->
+    <string name="service_enable">"有効にする"</string> <!-- TODO validate "Enable" -->
+
+    <!-- Menu - Settings -->
+    <string name="action_settings">"設定"</string> <!-- TODO validate "Settings" -->
+
+    <!-- Language -->
+    <string name="app_language">"言語"</string> <!-- TODO validate "Language" -->
+    <string name="system_default_language">"システムのデフォルト"</string> <!-- TODO validate "System default" -->
+    <string name="language_improve_translations">"翻訳を追加または改善する"</string> <!-- TODO validate "Add or improve translations" -->
+
+    <!-- Quiet Hours -->
+    <string name="quiet_hours_title">"沈黙の時間"</string> <!-- TODO validate "Silent time" -->
+
+    <!-- Quiet Days -->
+    <string name="quiet_days_title">"静かな日々"</string> <!-- TODO validate "Silent days" -->
+    <string name="days_none">"無し"</string> <!-- TODO validate "None" -->
+    <string name="days_everyday">"毎日"</string> <!-- TODO validate "Everyday" -->
+    <string name="quiet_day_warning">"今日は「黙った日」なので、通知は無効になりました。"</string> <!-- TODO validate "Notification disabled, because today is \"silent day\"." -->
+    <string name="toast_change_quiet_days">"BlipBlipが今日動作するように \"Silent days\"設定を変更してください。"</string> <!-- TODO validate "Please change \"Silent days\" setting to make BlipBlip work today." -->
+
+    <!-- While Music -->
+    <string name="while_music">"音楽の再生中は無効にする"</string> <!-- TODO validate "Disable while music plays" -->
+    <string name="while_music_on">"すべての通知が無効になりました"</string> <!-- TODO validate "All notifications disabled" -->
+    <string name="while_music_off">"通知が有効になりました"</string> <!-- TODO validate "Notifications enabled" -->
+    <string name="while_music_toast">"BlipBlip通知が無効になりました。音楽を聴いているからです。"</string> <!-- TODO validate "BlipBlip notifications are now disabled, because you are listening to music." -->
+    <!-- While phone call -->
+    <string name="while_phonecall">"通話中に無効にする"</string> <!-- TODO validate "Disable during phone call" -->
+    <string name="while_phonecall_on">"すべての通知が無効になりました"</string> <!-- TODO validate "All notifications disabled" -->
+    <string name="while_phonecall_off">"通知が有効になりました"</string> <!-- TODO validate "Notifications enabled" -->
+    <string name="while_phonecall_toast">"BlipBlip通知は、通話中なので無効になりました。"</string> <!-- TODO validate "BlipBlip notifications are now disabled, because you are in a phone call." -->
+
+
+
+    <!-- ADVANCED SETTINGS -->
+    <string name="pref_advanced">"高度な設定"</string> <!-- TODO validate "Advanced settings" -->
+    <string name="title_advanced_settings">"高度な設定"</string> <!-- TODO validate "Advanced settings" -->
+
+    <!-- Audio Stream -->
+    <string name="pref_choose_audio_stream">"オーディオストリーム"</string> <!-- TODO validate "Audio stream" -->
+    <string name="audio_stream_phone_ring">"電話の呼び出し音"</string> <!-- TODO validate "Phone ring" -->
+    <string name="audio_stream_alarm">"警報"</string> <!-- TODO validate "Alarm" -->
+    <string name="audio_stream_alarm2">"目覚まし時計"</string> <!-- TODO validate "Alarm clock" -->
+    <string name="audio_stream_media">"メディア"</string> <!-- TODO validate "Media" -->
+    <string name="audio_stream_media2">"音楽、ビデオ、ゲーム"</string> <!-- TODO validate "Music, Videos, Games" -->
+    <string name="audio_stream_notification">"お知らせ"</string> <!-- TODO validate "Notification" -->
+
+    <!-- Notifications -->
+    <string name="pref_notification_settings">"通知設定"</string> <!-- TODO validate "Notification settings" -->
+    <string name="pref_notification_status_title">"通知を表示"</string> <!-- TODO validate "Display notification" -->
+
+    <!-- Show Notification Always -->
+    <string name="pref_notification_always">"常に表示"</string> <!-- TODO validate "Always display" -->
+    <string name="pref_notification_always_on">"有効かどうかに関係なく通知を表示する"</string> <!-- TODO validate "Display notification regardless if it is enabled" -->
+    <string name="pref_notification_always_off">"有効になっている場合にのみ通知を表示する"</string> <!-- TODO validate "Display notification only if it is enabled" -->
+    <string name="notification_settings_updated">"通知設定が更新されました"</string> <!-- TODO validate "Notification settings updated" --> <!-- message displayed when one of notification settings is updated without user interacting with these options -->
+    <string name="permanent_notification">"恒久通知"</string> <!-- TODO validate "Permanent notification" -->
+
+    <!-- Notification Priority -->
+    <string name="pref_notification_priority">"通知優先度"</string> <!-- TODO validate "Notification priority" -->
+    <string name="item_priority_minimum">"最小"</string> <!-- TODO validate "Minimum" -->
+    <string name="item_priority_low">"低い"</string> <!-- TODO validate "Low" -->
+    <string name="item_priority_normal">"普通"</string> <!-- TODO validate "Normal" -->
+    <string name="item_priority_high">"高い"</string> <!-- TODO validate "High" -->
+    <string name="item_priority_maximum">"最大"</string> <!-- TODO validate "Maximum" -->
+
+    <!-- Dismissible Notification -->
+
+    <!-- Auto dismiss -->
+    <string name="auto_dismiss_notification_title">"自動却下通知"</string> <!-- TODO validate "Auto dismiss notification" -->
+    <string name="auto_dismiss_notification_on">"しばらくしてから通知を自動的に消します。"</string> <!-- TODO validate "Dismiss notification automatically after some time." -->
+    <string name="auto_dismiss_notification_off">"通知は自動的に却下されません。"</string> <!-- TODO validate "Notification will not be dismissed automatically." -->
+
+    <!-- Vibrate on Wear -->
+    <string name="pref_vibrate_wearable_title">"接続機器を振動させる"</string> <!-- TODO validate "Vibrate on connected device" -->
+    <string name="pref_vibrate_wearable_on2">"振動が有効になっている場合は、接続されているウェアラブルデバイス（スマートウォッチなど）でも振動します。システム通知アクションを追加する必要があります。"</string> <!-- TODO validate "If vibration is enabled vibrate also on connected wearable device (e.g. smart watch). Requires adding System notification action." -->
+    <string name="pref_vibrate_wearable_off">"接続されたウェアラブル機器で振動しない"</string> <!-- TODO validate "Do not vibrate on connected wearable device" -->
+
+    <!-- Action Buttons -->
+    <string name="pref_notification_action_buttons">"アクションボタン"</string> <!-- TODO validate "Action buttons" --> <!-- Preference name for choosing which buttons are visible on notification -->
+    <string name="notif_action_stop">"やめる"</string> <!-- TODO validate "Stop" --> <!-- Description of action button. This should refer to notif_action_stop -->
+    <string name="notif_action_disable_or_enable">"有効/無効"</string> <!-- TODO validate "Enable/Disable" --> <!-- Description of action button. This refers to notif_action_enable and notif_action -->
+    <string name="notif_button_play">"遊びます"</string> <!-- TODO validate "Play" --> <!-- Action button label in notification having same action as play button in the app - plays the notificaton for testing purposes. This text should be short, because it will be shown on notification button where there can be 3 of them -->
+    <string name="notif_button_stop">"やめる"</string> <!-- TODO validate "Stop" --> <!-- Stops playback of notification. Should be short. -->
+    <string name="notif_button_enable">"有効にする"</string> <!-- TODO validate "Enable" --> <!-- This text should be short, because it will be shown on notification button where there can be 3 of them. -->
+    <string name="notif_button_disable">"無効にする"</string> <!-- TODO validate "Disable" --> <!-- This text should be short, because it will be shown on notification button where there can be 3 of them. -->
+
+    <!-- Custom Texts -->
+    <string name="pref_custom_texts">"カスタム通知テキスト"</string> <!-- TODO validate "Custom notification texts" -->
+    <string name="pref_notification_title_title">"通知のタイトル"</string> <!-- TODO validate "Notification title" -->
+    <string name="pref_notification_description_title">"通知の説明"</string> <!-- TODO validate "Notification description" -->
+
+    <!-- Reliability -->
+    <string name="pref_reliability">"信頼性設定"</string> <!-- TODO validate "Reliability settings" --> <!-- title of settings section meant for all settings which may improve running of the app without issues -->
+    <string name="reliability_warning">"これらの設定を変更すると、アプリの信頼性に影響を及ぼす可能性があります。"</string> <!-- TODO validate "Changing these settings may impact reliability of the app." --> <!-- This message should be as short as possible. There is risk of cutting it off if it will be too long -->
+
+    <!-- Alarm Mode -->
+    <string name="notif_as_alarm_title">"警報モード"</string> <!-- TODO validate "Alarm mode" -->
+    <string name="notif_as_alarm_off">"定期通知"</string> <!-- TODO validate "Regular notifications" -->
+    <string name="notif_as_alarm_on">"通知はアラームとして機能します - 一部のSamsung製デバイスでの3〜5分の通知遅延を修正します"</string> <!-- TODO validate "Notifications act as alarms – fixes 3–5 minute notification delays on some Samsung devices" -->
+    <string name="late_notif_title">"警報モード有効"</string> <!-- TODO validate "Alarm mode enabled" -->
+    <string name="late_notif_message">"一部のSamsung製デバイスでは、通知が数分遅れることが検出されました。これを防ぐために、「アラームモード」オプションが有効になっています。これでこの問題は解決するはずです。 [詳細設定]でこのオプションを無効にし、このオプションを自動的に有効にすることができます。問題を解決するためのより良い解決策が見つかると、アプリは更新されます。それ以上問題がある場合は、電子メールで報告してください。"</string> <!-- TODO validate "It has been detected that notification was delayed by several minutes which happens on some Samsung devices. To prevent this, an \"Alarm mode\" option has been enabled, which should fix this issue. You can disable this option and automatic enabling of this option in the Advanced Settings. If there will be better solution found to fix the issue the app will be updated. If you have any more problems please report them via email." -->
+
+    <!-- Auto Alarm -->
+    <string name="auto_notif_as_alarm_title">"アラームモードを自動有効にする"</string> <!-- TODO validate "Auto enable Alarm Mode" -->
+    <string name="auto_notif_as_alarm_on">"通知遅延が検出された場合にアラームモードを有効にする"</string> <!-- TODO validate "Enable Alarm mode if notification delay detected" -->
+    <string name="auto_notif_as_alarm_off">"アラームモードを自動的に有効にしない"</string> <!-- TODO validate "Do not enable Alarm mode automatically" -->
+
+    <!-- Low Valume -->
+    <string name="pref_low_volume_fix">"少量修正"</string> <!-- TODO validate "Low volume fix" -->
+    <string name="pref_low_volume_fix_on">"一部のモトローラ製デバイスで音量を上げる機能を使用して、小音量を修正しました。サウンドの再生が数秒遅れることがあります。"</string> <!-- TODO validate "Fixes low volume on some Motorola devices with rising volume feature. May delay sound playback by few seconds." -->
+    <string name="pref_low_volume_fix_off">"無効ほとんどのデバイスには必要ありません。"</string> <!-- TODO validate "Disabled. Not needed for most devices." -->
+
+    <!-- Foreground Service -->
+    <string name="pref_foreground_service_title">"フォアグラウンドサービス"</string> <!-- TODO validate "Foreground service" -->
+    <string name="pref_foreground_service_on">"却下できない通知を表示し、アプリの強制終了を防ぐ可能性があるバックグラウンドサービスを有効にします。"</string> <!-- TODO validate "Displays non-dismissible notification and enables background service which might prevent killing of the app." -->
+    <string name="pref_foreground_service_off">"フォアグラウンドサービスは無効になっています。"</string> <!-- TODO validate "Foreground service is disabled." -->
+    <string name="msg_foreground_service_off">"フォアグラウンドサービスは無効"</string> <!-- TODO validate "Foreground service disabled" --> <!-- message displayed when foreground service is disabled without user interacting with this option -->
+
+    <!-- Toast Notifications -->
+    <string name="pref_toast_notifications">"ポップアップ警告"</string> <!-- TODO validate "Pop-up warnings" -->
+    <string name="pref_toast_notifications_on">"ポップアップ警告を表示"</string> <!-- TODO validate "Show pop-up warnings" -->
+    <string name="pref_toast_notifications_off">"ポップアップ警告を非表示にする"</string> <!-- TODO validate "Hide pop-up warnings" -->
+
+    <!-- Logs -->
+    <string name="debug_logs_title">"デバッグログを収集する"</string> <!-- TODO validate "Collect debug logs" -->
+    <string name="debug_logs_off">"ログ書き込み禁止"</string> <!-- TODO validate "Writing log disabled" -->
+    <string name="debug_logs_on">"問題を報告するEメールのログを保存する"</string> <!-- TODO validate "Save logs for Report problem email" -->
+
+    <!-- Beta -->
+    <string name="beta_preference_title">"BlipBlip Beta"</string> <!-- TODO validate "BlipBlip Beta" -->
+    <string name="beta_preference_description">"ベータ版を有効または無効にする"</string> <!-- TODO validate "Enable or disable beta version" -->
+
+    <!-- Experimental Settings -->
+    <string name="pref_experimental">"実験設定"</string> <!-- TODO validate "Experimental settings" -->
+    <string name="experimental_warning">"これらは実験的な設定であり、将来削除される可能性があります。"</string> <!-- TODO validate "These are experimental settings and may be removed in the future." -->
+    <string name="title_experimental_settings">"実験設定"</string> <!-- TODO validate "Experimental settings" -->
+    <string name="huawei_fix">"ファーウェイの修正"</string> <!-- TODO validate "Huawei fix" -->
+
+    <!-- Menu - Share -->
+    <string name="action_share">"アプリを共有する"</string> <!-- TODO validate "Share app" -->
+    <string name="share_chooser_title">"アプリを共有する"</string> <!-- TODO validate "Share the app!" -->
+    <string name="share_title">"BlipBlip毎時チャイムアプリをチェックしてください！"</string> <!-- TODO validate "Check out BlipBlip hourly chime app!" -->
+    <string name="share_text">"BlipBlip毎時チャイムアンドロイドアプリをチェックする"</string> <!-- TODO validate "Check out BlipBlip hourly chime android app" -->
+
+    <!-- Menu - Rate -->
+    <string name="action_rate">"私たちを評価してください"</string> <!-- TODO validate "Rate us" -->
+    <string name="rate_us_title">"私たちを評価してください！"</string> <!-- TODO validate "Rate Us!" -->
+    <string name="rate_us_message">"アプリの審査に時間をかけていただきありがとうございます。"</string> <!-- TODO validate "Thank you for taking time to review the app." -->
+    <string name="rate_us_onetofourstars">"1〜4つ星"</string> <!-- TODO validate "1–4 stars" -->
+    <string name="rate_us_fivestars">"5つ星！"</string> <!-- TODO validate "5 stars!" -->
+    <string name="five_stars_description">"五つ星"</string> <!-- TODO validate "Five stars" -->
+    <string name="five_stars_title">"BlipBlipが好きですか？"</string> <!-- TODO validate "Love BlipBlip?" -->
+    <string name="five_stars_text">"BlipBlipをさらに素晴らしいものにするために5つ星を評価してください。ありがとうございます。"</string> <!-- TODO validate "Rate us 5 stars to help make BlipBlip even more awesome. Thanks!" -->
+
+    <!-- Menu - Error -->
+    <string name="action_send_logs">"問題を報告する"</string> <!-- TODO validate "Report problem" -->
+    <string name="send_logs_describe">"アプリであなたの問題を説明してください（できれば英語で）："</string> <!-- TODO validate "Please describe your problem with the app (preferably in English):" -->
+    <string name="feedback_dialog_bug_found">"バグを発見しました（ログを添付）"</string> <!-- TODO validate "I found a bug (attach logs)" -->
+
+    <!-- Menu - Improvement -->
+    <string name="feedback_improvement_title">"BlipBlipには改善が必要"</string> <!-- TODO validate "BlipBlip needs improvement" -->
+    <string name="feedback_improvement_message">"あなたがアプリに満足するために私たちが改善できるものを教えてください。"</string> <!-- TODO validate "Please tell us what we can improve to make you satisfied with the app." -->
+
+    <!-- Menu - About -->
+    <string name="action_about">"約"</string> <!-- TODO validate "About" -->
+    <string name="about_version">"バージョン："</string> <!-- TODO validate "Version:" -->
+    <string name="about_authors">"著者"</string> <!-- TODO validate "Author" -->
+    <string name="about_coding">"コーディング"</string> <!-- TODO validate "Coding" -->
+    <string name="about_testing">"テスト"</string> <!-- TODO validate "Testing" -->
+    <string name="about_graphics">"グラフィックス"</string> <!-- TODO validate "Graphics" -->
+    <string name="about_translations">"翻訳"</string> <!-- TODO validate "Translations" -->
+    <string name="about_thank_you">"ありがとうございました"</string> <!-- TODO validate "Thank You" -->
+    <string name="about_images">"画像"</string> <!-- TODO validate "Images" -->
+    <string name="about_libraries">"図書館"</string> <!-- TODO validate "Libraries" --> <!-- title of screen showing licenses of programming libraries used by the app -->
+    <string name="about_acknowledgements">"謝辞"</string> <!-- TODO validate "Acknowledgements" --> <!-- name of screen with authors, translators and other people who have helped -->
+    <string name="about_translators_thank_you">"BlipBlipは私達のユーザーによって自発的に翻訳されています、そして私達はあなたのサポートと貢献に感謝します。"</string> <!-- TODO validate "BlipBlip is translated by our users voluntarily and hereby we thank you for your support and contribution." -->
+
+    <!-- Visual -->
+    <string name="pref_visual">"ビジュアル設定"</string> <!-- TODO validate "Visual settings" -->
+    <string name="title_visual_settings">"ビジュアル設定"</string> <!-- TODO validate "Visual settings" -->
+
+    <!-- Unsorted -->
+    <string name="warn_notification_skip">"一部の通知はスキップされます。"</string> <!-- TODO validate "Some notifications will be skipped." --> <!-- Please make this as short as possible. This warning is displayed when user chooses to skip few upcoming notifications. -->
+    <string name="warn_volume_zero">"現在の音量はゼロに設定されます。"</string> <!-- TODO validate "Current volume is set to zero." --> <!-- Please make this as short as possible. This warning is displayed when current system volume is set to 0. -->
+    <string name="pref_low_mem_restart_title">"低メモリ再起動"</string> <!-- TODO validate "Low memory restart" -->
+    <string name="pref_low_mem_restart_on">"デバイスのメモリが不足している場合はアプリを再起動してください。これはすべてのデバイスで機能するわけではありません。ほとんどの機器では必要ありません（もう少し電池を使うかもしれません）。"</string> <!-- TODO validate "Try restarting app if device is low on memory. This will not work on all devices. It is not needed on most devices (may use a little bit more battery)." -->
+    <string name="pref_low_mem_restart_off">"デバイスのメモリが不足している場合はアプリを再起動しないでください。"</string> <!-- TODO validate "Do not try restarting app if device is low on memory." -->
+    <string name="pref_heading_notification_accuracy">"通知の正確さ"</string> <!-- TODO validate "Notification accuracy" --> <!-- punctuality -->
+    <string name="pref_delay_prevention_title">"遅れを防ぐ"</string> <!-- TODO validate "Prevent delays" -->
+    <string name="pref_delay_prevention_on">"一部のデバイスで発生する通知遅延を積極的に防止しようとします。もっと電池を使うかもしれません。"</string> <!-- TODO validate "Tries to actively prevent notification delays which happen on some devices. May use more battery." -->
+    <string name="pref_delay_prevention_off">"一部のデバイスで発生する可能性がある通知の遅延を防ごうとしません。より少ないバッテリーを使用します。"</string> <!-- TODO validate "Does not try to prevent notification delays which may occur on some devices. Uses less battery." -->
+    <string name="pref_aggressive_delay_prevention_title">"積極的に遅延を防ぐ"</string> <!-- TODO validate "Prevent delays aggressively" -->
+    <string name="pref_aggressive_delay_prevention_on">"通知はより正確であるべきです。もっと電池を使うかもしれません。"</string> <!-- TODO validate "Notifications should be more often accurate. May use more battery." -->
+    <string name="pref_aggressive_delay_prevention_off">"通知が遅れることがまれにあります。より少ないバッテリーを使用します。"</string> <!-- TODO validate "Notifications may be late in rare cases. Uses less battery." -->
+    <string name="pref_ignore_delayed_title">"遅延通知を無視する"</string> <!-- TODO validate "Ignore delayed notifications" -->
+    <string name="pref_ignore_delayed_on">"通知が遅延していると見なされると、表示または再生されません。"</string> <!-- TODO validate "If notification is considered delayed it won't be shown or played." -->
+    <string name="pref_ignore_delayed_off">"通知は遅れても表示または再生されます。"</string> <!-- TODO validate "Notifications will be shown or played even when they are delayed." -->
+    <string name="pref_audio_focus_title">"バックグラウンドオーディオのミュート"</string> <!-- TODO validate "Muting background audio" --> <!-- option to improve ability to hear app sounds by decreasing volume of other apps or pausing them -->
+    <string name="pref_audio_focus_on">"アプリがサウンドを再生している間、他のアプリからのオーディオは静かになるか一時停止します。"</string> <!-- TODO validate "While app plays sound, audio from other apps will be quieter or paused." -->
+    <string name="pref_audio_focus_off">"他のアプリの音声は通常通り再生されます。"</string> <!-- TODO validate "Audio from other apps will be played normally." -->
+    <string name="pref_audio_focus_dont_duck_title">"再生を一時停止する"</string> <!-- TODO validate "Pause playback" -->
+    <string name="pref_audio_focus_dont_duck_on">"サウンドの再生中に他のアプリがオーディオを一時停止することがあります。"</string> <!-- TODO validate "During sound playback other apps may pause their audio." -->
+    <string name="pref_audio_focus_dont_duck_off">"サウンドの再生中に他のアプリがオーディオの音量を下げることがあります。"</string> <!-- TODO validate "During sound playback other apps may lower volume of their audio." -->
+
+    <!-- Plurals -->
+    <!-- check which quantities and how should be used for given language here http://www.unicode.org/cldr/charts/29/supplemental/language_plural_rules.html -->
+    <!-- Uncomment or add proper "zero", "two", "few" or "many" item if needed for your language -->
+    <plurals name="repeat_every_x_hours"> <!-- "X hours" as in "Repeat every X hours" is different in some languages (e.g. Polish) from regular "X hours" -->
+        <item quantity="one">"%d hour"</item>
+        <item quantity="other">"%d hours"</item>
+    </plurals>
+    <plurals name="repeat_every_x_minutes">
+        <item quantity="one">"%d minute"</item>
+        <item quantity="other">"%d minutes"</item>
+    </plurals>
+    <plurals name="repeat_every_x_seconds">
+        <item quantity="one">"%d second"</item>
+        <item quantity="other">"%d seconds"</item>
+    </plurals>
+    <plurals name="repeat_number_of_times">
+        <item quantity="one">"%d time"</item>
+        <item quantity="other">"%d times"</item>
+    </plurals>
+
+    <string name="pref_reset_accuracy_params">"パラメータをリセット"</string> <!-- TODO validate "Reset parameters" -->
+    <string name="pref_reset_accuracy_params_desc">"通知の正確さを向上させる内部パラメータをリセットします。"</string> <!-- TODO validate "Resets internal parameters which improve notification accuracy." -->
+    <string name="warn_foreground_service_disabled">"フォアグラウンドサービス設定は無効になっています。これにより、バックグラウンドプロセスが強制終了され、アプリが機能しなくなる可能性が高くなります。"</string> <!-- TODO validate "Foreground service setting has been disabled. This may increase chance that background process is killed and app stops working." -->
+
+    <!-- Airplane mode -->
+    <string name="pref_airplane_mode">"機内モード"</string> <!-- TODO validate "Airplane mode" -->
+    <string name="while_airplane_toast">"機内モードのため、BlipBlip通知が無効になりました。"</string> <!-- TODO validate "BlipBlip notifications are now disabled, because you are in airplane mode." -->
+
+    <string name="setting_system_default">"システムのデフォルト"</string> <!-- TODO validate "System default" -->
+    <string name="pref_time_format_title">"時間フォーマット"</string> <!-- TODO validate "Time format" -->
+    <string name="time_format_12h">"12時間時計"</string> <!-- TODO validate "12 hour clock" -->
+    <string name="time_format_24h">"24時間時計"</string> <!-- TODO validate "24 hour clock" -->
+
+    <string name="theme_blipblip">"BlipBlip"</string> <!-- TODO validate "BlipBlip" -->
+    <string name="theme_standard">"標準"</string> <!-- TODO validate "Standard" -->
+    <string name="theme_blue">"青"</string> <!-- TODO validate "Blue" -->
+    <string name="theme_yellow">"黄"</string> <!-- TODO validate "Yellow" -->
+    <string name="theme_purple">"紫の"</string> <!-- TODO validate "Purple" -->
+    <string name="theme_red">"赤"</string> <!-- TODO validate "Red" -->
+    <string name="theme_green">"緑"</string> <!-- TODO validate "Green" -->
+    <string name="theme_blue_gray">"ブルーグレー"</string> <!-- TODO validate "Blue grey" -->
+    <string name="theme_orange">"オレンジ"</string> <!-- TODO validate "Orange" -->
+    <string name="theme_indigo">"インジゴ"</string> <!-- TODO validate "Indigo" -->
+    <string name="theme_cyan">"シアン"</string> <!-- TODO validate "Cyan" -->
+    <string name="theme_teal">"ティール"</string> <!-- TODO validate "Teal" -->
+
+    <string name="pref_color_theme">"テーマ"</string> <!-- TODO validate "Theme" -->
+    <string name="cycle_themes_message">"音量ボタンを使用してテーマを切り替えます。"</string> <!-- TODO validate "Switch themes using volume buttons." -->
+    <string name="cycle_themes_finish">"終了"</string> <!-- TODO validate "Finish" -->
+    <string name="cycle_themes">"サイクルテーマ"</string> <!-- TODO validate "Cycle themes" -->
+    <string name="cycle_themes_description">"音量ボタンを使用してテーマを切り替えることができます。"</string> <!-- TODO validate "Allows switching themes using volume buttons." -->
+    <string name="color_next_notification_bar">"カラー次通知バー"</string> <!-- TODO validate "Color next notification bar" -->
+    <string name="color_next_notification_bar_on">"次の通知バーに背景色を使用します。"</string> <!-- TODO validate "Use color background for next notification bar." -->
+    <string name="color_next_notification_bar_off">"次の通知バーには灰色の背景を使用してください。"</string> <!-- TODO validate "Use gray background for next notification bar." -->
+    <string name="night_mode">"ナイトモード"</string> <!-- TODO validate "Night mode" -->
+    <string name="night_mode_on">"有効"</string> <!-- TODO validate "Enabled" -->
+    <string name="night_mode_off">"無効"</string> <!-- TODO validate "Disabled" -->
+    <string name="night_mode_auto">"自動"</string> <!-- TODO validate "Auto" -->
+    <string name="night_mode_system">"システム設定"</string> <!-- TODO validate "System setting" -->
+
+    <string name="title_activity_sounds">"音"</string> <!-- TODO validate "Sounds" -->
+    <string name="title_activity_sound">"音"</string> <!-- TODO validate "Sound" -->
+    <string name="title_activity_vibrations">"振動"</string> <!-- TODO validate "Vibrations" -->
+    <string name="title_activity_vibration">"振動"</string> <!-- TODO validate "Vibration" -->
+    <string name="action_delete">"削除する"</string> <!-- TODO validate "Delete" -->
+    <string name="action_add_vibration_pattern">"エントリを追加"</string> <!-- TODO validate "Add entry" -->
+    <string name="dialog_title_deletion">"削除を確認"</string> <!-- TODO validate "Confirm deletion" -->
+    <string name="dialog_message_confirm">"本気ですか？"</string> <!-- TODO validate "Are you sure?" -->
+    <string name="vibration_name">"振動名"</string> <!-- TODO validate "Vibration name" -->
+    <string name="action_restore_defaults">"デフォルトに戻す"</string> <!-- TODO validate "Restore defaults" --> <!-- e.g. for sounds or vibrations -->
+    <string name="restore_defaults_message2">"デフォルト値を復元しますか？"</string> <!-- TODO validate "Would you like to restore default values?" -->
+    <string name="add_vibration">"振動を加える"</string> <!-- TODO validate "Add vibration" -->
+    <string name="edit">"編集する"</string> <!-- TODO validate "Edit" --> <!-- Name of action to edit list of sounds or list of vibrations, should be short -->
+    <string name="editing">"編集"</string> <!-- TODO validate "Editing" --> <!-- Displayed in edit mode -->
+    <string name="error_file_open_failed">"ファイルを開けませんでした。"</string> <!-- TODO validate "Failed to open file." -->
+    <string name="error_file_open_no_permission">"ファイルを開く権限がありません。"</string> <!-- TODO validate "No permission to open the file." -->
+    <string name="error_file_open_failed_no_permission_title">"手動で許可を与える"</string> <!-- TODO validate "Grant permission manually" -->
+    <string name="error_file_open_failed_no_permission">"ファイルを開く権限がありません。設定を開き、ストレージへのアクセスを許可してください。"</string> <!-- TODO validate "No permission to open the file. Please open Settings and give permission to access storage." -->
+    <string name="error_file_open_failed_settings">"設定を開く"</string> <!-- TODO validate "Open Settings" -->
+    <string name="play_vibration">"振動する"</string> <!-- TODO validate "Vibrate" --> <!-- description of action of a button to perform vibration -->
+    <string name="play_sound">"音を出す"</string> <!-- TODO validate "Play sound" --> <!-- description of action of a button to play sound -->
+    <string name="drag_handle">"ドラッグハンドル"</string> <!-- TODO validate "Handle for dragging" -->
+    <string name="select_audio_file">"音声ファイルを選択"</string> <!-- TODO validate "Select Audio file" -->
+    <string name="add_sound_to_blipblip">"BlipBlipに追加する"</string> <!-- TODO validate "Add to BlipBlip" -->
+    <string name="permission_denied">"アクセス拒否"</string> <!-- TODO validate "Permission denied" -->
+    <string name="permission_denied_message_no_addon">"BlipBlipにはファイルを読み取る権限がありません。"</string> <!-- TODO validate "BlipBlip does not have permission to read the file." -->
+    <string name="permission_denied_message_no_addon_part2">"追加の許可を必要とせずにファイルを共有する他のアプリ（例：Googleドライブ）を使用してください。"</string> <!-- TODO validate "Please use some other app that shares file without need for additional permission (e.g. Google Drive)." -->
+    <string name="permission_denied_rationale_title">"必要な許可"</string> <!-- TODO validate "Permission needed" -->
+    <string name="permission_denied_rationale">"アプリケーションにファイルの読み取り権限がありません。ファイルにアクセスするための権限をアプリに付与してください。この権限を使う必要のない他のアプリを使ってファイルを共有することもできます。"</string> <!-- TODO validate "Application does not have permission to read the file. Please grant the app permission to access the file. You can also share the file using other app which does not need using this permission." -->
+
+    <!-- Menu drawer strings -->
+
+    <string name="more_actions">"より多くの行動"</string> <!-- TODO validate "More actions" -->
+    <string name="start_time">"始まる時間"</string> <!-- TODO validate "Start time" -->
+    <string name="end_time">"終了時間"</string> <!-- TODO validate "End time" -->
+    <string name="whole_day">"丸一日"</string> <!-- TODO validate "Whole day" -->
+    <string name="enable_screen">"画面を有効にする"</string> <!-- TODO validate "Enable screen" -->
+    <string name="action_rename">"リネーム"</string> <!-- TODO validate "Rename" -->
+    <string name="pref_accessibility">"アクセシビリティ"</string> <!-- TODO validate "Accessibility" -->
+    <string name="pref_swipe">"タッチジェスチャー"</string> <!-- TODO validate "Touch gestures" -->
+    <string name="pref_swipe_on">"リストアイテムでスワイプが有効になりました"</string> <!-- TODO validate "Swiping enabled on list items" -->
+    <string name="pref_swipe_off">"リストアイテムでスワイプが無効"</string> <!-- TODO validate "Swiping disabled on list items" -->
+    <string name="pref_action_menus">"アクションメニュー"</string> <!-- TODO validate "Action menus" -->
+    <string name="pref_action_menus_on">"それ以外の場合はジェスチャが必要となるような操作（たとえば、スワイプ）でメニューを表示します。 TalkBackを使うときに便利です。"</string> <!-- TODO validate "Show menus with actions that would otherwise require gestures (e.g. swiping). Useful when using TalkBack." -->
+    <string name="pref_action_menus_off">"ジェスチャーを使用しても実行できるアクションを含むメニューを非表示にします。"</string> <!-- TODO validate "Hide menus containing actions that can also be performed using gestures." -->
+    <string name="next_notification">"次の通知： %1$s"</string> <!-- TODO validate "Next notification: %1$s" -->
+    <string name="next_tomorrow">"明日の%1$s"</string> <!-- TODO validate "tomorrow at %1$s" --> <!-- e.g. tomorrow at 10:00 -->
+    <string name="next_on_mon">"月曜日の%1$s"</string> <!-- TODO validate "Monday at %1$s" -->
+    <string name="next_on_tue">"火曜日の%1$s"</string> <!-- TODO validate "Tuesday at %1$s" -->
+    <string name="next_on_wed">"水曜日の%1$s"</string> <!-- TODO validate "Wednesday at %1$s" -->
+    <string name="next_on_thu">"木曜日の%1$s"</string> <!-- TODO validate "Thursday at %1$s" -->
+    <string name="next_on_fri">"金曜日の%1$s"</string> <!-- TODO validate "Friday at %1$s" -->
+    <string name="next_on_sat">"土曜日の%1$s"</string> <!-- TODO validate "Saturday at %1$s" -->
+    <string name="next_on_sun">"日曜日の%1$s"</string> <!-- TODO validate "Sunday at %1$s" -->
+    <string name="never">"決して"</string> <!-- TODO validate "never" --> <!-- if notification will never occur-->
+    <string name="show_seconds_title">"秒を表示"</string> <!-- TODO validate "Show seconds" -->
+    <string name="show_seconds_on">"秒を選択すると有効になります。時間を秒で表示します。"</string> <!-- TODO validate "Choosing seconds is enabled. Displays times with seconds." -->
+    <string name="show_seconds_off">"秒の選択は無効になっています。秒なしで時間を表示します。"</string> <!-- TODO validate "Choosing seconds is disabled. Display times without seconds." -->
+    <string name="notification_disabled_warning">"通知は無効です"</string> <!-- TODO validate "Notification is disabled" -->
+    <string name="social_facebook">"フェイスブック"</string> <!-- TODO validate "Facebook" -->
+    <string name="social_twitter">"Twitter"</string> <!-- TODO validate "Twitter" -->
+    <string name="social_google_plus">"Google+"</string> <!-- TODO validate "Google+" -->
+    <string name="social_google_plus_community">"Google+コミュニティ"</string> <!-- TODO validate "Google+ Community" -->
+    <string name="troubleshooting">"トラブルシューティング"</string> <!-- TODO validate "Troubleshooting" -->
+    <string name="premium_features">"プレミアム機能"</string> <!-- TODO validate "Premium features" -->
+    <string name="disable_when_headset">"ヘッドセットを接続すると無効になります"</string> <!-- TODO validate "Disable when headset connected" -->
+    <string name="disable_when_headset_on">"すべての通知が無効になりました"</string> <!-- TODO validate "All notifications disabled" -->
+    <string name="disable_when_headset_off">"すべての通知が有効になりました"</string> <!-- TODO validate "All notifications enabled" -->
+    <string name="disable_when_headset_toast">"ヘッドセットが接続されているため、BlipBlip通知は無効になりました。"</string> <!-- TODO validate "BlipBlip notifications are now disabled, because you have headset connected." -->
+
+    <string name="add">"追加する"</string> <!-- TODO validate "Add" -->
+    <string name="add_item">"アイテムを追加"</string> <!-- TODO validate "Add item" -->
+    <string name="action_add_condition">"条件を追加"</string> <!-- TODO validate "Add condition" -->
+    <string name="dialog_title_days_of_week">"曜日"</string> <!-- TODO validate "Days of Week" -->
+    <string name="dialog_title_date">"日付"</string> <!-- TODO validate "Date" -->
+    <string name="start_date">"開始日"</string> <!-- TODO validate "Start date" -->
+    <string name="end_date">"終了日"</string> <!-- TODO validate "End date" -->
+    <string name="dialog_title_time">"時間"</string> <!-- TODO validate "Time" -->
+    <string name="dialog_title_time_range">"時間範囲"</string> <!-- TODO validate "Time range" -->
+    <string name="dialog_title_repeat">"繰り返す"</string> <!-- TODO validate "Repeat" -->
+    <string name="interval">"間隔"</string> <!-- TODO validate "Interval" -->
+    <string name="no_repeat">"繰り返しない"</string> <!-- TODO validate "No repeat" -->
+    <string name="action_add_action">"アクションを追加"</string> <!-- TODO validate "Add action" -->
+    <string name="favorite_condition_dialog_edit">"編集する"</string> <!-- TODO validate "Edit" -->
+    <string name="favorite_condition_dialog_create">"作成する"</string> <!-- TODO validate "Create" -->
+    <string name="system_notification">"システム通知"</string> <!-- TODO validate "System notification" -->
+    <string name="popup_text">"ポップアップテキスト"</string> <!-- TODO validate "Popup text" -->
+    <string name="no_actions_added">"アクションは追加されていません"</string> <!-- TODO validate "No actions added" -->
+    <string name="section_conditions">"条件"</string> <!-- TODO validate "Conditions" -->
+    <string name="no_valid_condition_added">"正しい条件が定義されていません"</string> <!-- TODO validate "No correct conditions defined" -->
+    <string name="no_upcoming_notifications">"今後の通知はありません"</string> <!-- TODO validate "No upcoming notifications" -->
+    <string name="error_indicator">"エラー表示"</string> <!-- TODO validate "Error indicator" -->
+    <string name="next_notification_app_off">"オフ（アプリ無効）"</string> <!-- TODO validate "Off (app disabled)" -->
+    <string name="next_day">"翌日"</string> <!-- TODO validate "following day" --> <!-- Used in: "22:00 - 6:00 next day" -->
+    <string name="notifications">"通知"</string> <!-- TODO validate "Notifications" -->
+    <string name="warning_no_email_app">"レポートを送信する電子メールアプリケーションが見つかりませんでした。"</string> <!-- TODO validate "No email application found to send the report." -->
+    <string name="weeknights">"平日"</string> <!-- TODO validate "Weeknights" --> <!-- nights from sunday to thursday -->
+    <string name="weekend_nights">"週末の夜"</string> <!-- TODO validate "Weekend nights" --> <!-- nights on friday and saturday -->
+    <string name="weekend">"週末"</string> <!-- TODO validate "Weekend" --> <!-- saturday and sunday -->
+
+    <string name="vibration_silence_millis">"無音時間（ミリ秒）"</string> <!-- TODO validate "Silence duration in milliseconds" -->
+    <string name="vibration_duration_millis">"ミリ秒単位の振動持続時間"</string> <!-- TODO validate "Vibration duration in milliseconds" -->
+
+    <string name="advice_disable_task_killers">"タスクキラーを無効にする"</string> <!-- TODO validate "Disable task killers" -->
+    <string name="advice_disable_task_killers_desc">"タスクキラーを無効にするか、BlipBlipをホワイトリストに追加してアプリを存続させます。"</string> <!-- TODO validate "Task killers should be disabled or BlipBlip should be added in their white lists to keep app alive." -->
+    <string name="advice_enable_foreground_service">"フォアグラウンドサービスを有効にする"</string> <!-- TODO validate "Enable foreground service" -->
+    <string name="advice_enable_foreground_service_desc2">"フォアグラウンドサービスオプションは、可能であればアプリケーションを強制終了しないようにOSに通知します。"</string> <!-- TODO validate "Foreground service option informs OS that application should not be killed if possible." -->
+    <string name="advice_enable_foreground_service_desc2_part2">"システム設定から隠すことができる永続的な通知が表示されます（アプリから隠すとこのオプションが無効になります）。"</string> <!-- TODO validate "It will display persistent notification which can be hidden from system settings (hiding it from the app will disable this option)." -->
+    <string name="advice_enable_foreground_service_desc2_part3">"下のボタンを使用してシステム設定にアクセスできます。"</string> <!-- TODO validate "You can use button below to access system settings." -->
+
+    <string name="sound_in_use">"サウンドは使用中のため削除できません。"</string> <!-- TODO validate "Sound is in use and cannot be deleted." -->
+    <string name="vibration_in_use">"振動は使用中であり、削除することはできません。"</string> <!-- TODO validate "Vibration is in use and cannot be deleted." -->
+    <string name="sound_not_found">"見つかりません"</string> <!-- TODO validate "Not found" --> <!-- for sound -->
+    <string name="vibration_not_found">"見つかりません"</string> <!-- TODO validate "Not found" --> <!-- for vibration -->
+
+    <string name="section_actions">"行動"</string> <!-- TODO validate "Actions" -->
+    <string name="section_notifications">"通知"</string> <!-- TODO validate "Notifications" -->
+    <string name="notification_name">"お知らせ"</string> <!-- TODO validate "Notification" -->
+
+    <string name="play">"遊びます"</string> <!-- TODO validate "Play" -->
+
+    <string name="cannot_perform_operation">"現在この操作は実行できません。後でもう一度やり直してください。"</string> <!-- TODO validate "Cannot perform this operation right now. Please try again later." -->
+
+    <string name="add_to_favorites">"お気に入りに追加"</string> <!-- TODO validate "Add to favorites" -->
+    <string name="open_favorites">"お気に入りを開く"</string> <!-- TODO validate "Open favorites" -->
+
+    <string name="unnamed_sound">"無名の音"</string> <!-- TODO validate "Unnamed sound" -->
+    <string name="unnamed_vibration">"無名の振動"</string> <!-- TODO validate "Unnamed vibration" -->
+
+    <string name="value_deleted">"\ \" %1$s \\"を削除しました"</string> <!-- TODO validate "Deleted \"%1$s\" --> <!-- showed when one of list items is deleted and displays the value of the item -->
+    <string name="action_undo">"元に戻す"</string> <!-- TODO validate "Undo" --> <!-- action name to undo deletion e.g. from a list -->
+    <string name="condition_deleted">"条件が削除されました。"</string> <!-- TODO validate "Condition deleted." -->
+    <string name="notification_deleted">"通知が削除されました。"</string> <!-- TODO validate "Notification deleted." -->
+    <string name="action_deleted">"アクションが削除されました。"</string> <!-- TODO validate "Action deleted." -->
+
+    <string name="inclusive_time">"包括的"</string> <!-- TODO validate "inclusive" --> <!-- used in the time range dialog to determine if edge value should be included -->
+
+    <string name="pref_user_notifications">"ユーザー通知"</string> <!-- TODO validate "User notifications" -->
+    <string name="user_notification">"ユーザー通知"</string> <!-- TODO validate "User notification" -->
+
+    <string name="action_set_as_home_screens">"スタート画面に設定"</string> <!-- TODO validate "Set as start screen" -->
+
+    <string name="pref_battery_saver_mode">"バッテリーセーバーモード"</string> <!-- TODO validate "Battery Saver mode" -->
+    <string name="mode_sound_title">"音を鳴らす"</string> <!-- TODO validate "Allow sound" -->
+    <string name="mode_sound_on">"このモードではサウンドが許可されています"</string> <!-- TODO validate "Sounds are allowed in this mode" -->
+    <string name="mode_sound_off">"このモードでは無効になっているようです"</string> <!-- TODO validate "Sounds disabled in this mode" -->
+    <string name="mode_vibration_title">"振動を許可する"</string> <!-- TODO validate "Allow vibrations" -->
+    <string name="mode_vibration_on">"このモードで許可されている振動"</string> <!-- TODO validate "Vibrations allowed in this mode" -->
+    <string name="mode_vibration_off">"このモードでは許可されていない振動"</string> <!-- TODO validate "Vibrations not allowed in this mode" -->
+    <string name="mode_screen_title">"有効にする画面"</string> <!-- TODO validate "Enabling screen allowed" -->
+    <string name="mode_screen_on">"このモードでは画面を有効にできます"</string> <!-- TODO validate "Screen is allowed to be enabled in this mode" -->
+    <string name="mode_screen_off">"このモードでは画面は有効になりません"</string> <!-- TODO validate "Screen will not be enabled in this mode" -->
+    <string name="battery_saver_preferences_warning">"これらのオプションはすべてのデバイスで機能するわけではありません。"</string> <!-- TODO validate "These options may not work on all devices." -->
+    <string name="mode_sound_toast">"次のモードがアクティブなため、サウンドは無効になっています： %1$s"</string> <!-- TODO validate "Sound is disabled because following mode is active: %1$s" -->
+
+    <string name="pref_accessibility_settings_title">"ユーザー補助サービスを有効にする"</string> <!-- TODO validate "Enable accessibility service" -->
+    <string name="pref_accessibility_settings_summary">"ユーザー補助サービスとしてアプリを有効にできるシステムのユーザー補助設定を開きます"</string> <!-- TODO validate "Opens system Accessibility settings where you can enable app as accessibility service" -->
+    <string name="accessibility_service_description">"このサービスはアプリの動作を維持するのに役立ちます。データにアクセスしたり、コンテンツを変更したりすることはありません。それはアプリを殺すかもしれないメモリマネージャに対する単なる保護です。あなたはアプリで問題が発生していない場合は、それをアクティブにする必要はありません。"</string> <!-- TODO validate "This service helps to keep the app working. It does not access any data or modify any content. It is just protection against memory managers which may kill the app. If you are not experiencing problems with the app you don't need to activate it." -->
+    <string name="accessibility_service_summary">"アプリを存続させるのに役立ちます。データにアクセスしません。"</string> <!-- TODO validate "Helps keep app alive. Does not access any data." -->
+
+    <string name="swipe_right_to_delete">"右にスワイプしてアイテムを削除する"</string> <!-- TODO validate "Swipe right to delete items" -->
+
+    <string name="action_repeat_sound">"繰り返し音"</string> <!-- TODO validate "Repeat sound" -->
+    <string name="action_repeat_vibration">"繰り返し振動"</string> <!-- TODO validate "Repeat vibration" -->
+    <string name="action_repeat_sound_vibration">"音と振動を繰り返す"</string> <!-- TODO validate "Repeat sound and vibration" -->
+    <string name="action_strike_the_hour">"時間を打つ"</string> <!-- TODO validate "Strike the hours" -->
+
+    <string name="pref_do_not_disturb_mode">"邪魔しないでください"</string> <!-- TODO validate "Do Not Disturb" -->
+    <string name="do_not_disturb_total_silence">"完全な沈黙"</string> <!-- TODO validate "Total silence" -->
+    <string name="do_not_disturb_alarms_only">"警報のみ"</string> <!-- TODO validate "Alarms only" -->
+    <string name="do_not_disturb_priority_only">"優先度のみ"</string> <!-- TODO validate "Priority only" -->
+
+    <string name="hide_notification_title">"通知を非表示"</string> <!-- TODO validate "Hide notification" -->
+    <string name="hide_notification_summary">"通知を隠すためにシステム設定を開きます。アプリがフォアグラウンドで動作することを可能にするので、これは通知を隠すための推奨される方法です。"</string> <!-- TODO validate "Open system settings to hide notification. This is recommended way for hiding notification because it allows the app to work in foreground." -->
+
+    <!-- Text to speech -->
+    <string name="action_say_text">"テキストを言う"</string> <!-- TODO validate "Say text" -->
+    <string name="action_say_time">"時間を言う"</string> <!-- TODO validate "Say time" -->
+    <string name="feature_say_text">"時間を言う"</string> <!-- TODO validate "Say time" -->
+    <string name="feature_say_time">"時間を言う"</string> <!-- TODO validate "Say time" -->
+    <string name="pref_text_to_speech_engine">"エンジン"</string> <!-- TODO validate "Engine" -->
+    <string name="pref_text_to_speech_voice">"音声"</string> <!-- TODO validate "Voice" -->
+    <string name="pref_text_to_speech">"スピーチへのテキスト"</string> <!-- TODO validate "Text to speech" -->
+    <string name="system_default_audio_stream">"システムのデフォルト"</string> <!-- TODO validate "System default" -->
+    <string name="application_default">"デフォルト値"</string> <!-- TODO validate "Default value" -->
+    <string name="speak_time_format_with_minutes">"数分で話される時間"</string> <!-- TODO validate "Spoken time with minutes" -->
+    <string name="speak_time_on_the_hour">"その時間の通話時間"</string> <!-- TODO validate "Spoken time on the hour" -->
+    <string name="tts_not_initialized">"音声合成エンジンへのテキストはまだ初期化されていません"</string> <!-- TODO validate "Text to speech engine is not yet initialized" -->
+    <string name="tts_test_say_time_title">"時間を言ってテスト"</string> <!-- TODO validate "Test saying time" -->
+    <string name="tts_system_settings_title">"システム設定"</string> <!-- TODO validate "System settings" -->
+    <string name="tts_system_settings_summary">"オープンシステムのテキスト読み上げ設定"</string> <!-- TODO validate "Open system text-to-speech settings" -->
+    <string name="pref_tts_overlaps_sounds">"声と音の重なり"</string> <!-- TODO validate "Voice and sound overlap" -->
+    <string name="pref_tts_overlaps_sounds_on">"話すことは音を重ねる"</string> <!-- TODO validate "Speaking will overlap sounds" -->
+    <string name="pref_tts_overlaps_sounds_off">"話しても音が重ならない（音声は音声の前後に再生される）"</string> <!-- TODO validate "Speaking will not overlap sounds (sound will play before or after voice)" -->
+
+    <string name="operating_modes_settings">"動作モード"</string> <!-- TODO validate "Operating modes" --> <!-- name of menu with different mode settings e.g. Do Not Disturb, vibrate mode -->
+    <string name="operating_modes_settings_summary">"邪魔しない、バイブレーションモードなど"</string> <!-- TODO validate "Do Not Disturb, vibrate mode, etc." -->
+    <string name="time_settings">"時間"</string> <!-- TODO validate "Time" -->
+    <string name="sound_settings">"音"</string> <!-- TODO validate "Sound" -->
+
+    <string name="free_resources_title">"リソースを解放する"</string> <!-- TODO validate "Release resources" -->
+
+    <string name="error_failed_to_open_file">"ファイルを開けませんでした"</string> <!-- TODO validate "Failed to open file" -->
+    <string name="error_corrupted_sound">"音が壊れる"</string> <!-- TODO validate "Sound is corrupted" -->
+
+    <!-- premium -->
+    <string name="dialog_no_thanks">"結構です"</string> <!-- TODO validate "No thanks" --> <!-- should be short -->
+    <string name="feature_custom_sounds">"カスタムサウンド"</string> <!-- TODO validate "Custom sounds" -->
+    <string name="feature_multiple_notifications">"複数の通知"</string> <!-- TODO validate "Multiple notifications" -->
+    <string name="feature_custom_reapeat">"カスタム繰り返し間隔"</string> <!-- TODO validate "Custom repeat interval" -->
+    <string name="feature_premium_sounds">"プレミアムサウンド"</string> <!-- TODO validate "Premium sounds" -->
+    <string name="feature_strike_the_hour">"時間を打つ"</string> <!-- TODO validate "Strike the hours" -->
+    <string name="premium_get_plus">"現在の機能をすべて入手する"</string> <!-- TODO validate "Get all current features" --> <!-- should be short -->
+    <string name="premium_get_sounds">"アプリ内のすべてのサウンドを取得する"</string> <!-- TODO validate "Get all sounds in the app" --> <!-- should be short -->
+    <string name="premium_get_plus_sounds">"現在の機能とサウンドをすべて入手する"</string> <!-- TODO validate "Get all current features and sounds" --> <!-- should be short -->
+    <string name="premium_sound_lock">"これは使用前にロック解除を必要とするプレミアムサウンドです。"</string> <!-- TODO validate "This is Premium sound which requires unlocking before use." -->
+    <string name="premium_feature_lock">"これは、使用前にロック解除を必要とするプレミアム機能です。"</string> <!-- TODO validate "This is Premium feature which requires unlocking before use." -->
+    <string name="change_subscription">"購読を変更する"</string> <!-- TODO validate "Change subscription" -->
+    <string name="upgrade_to_pro">"アップグレード"</string> <!-- TODO validate "Upgrade" -->
+    <string name="loading_failed">"エラー"</string> <!-- TODO validate "Error" -->
+    <string name="month_very_short">"月"</string> <!-- TODO validate "month" -->
+    <string name="discount_save_money">"保存する"</string> <!-- TODO validate "Save" --> <!-- percent saved will be displayed below this text -->
+    <string name="premium_settings">"Premiumにアップグレードしてすべての設定をロック解除する"</string> <!-- TODO validate "Upgrade to Premium to unlock all settings" -->
+    <string name="buy_premium">"プレミアムを購入"</string> <!-- TODO validate "Buy Premium" -->
+    <string name="already_bought">"もう買った"</string> <!-- TODO validate "Already bought" -->
+    <string name="get_all_features">"すべての機能を入手"</string> <!-- TODO validate "Get all features" -->
+    <string name="get_all_sounds">"すべてのサウンドを入手"</string> <!-- TODO validate "Get all sounds" -->
+    <string name="premium_what_you_get">"あなたが得るもの："</string> <!-- TODO validate "What you will get:" -->
+    <string name="feature1">"無制限のアクティブ通知"</string> <!-- TODO validate "Unlimited active notifications" -->
+    <string name="feature2">"時間を打つ"</string> <!-- TODO validate "Strike the hours" -->
+    <string name="feature3">"カスタム繰り返し間隔"</string> <!-- TODO validate "Custom repeat interval" -->
+    <string name="feature4">"テキストや時間を言う"</string> <!-- TODO validate "Say text or time" -->
+    <string name="feature5">"あなた自身のサウンドを追加"</string> <!-- TODO validate "Add your own sounds" -->
+    <string name="feature6">"優先サポート"</string> <!-- TODO validate "Priority support" -->
+    <string name="feature7">"ナイトモード（ダークテーマ）"</string> <!-- TODO validate "Night mode (dark theme)" -->
+    <string name="feature_all_sounds">"アプリ内のすべての音"</string> <!-- TODO validate "All sounds in the app" -->
+    <string name="yearly_payment">"年間支払い"</string> <!-- TODO validate "Yearly payment." -->
+    <string name="free_trial">"無料お試し"</string> <!-- TODO validate "Free trial." -->
+    <string name="cancel_anytime">"いつでもキャンセルできます。"</string> <!-- TODO validate "Cancel anytime." -->
+    <string name="premium_helps_support">"BlipBlipをアップグレードすることで、あなたはすべての機能やサウンドを手に入れるだけでなく、その継続的で独立した開発もサポートします。"</string> <!-- TODO validate "By upgrading BlipBlip you not only get all features or sounds but you also support its continuous and independent development." -->
+    <string name="loading">"読み込み中…"</string> <!-- TODO validate "Loading…" -->
+    <string name="notification_has_premium_features">"この通知はプレミアム機能を使用しています"</string> <!-- TODO validate "This notification uses Premium features" -->
+
+    <!-- Premium Bar -->
+    <string name="bar_upgrade_to_enable_app">"プレミアムにアップグレード"</string> <!-- TODO validate "Upgrade to Premium" -->
+    <string name="bar_upgrade_to_enable_notification">"プレミアムにアップグレード"</string> <!-- TODO validate "Upgrade to Premium" -->
+    <string name="bar_upgrade">"今買う"</string> <!-- TODO validate "Buy now" -->
+    <string name="bar_uses_premium_features">"通知はプレミアム機能を使用します"</string> <!-- TODO validate "Notification uses Premium features" -->
+
+    <!-- Premium dialog -->
+    <string name="premium_dialog_title">"プレミアム"</string> <!-- TODO validate "Premium" -->
+    <string name="premium_dialog_upgrade_now">"今買う"</string> <!-- TODO validate "Buy now" -->
+    <string name="premium_dialog_later">"後"</string> <!-- TODO validate "Later" -->
+    <string name="premium_icon_description">"プレミアムスターのアイコン"</string> <!-- TODO validate "Premium star icon" -->
+    <string name="feature_user_sounds_title">"ユーザーが追加したサウンドはプレミアム機能です"</string> <!-- TODO validate "User added sounds is a Premium feature" -->
+    <string name="feature_user_sounds_description">"あなた自身のサウンドを追加することによってあなたのBlipBlipアプリを作ります。"</string> <!-- TODO validate "Make BlipBlip app yours by adding your own sounds." -->
+    <string name="feature_premium_sounds_title">"アプリで利用可能なすべての音はプレミアム機能です"</string> <!-- TODO validate "All sounds available in the app is a Premium feature" -->
+    <string name="feature_premium_sounds_description">"多くの内蔵サウンドであなたの通知をカスタマイズしましょう。"</string> <!-- TODO validate "Customize your notification with many built-in sounds." -->
+    <string name="feature_strike_the_hour_title">"時間を打つことはプレミアム機能です"</string> <!-- TODO validate "Strike the hours is a Premium feature" -->
+    <string name="feature_strike_the_hour_description">"あなた自身のおじいさんの時計を作ってください（例えば、3時に3回遊ぶ）"</string> <!-- TODO validate "Create your own grandfather clock (e.g. plays 3 times at three o'clock)" -->
+    <string name="feature_say_text_title">"テキストを言うことはプレミアム機能です"</string> <!-- TODO validate "Saying text is a Premium feature" -->
+    <string name="feature_say_text_description">"通知に音声合成を使用します。"</string> <!-- TODO validate "Use text-to-speech in your notifications." -->
+    <string name="feature_say_time_title">"時間を言うことはプレミアム機能です"</string> <!-- TODO validate "Saying time is a Premium feature" -->
+    <string name="feature_say_time_description">"テキストを音声に変換して現在の時間を話します。"</string> <!-- TODO validate "Speak current time using text to speech." -->
+    <string name="feature_custom_repeat_interval_title">"カスタムリピート間隔はプレミアム機能です"</string> <!-- TODO validate "Custom repeat interval is a Premium feature" -->
+    <string name="feature_custom_repeat_interval_description">"任意の時間間隔を設定します（標準の1、5、10、15、20、30、60分以外）。"</string> <!-- TODO validate "Set any time interval (other than standard 1, 5, 10, 15, 20, 30 and 60 minutes)." -->
+    <string name="feature_general_title">"通知はプレミアム機能を使用します"</string> <!-- TODO validate "Notification uses Premium functions" -->
+    <string name="feature_general_description">"通知を有効にし、すべてのPremium機能を楽しむためにアップグレードしてください。"</string> <!-- TODO validate "Upgrade to enable notification and enjoy all Premium features." -->
+    <string name="feature_multiple_active_notifications_title">"無制限のアクティブ通知はプレミアム機能です"</string> <!-- TODO validate "Unlimited active notifications is a Premium feature" -->
+    <string name="feature_multiple_active_notifications_description">"同時に異なる設定で多数の通知を使用します（たとえば、12：00に2回再生、12：30に1回再生）。無料版では、あなたは1アクティブ通知を持つことができます。"</string> <!-- TODO validate "Use many notifications with different settings at the same time (e.g. play twice at 12:00, play once at 12:30). In free version you can have one active notification." -->
+    <string name="feature_unlimited_silent_time_title">"無制限の無音時間設定はプレミアム機能です"</string> <!-- TODO validate "Unlimited silent time configurations is a Premium feature" -->
+    <string name="feature_unlimited_silent_time_description">"無料版では、5つのサイレントタイム設定を有効にすることができます。"</string> <!-- TODO validate "In free version you can activate 5 silent time configurations." -->
+
+    <string name="vibrate_seconds">"%s振動させます"</string> <!-- TODO validate "Vibrate %ss" --> <!-- s at the end is for seconds, %s will be replaced by value e.g. "Vibrate 1.2s" -->
+    <string name="wait_and_vibrate_seconds">"%1$s待って、 %2$s振動させてください"</string> <!-- TODO validate "Wait %1$ss, vibrate %2$ss" --> <!-- s at the end is for seconds, "%1$s" and "%2$s" will be replaced by value e.g. "Vibrate 1.2s" -->
+
+    <!-- button descriptions -->
+    <string name="add_new_sound">"外部アプリから新しいサウンドを追加する"</string> <!-- TODO validate "Add new sound from external app" -->
+    <string name="create_new_vibration">"新しいバイブレーションを作成"</string> <!-- TODO validate "Create new vibration" -->
+    <string name="create_new_notification">"新しい通知を作成"</string> <!-- TODO validate "Create new notification" -->
+    <string name="create_new_silent_time">"新しい無音時間を作成する"</string> <!-- TODO validate "Create new silent time" -->
+    <string name="additional_info_button">"追加情報"</string> <!-- TODO validate "Additional information" -->
+    <string name="start_playing">"プレイを開始"</string> <!-- TODO validate "Start playing" -->
+    <string name="stop_playing">"遊ぶのやめて"</string> <!-- TODO validate "Stop playing" -->
+    <string name="edit_mode">"編集モード"</string> <!-- TODO validate "Edit mode" -->
+
+    <!-- widget -->
+    <string name="app_enabled">"アプリが有効"</string> <!-- TODO validate "App enabled" -->
+    <string name="app_disabled">"アプリ無効"</string> <!-- TODO validate "App disabled" -->
+
+    <string name="warning_volume_dnd">"サイレントモードが有効になっているため、音量スライダを表示できません"</string> <!-- TODO validate "Cannot show volume slider because Do Not Disturb mode is enabled" -->
+
+    <!-- auto start failed dialog -->
+    <string name="auto_start_fail_title">"自動起動に失敗しました"</string> <!-- TODO validate "Auto-start failed" -->
+    <string name="auto_start_fail_message">"アプリの自動起動に失敗しました。設定を確認してください。"</string> <!-- TODO validate "Automatic start of the app failed. Please check your settings." -->
+
+    <!-- manual settings dialog -->
+    <string name="manual_settings_title">"手動設定が必要"</string> <!-- TODO validate "Manual settings needed" -->
+    <string name="manual_settings_summary">"BlipBlipを正しく機能させるには、手動設定が必要な場合があります。"</string> <!-- TODO validate "Some manual settings may be needed for BlipBlip to function properly." -->
+    <string name="manual_settings_tips_subtitle">"下記のヒントをお試しください"</string> <!-- TODO validate "Please try tips below" -->
+    <string name="manual_settings_tip_settings_description">"設定を開く"</string> <!-- TODO validate "Open settings" -->
+    <string name="manual_settings_snackbar">"アプリが正常に機能するために必要な場合がある手動設定を確認してください"</string> <!-- TODO validate "Please review manual settings which may be needed for app to function properly" -->
+    <string name="manual_settings_show">"見せる"</string> <!-- TODO validate "Show" -->
+    <string name="manual_settings_permanent_notification_description">"恒久通知を有効にする（推奨）"</string> <!-- TODO validate "Enable permanent notification (recommended)" -->
+    <string name="manual_settings_permanent_notification_info">"アプリは恒久的に表示される通知を表示するため、アプリが強制終了されるのを防ぐことができます。"</string> <!-- TODO validate "App will show permanently visible notification, which may prevent app from being killed." -->
+    <string name="manual_settings_general_tips_button">"一般的なヒントを表示する"</string> <!-- TODO validate "Show general tips" -->
+    <string name="manual_settings_general_tips">"一般的なヒント"</string> <!-- TODO validate "General tips" -->
+    <string name="manual_settings_general_tip1">"デバイス設定で省電力モードを無効にする"</string> <!-- TODO validate "Disable power saving modes in device settings" -->
+    <string name="manual_settings_general_tip2">"バッテリーやメモリの使用量を最適化するアプリを無効にする（タスクキラーなど）"</string> <!-- TODO validate "Disable apps that optimize battery or memory usage (e.g. task killers)" -->
+    <string name="manual_settings_general_tips_info">"デバイスで他のオプションを変更する必要がある場合は、\ \"問題の報告\\"オプションを使用してください。"</string> <!-- TODO validate "If your device requires changing other options, please let us know using \"Report problem\" option." -->
+    <string name="manual_settings_suggest_report_problem">"上記のヒントを試してもまだアプリに問題がある場合は、問題を報告してください。"</string> <!-- TODO validate "If after trying above tips you would still have issues with the app, please report the problem." -->
+    <string name="manual_settings_do_not_show_again">"再び表示しない"</string> <!-- TODO validate "Do not show again" -->
+
+    <!-- Tips -->
+    <string name="tip1">"アプリを監視対象外アプリに追加します。"</string> <!-- TODO validate "Add the app to Un-monitored Apps." -->
+    <string name="tip2">"アプリを保護対象アプリに追加します。"</string> <!-- TODO validate "Add the app to Protected Apps." -->
+    <string name="tip3">"ロック画面のクリーンアップからアプリを除外します。"</string> <!-- TODO validate "Exclude app from lock screen cleanup." -->
+    <string name="tip4">"スタミナモードを無効にします。"</string> <!-- TODO validate "Disable Stamina mode." -->
+    <string name="tip5">"バッテリー使用制限を無効にします。"</string> <!-- TODO validate "Disable battery usage restrictions." -->
+    <string name="tip6">"自動実行するアプリを追加してください。"</string> <!-- TODO validate "Add app to auto-run." -->
+    <string name="tip7">"バックグラウンドタスククリーナーを無効にします。"</string> <!-- TODO validate "Disable background task cleaner." -->
+    <string name="tip8">"アプリを自動起動に追加します。"</string> <!-- TODO validate "Add app to auto-start." -->
+    <string name="tip9">"アプリを自動起動に追加します。"</string> <!-- TODO validate "Add app to auto-start." -->
+    <string name="tip10">"最近のアプリ画面でアプリをロックします。"</string> <!-- TODO validate "Lock the app on recent apps screen." -->
+    <string name="tip11">"アプリをスタンバイモードで動作させる。"</string> <!-- TODO validate "Allow the app to work in Standby Mode." -->
+    <string name="tip12">"アプリを自動起動に追加します。"</string> <!-- TODO validate "Add the app to auto-launch." -->
+    <string name="tip14">"アプリをバックグラウンド保護ホワイトリストに追加します。"</string> <!-- TODO validate "Add the app to Background protection whitelist." -->
+
+    <!-- Tips detailed instructions -->
+    <string name="tip1_settings">"[設定]&gt; [端末のメンテナンス]&gt; [電池]&gt; [未監視アプリ]リスト"</string> <!-- TODO validate "Settings > Device maintenance > Battery > Unmonitored apps list" -->
+    <string name="tip2_settings">"設定&gt;詳細設定&gt;バッテリマネージャ&gt;保護されたアプリまたは設定&gt;プライバシーとセキュリティ&gt;保護されたアプリ"</string> <!-- TODO validate "Settings > Advanced Settings > Battery Manager > Protected Apps or Settings > Privacy and Security > Protected Apps" -->
+    <string name="tip3_settings">"電話マネージャ&gt;画面のクリーンアップのロック&gt;アプリのチェックを外す（閉じない）または設定&gt;バッテリー&gt;画面のクリーンアップのロック&gt;アプリのチェックを外す（閉じない）"</string> <!-- TODO validate "Phone Manager > Lock screen cleanup > un-check the app (don't close) or Settings > Battery > Lock screen cleanup > un-check the app (don't close)" -->
+    <string name="tip4_settings">"設定&gt;電源管理&gt; STAMINAモード&gt;スタンバイでアクティブなアプリ&gt; BlipBlipを追加"</string> <!-- TODO validate "Settings > Power management > STAMINA mode > Apps active in standby > Add BlipBlip" -->
+    <string name="tip5_settings">"設定&gt;その他の設定&gt;バッテリーとパフォーマンス&gt;アプリの管理電池使用量&gt;アプリの選択&gt; BlipBlip&gt;制限なし"</string> <!-- TODO validate "Settings > Additional Settings > Battery & Performance > Manage Apps Battery Usage > Choose Apps > BlipBlip > No restrictions" -->
+    <string name="tip6_settings">"設定&gt;権限&gt;自動実行管理"</string> <!-- TODO validate "Settings > Permissions > Auto-run management" -->
+    <string name="tip7_settings">"設定&gt;バックグラウンドタスクのクリア&gt;ホワイトリスト"</string> <!-- TODO validate "Settings > Background task clear > White list" -->
+    <string name="tip8_settings">"Asus Mobile Manager&gt;自動起動マネージャ"</string> <!-- TODO validate "Asus Mobile Manager > Auto-start Manager" -->
+    <string name="tip9_settings">"電話マネージャ&gt;プライバシーの許可&gt;スタートアップマネージャ"</string> <!-- TODO validate "Phone Manager > Privacy Permissions > Startup Manager" -->
+    <string name="tip10_settings">"最近のアプリ&gt; BlipBlipをタップしてプルダウンする"</string> <!-- TODO validate "Recent apps > tap BlipBlip and pull it down" -->
+    <string name="tip11_settings">"セキュリティ&gt;電源&gt;スタンバイ管理&gt; BlipBlipをスタンバイモードで実行するように設定"</string> <!-- TODO validate "Security > Power > Standby Management > Set BlipBlip to run in Standby Mode" -->
+    <string name="tip12_settings">"[セキュリティ]&gt; [許可]&gt; [自動起動アプリ]&gt; [自動起動を有効にする]"</string> <!-- TODO validate "Security > Permission > Auto-Launched apps > enable auto-launch" -->
+    <string name="tip13_settings">"赤い丸を長押し&gt; BlipBlipを下にスワイプ"</string> <!-- TODO validate "Long press red circle > swipe down BlipBlip" -->
+    <string name="tip14_settings">"NeoSafeアプリ&gt;電源&gt;右上の設定アイコン&gt;背景保護のホワイトリスト&gt; BlipBLipの追加"</string> <!-- TODO validate "NeoSafe app > Power > right top settings icon > Background protection whitelist > add BlipBLip" -->
+    <string name="tip15_settings">"NeoSafeアプリ&gt;許可&gt;パワーオンスピードアップ&gt; BlipBlipを有効にする"</string> <!-- TODO validate "NeoSafe app > Permission > Power-on speedup > Enable BlipBlip" -->
+
+    <!-- UI Settings -->
+    <string name="pref_user_interface">"ユーザーインターフェース"</string> <!-- TODO validate "User interface" -->
+    <!-- edit button -->
+    <string name="edit_button_title">"編集ボタン"</string> <!-- TODO validate "Editing button" -->
+    <string name="edit_button_on">"編集ボタンを表示"</string> <!-- TODO validate "Show edit button" -->
+    <string name="edit_button_off">"編集ボタンを隠します。編集モードに入るには、メニューから編集アクションを使用してください。"</string> <!-- TODO validate "Hide edit button. To enter edit mode use edit action from menu." -->
+    <!-- changelog -->
+    <string name="version_history">"バージョン履歴"</string> <!-- TODO validate "Version history" -->
+    <string name="changelog_title">"新着情報？"</string> <!-- TODO validate "What's new?" -->
+    <string name="show_changelog_title">"変更履歴を表示"</string> <!-- TODO validate "Show changelog" -->
+    <string name="show_changelog_on">"起動時に最近の変更を表示します。"</string> <!-- TODO validate "Show recent changes on startup." -->
+    <string name="show_changelog_off">"起動時に最近の変更を表示しません。"</string> <!-- TODO validate "Do not show recent changes on startup." -->
+    <!-- inclusive -->
+    <string name="show_inclusive_title">"時間範囲の終了を変更する"</string> <!-- TODO validate "Change time range endings" -->
+    <string name="show_inclusive_on">"時間範囲を指定するときは、指定した時間を時間範囲に含めるかどうかを指定できるボタンを表示します。"</string> <!-- TODO validate "When specifying time range show buttons which allow to specify whether given time should be included in time range." -->
+    <string name="show_inclusive_off">"時間を時間範囲に含めるかどうかを選択できる非表示ボタン。"</string> <!-- TODO validate "Hide buttons allowing to choose if time should be included in time range." -->
+    <!-- show switches -->
+    <string name="show_actions_switches_title">"アクションスイッチ"</string> <!-- TODO validate "Actions switches" --> <!-- option to show enable/disable switches for actions -->
+    <string name="show_actions_switches_on">"アクションを無効にするためのスイッチを表示します。"</string> <!-- TODO validate "Show switches for disabling actions." -->
+    <string name="show_actions_switches_off">"操作を無効にするスイッチを非表示にします。"</string> <!-- TODO validate "Hide switches which disable actions." -->
+    <!-- Show kill dialog -->
+    <string name="show_kill_dialog_title">"アプリが強制終了されたかどうかを通知する"</string> <!-- TODO validate "Notify if app was killed" -->
+    <string name="show_kill_dialog_on">"アプリが強制終了されたことが検出された場合は、アプリを開いたときにメッセージを表示します。"</string> <!-- TODO validate "Display message when opening the app if it was detected that the app was killed." -->
+    <string name="show_kill_dialog_off">"アプリが強制終了されたことが検出されたときにメッセージを表示しません。"</string> <!-- TODO validate "Do not display message when it was detected that the app was killed." -->
+
+    <!-- examples -->
+    <string name="double_sound_every_hour">"1時間ごとにダブルサウンド"</string> <!-- TODO validate "Double sound every hour" -->
+    <string name="single_sound_half_past">"毎時半過ぎの音"</string> <!-- TODO validate "Sound half past every hour" -->
+    <string name="speak_time_every_hour">"毎時現在時刻を話す"</string> <!-- TODO validate "Speak current time every hour" -->
+
+    <!-- ads -->
+    <string name="remove_ads">"広告を削除"</string> <!-- TODO validate "Remove ads" -->
+    <string name="channel_name_watch_ads">"広告を見る"</string> <!-- TODO validate "Watch ads" -->
+    <string name="channel_name_premium_end_description">"あなたが無料ですべてのプレミアム機能を楽しむために広告を見る必要があるとき、あなたは通知を受けるでしょう"</string> <!-- TODO validate "You will get notified when you need to watch an ad to enjoy all Premium features for free" -->
+
+    <string name="watch_ads">"広告を見る"</string> <!-- TODO validate "Watch ads" -->
+    <string name="watch_video">"ビデオ広告を見る"</string> <!-- TODO validate "Watch video ad" -->
+    <string name="subscribe_without_ads">"広告なしで購読する"</string> <!-- TODO validate "Subscribe without ads" -->
+    <string name="start_free_trial">"無料トライアルを始めましょう"</string> <!-- TODO validate "Start a free trial" -->
+    <string name="tooltip_accept_privacy_policy">"チェックしてください。"</string> <!-- TODO validate "Please check the box." -->
+    <string name="welcome_to_blipBlip">"BlipBlipへようこそ！"</string> <!-- TODO validate "Welcome to BlipBlip!" -->
+    <string name="blipblip_free_description_short">"このアプリは広告を見るのと引き換えに無料です。"</string> <!-- TODO validate "This app is free in exchange for watching ads." -->
+    <string name="blipblip_free_description">"このアプリは広告を見るのと引き換えに無料です。あなたは広告を見た後指定された期間のすべてのブリップブリッププレミアム機能とサウンドにアクセスすることができます。見る回数が多いほど、アプリを使用できる時間が長くなります。"</string> <!-- TODO validate "This app is free in exchange for watching ads. You can access all Blip Blip Premium features and sounds for specified time period after watching an ad. The more you watch the longer you can use the app." -->
+    <string name="blipblip_free_description2">"ユーザーインターフェースに広告がありません。予期せぬポップアップ広告はありません。いつあなたが広告を見たいのかを選択します。"</string> <!-- TODO validate "There are no ads in user interface. There are no ads popping up unexpectedly. You always choose when you want to watch an ad." -->
+    <string name="watch_ad">"広告を見る"</string> <!-- TODO validate "View ad" -->
+    <string name="ad">"広告"</string> <!-- TODO validate "Ad" --> <!-- Short label of button for watching ads -->
+    <string name="accept_privacy_policy">"プライバシーポリシーを受け入れます。"</string> <!-- TODO validate "I accept privacy policy." -->
+    <string name="get_blipblip">"広告なしで、プレミアム機能なしで無料アプリをしたいですか？ここをタップ。"</string> <!-- TODO validate "Want free app without ads and without Premium features? Tap here." -->
+    <string name="privacy_policy">"個人情報保護方針。"</string> <!-- TODO validate "Privacy policy." -->
+    <string name="get_time_of_premium">"プレミアム%1$sを取得"</string> <!-- TODO validate "Get %1$s of Premium" -->
+    <string name="get_time_of_premium_more">"追加の時間のためにアプリを使用するために広告を見る： %s 。"</string> <!-- TODO validate "View ad to use the app for additional time: %s." -->
+    <string name="premium_time_left">"アプリを使用するための残り時間： %s"</string> <!-- TODO validate "Time left for using the app: %s" -->
+    <string name="app_was_enabled">"アプリが有効になりました！"</string> <!-- TODO validate "App has been enabled!" -->
+    <string name="failed_loading_ad">"広告を読み込めませんでした。インターネット接続を確認してもう一度やり直してください。"</string> <!-- TODO validate "Failed to load ad. Check your internet connection and try again." -->
+    <string name="continue_with_ads">"広告を続ける"</string> <!-- TODO validate "Continue with ads" -->
+    <string name="continue_with_relevant_question">"私たちはあなたのために広告を調整するためにあなたのデータを使うことができますか？"</string> <!-- TODO validate "Can we use your data to tailor ads for you?" -->
+    <string name="continue_with_relevant_ads">"はい、関連性の高い広告を続けます"</string> <!-- TODO validate "Yes, continue with relevant ads" -->
+    <string name="continue_with_less_relevant_ads">"いいえ、関連性の低い広告を続けます"</string> <!-- TODO validate "No, continue with less relevant ads" -->
+    <string name="watch_ads_to_get_next_notification">"次の通知を受け取るために広告を見る"</string> <!-- TODO validate "View ads to get next notification" -->
+    <string name="watch_ad_to_enable_app">"アプリを有効にする広告を表示"</string> <!-- TODO validate "View ad to enable app" -->
+    <string name="popup_watch_more_ads_to_get_notification">"この通知を受け取るにはもっと広告を見る"</string> <!-- TODO validate "Watch more ads to get this notification" -->
+
+    <!-- ads notifications -->
+    <string name="notif_premium_ended">"アプリケーションが無効"</string> <!-- TODO validate "Application disabled" -->
+    <string name="notif_premium_ended_description">"再度有効にするには広告を見てください。"</string> <!-- TODO validate "Watch ad to enable it again." -->
+    <string name="notif_stop_warn">"次の通知は再生されません"</string> <!-- TODO validate "Next notification won't be played" -->
+    <string name="notif_stop_warn_description">"アプリを使用するための時間を延ばすために広告を見る"</string> <!-- TODO validate "Watch ad to extend time for using the app" -->
+
+    <!-- ads settings -->
+    <string name="ads_notifications">"広告を見る必要性"</string> <!-- TODO validate "Need of viewing ads" -->
+    <string name="ads_notifications_on">"広告を表示する必要性に関する通知を受け取ります"</string> <!-- TODO validate "You will get notifications about the need of viewing ads" -->
+    <string name="ads_notifications_off">"広告を表示する必要性についての通知はありません。"</string> <!-- TODO validate "You won't get any notifications about the need of viewing ads" -->
+    <string name="ads_warn_app_disabled">"アプリケーションの無効化"</string> <!-- TODO validate "Application disabling" -->
+    <string name="ads_warn_app_disabled_on">"十分な数の広告が視聴されなかったためにアプリが無効になったときに通知する"</string> <!-- TODO validate "Notify when app is disabled because not enough ads were watched" -->
+    <string name="ads_warn_app_disabled_off">"十分な数の広告が視聴されていないためにアプリが無効になるときに通知しないでください"</string> <!-- TODO validate "Do not notify when app will be disabled because not enough ads were watched" -->
+    <string name="ads_warn_next_notification">"次の通知"</string> <!-- TODO validate "Next notification" -->
+    <string name="ads_warn_next_notification_on">"十分な数の広告が視聴されなかったために次の通知が再生されない場合に通知する"</string> <!-- TODO validate "Notify when next notification won't be played because not enough ads were watched" -->
+    <string name="ads_warn_next_notification_off">"十分な数の広告が視聴されていないために次の通知が再生されない場合は通知しない"</string> <!-- TODO validate "Do not notify when next notification won't be played because not enough ads were watched" -->
+
+    <!-- Privacy settings -->
+    <string name="privacy">"プライバシー"</string> <!-- TODO validate "Privacy" -->
+    <string name="ads">"広告"</string> <!-- TODO validate "Ads" -->
+    <string name="pref_personalized_ads">"パーソナライズド広告"</string> <!-- TODO validate "Personalized ads" -->
+    <string name="pref_personalized_ads_on">"広告はパーソナライズされます。"</string> <!-- TODO validate "Ads will be personalized." -->
+    <string name="pref_personalized_ads_off">"あなたのデータは広告をパーソナライズするために使用されることはありません。"</string> <!-- TODO validate "Your data will not be used to personalize ads." -->
+    <string name="pref_analytics">"アナリティクス"</string> <!-- TODO validate "Analytics" -->
+    <string name="pref_collect_analytics">"匿名データを収集する"</string> <!-- TODO validate "Collect anonymous data" -->
+    <string name="pref_collect_analytics_on">"アプリの改善に役立つ匿名の集計データを収集します。"</string> <!-- TODO validate "Collect anonymous, aggregated data to help improve the app." -->
+    <string name="pref_collect_analytics_off">"データを収集しません。"</string> <!-- TODO validate "Do not collect any data." -->
+    <string name="pref_analytics_anonymize_ip">"場所を匿名化する"</string> <!-- TODO validate "Anonymize location" -->
+    <string name="pref_analytics_anonymize_ip_on">"ユーザーの場所を特定するために送信されたIPアドレスを匿名化します。"</string> <!-- TODO validate "Anonymize IP address sent to determine user location." -->
+    <string name="pref_analytics_anonymize_ip_off">"完全なIPアドレスを使用するのは、ユーザーの一般的な場所（国、都市）を特定するためだけにしてください。"</string> <!-- TODO validate "Use full IP address only for detemining user's general location (country, city)." -->
+
+    <!-- install BlipBlip free -->
+    <string name="dialog_free_premium_title">"プレミアムを無料にしたいですか？"</string> <!-- TODO validate "Want Premium free?" -->
+    <string name="dialog_free_premium_description">"%1$sアプリのプレミアム機能と引き換えに広告を見る。"</string> <!-- TODO validate "Watch ads in exchange for Premium features in %1$s app." -->
+    <string name="open_app">"アプリを開く"</string> <!-- TODO validate "Open app" -->
+    <string name="install_app">"アプリをインストールする"</string> <!-- TODO validate "Install app" -->
+    <string name="maybe_later">"たぶん後で"</string> <!-- TODO validate "Maybe later" -->
+
+    <!-- tooltips -->
+    <string name="tooltip_play_next_button">"次の通知を再生"</string> <!-- TODO validate "Playback next notification" -->
+    <string name="tooltip_upcoming_notifications">"今後の通知の表示と再生"</string> <!-- TODO validate "See and playback upcoming notifications" -->
+    <string name="tooltip_upcoming_notification">"今後の通知を再生する時間を押す"</string> <!-- TODO validate "Press time to playback upcoming notifications" -->
+
+</resources>
