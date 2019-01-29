@@ -15,7 +15,7 @@
     <string name="allow_while_idle_title">"Toestaan energiebesparende modus"</string>
     <string name="allow_while_idle_off">"Wanneer de telefoon in de energiebesparende modus komt kunnen sommige notificaties overgeslagen worden."</string>
     <string name="allow_while_idle_on">"Toestaan in energiebesparende(Doze/Idle) modus. Kan niet altijd werken voor notificaties lager dan 15 minuten. Deze optie kan invloed hebben op het batterijverbruik."</string>
-    <string name="app_killed_title">"App was killed"</string> <!-- TODO translate -->
+    <string name="app_killed_title">"App is vermoord"</string> <!-- TODO validate "App was killed" -->
 
     <!-- Next Notification -->
     <string name="next_notification_off">"Uit"</string>
@@ -29,14 +29,14 @@
     <string name="day_friday">"Vrijdag"</string>
     <string name="day_saturday">"Zaterdag"</string>
     <string name="day_sunday">"Zondag"</string>
-    <string name="preview_upcoming_notifications">"Preview upcoming notifications"</string> <!-- TODO translate -->
-    <string name="disable_premium_notifications">"Disable Premium notifications"</string> <!-- TODO translate -->
+    <string name="preview_upcoming_notifications">"Voorbeeld van aankomende meldingen"</string> <!-- TODO validate "Preview upcoming notifications" -->
+    <string name="disable_premium_notifications">"Schakel Premium-meldingen uit"</string> <!-- TODO validate "Disable Premium notifications" -->
 
     <!-- Sound -->
     <string name="sound_text">"Geluid"</string>
     <string name="sound_blipblip">"BlipBlip"</string> <!-- translated -->
     <string name="sound_casio_watch">"Casio horloge"</string>
-    <string name="sound_casio_watch_single">"Casio watch (single)"</string> <!-- TODO translate -->
+    <string name="sound_casio_watch_single">"Casio horloge (enkel)"</string> <!-- TODO validate "Casio watch (single)" -->
     <string name="sound_gong">"Gong"</string> <!-- translated -->
     <string name="sound_ships_bell">"Scheepsbel"</string>
     <string name="sound_double_ships_bell">"Dubbele scheepsbel"</string>
@@ -50,22 +50,22 @@
     <string name="sound_cat">"Kat %1$s"</string>
     <string name="sound_dog">"Hond %1$s"</string>
     <string name="sound_rooster">"Haan"</string>
-    <string name="sound_guitar_strum">"Guitar strum %1$s"</string> <!-- TODO translate -->
-    <string name="sound_water_drop">"Water drop %1$s"</string> <!-- TODO translate -->
-    <string name="sound_water_pouring">"Water pouring %1$s"</string> <!-- TODO translate -->
-    <string name="sound_sonar_ping">"Sonar ping %1$s"</string> <!-- TODO translate -->
-    <string name="sound_inception">"Inception %1$s"</string> <!-- TODO translate -->
-    <string name="sound_the_pips">"The pips"</string> <!-- TODO translate -->
-    <string name="sound_short_pip">"Short pip"</string> <!-- TODO translate -->
-    <string name="sound_long_pip">"Long pip"</string> <!-- TODO translate -->
-    <string name="sound_crystal_glass">"Crystal glass"</string> <!-- TODO translate -->
-    <string name="sound_ping">"Ping"</string> <!-- TODO translate -->
-    <string name="sound_gong_num">"Gong %1$s"</string> <!-- TODO translate -->
-    <string name="sound_boxing_bell">"Boxing bell"</string> <!-- TODO translate -->
-    <string name="sound_singing_bowl">"Singing bowl %1$s"</string> <!-- TODO translate -->
-    <string name="sound_ekg">"Heart monitor %1$s"</string> <!-- TODO translate -->
-    <string name="sound_got_item">"Got item"</string> <!-- TODO translate -->
-    <string name="sound_guitar">"Guitar"</string> <!-- TODO translate -->
+    <string name="sound_guitar_strum">"Gitaarstunt %1$s"</string> <!-- TODO validate "Guitar strum %1$s" -->
+    <string name="sound_water_drop">"Waterdruppel %1$s"</string> <!-- TODO validate "Water drop %1$s" -->
+    <string name="sound_water_pouring">"Water gieten %1$s"</string> <!-- TODO validate "Water pouring %1$s" -->
+    <string name="sound_sonar_ping">"Sonar pingt %1$s"</string> <!-- TODO validate "Sonar ping %1$s" -->
+    <string name="sound_inception">"Inception %1$s"</string> <!-- TODO validate "Inception %1$s" -->
+    <string name="sound_the_pips">"De pitten"</string> <!-- TODO validate "The pips" -->
+    <string name="sound_short_pip">"Korte pip"</string> <!-- TODO validate "Short pip" -->
+    <string name="sound_long_pip">"Lange pip"</string> <!-- TODO validate "Long pip" -->
+    <string name="sound_crystal_glass">"Kristalglas"</string> <!-- TODO validate "Crystal glass" -->
+    <string name="sound_ping">"Ping"</string> <!-- TODO validate "Ping" -->
+    <string name="sound_gong_num">"Gong %1$s"</string> <!-- TODO validate "Gong %1$s" -->
+    <string name="sound_boxing_bell">"Boksbel"</string> <!-- TODO validate "Boxing bell" -->
+    <string name="sound_singing_bowl">"Zingende kom %1$s"</string> <!-- TODO validate "Singing bowl %1$s" -->
+    <string name="sound_ekg">"Hartmonitor %1$s"</string> <!-- TODO validate "Heart monitor %1$s" -->
+    <string name="sound_got_item">"Ik heb een item"</string> <!-- TODO validate "Got item" -->
+    <string name="sound_guitar">"Gitaar"</string> <!-- TODO validate "Guitar" -->
 
     <!-- Volume -->
     <string name="text_seek_volume">"Volume"</string>
@@ -153,9 +153,9 @@
     <string name="pref_choose_audio_stream">"Audio stream"</string> <!-- translated -->
     <string name="audio_stream_phone_ring">"Beltoon"</string>
     <string name="audio_stream_alarm">"Alarm"</string> <!-- translated -->
-    <string name="audio_stream_alarm2">"Alarm clock"</string> <!-- TODO translate -->
+    <string name="audio_stream_alarm2">"Wekker"</string> <!-- TODO validate "Alarm clock" -->
     <string name="audio_stream_media">"Media"</string> <!-- translated -->
-    <string name="audio_stream_media2">"Music, Videos, Games"</string> <!-- TODO translate -->
+    <string name="audio_stream_media2">"Muziek, video's, spellen"</string> <!-- TODO validate "Music, Videos, Games" -->
     <string name="audio_stream_notification">"Notificatie"</string>
 
     <!-- Notifications -->
@@ -167,7 +167,7 @@
     <string name="pref_notification_always_on">"Melding weergeven ongeacht of deze is ingeschakeld"</string>
     <string name="pref_notification_always_off">"Melding weergeven alleen als het ingeschakeld is"</string>
     <string name="notification_settings_updated">"Notificatie instellingen bijgewerkt"</string> <!-- message displayed when one of notification settings is updated without user interacting with these options -->
-    <string name="permanent_notification">"Permanent notification"</string> <!-- TODO translate -->
+    <string name="permanent_notification">"Permanente melding"</string> <!-- TODO validate "Permanent notification" -->
 
     <!-- Notification Priority -->
     <string name="pref_notification_priority">"Notificatie prioriteit"</string>
@@ -180,9 +180,9 @@
     <!-- Dismissible Notification -->
 
     <!-- Auto dismiss -->
-    <string name="auto_dismiss_notification_title">"Auto dismiss notification"</string> <!-- TODO translate -->
-    <string name="auto_dismiss_notification_on">"Dismiss notification automatically after some time."</string> <!-- TODO translate -->
-    <string name="auto_dismiss_notification_off">"Notification will not be dismissed automatically."</string> <!-- TODO translate -->
+    <string name="auto_dismiss_notification_title">"Kennisgeving automatisch negeren"</string> <!-- TODO validate "Auto dismiss notification" -->
+    <string name="auto_dismiss_notification_on">"De melding na enige tijd automatisch afwijzen."</string> <!-- TODO validate "Dismiss notification automatically after some time." -->
+    <string name="auto_dismiss_notification_off">"Melding zal niet automatisch worden afgewezen."</string> <!-- TODO validate "Notification will not be dismissed automatically." -->
 
     <!-- Vibrate on Wear -->
     <string name="pref_vibrate_wearable_title">"Trillen bij verbonden apparaat"</string>
@@ -248,7 +248,7 @@
     <string name="pref_experimental">"Experimentele instellingen"</string>
     <string name="experimental_warning">"Dit zijn experimentele instellingen die in de toekomst verwijderd kunnen worden."</string>
     <string name="title_experimental_settings">"Experimentele instellingen"</string>
-    <string name="huawei_fix">"Huawei fix"</string> <!-- TODO translate -->
+    <string name="huawei_fix">"Huawei-fix"</string> <!-- TODO validate "Huawei fix" -->
 
     <!-- Menu - Share -->
     <string name="action_share">"Deel app"</string>
@@ -262,9 +262,9 @@
     <string name="rate_us_message">"Bedankt voor uw tijd om een review achter te laten."</string>
     <string name="rate_us_onetofourstars">"1–4 sterren"</string>
     <string name="rate_us_fivestars">"5 sterren!"</string>
-    <string name="five_stars_description">"Five stars"</string> <!-- TODO translate -->
-    <string name="five_stars_title">"Love BlipBlip?"</string> <!-- TODO translate -->
-    <string name="five_stars_text">"Rate us 5 stars to help make BlipBlip even more awesome. Thanks!"</string> <!-- TODO translate -->
+    <string name="five_stars_description">"Vijf sterren"</string> <!-- TODO validate "Five stars" -->
+    <string name="five_stars_title">"Love BlipBlip?"</string> <!-- TODO validate "Love BlipBlip?" -->
+    <string name="five_stars_text">"Beoordeel ons 5 sterren om BlipBlip nog indrukwekkender te maken. Bedankt!"</string> <!-- TODO validate "Rate us 5 stars to help make BlipBlip even more awesome. Thanks!" -->
 
     <!-- Menu - Error -->
     <string name="action_send_logs">"Meld probleem"</string>
@@ -284,10 +284,10 @@
     <string name="about_graphics">"Grafisch"</string>
     <string name="about_translations">"Vertalingen"</string>
     <string name="about_thank_you">"Bedankt"</string>
-    <string name="about_images">"Images"</string> <!-- TODO translate -->
+    <string name="about_images">"Afbeeldingen"</string> <!-- TODO validate "Images" -->
     <string name="about_libraries">"Libraries"</string> <!-- translated --> <!-- title of screen showing licenses of programming libraries used by the app -->
     <string name="about_acknowledgements">"Dankwoord"</string> <!-- name of screen with authors, translators and other people who have helped -->
-    <string name="about_translators_thank_you">"BlipBlip is translated by our users voluntarily and hereby we thank you for your support and contribution."</string> <!-- TODO translate -->
+    <string name="about_translators_thank_you">"BlipBlip wordt door onze gebruikers vrijwillig vertaald en hierbij danken wij u voor uw steun en bijdrage."</string> <!-- TODO validate "BlipBlip is translated by our users voluntarily and hereby we thank you for your support and contribution." -->
 
     <!-- Visual -->
     <string name="pref_visual">"Uiterlijk instellingen"</string>
@@ -370,11 +370,11 @@
     <string name="color_next_notification_bar">"Kleur volgende meldingsbalk"</string>
     <string name="color_next_notification_bar_on">"Gebruik de achtergrondkleur voor de volgende meldingenbalk."</string>
     <string name="color_next_notification_bar_off">"Gebruik grijze kleur voor de volgende meldingenbalk."</string>
-    <string name="night_mode">"Night mode"</string> <!-- TODO translate -->
-    <string name="night_mode_on">"Enabled"</string> <!-- TODO translate -->
-    <string name="night_mode_off">"Disabled"</string> <!-- TODO translate -->
-    <string name="night_mode_auto">"Auto"</string> <!-- TODO translate -->
-    <string name="night_mode_system">"System setting"</string> <!-- TODO translate -->
+    <string name="night_mode">"Nachtstand"</string> <!-- TODO validate "Night mode" -->
+    <string name="night_mode_on">"Ingeschakeld"</string> <!-- TODO validate "Enabled" -->
+    <string name="night_mode_off">"invalide"</string> <!-- TODO validate "Disabled" -->
+    <string name="night_mode_auto">"Auto"</string> <!-- TODO validate "Auto" -->
+    <string name="night_mode_system">"Systeeminstellingen"</string> <!-- TODO validate "System setting" -->
 
     <string name="title_activity_sounds">"Geluiden"</string>
     <string name="title_activity_sound">"Geluid"</string>
@@ -391,10 +391,10 @@
     <string name="edit">"Bewerken"</string> <!-- Name of action to edit list of sounds or list of vibrations, should be short -->
     <string name="editing">"Bewerken"</string> <!-- Displayed in edit mode -->
     <string name="error_file_open_failed">"Bestand openen mislukt"</string>
-    <string name="error_file_open_no_permission">"No permission to open the file."</string> <!-- TODO translate -->
-    <string name="error_file_open_failed_no_permission_title">"Grant permission manually"</string> <!-- TODO translate -->
-    <string name="error_file_open_failed_no_permission">"No permission to open the file. Please open Settings and give permission to access storage."</string> <!-- TODO translate -->
-    <string name="error_file_open_failed_settings">"Open Settings"</string> <!-- TODO translate -->
+    <string name="error_file_open_no_permission">"Geen toestemming om het bestand te openen."</string> <!-- TODO validate "No permission to open the file." -->
+    <string name="error_file_open_failed_no_permission_title">"Verleen toestemming handmatig"</string> <!-- TODO validate "Grant permission manually" -->
+    <string name="error_file_open_failed_no_permission">"Geen toestemming om het bestand te openen. Open Instellingen en geef toestemming voor toegang tot opslag."</string> <!-- TODO validate "No permission to open the file. Please open Settings and give permission to access storage." -->
+    <string name="error_file_open_failed_settings">"Open instellingen"</string> <!-- TODO validate "Open Settings" -->
     <string name="play_vibration">"Trillen"</string> <!-- description of action of a button to perform vibration -->
     <string name="play_sound">"Geluid afspelen"</string> <!-- description of action of a button to play sound -->
     <string name="drag_handle">"Drag handle"</string>
@@ -403,8 +403,8 @@
     <string name="permission_denied">"Geen toestemming"</string>
     <string name="permission_denied_message_no_addon">"BlipBlip heeft geen toestemming om het bestand te lezen."</string>
     <string name="permission_denied_message_no_addon_part2">"Gebruik alstublieft een andere app die het bestand deelt zonder dat hiervoor extra toestemming nodig is (bijvoorbeeld Google Drive)."</string>
-    <string name="permission_denied_rationale_title">"Permission needed"</string> <!-- TODO translate -->
-    <string name="permission_denied_rationale">"Application does not have permission to read the file. Please grant the app permission to access the file. You can also share the file using other app which does not need using this permission."</string> <!-- TODO translate -->
+    <string name="permission_denied_rationale_title">"Permissie nodig"</string> <!-- TODO validate "Permission needed" -->
+    <string name="permission_denied_rationale">"Applicatie heeft geen toestemming om het bestand te lezen. Verleen de app toestemming voor toegang tot het bestand. U kunt het bestand ook delen met een andere app die deze toestemming niet nodig heeft."</string> <!-- TODO validate "Application does not have permission to read the file. Please grant the app permission to access the file. You can also share the file using other app which does not need using this permission." -->
 
     <!-- Menu drawer strings -->
 
@@ -446,7 +446,7 @@
     <string name="disable_when_headset_off">"Alle meldingen zijn ingeschakeld"</string>
     <string name="disable_when_headset_toast">"BlipBlip-meldingen zijn nu uitgeschakeld omdat je een headset hebt aangesloten."</string>
 
-    <string name="add">"Add"</string> <!-- TODO translate -->
+    <string name="add">"Toevoegen"</string> <!-- TODO validate "Add" -->
     <string name="add_item">"Item toevoegen"</string>
     <string name="action_add_condition">"Voorwaarde toevoegen"</string>
     <string name="dialog_title_days_of_week">"Dagen van week"</string>
@@ -468,7 +468,7 @@
     <string name="no_valid_condition_added">"Geen geldige voorwaarden gedefinieerd"</string>
     <string name="no_upcoming_notifications">"Geen komende meldingen"</string>
     <string name="error_indicator">"Error indicator"</string> <!-- translated -->
-    <string name="next_notification_app_off">"Off (app disabled)"</string> <!-- TODO translate -->
+    <string name="next_notification_app_off">"Uit (app uitgeschakeld)"</string> <!-- TODO validate "Off (app disabled)" -->
     <string name="next_day">"volgende dag"</string> <!-- Used in: "22:00 - 6:00 next day" -->
     <string name="notifications">"Notificaties"</string>
     <string name="warning_no_email_app">"Geen e-mailapplicatie gevonden om het rapport te verzenden."</string>
@@ -514,7 +514,7 @@
     <string name="inclusive_time">"inclusief"</string> <!-- used in the time range dialog to determine if edge value should be included -->
 
     <string name="pref_user_notifications">"Gebruiker notificaties"</string>
-    <string name="user_notification">"User notification"</string> <!-- TODO translate -->
+    <string name="user_notification">"Gebruikersmelding"</string> <!-- TODO validate "User notification" -->
 
     <string name="action_set_as_home_screens">"Instellen als startscherm"</string>
 
@@ -556,20 +556,20 @@
     <string name="action_say_time">"Vertel tijd"</string>
     <string name="feature_say_text">"Vertel tekst"</string>
     <string name="feature_say_time">"Vertel tijd"</string>
-    <string name="pref_text_to_speech_engine">"Engine"</string> <!-- TODO translate -->
-    <string name="pref_text_to_speech_voice">"Voice"</string> <!-- TODO translate -->
+    <string name="pref_text_to_speech_engine">"Motor"</string> <!-- TODO validate "Engine" -->
+    <string name="pref_text_to_speech_voice">"Stem"</string> <!-- TODO validate "Voice" -->
     <string name="pref_text_to_speech">"Tekst naar spraak"</string>
     <string name="system_default_audio_stream">"System standaard"</string>
     <string name="application_default">"Applicatie standaard"</string>
     <string name="speak_time_format_with_minutes">"Vertel tijd met minuten"</string>
     <string name="speak_time_on_the_hour">"Vertel tijd met uren"</string>
-    <string name="tts_not_initialized">"Text to speech engine is not yet initialized"</string> <!-- TODO translate -->
-    <string name="tts_test_say_time_title">"Test saying time"</string> <!-- TODO translate -->
-    <string name="tts_system_settings_title">"System settings"</string> <!-- TODO translate -->
-    <string name="tts_system_settings_summary">"Open system text-to-speech settings"</string> <!-- TODO translate -->
-    <string name="pref_tts_overlaps_sounds">"Voice and sound overlap"</string> <!-- TODO translate -->
-    <string name="pref_tts_overlaps_sounds_on">"Speaking will overlap sounds"</string> <!-- TODO translate -->
-    <string name="pref_tts_overlaps_sounds_off">"Speaking will not overlap sounds (sound will play before or after voice)"</string> <!-- TODO translate -->
+    <string name="tts_not_initialized">"Tekst-naar-spraak-engine is nog niet geïnitialiseerd"</string> <!-- TODO validate "Text to speech engine is not yet initialized" -->
+    <string name="tts_test_say_time_title">"Test spreektijd"</string> <!-- TODO validate "Test saying time" -->
+    <string name="tts_system_settings_title">"Systeem instellingen"</string> <!-- TODO validate "System settings" -->
+    <string name="tts_system_settings_summary">"Systeem-tekst-naar-spraakinstellingen openen"</string> <!-- TODO validate "Open system text-to-speech settings" -->
+    <string name="pref_tts_overlaps_sounds">"Stem en geluid overlappen elkaar"</string> <!-- TODO validate "Voice and sound overlap" -->
+    <string name="pref_tts_overlaps_sounds_on">"Spreken overlapt geluiden"</string> <!-- TODO validate "Speaking will overlap sounds" -->
+    <string name="pref_tts_overlaps_sounds_off">"Spreken overlapt geen geluiden (geluid speelt voor of na stem)"</string> <!-- TODO validate "Speaking will not overlap sounds (sound will play before or after voice)" -->
 
     <string name="operating_modes_settings">"Uitvoer modus"</string> <!-- name of menu with different mode settings e.g. Do Not Disturb, vibrate mode -->
     <string name="operating_modes_settings_summary">"Niet storen, trillen modus, etc."</string>
@@ -594,145 +594,145 @@
     <string name="premium_sound_lock">"Dit is premium geluid dat voor gebruik moet worden ontgrendeld."</string>
     <string name="premium_feature_lock">"Dit is een premium-functie die vóór gebruik moet worden ontgrendeld."</string>
     <string name="change_subscription">"Abonnement wijzigen"</string>
-    <string name="upgrade_to_pro">"Upgrade"</string> <!-- TODO translate -->
-    <string name="loading_failed">"Error"</string> <!-- TODO translate -->
-    <string name="month_very_short">"month"</string> <!-- TODO translate -->
-    <string name="discount_save_money">"Save"</string> <!-- TODO translate --> <!-- percent saved will be displayed below this text -->
-    <string name="premium_settings">"Upgrade to Premium to unlock all settings"</string> <!-- TODO translate -->
-    <string name="buy_premium">"Buy Premium"</string> <!-- TODO translate -->
-    <string name="already_bought">"Already bought"</string> <!-- TODO translate -->
-    <string name="get_all_features">"Get all features"</string> <!-- TODO translate -->
-    <string name="get_all_sounds">"Get all sounds"</string> <!-- TODO translate -->
-    <string name="premium_what_you_get">"What you will get:"</string> <!-- TODO translate -->
-    <string name="feature1">"Unlimited active notifications"</string> <!-- TODO translate -->
-    <string name="feature2">"Strike the hours"</string> <!-- TODO translate -->
-    <string name="feature3">"Custom repeat interval"</string> <!-- TODO translate -->
-    <string name="feature4">"Say text or time"</string> <!-- TODO translate -->
-    <string name="feature5">"Add your own sounds"</string> <!-- TODO translate -->
-    <string name="feature6">"Priority support"</string> <!-- TODO translate -->
-    <string name="feature7">"Night mode (dark theme)"</string> <!-- TODO translate -->
-    <string name="feature_all_sounds">"All sounds in the app"</string> <!-- TODO translate -->
-    <string name="yearly_payment">"Yearly payment."</string> <!-- TODO translate -->
-    <string name="free_trial">"Free trial."</string> <!-- TODO translate -->
-    <string name="cancel_anytime">"Cancel anytime."</string> <!-- TODO translate -->
-    <string name="premium_helps_support">"By upgrading BlipBlip you not only get all features or sounds but you also support its continuous and independent development."</string> <!-- TODO translate -->
-    <string name="loading">"Loading…"</string> <!-- TODO translate -->
-    <string name="notification_has_premium_features">"This notification uses Premium features"</string> <!-- TODO translate -->
+    <string name="upgrade_to_pro">"Upgrade"</string> <!-- TODO validate "Upgrade" -->
+    <string name="loading_failed">"Fout"</string> <!-- TODO validate "Error" -->
+    <string name="month_very_short">"maand"</string> <!-- TODO validate "month" -->
+    <string name="discount_save_money">"Opslaan"</string> <!-- TODO validate "Save" --> <!-- percent saved will be displayed below this text -->
+    <string name="premium_settings">"Upgrade naar Premium om alle instellingen te ontgrendelen"</string> <!-- TODO validate "Upgrade to Premium to unlock all settings" -->
+    <string name="buy_premium">"Koop Premium"</string> <!-- TODO validate "Buy Premium" -->
+    <string name="already_bought">"Al gekocht"</string> <!-- TODO validate "Already bought" -->
+    <string name="get_all_features">"Krijg alle functies"</string> <!-- TODO validate "Get all features" -->
+    <string name="get_all_sounds">"Krijg alle geluiden"</string> <!-- TODO validate "Get all sounds" -->
+    <string name="premium_what_you_get">"Wat krijg je:"</string> <!-- TODO validate "What you will get:" -->
+    <string name="feature1">"Onbeperkte actieve meldingen"</string> <!-- TODO validate "Unlimited active notifications" -->
+    <string name="feature2">"Sla de uren"</string> <!-- TODO validate "Strike the hours" -->
+    <string name="feature3">"Aangepast herhalingsinterval"</string> <!-- TODO validate "Custom repeat interval" -->
+    <string name="feature4">"Zeg tekst of tijd"</string> <!-- TODO validate "Say text or time" -->
+    <string name="feature5">"Voeg je eigen geluiden toe"</string> <!-- TODO validate "Add your own sounds" -->
+    <string name="feature6">"Prioritaire ondersteuning"</string> <!-- TODO validate "Priority support" -->
+    <string name="feature7">"Nachtmodus (donker thema)"</string> <!-- TODO validate "Night mode (dark theme)" -->
+    <string name="feature_all_sounds">"Alle geluiden in de app"</string> <!-- TODO validate "All sounds in the app" -->
+    <string name="yearly_payment">"Jaarlijkse betaling."</string> <!-- TODO validate "Yearly payment." -->
+    <string name="free_trial">"Gratis proefversie."</string> <!-- TODO validate "Free trial." -->
+    <string name="cancel_anytime">"Annuleer op elk gewenst moment."</string> <!-- TODO validate "Cancel anytime." -->
+    <string name="premium_helps_support">"Door BlipBlip te upgraden, krijgt u niet alleen alle functies of geluiden, maar ondersteunt u ook de continue en onafhankelijke ontwikkeling ervan."</string> <!-- TODO validate "By upgrading BlipBlip you not only get all features or sounds but you also support its continuous and independent development." -->
+    <string name="loading">"Bezig met laden…"</string> <!-- TODO validate "Loading…" -->
+    <string name="notification_has_premium_features">"Deze melding maakt gebruik van Premium-functies"</string> <!-- TODO validate "This notification uses Premium features" -->
 
     <!-- Premium Bar -->
-    <string name="bar_upgrade_to_enable_app">"Upgrade to Premium"</string> <!-- TODO translate -->
-    <string name="bar_upgrade_to_enable_notification">"Upgrade to Premium"</string> <!-- TODO translate -->
-    <string name="bar_upgrade">"Buy now"</string> <!-- TODO translate -->
-    <string name="bar_uses_premium_features">"Notification uses Premium features"</string> <!-- TODO translate -->
+    <string name="bar_upgrade_to_enable_app">"Upgrade naar premium"</string> <!-- TODO validate "Upgrade to Premium" -->
+    <string name="bar_upgrade_to_enable_notification">"Upgrade naar premium"</string> <!-- TODO validate "Upgrade to Premium" -->
+    <string name="bar_upgrade">"Koop nu"</string> <!-- TODO validate "Buy now" -->
+    <string name="bar_uses_premium_features">"Melding maakt gebruik van Premium-functies"</string> <!-- TODO validate "Notification uses Premium features" -->
 
     <!-- Premium dialog -->
-    <string name="premium_dialog_title">"Premium"</string> <!-- TODO translate -->
-    <string name="premium_dialog_upgrade_now">"Buy now"</string> <!-- TODO translate -->
-    <string name="premium_dialog_later">"Later"</string> <!-- TODO translate -->
-    <string name="premium_icon_description">"Premium star icon"</string> <!-- TODO translate -->
-    <string name="feature_user_sounds_title">"User added sounds is a Premium feature"</string> <!-- TODO translate -->
-    <string name="feature_user_sounds_description">"Make BlipBlip app yours by adding your own sounds."</string> <!-- TODO translate -->
-    <string name="feature_premium_sounds_title">"All sounds available in the app is a Premium feature"</string> <!-- TODO translate -->
-    <string name="feature_premium_sounds_description">"Customize your notification with many built-in sounds."</string> <!-- TODO translate -->
-    <string name="feature_strike_the_hour_title">"Strike the hours is a Premium feature"</string> <!-- TODO translate -->
-    <string name="feature_strike_the_hour_description">"Create your own grandfather clock (e.g. plays 3 times at three o'clock)"</string> <!-- TODO translate -->
-    <string name="feature_say_text_title">"Saying text is a Premium feature"</string> <!-- TODO translate -->
-    <string name="feature_say_text_description">"Use text-to-speech in your notifications."</string> <!-- TODO translate -->
-    <string name="feature_say_time_title">"Saying time is a Premium feature"</string> <!-- TODO translate -->
-    <string name="feature_say_time_description">"Speak current time using text to speech."</string> <!-- TODO translate -->
-    <string name="feature_custom_repeat_interval_title">"Custom repeat interval is a Premium feature"</string> <!-- TODO translate -->
-    <string name="feature_custom_repeat_interval_description">"Set any time interval (other than standard 1, 5, 10, 15, 20, 30 and 60 minutes)."</string> <!-- TODO translate -->
-    <string name="feature_general_title">"Notification uses Premium functions"</string> <!-- TODO translate -->
-    <string name="feature_general_description">"Upgrade to enable notification and enjoy all Premium features."</string> <!-- TODO translate -->
-    <string name="feature_multiple_active_notifications_title">"Unlimited active notifications is a Premium feature"</string> <!-- TODO translate -->
-    <string name="feature_multiple_active_notifications_description">"Use many notifications with different settings at the same time (e.g. play twice at 12:00, play once at 12:30). In free version you can have one active notification."</string> <!-- TODO translate -->
-    <string name="feature_unlimited_silent_time_title">"Unlimited silent time configurations is a Premium feature"</string> <!-- TODO translate -->
-    <string name="feature_unlimited_silent_time_description">"In free version you can activate 5 silent time configurations."</string> <!-- TODO translate -->
+    <string name="premium_dialog_title">"Premie"</string> <!-- TODO validate "Premium" -->
+    <string name="premium_dialog_upgrade_now">"Koop nu"</string> <!-- TODO validate "Buy now" -->
+    <string name="premium_dialog_later">"Later"</string> <!-- TODO validate "Later" -->
+    <string name="premium_icon_description">"Premium sterpictogram"</string> <!-- TODO validate "Premium star icon" -->
+    <string name="feature_user_sounds_title">"Door de gebruiker toegevoegde geluiden is een premiumfunctie"</string> <!-- TODO validate "User added sounds is a Premium feature" -->
+    <string name="feature_user_sounds_description">"Maak de BlipBlip-app van jou door je eigen geluiden toe te voegen."</string> <!-- TODO validate "Make BlipBlip app yours by adding your own sounds." -->
+    <string name="feature_premium_sounds_title">"Alle geluiden die beschikbaar zijn in de app is een Premium-functie"</string> <!-- TODO validate "All sounds available in the app is a Premium feature" -->
+    <string name="feature_premium_sounds_description">"Pas uw melding aan met veel ingebouwde geluiden."</string> <!-- TODO validate "Customize your notification with many built-in sounds." -->
+    <string name="feature_strike_the_hour_title">"Sla de uren is een Premium-functie"</string> <!-- TODO validate "Strike the hours is a Premium feature" -->
+    <string name="feature_strike_the_hour_description">"Maak je eigen grootvaderklok (speelt bijvoorbeeld 3 keer om drie uur)"</string> <!-- TODO validate "Create your own grandfather clock (e.g. plays 3 times at three o'clock)" -->
+    <string name="feature_say_text_title">"Tekst zeggen is een premiumfunctie"</string> <!-- TODO validate "Saying text is a Premium feature" -->
+    <string name="feature_say_text_description">"Gebruik tekst-naar-spraak in uw meldingen."</string> <!-- TODO validate "Use text-to-speech in your notifications." -->
+    <string name="feature_say_time_title">"Spreektijd is een Premium-functie"</string> <!-- TODO validate "Saying time is a Premium feature" -->
+    <string name="feature_say_time_description">"Spreek de huidige tijd met behulp van tekst naar spraak."</string> <!-- TODO validate "Speak current time using text to speech." -->
+    <string name="feature_custom_repeat_interval_title">"Aangepaste herhalingsinterval is een premiumfunctie"</string> <!-- TODO validate "Custom repeat interval is a Premium feature" -->
+    <string name="feature_custom_repeat_interval_description">"Stel een willekeurig tijdsinterval in (anders dan standaard 1, 5, 10, 15, 20, 30 en 60 minuten)."</string> <!-- TODO validate "Set any time interval (other than standard 1, 5, 10, 15, 20, 30 and 60 minutes)." -->
+    <string name="feature_general_title">"Melding maakt gebruik van Premium-functies"</string> <!-- TODO validate "Notification uses Premium functions" -->
+    <string name="feature_general_description">"Upgrade om meldingen in te schakelen en geniet van alle Premium-functies."</string> <!-- TODO validate "Upgrade to enable notification and enjoy all Premium features." -->
+    <string name="feature_multiple_active_notifications_title">"Onbeperkte actieve meldingen is een Premium-functie"</string> <!-- TODO validate "Unlimited active notifications is a Premium feature" -->
+    <string name="feature_multiple_active_notifications_description">"Gebruik veel meldingen met verschillende instellingen tegelijkertijd (bijv. Speel tweemaal om 12:00 uur, speel één keer om 12.30 uur). In de gratis versie kunt u één actieve melding hebben."</string> <!-- TODO validate "Use many notifications with different settings at the same time (e.g. play twice at 12:00, play once at 12:30). In free version you can have one active notification." -->
+    <string name="feature_unlimited_silent_time_title">"Onbeperkte silent time-configuraties is een premium-functie"</string> <!-- TODO validate "Unlimited silent time configurations is a Premium feature" -->
+    <string name="feature_unlimited_silent_time_description">"In de gratis versie kunt u 5 stille tijdconfiguraties activeren."</string> <!-- TODO validate "In free version you can activate 5 silent time configurations." -->
 
     <string name="vibrate_seconds">"Tril %ss"</string> <!-- s at the end is for seconds, %s will be replaced by value e.g. "Vibrate 1.2s" -->
     <string name="wait_and_vibrate_seconds">"Wacht %1$ss, tril %2$ss"</string> <!-- s at the end is for seconds, "%1$s" and "%2$s" will be replaced by value e.g. "Vibrate 1.2s" -->
 
     <!-- button descriptions -->
-    <string name="add_new_sound">"Add new sound from external app"</string> <!-- TODO translate -->
-    <string name="create_new_vibration">"Create new vibration"</string> <!-- TODO translate -->
-    <string name="create_new_notification">"Create new notification"</string> <!-- TODO translate -->
-    <string name="create_new_silent_time">"Create new silent time"</string> <!-- TODO translate -->
-    <string name="additional_info_button">"Additional information"</string> <!-- TODO translate -->
-    <string name="start_playing">"Start playing"</string> <!-- TODO translate -->
-    <string name="stop_playing">"Stop playing"</string> <!-- TODO translate -->
-    <string name="edit_mode">"Edit mode"</string> <!-- TODO translate -->
+    <string name="add_new_sound">"Voeg nieuw geluid toe vanuit een externe app"</string> <!-- TODO validate "Add new sound from external app" -->
+    <string name="create_new_vibration">"Maak nieuwe vibratie"</string> <!-- TODO validate "Create new vibration" -->
+    <string name="create_new_notification">"Maak een nieuwe melding"</string> <!-- TODO validate "Create new notification" -->
+    <string name="create_new_silent_time">"Maak nieuwe stille tijd"</string> <!-- TODO validate "Create new silent time" -->
+    <string name="additional_info_button">"Extra informatie"</string> <!-- TODO validate "Additional information" -->
+    <string name="start_playing">"Begin met spelen"</string> <!-- TODO validate "Start playing" -->
+    <string name="stop_playing">"Stop met spelen"</string> <!-- TODO validate "Stop playing" -->
+    <string name="edit_mode">"Bewerkingsmodus"</string> <!-- TODO validate "Edit mode" -->
 
     <!-- widget -->
-    <string name="app_enabled">"App enabled"</string> <!-- TODO translate -->
-    <string name="app_disabled">"App disabled"</string> <!-- TODO translate -->
+    <string name="app_enabled">"App ingeschakeld"</string> <!-- TODO validate "App enabled" -->
+    <string name="app_disabled">"App uitgeschakeld"</string> <!-- TODO validate "App disabled" -->
 
-    <string name="warning_volume_dnd">"Cannot show volume slider because Do Not Disturb mode is enabled"</string> <!-- TODO translate -->
+    <string name="warning_volume_dnd">"De volumeregelaar kan niet worden weergegeven, omdat de modus Niet storen is ingeschakeld"</string> <!-- TODO validate "Cannot show volume slider because Do Not Disturb mode is enabled" -->
 
     <!-- auto start failed dialog -->
-    <string name="auto_start_fail_title">"Auto-start failed"</string> <!-- TODO translate -->
-    <string name="auto_start_fail_message">"Automatic start of the app failed. Please check your settings."</string> <!-- TODO translate -->
+    <string name="auto_start_fail_title">"Auto-start mislukt"</string> <!-- TODO validate "Auto-start failed" -->
+    <string name="auto_start_fail_message">"Automatische start van de app mislukt. Controleer uw instellingen."</string> <!-- TODO validate "Automatic start of the app failed. Please check your settings." -->
 
     <!-- manual settings dialog -->
-    <string name="manual_settings_title">"Manual settings needed"</string> <!-- TODO translate -->
-    <string name="manual_settings_summary">"Some manual settings may be needed for BlipBlip to function properly."</string> <!-- TODO translate -->
-    <string name="manual_settings_tips_subtitle">"Please try tips below"</string> <!-- TODO translate -->
-    <string name="manual_settings_tip_settings_description">"Open settings"</string> <!-- TODO translate -->
-    <string name="manual_settings_snackbar">"Please review manual settings which may be needed for app to function properly"</string> <!-- TODO translate -->
-    <string name="manual_settings_show">"Show"</string> <!-- TODO translate -->
-    <string name="manual_settings_permanent_notification_description">"Enable permanent notification (recommended)"</string> <!-- TODO translate -->
-    <string name="manual_settings_permanent_notification_info">"App will show permanently visible notification, which may prevent app from being killed."</string> <!-- TODO translate -->
-    <string name="manual_settings_general_tips_button">"Show general tips"</string> <!-- TODO translate -->
-    <string name="manual_settings_general_tips">"General tips"</string> <!-- TODO translate -->
-    <string name="manual_settings_general_tip1">"Disable power saving modes in device settings"</string> <!-- TODO translate -->
-    <string name="manual_settings_general_tip2">"Disable apps that optimize battery or memory usage (e.g. task killers)"</string> <!-- TODO translate -->
-    <string name="manual_settings_general_tips_info">"If your device requires changing other options, please let us know using \"Report problem\" option."</string> <!-- TODO translate -->
-    <string name="manual_settings_suggest_report_problem">"If after trying above tips you would still have issues with the app, please report the problem."</string> <!-- TODO translate -->
-    <string name="manual_settings_do_not_show_again">"Do not show again"</string> <!-- TODO translate -->
+    <string name="manual_settings_title">"Handmatige instellingen nodig"</string> <!-- TODO validate "Manual settings needed" -->
+    <string name="manual_settings_summary">"Sommige handmatige instellingen kunnen nodig zijn om BlipBlip goed te laten werken."</string> <!-- TODO validate "Some manual settings may be needed for BlipBlip to function properly." -->
+    <string name="manual_settings_tips_subtitle">"Probeer onderstaande tips"</string> <!-- TODO validate "Please try tips below" -->
+    <string name="manual_settings_tip_settings_description">"Open instellingen"</string> <!-- TODO validate "Open settings" -->
+    <string name="manual_settings_snackbar">"Controleer de handmatige instellingen die nodig kunnen zijn om de app correct te laten werken"</string> <!-- TODO validate "Please review manual settings which may be needed for app to function properly" -->
+    <string name="manual_settings_show">"Laten zien"</string> <!-- TODO validate "Show" -->
+    <string name="manual_settings_permanent_notification_description">"Permanente melding inschakelen (aanbevolen)"</string> <!-- TODO validate "Enable permanent notification (recommended)" -->
+    <string name="manual_settings_permanent_notification_info">"App toont een permanent zichtbare melding, waardoor de app mogelijk niet wordt gedood."</string> <!-- TODO validate "App will show permanently visible notification, which may prevent app from being killed." -->
+    <string name="manual_settings_general_tips_button">"Algemene tips weergeven"</string> <!-- TODO validate "Show general tips" -->
+    <string name="manual_settings_general_tips">"Algemene tips"</string> <!-- TODO validate "General tips" -->
+    <string name="manual_settings_general_tip1">"Schakel energiebesparingsmodi uit in apparaatinstellingen"</string> <!-- TODO validate "Disable power saving modes in device settings" -->
+    <string name="manual_settings_general_tip2">"Schakel apps uit die het gebruik van batterijen of geheugen optimaliseren (bijvoorbeeld taakmoordenaars)"</string> <!-- TODO validate "Disable apps that optimize battery or memory usage (e.g. task killers)" -->
+    <string name="manual_settings_general_tips_info">"Als uw apparaat andere opties moet wijzigen, laat het ons dan weten via de optie 'Probleem melden'."</string> <!-- TODO validate "If your device requires changing other options, please let us know using \"Report problem\" option." -->
+    <string name="manual_settings_suggest_report_problem">"Als je na het proberen van bovenstaande tips nog steeds problemen ondervindt met de app, meld dit dan alsjeblieft."</string> <!-- TODO validate "If after trying above tips you would still have issues with the app, please report the problem." -->
+    <string name="manual_settings_do_not_show_again">"Niet meer laten zien"</string> <!-- TODO validate "Do not show again" -->
 
     <!-- Tips -->
-    <string name="tip1">"Add the app to Un-monitored Apps."</string> <!-- TODO translate -->
-    <string name="tip2">"Add the app to Protected Apps."</string> <!-- TODO translate -->
-    <string name="tip3">"Exclude app from lock screen cleanup."</string> <!-- TODO translate -->
-    <string name="tip4">"Disable Stamina mode."</string> <!-- TODO translate -->
-    <string name="tip5">"Disable battery usage restrictions."</string> <!-- TODO translate -->
-    <string name="tip6">"Add app to auto-run."</string> <!-- TODO translate -->
-    <string name="tip7">"Disable background task cleaner."</string> <!-- TODO translate -->
-    <string name="tip8">"Add app to auto-start."</string> <!-- TODO translate -->
-    <string name="tip9">"Add app to auto-start."</string> <!-- TODO translate -->
-    <string name="tip10">"Lock the app on recent apps screen."</string> <!-- TODO translate -->
-    <string name="tip11">"Allow the app to work in Standby Mode."</string> <!-- TODO translate -->
-    <string name="tip12">"Add the app to auto-launch."</string> <!-- TODO translate -->
-    <string name="tip14">"Add the app to Background protection whitelist."</string> <!-- TODO translate -->
+    <string name="tip1">"Voeg de app toe aan Un-gecontroleerde apps."</string> <!-- TODO validate "Add the app to Un-monitored Apps." -->
+    <string name="tip2">"Voeg de app toe aan beveiligde apps."</string> <!-- TODO validate "Add the app to Protected Apps." -->
+    <string name="tip3">"App uitsluiten van opschonen op vergrendelingsscherm."</string> <!-- TODO validate "Exclude app from lock screen cleanup." -->
+    <string name="tip4">"Schakel de Stamina-modus uit."</string> <!-- TODO validate "Disable Stamina mode." -->
+    <string name="tip5">"Schakel batterijgebruiksbeperkingen uit."</string> <!-- TODO validate "Disable battery usage restrictions." -->
+    <string name="tip6">"Voeg app toe om automatisch uit te voeren."</string> <!-- TODO validate "Add app to auto-run." -->
+    <string name="tip7">"Schakel achtergrondtaakschoonmaakprogramma uit."</string> <!-- TODO validate "Disable background task cleaner." -->
+    <string name="tip8">"Voeg app toe om automatisch te starten."</string> <!-- TODO validate "Add app to auto-start." -->
+    <string name="tip9">"Voeg app toe om automatisch te starten."</string> <!-- TODO validate "Add app to auto-start." -->
+    <string name="tip10">"Vergrendel de app op het scherm met recente apps."</string> <!-- TODO validate "Lock the app on recent apps screen." -->
+    <string name="tip11">"Laat de app werken in de standby-modus."</string> <!-- TODO validate "Allow the app to work in Standby Mode." -->
+    <string name="tip12">"Voeg de app toe om automatisch te starten."</string> <!-- TODO validate "Add the app to auto-launch." -->
+    <string name="tip14">"Voeg de app toe aan de whitelist Achtergrondbescherming."</string> <!-- TODO validate "Add the app to Background protection whitelist." -->
 
     <!-- Tips detailed instructions -->
-    <string name="tip1_settings">"Settings &gt; Device maintenance &gt; Battery &gt; Unmonitored apps list"</string> <!-- TODO translate -->
-    <string name="tip2_settings">"Settings &gt; Advanced Settings &gt; Battery Manager &gt; Protected Apps or Settings &gt; Privacy and Security &gt; Protected Apps"</string> <!-- TODO translate -->
-    <string name="tip3_settings">"Phone Manager &gt; Lock screen cleanup &gt; un-check the app (don't close) or Settings &gt; Battery &gt; Lock screen cleanup &gt; un-check the app (don't close)"</string> <!-- TODO translate -->
-    <string name="tip4_settings">"Settings &gt; Power management &gt; STAMINA mode &gt; Apps active in standby &gt; Add BlipBlip"</string> <!-- TODO translate -->
-    <string name="tip5_settings">"Settings &gt; Additional Settings &gt; Battery &amp; Performance &gt; Manage Apps Battery Usage &gt; Choose Apps &gt; BlipBlip &gt; No restrictions"</string> <!-- TODO translate -->
-    <string name="tip6_settings">"Settings &gt; Permissions &gt; Auto-run management"</string> <!-- TODO translate -->
-    <string name="tip7_settings">"Settings &gt; Background task clear &gt; White list"</string> <!-- TODO translate -->
-    <string name="tip8_settings">"Asus Mobile Manager &gt; Auto-start Manager"</string> <!-- TODO translate -->
-    <string name="tip9_settings">"Phone Manager &gt; Privacy Permissions &gt; Startup Manager"</string> <!-- TODO translate -->
-    <string name="tip10_settings">"Recent apps &gt; tap BlipBlip and pull it down"</string> <!-- TODO translate -->
-    <string name="tip11_settings">"Security &gt; Power &gt; Standby Management &gt; Set BlipBlip to run in Standby Mode"</string> <!-- TODO translate -->
-    <string name="tip12_settings">"Security &gt; Permission &gt; Auto-Launched apps &gt; enable auto-launch"</string> <!-- TODO translate -->
-    <string name="tip13_settings">"Long press red circle &gt; swipe down BlipBlip"</string> <!-- TODO translate -->
-    <string name="tip14_settings">"NeoSafe app &gt; Power &gt; right top settings icon &gt; Background protection whitelist &gt; add BlipBLip"</string> <!-- TODO translate -->
-    <string name="tip15_settings">"NeoSafe app &gt; Permission &gt; Power-on speedup &gt; Enable BlipBlip"</string> <!-- TODO translate -->
+    <string name="tip1_settings">"Instellingen&gt; Apparaatonderhoud&gt; Batterij&gt; Lijst met niet-gecontroleerde apps"</string> <!-- TODO validate "Settings > Device maintenance > Battery > Unmonitored apps list" -->
+    <string name="tip2_settings">"Instellingen&gt; Geavanceerde instellingen&gt; Batterijbeheer&gt; Beveiligde apps of instellingen&gt; Privacy en beveiliging&gt; Beveiligde apps"</string> <!-- TODO validate "Settings > Advanced Settings > Battery Manager > Protected Apps or Settings > Privacy and Security > Protected Apps" -->
+    <string name="tip3_settings">"Telefoonbeheer&gt; Opschonen van het scherm&gt; de controle van de app ongedaan maken (niet sluiten) of Instellingen&gt; Batterij&gt; het scherm opruimen&gt; de controle van de app ongedaan maken (niet afsluiten)"</string> <!-- TODO validate "Phone Manager > Lock screen cleanup > un-check the app (don't close) or Settings > Battery > Lock screen cleanup > un-check the app (don't close)" -->
+    <string name="tip4_settings">"Instellingen&gt; Energiebeheer&gt; STAMINA-modus&gt; Apps actief in stand-by&gt; BlipBlip toevoegen"</string> <!-- TODO validate "Settings > Power management > STAMINA mode > Apps active in standby > Add BlipBlip" -->
+    <string name="tip5_settings">"Instellingen&gt; Aanvullende instellingen&gt; Batterij en prestaties&gt; Apps beheren Batterijgebruik&gt; Kies apps&gt; BlipBlip&gt; Geen beperkingen"</string> <!-- TODO validate "Settings > Additional Settings > Battery & Performance > Manage Apps Battery Usage > Choose Apps > BlipBlip > No restrictions" -->
+    <string name="tip6_settings">"Instellingen&gt; Toestemmingen&gt; Beheer automatisch uitvoeren"</string> <!-- TODO validate "Settings > Permissions > Auto-run management" -->
+    <string name="tip7_settings">"Instellingen&gt; Achtergrondtaak wissen&gt; Witte lijst"</string> <!-- TODO validate "Settings > Background task clear > White list" -->
+    <string name="tip8_settings">"Asus Mobile Manager&gt; Auto-start Manager"</string> <!-- TODO validate "Asus Mobile Manager > Auto-start Manager" -->
+    <string name="tip9_settings">"Telefoonbeheer&gt; Privacymachtigingen&gt; Startup Manager"</string> <!-- TODO validate "Phone Manager > Privacy Permissions > Startup Manager" -->
+    <string name="tip10_settings">"Recente apps&gt; tik op BlipBlip en trek het naar beneden"</string> <!-- TODO validate "Recent apps > tap BlipBlip and pull it down" -->
+    <string name="tip11_settings">"Beveiliging&gt; Voeding&gt; Stand-bybeheer&gt; Stel BlipBlip in om in stand-bymodus te werken"</string> <!-- TODO validate "Security > Power > Standby Management > Set BlipBlip to run in Standby Mode" -->
+    <string name="tip12_settings">"Beveiliging&gt; Toestemming&gt; Auto-gelanceerde apps&gt; inschakelen automatisch starten"</string> <!-- TODO validate "Security > Permission > Auto-Launched apps > enable auto-launch" -->
+    <string name="tip13_settings">"Druk lang op de rode cirkel&gt; veeg BlipBlip naar beneden"</string> <!-- TODO validate "Long press red circle > swipe down BlipBlip" -->
+    <string name="tip14_settings">"NeoSafe app&gt; Aan / uit&gt; pictogram voor instellingen rechtsboven&gt; witte achtergrond voor achtergrondbeveiliging&gt; BlipBLip toevoegen"</string> <!-- TODO validate "NeoSafe app > Power > right top settings icon > Background protection whitelist > add BlipBLip" -->
+    <string name="tip15_settings">"NeoSafe app&gt; Machtiging&gt; Aanzetten bij inschakelen&gt; BlipBlip inschakelen"</string> <!-- TODO validate "NeoSafe app > Permission > Power-on speedup > Enable BlipBlip" -->
 
     <!-- UI Settings -->
     <string name="pref_user_interface">"Gebruikersinterface"</string>
     <!-- edit button -->
-    <string name="edit_button_title">"Editing button"</string> <!-- TODO translate -->
-    <string name="edit_button_on">"Show edit button"</string> <!-- TODO translate -->
-    <string name="edit_button_off">"Hide edit button. To enter edit mode use edit action from menu."</string> <!-- TODO translate -->
+    <string name="edit_button_title">"Knop bewerken"</string> <!-- TODO validate "Editing button" -->
+    <string name="edit_button_on">"Toon bewerk knop"</string> <!-- TODO validate "Show edit button" -->
+    <string name="edit_button_off">"Verberg bewerken knop. Om de bewerkmodus te openen, gebruikt u bewerkingsactie vanuit het menu."</string> <!-- TODO validate "Hide edit button. To enter edit mode use edit action from menu." -->
     <!-- changelog -->
-    <string name="version_history">"Version history"</string> <!-- TODO translate -->
-    <string name="changelog_title">"What's new?"</string> <!-- TODO translate -->
-    <string name="show_changelog_title">"Show changelog"</string> <!-- TODO translate -->
-    <string name="show_changelog_on">"Show recent changes on startup."</string> <!-- TODO translate -->
-    <string name="show_changelog_off">"Do not show recent changes on startup."</string> <!-- TODO translate -->
+    <string name="version_history">"Versiegeschiedenis"</string> <!-- TODO validate "Version history" -->
+    <string name="changelog_title">"Wat is er nieuw?"</string> <!-- TODO validate "What's new?" -->
+    <string name="show_changelog_title">"Toon changelog"</string> <!-- TODO validate "Show changelog" -->
+    <string name="show_changelog_on">"Toon recente wijzigingen bij het opstarten."</string> <!-- TODO validate "Show recent changes on startup." -->
+    <string name="show_changelog_off">"Toon geen recente wijzigingen bij het opstarten."</string> <!-- TODO validate "Do not show recent changes on startup." -->
     <!-- inclusive -->
     <string name="show_inclusive_title">"Wijzig tijdbereik eindigen"</string>
     <string name="show_inclusive_on">"Wanneer je het tijdbereik opgeeft, geef knoppen weer die toelaten om te specificeren of de opgegeven tijd in het tijdbereik moet worden opgenomen."</string>
@@ -742,88 +742,88 @@
     <string name="show_actions_switches_on">"Toon schakelaars voor uitschakel acties."</string>
     <string name="show_actions_switches_off">"Verberg schakelaars voor uitschakel acties."</string>
     <!-- Show kill dialog -->
-    <string name="show_kill_dialog_title">"Notify if app was killed"</string> <!-- TODO translate -->
-    <string name="show_kill_dialog_on">"Display message when opening the app if it was detected that the app was killed."</string> <!-- TODO translate -->
-    <string name="show_kill_dialog_off">"Do not display message when it was detected that the app was killed."</string> <!-- TODO translate -->
+    <string name="show_kill_dialog_title">"Informeer of de app is vermoord"</string> <!-- TODO validate "Notify if app was killed" -->
+    <string name="show_kill_dialog_on">"Geef een bericht weer bij het openen van de app als is gedetecteerd dat de app is vermoord."</string> <!-- TODO validate "Display message when opening the app if it was detected that the app was killed." -->
+    <string name="show_kill_dialog_off">"Bericht niet weergeven wanneer gedetecteerd werd dat de app was vermoord."</string> <!-- TODO validate "Do not display message when it was detected that the app was killed." -->
 
     <!-- examples -->
-    <string name="double_sound_every_hour">"Double sound every hour"</string> <!-- TODO translate -->
-    <string name="single_sound_half_past">"Sound half past every hour"</string> <!-- TODO translate -->
-    <string name="speak_time_every_hour">"Speak current time every hour"</string> <!-- TODO translate -->
+    <string name="double_sound_every_hour">"Dubbel geluid elk uur"</string> <!-- TODO validate "Double sound every hour" -->
+    <string name="single_sound_half_past">"Klinkt half uur om het uur"</string> <!-- TODO validate "Sound half past every hour" -->
+    <string name="speak_time_every_hour">"Spreek de huidige tijd elk uur"</string> <!-- TODO validate "Speak current time every hour" -->
 
     <!-- ads -->
-    <string name="remove_ads">"Remove ads"</string> <!-- TODO translate -->
-    <string name="channel_name_watch_ads">"Watch ads"</string> <!-- TODO translate -->
-    <string name="channel_name_premium_end_description">"You will get notified when you need to watch an ad to enjoy all Premium features for free"</string> <!-- TODO translate -->
+    <string name="remove_ads">"Verwijder advertenties"</string> <!-- TODO validate "Remove ads" -->
+    <string name="channel_name_watch_ads">"Bekijk advertenties"</string> <!-- TODO validate "Watch ads" -->
+    <string name="channel_name_premium_end_description">"U ontvangt een melding wanneer u een advertentie moet bekijken om gratis van alle Premium-functies te genieten"</string> <!-- TODO validate "You will get notified when you need to watch an ad to enjoy all Premium features for free" -->
 
-    <string name="watch_ads">"Watch ads"</string> <!-- TODO translate -->
-    <string name="watch_video">"Watch video ad"</string> <!-- TODO translate -->
-    <string name="subscribe_without_ads">"Subscribe without ads"</string> <!-- TODO translate -->
-    <string name="start_free_trial">"Start a free trial"</string> <!-- TODO translate -->
-    <string name="tooltip_accept_privacy_policy">"Please check the box."</string> <!-- TODO translate -->
-    <string name="welcome_to_blipBlip">"Welcome to BlipBlip!"</string> <!-- TODO translate -->
-    <string name="blipblip_free_description_short">"This app is free in exchange for watching ads."</string> <!-- TODO translate -->
-    <string name="blipblip_free_description">"This app is free in exchange for watching ads. You can access all Blip Blip Premium features and sounds for specified time period after watching an ad. The more you watch the longer you can use the app."</string> <!-- TODO translate -->
-    <string name="blipblip_free_description2">"There are no ads in user interface. There are no ads popping up unexpectedly. You always choose when you want to watch an ad."</string> <!-- TODO translate -->
-    <string name="watch_ad">"View ad"</string> <!-- TODO translate -->
-    <string name="ad">"Ad"</string> <!-- TODO translate --> <!-- Short label of button for watching ads -->
-    <string name="accept_privacy_policy">"I accept privacy policy."</string> <!-- TODO translate -->
-    <string name="get_blipblip">"Want free app without ads and without Premium features? Tap here."</string> <!-- TODO translate -->
-    <string name="privacy_policy">"Privacy policy."</string> <!-- TODO translate -->
-    <string name="get_time_of_premium">"Get %1$s of Premium"</string> <!-- TODO translate -->
-    <string name="get_time_of_premium_more">"View ad to use the app for additional time: %s."</string> <!-- TODO translate -->
-    <string name="premium_time_left">"Time left for using the app: %s"</string> <!-- TODO translate -->
-    <string name="app_was_enabled">"App has been enabled!"</string> <!-- TODO translate -->
-    <string name="failed_loading_ad">"Failed to load ad. Check your internet connection and try again."</string> <!-- TODO translate -->
-    <string name="continue_with_ads">"Continue with ads"</string> <!-- TODO translate -->
-    <string name="continue_with_relevant_question">"Can we use your data to tailor ads for you?"</string> <!-- TODO translate -->
-    <string name="continue_with_relevant_ads">"Yes, continue with relevant ads"</string> <!-- TODO translate -->
-    <string name="continue_with_less_relevant_ads">"No, continue with less relevant ads"</string> <!-- TODO translate -->
-    <string name="watch_ads_to_get_next_notification">"View ads to get next notification"</string> <!-- TODO translate -->
-    <string name="watch_ad_to_enable_app">"View ad to enable app"</string> <!-- TODO translate -->
-    <string name="popup_watch_more_ads_to_get_notification">"Watch more ads to get this notification"</string> <!-- TODO translate -->
+    <string name="watch_ads">"Bekijk advertenties"</string> <!-- TODO validate "Watch ads" -->
+    <string name="watch_video">"Bekijk videoadvertentie"</string> <!-- TODO validate "Watch video ad" -->
+    <string name="subscribe_without_ads">"Abonneer zonder advertenties"</string> <!-- TODO validate "Subscribe without ads" -->
+    <string name="start_free_trial">"Start een gratis proefperiode"</string> <!-- TODO validate "Start a free trial" -->
+    <string name="tooltip_accept_privacy_policy">"Vink het vakje aan."</string> <!-- TODO validate "Please check the box." -->
+    <string name="welcome_to_blipBlip">"Welkom bij BlipBlip!"</string> <!-- TODO validate "Welcome to BlipBlip!" -->
+    <string name="blipblip_free_description_short">"Deze app is gratis in ruil voor het bekijken van advertenties."</string> <!-- TODO validate "This app is free in exchange for watching ads." -->
+    <string name="blipblip_free_description">"Deze app is gratis in ruil voor het bekijken van advertenties. U hebt toegang tot alle Blip Blip Premium-functies en -geluiden gedurende een bepaalde periode na het bekijken van een advertentie. Hoe meer je kijkt hoe langer je de app kunt gebruiken."</string> <!-- TODO validate "This app is free in exchange for watching ads. You can access all Blip Blip Premium features and sounds for specified time period after watching an ad. The more you watch the longer you can use the app." -->
+    <string name="blipblip_free_description2">"Er zijn geen advertenties in de gebruikersinterface. Er komen geen onverwachts advertenties tevoorschijn. U kiest altijd wanneer u een advertentie wilt bekijken."</string> <!-- TODO validate "There are no ads in user interface. There are no ads popping up unexpectedly. You always choose when you want to watch an ad." -->
+    <string name="watch_ad">"Bekijk advertentie"</string> <!-- TODO validate "View ad" -->
+    <string name="ad">"Advertentie"</string> <!-- TODO validate "Ad" --> <!-- Short label of button for watching ads -->
+    <string name="accept_privacy_policy">"Ik accepteer het privacybeleid."</string> <!-- TODO validate "I accept privacy policy." -->
+    <string name="get_blipblip">"Wilt u gratis app zonder advertenties en zonder Premium-functies? Klik hier."</string> <!-- TODO validate "Want free app without ads and without Premium features? Tap here." -->
+    <string name="privacy_policy">"Privacybeleid."</string> <!-- TODO validate "Privacy policy." -->
+    <string name="get_time_of_premium">"Ontvang %1$s aan premium"</string> <!-- TODO validate "Get %1$s of Premium" -->
+    <string name="get_time_of_premium_more">"Bekijk advertentie om de app te gebruiken voor extra tijd: %s ."</string> <!-- TODO validate "View ad to use the app for additional time: %s." -->
+    <string name="premium_time_left">"Resterende tijd voor het gebruik van de app: %s"</string> <!-- TODO validate "Time left for using the app: %s" -->
+    <string name="app_was_enabled">"App is ingeschakeld!"</string> <!-- TODO validate "App has been enabled!" -->
+    <string name="failed_loading_ad">"Kan advertentie niet laden. Controleer uw internetverbinding en probeer het opnieuw."</string> <!-- TODO validate "Failed to load ad. Check your internet connection and try again." -->
+    <string name="continue_with_ads">"Ga door met advertenties"</string> <!-- TODO validate "Continue with ads" -->
+    <string name="continue_with_relevant_question">"Kunnen we uw gegevens gebruiken om advertenties voor u op maat te maken?"</string> <!-- TODO validate "Can we use your data to tailor ads for you?" -->
+    <string name="continue_with_relevant_ads">"Ja, ga verder met relevante advertenties"</string> <!-- TODO validate "Yes, continue with relevant ads" -->
+    <string name="continue_with_less_relevant_ads">"Nee, ga door met minder relevante advertenties"</string> <!-- TODO validate "No, continue with less relevant ads" -->
+    <string name="watch_ads_to_get_next_notification">"Bekijk advertenties om de volgende melding te krijgen"</string> <!-- TODO validate "View ads to get next notification" -->
+    <string name="watch_ad_to_enable_app">"Bekijk advertentie om app in te schakelen"</string> <!-- TODO validate "View ad to enable app" -->
+    <string name="popup_watch_more_ads_to_get_notification">"Bekijk meer advertenties om deze melding te ontvangen"</string> <!-- TODO validate "Watch more ads to get this notification" -->
 
     <!-- ads notifications -->
-    <string name="notif_premium_ended">"Application disabled"</string> <!-- TODO translate -->
-    <string name="notif_premium_ended_description">"Watch ad to enable it again."</string> <!-- TODO translate -->
-    <string name="notif_stop_warn">"Next notification won't be played"</string> <!-- TODO translate -->
-    <string name="notif_stop_warn_description">"Watch ad to extend time for using the app"</string> <!-- TODO translate -->
+    <string name="notif_premium_ended">"Toepassing uitgeschakeld"</string> <!-- TODO validate "Application disabled" -->
+    <string name="notif_premium_ended_description">"Bekijk advertentie om opnieuw in te schakelen."</string> <!-- TODO validate "Watch ad to enable it again." -->
+    <string name="notif_stop_warn">"Volgende melding zal niet worden gespeeld"</string> <!-- TODO validate "Next notification won't be played" -->
+    <string name="notif_stop_warn_description">"Bekijk advertentie om de tijd te verlengen voor het gebruik van de app"</string> <!-- TODO validate "Watch ad to extend time for using the app" -->
 
     <!-- ads settings -->
-    <string name="ads_notifications">"Need of viewing ads"</string> <!-- TODO translate -->
-    <string name="ads_notifications_on">"You will get notifications about the need of viewing ads"</string> <!-- TODO translate -->
-    <string name="ads_notifications_off">"You won't get any notifications about the need of viewing ads"</string> <!-- TODO translate -->
-    <string name="ads_warn_app_disabled">"Application disabling"</string> <!-- TODO translate -->
-    <string name="ads_warn_app_disabled_on">"Notify when app is disabled because not enough ads were watched"</string> <!-- TODO translate -->
-    <string name="ads_warn_app_disabled_off">"Do not notify when app will be disabled because not enough ads were watched"</string> <!-- TODO translate -->
-    <string name="ads_warn_next_notification">"Next notification"</string> <!-- TODO translate -->
-    <string name="ads_warn_next_notification_on">"Notify when next notification won't be played because not enough ads were watched"</string> <!-- TODO translate -->
-    <string name="ads_warn_next_notification_off">"Do not notify when next notification won't be played because not enough ads were watched"</string> <!-- TODO translate -->
+    <string name="ads_notifications">"Noodzaak om advertenties te bekijken"</string> <!-- TODO validate "Need of viewing ads" -->
+    <string name="ads_notifications_on">"U ontvangt meldingen over de noodzaak om advertenties te bekijken"</string> <!-- TODO validate "You will get notifications about the need of viewing ads" -->
+    <string name="ads_notifications_off">"U ontvangt geen meldingen over de noodzaak om advertenties te bekijken"</string> <!-- TODO validate "You won't get any notifications about the need of viewing ads" -->
+    <string name="ads_warn_app_disabled">"Applicatie uitschakelen"</string> <!-- TODO validate "Application disabling" -->
+    <string name="ads_warn_app_disabled_on">"Melden wanneer app is uitgeschakeld omdat niet genoeg advertenties zijn bekeken"</string> <!-- TODO validate "Notify when app is disabled because not enough ads were watched" -->
+    <string name="ads_warn_app_disabled_off">"Stel niet op wanneer de app wordt uitgeschakeld omdat er niet genoeg advertenties zijn bekeken"</string> <!-- TODO validate "Do not notify when app will be disabled because not enough ads were watched" -->
+    <string name="ads_warn_next_notification">"Volgende melding"</string> <!-- TODO validate "Next notification" -->
+    <string name="ads_warn_next_notification_on">"Melden wanneer de volgende melding niet wordt afgespeeld omdat er niet genoeg advertenties zijn bekeken"</string> <!-- TODO validate "Notify when next notification won't be played because not enough ads were watched" -->
+    <string name="ads_warn_next_notification_off">"Stel niet op wanneer de volgende melding niet wordt afgespeeld omdat er niet genoeg advertenties zijn bekeken"</string> <!-- TODO validate "Do not notify when next notification won't be played because not enough ads were watched" -->
 
     <!-- Privacy settings -->
-    <string name="privacy">"Privacy"</string> <!-- TODO translate -->
-    <string name="ads">"Ads"</string> <!-- TODO translate -->
-    <string name="pref_personalized_ads">"Personalized ads"</string> <!-- TODO translate -->
-    <string name="pref_personalized_ads_on">"Ads will be personalized."</string> <!-- TODO translate -->
-    <string name="pref_personalized_ads_off">"Your data will not be used to personalize ads."</string> <!-- TODO translate -->
-    <string name="pref_analytics">"Analytics"</string> <!-- TODO translate -->
-    <string name="pref_collect_analytics">"Collect anonymous data"</string> <!-- TODO translate -->
-    <string name="pref_collect_analytics_on">"Collect anonymous, aggregated data to help improve the app."</string> <!-- TODO translate -->
-    <string name="pref_collect_analytics_off">"Do not collect any data."</string> <!-- TODO translate -->
-    <string name="pref_analytics_anonymize_ip">"Anonymize location"</string> <!-- TODO translate -->
-    <string name="pref_analytics_anonymize_ip_on">"Anonymize IP address sent to determine user location."</string> <!-- TODO translate -->
-    <string name="pref_analytics_anonymize_ip_off">"Use full IP address only for detemining user's general location (country, city)."</string> <!-- TODO translate -->
+    <string name="privacy">"Privacy"</string> <!-- TODO validate "Privacy" -->
+    <string name="ads">"advertenties"</string> <!-- TODO validate "Ads" -->
+    <string name="pref_personalized_ads">"Gepersonaliseerde advertenties"</string> <!-- TODO validate "Personalized ads" -->
+    <string name="pref_personalized_ads_on">"Advertenties worden gepersonaliseerd."</string> <!-- TODO validate "Ads will be personalized." -->
+    <string name="pref_personalized_ads_off">"Uw gegevens worden niet gebruikt om advertenties te personaliseren."</string> <!-- TODO validate "Your data will not be used to personalize ads." -->
+    <string name="pref_analytics">"Analytics"</string> <!-- TODO validate "Analytics" -->
+    <string name="pref_collect_analytics">"Verzamel anonieme gegevens"</string> <!-- TODO validate "Collect anonymous data" -->
+    <string name="pref_collect_analytics_on">"Verzamel anonieme, verzamelde gegevens om de app te verbeteren."</string> <!-- TODO validate "Collect anonymous, aggregated data to help improve the app." -->
+    <string name="pref_collect_analytics_off">"Verzamel geen gegevens."</string> <!-- TODO validate "Do not collect any data." -->
+    <string name="pref_analytics_anonymize_ip">"Locatie anonimiseren"</string> <!-- TODO validate "Anonymize location" -->
+    <string name="pref_analytics_anonymize_ip_on">"Anonymize IP-adres verzonden om de locatie van de gebruiker te bepalen."</string> <!-- TODO validate "Anonymize IP address sent to determine user location." -->
+    <string name="pref_analytics_anonymize_ip_off">"Gebruik het volledige IP-adres alleen voor het bepalen van de algemene locatie van de gebruiker (land, stad)."</string> <!-- TODO validate "Use full IP address only for detemining user's general location (country, city)." -->
 
     <!-- install BlipBlip free -->
-    <string name="dialog_free_premium_title">"Want Premium free?"</string> <!-- TODO translate -->
-    <string name="dialog_free_premium_description">"Watch ads in exchange for Premium features in %1$s app."</string> <!-- TODO translate -->
-    <string name="open_app">"Open app"</string> <!-- TODO translate -->
-    <string name="install_app">"Install app"</string> <!-- TODO translate -->
-    <string name="maybe_later">"Maybe later"</string> <!-- TODO translate -->
+    <string name="dialog_free_premium_title">"Wilt u Premium gratis?"</string> <!-- TODO validate "Want Premium free?" -->
+    <string name="dialog_free_premium_description">"Bekijk advertenties in ruil voor premiumfuncties in %1$s app %1$s ."</string> <!-- TODO validate "Watch ads in exchange for Premium features in %1$s app." -->
+    <string name="open_app">"Open app"</string> <!-- TODO validate "Open app" -->
+    <string name="install_app">"Installeer app"</string> <!-- TODO validate "Install app" -->
+    <string name="maybe_later">"Misschien later"</string> <!-- TODO validate "Maybe later" -->
 
     <!-- tooltips -->
-    <string name="tooltip_play_next_button">"Playback next notification"</string> <!-- TODO translate -->
-    <string name="tooltip_upcoming_notifications">"See and playback upcoming notifications"</string> <!-- TODO translate -->
-    <string name="tooltip_upcoming_notification">"Press time to playback upcoming notifications"</string> <!-- TODO translate -->
+    <string name="tooltip_play_next_button">"Speel de volgende melding af"</string> <!-- TODO validate "Playback next notification" -->
+    <string name="tooltip_upcoming_notifications">"Bekijk en speel aankomende meldingen"</string> <!-- TODO validate "See and playback upcoming notifications" -->
+    <string name="tooltip_upcoming_notification">"Druk op tijd om komende meldingen af te spelen"</string> <!-- TODO validate "Press time to playback upcoming notifications" -->
 
 </resources>

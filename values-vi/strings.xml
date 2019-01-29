@@ -15,7 +15,7 @@
     <string name="allow_while_idle_title">"Cho phép trong chế độ pin yếu"</string>
     <string name="allow_while_idle_off">"Khi điện thoại vào chế độ pin yếu vài thông báo có thể bị bỏ qua."</string>
     <string name="allow_while_idle_on">"Cho phép làm việc trong chế độ pin yếu (Doze/Idle). Có thể không luôn hoạt động cho các thông báo nhiều hơn tần suất 15 phút. Cài đặt có thể ảnh hưởng đến việc sử dụng pin."</string>
-    <string name="app_killed_title">"App was killed"</string> <!-- TODO translate -->
+    <string name="app_killed_title">"Ứng dụng đã bị giết"</string> <!-- TODO validate "App was killed" -->
 
     <!-- Next Notification -->
     <string name="next_notification_off">"Tắt"</string>
@@ -29,14 +29,14 @@
     <string name="day_friday">"Thứ Sáu"</string>
     <string name="day_saturday">"Thứ Bảy"</string>
     <string name="day_sunday">"Chủ Nhật"</string>
-    <string name="preview_upcoming_notifications">"Preview upcoming notifications"</string> <!-- TODO translate -->
-    <string name="disable_premium_notifications">"Disable Premium notifications"</string> <!-- TODO translate -->
+    <string name="preview_upcoming_notifications">"Xem trước các thông báo sắp tới"</string> <!-- TODO validate "Preview upcoming notifications" -->
+    <string name="disable_premium_notifications">"Vô hiệu hóa thông báo Premium"</string> <!-- TODO validate "Disable Premium notifications" -->
 
     <!-- Sound -->
     <string name="sound_text">"Âm thanh"</string>
     <string name="sound_blipblip">"BlipBlip"</string> <!-- translated -->
     <string name="sound_casio_watch">"Đồng hồ Casio"</string>
-    <string name="sound_casio_watch_single">"Casio watch (single)"</string> <!-- TODO translate -->
+    <string name="sound_casio_watch_single">"Đồng hồ Casio (đơn)"</string> <!-- TODO validate "Casio watch (single)" -->
     <string name="sound_gong">"Tiếng cồng"</string>
     <string name="sound_ships_bell">"Chuông tàu"</string>
     <string name="sound_double_ships_bell">"Chuông tàu hai lần"</string>
@@ -50,22 +50,22 @@
     <string name="sound_cat">"Mèo %1$s"</string>
     <string name="sound_dog">"Chó %1$s"</string>
     <string name="sound_rooster">"Gà trống"</string>
-    <string name="sound_guitar_strum">"Guitar strum %1$s"</string> <!-- TODO translate -->
-    <string name="sound_water_drop">"Water drop %1$s"</string> <!-- TODO translate -->
-    <string name="sound_water_pouring">"Water pouring %1$s"</string> <!-- TODO translate -->
-    <string name="sound_sonar_ping">"Sonar ping %1$s"</string> <!-- TODO translate -->
-    <string name="sound_inception">"Inception %1$s"</string> <!-- TODO translate -->
-    <string name="sound_the_pips">"The pips"</string> <!-- TODO translate -->
-    <string name="sound_short_pip">"Short pip"</string> <!-- TODO translate -->
-    <string name="sound_long_pip">"Long pip"</string> <!-- TODO translate -->
-    <string name="sound_crystal_glass">"Crystal glass"</string> <!-- TODO translate -->
-    <string name="sound_ping">"Ping"</string> <!-- TODO translate -->
-    <string name="sound_gong_num">"Gong %1$s"</string> <!-- TODO translate -->
-    <string name="sound_boxing_bell">"Boxing bell"</string> <!-- TODO translate -->
-    <string name="sound_singing_bowl">"Singing bowl %1$s"</string> <!-- TODO translate -->
-    <string name="sound_ekg">"Heart monitor %1$s"</string> <!-- TODO translate -->
-    <string name="sound_got_item">"Got item"</string> <!-- TODO translate -->
-    <string name="sound_guitar">"Guitar"</string> <!-- TODO translate -->
+    <string name="sound_guitar_strum">"Đàn ghi-ta %1$s"</string> <!-- TODO validate "Guitar strum %1$s" -->
+    <string name="sound_water_drop">"Giọt nước %1$s"</string> <!-- TODO validate "Water drop %1$s" -->
+    <string name="sound_water_pouring">"Rót nước %1$s"</string> <!-- TODO validate "Water pouring %1$s" -->
+    <string name="sound_sonar_ping">"Sonar ping %1$s"</string> <!-- TODO validate "Sonar ping %1$s" -->
+    <string name="sound_inception">"Khởi đầu %1$s"</string> <!-- TODO validate "Inception %1$s" -->
+    <string name="sound_the_pips">"Pips"</string> <!-- TODO validate "The pips" -->
+    <string name="sound_short_pip">"Đường ống ngắn"</string> <!-- TODO validate "Short pip" -->
+    <string name="sound_long_pip">"Đường ống dài"</string> <!-- TODO validate "Long pip" -->
+    <string name="sound_crystal_glass">"Tinh thể thủy tinh"</string> <!-- TODO validate "Crystal glass" -->
+    <string name="sound_ping">"Bình"</string> <!-- TODO validate "Ping" -->
+    <string name="sound_gong_num">"Công %1$s"</string> <!-- TODO validate "Gong %1$s" -->
+    <string name="sound_boxing_bell">"Chuông đấm bốc"</string> <!-- TODO validate "Boxing bell" -->
+    <string name="sound_singing_bowl">"Hát bát %1$s"</string> <!-- TODO validate "Singing bowl %1$s" -->
+    <string name="sound_ekg">"Theo dõi tim %1$s"</string> <!-- TODO validate "Heart monitor %1$s" -->
+    <string name="sound_got_item">"Có mặt hàng"</string> <!-- TODO validate "Got item" -->
+    <string name="sound_guitar">"Đàn ghi ta"</string> <!-- TODO validate "Guitar" -->
 
     <!-- Volume -->
     <string name="text_seek_volume">"Âm lượng"</string>
@@ -153,9 +153,9 @@
     <string name="pref_choose_audio_stream">"Luồng âm thanh"</string>
     <string name="audio_stream_phone_ring">"Điện thoại reo"</string>
     <string name="audio_stream_alarm">"Báo thức"</string>
-    <string name="audio_stream_alarm2">"Alarm clock"</string> <!-- TODO translate -->
+    <string name="audio_stream_alarm2">"Đồng hồ báo thức"</string> <!-- TODO validate "Alarm clock" -->
     <string name="audio_stream_media">"Phương tiện truyền thông"</string>
-    <string name="audio_stream_media2">"Music, Videos, Games"</string> <!-- TODO translate -->
+    <string name="audio_stream_media2">"Âm nhạc, Video, Trò chơi"</string> <!-- TODO validate "Music, Videos, Games" -->
     <string name="audio_stream_notification">"Thông báo"</string>
 
     <!-- Notifications -->
@@ -167,7 +167,7 @@
     <string name="pref_notification_always_on">"Hiển thị thông báo bất kể nó được bật hay không"</string>
     <string name="pref_notification_always_off">"Hiển thị thông báo chỉ khi nào nó được bật"</string>
     <string name="notification_settings_updated">"Đã cập nhật cài đặt thông báo"</string> <!-- message displayed when one of notification settings is updated without user interacting with these options -->
-    <string name="permanent_notification">"Permanent notification"</string> <!-- TODO translate -->
+    <string name="permanent_notification">"Thông báo thường trực"</string> <!-- TODO validate "Permanent notification" -->
 
     <!-- Notification Priority -->
     <string name="pref_notification_priority">"Mức độ thông báo"</string>
@@ -180,9 +180,9 @@
     <!-- Dismissible Notification -->
 
     <!-- Auto dismiss -->
-    <string name="auto_dismiss_notification_title">"Auto dismiss notification"</string> <!-- TODO translate -->
-    <string name="auto_dismiss_notification_on">"Dismiss notification automatically after some time."</string> <!-- TODO translate -->
-    <string name="auto_dismiss_notification_off">"Notification will not be dismissed automatically."</string> <!-- TODO translate -->
+    <string name="auto_dismiss_notification_title">"Thông báo tự động bỏ qua"</string> <!-- TODO validate "Auto dismiss notification" -->
+    <string name="auto_dismiss_notification_on">"Tự động thông báo sau một thời gian."</string> <!-- TODO validate "Dismiss notification automatically after some time." -->
+    <string name="auto_dismiss_notification_off">"Thông báo sẽ không được loại bỏ tự động."</string> <!-- TODO validate "Notification will not be dismissed automatically." -->
 
     <!-- Vibrate on Wear -->
     <string name="pref_vibrate_wearable_title">"Rung trên thiết bị đã kết nối"</string>
@@ -248,7 +248,7 @@
     <string name="pref_experimental">"Cài đặt thử nghiệm"</string>
     <string name="experimental_warning">"Đây là các cài đặt thử nghiệm và có thể bị gỡ bỏ trong tương lai."</string>
     <string name="title_experimental_settings">"Cài đặt thử nghiệm"</string>
-    <string name="huawei_fix">"Huawei fix"</string> <!-- TODO translate -->
+    <string name="huawei_fix">"Sửa Huawei"</string> <!-- TODO validate "Huawei fix" -->
 
     <!-- Menu - Share -->
     <string name="action_share">"Chia sẻ ứng dụng"</string>
@@ -262,9 +262,9 @@
     <string name="rate_us_message">"Cảm ơn bạn đã dành thời gian tham quan ứng dụng."</string>
     <string name="rate_us_onetofourstars">"1–4 sao"</string>
     <string name="rate_us_fivestars">"5 sao!"</string>
-    <string name="five_stars_description">"Five stars"</string> <!-- TODO translate -->
-    <string name="five_stars_title">"Love BlipBlip?"</string> <!-- TODO translate -->
-    <string name="five_stars_text">"Rate us 5 stars to help make BlipBlip even more awesome. Thanks!"</string> <!-- TODO translate -->
+    <string name="five_stars_description">"Năm ngôi sao"</string> <!-- TODO validate "Five stars" -->
+    <string name="five_stars_title">"Yêu BlipBlip?"</string> <!-- TODO validate "Love BlipBlip?" -->
+    <string name="five_stars_text">"Đánh giá chúng tôi 5 sao để giúp BlipBlip trở nên tuyệt vời hơn nữa. Cảm ơn!"</string> <!-- TODO validate "Rate us 5 stars to help make BlipBlip even more awesome. Thanks!" -->
 
     <!-- Menu - Error -->
     <string name="action_send_logs">"Báo cáo vấn đề"</string>
@@ -284,10 +284,10 @@
     <string name="about_graphics">"Đồ họa"</string>
     <string name="about_translations">"Bản dịch"</string>
     <string name="about_thank_you">"Cảm Ơn"</string>
-    <string name="about_images">"Images"</string> <!-- TODO translate -->
+    <string name="about_images">"Hình ảnh"</string> <!-- TODO validate "Images" -->
     <string name="about_libraries">"Thư viện"</string> <!-- title of screen showing licenses of programming libraries used by the app -->
     <string name="about_acknowledgements">"Lời cảm ơn"</string> <!-- name of screen with authors, translators and other people who have helped -->
-    <string name="about_translators_thank_you">"BlipBlip is translated by our users voluntarily and hereby we thank you for your support and contribution."</string> <!-- TODO translate -->
+    <string name="about_translators_thank_you">"BlipBlip được dịch bởi người dùng của chúng tôi một cách tự nguyện và qua đó chúng tôi cảm ơn bạn đã hỗ trợ và đóng góp của bạn."</string> <!-- TODO validate "BlipBlip is translated by our users voluntarily and hereby we thank you for your support and contribution." -->
 
     <!-- Visual -->
     <string name="pref_visual">"Cài đặt hình ảnh"</string>
@@ -366,11 +366,11 @@
     <string name="color_next_notification_bar">"Thanh thông báo màu tiếp theo"</string>
     <string name="color_next_notification_bar_on">"Sử dụng màu nền cho thanh thông báo tiếp theo."</string>
     <string name="color_next_notification_bar_off">"Sử dụng nền màu xám cho thanh thông báo tiếp theo."</string>
-    <string name="night_mode">"Night mode"</string> <!-- TODO translate -->
-    <string name="night_mode_on">"Enabled"</string> <!-- TODO translate -->
-    <string name="night_mode_off">"Disabled"</string> <!-- TODO translate -->
-    <string name="night_mode_auto">"Auto"</string> <!-- TODO translate -->
-    <string name="night_mode_system">"System setting"</string> <!-- TODO translate -->
+    <string name="night_mode">"Chế độ ban đêm"</string> <!-- TODO validate "Night mode" -->
+    <string name="night_mode_on">"Đã bật"</string> <!-- TODO validate "Enabled" -->
+    <string name="night_mode_off">"Tàn tật"</string> <!-- TODO validate "Disabled" -->
+    <string name="night_mode_auto">"Tự động"</string> <!-- TODO validate "Auto" -->
+    <string name="night_mode_system">"Thiết lập hệ thống"</string> <!-- TODO validate "System setting" -->
 
     <string name="title_activity_sounds">"Âm thanh"</string>
     <string name="title_activity_sound">"Âm thanh"</string> <!-- TODO validate "Sound" -->
@@ -387,10 +387,10 @@
     <string name="edit">"Sửa"</string> <!-- Name of action to edit list of sounds or list of vibrations, should be short -->
     <string name="editing">"Đang sửa"</string> <!-- Displayed in edit mode -->
     <string name="error_file_open_failed">"Mở tệp thất bại."</string>
-    <string name="error_file_open_no_permission">"No permission to open the file."</string> <!-- TODO translate -->
-    <string name="error_file_open_failed_no_permission_title">"Grant permission manually"</string> <!-- TODO translate -->
-    <string name="error_file_open_failed_no_permission">"No permission to open the file. Please open Settings and give permission to access storage."</string> <!-- TODO translate -->
-    <string name="error_file_open_failed_settings">"Open Settings"</string> <!-- TODO translate -->
+    <string name="error_file_open_no_permission">"Không được phép mở tập tin."</string> <!-- TODO validate "No permission to open the file." -->
+    <string name="error_file_open_failed_no_permission_title">"Cấp phép bằng tay"</string> <!-- TODO validate "Grant permission manually" -->
+    <string name="error_file_open_failed_no_permission">"Không được phép mở tập tin. Vui lòng mở Cài đặt và cấp quyền truy cập bộ nhớ."</string> <!-- TODO validate "No permission to open the file. Please open Settings and give permission to access storage." -->
+    <string name="error_file_open_failed_settings">"Mở cài đặt"</string> <!-- TODO validate "Open Settings" -->
     <string name="play_vibration">"Rung"</string> <!-- description of action of a button to perform vibration -->
     <string name="play_sound">"Phát âm thanh"</string> <!-- description of action of a button to play sound -->
     <string name="drag_handle">"Kéo điều khiển"</string>
@@ -399,8 +399,8 @@
     <string name="permission_denied">"Quyền bị từ chối"</string>
     <string name="permission_denied_message_no_addon">"BlipBlip không có quyền để đọc tệp."</string>
     <string name="permission_denied_message_no_addon_part2">"Vui lòng sử dụng một số ứng dụng khác chia sẻ tệp mà không cần sự cho phép bổ sung (ví dụ: Google Drive)."</string>
-    <string name="permission_denied_rationale_title">"Permission needed"</string> <!-- TODO translate -->
-    <string name="permission_denied_rationale">"Application does not have permission to read the file. Please grant the app permission to access the file. You can also share the file using other app which does not need using this permission."</string> <!-- TODO translate -->
+    <string name="permission_denied_rationale_title">"Cần có sự cho phép"</string> <!-- TODO validate "Permission needed" -->
+    <string name="permission_denied_rationale">"Ứng dụng không có quyền đọc tệp. Vui lòng cấp quyền cho ứng dụng để truy cập tệp. Bạn cũng có thể chia sẻ tệp bằng ứng dụng khác không cần sử dụng quyền này."</string> <!-- TODO validate "Application does not have permission to read the file. Please grant the app permission to access the file. You can also share the file using other app which does not need using this permission." -->
 
     <!-- Menu drawer strings -->
 
@@ -442,7 +442,7 @@
     <string name="disable_when_headset_off">"Đã bật tất cả thông báo"</string>
     <string name="disable_when_headset_toast">"Đã tắt thông báo BlipBlip vì bạn kết nối tai nghe."</string>
 
-    <string name="add">"Add"</string> <!-- TODO translate -->
+    <string name="add">"Thêm vào"</string> <!-- TODO validate "Add" -->
     <string name="add_item">"Thêm mục"</string>
     <string name="action_add_condition">"Thêm điều kiện"</string>
     <string name="dialog_title_days_of_week">"Ngày trong tuần"</string>
@@ -464,7 +464,7 @@
     <string name="no_valid_condition_added">"Không có điều kiện hợp lệ được xác định"</string>
     <string name="no_upcoming_notifications">"Không có thông báo nào sắp tới"</string>
     <string name="error_indicator">"Chỉ báo lỗi"</string>
-    <string name="next_notification_app_off">"Off (app disabled)"</string> <!-- TODO translate -->
+    <string name="next_notification_app_off">"Tắt (tắt ứng dụng)"</string> <!-- TODO validate "Off (app disabled)" -->
     <string name="next_day">"ngày kế tiếp"</string> <!-- Used in: "22:00 - 6:00 next day" -->
     <string name="notifications">"Thông báo"</string>
     <string name="warning_no_email_app">"Không tìm thấy ứng dụng email để gửi báo cáo."</string>
@@ -479,8 +479,8 @@
     <string name="advice_disable_task_killers_desc">"Trình đóng tác vụ nên bị vô hiệu hoặc BlipBlip nên được thêm vào danh sách trắng của chúng để giữ cho ứng dụng hoạt động."</string>
     <string name="advice_enable_foreground_service">"Bật dịch vụ trước nền"</string>
     <string name="advice_enable_foreground_service_desc2">"Tùy chọn dịch vụ trước nền thông báo cho hệ điều hành rằng ứng dụng đó không nên bị đóng nếu có thể."</string>
-    <string name="advice_enable_foreground_service_desc2_part2">"It will display persistent notification which can be hidden from system settings (hiding it from the app will disable this option)."</string> <!-- TODO translate -->
-    <string name="advice_enable_foreground_service_desc2_part3">"You can use button below to access system settings."</string> <!-- TODO translate -->
+    <string name="advice_enable_foreground_service_desc2_part2">"Nó sẽ hiển thị thông báo liên tục có thể bị ẩn khỏi cài đặt hệ thống (ẩn nó khỏi ứng dụng sẽ tắt tùy chọn này)."</string> <!-- TODO validate "It will display persistent notification which can be hidden from system settings (hiding it from the app will disable this option)." -->
+    <string name="advice_enable_foreground_service_desc2_part3">"Bạn có thể sử dụng nút bên dưới để truy cập cài đặt hệ thống."</string> <!-- TODO validate "You can use button below to access system settings." -->
 
     <string name="sound_in_use">"Âm thanh đang dùng và không thể xóa được."</string>
     <string name="vibration_in_use">"Rung đang dùng và không thể xóa được."</string>
@@ -510,7 +510,7 @@
     <string name="inclusive_time">"bao gồm"</string> <!-- used in the time range dialog to determine if edge value should be included -->
 
     <string name="pref_user_notifications">"Thông báo người dùng"</string>
-    <string name="user_notification">"User notification"</string> <!-- TODO translate -->
+    <string name="user_notification">"Thông báo người dùng"</string> <!-- TODO validate "User notification" -->
 
     <string name="action_set_as_home_screens">"Đặt làm màn hình khởi động"</string>
 
@@ -552,20 +552,20 @@
     <string name="action_say_time">"Nói thời gian"</string>
     <string name="feature_say_text">"Nói thời gian"</string>
     <string name="feature_say_time">"Nói thời gian"</string>
-    <string name="pref_text_to_speech_engine">"Engine"</string> <!-- TODO translate -->
-    <string name="pref_text_to_speech_voice">"Voice"</string> <!-- TODO translate -->
+    <string name="pref_text_to_speech_engine">"Động cơ"</string> <!-- TODO validate "Engine" -->
+    <string name="pref_text_to_speech_voice">"Tiếng nói"</string> <!-- TODO validate "Voice" -->
     <string name="pref_text_to_speech">"Văn bản để nói"</string>
     <string name="system_default_audio_stream">"Mặc định hệ thống"</string> <!-- TODO validate "System default" -->
     <string name="application_default">"Ứng dụng mặc định"</string>
     <string name="speak_time_format_with_minutes">"Nói thời gian với phút"</string>
     <string name="speak_time_on_the_hour">"Nói thời gian trong giờ"</string>
-    <string name="tts_not_initialized">"Text to speech engine is not yet initialized"</string> <!-- TODO translate -->
-    <string name="tts_test_say_time_title">"Test saying time"</string> <!-- TODO translate -->
-    <string name="tts_system_settings_title">"System settings"</string> <!-- TODO translate -->
-    <string name="tts_system_settings_summary">"Open system text-to-speech settings"</string> <!-- TODO translate -->
-    <string name="pref_tts_overlaps_sounds">"Voice and sound overlap"</string> <!-- TODO translate -->
-    <string name="pref_tts_overlaps_sounds_on">"Speaking will overlap sounds"</string> <!-- TODO translate -->
-    <string name="pref_tts_overlaps_sounds_off">"Speaking will not overlap sounds (sound will play before or after voice)"</string> <!-- TODO translate -->
+    <string name="tts_not_initialized">"Công cụ chuyển văn bản thành giọng nói chưa được khởi tạo"</string> <!-- TODO validate "Text to speech engine is not yet initialized" -->
+    <string name="tts_test_say_time_title">"Kiểm tra thời gian nói"</string> <!-- TODO validate "Test saying time" -->
+    <string name="tts_system_settings_title">"Cài đặt hệ thống"</string> <!-- TODO validate "System settings" -->
+    <string name="tts_system_settings_summary">"Mở cài đặt chuyển văn bản thành giọng nói"</string> <!-- TODO validate "Open system text-to-speech settings" -->
+    <string name="pref_tts_overlaps_sounds">"Giọng nói và âm thanh chồng chéo"</string> <!-- TODO validate "Voice and sound overlap" -->
+    <string name="pref_tts_overlaps_sounds_on">"Nói sẽ chồng chéo âm thanh"</string> <!-- TODO validate "Speaking will overlap sounds" -->
+    <string name="pref_tts_overlaps_sounds_off">"Nói sẽ không chồng chéo âm thanh (âm thanh sẽ phát trước hoặc sau giọng nói)"</string> <!-- TODO validate "Speaking will not overlap sounds (sound will play before or after voice)" -->
 
     <string name="operating_modes_settings">"Chế độ điều hành"</string> <!-- name of menu with different mode settings e.g. Do Not Disturb, vibrate mode -->
     <string name="operating_modes_settings_summary">"Đừng làm phiền, chế độ rung, v.v..."</string>
@@ -590,145 +590,145 @@
     <string name="premium_sound_lock">"Đây là âm thanh cao cấp yêu cầu mở khóa trước khi sử dụng."</string>
     <string name="premium_feature_lock">"Đây là tính năng cao cấp yêu cầu mở khóa trước khi sử dụng."</string>
     <string name="change_subscription">"Thay đổi đăng ký"</string>
-    <string name="upgrade_to_pro">"Upgrade"</string> <!-- TODO translate -->
-    <string name="loading_failed">"Error"</string> <!-- TODO translate -->
-    <string name="month_very_short">"month"</string> <!-- TODO translate -->
-    <string name="discount_save_money">"Save"</string> <!-- TODO translate --> <!-- percent saved will be displayed below this text -->
-    <string name="premium_settings">"Upgrade to Premium to unlock all settings"</string> <!-- TODO translate -->
-    <string name="buy_premium">"Buy Premium"</string> <!-- TODO translate -->
-    <string name="already_bought">"Already bought"</string> <!-- TODO translate -->
-    <string name="get_all_features">"Get all features"</string> <!-- TODO translate -->
-    <string name="get_all_sounds">"Get all sounds"</string> <!-- TODO translate -->
-    <string name="premium_what_you_get">"What you will get:"</string> <!-- TODO translate -->
-    <string name="feature1">"Unlimited active notifications"</string> <!-- TODO translate -->
-    <string name="feature2">"Strike the hours"</string> <!-- TODO translate -->
-    <string name="feature3">"Custom repeat interval"</string> <!-- TODO translate -->
-    <string name="feature4">"Say text or time"</string> <!-- TODO translate -->
-    <string name="feature5">"Add your own sounds"</string> <!-- TODO translate -->
-    <string name="feature6">"Priority support"</string> <!-- TODO translate -->
-    <string name="feature7">"Night mode (dark theme)"</string> <!-- TODO translate -->
-    <string name="feature_all_sounds">"All sounds in the app"</string> <!-- TODO translate -->
-    <string name="yearly_payment">"Yearly payment."</string> <!-- TODO translate -->
-    <string name="free_trial">"Free trial."</string> <!-- TODO translate -->
-    <string name="cancel_anytime">"Cancel anytime."</string> <!-- TODO translate -->
-    <string name="premium_helps_support">"By upgrading BlipBlip you not only get all features or sounds but you also support its continuous and independent development."</string> <!-- TODO translate -->
-    <string name="loading">"Loading…"</string> <!-- TODO translate -->
-    <string name="notification_has_premium_features">"This notification uses Premium features"</string> <!-- TODO translate -->
+    <string name="upgrade_to_pro">"Nâng cấp"</string> <!-- TODO validate "Upgrade" -->
+    <string name="loading_failed">"lỗi"</string> <!-- TODO validate "Error" -->
+    <string name="month_very_short">"tháng"</string> <!-- TODO validate "month" -->
+    <string name="discount_save_money">"Tiết kiệm"</string> <!-- TODO validate "Save" --> <!-- percent saved will be displayed below this text -->
+    <string name="premium_settings">"Nâng cấp lên Premium để mở khóa tất cả các cài đặt"</string> <!-- TODO validate "Upgrade to Premium to unlock all settings" -->
+    <string name="buy_premium">"Mua cao cấp"</string> <!-- TODO validate "Buy Premium" -->
+    <string name="already_bought">"Đã mua"</string> <!-- TODO validate "Already bought" -->
+    <string name="get_all_features">"Nhận tất cả các tính năng"</string> <!-- TODO validate "Get all features" -->
+    <string name="get_all_sounds">"Nhận tất cả âm thanh"</string> <!-- TODO validate "Get all sounds" -->
+    <string name="premium_what_you_get">"Những gì bạn sẽ nhận được:"</string> <!-- TODO validate "What you will get:" -->
+    <string name="feature1">"Thông báo hoạt động không giới hạn"</string> <!-- TODO validate "Unlimited active notifications" -->
+    <string name="feature2">"Tấn công hàng giờ"</string> <!-- TODO validate "Strike the hours" -->
+    <string name="feature3">"Khoảng thời gian lặp lại tùy chỉnh"</string> <!-- TODO validate "Custom repeat interval" -->
+    <string name="feature4">"Nói văn bản hoặc thời gian"</string> <!-- TODO validate "Say text or time" -->
+    <string name="feature5">"Thêm âm thanh của riêng bạn"</string> <!-- TODO validate "Add your own sounds" -->
+    <string name="feature6">"Hỗ trợ ưu tiên"</string> <!-- TODO validate "Priority support" -->
+    <string name="feature7">"Chế độ ban đêm (chủ đề tối)"</string> <!-- TODO validate "Night mode (dark theme)" -->
+    <string name="feature_all_sounds">"Tất cả âm thanh trong ứng dụng"</string> <!-- TODO validate "All sounds in the app" -->
+    <string name="yearly_payment">"Thanh toán hàng năm."</string> <!-- TODO validate "Yearly payment." -->
+    <string name="free_trial">"Dùng thử miễn phí."</string> <!-- TODO validate "Free trial." -->
+    <string name="cancel_anytime">"Hủy bỏ bất cứ lúc nào."</string> <!-- TODO validate "Cancel anytime." -->
+    <string name="premium_helps_support">"Bằng cách nâng cấp BlipBlip, bạn không chỉ nhận được tất cả các tính năng hoặc âm thanh mà bạn còn hỗ trợ sự phát triển độc lập và liên tục của nó."</string> <!-- TODO validate "By upgrading BlipBlip you not only get all features or sounds but you also support its continuous and independent development." -->
+    <string name="loading">"Tải…"</string> <!-- TODO validate "Loading…" -->
+    <string name="notification_has_premium_features">"Thông báo này sử dụng các tính năng Premium"</string> <!-- TODO validate "This notification uses Premium features" -->
 
     <!-- Premium Bar -->
-    <string name="bar_upgrade_to_enable_app">"Upgrade to Premium"</string> <!-- TODO translate -->
-    <string name="bar_upgrade_to_enable_notification">"Upgrade to Premium"</string> <!-- TODO translate -->
-    <string name="bar_upgrade">"Buy now"</string> <!-- TODO translate -->
-    <string name="bar_uses_premium_features">"Notification uses Premium features"</string> <!-- TODO translate -->
+    <string name="bar_upgrade_to_enable_app">"Nâng cấp lên hạng sang"</string> <!-- TODO validate "Upgrade to Premium" -->
+    <string name="bar_upgrade_to_enable_notification">"Nâng cấp lên hạng sang"</string> <!-- TODO validate "Upgrade to Premium" -->
+    <string name="bar_upgrade">"Mua ngay"</string> <!-- TODO validate "Buy now" -->
+    <string name="bar_uses_premium_features">"Thông báo sử dụng các tính năng cao cấp"</string> <!-- TODO validate "Notification uses Premium features" -->
 
     <!-- Premium dialog -->
-    <string name="premium_dialog_title">"Premium"</string> <!-- TODO translate -->
-    <string name="premium_dialog_upgrade_now">"Buy now"</string> <!-- TODO translate -->
-    <string name="premium_dialog_later">"Later"</string> <!-- TODO translate -->
-    <string name="premium_icon_description">"Premium star icon"</string> <!-- TODO translate -->
-    <string name="feature_user_sounds_title">"User added sounds is a Premium feature"</string> <!-- TODO translate -->
-    <string name="feature_user_sounds_description">"Make BlipBlip app yours by adding your own sounds."</string> <!-- TODO translate -->
-    <string name="feature_premium_sounds_title">"All sounds available in the app is a Premium feature"</string> <!-- TODO translate -->
-    <string name="feature_premium_sounds_description">"Customize your notification with many built-in sounds."</string> <!-- TODO translate -->
-    <string name="feature_strike_the_hour_title">"Strike the hours is a Premium feature"</string> <!-- TODO translate -->
-    <string name="feature_strike_the_hour_description">"Create your own grandfather clock (e.g. plays 3 times at three o'clock)"</string> <!-- TODO translate -->
-    <string name="feature_say_text_title">"Saying text is a Premium feature"</string> <!-- TODO translate -->
-    <string name="feature_say_text_description">"Use text-to-speech in your notifications."</string> <!-- TODO translate -->
-    <string name="feature_say_time_title">"Saying time is a Premium feature"</string> <!-- TODO translate -->
-    <string name="feature_say_time_description">"Speak current time using text to speech."</string> <!-- TODO translate -->
-    <string name="feature_custom_repeat_interval_title">"Custom repeat interval is a Premium feature"</string> <!-- TODO translate -->
-    <string name="feature_custom_repeat_interval_description">"Set any time interval (other than standard 1, 5, 10, 15, 20, 30 and 60 minutes)."</string> <!-- TODO translate -->
-    <string name="feature_general_title">"Notification uses Premium functions"</string> <!-- TODO translate -->
-    <string name="feature_general_description">"Upgrade to enable notification and enjoy all Premium features."</string> <!-- TODO translate -->
-    <string name="feature_multiple_active_notifications_title">"Unlimited active notifications is a Premium feature"</string> <!-- TODO translate -->
-    <string name="feature_multiple_active_notifications_description">"Use many notifications with different settings at the same time (e.g. play twice at 12:00, play once at 12:30). In free version you can have one active notification."</string> <!-- TODO translate -->
-    <string name="feature_unlimited_silent_time_title">"Unlimited silent time configurations is a Premium feature"</string> <!-- TODO translate -->
-    <string name="feature_unlimited_silent_time_description">"In free version you can activate 5 silent time configurations."</string> <!-- TODO translate -->
+    <string name="premium_dialog_title">"Cao cấp"</string> <!-- TODO validate "Premium" -->
+    <string name="premium_dialog_upgrade_now">"Mua ngay"</string> <!-- TODO validate "Buy now" -->
+    <string name="premium_dialog_later">"Một lát sau"</string> <!-- TODO validate "Later" -->
+    <string name="premium_icon_description">"Biểu tượng ngôi sao cao cấp"</string> <!-- TODO validate "Premium star icon" -->
+    <string name="feature_user_sounds_title">"Người dùng thêm âm thanh là một tính năng cao cấp"</string> <!-- TODO validate "User added sounds is a Premium feature" -->
+    <string name="feature_user_sounds_description">"Biến ứng dụng BlipBlip thành của bạn bằng cách thêm âm thanh của riêng bạn."</string> <!-- TODO validate "Make BlipBlip app yours by adding your own sounds." -->
+    <string name="feature_premium_sounds_title">"Tất cả âm thanh có sẵn trong ứng dụng là tính năng Premium"</string> <!-- TODO validate "All sounds available in the app is a Premium feature" -->
+    <string name="feature_premium_sounds_description">"Tùy chỉnh thông báo của bạn với nhiều âm thanh tích hợp."</string> <!-- TODO validate "Customize your notification with many built-in sounds." -->
+    <string name="feature_strike_the_hour_title">"Tấn công hàng giờ là một tính năng cao cấp"</string> <!-- TODO validate "Strike the hours is a Premium feature" -->
+    <string name="feature_strike_the_hour_description">"Tạo đồng hồ ông của riêng bạn (ví dụ: chơi 3 lần vào lúc ba giờ)"</string> <!-- TODO validate "Create your own grandfather clock (e.g. plays 3 times at three o'clock)" -->
+    <string name="feature_say_text_title">"Nói văn bản là một tính năng cao cấp"</string> <!-- TODO validate "Saying text is a Premium feature" -->
+    <string name="feature_say_text_description">"Sử dụng văn bản thành giọng nói trong thông báo của bạn."</string> <!-- TODO validate "Use text-to-speech in your notifications." -->
+    <string name="feature_say_time_title">"Nói thời gian là một tính năng cao cấp"</string> <!-- TODO validate "Saying time is a Premium feature" -->
+    <string name="feature_say_time_description">"Nói thời gian hiện tại bằng cách sử dụng văn bản để nói."</string> <!-- TODO validate "Speak current time using text to speech." -->
+    <string name="feature_custom_repeat_interval_title">"Khoảng thời gian lặp lại tùy chỉnh là một tính năng cao cấp"</string> <!-- TODO validate "Custom repeat interval is a Premium feature" -->
+    <string name="feature_custom_repeat_interval_description">"Đặt bất kỳ khoảng thời gian nào (ngoài tiêu chuẩn 1, 5, 10, 15, 20, 30 và 60 phút)."</string> <!-- TODO validate "Set any time interval (other than standard 1, 5, 10, 15, 20, 30 and 60 minutes)." -->
+    <string name="feature_general_title">"Thông báo sử dụng các chức năng Premium"</string> <!-- TODO validate "Notification uses Premium functions" -->
+    <string name="feature_general_description">"Nâng cấp để bật thông báo và tận hưởng tất cả các tính năng Premium."</string> <!-- TODO validate "Upgrade to enable notification and enjoy all Premium features." -->
+    <string name="feature_multiple_active_notifications_title">"Thông báo hoạt động không giới hạn là một tính năng cao cấp"</string> <!-- TODO validate "Unlimited active notifications is a Premium feature" -->
+    <string name="feature_multiple_active_notifications_description">"Sử dụng nhiều thông báo với các cài đặt khác nhau cùng một lúc (ví dụ: phát hai lần lúc 12:00, phát một lần lúc 12:30). Trong phiên bản miễn phí, bạn có thể có một thông báo hoạt động."</string> <!-- TODO validate "Use many notifications with different settings at the same time (e.g. play twice at 12:00, play once at 12:30). In free version you can have one active notification." -->
+    <string name="feature_unlimited_silent_time_title">"Cấu hình thời gian im lặng không giới hạn là một tính năng cao cấp"</string> <!-- TODO validate "Unlimited silent time configurations is a Premium feature" -->
+    <string name="feature_unlimited_silent_time_description">"Trong phiên bản miễn phí, bạn có thể kích hoạt 5 cấu hình thời gian im lặng."</string> <!-- TODO validate "In free version you can activate 5 silent time configurations." -->
 
     <string name="vibrate_seconds">"Rung %ss"</string> <!-- s at the end is for seconds, %s will be replaced by value e.g. "Vibrate 1.2s" -->
     <string name="wait_and_vibrate_seconds">"Chờ %1$ss, rung %2$ss"</string> <!-- s at the end is for seconds, "%1$s" and "%2$s" will be replaced by value e.g. "Vibrate 1.2s" -->
 
     <!-- button descriptions -->
-    <string name="add_new_sound">"Add new sound from external app"</string> <!-- TODO translate -->
-    <string name="create_new_vibration">"Create new vibration"</string> <!-- TODO translate -->
-    <string name="create_new_notification">"Create new notification"</string> <!-- TODO translate -->
-    <string name="create_new_silent_time">"Create new silent time"</string> <!-- TODO translate -->
-    <string name="additional_info_button">"Additional information"</string> <!-- TODO translate -->
-    <string name="start_playing">"Start playing"</string> <!-- TODO translate -->
-    <string name="stop_playing">"Stop playing"</string> <!-- TODO translate -->
-    <string name="edit_mode">"Edit mode"</string> <!-- TODO translate -->
+    <string name="add_new_sound">"Thêm âm thanh mới từ ứng dụng bên ngoài"</string> <!-- TODO validate "Add new sound from external app" -->
+    <string name="create_new_vibration">"Tạo rung động mới"</string> <!-- TODO validate "Create new vibration" -->
+    <string name="create_new_notification">"Tạo thông báo mới"</string> <!-- TODO validate "Create new notification" -->
+    <string name="create_new_silent_time">"Tạo thời gian im lặng mới"</string> <!-- TODO validate "Create new silent time" -->
+    <string name="additional_info_button">"Thông tin thêm"</string> <!-- TODO validate "Additional information" -->
+    <string name="start_playing">"Bắt đầu cuộc chơi"</string> <!-- TODO validate "Start playing" -->
+    <string name="stop_playing">"Dừng chơi lại"</string> <!-- TODO validate "Stop playing" -->
+    <string name="edit_mode">"Chế độ chỉnh sửa"</string> <!-- TODO validate "Edit mode" -->
 
     <!-- widget -->
-    <string name="app_enabled">"App enabled"</string> <!-- TODO translate -->
-    <string name="app_disabled">"App disabled"</string> <!-- TODO translate -->
+    <string name="app_enabled">"Ứng dụng được kích hoạt"</string> <!-- TODO validate "App enabled" -->
+    <string name="app_disabled">"Ứng dụng bị vô hiệu hóa"</string> <!-- TODO validate "App disabled" -->
 
-    <string name="warning_volume_dnd">"Cannot show volume slider because Do Not Disturb mode is enabled"</string> <!-- TODO translate -->
+    <string name="warning_volume_dnd">"Không thể hiển thị thanh trượt âm lượng vì chế độ Không làm phiền được bật"</string> <!-- TODO validate "Cannot show volume slider because Do Not Disturb mode is enabled" -->
 
     <!-- auto start failed dialog -->
-    <string name="auto_start_fail_title">"Auto-start failed"</string> <!-- TODO translate -->
-    <string name="auto_start_fail_message">"Automatic start of the app failed. Please check your settings."</string> <!-- TODO translate -->
+    <string name="auto_start_fail_title">"Tự động khởi động thất bại"</string> <!-- TODO validate "Auto-start failed" -->
+    <string name="auto_start_fail_message">"Tự động khởi động ứng dụng thất bại. Vui lòng kiểm tra cài đặt của bạn."</string> <!-- TODO validate "Automatic start of the app failed. Please check your settings." -->
 
     <!-- manual settings dialog -->
-    <string name="manual_settings_title">"Manual settings needed"</string> <!-- TODO translate -->
-    <string name="manual_settings_summary">"Some manual settings may be needed for BlipBlip to function properly."</string> <!-- TODO translate -->
-    <string name="manual_settings_tips_subtitle">"Please try tips below"</string> <!-- TODO translate -->
-    <string name="manual_settings_tip_settings_description">"Open settings"</string> <!-- TODO translate -->
-    <string name="manual_settings_snackbar">"Please review manual settings which may be needed for app to function properly"</string> <!-- TODO translate -->
-    <string name="manual_settings_show">"Show"</string> <!-- TODO translate -->
-    <string name="manual_settings_permanent_notification_description">"Enable permanent notification (recommended)"</string> <!-- TODO translate -->
-    <string name="manual_settings_permanent_notification_info">"App will show permanently visible notification, which may prevent app from being killed."</string> <!-- TODO translate -->
-    <string name="manual_settings_general_tips_button">"Show general tips"</string> <!-- TODO translate -->
-    <string name="manual_settings_general_tips">"General tips"</string> <!-- TODO translate -->
-    <string name="manual_settings_general_tip1">"Disable power saving modes in device settings"</string> <!-- TODO translate -->
-    <string name="manual_settings_general_tip2">"Disable apps that optimize battery or memory usage (e.g. task killers)"</string> <!-- TODO translate -->
-    <string name="manual_settings_general_tips_info">"If your device requires changing other options, please let us know using \"Report problem\" option."</string> <!-- TODO translate -->
-    <string name="manual_settings_suggest_report_problem">"If after trying above tips you would still have issues with the app, please report the problem."</string> <!-- TODO translate -->
-    <string name="manual_settings_do_not_show_again">"Do not show again"</string> <!-- TODO translate -->
+    <string name="manual_settings_title">"Cần cài đặt thủ công"</string> <!-- TODO validate "Manual settings needed" -->
+    <string name="manual_settings_summary">"Một số cài đặt thủ công có thể cần thiết để BlipBlip hoạt động bình thường."</string> <!-- TODO validate "Some manual settings may be needed for BlipBlip to function properly." -->
+    <string name="manual_settings_tips_subtitle">"Vui lòng thử mẹo bên dưới"</string> <!-- TODO validate "Please try tips below" -->
+    <string name="manual_settings_tip_settings_description">"Mở cài đặt"</string> <!-- TODO validate "Open settings" -->
+    <string name="manual_settings_snackbar">"Vui lòng xem lại các cài đặt thủ công có thể cần thiết để ứng dụng hoạt động bình thường"</string> <!-- TODO validate "Please review manual settings which may be needed for app to function properly" -->
+    <string name="manual_settings_show">"Chỉ"</string> <!-- TODO validate "Show" -->
+    <string name="manual_settings_permanent_notification_description">"Cho phép thông báo vĩnh viễn (được khuyến nghị)"</string> <!-- TODO validate "Enable permanent notification (recommended)" -->
+    <string name="manual_settings_permanent_notification_info">"Ứng dụng sẽ hiển thị thông báo hiển thị vĩnh viễn, có thể ngăn ứng dụng bị giết."</string> <!-- TODO validate "App will show permanently visible notification, which may prevent app from being killed." -->
+    <string name="manual_settings_general_tips_button">"Hiển thị lời khuyên chung"</string> <!-- TODO validate "Show general tips" -->
+    <string name="manual_settings_general_tips">"Mẹo chung"</string> <!-- TODO validate "General tips" -->
+    <string name="manual_settings_general_tip1">"Tắt các chế độ tiết kiệm năng lượng trong cài đặt thiết bị"</string> <!-- TODO validate "Disable power saving modes in device settings" -->
+    <string name="manual_settings_general_tip2">"Vô hiệu hóa các ứng dụng tối ưu hóa việc sử dụng pin hoặc bộ nhớ (ví dụ: trình diệt tác vụ)"</string> <!-- TODO validate "Disable apps that optimize battery or memory usage (e.g. task killers)" -->
+    <string name="manual_settings_general_tips_info">"Nếu thiết bị của bạn yêu cầu thay đổi các tùy chọn khác, vui lòng cho chúng tôi biết bằng cách sử dụng tùy chọn \ \"Báo cáo sự cố \\"."</string> <!-- TODO validate "If your device requires changing other options, please let us know using \"Report problem\" option." -->
+    <string name="manual_settings_suggest_report_problem">"Nếu sau khi thử các mẹo trên, bạn vẫn gặp sự cố với ứng dụng, vui lòng báo cáo sự cố."</string> <!-- TODO validate "If after trying above tips you would still have issues with the app, please report the problem." -->
+    <string name="manual_settings_do_not_show_again">"Không hiển thị trở lại"</string> <!-- TODO validate "Do not show again" -->
 
     <!-- Tips -->
-    <string name="tip1">"Add the app to Un-monitored Apps."</string> <!-- TODO translate -->
-    <string name="tip2">"Add the app to Protected Apps."</string> <!-- TODO translate -->
-    <string name="tip3">"Exclude app from lock screen cleanup."</string> <!-- TODO translate -->
-    <string name="tip4">"Disable Stamina mode."</string> <!-- TODO translate -->
-    <string name="tip5">"Disable battery usage restrictions."</string> <!-- TODO translate -->
-    <string name="tip6">"Add app to auto-run."</string> <!-- TODO translate -->
-    <string name="tip7">"Disable background task cleaner."</string> <!-- TODO translate -->
-    <string name="tip8">"Add app to auto-start."</string> <!-- TODO translate -->
-    <string name="tip9">"Add app to auto-start."</string> <!-- TODO translate -->
-    <string name="tip10">"Lock the app on recent apps screen."</string> <!-- TODO translate -->
-    <string name="tip11">"Allow the app to work in Standby Mode."</string> <!-- TODO translate -->
-    <string name="tip12">"Add the app to auto-launch."</string> <!-- TODO translate -->
-    <string name="tip14">"Add the app to Background protection whitelist."</string> <!-- TODO translate -->
+    <string name="tip1">"Thêm ứng dụng vào Ứng dụng chưa được giám sát."</string> <!-- TODO validate "Add the app to Un-monitored Apps." -->
+    <string name="tip2">"Thêm ứng dụng vào Ứng dụng được bảo vệ."</string> <!-- TODO validate "Add the app to Protected Apps." -->
+    <string name="tip3">"Loại trừ ứng dụng khỏi dọn dẹp màn hình khóa."</string> <!-- TODO validate "Exclude app from lock screen cleanup." -->
+    <string name="tip4">"Tắt chế độ Stamina."</string> <!-- TODO validate "Disable Stamina mode." -->
+    <string name="tip5">"Vô hiệu hóa các hạn chế sử dụng pin."</string> <!-- TODO validate "Disable battery usage restrictions." -->
+    <string name="tip6">"Thêm ứng dụng để tự động chạy."</string> <!-- TODO validate "Add app to auto-run." -->
+    <string name="tip7">"Vô hiệu hóa tác vụ dọn dẹp nền."</string> <!-- TODO validate "Disable background task cleaner." -->
+    <string name="tip8">"Thêm ứng dụng để tự động bắt đầu."</string> <!-- TODO validate "Add app to auto-start." -->
+    <string name="tip9">"Thêm ứng dụng để tự động bắt đầu."</string> <!-- TODO validate "Add app to auto-start." -->
+    <string name="tip10">"Khóa ứng dụng trên màn hình ứng dụng gần đây."</string> <!-- TODO validate "Lock the app on recent apps screen." -->
+    <string name="tip11">"Cho phép ứng dụng hoạt động ở Chế độ chờ."</string> <!-- TODO validate "Allow the app to work in Standby Mode." -->
+    <string name="tip12">"Thêm ứng dụng để tự động khởi chạy."</string> <!-- TODO validate "Add the app to auto-launch." -->
+    <string name="tip14">"Thêm ứng dụng vào danh sách trắng bảo vệ nền."</string> <!-- TODO validate "Add the app to Background protection whitelist." -->
 
     <!-- Tips detailed instructions -->
-    <string name="tip1_settings">"Settings &gt; Device maintenance &gt; Battery &gt; Unmonitored apps list"</string> <!-- TODO translate -->
-    <string name="tip2_settings">"Settings &gt; Advanced Settings &gt; Battery Manager &gt; Protected Apps or Settings &gt; Privacy and Security &gt; Protected Apps"</string> <!-- TODO translate -->
-    <string name="tip3_settings">"Phone Manager &gt; Lock screen cleanup &gt; un-check the app (don't close) or Settings &gt; Battery &gt; Lock screen cleanup &gt; un-check the app (don't close)"</string> <!-- TODO translate -->
-    <string name="tip4_settings">"Settings &gt; Power management &gt; STAMINA mode &gt; Apps active in standby &gt; Add BlipBlip"</string> <!-- TODO translate -->
-    <string name="tip5_settings">"Settings &gt; Additional Settings &gt; Battery &amp; Performance &gt; Manage Apps Battery Usage &gt; Choose Apps &gt; BlipBlip &gt; No restrictions"</string> <!-- TODO translate -->
-    <string name="tip6_settings">"Settings &gt; Permissions &gt; Auto-run management"</string> <!-- TODO translate -->
-    <string name="tip7_settings">"Settings &gt; Background task clear &gt; White list"</string> <!-- TODO translate -->
-    <string name="tip8_settings">"Asus Mobile Manager &gt; Auto-start Manager"</string> <!-- TODO translate -->
-    <string name="tip9_settings">"Phone Manager &gt; Privacy Permissions &gt; Startup Manager"</string> <!-- TODO translate -->
-    <string name="tip10_settings">"Recent apps &gt; tap BlipBlip and pull it down"</string> <!-- TODO translate -->
-    <string name="tip11_settings">"Security &gt; Power &gt; Standby Management &gt; Set BlipBlip to run in Standby Mode"</string> <!-- TODO translate -->
-    <string name="tip12_settings">"Security &gt; Permission &gt; Auto-Launched apps &gt; enable auto-launch"</string> <!-- TODO translate -->
-    <string name="tip13_settings">"Long press red circle &gt; swipe down BlipBlip"</string> <!-- TODO translate -->
-    <string name="tip14_settings">"NeoSafe app &gt; Power &gt; right top settings icon &gt; Background protection whitelist &gt; add BlipBLip"</string> <!-- TODO translate -->
-    <string name="tip15_settings">"NeoSafe app &gt; Permission &gt; Power-on speedup &gt; Enable BlipBlip"</string> <!-- TODO translate -->
+    <string name="tip1_settings">"Cài đặt&gt; Bảo trì thiết bị&gt; Pin&gt; Danh sách ứng dụng không được giám sát"</string> <!-- TODO validate "Settings > Device maintenance > Battery > Unmonitored apps list" -->
+    <string name="tip2_settings">"Cài đặt&gt; Cài đặt nâng cao&gt; Trình quản lý pin&gt; Ứng dụng được bảo vệ hoặc Cài đặt&gt; Quyền riêng tư và bảo mật&gt; Ứng dụng được bảo vệ"</string> <!-- TODO validate "Settings > Advanced Settings > Battery Manager > Protected Apps or Settings > Privacy and Security > Protected Apps" -->
+    <string name="tip3_settings">"Trình quản lý điện thoại&gt; Dọn dẹp màn hình khóa&gt; bỏ chọn ứng dụng (không đóng) hoặc Cài đặt&gt; Pin&gt; Dọn dẹp màn hình khóa&gt; bỏ chọn"</string> <!-- TODO validate "Phone Manager > Lock screen cleanup > un-check the app (don't close) or Settings > Battery > Lock screen cleanup > un-check the app (don't close)" -->
+    <string name="tip4_settings">"Cài đặt&gt; Quản lý nguồn&gt; Chế độ STAMINA&gt; Ứng dụng hoạt động ở chế độ chờ&gt; Thêm BlipBlip"</string> <!-- TODO validate "Settings > Power management > STAMINA mode > Apps active in standby > Add BlipBlip" -->
+    <string name="tip5_settings">"Cài đặt&gt; Cài đặt bổ sung&gt; Pin &amp; Hiệu suất&gt; Quản lý ứng dụng Sử dụng pin&gt; Chọn ứng dụng&gt; BlipBlip&gt; Không hạn chế"</string> <!-- TODO validate "Settings > Additional Settings > Battery & Performance > Manage Apps Battery Usage > Choose Apps > BlipBlip > No restrictions" -->
+    <string name="tip6_settings">"Cài đặt&gt; Quyền&gt; Quản lý tự động chạy"</string> <!-- TODO validate "Settings > Permissions > Auto-run management" -->
+    <string name="tip7_settings">"Cài đặt&gt; Xóa tác vụ nền&gt; Danh sách trắng"</string> <!-- TODO validate "Settings > Background task clear > White list" -->
+    <string name="tip8_settings">"Trình quản lý di động Asus&gt; Trình quản lý khởi động tự động"</string> <!-- TODO validate "Asus Mobile Manager > Auto-start Manager" -->
+    <string name="tip9_settings">"Trình quản lý điện thoại&gt; Quyền riêng tư&gt; Trình quản lý khởi động"</string> <!-- TODO validate "Phone Manager > Privacy Permissions > Startup Manager" -->
+    <string name="tip10_settings">"Các ứng dụng gần đây&gt; chạm vào BlipBlip và kéo xuống"</string> <!-- TODO validate "Recent apps > tap BlipBlip and pull it down" -->
+    <string name="tip11_settings">"Bảo mật&gt; Nguồn&gt; Quản lý chế độ chờ&gt; Đặt BlipBlip để chạy ở Chế độ chờ"</string> <!-- TODO validate "Security > Power > Standby Management > Set BlipBlip to run in Standby Mode" -->
+    <string name="tip12_settings">"Bảo mật&gt; Quyền&gt; Ứng dụng tự động khởi chạy&gt; bật tự động khởi chạy"</string> <!-- TODO validate "Security > Permission > Auto-Launched apps > enable auto-launch" -->
+    <string name="tip13_settings">"Nhấn và giữ vòng tròn màu đỏ&gt; vuốt xuống BlipBlip"</string> <!-- TODO validate "Long press red circle > swipe down BlipBlip" -->
+    <string name="tip14_settings">"Ứng dụng NeoSafe&gt; Nguồn&gt; biểu tượng cài đặt trên cùng bên phải&gt; Danh sách trắng bảo vệ nền&gt; thêm BlipBLip"</string> <!-- TODO validate "NeoSafe app > Power > right top settings icon > Background protection whitelist > add BlipBLip" -->
+    <string name="tip15_settings">"Ứng dụng NeoSafe&gt; Quyền&gt; tăng tốc bật nguồn&gt; Bật BlipBlip"</string> <!-- TODO validate "NeoSafe app > Permission > Power-on speedup > Enable BlipBlip" -->
 
     <!-- UI Settings -->
     <string name="pref_user_interface">"Giao diện người dùng"</string>
     <!-- edit button -->
-    <string name="edit_button_title">"Editing button"</string> <!-- TODO translate -->
-    <string name="edit_button_on">"Show edit button"</string> <!-- TODO translate -->
-    <string name="edit_button_off">"Hide edit button. To enter edit mode use edit action from menu."</string> <!-- TODO translate -->
+    <string name="edit_button_title">"Nút chỉnh sửa"</string> <!-- TODO validate "Editing button" -->
+    <string name="edit_button_on">"Hiển thị nút chỉnh sửa"</string> <!-- TODO validate "Show edit button" -->
+    <string name="edit_button_off">"Ẩn nút chỉnh sửa. Để vào chế độ chỉnh sửa, sử dụng hành động chỉnh sửa từ menu."</string> <!-- TODO validate "Hide edit button. To enter edit mode use edit action from menu." -->
     <!-- changelog -->
-    <string name="version_history">"Version history"</string> <!-- TODO translate -->
-    <string name="changelog_title">"What's new?"</string> <!-- TODO translate -->
-    <string name="show_changelog_title">"Show changelog"</string> <!-- TODO translate -->
-    <string name="show_changelog_on">"Show recent changes on startup."</string> <!-- TODO translate -->
-    <string name="show_changelog_off">"Do not show recent changes on startup."</string> <!-- TODO translate -->
+    <string name="version_history">"Lịch sử phiên bản"</string> <!-- TODO validate "Version history" -->
+    <string name="changelog_title">"Có gì mới?"</string> <!-- TODO validate "What's new?" -->
+    <string name="show_changelog_title">"Hiển thị thay đổi"</string> <!-- TODO validate "Show changelog" -->
+    <string name="show_changelog_on">"Hiển thị những thay đổi gần đây khi khởi động."</string> <!-- TODO validate "Show recent changes on startup." -->
+    <string name="show_changelog_off">"Không hiển thị những thay đổi gần đây khi khởi động."</string> <!-- TODO validate "Do not show recent changes on startup." -->
     <!-- inclusive -->
     <string name="show_inclusive_title">"Thay đổi khoảng thời gian kết thúc"</string>
     <string name="show_inclusive_on">"Khi chỉ định nút hiển thị phạm vi thời gian cho phép chỉ định thời gian đã cho cần được bao gồm trong khoảng thời gian."</string>
@@ -738,88 +738,88 @@
     <string name="show_actions_switches_on">"Hiển thị công tắc để vô hiệu hoá hành động."</string>
     <string name="show_actions_switches_off">"Ẩn công tắc để vô hiệu hóa các tác vụ."</string>
     <!-- Show kill dialog -->
-    <string name="show_kill_dialog_title">"Notify if app was killed"</string> <!-- TODO translate -->
-    <string name="show_kill_dialog_on">"Display message when opening the app if it was detected that the app was killed."</string> <!-- TODO translate -->
-    <string name="show_kill_dialog_off">"Do not display message when it was detected that the app was killed."</string> <!-- TODO translate -->
+    <string name="show_kill_dialog_title">"Thông báo nếu ứng dụng bị giết"</string> <!-- TODO validate "Notify if app was killed" -->
+    <string name="show_kill_dialog_on">"Hiển thị thông báo khi mở ứng dụng nếu phát hiện ứng dụng bị giết."</string> <!-- TODO validate "Display message when opening the app if it was detected that the app was killed." -->
+    <string name="show_kill_dialog_off">"Không hiển thị thông báo khi phát hiện ứng dụng bị giết."</string> <!-- TODO validate "Do not display message when it was detected that the app was killed." -->
 
     <!-- examples -->
-    <string name="double_sound_every_hour">"Double sound every hour"</string> <!-- TODO translate -->
-    <string name="single_sound_half_past">"Sound half past every hour"</string> <!-- TODO translate -->
-    <string name="speak_time_every_hour">"Speak current time every hour"</string> <!-- TODO translate -->
+    <string name="double_sound_every_hour">"Âm thanh gấp đôi mỗi giờ"</string> <!-- TODO validate "Double sound every hour" -->
+    <string name="single_sound_half_past">"Âm thanh nửa giờ mỗi giờ"</string> <!-- TODO validate "Sound half past every hour" -->
+    <string name="speak_time_every_hour">"Nói thời gian hiện tại mỗi giờ"</string> <!-- TODO validate "Speak current time every hour" -->
 
     <!-- ads -->
-    <string name="remove_ads">"Remove ads"</string> <!-- TODO translate -->
-    <string name="channel_name_watch_ads">"Watch ads"</string> <!-- TODO translate -->
-    <string name="channel_name_premium_end_description">"You will get notified when you need to watch an ad to enjoy all Premium features for free"</string> <!-- TODO translate -->
+    <string name="remove_ads">"Loại bỏ các quảng cáo"</string> <!-- TODO validate "Remove ads" -->
+    <string name="channel_name_watch_ads">"Xem quảng cáo"</string> <!-- TODO validate "Watch ads" -->
+    <string name="channel_name_premium_end_description">"Bạn sẽ được thông báo khi bạn cần xem quảng cáo để tận hưởng tất cả các tính năng Premium miễn phí"</string> <!-- TODO validate "You will get notified when you need to watch an ad to enjoy all Premium features for free" -->
 
-    <string name="watch_ads">"Watch ads"</string> <!-- TODO translate -->
-    <string name="watch_video">"Watch video ad"</string> <!-- TODO translate -->
-    <string name="subscribe_without_ads">"Subscribe without ads"</string> <!-- TODO translate -->
-    <string name="start_free_trial">"Start a free trial"</string> <!-- TODO translate -->
-    <string name="tooltip_accept_privacy_policy">"Please check the box."</string> <!-- TODO translate -->
-    <string name="welcome_to_blipBlip">"Welcome to BlipBlip!"</string> <!-- TODO translate -->
-    <string name="blipblip_free_description_short">"This app is free in exchange for watching ads."</string> <!-- TODO translate -->
-    <string name="blipblip_free_description">"This app is free in exchange for watching ads. You can access all Blip Blip Premium features and sounds for specified time period after watching an ad. The more you watch the longer you can use the app."</string> <!-- TODO translate -->
-    <string name="blipblip_free_description2">"There are no ads in user interface. There are no ads popping up unexpectedly. You always choose when you want to watch an ad."</string> <!-- TODO translate -->
-    <string name="watch_ad">"View ad"</string> <!-- TODO translate -->
-    <string name="ad">"Ad"</string> <!-- TODO translate --> <!-- Short label of button for watching ads -->
-    <string name="accept_privacy_policy">"I accept privacy policy."</string> <!-- TODO translate -->
-    <string name="get_blipblip">"Want free app without ads and without Premium features? Tap here."</string> <!-- TODO translate -->
-    <string name="privacy_policy">"Privacy policy."</string> <!-- TODO translate -->
-    <string name="get_time_of_premium">"Get %1$s of Premium"</string> <!-- TODO translate -->
-    <string name="get_time_of_premium_more">"View ad to use the app for additional time: %s."</string> <!-- TODO translate -->
-    <string name="premium_time_left">"Time left for using the app: %s"</string> <!-- TODO translate -->
-    <string name="app_was_enabled">"App has been enabled!"</string> <!-- TODO translate -->
-    <string name="failed_loading_ad">"Failed to load ad. Check your internet connection and try again."</string> <!-- TODO translate -->
-    <string name="continue_with_ads">"Continue with ads"</string> <!-- TODO translate -->
-    <string name="continue_with_relevant_question">"Can we use your data to tailor ads for you?"</string> <!-- TODO translate -->
-    <string name="continue_with_relevant_ads">"Yes, continue with relevant ads"</string> <!-- TODO translate -->
-    <string name="continue_with_less_relevant_ads">"No, continue with less relevant ads"</string> <!-- TODO translate -->
-    <string name="watch_ads_to_get_next_notification">"View ads to get next notification"</string> <!-- TODO translate -->
-    <string name="watch_ad_to_enable_app">"View ad to enable app"</string> <!-- TODO translate -->
-    <string name="popup_watch_more_ads_to_get_notification">"Watch more ads to get this notification"</string> <!-- TODO translate -->
+    <string name="watch_ads">"Xem quảng cáo"</string> <!-- TODO validate "Watch ads" -->
+    <string name="watch_video">"Xem quảng cáo video"</string> <!-- TODO validate "Watch video ad" -->
+    <string name="subscribe_without_ads">"Đăng ký mà không có quảng cáo"</string> <!-- TODO validate "Subscribe without ads" -->
+    <string name="start_free_trial">"Bắt đầu dùng thử miễn phí"</string> <!-- TODO validate "Start a free trial" -->
+    <string name="tooltip_accept_privacy_policy">"Vui lòng kiểm tra hộp."</string> <!-- TODO validate "Please check the box." -->
+    <string name="welcome_to_blipBlip">"Chào mừng đến với BlipBlip!"</string> <!-- TODO validate "Welcome to BlipBlip!" -->
+    <string name="blipblip_free_description_short">"Ứng dụng này là miễn phí để trao đổi để xem quảng cáo."</string> <!-- TODO validate "This app is free in exchange for watching ads." -->
+    <string name="blipblip_free_description">"Ứng dụng này là miễn phí để trao đổi để xem quảng cáo. Bạn có thể truy cập tất cả các tính năng và âm thanh của Blip Blip Premium trong khoảng thời gian được chỉ định sau khi xem quảng cáo. Bạn càng xem lâu bạn có thể sử dụng ứng dụng."</string> <!-- TODO validate "This app is free in exchange for watching ads. You can access all Blip Blip Premium features and sounds for specified time period after watching an ad. The more you watch the longer you can use the app." -->
+    <string name="blipblip_free_description2">"Không có quảng cáo trong giao diện người dùng. Không có quảng cáo xuất hiện bất ngờ. Bạn luôn chọn khi bạn muốn xem một quảng cáo."</string> <!-- TODO validate "There are no ads in user interface. There are no ads popping up unexpectedly. You always choose when you want to watch an ad." -->
+    <string name="watch_ad">"Xem quảng cáo"</string> <!-- TODO validate "View ad" -->
+    <string name="ad">"Quảng cáo"</string> <!-- TODO validate "Ad" --> <!-- Short label of button for watching ads -->
+    <string name="accept_privacy_policy">"Tôi chấp nhận chính sách bảo mật."</string> <!-- TODO validate "I accept privacy policy." -->
+    <string name="get_blipblip">"Muốn có ứng dụng miễn phí mà không có quảng cáo và không có tính năng Premium? Nhấn vào đây."</string> <!-- TODO validate "Want free app without ads and without Premium features? Tap here." -->
+    <string name="privacy_policy">"Chính sách bảo mật."</string> <!-- TODO validate "Privacy policy." -->
+    <string name="get_time_of_premium">"Nhận %1$s phí bảo hiểm"</string> <!-- TODO validate "Get %1$s of Premium" -->
+    <string name="get_time_of_premium_more">"Xem quảng cáo để sử dụng ứng dụng để có thêm thời gian: %s ."</string> <!-- TODO validate "View ad to use the app for additional time: %s." -->
+    <string name="premium_time_left">"Thời gian còn lại để sử dụng ứng dụng: %s"</string> <!-- TODO validate "Time left for using the app: %s" -->
+    <string name="app_was_enabled">"Ứng dụng đã được kích hoạt!"</string> <!-- TODO validate "App has been enabled!" -->
+    <string name="failed_loading_ad">"Không thể tải quảng cáo. Kiểm tra kết nối internet của bạn và thử lại."</string> <!-- TODO validate "Failed to load ad. Check your internet connection and try again." -->
+    <string name="continue_with_ads">"Tiếp tục với quảng cáo"</string> <!-- TODO validate "Continue with ads" -->
+    <string name="continue_with_relevant_question">"Chúng tôi có thể sử dụng dữ liệu của bạn để điều chỉnh quảng cáo cho bạn không?"</string> <!-- TODO validate "Can we use your data to tailor ads for you?" -->
+    <string name="continue_with_relevant_ads">"Có, tiếp tục với các quảng cáo có liên quan"</string> <!-- TODO validate "Yes, continue with relevant ads" -->
+    <string name="continue_with_less_relevant_ads">"Không, tiếp tục với các quảng cáo ít liên quan hơn"</string> <!-- TODO validate "No, continue with less relevant ads" -->
+    <string name="watch_ads_to_get_next_notification">"Xem quảng cáo để nhận thông báo tiếp theo"</string> <!-- TODO validate "View ads to get next notification" -->
+    <string name="watch_ad_to_enable_app">"Xem quảng cáo để kích hoạt ứng dụng"</string> <!-- TODO validate "View ad to enable app" -->
+    <string name="popup_watch_more_ads_to_get_notification">"Xem thêm quảng cáo để nhận thông báo này"</string> <!-- TODO validate "Watch more ads to get this notification" -->
 
     <!-- ads notifications -->
-    <string name="notif_premium_ended">"Application disabled"</string> <!-- TODO translate -->
-    <string name="notif_premium_ended_description">"Watch ad to enable it again."</string> <!-- TODO translate -->
-    <string name="notif_stop_warn">"Next notification won't be played"</string> <!-- TODO translate -->
-    <string name="notif_stop_warn_description">"Watch ad to extend time for using the app"</string> <!-- TODO translate -->
+    <string name="notif_premium_ended">"Ứng dụng bị vô hiệu hóa"</string> <!-- TODO validate "Application disabled" -->
+    <string name="notif_premium_ended_description">"Xem quảng cáo để kích hoạt lại."</string> <!-- TODO validate "Watch ad to enable it again." -->
+    <string name="notif_stop_warn">"Thông báo tiếp theo sẽ không được phát"</string> <!-- TODO validate "Next notification won't be played" -->
+    <string name="notif_stop_warn_description">"Xem quảng cáo để kéo dài thời gian sử dụng ứng dụng"</string> <!-- TODO validate "Watch ad to extend time for using the app" -->
 
     <!-- ads settings -->
-    <string name="ads_notifications">"Need of viewing ads"</string> <!-- TODO translate -->
-    <string name="ads_notifications_on">"You will get notifications about the need of viewing ads"</string> <!-- TODO translate -->
-    <string name="ads_notifications_off">"You won't get any notifications about the need of viewing ads"</string> <!-- TODO translate -->
-    <string name="ads_warn_app_disabled">"Application disabling"</string> <!-- TODO translate -->
-    <string name="ads_warn_app_disabled_on">"Notify when app is disabled because not enough ads were watched"</string> <!-- TODO translate -->
-    <string name="ads_warn_app_disabled_off">"Do not notify when app will be disabled because not enough ads were watched"</string> <!-- TODO translate -->
-    <string name="ads_warn_next_notification">"Next notification"</string> <!-- TODO translate -->
-    <string name="ads_warn_next_notification_on">"Notify when next notification won't be played because not enough ads were watched"</string> <!-- TODO translate -->
-    <string name="ads_warn_next_notification_off">"Do not notify when next notification won't be played because not enough ads were watched"</string> <!-- TODO translate -->
+    <string name="ads_notifications">"Cần xem quảng cáo"</string> <!-- TODO validate "Need of viewing ads" -->
+    <string name="ads_notifications_on">"Bạn sẽ nhận được thông báo về nhu cầu xem quảng cáo"</string> <!-- TODO validate "You will get notifications about the need of viewing ads" -->
+    <string name="ads_notifications_off">"Bạn sẽ không nhận được bất kỳ thông báo nào về nhu cầu xem quảng cáo"</string> <!-- TODO validate "You won't get any notifications about the need of viewing ads" -->
+    <string name="ads_warn_app_disabled">"Vô hiệu hóa ứng dụng"</string> <!-- TODO validate "Application disabling" -->
+    <string name="ads_warn_app_disabled_on">"Thông báo khi ứng dụng bị tắt vì không đủ quảng cáo được xem"</string> <!-- TODO validate "Notify when app is disabled because not enough ads were watched" -->
+    <string name="ads_warn_app_disabled_off">"Không thông báo khi nào ứng dụng sẽ bị tắt vì không đủ quảng cáo được xem"</string> <!-- TODO validate "Do not notify when app will be disabled because not enough ads were watched" -->
+    <string name="ads_warn_next_notification">"Thông báo tiếp theo"</string> <!-- TODO validate "Next notification" -->
+    <string name="ads_warn_next_notification_on">"Thông báo khi thông báo tiếp theo sẽ không được phát vì không đủ quảng cáo được xem"</string> <!-- TODO validate "Notify when next notification won't be played because not enough ads were watched" -->
+    <string name="ads_warn_next_notification_off">"Không thông báo khi thông báo tiếp theo sẽ không được phát vì không đủ quảng cáo được xem"</string> <!-- TODO validate "Do not notify when next notification won't be played because not enough ads were watched" -->
 
     <!-- Privacy settings -->
-    <string name="privacy">"Privacy"</string> <!-- TODO translate -->
-    <string name="ads">"Ads"</string> <!-- TODO translate -->
-    <string name="pref_personalized_ads">"Personalized ads"</string> <!-- TODO translate -->
-    <string name="pref_personalized_ads_on">"Ads will be personalized."</string> <!-- TODO translate -->
-    <string name="pref_personalized_ads_off">"Your data will not be used to personalize ads."</string> <!-- TODO translate -->
-    <string name="pref_analytics">"Analytics"</string> <!-- TODO translate -->
-    <string name="pref_collect_analytics">"Collect anonymous data"</string> <!-- TODO translate -->
-    <string name="pref_collect_analytics_on">"Collect anonymous, aggregated data to help improve the app."</string> <!-- TODO translate -->
-    <string name="pref_collect_analytics_off">"Do not collect any data."</string> <!-- TODO translate -->
-    <string name="pref_analytics_anonymize_ip">"Anonymize location"</string> <!-- TODO translate -->
-    <string name="pref_analytics_anonymize_ip_on">"Anonymize IP address sent to determine user location."</string> <!-- TODO translate -->
-    <string name="pref_analytics_anonymize_ip_off">"Use full IP address only for detemining user's general location (country, city)."</string> <!-- TODO translate -->
+    <string name="privacy">"Riêng tư"</string> <!-- TODO validate "Privacy" -->
+    <string name="ads">"Quảng cáo"</string> <!-- TODO validate "Ads" -->
+    <string name="pref_personalized_ads">"Quảng cáo được cá nhân hóa"</string> <!-- TODO validate "Personalized ads" -->
+    <string name="pref_personalized_ads_on">"Quảng cáo sẽ được cá nhân hóa."</string> <!-- TODO validate "Ads will be personalized." -->
+    <string name="pref_personalized_ads_off">"Dữ liệu của bạn sẽ không được sử dụng để cá nhân hóa quảng cáo."</string> <!-- TODO validate "Your data will not be used to personalize ads." -->
+    <string name="pref_analytics">"phân tích"</string> <!-- TODO validate "Analytics" -->
+    <string name="pref_collect_analytics">"Thu thập dữ liệu ẩn danh"</string> <!-- TODO validate "Collect anonymous data" -->
+    <string name="pref_collect_analytics_on">"Thu thập dữ liệu ẩn danh, tổng hợp để giúp cải thiện ứng dụng."</string> <!-- TODO validate "Collect anonymous, aggregated data to help improve the app." -->
+    <string name="pref_collect_analytics_off">"Không thu thập bất kỳ dữ liệu."</string> <!-- TODO validate "Do not collect any data." -->
+    <string name="pref_analytics_anonymize_ip">"Ẩn danh vị trí"</string> <!-- TODO validate "Anonymize location" -->
+    <string name="pref_analytics_anonymize_ip_on">"Ẩn danh địa chỉ IP được gửi để xác định vị trí người dùng."</string> <!-- TODO validate "Anonymize IP address sent to determine user location." -->
+    <string name="pref_analytics_anonymize_ip_off">"Chỉ sử dụng địa chỉ IP đầy đủ để xác định vị trí chung của người dùng (quốc gia, thành phố)."</string> <!-- TODO validate "Use full IP address only for detemining user's general location (country, city)." -->
 
     <!-- install BlipBlip free -->
-    <string name="dialog_free_premium_title">"Want Premium free?"</string> <!-- TODO translate -->
-    <string name="dialog_free_premium_description">"Watch ads in exchange for Premium features in %1$s app."</string> <!-- TODO translate -->
-    <string name="open_app">"Open app"</string> <!-- TODO translate -->
-    <string name="install_app">"Install app"</string> <!-- TODO translate -->
-    <string name="maybe_later">"Maybe later"</string> <!-- TODO translate -->
+    <string name="dialog_free_premium_title">"Muốn có Premium miễn phí?"</string> <!-- TODO validate "Want Premium free?" -->
+    <string name="dialog_free_premium_description">"Xem quảng cáo để đổi lấy các tính năng Premium trong ứng dụng %1$s ."</string> <!-- TODO validate "Watch ads in exchange for Premium features in %1$s app." -->
+    <string name="open_app">"Mở chương trình"</string> <!-- TODO validate "Open app" -->
+    <string name="install_app">"Cài đặt ứng dụng"</string> <!-- TODO validate "Install app" -->
+    <string name="maybe_later">"Có lẽ sau này"</string> <!-- TODO validate "Maybe later" -->
 
     <!-- tooltips -->
-    <string name="tooltip_play_next_button">"Playback next notification"</string> <!-- TODO translate -->
-    <string name="tooltip_upcoming_notifications">"See and playback upcoming notifications"</string> <!-- TODO translate -->
-    <string name="tooltip_upcoming_notification">"Press time to playback upcoming notifications"</string> <!-- TODO translate -->
+    <string name="tooltip_play_next_button">"Phát lại thông báo tiếp theo"</string> <!-- TODO validate "Playback next notification" -->
+    <string name="tooltip_upcoming_notifications">"Xem và phát lại thông báo sắp tới"</string> <!-- TODO validate "See and playback upcoming notifications" -->
+    <string name="tooltip_upcoming_notification">"Nhấn thời gian để phát lại thông báo sắp tới"</string> <!-- TODO validate "Press time to playback upcoming notifications" -->
 
 </resources>

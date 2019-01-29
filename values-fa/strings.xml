@@ -11,11 +11,11 @@
     <string name="warning">"هشدار"</string>
     <string name="warning_understood">"گرفتي؟"</string>
     <string name="please_wait">"لطفا منتظر باشید…"</string>
-    <string name="warn_power_saving">"To ensure reliable operation please disable all power saving modes."</string> <!-- TODO translate --> <!-- Please make this as short as possible -->
+    <string name="warn_power_saving">"برای اطمینان از عملکرد قابل اعتماد لطفا تمام حالت های صرفه جویی در انرژی را غیر فعال کنید."</string> <!-- TODO validate "To ensure reliable operation please disable all power saving modes." --> <!-- Please make this as short as possible -->
     <string name="allow_while_idle_title">"اجازه اجرا در حالتی که باطری کم است"</string>
     <string name="allow_while_idle_off">"هنگامی که گوشی وارد حالت توان کم شد برخی از اطلاعیه ها ممکن است نادیده گرفته شود."</string>
     <string name="allow_while_idle_on">"اجازه می دهد به کار در حالت باطری کم . ممکن است همیشه برای اعلانهای مکرر بیش از 15 دقیقه کار کند. این تنظیم ممکن است کمی بر استفاده از باتری تاثیر گذارد."</string>
-    <string name="app_killed_title">"App was killed"</string> <!-- TODO translate -->
+    <string name="app_killed_title">"برنامه کشته شد"</string> <!-- TODO validate "App was killed" -->
 
     <!-- Next Notification -->
     <string name="next_notification_off">"غیرفعال"</string>
@@ -29,43 +29,43 @@
     <string name="day_friday">"جمعه"</string>
     <string name="day_saturday">"شنبه"</string>
     <string name="day_sunday">"یکشنبه"</string>
-    <string name="preview_upcoming_notifications">"Preview upcoming notifications"</string> <!-- TODO translate -->
-    <string name="disable_premium_notifications">"Disable Premium notifications"</string> <!-- TODO translate -->
+    <string name="preview_upcoming_notifications">"پیشنمایش اعلانهای آینده"</string> <!-- TODO validate "Preview upcoming notifications" -->
+    <string name="disable_premium_notifications">"اطلاعیه های حقوقی را غیرفعال کنید"</string> <!-- TODO validate "Disable Premium notifications" -->
 
     <!-- Sound -->
     <string name="sound_text">"صدا"</string>
     <string name="sound_blipblip">"بلیپ بلیپ"</string>
     <string name="sound_casio_watch">"ساعت کاسیو"</string>
-    <string name="sound_casio_watch_single">"Casio watch (single)"</string> <!-- TODO translate -->
+    <string name="sound_casio_watch_single">"ساعت کاسیو (تک)"</string> <!-- TODO validate "Casio watch (single)" -->
     <string name="sound_gong">"ناقوس"</string>
     <string name="sound_ships_bell">"ناقوس کشتی"</string>
     <string name="sound_double_ships_bell">"ناقوس کشتی دو تایی"</string>
     <string name="sound_cuckoo">"کوکو"</string>
-    <string name="sound_watch_beep">"Watch beep"</string> <!-- TODO translate -->
-    <string name="sound_big_ben">"Big Ben"</string> <!-- TODO translate -->
-    <string name="sound_big_ben_strikes">"Big Ben Strikes"</string> <!-- TODO translate -->
-    <string name="sound_bubble">"Bubble"</string> <!-- TODO translate -->
-    <string name="sound_bird">"Bird %1$s"</string> <!-- TODO translate -->
-    <string name="sound_cartoon">"Cartoon %1$s"</string> <!-- TODO translate -->
-    <string name="sound_cat">"Cat %1$s"</string> <!-- TODO translate -->
-    <string name="sound_dog">"Dog %1$s"</string> <!-- TODO translate -->
-    <string name="sound_rooster">"Rooster"</string> <!-- TODO translate -->
-    <string name="sound_guitar_strum">"Guitar strum %1$s"</string> <!-- TODO translate -->
-    <string name="sound_water_drop">"Water drop %1$s"</string> <!-- TODO translate -->
-    <string name="sound_water_pouring">"Water pouring %1$s"</string> <!-- TODO translate -->
-    <string name="sound_sonar_ping">"Sonar ping %1$s"</string> <!-- TODO translate -->
-    <string name="sound_inception">"Inception %1$s"</string> <!-- TODO translate -->
-    <string name="sound_the_pips">"The pips"</string> <!-- TODO translate -->
-    <string name="sound_short_pip">"Short pip"</string> <!-- TODO translate -->
-    <string name="sound_long_pip">"Long pip"</string> <!-- TODO translate -->
-    <string name="sound_crystal_glass">"Crystal glass"</string> <!-- TODO translate -->
-    <string name="sound_ping">"Ping"</string> <!-- TODO translate -->
-    <string name="sound_gong_num">"Gong %1$s"</string> <!-- TODO translate -->
-    <string name="sound_boxing_bell">"Boxing bell"</string> <!-- TODO translate -->
-    <string name="sound_singing_bowl">"Singing bowl %1$s"</string> <!-- TODO translate -->
-    <string name="sound_ekg">"Heart monitor %1$s"</string> <!-- TODO translate -->
-    <string name="sound_got_item">"Got item"</string> <!-- TODO translate -->
-    <string name="sound_guitar">"Guitar"</string> <!-- TODO translate -->
+    <string name="sound_watch_beep">"بوق را تماشا کن"</string> <!-- TODO validate "Watch beep" -->
+    <string name="sound_big_ben">"بیگ بن"</string> <!-- TODO validate "Big Ben" -->
+    <string name="sound_big_ben_strikes">"بیگ بنگ اعتصاب"</string> <!-- TODO validate "Big Ben Strikes" -->
+    <string name="sound_bubble">"حباب"</string> <!-- TODO validate "Bubble" -->
+    <string name="sound_bird">"پرنده %1$s"</string> <!-- TODO validate "Bird %1$s" -->
+    <string name="sound_cartoon">"کارتون %1$s"</string> <!-- TODO validate "Cartoon %1$s" -->
+    <string name="sound_cat">"گربه %1$s"</string> <!-- TODO validate "Cat %1$s" -->
+    <string name="sound_dog">"سگ %1$s"</string> <!-- TODO validate "Dog %1$s" -->
+    <string name="sound_rooster">"خروس"</string> <!-- TODO validate "Rooster" -->
+    <string name="sound_guitar_strum">"گیتاربرنامه %1$s"</string> <!-- TODO validate "Guitar strum %1$s" -->
+    <string name="sound_water_drop">"قطره آب %1$s"</string> <!-- TODO validate "Water drop %1$s" -->
+    <string name="sound_water_pouring">"آب ریختن %1$s"</string> <!-- TODO validate "Water pouring %1$s" -->
+    <string name="sound_sonar_ping">"سونار پینگ %1$s"</string> <!-- TODO validate "Sonar ping %1$s" -->
+    <string name="sound_inception">"آغاز %1$s"</string> <!-- TODO validate "Inception %1$s" -->
+    <string name="sound_the_pips">"پیپ ها"</string> <!-- TODO validate "The pips" -->
+    <string name="sound_short_pip">"پیپ کوتاه"</string> <!-- TODO validate "Short pip" -->
+    <string name="sound_long_pip">"طولانی پیپ"</string> <!-- TODO validate "Long pip" -->
+    <string name="sound_crystal_glass">"شیشه ای کریستال"</string> <!-- TODO validate "Crystal glass" -->
+    <string name="sound_ping">"پینگ"</string> <!-- TODO validate "Ping" -->
+    <string name="sound_gong_num">"گونگ %1$s"</string> <!-- TODO validate "Gong %1$s" -->
+    <string name="sound_boxing_bell">"زنگ بوکس"</string> <!-- TODO validate "Boxing bell" -->
+    <string name="sound_singing_bowl">"کاسه آواز %1$s"</string> <!-- TODO validate "Singing bowl %1$s" -->
+    <string name="sound_ekg">"مانیتور قلب %1$s"</string> <!-- TODO validate "Heart monitor %1$s" -->
+    <string name="sound_got_item">"موردی گرفتی"</string> <!-- TODO validate "Got item" -->
+    <string name="sound_guitar">"گیتار"</string> <!-- TODO validate "Guitar" -->
 
     <!-- Volume -->
     <string name="text_seek_volume">"حجم صدا"</string>
@@ -128,7 +128,7 @@
     <!-- Quiet Days -->
     <string name="quiet_days_title">"روزهای بیصدا"</string>
     <string name="days_none">"هیچ"</string>
-    <string name="days_everyday">"Everyday"</string> <!-- TODO translate -->
+    <string name="days_everyday">"هر روز"</string> <!-- TODO validate "Everyday" -->
     <string name="quiet_day_warning">"اطلاع رسانی غیر فعال شد، چرا که امروز \"روز بیصدا\" است."</string>
     <string name="toast_change_quiet_days">"لطفا تنظیمات \"روز بیصدا\" را تغییر دهید تا بلیپ بلیپ امروز کار کند"</string>
 
@@ -153,59 +153,59 @@
     <string name="pref_choose_audio_stream">"جریان های صوتی"</string>
     <string name="audio_stream_phone_ring">"زنگ تلفن"</string>
     <string name="audio_stream_alarm">"زنگ"</string>
-    <string name="audio_stream_alarm2">"Alarm clock"</string> <!-- TODO translate -->
+    <string name="audio_stream_alarm2">"ساعت زنگدار"</string> <!-- TODO validate "Alarm clock" -->
     <string name="audio_stream_media">"رسانه"</string>
-    <string name="audio_stream_media2">"Music, Videos, Games"</string> <!-- TODO translate -->
+    <string name="audio_stream_media2">"موسیقی، فیلم ها، بازی ها"</string> <!-- TODO validate "Music, Videos, Games" -->
     <string name="audio_stream_notification">"نوتیفیکیشن"</string>
 
     <!-- Notifications -->
-    <string name="pref_notification_settings">"Notification settings"</string> <!-- TODO translate -->
+    <string name="pref_notification_settings">"تنظیمات اعلان"</string> <!-- TODO validate "Notification settings" -->
     <string name="pref_notification_status_title">"نمایش نوتیفیکیشن ها"</string>
 
     <!-- Show Notification Always -->
-    <string name="pref_notification_always">"Always display"</string> <!-- TODO translate -->
-    <string name="pref_notification_always_on">"Display notification regardless if it is enabled"</string> <!-- TODO translate -->
-    <string name="pref_notification_always_off">"Display notification only if it is enabled"</string> <!-- TODO translate -->
+    <string name="pref_notification_always">"همیشه نمایش داده می شود"</string> <!-- TODO validate "Always display" -->
+    <string name="pref_notification_always_on">"نمایش آگاه شدن بدون در نظر گرفتن اگر آن فعال است"</string> <!-- TODO validate "Display notification regardless if it is enabled" -->
+    <string name="pref_notification_always_off">"نمایش آگاه شدن از طریق تنها در صورت فعال بودن"</string> <!-- TODO validate "Display notification only if it is enabled" -->
     <string name="notification_settings_updated">"Notification settings updated."</string> <!-- message displayed when one of notification settings is updated without user interacting with these options -->
-    <string name="permanent_notification">"Permanent notification"</string> <!-- TODO translate -->
+    <string name="permanent_notification">"اطلاع رسانی دائمی"</string> <!-- TODO validate "Permanent notification" -->
 
     <!-- Notification Priority -->
-    <string name="pref_notification_priority">"Notification priority"</string> <!-- TODO translate -->
-    <string name="item_priority_minimum">"Minimum"</string> <!-- TODO translate -->
-    <string name="item_priority_low">"Low"</string> <!-- TODO translate -->
-    <string name="item_priority_normal">"Normal"</string> <!-- TODO translate -->
-    <string name="item_priority_high">"High"</string> <!-- TODO translate -->
-    <string name="item_priority_maximum">"Maximum"</string> <!-- TODO translate -->
+    <string name="pref_notification_priority">"اولویت اطلاع رسانی"</string> <!-- TODO validate "Notification priority" -->
+    <string name="item_priority_minimum">"کمترین"</string> <!-- TODO validate "Minimum" -->
+    <string name="item_priority_low">"کم"</string> <!-- TODO validate "Low" -->
+    <string name="item_priority_normal">"طبیعی"</string> <!-- TODO validate "Normal" -->
+    <string name="item_priority_high">"بالا"</string> <!-- TODO validate "High" -->
+    <string name="item_priority_maximum">"بیشترین"</string> <!-- TODO validate "Maximum" -->
 
     <!-- Dismissible Notification -->
 
     <!-- Auto dismiss -->
-    <string name="auto_dismiss_notification_title">"Auto dismiss notification"</string> <!-- TODO translate -->
-    <string name="auto_dismiss_notification_on">"Dismiss notification automatically after some time."</string> <!-- TODO translate -->
-    <string name="auto_dismiss_notification_off">"Notification will not be dismissed automatically."</string> <!-- TODO translate -->
+    <string name="auto_dismiss_notification_title">"خودکار اخطار"</string> <!-- TODO validate "Auto dismiss notification" -->
+    <string name="auto_dismiss_notification_on">"پس از مدتی اخطار به طور خودکار رد شود"</string> <!-- TODO validate "Dismiss notification automatically after some time." -->
+    <string name="auto_dismiss_notification_off">"اخطار به صورت خودکار اخراج نخواهد شد."</string> <!-- TODO validate "Notification will not be dismissed automatically." -->
 
     <!-- Vibrate on Wear -->
-    <string name="pref_vibrate_wearable_title">"Vibrate on connected device"</string> <!-- TODO translate -->
-    <string name="pref_vibrate_wearable_on2">"If vibration is enabled vibrate also on connected wearable device (e.g. smart watch). Requires adding System notification action."</string> <!-- TODO translate -->
-    <string name="pref_vibrate_wearable_off">"Do not vibrate on connected wearable device"</string> <!-- TODO translate -->
+    <string name="pref_vibrate_wearable_title">"ارتعاش بر روی دستگاه متصل"</string> <!-- TODO validate "Vibrate on connected device" -->
+    <string name="pref_vibrate_wearable_on2">"اگر ارتعاش نیز روی دستگاه پوشیدنی متصل (مانند ساعت هوشمند) لرزش فعال شود. نیاز به اضافه کردن اقدام اطلاع رسانی سیستم."</string> <!-- TODO validate "If vibration is enabled vibrate also on connected wearable device (e.g. smart watch). Requires adding System notification action." -->
+    <string name="pref_vibrate_wearable_off">"روی دستگاه پوشیدنی متصل نباشید"</string> <!-- TODO validate "Do not vibrate on connected wearable device" -->
 
     <!-- Action Buttons -->
-    <string name="pref_notification_action_buttons">"Action buttons"</string> <!-- TODO translate --> <!-- Preference name for choosing which buttons are visible on notification -->
-    <string name="notif_action_stop">"Stop"</string> <!-- TODO translate --> <!-- Description of action button. This should refer to notif_action_stop -->
-    <string name="notif_action_disable_or_enable">"Enable/Disable"</string> <!-- TODO translate --> <!-- Description of action button. This refers to notif_action_enable and notif_action -->
-    <string name="notif_button_play">"Play"</string> <!-- TODO translate --> <!-- Action button label in notification having same action as play button in the app - plays the notificaton for testing purposes. This text should be short, because it will be shown on notification button where there can be 3 of them -->
-    <string name="notif_button_stop">"Stop"</string> <!-- TODO translate --> <!-- Stops playback of notification. Should be short. -->
-    <string name="notif_button_enable">"Enable"</string> <!-- TODO translate --> <!-- This text should be short, because it will be shown on notification button where there can be 3 of them. -->
-    <string name="notif_button_disable">"Disable"</string> <!-- TODO translate --> <!-- This text should be short, because it will be shown on notification button where there can be 3 of them. -->
+    <string name="pref_notification_action_buttons">"دکمه های عمل"</string> <!-- TODO validate "Action buttons" --> <!-- Preference name for choosing which buttons are visible on notification -->
+    <string name="notif_action_stop">"متوقف کردن"</string> <!-- TODO validate "Stop" --> <!-- Description of action button. This should refer to notif_action_stop -->
+    <string name="notif_action_disable_or_enable">"فعال غیرفعال"</string> <!-- TODO validate "Enable/Disable" --> <!-- Description of action button. This refers to notif_action_enable and notif_action -->
+    <string name="notif_button_play">"بازی"</string> <!-- TODO validate "Play" --> <!-- Action button label in notification having same action as play button in the app - plays the notificaton for testing purposes. This text should be short, because it will be shown on notification button where there can be 3 of them -->
+    <string name="notif_button_stop">"متوقف کردن"</string> <!-- TODO validate "Stop" --> <!-- Stops playback of notification. Should be short. -->
+    <string name="notif_button_enable">"فعال کردن"</string> <!-- TODO validate "Enable" --> <!-- This text should be short, because it will be shown on notification button where there can be 3 of them. -->
+    <string name="notif_button_disable">"غیرفعال کردن"</string> <!-- TODO validate "Disable" --> <!-- This text should be short, because it will be shown on notification button where there can be 3 of them. -->
 
     <!-- Custom Texts -->
-    <string name="pref_custom_texts">"Custom notification texts"</string> <!-- TODO translate -->
-    <string name="pref_notification_title_title">"Notification title"</string> <!-- TODO translate -->
-    <string name="pref_notification_description_title">"Notification description"</string> <!-- TODO translate -->
+    <string name="pref_custom_texts">"متون اطلاع رسانی سفارشی"</string> <!-- TODO validate "Custom notification texts" -->
+    <string name="pref_notification_title_title">"عنوان اطلاع رسانی"</string> <!-- TODO validate "Notification title" -->
+    <string name="pref_notification_description_title">"توضیح اعلان"</string> <!-- TODO validate "Notification description" -->
 
     <!-- Reliability -->
-    <string name="pref_reliability">"Reliability settings"</string> <!-- TODO translate --> <!-- title of settings section meant for all settings which may improve running of the app without issues -->
-    <string name="reliability_warning">"Changing these settings may impact reliability of the app."</string> <!-- TODO translate --> <!-- This message should be as short as possible. There is risk of cutting it off if it will be too long -->
+    <string name="pref_reliability">"تنظیمات قابلیت اطمینان"</string> <!-- TODO validate "Reliability settings" --> <!-- title of settings section meant for all settings which may improve running of the app without issues -->
+    <string name="reliability_warning">"تغییر این تنظیمات ممکن است بر قابلیت اطمینان برنامه تاثیر بگذارد."</string> <!-- TODO validate "Changing these settings may impact reliability of the app." --> <!-- This message should be as short as possible. There is risk of cutting it off if it will be too long -->
 
     <!-- Alarm Mode -->
     <string name="notif_as_alarm_title">"حالت زنگ "</string>
@@ -225,10 +225,10 @@
     <string name="pref_low_volume_fix_off">"غیرفعال شد. برای اکثر دستگاه ها مورد نیاز نیست."</string>
 
     <!-- Foreground Service -->
-    <string name="pref_foreground_service_title">"Foreground service"</string> <!-- TODO translate -->
-    <string name="pref_foreground_service_on">"Displays non-dismissible notification and enables background service which might prevent killing of the app."</string> <!-- TODO translate -->
+    <string name="pref_foreground_service_title">"خدمات پیشرو"</string> <!-- TODO validate "Foreground service" -->
+    <string name="pref_foreground_service_on">"آگاه سازی غیر مجاز را نمایش می دهد و سرویس پس زمینه را فعال می کند که ممکن است باعث جلوگیری از کشتن برنامه شود."</string> <!-- TODO validate "Displays non-dismissible notification and enables background service which might prevent killing of the app." -->
     <string name="pref_foreground_service_off">"Foreground service is disabled"</string>
-    <string name="msg_foreground_service_off">"Foreground service disabled"</string> <!-- TODO translate --> <!-- message displayed when foreground service is disabled without user interacting with this option -->
+    <string name="msg_foreground_service_off">"سرویس پیشگام غیر فعال شده است"</string> <!-- TODO validate "Foreground service disabled" --> <!-- message displayed when foreground service is disabled without user interacting with this option -->
 
     <!-- Toast Notifications -->
     <string name="pref_toast_notifications">"اعلان های برجسته"</string>
@@ -248,7 +248,7 @@
     <string name="pref_experimental">"تنظیمات تجربی"</string>
     <string name="experimental_warning">"اینها تنظیمات تجربی هستند و ممکن است در آینده حذف شوند"</string>
     <string name="title_experimental_settings">"تنظیمات تجربی"</string>
-    <string name="huawei_fix">"Huawei fix"</string> <!-- TODO translate -->
+    <string name="huawei_fix">"هوواوی رفع"</string> <!-- TODO validate "Huawei fix" -->
 
     <!-- Menu - Share -->
     <string name="action_share">"به اشتراک گذاشتن برنامه"</string>
@@ -262,9 +262,9 @@
     <string name="rate_us_message">"ازشما بخاطر ثبت نظر متشکریم."</string>
     <string name="rate_us_onetofourstars">"1 الی 4 ستاره"</string>
     <string name="rate_us_fivestars">"5 ستاره"</string>
-    <string name="five_stars_description">"Five stars"</string> <!-- TODO translate -->
-    <string name="five_stars_title">"Love BlipBlip?"</string> <!-- TODO translate -->
-    <string name="five_stars_text">"Rate us 5 stars to help make BlipBlip even more awesome. Thanks!"</string> <!-- TODO translate -->
+    <string name="five_stars_description">"پنج ستاره"</string> <!-- TODO validate "Five stars" -->
+    <string name="five_stars_title">"عشق BlipBlip؟"</string> <!-- TODO validate "Love BlipBlip?" -->
+    <string name="five_stars_text">"ما 5 ستاره را برای کمک به BlipBlip حتی بیشتر جذاب کنیم. با تشکر!"</string> <!-- TODO validate "Rate us 5 stars to help make BlipBlip even more awesome. Thanks!" -->
 
     <!-- Menu - Error -->
     <string name="action_send_logs">"گزارش مشکل"</string>
@@ -280,41 +280,41 @@
     <string name="about_version">"نسخه"</string>
     <string name="about_authors">"نویسندگان"</string>
     <string name="about_coding">"برنامه نویسی"</string>
-    <string name="about_testing">"Testing"</string> <!-- TODO translate -->
+    <string name="about_testing">"آزمایش کردن"</string> <!-- TODO validate "Testing" -->
     <string name="about_graphics">"گرافیک"</string>
     <string name="about_translations">"ترجمه ها"</string>
-    <string name="about_thank_you">"Thank You"</string> <!-- TODO translate -->
-    <string name="about_images">"Images"</string> <!-- TODO translate -->
-    <string name="about_libraries">"Libraries"</string> <!-- TODO translate --> <!-- title of screen showing licenses of programming libraries used by the app -->
-    <string name="about_acknowledgements">"Acknowledgements"</string> <!-- TODO translate --> <!-- name of screen with authors, translators and other people who have helped -->
-    <string name="about_translators_thank_you">"BlipBlip is translated by our users voluntarily and hereby we thank you for your support and contribution."</string> <!-- TODO translate -->
+    <string name="about_thank_you">"متشکرم"</string> <!-- TODO validate "Thank You" -->
+    <string name="about_images">"تصاویر"</string> <!-- TODO validate "Images" -->
+    <string name="about_libraries">"کتابخانه ها"</string> <!-- TODO validate "Libraries" --> <!-- title of screen showing licenses of programming libraries used by the app -->
+    <string name="about_acknowledgements">"سپاسگزاریها"</string> <!-- TODO validate "Acknowledgements" --> <!-- name of screen with authors, translators and other people who have helped -->
+    <string name="about_translators_thank_you">"BlipBlip توسط کاربران ما به صورت داوطلب ترجمه شده است و از این رو ما از حمایت و سهم شما متشکریم."</string> <!-- TODO validate "BlipBlip is translated by our users voluntarily and hereby we thank you for your support and contribution." -->
 
     <!-- Visual -->
     <string name="pref_visual">"تنظیمات بصری"</string>
     <string name="title_visual_settings">"تنظیمات بصری"</string>
 
     <!-- Unsorted -->
-    <string name="warn_notification_skip">"Some notifications will be skipped."</string> <!-- TODO translate --> <!-- Please make this as short as possible. This warning is displayed when user chooses to skip few upcoming notifications. -->
-    <string name="warn_volume_zero">"Current volume is set to zero."</string> <!-- TODO translate --> <!-- Please make this as short as possible. This warning is displayed when current system volume is set to 0. -->
-    <string name="pref_low_mem_restart_title">"Low memory restart"</string> <!-- TODO translate -->
+    <string name="warn_notification_skip">"برخی از اعلان ها پرش می کنند"</string> <!-- TODO validate "Some notifications will be skipped." --> <!-- Please make this as short as possible. This warning is displayed when user chooses to skip few upcoming notifications. -->
+    <string name="warn_volume_zero">"حجم کنونی به صفر تنظیم شده است."</string> <!-- TODO validate "Current volume is set to zero." --> <!-- Please make this as short as possible. This warning is displayed when current system volume is set to 0. -->
+    <string name="pref_low_mem_restart_title">"راه اندازی مجدد حافظه کم"</string> <!-- TODO validate "Low memory restart" -->
     <string name="pref_low_mem_restart_on">"Try restarting app if device is low on memory. This will not work on all devices. It is not needed on most devices (may use a bit more battery)."</string>
-    <string name="pref_low_mem_restart_off">"Do not try restarting app if device is low on memory."</string> <!-- TODO translate -->
-    <string name="pref_heading_notification_accuracy">"Notification accuracy"</string> <!-- TODO translate --> <!-- punctuality -->
-    <string name="pref_delay_prevention_title">"Prevent delays"</string> <!-- TODO translate -->
-    <string name="pref_delay_prevention_on">"Tries to actively prevent notification delays which happen on some devices. May use more battery."</string> <!-- TODO translate -->
-    <string name="pref_delay_prevention_off">"Does not try to prevent notification delays which may occur on some devices. Uses less battery."</string> <!-- TODO translate -->
-    <string name="pref_aggressive_delay_prevention_title">"Prevent delays aggressively"</string> <!-- TODO translate -->
-    <string name="pref_aggressive_delay_prevention_on">"Notifications should be more often accurate. May use more battery."</string> <!-- TODO translate -->
-    <string name="pref_aggressive_delay_prevention_off">"Notifications may be late in rare cases. Uses less battery."</string> <!-- TODO translate -->
-    <string name="pref_ignore_delayed_title">"Ignore delayed notifications"</string> <!-- TODO translate -->
-    <string name="pref_ignore_delayed_on">"If notification is considered delayed it won't be shown or played."</string> <!-- TODO translate -->
-    <string name="pref_ignore_delayed_off">"Notifications will be shown or played even when they are delayed."</string> <!-- TODO translate -->
-    <string name="pref_audio_focus_title">"Muting background audio"</string> <!-- TODO translate --> <!-- option to improve ability to hear app sounds by decreasing volume of other apps or pausing them -->
-    <string name="pref_audio_focus_on">"While app plays sound, audio from other apps will be quieter or paused."</string> <!-- TODO translate -->
-    <string name="pref_audio_focus_off">"Audio from other apps will be played normally."</string> <!-- TODO translate -->
-    <string name="pref_audio_focus_dont_duck_title">"Pause playback"</string> <!-- TODO translate -->
-    <string name="pref_audio_focus_dont_duck_on">"During sound playback other apps may pause their audio."</string> <!-- TODO translate -->
-    <string name="pref_audio_focus_dont_duck_off">"During sound playback other apps may lower volume of their audio."</string> <!-- TODO translate -->
+    <string name="pref_low_mem_restart_off">"اگر دستگاه در حافظه کم است، برنامه را مجددا راه اندازی نکنید."</string> <!-- TODO validate "Do not try restarting app if device is low on memory." -->
+    <string name="pref_heading_notification_accuracy">"دقت اعلان"</string> <!-- TODO validate "Notification accuracy" --> <!-- punctuality -->
+    <string name="pref_delay_prevention_title">"جلوگیری از تاخیر"</string> <!-- TODO validate "Prevent delays" -->
+    <string name="pref_delay_prevention_on">"تلاش می کند تا به طور فعال از تاخیر های اطلاع رسانی که در برخی از دستگاه ها اتفاق می افتد جلوگیری شود. ممکن است بیشتر از باتری استفاده شود."</string> <!-- TODO validate "Tries to actively prevent notification delays which happen on some devices. May use more battery." -->
+    <string name="pref_delay_prevention_off">"سعی نکنید از تاخیر های اطلاع رسانی که ممکن است در برخی از دستگاه ها رخ دهد جلوگیری شود. استفاده از باتری کمتری دارد"</string> <!-- TODO validate "Does not try to prevent notification delays which may occur on some devices. Uses less battery." -->
+    <string name="pref_aggressive_delay_prevention_title">"جلوگیری از تاخیر در پرخاشگری"</string> <!-- TODO validate "Prevent delays aggressively" -->
+    <string name="pref_aggressive_delay_prevention_on">"اطلاعیه ها باید اغلب دقیق باشند. ممکن است بیشتر از باتری استفاده شود."</string> <!-- TODO validate "Notifications should be more often accurate. May use more battery." -->
+    <string name="pref_aggressive_delay_prevention_off">"ممکن است اطلاعیه ها در مورد موارد نادر باشد. استفاده از باتری کمتری دارد"</string> <!-- TODO validate "Notifications may be late in rare cases. Uses less battery." -->
+    <string name="pref_ignore_delayed_title">"نادیده گرفتن اعلان های تاخیری"</string> <!-- TODO validate "Ignore delayed notifications" -->
+    <string name="pref_ignore_delayed_on">"اگر اطلاع رسانی تاخیر در نظر گرفته شود، نمایش داده نمی شود یا پخش می شود."</string> <!-- TODO validate "If notification is considered delayed it won't be shown or played." -->
+    <string name="pref_ignore_delayed_off">"اعلان ها حتی زمانی که به تأخیر می اندازند نشان داده می شوند یا پخش می شوند."</string> <!-- TODO validate "Notifications will be shown or played even when they are delayed." -->
+    <string name="pref_audio_focus_title">"خاموش کردن صدا پسزمینه"</string> <!-- TODO validate "Muting background audio" --> <!-- option to improve ability to hear app sounds by decreasing volume of other apps or pausing them -->
+    <string name="pref_audio_focus_on">"در حالی که برنامه پخش می شود صدا، صوتی از برنامه های دیگر ساکت تر و یا مکث."</string> <!-- TODO validate "While app plays sound, audio from other apps will be quieter or paused." -->
+    <string name="pref_audio_focus_off">"صوتی از برنامه های دیگر به طور معمول پخش خواهد شد."</string> <!-- TODO validate "Audio from other apps will be played normally." -->
+    <string name="pref_audio_focus_dont_duck_title">"پخش را متوقف کنید"</string> <!-- TODO validate "Pause playback" -->
+    <string name="pref_audio_focus_dont_duck_on">"در طول پخش صدا دیگر برنامه ها ممکن است صوتی خود را متوقف کنند."</string> <!-- TODO validate "During sound playback other apps may pause their audio." -->
+    <string name="pref_audio_focus_dont_duck_off">"در طول پخش صدا دیگر برنامه ها ممکن است حجم صدای خود را کاهش دهند."</string> <!-- TODO validate "During sound playback other apps may lower volume of their audio." -->
 
     <!-- Plurals -->
     <!-- check which quantities and how should be used for given language here http://www.unicode.org/cldr/charts/29/supplemental/language_plural_rules.html -->
@@ -336,494 +336,494 @@
         <item quantity="other">"%d times"</item>
     </plurals>
 
-    <string name="pref_reset_accuracy_params">"Reset parameters"</string> <!-- TODO translate -->
-    <string name="pref_reset_accuracy_params_desc">"Resets internal parameters which improve notification accuracy."</string> <!-- TODO translate -->
-    <string name="warn_foreground_service_disabled">"Foreground service setting has been disabled. This may increase chance that background process is killed and app stops working."</string> <!-- TODO translate -->
+    <string name="pref_reset_accuracy_params">"پارامترهای بازنشانی"</string> <!-- TODO validate "Reset parameters" -->
+    <string name="pref_reset_accuracy_params_desc">"پارامترهای داخلی را بازنشانی می کند که دقت اطلاع رسانی را بهبود می دهند"</string> <!-- TODO validate "Resets internal parameters which improve notification accuracy." -->
+    <string name="warn_foreground_service_disabled">"تنظیمات سرویس پیش فرض غیر فعال شده است. این ممکن است شانس فرآیند پس زمینه کشته شود و برنامه کار را متوقف کند."</string> <!-- TODO validate "Foreground service setting has been disabled. This may increase chance that background process is killed and app stops working." -->
 
     <!-- Airplane mode -->
-    <string name="pref_airplane_mode">"Airplane mode"</string> <!-- TODO translate -->
-    <string name="while_airplane_toast">"BlipBlip notifications are now disabled, because you are in airplane mode."</string> <!-- TODO translate -->
+    <string name="pref_airplane_mode">"حالت هواپیما"</string> <!-- TODO validate "Airplane mode" -->
+    <string name="while_airplane_toast">"اعلان BlipBlip در حال حاضر غیر فعال است، زیرا شما در حالت هواپیما هستید."</string> <!-- TODO validate "BlipBlip notifications are now disabled, because you are in airplane mode." -->
 
-    <string name="setting_system_default">"System default"</string> <!-- TODO translate -->
-    <string name="pref_time_format_title">"Time format"</string> <!-- TODO translate -->
-    <string name="time_format_12h">"12 hour clock"</string> <!-- TODO translate -->
-    <string name="time_format_24h">"24 hour clock"</string> <!-- TODO translate -->
+    <string name="setting_system_default">"پیش فرض سیستم"</string> <!-- TODO validate "System default" -->
+    <string name="pref_time_format_title">"فرمت زمان"</string> <!-- TODO validate "Time format" -->
+    <string name="time_format_12h">"ساعت 12 ساعت"</string> <!-- TODO validate "12 hour clock" -->
+    <string name="time_format_24h">"ساعت 24 ساعته"</string> <!-- TODO validate "24 hour clock" -->
 
-    <string name="theme_blipblip">"BlipBlip"</string> <!-- TODO translate -->
-    <string name="theme_standard">"Standard"</string> <!-- TODO translate -->
-    <string name="theme_blue">"Blue"</string> <!-- TODO translate -->
-    <string name="theme_yellow">"Yellow"</string> <!-- TODO translate -->
-    <string name="theme_purple">"Purple"</string> <!-- TODO translate -->
-    <string name="theme_red">"Red"</string> <!-- TODO translate -->
-    <string name="theme_green">"Green"</string> <!-- TODO translate -->
-    <string name="theme_blue_gray">"Blue grey"</string> <!-- TODO translate -->
-    <string name="theme_orange">"Orange"</string> <!-- TODO translate -->
-    <string name="theme_indigo">"Indigo"</string> <!-- TODO translate -->
-    <string name="theme_cyan">"Cyan"</string> <!-- TODO translate -->
-    <string name="theme_teal">"Teal"</string> <!-- TODO translate -->
+    <string name="theme_blipblip">"BlipBlip"</string> <!-- TODO validate "BlipBlip" -->
+    <string name="theme_standard">"استاندارد"</string> <!-- TODO validate "Standard" -->
+    <string name="theme_blue">"آبی"</string> <!-- TODO validate "Blue" -->
+    <string name="theme_yellow">"رنگ زرد"</string> <!-- TODO validate "Yellow" -->
+    <string name="theme_purple">"رنگ بنفش"</string> <!-- TODO validate "Purple" -->
+    <string name="theme_red">"سرخ"</string> <!-- TODO validate "Red" -->
+    <string name="theme_green">"سبز"</string> <!-- TODO validate "Green" -->
+    <string name="theme_blue_gray">"آبی خاکستری"</string> <!-- TODO validate "Blue grey" -->
+    <string name="theme_orange">"نارنجی"</string> <!-- TODO validate "Orange" -->
+    <string name="theme_indigo">"Indigo"</string> <!-- TODO validate "Indigo" -->
+    <string name="theme_cyan">"فیروزه ای"</string> <!-- TODO validate "Cyan" -->
+    <string name="theme_teal">"تیله"</string> <!-- TODO validate "Teal" -->
 
-    <string name="pref_color_theme">"Theme"</string> <!-- TODO translate -->
-    <string name="cycle_themes_message">"Switch themes using volume buttons."</string> <!-- TODO translate -->
-    <string name="cycle_themes_finish">"Finish"</string> <!-- TODO translate -->
-    <string name="cycle_themes">"Cycle themes"</string> <!-- TODO translate -->
-    <string name="cycle_themes_description">"Allows switching themes using volume buttons."</string> <!-- TODO translate -->
-    <string name="color_next_notification_bar">"Color next notification bar"</string> <!-- TODO translate -->
-    <string name="color_next_notification_bar_on">"Use color background for next notification bar."</string> <!-- TODO translate -->
-    <string name="color_next_notification_bar_off">"Use gray background for next notification bar."</string> <!-- TODO translate -->
-    <string name="night_mode">"Night mode"</string> <!-- TODO translate -->
-    <string name="night_mode_on">"Enabled"</string> <!-- TODO translate -->
-    <string name="night_mode_off">"Disabled"</string> <!-- TODO translate -->
-    <string name="night_mode_auto">"Auto"</string> <!-- TODO translate -->
-    <string name="night_mode_system">"System setting"</string> <!-- TODO translate -->
+    <string name="pref_color_theme">"موضوع"</string> <!-- TODO validate "Theme" -->
+    <string name="cycle_themes_message">"تغییر با استفاده از دکمه های حجم"</string> <!-- TODO validate "Switch themes using volume buttons." -->
+    <string name="cycle_themes_finish">"پایان دادن"</string> <!-- TODO validate "Finish" -->
+    <string name="cycle_themes">"تم های چرخه"</string> <!-- TODO validate "Cycle themes" -->
+    <string name="cycle_themes_description">"امکان تغییر دادن تم ها با استفاده از دکمه های حجم"</string> <!-- TODO validate "Allows switching themes using volume buttons." -->
+    <string name="color_next_notification_bar">"نوار اطلاع رسانی رنگی بعدی"</string> <!-- TODO validate "Color next notification bar" -->
+    <string name="color_next_notification_bar_on">"استفاده از پس زمینه رنگ برای نوار اطلاع رسانی بعدی."</string> <!-- TODO validate "Use color background for next notification bar." -->
+    <string name="color_next_notification_bar_off">"برای نوار اطلاع رسانی بعدی از پس زمینه خاکستری استفاده کنید."</string> <!-- TODO validate "Use gray background for next notification bar." -->
+    <string name="night_mode">"حالت شب"</string> <!-- TODO validate "Night mode" -->
+    <string name="night_mode_on">"فعال شده است"</string> <!-- TODO validate "Enabled" -->
+    <string name="night_mode_off">"معلول"</string> <!-- TODO validate "Disabled" -->
+    <string name="night_mode_auto">"خودکار"</string> <!-- TODO validate "Auto" -->
+    <string name="night_mode_system">"تنظیم سیستم"</string> <!-- TODO validate "System setting" -->
 
-    <string name="title_activity_sounds">"Sounds"</string> <!-- TODO translate -->
-    <string name="title_activity_sound">"Sound"</string> <!-- TODO translate -->
-    <string name="title_activity_vibrations">"Vibrations"</string> <!-- TODO translate -->
-    <string name="title_activity_vibration">"Vibration"</string> <!-- TODO translate -->
-    <string name="action_delete">"Delete"</string> <!-- TODO translate -->
-    <string name="action_add_vibration_pattern">"Add entry"</string> <!-- TODO translate -->
-    <string name="dialog_title_deletion">"Confirm deletion"</string> <!-- TODO translate -->
-    <string name="dialog_message_confirm">"Are you sure?"</string> <!-- TODO translate -->
-    <string name="vibration_name">"Vibration name"</string> <!-- TODO translate -->
-    <string name="action_restore_defaults">"Restore defaults"</string> <!-- TODO translate --> <!-- e.g. for sounds or vibrations -->
-    <string name="restore_defaults_message2">"Would you like to restore default values?"</string> <!-- TODO translate -->
-    <string name="add_vibration">"Add vibration"</string> <!-- TODO translate -->
-    <string name="edit">"Edit"</string> <!-- TODO translate --> <!-- Name of action to edit list of sounds or list of vibrations, should be short -->
-    <string name="editing">"Editing"</string> <!-- TODO translate --> <!-- Displayed in edit mode -->
-    <string name="error_file_open_failed">"Failed to open file."</string> <!-- TODO translate -->
-    <string name="error_file_open_no_permission">"No permission to open the file."</string> <!-- TODO translate -->
-    <string name="error_file_open_failed_no_permission_title">"Grant permission manually"</string> <!-- TODO translate -->
-    <string name="error_file_open_failed_no_permission">"No permission to open the file. Please open Settings and give permission to access storage."</string> <!-- TODO translate -->
-    <string name="error_file_open_failed_settings">"Open Settings"</string> <!-- TODO translate -->
-    <string name="play_vibration">"Vibrate"</string> <!-- TODO translate --> <!-- description of action of a button to perform vibration -->
-    <string name="play_sound">"Play sound"</string> <!-- TODO translate --> <!-- description of action of a button to play sound -->
-    <string name="drag_handle">"Handle for dragging"</string> <!-- TODO translate -->
-    <string name="select_audio_file">"Select Audio file"</string> <!-- TODO translate -->
-    <string name="add_sound_to_blipblip">"Add to BlipBlip"</string> <!-- TODO translate -->
-    <string name="permission_denied">"Permission denied"</string> <!-- TODO translate -->
-    <string name="permission_denied_message_no_addon">"BlipBlip does not have permission to read the file."</string> <!-- TODO translate -->
-    <string name="permission_denied_message_no_addon_part2">"Please use some other app that shares file without need for additional permission (e.g. Google Drive)."</string> <!-- TODO translate -->
-    <string name="permission_denied_rationale_title">"Permission needed"</string> <!-- TODO translate -->
-    <string name="permission_denied_rationale">"Application does not have permission to read the file. Please grant the app permission to access the file. You can also share the file using other app which does not need using this permission."</string> <!-- TODO translate -->
+    <string name="title_activity_sounds">"صدا"</string> <!-- TODO validate "Sounds" -->
+    <string name="title_activity_sound">"صدا"</string> <!-- TODO validate "Sound" -->
+    <string name="title_activity_vibrations">"ارتعاشات"</string> <!-- TODO validate "Vibrations" -->
+    <string name="title_activity_vibration">"لرزش"</string> <!-- TODO validate "Vibration" -->
+    <string name="action_delete">"حذف"</string> <!-- TODO validate "Delete" -->
+    <string name="action_add_vibration_pattern">"اضافه کردن ورودی"</string> <!-- TODO validate "Add entry" -->
+    <string name="dialog_title_deletion">"تأیید حذف"</string> <!-- TODO validate "Confirm deletion" -->
+    <string name="dialog_message_confirm">"شما مطمئن هستید؟"</string> <!-- TODO validate "Are you sure?" -->
+    <string name="vibration_name">"نام ارتعاش"</string> <!-- TODO validate "Vibration name" -->
+    <string name="action_restore_defaults">"بازگردانی پیش فرض ها"</string> <!-- TODO validate "Restore defaults" --> <!-- e.g. for sounds or vibrations -->
+    <string name="restore_defaults_message2">"آیا می خواهید مقادیر پیش فرض را بازگردانید؟"</string> <!-- TODO validate "Would you like to restore default values?" -->
+    <string name="add_vibration">"لرزش اضافه کنید"</string> <!-- TODO validate "Add vibration" -->
+    <string name="edit">"ویرایش کنید"</string> <!-- TODO validate "Edit" --> <!-- Name of action to edit list of sounds or list of vibrations, should be short -->
+    <string name="editing">"ویرایش"</string> <!-- TODO validate "Editing" --> <!-- Displayed in edit mode -->
+    <string name="error_file_open_failed">"فایل باز نشد"</string> <!-- TODO validate "Failed to open file." -->
+    <string name="error_file_open_no_permission">"هیچ مجوزی برای باز کردن فایل وجود ندارد."</string> <!-- TODO validate "No permission to open the file." -->
+    <string name="error_file_open_failed_no_permission_title">"مجوز را به صورت دستی دریافت کنید"</string> <!-- TODO validate "Grant permission manually" -->
+    <string name="error_file_open_failed_no_permission">"هیچ مجوزی برای باز کردن فایل وجود ندارد. لطفا تنظیمات را باز کنید و اجازه دسترسی به ذخیره سازی را بدهید."</string> <!-- TODO validate "No permission to open the file. Please open Settings and give permission to access storage." -->
+    <string name="error_file_open_failed_settings">"تنظیمات را باز کنید"</string> <!-- TODO validate "Open Settings" -->
+    <string name="play_vibration">"ارتعاش"</string> <!-- TODO validate "Vibrate" --> <!-- description of action of a button to perform vibration -->
+    <string name="play_sound">"پخش صدا"</string> <!-- TODO validate "Play sound" --> <!-- description of action of a button to play sound -->
+    <string name="drag_handle">"دستگیره برای کشیدن"</string> <!-- TODO validate "Handle for dragging" -->
+    <string name="select_audio_file">"فایل صوتی را انتخاب کنید"</string> <!-- TODO validate "Select Audio file" -->
+    <string name="add_sound_to_blipblip">"افزودن به BlipBlip"</string> <!-- TODO validate "Add to BlipBlip" -->
+    <string name="permission_denied">"مجوز انکار شد"</string> <!-- TODO validate "Permission denied" -->
+    <string name="permission_denied_message_no_addon">"BlipBlip مجوز خواندن فایل را ندارد"</string> <!-- TODO validate "BlipBlip does not have permission to read the file." -->
+    <string name="permission_denied_message_no_addon_part2">"لطفا از برنامه دیگری استفاده کنید که بدون نیاز به مجوز اضافی (به عنوان مثال Google Drive) بدون نیاز به اشتراک فایل اقدام کند."</string> <!-- TODO validate "Please use some other app that shares file without need for additional permission (e.g. Google Drive)." -->
+    <string name="permission_denied_rationale_title">"مجوز مورد نیاز است"</string> <!-- TODO validate "Permission needed" -->
+    <string name="permission_denied_rationale">"برنامه مجوز خواندن فایل را ندارد لطفا اجازه دسترسی به پرونده برای دسترسی به پرونده را اعطا کنید شما همچنین می توانید فایل را با استفاده از برنامه های دیگر که نیازی به استفاده از این اجازه ندارید به اشتراک بگذارید."</string> <!-- TODO validate "Application does not have permission to read the file. Please grant the app permission to access the file. You can also share the file using other app which does not need using this permission." -->
 
     <!-- Menu drawer strings -->
 
-    <string name="more_actions">"More actions"</string> <!-- TODO translate -->
-    <string name="start_time">"Start time"</string> <!-- TODO translate -->
-    <string name="end_time">"End time"</string> <!-- TODO translate -->
-    <string name="whole_day">"Whole day"</string> <!-- TODO translate -->
-    <string name="enable_screen">"Enable screen"</string> <!-- TODO translate -->
-    <string name="action_rename">"Rename"</string> <!-- TODO translate -->
-    <string name="pref_accessibility">"Accessibility"</string> <!-- TODO translate -->
-    <string name="pref_swipe">"Touch gestures"</string> <!-- TODO translate -->
-    <string name="pref_swipe_on">"Swiping enabled on list items"</string> <!-- TODO translate -->
-    <string name="pref_swipe_off">"Swiping disabled on list items"</string> <!-- TODO translate -->
-    <string name="pref_action_menus">"Action menus"</string> <!-- TODO translate -->
-    <string name="pref_action_menus_on">"Show menus with actions that would otherwise require gestures (e.g. swiping). Useful when using TalkBack."</string> <!-- TODO translate -->
-    <string name="pref_action_menus_off">"Hide menus containing actions that can also be performed using gestures."</string> <!-- TODO translate -->
-    <string name="next_notification">"Next notification: %1$s"</string> <!-- TODO translate -->
-    <string name="next_tomorrow">"tomorrow at %1$s"</string> <!-- TODO translate --> <!-- e.g. tomorrow at 10:00 -->
-    <string name="next_on_mon">"Monday at %1$s"</string> <!-- TODO translate -->
-    <string name="next_on_tue">"Tuesday at %1$s"</string> <!-- TODO translate -->
-    <string name="next_on_wed">"Wednesday at %1$s"</string> <!-- TODO translate -->
-    <string name="next_on_thu">"Thursday at %1$s"</string> <!-- TODO translate -->
-    <string name="next_on_fri">"Friday at %1$s"</string> <!-- TODO translate -->
-    <string name="next_on_sat">"Saturday at %1$s"</string> <!-- TODO translate -->
-    <string name="next_on_sun">"Sunday at %1$s"</string> <!-- TODO translate -->
-    <string name="never">"never"</string> <!-- TODO translate --> <!-- if notification will never occur-->
-    <string name="show_seconds_title">"Show seconds"</string> <!-- TODO translate -->
-    <string name="show_seconds_on">"Choosing seconds is enabled. Displays times with seconds."</string> <!-- TODO translate -->
-    <string name="show_seconds_off">"Choosing seconds is disabled. Display times without seconds."</string> <!-- TODO translate -->
-    <string name="notification_disabled_warning">"Notification is disabled"</string> <!-- TODO translate -->
-    <string name="social_facebook">"Facebook"</string> <!-- TODO translate -->
-    <string name="social_twitter">"Twitter"</string> <!-- TODO translate -->
-    <string name="social_google_plus">"Google+"</string> <!-- TODO translate -->
-    <string name="social_google_plus_community">"Google+ Community"</string> <!-- TODO translate -->
-    <string name="troubleshooting">"Troubleshooting"</string> <!-- TODO translate -->
-    <string name="premium_features">"Premium features"</string> <!-- TODO translate -->
-    <string name="disable_when_headset">"Disable when headset connected"</string> <!-- TODO translate -->
-    <string name="disable_when_headset_on">"All notifications disabled"</string> <!-- TODO translate -->
-    <string name="disable_when_headset_off">"All notifications enabled"</string> <!-- TODO translate -->
-    <string name="disable_when_headset_toast">"BlipBlip notifications are now disabled, because you have headset connected."</string> <!-- TODO translate -->
+    <string name="more_actions">"اقدامات بیشتر"</string> <!-- TODO validate "More actions" -->
+    <string name="start_time">"زمان شروع"</string> <!-- TODO validate "Start time" -->
+    <string name="end_time">"زمان پایان"</string> <!-- TODO validate "End time" -->
+    <string name="whole_day">"تمام روز"</string> <!-- TODO validate "Whole day" -->
+    <string name="enable_screen">"صفحه را فعال کنید"</string> <!-- TODO validate "Enable screen" -->
+    <string name="action_rename">"تغییر نام دهید"</string> <!-- TODO validate "Rename" -->
+    <string name="pref_accessibility">"دسترسی"</string> <!-- TODO validate "Accessibility" -->
+    <string name="pref_swipe">"حرکات لمسی"</string> <!-- TODO validate "Touch gestures" -->
+    <string name="pref_swipe_on">"کشیدن روی آیتم های لیست فعال"</string> <!-- TODO validate "Swiping enabled on list items" -->
+    <string name="pref_swipe_off">"کشیدن بر روی آیتم های لیست غیر فعال شده است"</string> <!-- TODO validate "Swiping disabled on list items" -->
+    <string name="pref_action_menus">"منوهای عملی"</string> <!-- TODO validate "Action menus" -->
+    <string name="pref_action_menus_on">"نمایش منوها با اقداماتی که در غیر این صورت نیاز به حرکات دارند (مانند کشیدن). هنگام استفاده از TalkBack مفید است."</string> <!-- TODO validate "Show menus with actions that would otherwise require gestures (e.g. swiping). Useful when using TalkBack." -->
+    <string name="pref_action_menus_off">"مخفی کردن منوهای حاوی اقداماتی که می توانند با استفاده از حرکات انجام شوند."</string> <!-- TODO validate "Hide menus containing actions that can also be performed using gestures." -->
+    <string name="next_notification">"اعلان بعدی: %1$s"</string> <!-- TODO validate "Next notification: %1$s" -->
+    <string name="next_tomorrow">"فردا در %1$s"</string> <!-- TODO validate "tomorrow at %1$s" --> <!-- e.g. tomorrow at 10:00 -->
+    <string name="next_on_mon">"دوشنبه در %1$s"</string> <!-- TODO validate "Monday at %1$s" -->
+    <string name="next_on_tue">"سه شنبه در %1$s"</string> <!-- TODO validate "Tuesday at %1$s" -->
+    <string name="next_on_wed">"چهارشنبه در %1$s"</string> <!-- TODO validate "Wednesday at %1$s" -->
+    <string name="next_on_thu">"پنج شنبه در %1$s"</string> <!-- TODO validate "Thursday at %1$s" -->
+    <string name="next_on_fri">"جمعه در %1$s"</string> <!-- TODO validate "Friday at %1$s" -->
+    <string name="next_on_sat">"شنبه در %1$s"</string> <!-- TODO validate "Saturday at %1$s" -->
+    <string name="next_on_sun">"یکشنبه در %1$s"</string> <!-- TODO validate "Sunday at %1$s" -->
+    <string name="never">"هرگز"</string> <!-- TODO validate "never" --> <!-- if notification will never occur-->
+    <string name="show_seconds_title">"نمایش ثانیه ها"</string> <!-- TODO validate "Show seconds" -->
+    <string name="show_seconds_on">"انتخاب ثانیه ها فعال است زمانها را با ثانیه نشان می دهد."</string> <!-- TODO validate "Choosing seconds is enabled. Displays times with seconds." -->
+    <string name="show_seconds_off">"انتخاب ثانیه غیرفعال است نمایش زمان بدون ثانیه."</string> <!-- TODO validate "Choosing seconds is disabled. Display times without seconds." -->
+    <string name="notification_disabled_warning">"اعلان غیرفعال است"</string> <!-- TODO validate "Notification is disabled" -->
+    <string name="social_facebook">"فیس بوک"</string> <!-- TODO validate "Facebook" -->
+    <string name="social_twitter">"توییتر"</string> <!-- TODO validate "Twitter" -->
+    <string name="social_google_plus">"+ Google"</string> <!-- TODO validate "Google+" -->
+    <string name="social_google_plus_community">"انجمن Google+"</string> <!-- TODO validate "Google+ Community" -->
+    <string name="troubleshooting">"عیب یابی"</string> <!-- TODO validate "Troubleshooting" -->
+    <string name="premium_features">"ویژگی های حق بیمه"</string> <!-- TODO validate "Premium features" -->
+    <string name="disable_when_headset">"هنگامی که هدست متصل شده غیرفعال شود"</string> <!-- TODO validate "Disable when headset connected" -->
+    <string name="disable_when_headset_on">"همه اعلانها غیرفعال شده اند"</string> <!-- TODO validate "All notifications disabled" -->
+    <string name="disable_when_headset_off">"همه اعلانها فعال شده اند"</string> <!-- TODO validate "All notifications enabled" -->
+    <string name="disable_when_headset_toast">"اعلان BlipBlip در حال حاضر غیر فعال است، زیرا هدست وصل شده است."</string> <!-- TODO validate "BlipBlip notifications are now disabled, because you have headset connected." -->
 
-    <string name="add">"Add"</string> <!-- TODO translate -->
-    <string name="add_item">"Add item"</string> <!-- TODO translate -->
-    <string name="action_add_condition">"Add condition"</string> <!-- TODO translate -->
-    <string name="dialog_title_days_of_week">"Days of Week"</string> <!-- TODO translate -->
-    <string name="dialog_title_date">"Date"</string> <!-- TODO translate -->
-    <string name="start_date">"Start date"</string> <!-- TODO translate -->
-    <string name="end_date">"End date"</string> <!-- TODO translate -->
-    <string name="dialog_title_time">"Time"</string> <!-- TODO translate -->
-    <string name="dialog_title_time_range">"Time range"</string> <!-- TODO translate -->
-    <string name="dialog_title_repeat">"Repeat"</string> <!-- TODO translate -->
-    <string name="interval">"Interval"</string> <!-- TODO translate -->
-    <string name="no_repeat">"No repeat"</string> <!-- TODO translate -->
-    <string name="action_add_action">"Add action"</string> <!-- TODO translate -->
-    <string name="favorite_condition_dialog_edit">"Edit"</string> <!-- TODO translate -->
-    <string name="favorite_condition_dialog_create">"Create"</string> <!-- TODO translate -->
-    <string name="system_notification">"System notification"</string> <!-- TODO translate -->
-    <string name="popup_text">"Popup text"</string> <!-- TODO translate -->
-    <string name="no_actions_added">"No actions added"</string> <!-- TODO translate -->
-    <string name="section_conditions">"Conditions"</string> <!-- TODO translate -->
-    <string name="no_valid_condition_added">"No correct conditions defined"</string> <!-- TODO translate -->
-    <string name="no_upcoming_notifications">"No upcoming notifications"</string> <!-- TODO translate -->
-    <string name="error_indicator">"Error indicator"</string> <!-- TODO translate -->
-    <string name="next_notification_app_off">"Off (app disabled)"</string> <!-- TODO translate -->
-    <string name="next_day">"following day"</string> <!-- TODO translate --> <!-- Used in: "22:00 - 6:00 next day" -->
-    <string name="notifications">"Notifications"</string> <!-- TODO translate -->
-    <string name="warning_no_email_app">"No email application found to send the report."</string> <!-- TODO translate -->
-    <string name="weeknights">"Weeknights"</string> <!-- TODO translate --> <!-- nights from sunday to thursday -->
-    <string name="weekend_nights">"Weekend nights"</string> <!-- TODO translate --> <!-- nights on friday and saturday -->
-    <string name="weekend">"Weekend"</string> <!-- TODO translate --> <!-- saturday and sunday -->
+    <string name="add">"اضافه کردن"</string> <!-- TODO validate "Add" -->
+    <string name="add_item">"این مورد را اضافه کنید"</string> <!-- TODO validate "Add item" -->
+    <string name="action_add_condition">"شرایط را اضافه کنید"</string> <!-- TODO validate "Add condition" -->
+    <string name="dialog_title_days_of_week">"روزهای هفته"</string> <!-- TODO validate "Days of Week" -->
+    <string name="dialog_title_date">"تاریخ"</string> <!-- TODO validate "Date" -->
+    <string name="start_date">"تاریخ شروع"</string> <!-- TODO validate "Start date" -->
+    <string name="end_date">"تاریخ پایان"</string> <!-- TODO validate "End date" -->
+    <string name="dialog_title_time">"زمان"</string> <!-- TODO validate "Time" -->
+    <string name="dialog_title_time_range">"محدوده زمانی"</string> <!-- TODO validate "Time range" -->
+    <string name="dialog_title_repeat">"تکرار"</string> <!-- TODO validate "Repeat" -->
+    <string name="interval">"فاصله"</string> <!-- TODO validate "Interval" -->
+    <string name="no_repeat">"بدون تکرار"</string> <!-- TODO validate "No repeat" -->
+    <string name="action_add_action">"عمل اضافه کنید"</string> <!-- TODO validate "Add action" -->
+    <string name="favorite_condition_dialog_edit">"ویرایش کنید"</string> <!-- TODO validate "Edit" -->
+    <string name="favorite_condition_dialog_create">"ايجاد كردن"</string> <!-- TODO validate "Create" -->
+    <string name="system_notification">"اطلاع رسانی سیستم"</string> <!-- TODO validate "System notification" -->
+    <string name="popup_text">"متن پنجره"</string> <!-- TODO validate "Popup text" -->
+    <string name="no_actions_added">"هیچ اقدام اضافه نشده است"</string> <!-- TODO validate "No actions added" -->
+    <string name="section_conditions">"شرایط"</string> <!-- TODO validate "Conditions" -->
+    <string name="no_valid_condition_added">"هیچ شرایط صحیح مشخص نشده است"</string> <!-- TODO validate "No correct conditions defined" -->
+    <string name="no_upcoming_notifications">"هیچ اطلاعیه ای در آینده وجود ندارد"</string> <!-- TODO validate "No upcoming notifications" -->
+    <string name="error_indicator">"نشانگر خطا"</string> <!-- TODO validate "Error indicator" -->
+    <string name="next_notification_app_off">"خاموش (برنامه غیرفعال شده است)"</string> <!-- TODO validate "Off (app disabled)" -->
+    <string name="next_day">"روز بعد"</string> <!-- TODO validate "following day" --> <!-- Used in: "22:00 - 6:00 next day" -->
+    <string name="notifications">"اطلاعیه"</string> <!-- TODO validate "Notifications" -->
+    <string name="warning_no_email_app">"هیچ پیغام ایمیل برای ارسال گزارش یافت نشد"</string> <!-- TODO validate "No email application found to send the report." -->
+    <string name="weeknights">"هفته شب"</string> <!-- TODO validate "Weeknights" --> <!-- nights from sunday to thursday -->
+    <string name="weekend_nights">"شبهای آخر هفته"</string> <!-- TODO validate "Weekend nights" --> <!-- nights on friday and saturday -->
+    <string name="weekend">"تعطیلات آخر هفته"</string> <!-- TODO validate "Weekend" --> <!-- saturday and sunday -->
 
-    <string name="vibration_silence_millis">"Silence duration in milliseconds"</string> <!-- TODO translate -->
-    <string name="vibration_duration_millis">"Vibration duration in milliseconds"</string> <!-- TODO translate -->
+    <string name="vibration_silence_millis">"مدت زمان سکوت در میلی ثانیه"</string> <!-- TODO validate "Silence duration in milliseconds" -->
+    <string name="vibration_duration_millis">"مدت زمان ارتعاش در میلی ثانیه"</string> <!-- TODO validate "Vibration duration in milliseconds" -->
 
-    <string name="advice_disable_task_killers">"Disable task killers"</string> <!-- TODO translate -->
-    <string name="advice_disable_task_killers_desc">"Task killers should be disabled or BlipBlip should be added in their white lists to keep app alive."</string> <!-- TODO translate -->
-    <string name="advice_enable_foreground_service">"Enable foreground service"</string> <!-- TODO translate -->
-    <string name="advice_enable_foreground_service_desc2">"Foreground service option informs OS that application should not be killed if possible."</string> <!-- TODO translate -->
-    <string name="advice_enable_foreground_service_desc2_part2">"It will display persistent notification which can be hidden from system settings (hiding it from the app will disable this option)."</string> <!-- TODO translate -->
-    <string name="advice_enable_foreground_service_desc2_part3">"You can use button below to access system settings."</string> <!-- TODO translate -->
+    <string name="advice_disable_task_killers">"غیر فعال کردن قاتلان کار"</string> <!-- TODO validate "Disable task killers" -->
+    <string name="advice_disable_task_killers_desc">"قاتلان کار باید غیرفعال شوند یا BlipBlip باید در لیست سفید خود اضافه شود تا برنامه زنده بماند."</string> <!-- TODO validate "Task killers should be disabled or BlipBlip should be added in their white lists to keep app alive." -->
+    <string name="advice_enable_foreground_service">"سرویس پیش زمینه را فعال کنید"</string> <!-- TODO validate "Enable foreground service" -->
+    <string name="advice_enable_foreground_service_desc2">"گزینه ی خدمات پیشرو به سیستم عامل اطلاع می دهد که در صورت امکان امکان اجرا وجود نداشته باشد."</string> <!-- TODO validate "Foreground service option informs OS that application should not be killed if possible." -->
+    <string name="advice_enable_foreground_service_desc2_part2">"این اعلامیه مداوم را نشان می دهد که می تواند از تنظیمات سیستم پنهان شود (مخفی کردن آن از برنامه این گزینه را غیرفعال می کند)."</string> <!-- TODO validate "It will display persistent notification which can be hidden from system settings (hiding it from the app will disable this option)." -->
+    <string name="advice_enable_foreground_service_desc2_part3">"برای دسترسی به تنظیمات سیستم میتوانید از دکمه زیر استفاده کنید."</string> <!-- TODO validate "You can use button below to access system settings." -->
 
-    <string name="sound_in_use">"Sound is in use and cannot be deleted."</string> <!-- TODO translate -->
-    <string name="vibration_in_use">"Vibration is in use and cannot be deleted."</string> <!-- TODO translate -->
-    <string name="sound_not_found">"Not found"</string> <!-- TODO translate --> <!-- for sound -->
-    <string name="vibration_not_found">"Not found"</string> <!-- TODO translate --> <!-- for vibration -->
+    <string name="sound_in_use">"صدا در حال استفاده است و نمی تواند حذف شود"</string> <!-- TODO validate "Sound is in use and cannot be deleted." -->
+    <string name="vibration_in_use">"لرزش در حال استفاده است و نمی تواند حذف شود."</string> <!-- TODO validate "Vibration is in use and cannot be deleted." -->
+    <string name="sound_not_found">"پیدا نشد"</string> <!-- TODO validate "Not found" --> <!-- for sound -->
+    <string name="vibration_not_found">"پیدا نشد"</string> <!-- TODO validate "Not found" --> <!-- for vibration -->
 
-    <string name="section_actions">"Actions"</string> <!-- TODO translate -->
-    <string name="section_notifications">"Notifications"</string> <!-- TODO translate -->
-    <string name="notification_name">"Notification"</string> <!-- TODO translate -->
+    <string name="section_actions">"اقدامات"</string> <!-- TODO validate "Actions" -->
+    <string name="section_notifications">"اطلاعیه"</string> <!-- TODO validate "Notifications" -->
+    <string name="notification_name">"اطلاع"</string> <!-- TODO validate "Notification" -->
 
-    <string name="play">"Play"</string> <!-- TODO translate -->
+    <string name="play">"بازی"</string> <!-- TODO validate "Play" -->
 
-    <string name="cannot_perform_operation">"Cannot perform this operation right now. Please try again later."</string> <!-- TODO translate -->
+    <string name="cannot_perform_operation">"اکنون نمیتوان این عمل را انجام داد. لطفا بعدا دوباره امتحان کنید"</string> <!-- TODO validate "Cannot perform this operation right now. Please try again later." -->
 
-    <string name="add_to_favorites">"Add to favorites"</string> <!-- TODO translate -->
-    <string name="open_favorites">"Open favorites"</string> <!-- TODO translate -->
+    <string name="add_to_favorites">"اضافه کردن به علاقه مندی ها"</string> <!-- TODO validate "Add to favorites" -->
+    <string name="open_favorites">"موارد دلخواه را باز کنید"</string> <!-- TODO validate "Open favorites" -->
 
-    <string name="unnamed_sound">"Unnamed sound"</string> <!-- TODO translate -->
-    <string name="unnamed_vibration">"Unnamed vibration"</string> <!-- TODO translate -->
+    <string name="unnamed_sound">"صدای نامحدود"</string> <!-- TODO validate "Unnamed sound" -->
+    <string name="unnamed_vibration">"ارتعاش نامحدود"</string> <!-- TODO validate "Unnamed vibration" -->
 
-    <string name="value_deleted">"Deleted \"%1$s\""</string> <!-- TODO translate --> <!-- showed when one of list items is deleted and displays the value of the item -->
-    <string name="action_undo">"Undo"</string> <!-- TODO translate --> <!-- action name to undo deletion e.g. from a list -->
-    <string name="condition_deleted">"Condition deleted."</string> <!-- TODO translate -->
-    <string name="notification_deleted">"Notification deleted."</string> <!-- TODO translate -->
-    <string name="action_deleted">"Action deleted."</string> <!-- TODO translate -->
+    <string name="value_deleted">"حذف \ \" %1$s \\""</string> <!-- TODO validate "Deleted \"%1$s\" --> <!-- showed when one of list items is deleted and displays the value of the item -->
+    <string name="action_undo">"لغو"</string> <!-- TODO validate "Undo" --> <!-- action name to undo deletion e.g. from a list -->
+    <string name="condition_deleted">"وضعیت حذف شد"</string> <!-- TODO validate "Condition deleted." -->
+    <string name="notification_deleted">"هشدار حذف شد"</string> <!-- TODO validate "Notification deleted." -->
+    <string name="action_deleted">"اقدام حذف شد"</string> <!-- TODO validate "Action deleted." -->
 
-    <string name="inclusive_time">"inclusive"</string> <!-- TODO translate --> <!-- used in the time range dialog to determine if edge value should be included -->
+    <string name="inclusive_time">"شامل"</string> <!-- TODO validate "inclusive" --> <!-- used in the time range dialog to determine if edge value should be included -->
 
-    <string name="pref_user_notifications">"User notifications"</string> <!-- TODO translate -->
-    <string name="user_notification">"User notification"</string> <!-- TODO translate -->
+    <string name="pref_user_notifications">"اطلاعیه کاربر"</string> <!-- TODO validate "User notifications" -->
+    <string name="user_notification">"اطلاع رسانی کاربر"</string> <!-- TODO validate "User notification" -->
 
-    <string name="action_set_as_home_screens">"Set as start screen"</string> <!-- TODO translate -->
+    <string name="action_set_as_home_screens">"تنظیم به عنوان صفحه شروع"</string> <!-- TODO validate "Set as start screen" -->
 
-    <string name="pref_battery_saver_mode">"Battery Saver mode"</string> <!-- TODO translate -->
-    <string name="mode_sound_title">"Allow sound"</string> <!-- TODO translate -->
-    <string name="mode_sound_on">"Sounds are allowed in this mode"</string> <!-- TODO translate -->
-    <string name="mode_sound_off">"Sounds disabled in this mode"</string> <!-- TODO translate -->
-    <string name="mode_vibration_title">"Allow vibrations"</string> <!-- TODO translate -->
-    <string name="mode_vibration_on">"Vibrations allowed in this mode"</string> <!-- TODO translate -->
-    <string name="mode_vibration_off">"Vibrations not allowed in this mode"</string> <!-- TODO translate -->
-    <string name="mode_screen_title">"Enabling screen allowed"</string> <!-- TODO translate -->
-    <string name="mode_screen_on">"Screen is allowed to be enabled in this mode"</string> <!-- TODO translate -->
-    <string name="mode_screen_off">"Screen will not be enabled in this mode"</string> <!-- TODO translate -->
-    <string name="battery_saver_preferences_warning">"These options may not work on all devices."</string> <!-- TODO translate -->
-    <string name="mode_sound_toast">"Sound is disabled because following mode is active: %1$s"</string> <!-- TODO translate -->
+    <string name="pref_battery_saver_mode">"حالت صرفه جویی در باتری"</string> <!-- TODO validate "Battery Saver mode" -->
+    <string name="mode_sound_title">"اجازه صدای"</string> <!-- TODO validate "Allow sound" -->
+    <string name="mode_sound_on">"صدا در این حالت مجاز است"</string> <!-- TODO validate "Sounds are allowed in this mode" -->
+    <string name="mode_sound_off">"صدا در این حالت غیرفعال است"</string> <!-- TODO validate "Sounds disabled in this mode" -->
+    <string name="mode_vibration_title">"اجازه دهید ارتعاشات"</string> <!-- TODO validate "Allow vibrations" -->
+    <string name="mode_vibration_on">"لرزش در این حالت مجاز است"</string> <!-- TODO validate "Vibrations allowed in this mode" -->
+    <string name="mode_vibration_off">"ارتعاش در این حالت مجاز نیست"</string> <!-- TODO validate "Vibrations not allowed in this mode" -->
+    <string name="mode_screen_title">"فعال کردن صفحه نمایش مجاز است"</string> <!-- TODO validate "Enabling screen allowed" -->
+    <string name="mode_screen_on">"صفحه مجاز است در این حالت فعال شود"</string> <!-- TODO validate "Screen is allowed to be enabled in this mode" -->
+    <string name="mode_screen_off">"صفحه در این حالت فعال نخواهد شد"</string> <!-- TODO validate "Screen will not be enabled in this mode" -->
+    <string name="battery_saver_preferences_warning">"این گزینه ها ممکن است در همه دستگاه ها کار نکند."</string> <!-- TODO validate "These options may not work on all devices." -->
+    <string name="mode_sound_toast">"صدا غیرفعال است زیرا حالت زیر فعال است: %1$s"</string> <!-- TODO validate "Sound is disabled because following mode is active: %1$s" -->
 
-    <string name="pref_accessibility_settings_title">"Enable accessibility service"</string> <!-- TODO translate -->
-    <string name="pref_accessibility_settings_summary">"Opens system Accessibility settings where you can enable app as accessibility service"</string> <!-- TODO translate -->
-    <string name="accessibility_service_description">"This service helps to keep the app working. It does not access any data or modify any content. It is just protection against memory managers which may kill the app. If you are not experiencing problems with the app you don't need to activate it."</string> <!-- TODO translate -->
-    <string name="accessibility_service_summary">"Helps keep app alive. Does not access any data."</string> <!-- TODO translate -->
+    <string name="pref_accessibility_settings_title">"خدمات دسترسی را فعال کنید"</string> <!-- TODO validate "Enable accessibility service" -->
+    <string name="pref_accessibility_settings_summary">"تنظیمات دسترسی به سیستم را باز می کند که در آن می توانید برنامه را به عنوان سرویس دسترسی فعال کنید"</string> <!-- TODO validate "Opens system Accessibility settings where you can enable app as accessibility service" -->
+    <string name="accessibility_service_description">"این سرویس به حفظ برنامه کمک می کند. این هیچ اطلاعاتی را در اختیار ندارد و هیچ محتوایی را تغییر نمی دهد. این فقط حفاظت در برابر مدیران حافظه است که ممکن است برنامه را بکشند. اگر مشکلی با برنامه ندارید، لازم نیست آن را فعال کنید."</string> <!-- TODO validate "This service helps to keep the app working. It does not access any data or modify any content. It is just protection against memory managers which may kill the app. If you are not experiencing problems with the app you don't need to activate it." -->
+    <string name="accessibility_service_summary">"کمک می کند برنامه را زنده نگه دارید. به هیچ داده ای دسترسی ندارد"</string> <!-- TODO validate "Helps keep app alive. Does not access any data." -->
 
-    <string name="swipe_right_to_delete">"Swipe right to delete items"</string> <!-- TODO translate -->
+    <string name="swipe_right_to_delete">"ضربه بزنید تا موارد را حذف کنید"</string> <!-- TODO validate "Swipe right to delete items" -->
 
-    <string name="action_repeat_sound">"Repeat sound"</string> <!-- TODO translate -->
-    <string name="action_repeat_vibration">"Repeat vibration"</string> <!-- TODO translate -->
-    <string name="action_repeat_sound_vibration">"Repeat sound and vibration"</string> <!-- TODO translate -->
-    <string name="action_strike_the_hour">"Strike the hours"</string> <!-- TODO translate -->
+    <string name="action_repeat_sound">"صدا را تکرار کنید"</string> <!-- TODO validate "Repeat sound" -->
+    <string name="action_repeat_vibration">"لرزش را تکرار کنید"</string> <!-- TODO validate "Repeat vibration" -->
+    <string name="action_repeat_sound_vibration">"تکرار صدا و ارتعاش"</string> <!-- TODO validate "Repeat sound and vibration" -->
+    <string name="action_strike_the_hour">"اعتصاب ساعت ها"</string> <!-- TODO validate "Strike the hours" -->
 
-    <string name="pref_do_not_disturb_mode">"Do Not Disturb"</string> <!-- TODO translate -->
-    <string name="do_not_disturb_total_silence">"Total silence"</string> <!-- TODO translate -->
-    <string name="do_not_disturb_alarms_only">"Alarms only"</string> <!-- TODO translate -->
-    <string name="do_not_disturb_priority_only">"Priority only"</string> <!-- TODO translate -->
+    <string name="pref_do_not_disturb_mode">"مزاحم نشوید"</string> <!-- TODO validate "Do Not Disturb" -->
+    <string name="do_not_disturb_total_silence">"سکوت کامل"</string> <!-- TODO validate "Total silence" -->
+    <string name="do_not_disturb_alarms_only">"فقط هشدار دهنده"</string> <!-- TODO validate "Alarms only" -->
+    <string name="do_not_disturb_priority_only">"اولویت تنها"</string> <!-- TODO validate "Priority only" -->
 
-    <string name="hide_notification_title">"Hide notification"</string> <!-- TODO translate -->
-    <string name="hide_notification_summary">"Open system settings to hide notification. This is recommended way for hiding notification because it allows the app to work in foreground."</string> <!-- TODO translate -->
+    <string name="hide_notification_title">"مخفی کردن اعلان"</string> <!-- TODO validate "Hide notification" -->
+    <string name="hide_notification_summary">"تنظیمات سیستم را برای مخفی کردن اعلان باز کنید. این روش توصیه شده برای مخفی کردن اعلان است زیرا اجازه می دهد که برنامه در پیش زمینه کار کند."</string> <!-- TODO validate "Open system settings to hide notification. This is recommended way for hiding notification because it allows the app to work in foreground." -->
 
     <!-- Text to speech -->
-    <string name="action_say_text">"Say text"</string> <!-- TODO translate -->
-    <string name="action_say_time">"Say time"</string> <!-- TODO translate -->
-    <string name="feature_say_text">"Say time"</string> <!-- TODO translate -->
-    <string name="feature_say_time">"Say time"</string> <!-- TODO translate -->
-    <string name="pref_text_to_speech_engine">"Engine"</string> <!-- TODO translate -->
-    <string name="pref_text_to_speech_voice">"Voice"</string> <!-- TODO translate -->
-    <string name="pref_text_to_speech">"Text to speech"</string> <!-- TODO translate -->
-    <string name="system_default_audio_stream">"System default"</string> <!-- TODO translate -->
-    <string name="application_default">"Default value"</string> <!-- TODO translate -->
-    <string name="speak_time_format_with_minutes">"Spoken time with minutes"</string> <!-- TODO translate -->
-    <string name="speak_time_on_the_hour">"Spoken time on the hour"</string> <!-- TODO translate -->
-    <string name="tts_not_initialized">"Text to speech engine is not yet initialized"</string> <!-- TODO translate -->
-    <string name="tts_test_say_time_title">"Test saying time"</string> <!-- TODO translate -->
-    <string name="tts_system_settings_title">"System settings"</string> <!-- TODO translate -->
-    <string name="tts_system_settings_summary">"Open system text-to-speech settings"</string> <!-- TODO translate -->
-    <string name="pref_tts_overlaps_sounds">"Voice and sound overlap"</string> <!-- TODO translate -->
-    <string name="pref_tts_overlaps_sounds_on">"Speaking will overlap sounds"</string> <!-- TODO translate -->
-    <string name="pref_tts_overlaps_sounds_off">"Speaking will not overlap sounds (sound will play before or after voice)"</string> <!-- TODO translate -->
+    <string name="action_say_text">"بگو متن"</string> <!-- TODO validate "Say text" -->
+    <string name="action_say_time">"وقت بگو"</string> <!-- TODO validate "Say time" -->
+    <string name="feature_say_text">"وقت بگو"</string> <!-- TODO validate "Say time" -->
+    <string name="feature_say_time">"وقت بگو"</string> <!-- TODO validate "Say time" -->
+    <string name="pref_text_to_speech_engine">"موتور"</string> <!-- TODO validate "Engine" -->
+    <string name="pref_text_to_speech_voice">"صدای"</string> <!-- TODO validate "Voice" -->
+    <string name="pref_text_to_speech">"متن به گفتار"</string> <!-- TODO validate "Text to speech" -->
+    <string name="system_default_audio_stream">"پیش فرض سیستم"</string> <!-- TODO validate "System default" -->
+    <string name="application_default">"مقدار پیش فرض"</string> <!-- TODO validate "Default value" -->
+    <string name="speak_time_format_with_minutes">"زمان صحبت با دقیقه"</string> <!-- TODO validate "Spoken time with minutes" -->
+    <string name="speak_time_on_the_hour">"زمان صحبت در ساعت"</string> <!-- TODO validate "Spoken time on the hour" -->
+    <string name="tts_not_initialized">"موتور متن به گفتار هنوز رتبهدهی نشده است"</string> <!-- TODO validate "Text to speech engine is not yet initialized" -->
+    <string name="tts_test_say_time_title">"تست گفتن زمان"</string> <!-- TODO validate "Test saying time" -->
+    <string name="tts_system_settings_title">"تنظیمات سیستم"</string> <!-- TODO validate "System settings" -->
+    <string name="tts_system_settings_summary">"تنظیمات سیستم متن به گفتار را باز کنید"</string> <!-- TODO validate "Open system text-to-speech settings" -->
+    <string name="pref_tts_overlaps_sounds">"صدا و صدا همپوشانی دارند"</string> <!-- TODO validate "Voice and sound overlap" -->
+    <string name="pref_tts_overlaps_sounds_on">"صحبت کردن با صداها همپوشانی دارد"</string> <!-- TODO validate "Speaking will overlap sounds" -->
+    <string name="pref_tts_overlaps_sounds_off">"صحبت کردن با صداها همپوشانی نخواهد داشت (صدا قبل یا بعد از پخش پخش خواهد شد)"</string> <!-- TODO validate "Speaking will not overlap sounds (sound will play before or after voice)" -->
 
-    <string name="operating_modes_settings">"Operating modes"</string> <!-- TODO translate --> <!-- name of menu with different mode settings e.g. Do Not Disturb, vibrate mode -->
-    <string name="operating_modes_settings_summary">"Do Not Disturb, vibrate mode, etc."</string> <!-- TODO translate -->
-    <string name="time_settings">"Time"</string> <!-- TODO translate -->
-    <string name="sound_settings">"Sound"</string> <!-- TODO translate -->
+    <string name="operating_modes_settings">"حالت های عملیاتی"</string> <!-- TODO validate "Operating modes" --> <!-- name of menu with different mode settings e.g. Do Not Disturb, vibrate mode -->
+    <string name="operating_modes_settings_summary">"حالت تکان دادن، حالت لرزش و غیره را نادیده نگیرید"</string> <!-- TODO validate "Do Not Disturb, vibrate mode, etc." -->
+    <string name="time_settings">"زمان"</string> <!-- TODO validate "Time" -->
+    <string name="sound_settings">"صدا"</string> <!-- TODO validate "Sound" -->
 
-    <string name="free_resources_title">"Release resources"</string> <!-- TODO translate -->
+    <string name="free_resources_title">"انتشار منابع"</string> <!-- TODO validate "Release resources" -->
 
-    <string name="error_failed_to_open_file">"Failed to open file"</string> <!-- TODO translate -->
-    <string name="error_corrupted_sound">"Sound is corrupted"</string> <!-- TODO translate -->
+    <string name="error_failed_to_open_file">"فایل باز نشد"</string> <!-- TODO validate "Failed to open file" -->
+    <string name="error_corrupted_sound">"صدا خراب است"</string> <!-- TODO validate "Sound is corrupted" -->
 
     <!-- premium -->
-    <string name="dialog_no_thanks">"No thanks"</string> <!-- TODO translate --> <!-- should be short -->
-    <string name="feature_custom_sounds">"Custom sounds"</string> <!-- TODO translate -->
-    <string name="feature_multiple_notifications">"Multiple notifications"</string> <!-- TODO translate -->
-    <string name="feature_custom_reapeat">"Custom repeat interval"</string> <!-- TODO translate -->
-    <string name="feature_premium_sounds">"Premium sounds"</string> <!-- TODO translate -->
-    <string name="feature_strike_the_hour">"Strike the hours"</string> <!-- TODO translate -->
-    <string name="premium_get_plus">"Get all current features"</string> <!-- TODO translate --> <!-- should be short -->
-    <string name="premium_get_sounds">"Get all sounds in the app"</string> <!-- TODO translate --> <!-- should be short -->
-    <string name="premium_get_plus_sounds">"Get all current features and sounds"</string> <!-- TODO translate --> <!-- should be short -->
-    <string name="premium_sound_lock">"This is Premium sound which requires unlocking before use."</string> <!-- TODO translate -->
-    <string name="premium_feature_lock">"This is Premium feature which requires unlocking before use."</string> <!-- TODO translate -->
-    <string name="change_subscription">"Change subscription"</string> <!-- TODO translate -->
-    <string name="upgrade_to_pro">"Upgrade"</string> <!-- TODO translate -->
-    <string name="loading_failed">"Error"</string> <!-- TODO translate -->
-    <string name="month_very_short">"month"</string> <!-- TODO translate -->
-    <string name="discount_save_money">"Save"</string> <!-- TODO translate --> <!-- percent saved will be displayed below this text -->
-    <string name="premium_settings">"Upgrade to Premium to unlock all settings"</string> <!-- TODO translate -->
-    <string name="buy_premium">"Buy Premium"</string> <!-- TODO translate -->
-    <string name="already_bought">"Already bought"</string> <!-- TODO translate -->
-    <string name="get_all_features">"Get all features"</string> <!-- TODO translate -->
-    <string name="get_all_sounds">"Get all sounds"</string> <!-- TODO translate -->
-    <string name="premium_what_you_get">"What you will get:"</string> <!-- TODO translate -->
-    <string name="feature1">"Unlimited active notifications"</string> <!-- TODO translate -->
-    <string name="feature2">"Strike the hours"</string> <!-- TODO translate -->
-    <string name="feature3">"Custom repeat interval"</string> <!-- TODO translate -->
-    <string name="feature4">"Say text or time"</string> <!-- TODO translate -->
-    <string name="feature5">"Add your own sounds"</string> <!-- TODO translate -->
-    <string name="feature6">"Priority support"</string> <!-- TODO translate -->
-    <string name="feature7">"Night mode (dark theme)"</string> <!-- TODO translate -->
-    <string name="feature_all_sounds">"All sounds in the app"</string> <!-- TODO translate -->
-    <string name="yearly_payment">"Yearly payment."</string> <!-- TODO translate -->
-    <string name="free_trial">"Free trial."</string> <!-- TODO translate -->
-    <string name="cancel_anytime">"Cancel anytime."</string> <!-- TODO translate -->
-    <string name="premium_helps_support">"By upgrading BlipBlip you not only get all features or sounds but you also support its continuous and independent development."</string> <!-- TODO translate -->
-    <string name="loading">"Loading…"</string> <!-- TODO translate -->
-    <string name="notification_has_premium_features">"This notification uses Premium features"</string> <!-- TODO translate -->
+    <string name="dialog_no_thanks">"نه ممنون"</string> <!-- TODO validate "No thanks" --> <!-- should be short -->
+    <string name="feature_custom_sounds">"برای تلفن های موبایل سفارشی"</string> <!-- TODO validate "Custom sounds" -->
+    <string name="feature_multiple_notifications">"چندین اعلان"</string> <!-- TODO validate "Multiple notifications" -->
+    <string name="feature_custom_reapeat">"فاصله تکرار سفارشی"</string> <!-- TODO validate "Custom repeat interval" -->
+    <string name="feature_premium_sounds">"برای تلفن های موبایل حق بیمه"</string> <!-- TODO validate "Premium sounds" -->
+    <string name="feature_strike_the_hour">"اعتصاب ساعت ها"</string> <!-- TODO validate "Strike the hours" -->
+    <string name="premium_get_plus">"تمام ویژگی های جاری را دریافت کنید"</string> <!-- TODO validate "Get all current features" --> <!-- should be short -->
+    <string name="premium_get_sounds">"دریافت تمام صداها در برنامه"</string> <!-- TODO validate "Get all sounds in the app" --> <!-- should be short -->
+    <string name="premium_get_plus_sounds">"تمام ویژگی های فعلی و صداها را دریافت کنید"</string> <!-- TODO validate "Get all current features and sounds" --> <!-- should be short -->
+    <string name="premium_sound_lock">"این صدای حق بیمه است که قبل از استفاده نیاز به باز کردن قفل دارد."</string> <!-- TODO validate "This is Premium sound which requires unlocking before use." -->
+    <string name="premium_feature_lock">"این ویژگی حق بیمه است که قبل از استفاده نیاز به باز کردن قفل دارد."</string> <!-- TODO validate "This is Premium feature which requires unlocking before use." -->
+    <string name="change_subscription">"اشتراک اشتراک"</string> <!-- TODO validate "Change subscription" -->
+    <string name="upgrade_to_pro">"ارتقاء"</string> <!-- TODO validate "Upgrade" -->
+    <string name="loading_failed">"خطا"</string> <!-- TODO validate "Error" -->
+    <string name="month_very_short">"ماه"</string> <!-- TODO validate "month" -->
+    <string name="discount_save_money">"صرفه جویی"</string> <!-- TODO validate "Save" --> <!-- percent saved will be displayed below this text -->
+    <string name="premium_settings">"ارتقا به حق بیمه برای باز کردن تمام تنظیمات"</string> <!-- TODO validate "Upgrade to Premium to unlock all settings" -->
+    <string name="buy_premium">"خرید حق بیمه"</string> <!-- TODO validate "Buy Premium" -->
+    <string name="already_bought">"قبلا خریداری شده"</string> <!-- TODO validate "Already bought" -->
+    <string name="get_all_features">"تمام ویژگی ها را دریافت کنید"</string> <!-- TODO validate "Get all features" -->
+    <string name="get_all_sounds">"دریافت همه صداها"</string> <!-- TODO validate "Get all sounds" -->
+    <string name="premium_what_you_get">"آنچه شما دریافت خواهید کرد:"</string> <!-- TODO validate "What you will get:" -->
+    <string name="feature1">"اعلان های فعال نامحدود"</string> <!-- TODO validate "Unlimited active notifications" -->
+    <string name="feature2">"اعتصاب ساعت ها"</string> <!-- TODO validate "Strike the hours" -->
+    <string name="feature3">"فاصله تکرار سفارشی"</string> <!-- TODO validate "Custom repeat interval" -->
+    <string name="feature4">"بگو متن یا زمان"</string> <!-- TODO validate "Say text or time" -->
+    <string name="feature5">"صداهای خود را اضافه کنید"</string> <!-- TODO validate "Add your own sounds" -->
+    <string name="feature6">"پشتیبانی اولویت"</string> <!-- TODO validate "Priority support" -->
+    <string name="feature7">"حالت شب (تم تیره)"</string> <!-- TODO validate "Night mode (dark theme)" -->
+    <string name="feature_all_sounds">"همه صداها در برنامه"</string> <!-- TODO validate "All sounds in the app" -->
+    <string name="yearly_payment">"پرداخت سالانه"</string> <!-- TODO validate "Yearly payment." -->
+    <string name="free_trial">"امتحان رایگان."</string> <!-- TODO validate "Free trial." -->
+    <string name="cancel_anytime">"هر زمان لغو شود"</string> <!-- TODO validate "Cancel anytime." -->
+    <string name="premium_helps_support">"با ارتقا BlipBlip شما نه تنها تمام ویژگی ها یا صداها را دریافت می کنید، بلکه شما نیز از توسعه مستمر و مستقل خود پشتیبانی می کنید."</string> <!-- TODO validate "By upgrading BlipBlip you not only get all features or sounds but you also support its continuous and independent development." -->
+    <string name="loading">"بارگذاری…"</string> <!-- TODO validate "Loading…" -->
+    <string name="notification_has_premium_features">"این اعلان با استفاده از ویژگی های حق بیمه"</string> <!-- TODO validate "This notification uses Premium features" -->
 
     <!-- Premium Bar -->
-    <string name="bar_upgrade_to_enable_app">"Upgrade to Premium"</string> <!-- TODO translate -->
-    <string name="bar_upgrade_to_enable_notification">"Upgrade to Premium"</string> <!-- TODO translate -->
-    <string name="bar_upgrade">"Buy now"</string> <!-- TODO translate -->
-    <string name="bar_uses_premium_features">"Notification uses Premium features"</string> <!-- TODO translate -->
+    <string name="bar_upgrade_to_enable_app">"ارتقا دادن به سطح حرفه ای"</string> <!-- TODO validate "Upgrade to Premium" -->
+    <string name="bar_upgrade_to_enable_notification">"ارتقا دادن به سطح حرفه ای"</string> <!-- TODO validate "Upgrade to Premium" -->
+    <string name="bar_upgrade">"هم اکنون خریداری کنید"</string> <!-- TODO validate "Buy now" -->
+    <string name="bar_uses_premium_features">"اعلان از ویژگی های حق بیمه استفاده می کند"</string> <!-- TODO validate "Notification uses Premium features" -->
 
     <!-- Premium dialog -->
-    <string name="premium_dialog_title">"Premium"</string> <!-- TODO translate -->
-    <string name="premium_dialog_upgrade_now">"Buy now"</string> <!-- TODO translate -->
-    <string name="premium_dialog_later">"Later"</string> <!-- TODO translate -->
-    <string name="premium_icon_description">"Premium star icon"</string> <!-- TODO translate -->
-    <string name="feature_user_sounds_title">"User added sounds is a Premium feature"</string> <!-- TODO translate -->
-    <string name="feature_user_sounds_description">"Make BlipBlip app yours by adding your own sounds."</string> <!-- TODO translate -->
-    <string name="feature_premium_sounds_title">"All sounds available in the app is a Premium feature"</string> <!-- TODO translate -->
-    <string name="feature_premium_sounds_description">"Customize your notification with many built-in sounds."</string> <!-- TODO translate -->
-    <string name="feature_strike_the_hour_title">"Strike the hours is a Premium feature"</string> <!-- TODO translate -->
-    <string name="feature_strike_the_hour_description">"Create your own grandfather clock (e.g. plays 3 times at three o'clock)"</string> <!-- TODO translate -->
-    <string name="feature_say_text_title">"Saying text is a Premium feature"</string> <!-- TODO translate -->
-    <string name="feature_say_text_description">"Use text-to-speech in your notifications."</string> <!-- TODO translate -->
-    <string name="feature_say_time_title">"Saying time is a Premium feature"</string> <!-- TODO translate -->
-    <string name="feature_say_time_description">"Speak current time using text to speech."</string> <!-- TODO translate -->
-    <string name="feature_custom_repeat_interval_title">"Custom repeat interval is a Premium feature"</string> <!-- TODO translate -->
-    <string name="feature_custom_repeat_interval_description">"Set any time interval (other than standard 1, 5, 10, 15, 20, 30 and 60 minutes)."</string> <!-- TODO translate -->
-    <string name="feature_general_title">"Notification uses Premium functions"</string> <!-- TODO translate -->
-    <string name="feature_general_description">"Upgrade to enable notification and enjoy all Premium features."</string> <!-- TODO translate -->
-    <string name="feature_multiple_active_notifications_title">"Unlimited active notifications is a Premium feature"</string> <!-- TODO translate -->
-    <string name="feature_multiple_active_notifications_description">"Use many notifications with different settings at the same time (e.g. play twice at 12:00, play once at 12:30). In free version you can have one active notification."</string> <!-- TODO translate -->
-    <string name="feature_unlimited_silent_time_title">"Unlimited silent time configurations is a Premium feature"</string> <!-- TODO translate -->
-    <string name="feature_unlimited_silent_time_description">"In free version you can activate 5 silent time configurations."</string> <!-- TODO translate -->
+    <string name="premium_dialog_title">"حق بیمه"</string> <!-- TODO validate "Premium" -->
+    <string name="premium_dialog_upgrade_now">"هم اکنون خریداری کنید"</string> <!-- TODO validate "Buy now" -->
+    <string name="premium_dialog_later">"بعد"</string> <!-- TODO validate "Later" -->
+    <string name="premium_icon_description">"نماد ستاره حق بیمه"</string> <!-- TODO validate "Premium star icon" -->
+    <string name="feature_user_sounds_title">"کاربر برای تلفن های موبایل یک ویژگی حق بیمه است"</string> <!-- TODO validate "User added sounds is a Premium feature" -->
+    <string name="feature_user_sounds_description">"ایجاد BlipBlip برنامه خود را با اضافه کردن صداهای خود را."</string> <!-- TODO validate "Make BlipBlip app yours by adding your own sounds." -->
+    <string name="feature_premium_sounds_title">"برای تلفن های موبایل موجود در برنامه یک ویژگی حق بیمه است"</string> <!-- TODO validate "All sounds available in the app is a Premium feature" -->
+    <string name="feature_premium_sounds_description">"اطلاع رسانی خود را با بسیاری از صداهای ساخته شده در خود سفارشی کنید."</string> <!-- TODO validate "Customize your notification with many built-in sounds." -->
+    <string name="feature_strike_the_hour_title">"اعتصاب ساعت یک ویژگی حق بیمه است"</string> <!-- TODO validate "Strike the hours is a Premium feature" -->
+    <string name="feature_strike_the_hour_description">"ساعت پدربزرگ خود را بسازید (مثل 3 بار در ساعت سه)"</string> <!-- TODO validate "Create your own grandfather clock (e.g. plays 3 times at three o'clock)" -->
+    <string name="feature_say_text_title">"گفتن متن یک ویژگی حق بیمه است"</string> <!-- TODO validate "Saying text is a Premium feature" -->
+    <string name="feature_say_text_description">"از نوشتار به گفتار در اطلاعیه های خود استفاده کنید."</string> <!-- TODO validate "Use text-to-speech in your notifications." -->
+    <string name="feature_say_time_title">"گفتن زمان یک ویژگی حق بیمه است"</string> <!-- TODO validate "Saying time is a Premium feature" -->
+    <string name="feature_say_time_description">"زمان فعلی را با استفاده از متن به گفتار صحبت کنید."</string> <!-- TODO validate "Speak current time using text to speech." -->
+    <string name="feature_custom_repeat_interval_title">"فاصله تکرار سفارشی یک ویژگی حق بیمه است"</string> <!-- TODO validate "Custom repeat interval is a Premium feature" -->
+    <string name="feature_custom_repeat_interval_description">"تنظیم هر فاصله زمانی (غیر از استاندارد 1، 5، 10، 15، 20، 30 و 60 دقیقه)."</string> <!-- TODO validate "Set any time interval (other than standard 1, 5, 10, 15, 20, 30 and 60 minutes)." -->
+    <string name="feature_general_title">"اعلان با استفاده از سرویس های حق بیمه"</string> <!-- TODO validate "Notification uses Premium functions" -->
+    <string name="feature_general_description">"ارتقا دهید تا اطلاع رسانی را فعال کنید و از تمام ویژگیهای حق بیمه لذت ببرید."</string> <!-- TODO validate "Upgrade to enable notification and enjoy all Premium features." -->
+    <string name="feature_multiple_active_notifications_title">"اطلاعیه های فعال نامحدود یک ویژگی حق بیمه است"</string> <!-- TODO validate "Unlimited active notifications is a Premium feature" -->
+    <string name="feature_multiple_active_notifications_description">"با استفاده از چندین اعلان با تنظیمات مختلف در همان زمان (به عنوان مثال بازی دو بار در 12:00، بازی یک بار در 12:30). در نسخه رایگان شما می توانید یک اطلاع رسانی فعال داشته باشید."</string> <!-- TODO validate "Use many notifications with different settings at the same time (e.g. play twice at 12:00, play once at 12:30). In free version you can have one active notification." -->
+    <string name="feature_unlimited_silent_time_title">"پیکربندی زمان نامحدود خاموش یک ویژگی حق بیمه است"</string> <!-- TODO validate "Unlimited silent time configurations is a Premium feature" -->
+    <string name="feature_unlimited_silent_time_description">"در نسخه رایگان شما می توانید 5 تنظیمات زمان خاموش فعال کنید."</string> <!-- TODO validate "In free version you can activate 5 silent time configurations." -->
 
-    <string name="vibrate_seconds">"Vibrate %ss"</string> <!-- TODO translate --> <!-- s at the end is for seconds, %s will be replaced by value e.g. "Vibrate 1.2s" -->
-    <string name="wait_and_vibrate_seconds">"Wait %1$ss, vibrate %2$ss"</string> <!-- TODO translate --> <!-- s at the end is for seconds, "%1$s" and "%2$s" will be replaced by value e.g. "Vibrate 1.2s" -->
+    <string name="vibrate_seconds">"ارتعاش %s s"</string> <!-- TODO validate "Vibrate %ss" --> <!-- s at the end is for seconds, %s will be replaced by value e.g. "Vibrate 1.2s" -->
+    <string name="wait_and_vibrate_seconds">"صبر کنید %1$s ثانیه، ارتعاش %2$s ثانیه"</string> <!-- TODO validate "Wait %1$ss, vibrate %2$ss" --> <!-- s at the end is for seconds, "%1$s" and "%2$s" will be replaced by value e.g. "Vibrate 1.2s" -->
 
     <!-- button descriptions -->
-    <string name="add_new_sound">"Add new sound from external app"</string> <!-- TODO translate -->
-    <string name="create_new_vibration">"Create new vibration"</string> <!-- TODO translate -->
-    <string name="create_new_notification">"Create new notification"</string> <!-- TODO translate -->
-    <string name="create_new_silent_time">"Create new silent time"</string> <!-- TODO translate -->
-    <string name="additional_info_button">"Additional information"</string> <!-- TODO translate -->
-    <string name="start_playing">"Start playing"</string> <!-- TODO translate -->
-    <string name="stop_playing">"Stop playing"</string> <!-- TODO translate -->
-    <string name="edit_mode">"Edit mode"</string> <!-- TODO translate -->
+    <string name="add_new_sound">"صدای جدید را از برنامه خارجی اضافه کنید"</string> <!-- TODO validate "Add new sound from external app" -->
+    <string name="create_new_vibration">"ایجاد ارتعاش جدید"</string> <!-- TODO validate "Create new vibration" -->
+    <string name="create_new_notification">"ایجاد اعلان جدید"</string> <!-- TODO validate "Create new notification" -->
+    <string name="create_new_silent_time">"ایجاد زمان سکوت جدید"</string> <!-- TODO validate "Create new silent time" -->
+    <string name="additional_info_button">"اطلاعات اضافی"</string> <!-- TODO validate "Additional information" -->
+    <string name="start_playing">"شروع به بازی کنید"</string> <!-- TODO validate "Start playing" -->
+    <string name="stop_playing">"توقف بازی"</string> <!-- TODO validate "Stop playing" -->
+    <string name="edit_mode">"حالت ویرایش"</string> <!-- TODO validate "Edit mode" -->
 
     <!-- widget -->
-    <string name="app_enabled">"App enabled"</string> <!-- TODO translate -->
-    <string name="app_disabled">"App disabled"</string> <!-- TODO translate -->
+    <string name="app_enabled">"برنامه فعال شده است"</string> <!-- TODO validate "App enabled" -->
+    <string name="app_disabled">"برنامه غیرفعال شده است"</string> <!-- TODO validate "App disabled" -->
 
-    <string name="warning_volume_dnd">"Cannot show volume slider because Do Not Disturb mode is enabled"</string> <!-- TODO translate -->
+    <string name="warning_volume_dnd">"می توانید نوار لغزنده حجم را نشان نمی دهد زیرا حالت مزاحم فعال است"</string> <!-- TODO validate "Cannot show volume slider because Do Not Disturb mode is enabled" -->
 
     <!-- auto start failed dialog -->
-    <string name="auto_start_fail_title">"Auto-start failed"</string> <!-- TODO translate -->
-    <string name="auto_start_fail_message">"Automatic start of the app failed. Please check your settings."</string> <!-- TODO translate -->
+    <string name="auto_start_fail_title">"شروع خودکار شروع نشد"</string> <!-- TODO validate "Auto-start failed" -->
+    <string name="auto_start_fail_message">"شروع خودکار برنامه خراب شد لطفا تنظیمات خود را بررسی کنید."</string> <!-- TODO validate "Automatic start of the app failed. Please check your settings." -->
 
     <!-- manual settings dialog -->
-    <string name="manual_settings_title">"Manual settings needed"</string> <!-- TODO translate -->
-    <string name="manual_settings_summary">"Some manual settings may be needed for BlipBlip to function properly."</string> <!-- TODO translate -->
-    <string name="manual_settings_tips_subtitle">"Please try tips below"</string> <!-- TODO translate -->
-    <string name="manual_settings_tip_settings_description">"Open settings"</string> <!-- TODO translate -->
-    <string name="manual_settings_snackbar">"Please review manual settings which may be needed for app to function properly"</string> <!-- TODO translate -->
-    <string name="manual_settings_show">"Show"</string> <!-- TODO translate -->
-    <string name="manual_settings_permanent_notification_description">"Enable permanent notification (recommended)"</string> <!-- TODO translate -->
-    <string name="manual_settings_permanent_notification_info">"App will show permanently visible notification, which may prevent app from being killed."</string> <!-- TODO translate -->
-    <string name="manual_settings_general_tips_button">"Show general tips"</string> <!-- TODO translate -->
-    <string name="manual_settings_general_tips">"General tips"</string> <!-- TODO translate -->
-    <string name="manual_settings_general_tip1">"Disable power saving modes in device settings"</string> <!-- TODO translate -->
-    <string name="manual_settings_general_tip2">"Disable apps that optimize battery or memory usage (e.g. task killers)"</string> <!-- TODO translate -->
-    <string name="manual_settings_general_tips_info">"If your device requires changing other options, please let us know using \"Report problem\" option."</string> <!-- TODO translate -->
-    <string name="manual_settings_suggest_report_problem">"If after trying above tips you would still have issues with the app, please report the problem."</string> <!-- TODO translate -->
-    <string name="manual_settings_do_not_show_again">"Do not show again"</string> <!-- TODO translate -->
+    <string name="manual_settings_title">"تنظیمات دستی مورد نیاز است"</string> <!-- TODO validate "Manual settings needed" -->
+    <string name="manual_settings_summary">"برخی از تنظیمات دستی ممکن است برای BlipBlip برای کارکرد مناسب مورد نیاز باشد."</string> <!-- TODO validate "Some manual settings may be needed for BlipBlip to function properly." -->
+    <string name="manual_settings_tips_subtitle">"لطفا راهنمایی زیر را امتحان کنید"</string> <!-- TODO validate "Please try tips below" -->
+    <string name="manual_settings_tip_settings_description">"تنظیمات را باز کنید"</string> <!-- TODO validate "Open settings" -->
+    <string name="manual_settings_snackbar">"لطفا تنظیمات دستی را بررسی کنید که ممکن است برای برنامه مناسب باشد"</string> <!-- TODO validate "Please review manual settings which may be needed for app to function properly" -->
+    <string name="manual_settings_show">"نمایش"</string> <!-- TODO validate "Show" -->
+    <string name="manual_settings_permanent_notification_description">"اطلاع رسانی دائمی (توصیه شده) را فعال کنید"</string> <!-- TODO validate "Enable permanent notification (recommended)" -->
+    <string name="manual_settings_permanent_notification_info">"برنامه اعلان دائمی قابل رویت را نشان می دهد که ممکن است برنامه را از بین ببرد."</string> <!-- TODO validate "App will show permanently visible notification, which may prevent app from being killed." -->
+    <string name="manual_settings_general_tips_button">"نمایش راهنمایی عمومی"</string> <!-- TODO validate "Show general tips" -->
+    <string name="manual_settings_general_tips">"راهنمایی عمومی"</string> <!-- TODO validate "General tips" -->
+    <string name="manual_settings_general_tip1">"حالت های ذخیره انرژی را در تنظیمات دستگاه غیرفعال کنید"</string> <!-- TODO validate "Disable power saving modes in device settings" -->
+    <string name="manual_settings_general_tip2">"غیرفعال کردن برنامههایی که بهینه سازی مصرف باتری یا حافظه (به عنوان مثال، قاتلان کار)"</string> <!-- TODO validate "Disable apps that optimize battery or memory usage (e.g. task killers)" -->
+    <string name="manual_settings_general_tips_info">"اگر دستگاه شما نیاز به تغییر گزینه های دیگر، لطفا با استفاده از گزینه \ \"گزارش مشکل \\" به ما اطلاع دهید."</string> <!-- TODO validate "If your device requires changing other options, please let us know using \"Report problem\" option." -->
+    <string name="manual_settings_suggest_report_problem">"اگر پس از انجام راهنمایی های فوق، هنوز با برنامه مشکلی دارید، لطفا مشکل را گزارش کنید."</string> <!-- TODO validate "If after trying above tips you would still have issues with the app, please report the problem." -->
+    <string name="manual_settings_do_not_show_again">"دوباره نشان نده"</string> <!-- TODO validate "Do not show again" -->
 
     <!-- Tips -->
-    <string name="tip1">"Add the app to Un-monitored Apps."</string> <!-- TODO translate -->
-    <string name="tip2">"Add the app to Protected Apps."</string> <!-- TODO translate -->
-    <string name="tip3">"Exclude app from lock screen cleanup."</string> <!-- TODO translate -->
-    <string name="tip4">"Disable Stamina mode."</string> <!-- TODO translate -->
-    <string name="tip5">"Disable battery usage restrictions."</string> <!-- TODO translate -->
-    <string name="tip6">"Add app to auto-run."</string> <!-- TODO translate -->
-    <string name="tip7">"Disable background task cleaner."</string> <!-- TODO translate -->
-    <string name="tip8">"Add app to auto-start."</string> <!-- TODO translate -->
-    <string name="tip9">"Add app to auto-start."</string> <!-- TODO translate -->
-    <string name="tip10">"Lock the app on recent apps screen."</string> <!-- TODO translate -->
-    <string name="tip11">"Allow the app to work in Standby Mode."</string> <!-- TODO translate -->
-    <string name="tip12">"Add the app to auto-launch."</string> <!-- TODO translate -->
-    <string name="tip14">"Add the app to Background protection whitelist."</string> <!-- TODO translate -->
+    <string name="tip1">"برنامه را به برنامه های نظارت نشده اضافه کنید."</string> <!-- TODO validate "Add the app to Un-monitored Apps." -->
+    <string name="tip2">"برنامه را به برنامه های محافظت شده اضافه کنید."</string> <!-- TODO validate "Add the app to Protected Apps." -->
+    <string name="tip3">"برنامه را از پاک کردن صفحه قفل حذف کنید."</string> <!-- TODO validate "Exclude app from lock screen cleanup." -->
+    <string name="tip4">"غیرفعال کردن حالت Stamina"</string> <!-- TODO validate "Disable Stamina mode." -->
+    <string name="tip5">"محدودیت استفاده از باتری را غیرفعال کنید"</string> <!-- TODO validate "Disable battery usage restrictions." -->
+    <string name="tip6">"برنامه را به صورت خودکار اضافه کنید"</string> <!-- TODO validate "Add app to auto-run." -->
+    <string name="tip7">"تمیز کردن کارهای پس زمینه را غیرفعال کنید"</string> <!-- TODO validate "Disable background task cleaner." -->
+    <string name="tip8">"برنامه را برای شروع خودکار اضافه کنید."</string> <!-- TODO validate "Add app to auto-start." -->
+    <string name="tip9">"برنامه را برای شروع خودکار اضافه کنید."</string> <!-- TODO validate "Add app to auto-start." -->
+    <string name="tip10">"برنامه را در صفحه برنامه های اخیر قفل کنید."</string> <!-- TODO validate "Lock the app on recent apps screen." -->
+    <string name="tip11">"اجازه دهید برنامه در حالت آماده به کار کار کند."</string> <!-- TODO validate "Allow the app to work in Standby Mode." -->
+    <string name="tip12">"برنامه را برای راهاندازی خودکار اضافه کنید."</string> <!-- TODO validate "Add the app to auto-launch." -->
+    <string name="tip14">"برنامه را به لیست سفارشی حفاظت از پس زمینه اضافه کنید."</string> <!-- TODO validate "Add the app to Background protection whitelist." -->
 
     <!-- Tips detailed instructions -->
-    <string name="tip1_settings">"Settings &gt; Device maintenance &gt; Battery &gt; Unmonitored apps list"</string> <!-- TODO translate -->
-    <string name="tip2_settings">"Settings &gt; Advanced Settings &gt; Battery Manager &gt; Protected Apps or Settings &gt; Privacy and Security &gt; Protected Apps"</string> <!-- TODO translate -->
-    <string name="tip3_settings">"Phone Manager &gt; Lock screen cleanup &gt; un-check the app (don't close) or Settings &gt; Battery &gt; Lock screen cleanup &gt; un-check the app (don't close)"</string> <!-- TODO translate -->
-    <string name="tip4_settings">"Settings &gt; Power management &gt; STAMINA mode &gt; Apps active in standby &gt; Add BlipBlip"</string> <!-- TODO translate -->
-    <string name="tip5_settings">"Settings &gt; Additional Settings &gt; Battery &amp; Performance &gt; Manage Apps Battery Usage &gt; Choose Apps &gt; BlipBlip &gt; No restrictions"</string> <!-- TODO translate -->
-    <string name="tip6_settings">"Settings &gt; Permissions &gt; Auto-run management"</string> <!-- TODO translate -->
-    <string name="tip7_settings">"Settings &gt; Background task clear &gt; White list"</string> <!-- TODO translate -->
-    <string name="tip8_settings">"Asus Mobile Manager &gt; Auto-start Manager"</string> <!-- TODO translate -->
-    <string name="tip9_settings">"Phone Manager &gt; Privacy Permissions &gt; Startup Manager"</string> <!-- TODO translate -->
-    <string name="tip10_settings">"Recent apps &gt; tap BlipBlip and pull it down"</string> <!-- TODO translate -->
-    <string name="tip11_settings">"Security &gt; Power &gt; Standby Management &gt; Set BlipBlip to run in Standby Mode"</string> <!-- TODO translate -->
-    <string name="tip12_settings">"Security &gt; Permission &gt; Auto-Launched apps &gt; enable auto-launch"</string> <!-- TODO translate -->
-    <string name="tip13_settings">"Long press red circle &gt; swipe down BlipBlip"</string> <!-- TODO translate -->
-    <string name="tip14_settings">"NeoSafe app &gt; Power &gt; right top settings icon &gt; Background protection whitelist &gt; add BlipBLip"</string> <!-- TODO translate -->
-    <string name="tip15_settings">"NeoSafe app &gt; Permission &gt; Power-on speedup &gt; Enable BlipBlip"</string> <!-- TODO translate -->
+    <string name="tip1_settings">"تنظیمات&gt; تعمیر و نگهداری دستگاه&gt; باتری&gt; لیست برنامه های غیرمجاز"</string> <!-- TODO validate "Settings > Device maintenance > Battery > Unmonitored apps list" -->
+    <string name="tip2_settings">"تنظیمات&gt; تنظیمات پیشرفته&gt; مدیریت باتری&gt; برنامه ها یا تنظیمات محافظت شده&gt; حریم خصوصی و امنیت&gt; برنامه های محافظت شده"</string> <!-- TODO validate "Settings > Advanced Settings > Battery Manager > Protected Apps or Settings > Privacy and Security > Protected Apps" -->
+    <string name="tip3_settings">"مدیر تلفن&gt; پاک کردن صفحه قفل&gt; برنامه را غیر فعال کنید (نه نزدیک) یا تنظیمات&gt; باتری&gt; پاک کردن صفحه قفل&gt; بدون بررسی برنامه (بستن)"</string> <!-- TODO validate "Phone Manager > Lock screen cleanup > un-check the app (don't close) or Settings > Battery > Lock screen cleanup > un-check the app (don't close)" -->
+    <string name="tip4_settings">"تنظیمات&gt; مدیریت برق&gt; حالت STAMINA&gt; برنامه های فعال در حالت آماده به کار&gt; افزودن BlipBlip"</string> <!-- TODO validate "Settings > Power management > STAMINA mode > Apps active in standby > Add BlipBlip" -->
+    <string name="tip5_settings">"تنظیمات&gt; تنظیمات اضافی&gt; باتری و عملکرد&gt; مدیریت برنامه کاربردی باتری&gt; برنامه ها را انتخاب کنید&gt; BlipBlip&gt; بدون محدودیت"</string> <!-- TODO validate "Settings > Additional Settings > Battery & Performance > Manage Apps Battery Usage > Choose Apps > BlipBlip > No restrictions" -->
+    <string name="tip6_settings">"تنظیمات&gt; مجوزها&gt; مدیریت خودکار خودکار"</string> <!-- TODO validate "Settings > Permissions > Auto-run management" -->
+    <string name="tip7_settings">"تنظیمات&gt; کار زمینه سابقه&gt; لیست سفید"</string> <!-- TODO validate "Settings > Background task clear > White list" -->
+    <string name="tip8_settings">"Asus Mobile Manager&gt; مدیر خودکار شروع"</string> <!-- TODO validate "Asus Mobile Manager > Auto-start Manager" -->
+    <string name="tip9_settings">"مدیر تلفن&gt; مجوز های حریم شخصی&gt; مدیر راه اندازی"</string> <!-- TODO validate "Phone Manager > Privacy Permissions > Startup Manager" -->
+    <string name="tip10_settings">"برنامه های اخیر&gt; ضربه بزنید BlipBlip و آن را پایین بکشید"</string> <!-- TODO validate "Recent apps > tap BlipBlip and pull it down" -->
+    <string name="tip11_settings">"Security&gt; Power&gt; مدیریت آماده به کار&gt; تنظیم BlipBlip را در حالت آماده به کار اجرا کنید"</string> <!-- TODO validate "Security > Power > Standby Management > Set BlipBlip to run in Standby Mode" -->
+    <string name="tip12_settings">"امنیت&gt; مجوز&gt; برنامه های خودکار راه اندازی&gt; فعال کردن راه اندازی خودکار"</string> <!-- TODO validate "Security > Permission > Auto-Launched apps > enable auto-launch" -->
+    <string name="tip13_settings">"بلند دایره قرمز را فشار دهید&gt; BlipBlip را بکشید"</string> <!-- TODO validate "Long press red circle > swipe down BlipBlip" -->
+    <string name="tip14_settings">"برنامه NeoSafe&gt; Power&gt; آیکون تنظیمات بالا&gt; حفاظت از زمینه سفید لیست سفارشی&gt; افزودن BlipBLip"</string> <!-- TODO validate "NeoSafe app > Power > right top settings icon > Background protection whitelist > add BlipBLip" -->
+    <string name="tip15_settings">"برنامه NeoSafe&gt; مجوز&gt; افزایش سرعت فعال&gt; فعال کردن BlipBlip"</string> <!-- TODO validate "NeoSafe app > Permission > Power-on speedup > Enable BlipBlip" -->
 
     <!-- UI Settings -->
-    <string name="pref_user_interface">"User interface"</string> <!-- TODO translate -->
+    <string name="pref_user_interface">"رابط کاربری"</string> <!-- TODO validate "User interface" -->
     <!-- edit button -->
-    <string name="edit_button_title">"Editing button"</string> <!-- TODO translate -->
-    <string name="edit_button_on">"Show edit button"</string> <!-- TODO translate -->
-    <string name="edit_button_off">"Hide edit button. To enter edit mode use edit action from menu."</string> <!-- TODO translate -->
+    <string name="edit_button_title">"دکمه ویرایش"</string> <!-- TODO validate "Editing button" -->
+    <string name="edit_button_on">"نمایش دکمه ویرایش"</string> <!-- TODO validate "Show edit button" -->
+    <string name="edit_button_off">"پنهان کردن دکمه ویرایش برای ورود به حالت ویرایش، از عملیات ویرایش از منو استفاده کنید."</string> <!-- TODO validate "Hide edit button. To enter edit mode use edit action from menu." -->
     <!-- changelog -->
-    <string name="version_history">"Version history"</string> <!-- TODO translate -->
-    <string name="changelog_title">"What's new?"</string> <!-- TODO translate -->
-    <string name="show_changelog_title">"Show changelog"</string> <!-- TODO translate -->
-    <string name="show_changelog_on">"Show recent changes on startup."</string> <!-- TODO translate -->
-    <string name="show_changelog_off">"Do not show recent changes on startup."</string> <!-- TODO translate -->
+    <string name="version_history">"تاریخچه نسخه"</string> <!-- TODO validate "Version history" -->
+    <string name="changelog_title">"چه خبر؟"</string> <!-- TODO validate "What's new?" -->
+    <string name="show_changelog_title">"نمایش تغییرات"</string> <!-- TODO validate "Show changelog" -->
+    <string name="show_changelog_on">"نمایش های اخیر را در هنگام راه اندازی نمایش دهید"</string> <!-- TODO validate "Show recent changes on startup." -->
+    <string name="show_changelog_off">"تغییرات اخیر را در هنگام راه اندازی نشان ندهید"</string> <!-- TODO validate "Do not show recent changes on startup." -->
     <!-- inclusive -->
-    <string name="show_inclusive_title">"Change time range endings"</string> <!-- TODO translate -->
-    <string name="show_inclusive_on">"When specifying time range show buttons which allow to specify whether given time should be included in time range."</string> <!-- TODO translate -->
-    <string name="show_inclusive_off">"Hide buttons allowing to choose if time should be included in time range."</string> <!-- TODO translate -->
+    <string name="show_inclusive_title">"پایان دادن به دامنه زمانی را تغییر دهید"</string> <!-- TODO validate "Change time range endings" -->
+    <string name="show_inclusive_on">"هنگام مشخص کردن محدوده زمانی دکمه هایی را نشان می دهد که اجازه می دهد مشخص کند که آیا زمان داده شده باید در محدوده زمانی گنجانده شود."</string> <!-- TODO validate "When specifying time range show buttons which allow to specify whether given time should be included in time range." -->
+    <string name="show_inclusive_off">"پنهان کردن دکمه ها اجازه می دهد تا انتخاب کنید که آیا زمان باید در محدوده زمانی گنجانده شود."</string> <!-- TODO validate "Hide buttons allowing to choose if time should be included in time range." -->
     <!-- show switches -->
-    <string name="show_actions_switches_title">"Actions switches"</string> <!-- TODO translate --> <!-- option to show enable/disable switches for actions -->
-    <string name="show_actions_switches_on">"Show switches for disabling actions."</string> <!-- TODO translate -->
-    <string name="show_actions_switches_off">"Hide switches which disable actions."</string> <!-- TODO translate -->
+    <string name="show_actions_switches_title">"اقدامات تغییر می کند"</string> <!-- TODO validate "Actions switches" --> <!-- option to show enable/disable switches for actions -->
+    <string name="show_actions_switches_on">"نمایش سوئیچ برای غیر فعال کردن اقدامات."</string> <!-- TODO validate "Show switches for disabling actions." -->
+    <string name="show_actions_switches_off">"پنهان کردن سوئیچ هایی که اقدامات را غیرفعال می کنند."</string> <!-- TODO validate "Hide switches which disable actions." -->
     <!-- Show kill dialog -->
-    <string name="show_kill_dialog_title">"Notify if app was killed"</string> <!-- TODO translate -->
-    <string name="show_kill_dialog_on">"Display message when opening the app if it was detected that the app was killed."</string> <!-- TODO translate -->
-    <string name="show_kill_dialog_off">"Do not display message when it was detected that the app was killed."</string> <!-- TODO translate -->
+    <string name="show_kill_dialog_title">"اعلام کنید اگر برنامه کشته شد"</string> <!-- TODO validate "Notify if app was killed" -->
+    <string name="show_kill_dialog_on">"نمایش پیام هنگام باز کردن برنامه اگر تشخیص داد که برنامه کشته شد."</string> <!-- TODO validate "Display message when opening the app if it was detected that the app was killed." -->
+    <string name="show_kill_dialog_off">"پیامی را نشان نمیدهد زمانی که شناسایی شد که برنامه کشته شد."</string> <!-- TODO validate "Do not display message when it was detected that the app was killed." -->
 
     <!-- examples -->
-    <string name="double_sound_every_hour">"Double sound every hour"</string> <!-- TODO translate -->
-    <string name="single_sound_half_past">"Sound half past every hour"</string> <!-- TODO translate -->
-    <string name="speak_time_every_hour">"Speak current time every hour"</string> <!-- TODO translate -->
+    <string name="double_sound_every_hour">"هر ساعت صوتی دو بار"</string> <!-- TODO validate "Double sound every hour" -->
+    <string name="single_sound_half_past">"صدای نیم ساعت در هر ساعت"</string> <!-- TODO validate "Sound half past every hour" -->
+    <string name="speak_time_every_hour">"هر ساعت ساعت فعلی را بگویید"</string> <!-- TODO validate "Speak current time every hour" -->
 
     <!-- ads -->
-    <string name="remove_ads">"Remove ads"</string> <!-- TODO translate -->
-    <string name="channel_name_watch_ads">"Watch ads"</string> <!-- TODO translate -->
-    <string name="channel_name_premium_end_description">"You will get notified when you need to watch an ad to enjoy all Premium features for free"</string> <!-- TODO translate -->
+    <string name="remove_ads">"حذف تبلیغات"</string> <!-- TODO validate "Remove ads" -->
+    <string name="channel_name_watch_ads">"تماشای آگهی ها"</string> <!-- TODO validate "Watch ads" -->
+    <string name="channel_name_premium_end_description">"هنگامی که شما نیاز به تماشای یک آگهی برای لذت بردن از تمام ویژگی های حق بیمه به صورت رایگان دریافت خواهید کرد"</string> <!-- TODO validate "You will get notified when you need to watch an ad to enjoy all Premium features for free" -->
 
-    <string name="watch_ads">"Watch ads"</string> <!-- TODO translate -->
-    <string name="watch_video">"Watch video ad"</string> <!-- TODO translate -->
-    <string name="subscribe_without_ads">"Subscribe without ads"</string> <!-- TODO translate -->
-    <string name="start_free_trial">"Start a free trial"</string> <!-- TODO translate -->
-    <string name="tooltip_accept_privacy_policy">"Please check the box."</string> <!-- TODO translate -->
-    <string name="welcome_to_blipBlip">"Welcome to BlipBlip!"</string> <!-- TODO translate -->
-    <string name="blipblip_free_description_short">"This app is free in exchange for watching ads."</string> <!-- TODO translate -->
-    <string name="blipblip_free_description">"This app is free in exchange for watching ads. You can access all Blip Blip Premium features and sounds for specified time period after watching an ad. The more you watch the longer you can use the app."</string> <!-- TODO translate -->
-    <string name="blipblip_free_description2">"There are no ads in user interface. There are no ads popping up unexpectedly. You always choose when you want to watch an ad."</string> <!-- TODO translate -->
-    <string name="watch_ad">"View ad"</string> <!-- TODO translate -->
-    <string name="ad">"Ad"</string> <!-- TODO translate --> <!-- Short label of button for watching ads -->
-    <string name="accept_privacy_policy">"I accept privacy policy."</string> <!-- TODO translate -->
-    <string name="get_blipblip">"Want free app without ads and without Premium features? Tap here."</string> <!-- TODO translate -->
-    <string name="privacy_policy">"Privacy policy."</string> <!-- TODO translate -->
-    <string name="get_time_of_premium">"Get %1$s of Premium"</string> <!-- TODO translate -->
-    <string name="get_time_of_premium_more">"View ad to use the app for additional time: %s."</string> <!-- TODO translate -->
-    <string name="premium_time_left">"Time left for using the app: %s"</string> <!-- TODO translate -->
-    <string name="app_was_enabled">"App has been enabled!"</string> <!-- TODO translate -->
-    <string name="failed_loading_ad">"Failed to load ad. Check your internet connection and try again."</string> <!-- TODO translate -->
-    <string name="continue_with_ads">"Continue with ads"</string> <!-- TODO translate -->
-    <string name="continue_with_relevant_question">"Can we use your data to tailor ads for you?"</string> <!-- TODO translate -->
-    <string name="continue_with_relevant_ads">"Yes, continue with relevant ads"</string> <!-- TODO translate -->
-    <string name="continue_with_less_relevant_ads">"No, continue with less relevant ads"</string> <!-- TODO translate -->
-    <string name="watch_ads_to_get_next_notification">"View ads to get next notification"</string> <!-- TODO translate -->
-    <string name="watch_ad_to_enable_app">"View ad to enable app"</string> <!-- TODO translate -->
-    <string name="popup_watch_more_ads_to_get_notification">"Watch more ads to get this notification"</string> <!-- TODO translate -->
+    <string name="watch_ads">"تماشای آگهی ها"</string> <!-- TODO validate "Watch ads" -->
+    <string name="watch_video">"آگهی را تماشا کنید"</string> <!-- TODO validate "Watch video ad" -->
+    <string name="subscribe_without_ads">"اشتراک بدون تبلیغات"</string> <!-- TODO validate "Subscribe without ads" -->
+    <string name="start_free_trial">"یک محاکمه آزاد را شروع کنید"</string> <!-- TODO validate "Start a free trial" -->
+    <string name="tooltip_accept_privacy_policy">"لطفا جعبه را چک کنید"</string> <!-- TODO validate "Please check the box." -->
+    <string name="welcome_to_blipBlip">"خوش آمدید به BlipBlip!"</string> <!-- TODO validate "Welcome to BlipBlip!" -->
+    <string name="blipblip_free_description_short">"این برنامه رایگان است در عوض برای تماشای آگهی ها."</string> <!-- TODO validate "This app is free in exchange for watching ads." -->
+    <string name="blipblip_free_description">"این برنامه رایگان است در عوض برای تماشای آگهی ها. شما می توانید به تمام ویژگی های Blip Blip Premium و برای مدت زمان مشخص شده پس از تماشای یک آگهی دسترسی داشته باشید. هرچه بیشتر تماشا کنید، دیگر می توانید از برنامه استفاده کنید."</string> <!-- TODO validate "This app is free in exchange for watching ads. You can access all Blip Blip Premium features and sounds for specified time period after watching an ad. The more you watch the longer you can use the app." -->
+    <string name="blipblip_free_description2">"هیچ تبلیغی در رابط کاربر وجود ندارد هیچ آگهی ظاهر نمی شود به طور غیر منتظره وجود دارد. شما همیشه وقتی میخواهید یک آگهی را تماشا کنید انتخاب کنید"</string> <!-- TODO validate "There are no ads in user interface. There are no ads popping up unexpectedly. You always choose when you want to watch an ad." -->
+    <string name="watch_ad">"مشاهده آگهی"</string> <!-- TODO validate "View ad" -->
+    <string name="ad">"آگهی"</string> <!-- TODO validate "Ad" --> <!-- Short label of button for watching ads -->
+    <string name="accept_privacy_policy">"من سیاست حفظ حریم خصوصی را می پذیرم"</string> <!-- TODO validate "I accept privacy policy." -->
+    <string name="get_blipblip">"آیا می خواهید برنامه رایگان بدون تبلیغات و بدون ویژگی های حق بیمه؟ اینجا ضربه بزنید"</string> <!-- TODO validate "Want free app without ads and without Premium features? Tap here." -->
+    <string name="privacy_policy">"سیاست حفظ حریم خصوصی."</string> <!-- TODO validate "Privacy policy." -->
+    <string name="get_time_of_premium">"دریافت %1$s از حق بیمه"</string> <!-- TODO validate "Get %1$s of Premium" -->
+    <string name="get_time_of_premium_more">"نمایش آگهی برای استفاده از برنامه برای زمان اضافی: %s ."</string> <!-- TODO validate "View ad to use the app for additional time: %s." -->
+    <string name="premium_time_left">"زمان صرف شده برای استفاده از برنامه: %s"</string> <!-- TODO validate "Time left for using the app: %s" -->
+    <string name="app_was_enabled">"برنامه فعال شده است"</string> <!-- TODO validate "App has been enabled!" -->
+    <string name="failed_loading_ad">"بارگیری آگهی نشد اتصال اینترنت خود را بررسی کنید و دوباره امتحان کنید."</string> <!-- TODO validate "Failed to load ad. Check your internet connection and try again." -->
+    <string name="continue_with_ads">"با تبلیغات ادامه دهید"</string> <!-- TODO validate "Continue with ads" -->
+    <string name="continue_with_relevant_question">"آیا می توانیم از داده های شما برای تطبیق آگهی ها برای شما استفاده کنیم؟"</string> <!-- TODO validate "Can we use your data to tailor ads for you?" -->
+    <string name="continue_with_relevant_ads">"بله، با تبلیغات مربوطه ادامه دهید"</string> <!-- TODO validate "Yes, continue with relevant ads" -->
+    <string name="continue_with_less_relevant_ads">"نه، با تبلیغات کمتر مرتبط ادامه دهید"</string> <!-- TODO validate "No, continue with less relevant ads" -->
+    <string name="watch_ads_to_get_next_notification">"مشاهده آگهی ها برای دریافت اطلاعیه بعدی"</string> <!-- TODO validate "View ads to get next notification" -->
+    <string name="watch_ad_to_enable_app">"مشاهده آگهی برای فعال کردن برنامه"</string> <!-- TODO validate "View ad to enable app" -->
+    <string name="popup_watch_more_ads_to_get_notification">"برای دریافت این اعلان، تبلیغات بیشتری را مشاهده کنید"</string> <!-- TODO validate "Watch more ads to get this notification" -->
 
     <!-- ads notifications -->
-    <string name="notif_premium_ended">"Application disabled"</string> <!-- TODO translate -->
-    <string name="notif_premium_ended_description">"Watch ad to enable it again."</string> <!-- TODO translate -->
-    <string name="notif_stop_warn">"Next notification won't be played"</string> <!-- TODO translate -->
-    <string name="notif_stop_warn_description">"Watch ad to extend time for using the app"</string> <!-- TODO translate -->
+    <string name="notif_premium_ended">"برنامه غیر فعال است"</string> <!-- TODO validate "Application disabled" -->
+    <string name="notif_premium_ended_description">"آگهی را تماشا کنید تا دوباره آن را فعال کنید."</string> <!-- TODO validate "Watch ad to enable it again." -->
+    <string name="notif_stop_warn">"اعلان بعدی پخش نخواهد شد"</string> <!-- TODO validate "Next notification won't be played" -->
+    <string name="notif_stop_warn_description">"سازمان دیده بان آگهی برای افزایش زمان استفاده از برنامه"</string> <!-- TODO validate "Watch ad to extend time for using the app" -->
 
     <!-- ads settings -->
-    <string name="ads_notifications">"Need of viewing ads"</string> <!-- TODO translate -->
-    <string name="ads_notifications_on">"You will get notifications about the need of viewing ads"</string> <!-- TODO translate -->
-    <string name="ads_notifications_off">"You won't get any notifications about the need of viewing ads"</string> <!-- TODO translate -->
-    <string name="ads_warn_app_disabled">"Application disabling"</string> <!-- TODO translate -->
-    <string name="ads_warn_app_disabled_on">"Notify when app is disabled because not enough ads were watched"</string> <!-- TODO translate -->
-    <string name="ads_warn_app_disabled_off">"Do not notify when app will be disabled because not enough ads were watched"</string> <!-- TODO translate -->
-    <string name="ads_warn_next_notification">"Next notification"</string> <!-- TODO translate -->
-    <string name="ads_warn_next_notification_on">"Notify when next notification won't be played because not enough ads were watched"</string> <!-- TODO translate -->
-    <string name="ads_warn_next_notification_off">"Do not notify when next notification won't be played because not enough ads were watched"</string> <!-- TODO translate -->
+    <string name="ads_notifications">"نیاز به مشاهده آگهی ها"</string> <!-- TODO validate "Need of viewing ads" -->
+    <string name="ads_notifications_on">"شما اطلاعیه ای در مورد نیاز به مشاهده تبلیغات دریافت خواهید کرد"</string> <!-- TODO validate "You will get notifications about the need of viewing ads" -->
+    <string name="ads_notifications_off">"شما هیچ اطلاعیه ای در مورد نیاز به مشاهده تبلیغات دریافت نخواهید کرد"</string> <!-- TODO validate "You won't get any notifications about the need of viewing ads" -->
+    <string name="ads_warn_app_disabled">"برنامه غیر فعال کردن"</string> <!-- TODO validate "Application disabling" -->
+    <string name="ads_warn_app_disabled_on">"اعلان زمانی که برنامه غیرفعال است زیرا تبلیغات کافی دیده نمیشود"</string> <!-- TODO validate "Notify when app is disabled because not enough ads were watched" -->
+    <string name="ads_warn_app_disabled_off">"اطلاع ندهید زمانی که برنامه غیرفعال شود، زیرا تبلیغات کافی دیده نمیشود"</string> <!-- TODO validate "Do not notify when app will be disabled because not enough ads were watched" -->
+    <string name="ads_warn_next_notification">"اعلان بعدی"</string> <!-- TODO validate "Next notification" -->
+    <string name="ads_warn_next_notification_on">"اعلان بعدی بعد از اینکه اعلام شد کافی نیست آگاه نشوید"</string> <!-- TODO validate "Notify when next notification won't be played because not enough ads were watched" -->
+    <string name="ads_warn_next_notification_off">"اطلاع ندهید که بعدا اعلان پخش نخواهد شد زیرا تبلیغات کافی دیده نمیشود"</string> <!-- TODO validate "Do not notify when next notification won't be played because not enough ads were watched" -->
 
     <!-- Privacy settings -->
-    <string name="privacy">"Privacy"</string> <!-- TODO translate -->
-    <string name="ads">"Ads"</string> <!-- TODO translate -->
-    <string name="pref_personalized_ads">"Personalized ads"</string> <!-- TODO translate -->
-    <string name="pref_personalized_ads_on">"Ads will be personalized."</string> <!-- TODO translate -->
-    <string name="pref_personalized_ads_off">"Your data will not be used to personalize ads."</string> <!-- TODO translate -->
-    <string name="pref_analytics">"Analytics"</string> <!-- TODO translate -->
-    <string name="pref_collect_analytics">"Collect anonymous data"</string> <!-- TODO translate -->
-    <string name="pref_collect_analytics_on">"Collect anonymous, aggregated data to help improve the app."</string> <!-- TODO translate -->
-    <string name="pref_collect_analytics_off">"Do not collect any data."</string> <!-- TODO translate -->
-    <string name="pref_analytics_anonymize_ip">"Anonymize location"</string> <!-- TODO translate -->
-    <string name="pref_analytics_anonymize_ip_on">"Anonymize IP address sent to determine user location."</string> <!-- TODO translate -->
-    <string name="pref_analytics_anonymize_ip_off">"Use full IP address only for detemining user's general location (country, city)."</string> <!-- TODO translate -->
+    <string name="privacy">"حریم خصوصی"</string> <!-- TODO validate "Privacy" -->
+    <string name="ads">"تبلیغات"</string> <!-- TODO validate "Ads" -->
+    <string name="pref_personalized_ads">"تبلیغات شخصی"</string> <!-- TODO validate "Personalized ads" -->
+    <string name="pref_personalized_ads_on">"آگهی شخصی خواهد شد"</string> <!-- TODO validate "Ads will be personalized." -->
+    <string name="pref_personalized_ads_off">"داده های شما برای شخصی سازی آگهی ها استفاده نمی شود."</string> <!-- TODO validate "Your data will not be used to personalize ads." -->
+    <string name="pref_analytics">"تجزیه و تحلیل"</string> <!-- TODO validate "Analytics" -->
+    <string name="pref_collect_analytics">"جمع آوری اطلاعات ناشناس"</string> <!-- TODO validate "Collect anonymous data" -->
+    <string name="pref_collect_analytics_on">"جمع آوری اطلاعات ناشناس، جمعآوری شده برای کمک به بهبود برنامه."</string> <!-- TODO validate "Collect anonymous, aggregated data to help improve the app." -->
+    <string name="pref_collect_analytics_off">"هیچ داده ای را جمع آوری نکنید."</string> <!-- TODO validate "Do not collect any data." -->
+    <string name="pref_analytics_anonymize_ip">"ناشناس محل"</string> <!-- TODO validate "Anonymize location" -->
+    <string name="pref_analytics_anonymize_ip_on">"شناسایی آدرس IP فرستاده شده برای تعیین محل کاربر"</string> <!-- TODO validate "Anonymize IP address sent to determine user location." -->
+    <string name="pref_analytics_anonymize_ip_off">"از آدرس IP کامل فقط برای تعریف موقعیت عمومی کاربر (کشور، شهر) استفاده کنید."</string> <!-- TODO validate "Use full IP address only for detemining user's general location (country, city)." -->
 
     <!-- install BlipBlip free -->
-    <string name="dialog_free_premium_title">"Want Premium free?"</string> <!-- TODO translate -->
-    <string name="dialog_free_premium_description">"Watch ads in exchange for Premium features in %1$s app."</string> <!-- TODO translate -->
-    <string name="open_app">"Open app"</string> <!-- TODO translate -->
-    <string name="install_app">"Install app"</string> <!-- TODO translate -->
-    <string name="maybe_later">"Maybe later"</string> <!-- TODO translate -->
+    <string name="dialog_free_premium_title">"آیا می خواهید حق بیمه رایگان؟"</string> <!-- TODO validate "Want Premium free?" -->
+    <string name="dialog_free_premium_description">"در عوض از ویژگی های حق بیمه در برنامه %1$s آگهی را تماشا کنید."</string> <!-- TODO validate "Watch ads in exchange for Premium features in %1$s app." -->
+    <string name="open_app">"اپلیکیشن را باز کن"</string> <!-- TODO validate "Open app" -->
+    <string name="install_app">"نصب برنامه"</string> <!-- TODO validate "Install app" -->
+    <string name="maybe_later">"شاید بعدا"</string> <!-- TODO validate "Maybe later" -->
 
     <!-- tooltips -->
-    <string name="tooltip_play_next_button">"Playback next notification"</string> <!-- TODO translate -->
-    <string name="tooltip_upcoming_notifications">"See and playback upcoming notifications"</string> <!-- TODO translate -->
-    <string name="tooltip_upcoming_notification">"Press time to playback upcoming notifications"</string> <!-- TODO translate -->
+    <string name="tooltip_play_next_button">"پخش اعلان بعدی"</string> <!-- TODO validate "Playback next notification" -->
+    <string name="tooltip_upcoming_notifications">"مشاهده و پخش اطلاعیه های آینده"</string> <!-- TODO validate "See and playback upcoming notifications" -->
+    <string name="tooltip_upcoming_notification">"زمان پخش برای نمایش اعلان های بعدی را فشار دهید"</string> <!-- TODO validate "Press time to playback upcoming notifications" -->
 
 </resources>

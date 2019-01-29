@@ -54,13 +54,13 @@
     <string name="sound_water_drop">"Wassertropfen %1$s"</string> <!-- TODO validate "Water drop %1$s" -->
     <string name="sound_water_pouring">"Wasser gießt %1$s"</string> <!-- TODO validate "Water pouring %1$s" -->
     <string name="sound_sonar_ping">"Sonar-Ping %1$s"</string> <!-- TODO validate "Sonar ping %1$s" -->
-    <string name="sound_inception">"Inception %1$s"</string> <!-- TODO translate -->
+    <string name="sound_inception">"Inception %1$s"</string> <!-- TODO validate "Inception %1$s" -->
     <string name="sound_the_pips">"Die Kerne"</string> <!-- TODO validate "The pips" -->
     <string name="sound_short_pip">"Kurzer Pip"</string> <!-- TODO validate "Short pip" -->
     <string name="sound_long_pip">"Long Pip"</string> <!-- TODO validate "Long pip" -->
     <string name="sound_crystal_glass">"Kristallglas"</string> <!-- TODO validate "Crystal glass" -->
     <string name="sound_ping">"Klingeln"</string> <!-- TODO validate "Ping" -->
-    <string name="sound_gong_num">"Gong %1$s"</string> <!-- TODO translate -->
+    <string name="sound_gong_num">"Gong %1$s"</string> <!-- TODO validate "Gong %1$s" -->
     <string name="sound_boxing_bell">"Boxenglocke"</string> <!-- TODO validate "Boxing bell" -->
     <string name="sound_singing_bowl">"Klangschale %1$s"</string> <!-- TODO validate "Singing bowl %1$s" -->
     <string name="sound_ekg">"Herzmonitor %1$s"</string> <!-- TODO validate "Heart monitor %1$s" -->
@@ -373,7 +373,7 @@
     <string name="night_mode">"Nacht-Modus"</string> <!-- TODO validate "Night mode" -->
     <string name="night_mode_on">"aktiviert"</string> <!-- TODO validate "Enabled" -->
     <string name="night_mode_off">"Deaktiviert"</string> <!-- TODO validate "Disabled" -->
-    <string name="night_mode_auto">"Auto"</string> <!-- TODO translate -->
+    <string name="night_mode_auto">"Auto"</string> <!-- TODO validate "Auto" -->
     <string name="night_mode_system">"Systemeinstellung"</string> <!-- TODO validate "System setting" -->
 
     <string name="title_activity_sounds">"Töne"</string>
@@ -595,7 +595,7 @@
     <string name="premium_feature_lock">"Das ist Premiumerweiterung welche vor der Benutzung die Freischaltung erfordert."</string>
     <string name="change_subscription">"Wechsle deine Stimmabgabe"</string>
     <string name="upgrade_to_pro">"Aktualisierung"</string> <!-- TODO validate "Upgrade" -->
-    <string name="loading_failed">"Error"</string> <!-- TODO translate -->
+    <string name="loading_failed">"Error"</string> <!-- TODO validate "Error" -->
     <string name="month_very_short">"Monat"</string> <!-- TODO validate "month" -->
     <string name="discount_save_money">"sparen"</string> <!-- TODO validate "Save" --> <!-- percent saved will be displayed below this text -->
     <string name="premium_settings">"Upgrade auf Premium, um alle Einstellungen aufzuheben"</string> <!-- TODO validate "Upgrade to Premium to unlock all settings" -->
@@ -678,7 +678,7 @@
     <string name="manual_settings_tips_subtitle">"Bitte versuchen Sie untenstehende Tipps"</string> <!-- TODO validate "Please try tips below" -->
     <string name="manual_settings_tip_settings_description">"Einstellungen öffnen"</string> <!-- TODO validate "Open settings" -->
     <string name="manual_settings_snackbar">"Bitte überprüfen Sie die manuellen Einstellungen, die für die ordnungsgemäße Funktion der App erforderlich sein können"</string> <!-- TODO validate "Please review manual settings which may be needed for app to function properly" -->
-    <string name="manual_settings_show">"Show"</string> <!-- TODO translate -->
+    <string name="manual_settings_show">"Show"</string> <!-- TODO validate "Show" -->
     <string name="manual_settings_permanent_notification_description">"Permanente Benachrichtigung aktivieren (empfohlen)"</string> <!-- TODO validate "Enable permanent notification (recommended)" -->
     <string name="manual_settings_permanent_notification_info">"Die App zeigt eine dauerhaft sichtbare Benachrichtigung an, wodurch die App möglicherweise nicht beendet wird."</string> <!-- TODO validate "App will show permanently visible notification, which may prevent app from being killed." -->
     <string name="manual_settings_general_tips_button">"Allgemeine Tipps anzeigen"</string> <!-- TODO validate "Show general tips" -->
@@ -806,7 +806,7 @@
     <string name="pref_personalized_ads">"Personalisierte Anzeigen"</string> <!-- TODO validate "Personalized ads" -->
     <string name="pref_personalized_ads_on">"Anzeigen werden personalisiert."</string> <!-- TODO validate "Ads will be personalized." -->
     <string name="pref_personalized_ads_off">"Ihre Daten werden nicht zur Personalisierung von Anzeigen verwendet."</string> <!-- TODO validate "Your data will not be used to personalize ads." -->
-    <string name="pref_analytics">"Analytics"</string> <!-- TODO translate -->
+    <string name="pref_analytics">"Analytics"</string> <!-- TODO validate "Analytics" -->
     <string name="pref_collect_analytics">"Sammeln Sie anonyme Daten"</string> <!-- TODO validate "Collect anonymous data" -->
     <string name="pref_collect_analytics_on">"Sammeln Sie anonyme, aggregierte Daten, um die App zu verbessern."</string> <!-- TODO validate "Collect anonymous, aggregated data to help improve the app." -->
     <string name="pref_collect_analytics_off">"Sammeln Sie keine Daten."</string> <!-- TODO validate "Do not collect any data." -->

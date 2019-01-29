@@ -29,8 +29,8 @@
     <string name="day_friday">"Sexta-feira"</string>
     <string name="day_saturday">"Sábado"</string>
     <string name="day_sunday">"Domingo"</string>
-    <string name="preview_upcoming_notifications">"Preview upcoming notifications"</string> <!-- TODO translate -->
-    <string name="disable_premium_notifications">"Disable Premium notifications"</string> <!-- TODO translate -->
+    <string name="preview_upcoming_notifications">"Visualizar notificações futuras"</string> <!-- TODO validate "Preview upcoming notifications" -->
+    <string name="disable_premium_notifications">"Desativar notificações premium"</string> <!-- TODO validate "Disable Premium notifications" -->
 
     <!-- Sound -->
     <string name="sound_text">"Som"</string>
@@ -51,24 +51,24 @@
     <string name="sound_dog">"Cão %1$s"</string>
     <string name="sound_rooster">"Galo"</string>
     <string name="sound_guitar_strum">"Guitarra %1$s"</string>
-    <string name="sound_water_drop">"Water drop %1$s"</string> <!-- TODO translate -->
-    <string name="sound_water_pouring">"Water pouring %1$s"</string> <!-- TODO translate -->
-    <string name="sound_sonar_ping">"Sonar ping %1$s"</string> <!-- TODO translate -->
-    <string name="sound_inception">"Inception %1$s"</string> <!-- TODO translate -->
-    <string name="sound_the_pips">"The pips"</string> <!-- TODO translate -->
-    <string name="sound_short_pip">"Short pip"</string> <!-- TODO translate -->
-    <string name="sound_long_pip">"Long pip"</string> <!-- TODO translate -->
-    <string name="sound_crystal_glass">"Crystal glass"</string> <!-- TODO translate -->
-    <string name="sound_ping">"Ping"</string> <!-- TODO translate -->
-    <string name="sound_gong_num">"Gong %1$s"</string> <!-- TODO translate -->
-    <string name="sound_boxing_bell">"Boxing bell"</string> <!-- TODO translate -->
-    <string name="sound_singing_bowl">"Singing bowl %1$s"</string> <!-- TODO translate -->
-    <string name="sound_ekg">"Heart monitor %1$s"</string> <!-- TODO translate -->
-    <string name="sound_got_item">"Got item"</string> <!-- TODO translate -->
-    <string name="sound_guitar">"Guitar"</string> <!-- TODO translate -->
+    <string name="sound_water_drop">"Gota de água %1$s"</string> <!-- TODO validate "Water drop %1$s" -->
+    <string name="sound_water_pouring">"Água derramando %1$s"</string> <!-- TODO validate "Water pouring %1$s" -->
+    <string name="sound_sonar_ping">"Ping de sonar %1$s"</string> <!-- TODO validate "Sonar ping %1$s" -->
+    <string name="sound_inception">"Iniciação %1$s"</string> <!-- TODO validate "Inception %1$s" -->
+    <string name="sound_the_pips">"Os pips"</string> <!-- TODO validate "The pips" -->
+    <string name="sound_short_pip">"Pip curto"</string> <!-- TODO validate "Short pip" -->
+    <string name="sound_long_pip">"Pip longo"</string> <!-- TODO validate "Long pip" -->
+    <string name="sound_crystal_glass">"Copo de cristal"</string> <!-- TODO validate "Crystal glass" -->
+    <string name="sound_ping">"Ping"</string> <!-- TODO validate "Ping" -->
+    <string name="sound_gong_num">"Gong %1$s"</string> <!-- TODO validate "Gong %1$s" -->
+    <string name="sound_boxing_bell">"Sino de boxe"</string> <!-- TODO validate "Boxing bell" -->
+    <string name="sound_singing_bowl">"Bacia de canto %1$s"</string> <!-- TODO validate "Singing bowl %1$s" -->
+    <string name="sound_ekg">"Monitor cardíaco %1$s"</string> <!-- TODO validate "Heart monitor %1$s" -->
+    <string name="sound_got_item">"Item obtido"</string> <!-- TODO validate "Got item" -->
+    <string name="sound_guitar">"Violão"</string> <!-- TODO validate "Guitar" -->
 
     <!-- Volume -->
-    <string name="text_seek_volume">"Sound volume"</string> <!-- TODO translate -->
+    <string name="text_seek_volume">"Volume de som"</string> <!-- TODO validate "Sound volume" -->
 
     <!-- Vibration -->
     <string name="vibrate">"Vibração"</string>
@@ -153,9 +153,9 @@
     <string name="pref_choose_audio_stream">"Saída de áudio"</string>
     <string name="audio_stream_phone_ring">"Toque do telefone"</string>
     <string name="audio_stream_alarm">"Alarme"</string>
-    <string name="audio_stream_alarm2">"Alarm clock"</string> <!-- TODO translate -->
+    <string name="audio_stream_alarm2">"Despertador"</string> <!-- TODO validate "Alarm clock" -->
     <string name="audio_stream_media">"Multimédia"</string>
-    <string name="audio_stream_media2">"Music, Videos, Games"</string> <!-- TODO translate -->
+    <string name="audio_stream_media2">"Música, Vídeos, Jogos"</string> <!-- TODO validate "Music, Videos, Games" -->
     <string name="audio_stream_notification">"Notificação"</string>
 
     <!-- Notifications -->
@@ -185,9 +185,9 @@
     <string name="auto_dismiss_notification_off">"A notificação não será ignorada automaticamente."</string>
 
     <!-- Vibrate on Wear -->
-    <string name="pref_vibrate_wearable_title">"Vibrate on connected device"</string> <!-- TODO translate -->
+    <string name="pref_vibrate_wearable_title">"Vibrar no dispositivo conectado"</string> <!-- TODO validate "Vibrate on connected device" -->
     <string name="pref_vibrate_wearable_on2">"Se a vibração estiver ativada, também vibrar nos dispositivos Android Wear compatíveis (por exemplo, Smart Watch). Necessita que tenha adicionado uma notificação do sistema."</string>
-    <string name="pref_vibrate_wearable_off">"Do not vibrate on connected wearable device"</string> <!-- TODO translate -->
+    <string name="pref_vibrate_wearable_off">"Não vibre no dispositivo wearable conectado"</string> <!-- TODO validate "Do not vibrate on connected wearable device" -->
 
     <!-- Action Buttons -->
     <string name="pref_notification_action_buttons">"Botões de ação"</string> <!-- Preference name for choosing which buttons are visible on notification -->
@@ -248,7 +248,7 @@
     <string name="pref_experimental">"Definições experimentais"</string>
     <string name="experimental_warning">"Estas são definições experimentais e, de futuro, poderão ser eliminadas."</string>
     <string name="title_experimental_settings">"Definições experimentais"</string>
-    <string name="huawei_fix">"Huawei fix"</string> <!-- TODO translate -->
+    <string name="huawei_fix">"Correção da Huawei"</string> <!-- TODO validate "Huawei fix" -->
 
     <!-- Menu - Share -->
     <string name="action_share">"Partilhar aplicação"</string>
@@ -370,11 +370,11 @@
     <string name="color_next_notification_bar">"Cor da próxima notificação"</string>
     <string name="color_next_notification_bar_on">"Utilizar cor de fundo para a próxima notificação."</string>
     <string name="color_next_notification_bar_off">"Utilizar o fundo cinza para a próxima notificação."</string>
-    <string name="night_mode">"Night mode"</string> <!-- TODO translate -->
-    <string name="night_mode_on">"Enabled"</string> <!-- TODO translate -->
-    <string name="night_mode_off">"Disabled"</string> <!-- TODO translate -->
-    <string name="night_mode_auto">"Auto"</string> <!-- TODO translate -->
-    <string name="night_mode_system">"System setting"</string> <!-- TODO translate -->
+    <string name="night_mode">"Modo noturno"</string> <!-- TODO validate "Night mode" -->
+    <string name="night_mode_on">"ativado"</string> <!-- TODO validate "Enabled" -->
+    <string name="night_mode_off">"Desativado"</string> <!-- TODO validate "Disabled" -->
+    <string name="night_mode_auto">"Auto"</string> <!-- TODO validate "Auto" -->
+    <string name="night_mode_system">"Configuração de sistema"</string> <!-- TODO validate "System setting" -->
 
     <string name="title_activity_sounds">"Sons"</string>
     <string name="title_activity_sound">"Som"</string> <!-- TODO validate "Sound" -->
@@ -391,10 +391,10 @@
     <string name="edit">"Editar"</string> <!-- Name of action to edit list of sounds or list of vibrations, should be short -->
     <string name="editing">"A editar"</string> <!-- Displayed in edit mode -->
     <string name="error_file_open_failed">"Falha ao abrir ficheiro."</string>
-    <string name="error_file_open_no_permission">"No permission to open the file."</string> <!-- TODO translate -->
-    <string name="error_file_open_failed_no_permission_title">"Grant permission manually"</string> <!-- TODO translate -->
-    <string name="error_file_open_failed_no_permission">"No permission to open the file. Please open Settings and give permission to access storage."</string> <!-- TODO translate -->
-    <string name="error_file_open_failed_settings">"Open Settings"</string> <!-- TODO translate -->
+    <string name="error_file_open_no_permission">"Sem permissão para abrir o arquivo."</string> <!-- TODO validate "No permission to open the file." -->
+    <string name="error_file_open_failed_no_permission_title">"Conceder permissão manualmente"</string> <!-- TODO validate "Grant permission manually" -->
+    <string name="error_file_open_failed_no_permission">"Sem permissão para abrir o arquivo. Por favor, abra Configurações e dê permissão para acessar o armazenamento."</string> <!-- TODO validate "No permission to open the file. Please open Settings and give permission to access storage." -->
+    <string name="error_file_open_failed_settings">"Abrir configurações"</string> <!-- TODO validate "Open Settings" -->
     <string name="play_vibration">"Testar vibração"</string> <!-- description of action of a button to perform vibration -->
     <string name="play_sound">"Reproduzir"</string> <!-- description of action of a button to play sound -->
     <string name="drag_handle">"Controlo de arrasto"</string>
@@ -403,8 +403,8 @@
     <string name="permission_denied">"Permissão negada"</string>
     <string name="permission_denied_message_no_addon">"O BlipBlip não tem permissão para ler o ficheiro."</string>
     <string name="permission_denied_message_no_addon_part2">"Por favor, utilize outra aplicação que possa partilhar ficheiros sem necessitar de permissão adicional, por exemplo, o Google Drive."</string>
-    <string name="permission_denied_rationale_title">"Permission needed"</string> <!-- TODO translate -->
-    <string name="permission_denied_rationale">"Application does not have permission to read the file. Please grant the app permission to access the file. You can also share the file using other app which does not need using this permission."</string> <!-- TODO translate -->
+    <string name="permission_denied_rationale_title">"Permissão necessária"</string> <!-- TODO validate "Permission needed" -->
+    <string name="permission_denied_rationale">"Aplicativo não tem permissão para ler o arquivo. Por favor, conceda a permissão do aplicativo para acessar o arquivo. Você também pode compartilhar o arquivo usando outro aplicativo que não precisa usar essa permissão."</string> <!-- TODO validate "Application does not have permission to read the file. Please grant the app permission to access the file. You can also share the file using other app which does not need using this permission." -->
 
     <!-- Menu drawer strings -->
 
@@ -446,7 +446,7 @@
     <string name="disable_when_headset_off">"Permitir todas as notificações"</string>
     <string name="disable_when_headset_toast">"As notificações do BlipBlip estão inativas, porque tem ligado um auricular."</string>
 
-    <string name="add">"Add"</string> <!-- TODO translate -->
+    <string name="add">"Adicionar"</string> <!-- TODO validate "Add" -->
     <string name="add_item">"Adicionar item"</string>
     <string name="action_add_condition">"Adicionar condição"</string>
     <string name="dialog_title_days_of_week">"Dias da semana"</string>
@@ -468,7 +468,7 @@
     <string name="no_valid_condition_added">"Não foi definida nenhuma condição válida"</string>
     <string name="no_upcoming_notifications">"Sem notificações futuras"</string>
     <string name="error_indicator">"Indicador de erro"</string>
-    <string name="next_notification_app_off">"Off (app disabled)"</string> <!-- TODO translate -->
+    <string name="next_notification_app_off">"Desligado (app desativado)"</string> <!-- TODO validate "Off (app disabled)" -->
     <string name="next_day">"No dia seguinte"</string> <!-- Used in: "22:00 - 6:00 next day" -->
     <string name="notifications">"Notificações"</string>
     <string name="warning_no_email_app">"Não foi encontrada uma aplicação de e-mail para enviar os relatórios de erro."</string>
@@ -559,7 +559,7 @@
     <string name="pref_text_to_speech_engine">"Motor de TTS"</string>
     <string name="pref_text_to_speech_voice">"Voz"</string>
     <string name="pref_text_to_speech">"Texto para voz"</string>
-    <string name="system_default_audio_stream">"Predefinido pelo sistema"</string> <!-- TODO validate "System default" -->
+    <string name="system_default_audio_stream">"Sistema padrão"</string> <!-- TODO validate "System default" -->
     <string name="application_default">"Predefinido da aplicação"</string>
     <string name="speak_time_format_with_minutes">"Falar as horas e minutos"</string>
     <string name="speak_time_on_the_hour">"Falar nas horas certas"</string>
@@ -594,60 +594,60 @@
     <string name="premium_sound_lock">"Isto é um som Premium, que necessita de ser desbloqueado antes de poder ser utilizado."</string>
     <string name="premium_feature_lock">"Isto é uma funcionalidade Premium, que necessita de ser desbloqueada antes de poder ser utilizada."</string>
     <string name="change_subscription">"Alterar subscrição"</string>
-    <string name="upgrade_to_pro">"Upgrade"</string> <!-- TODO translate -->
-    <string name="loading_failed">"Error"</string> <!-- TODO translate -->
-    <string name="month_very_short">"month"</string> <!-- TODO translate -->
-    <string name="discount_save_money">"Save"</string> <!-- TODO translate --> <!-- percent saved will be displayed below this text -->
-    <string name="premium_settings">"Upgrade to Premium to unlock all settings"</string> <!-- TODO translate -->
-    <string name="buy_premium">"Buy Premium"</string> <!-- TODO translate -->
-    <string name="already_bought">"Already bought"</string> <!-- TODO translate -->
-    <string name="get_all_features">"Get all features"</string> <!-- TODO translate -->
-    <string name="get_all_sounds">"Get all sounds"</string> <!-- TODO translate -->
-    <string name="premium_what_you_get">"What you will get:"</string> <!-- TODO translate -->
-    <string name="feature1">"Unlimited active notifications"</string> <!-- TODO translate -->
-    <string name="feature2">"Strike the hours"</string> <!-- TODO translate -->
-    <string name="feature3">"Custom repeat interval"</string> <!-- TODO translate -->
-    <string name="feature4">"Say text or time"</string> <!-- TODO translate -->
-    <string name="feature5">"Add your own sounds"</string> <!-- TODO translate -->
-    <string name="feature6">"Priority support"</string> <!-- TODO translate -->
-    <string name="feature7">"Night mode (dark theme)"</string> <!-- TODO translate -->
-    <string name="feature_all_sounds">"All sounds in the app"</string> <!-- TODO translate -->
-    <string name="yearly_payment">"Yearly payment."</string> <!-- TODO translate -->
-    <string name="free_trial">"Free trial."</string> <!-- TODO translate -->
-    <string name="cancel_anytime">"Cancel anytime."</string> <!-- TODO translate -->
-    <string name="premium_helps_support">"By upgrading BlipBlip you not only get all features or sounds but you also support its continuous and independent development."</string> <!-- TODO translate -->
-    <string name="loading">"Loading…"</string> <!-- TODO translate -->
-    <string name="notification_has_premium_features">"This notification uses Premium features"</string> <!-- TODO translate -->
+    <string name="upgrade_to_pro">"Atualizar"</string> <!-- TODO validate "Upgrade" -->
+    <string name="loading_failed">"Erro"</string> <!-- TODO validate "Error" -->
+    <string name="month_very_short">"mês"</string> <!-- TODO validate "month" -->
+    <string name="discount_save_money">"Salve "</string> <!-- TODO validate "Save" --> <!-- percent saved will be displayed below this text -->
+    <string name="premium_settings">"Atualize para o Premium para desbloquear todas as configurações"</string> <!-- TODO validate "Upgrade to Premium to unlock all settings" -->
+    <string name="buy_premium">"Compre Premium"</string> <!-- TODO validate "Buy Premium" -->
+    <string name="already_bought">"Ja comprei"</string> <!-- TODO validate "Already bought" -->
+    <string name="get_all_features">"Obter todos os recursos"</string> <!-- TODO validate "Get all features" -->
+    <string name="get_all_sounds">"Obter todos os sons"</string> <!-- TODO validate "Get all sounds" -->
+    <string name="premium_what_you_get">"O que você vai conseguir:"</string> <!-- TODO validate "What you will get:" -->
+    <string name="feature1">"Notificações ativas ilimitadas"</string> <!-- TODO validate "Unlimited active notifications" -->
+    <string name="feature2">"Golpeie as horas"</string> <!-- TODO validate "Strike the hours" -->
+    <string name="feature3">"Intervalo de repetição personalizado"</string> <!-- TODO validate "Custom repeat interval" -->
+    <string name="feature4">"Diga texto ou hora"</string> <!-- TODO validate "Say text or time" -->
+    <string name="feature5">"Adicione seus próprios sons"</string> <!-- TODO validate "Add your own sounds" -->
+    <string name="feature6">"Suporte prioritário"</string> <!-- TODO validate "Priority support" -->
+    <string name="feature7">"Modo noturno (tema escuro)"</string> <!-- TODO validate "Night mode (dark theme)" -->
+    <string name="feature_all_sounds">"Todos os sons no aplicativo"</string> <!-- TODO validate "All sounds in the app" -->
+    <string name="yearly_payment">"Pagamento anual."</string> <!-- TODO validate "Yearly payment." -->
+    <string name="free_trial">"Teste grátis."</string> <!-- TODO validate "Free trial." -->
+    <string name="cancel_anytime">"Cancele a qualquer momento."</string> <!-- TODO validate "Cancel anytime." -->
+    <string name="premium_helps_support">"Ao atualizar o BlipBlip, você não apenas obtém todos os recursos ou sons, mas também suporta seu desenvolvimento contínuo e independente."</string> <!-- TODO validate "By upgrading BlipBlip you not only get all features or sounds but you also support its continuous and independent development." -->
+    <string name="loading">"Carregando…"</string> <!-- TODO validate "Loading…" -->
+    <string name="notification_has_premium_features">"Esta notificação usa recursos Premium"</string> <!-- TODO validate "This notification uses Premium features" -->
 
     <!-- Premium Bar -->
-    <string name="bar_upgrade_to_enable_app">"Upgrade to Premium"</string> <!-- TODO translate -->
-    <string name="bar_upgrade_to_enable_notification">"Upgrade to Premium"</string> <!-- TODO translate -->
-    <string name="bar_upgrade">"Buy now"</string> <!-- TODO translate -->
-    <string name="bar_uses_premium_features">"Notification uses Premium features"</string> <!-- TODO translate -->
+    <string name="bar_upgrade_to_enable_app">"Atualize para o Premium"</string> <!-- TODO validate "Upgrade to Premium" -->
+    <string name="bar_upgrade_to_enable_notification">"Atualize para o Premium"</string> <!-- TODO validate "Upgrade to Premium" -->
+    <string name="bar_upgrade">"compre"</string> <!-- TODO validate "Buy now" -->
+    <string name="bar_uses_premium_features">"Notificação usa recursos Premium"</string> <!-- TODO validate "Notification uses Premium features" -->
 
     <!-- Premium dialog -->
-    <string name="premium_dialog_title">"Premium"</string> <!-- TODO translate -->
-    <string name="premium_dialog_upgrade_now">"Buy now"</string> <!-- TODO translate -->
-    <string name="premium_dialog_later">"Later"</string> <!-- TODO translate -->
-    <string name="premium_icon_description">"Premium star icon"</string> <!-- TODO translate -->
-    <string name="feature_user_sounds_title">"User added sounds is a Premium feature"</string> <!-- TODO translate -->
-    <string name="feature_user_sounds_description">"Make BlipBlip app yours by adding your own sounds."</string> <!-- TODO translate -->
-    <string name="feature_premium_sounds_title">"All sounds available in the app is a Premium feature"</string> <!-- TODO translate -->
-    <string name="feature_premium_sounds_description">"Customize your notification with many built-in sounds."</string> <!-- TODO translate -->
-    <string name="feature_strike_the_hour_title">"Strike the hours is a Premium feature"</string> <!-- TODO translate -->
-    <string name="feature_strike_the_hour_description">"Create your own grandfather clock (e.g. plays 3 times at three o'clock)"</string> <!-- TODO translate -->
-    <string name="feature_say_text_title">"Saying text is a Premium feature"</string> <!-- TODO translate -->
-    <string name="feature_say_text_description">"Use text-to-speech in your notifications."</string> <!-- TODO translate -->
-    <string name="feature_say_time_title">"Saying time is a Premium feature"</string> <!-- TODO translate -->
-    <string name="feature_say_time_description">"Speak current time using text to speech."</string> <!-- TODO translate -->
-    <string name="feature_custom_repeat_interval_title">"Custom repeat interval is a Premium feature"</string> <!-- TODO translate -->
-    <string name="feature_custom_repeat_interval_description">"Set any time interval (other than standard 1, 5, 10, 15, 20, 30 and 60 minutes)."</string> <!-- TODO translate -->
-    <string name="feature_general_title">"Notification uses Premium functions"</string> <!-- TODO translate -->
-    <string name="feature_general_description">"Upgrade to enable notification and enjoy all Premium features."</string> <!-- TODO translate -->
-    <string name="feature_multiple_active_notifications_title">"Unlimited active notifications is a Premium feature"</string> <!-- TODO translate -->
-    <string name="feature_multiple_active_notifications_description">"Use many notifications with different settings at the same time (e.g. play twice at 12:00, play once at 12:30). In free version you can have one active notification."</string> <!-- TODO translate -->
-    <string name="feature_unlimited_silent_time_title">"Unlimited silent time configurations is a Premium feature"</string> <!-- TODO translate -->
-    <string name="feature_unlimited_silent_time_description">"In free version you can activate 5 silent time configurations."</string> <!-- TODO translate -->
+    <string name="premium_dialog_title">"Prêmio"</string> <!-- TODO validate "Premium" -->
+    <string name="premium_dialog_upgrade_now">"compre"</string> <!-- TODO validate "Buy now" -->
+    <string name="premium_dialog_later">"Mais tarde"</string> <!-- TODO validate "Later" -->
+    <string name="premium_icon_description">"Ícone de estrela Premium"</string> <!-- TODO validate "Premium star icon" -->
+    <string name="feature_user_sounds_title">"O usuário adicionou sons é um recurso Premium"</string> <!-- TODO validate "User added sounds is a Premium feature" -->
+    <string name="feature_user_sounds_description">"Faça BlipBlip app seu adicionando seus próprios sons."</string> <!-- TODO validate "Make BlipBlip app yours by adding your own sounds." -->
+    <string name="feature_premium_sounds_title">"Todos os sons disponíveis no aplicativo são um recurso Premium"</string> <!-- TODO validate "All sounds available in the app is a Premium feature" -->
+    <string name="feature_premium_sounds_description">"Personalize sua notificação com muitos sons incorporados."</string> <!-- TODO validate "Customize your notification with many built-in sounds." -->
+    <string name="feature_strike_the_hour_title">"Golpeie as horas é um recurso Premium"</string> <!-- TODO validate "Strike the hours is a Premium feature" -->
+    <string name="feature_strike_the_hour_description">"Crie o seu próprio relógio de pêndulo (por exemplo, joga 3 vezes às 3 horas)"</string> <!-- TODO validate "Create your own grandfather clock (e.g. plays 3 times at three o'clock)" -->
+    <string name="feature_say_text_title">"Dizer texto é um recurso Premium"</string> <!-- TODO validate "Saying text is a Premium feature" -->
+    <string name="feature_say_text_description">"Use texto para fala em suas notificações."</string> <!-- TODO validate "Use text-to-speech in your notifications." -->
+    <string name="feature_say_time_title">"Dizendo que o tempo é um recurso Premium"</string> <!-- TODO validate "Saying time is a Premium feature" -->
+    <string name="feature_say_time_description">"Fale a hora atual usando texto para fala."</string> <!-- TODO validate "Speak current time using text to speech." -->
+    <string name="feature_custom_repeat_interval_title">"O intervalo de repetição personalizado é um recurso Premium"</string> <!-- TODO validate "Custom repeat interval is a Premium feature" -->
+    <string name="feature_custom_repeat_interval_description">"Defina qualquer intervalo de tempo (diferente do padrão 1, 5, 10, 15, 20, 30 e 60 minutos)."</string> <!-- TODO validate "Set any time interval (other than standard 1, 5, 10, 15, 20, 30 and 60 minutes)." -->
+    <string name="feature_general_title">"Notificação usa funções Premium"</string> <!-- TODO validate "Notification uses Premium functions" -->
+    <string name="feature_general_description">"Atualize para ativar a notificação e aproveite todos os recursos Premium."</string> <!-- TODO validate "Upgrade to enable notification and enjoy all Premium features." -->
+    <string name="feature_multiple_active_notifications_title">"Notificações ativas ilimitadas é um recurso Premium"</string> <!-- TODO validate "Unlimited active notifications is a Premium feature" -->
+    <string name="feature_multiple_active_notifications_description">"Use muitas notificações com configurações diferentes ao mesmo tempo (por exemplo, jogar duas vezes às 12:00, jogar uma vez às 12:30). Na versão gratuita você pode ter uma notificação ativa."</string> <!-- TODO validate "Use many notifications with different settings at the same time (e.g. play twice at 12:00, play once at 12:30). In free version you can have one active notification." -->
+    <string name="feature_unlimited_silent_time_title">"Configurações ilimitadas de tempo silencioso é um recurso Premium"</string> <!-- TODO validate "Unlimited silent time configurations is a Premium feature" -->
+    <string name="feature_unlimited_silent_time_description">"Na versão gratuita você pode ativar 5 configurações de tempo silencioso."</string> <!-- TODO validate "In free version you can activate 5 silent time configurations." -->
 
     <string name="vibrate_seconds">"Vibrar %ss"</string> <!-- s at the end is for seconds, %s will be replaced by value e.g. "Vibrate 1.2s" -->
     <string name="wait_and_vibrate_seconds">"Augardar %1$ss, vibrar %2$ss"</string> <!-- s at the end is for seconds, "%1$s" and "%2$s" will be replaced by value e.g. "Vibrate 1.2s" -->
@@ -657,82 +657,82 @@
     <string name="create_new_vibration">"Criar nova vibração"</string>
     <string name="create_new_notification">"Criar nova notificação"</string>
     <string name="create_new_silent_time">"Criar novo período em silêncio"</string>
-    <string name="additional_info_button">"Additional information"</string> <!-- TODO translate -->
-    <string name="start_playing">"Start playing"</string> <!-- TODO translate -->
-    <string name="stop_playing">"Stop playing"</string> <!-- TODO translate -->
-    <string name="edit_mode">"Edit mode"</string> <!-- TODO translate -->
+    <string name="additional_info_button">"Informação adicional"</string> <!-- TODO validate "Additional information" -->
+    <string name="start_playing">"Começa a jogar"</string> <!-- TODO validate "Start playing" -->
+    <string name="stop_playing">"Pare de jogar"</string> <!-- TODO validate "Stop playing" -->
+    <string name="edit_mode">"Modo de edição"</string> <!-- TODO validate "Edit mode" -->
 
     <!-- widget -->
-    <string name="app_enabled">"App enabled"</string> <!-- TODO translate -->
-    <string name="app_disabled">"App disabled"</string> <!-- TODO translate -->
+    <string name="app_enabled">"App ativado"</string> <!-- TODO validate "App enabled" -->
+    <string name="app_disabled">"App desativado"</string> <!-- TODO validate "App disabled" -->
 
-    <string name="warning_volume_dnd">"Cannot show volume slider because Do Not Disturb mode is enabled"</string> <!-- TODO translate -->
+    <string name="warning_volume_dnd">"Não é possível mostrar o controle deslizante de volume porque o modo Não perturbe está ativado"</string> <!-- TODO validate "Cannot show volume slider because Do Not Disturb mode is enabled" -->
 
     <!-- auto start failed dialog -->
-    <string name="auto_start_fail_title">"Auto-start failed"</string> <!-- TODO translate -->
-    <string name="auto_start_fail_message">"Automatic start of the app failed. Please check your settings."</string> <!-- TODO translate -->
+    <string name="auto_start_fail_title">"Falha na inicialização automática"</string> <!-- TODO validate "Auto-start failed" -->
+    <string name="auto_start_fail_message">"O início automático do aplicativo falhou. Por favor, verifique suas configurações."</string> <!-- TODO validate "Automatic start of the app failed. Please check your settings." -->
 
     <!-- manual settings dialog -->
-    <string name="manual_settings_title">"Manual settings needed"</string> <!-- TODO translate -->
-    <string name="manual_settings_summary">"Some manual settings may be needed for BlipBlip to function properly."</string> <!-- TODO translate -->
-    <string name="manual_settings_tips_subtitle">"Please try tips below"</string> <!-- TODO translate -->
-    <string name="manual_settings_tip_settings_description">"Open settings"</string> <!-- TODO translate -->
-    <string name="manual_settings_snackbar">"Please review manual settings which may be needed for app to function properly"</string> <!-- TODO translate -->
-    <string name="manual_settings_show">"Show"</string> <!-- TODO translate -->
-    <string name="manual_settings_permanent_notification_description">"Enable permanent notification (recommended)"</string> <!-- TODO translate -->
-    <string name="manual_settings_permanent_notification_info">"App will show permanently visible notification, which may prevent app from being killed."</string> <!-- TODO translate -->
-    <string name="manual_settings_general_tips_button">"Show general tips"</string> <!-- TODO translate -->
-    <string name="manual_settings_general_tips">"General tips"</string> <!-- TODO translate -->
-    <string name="manual_settings_general_tip1">"Disable power saving modes in device settings"</string> <!-- TODO translate -->
-    <string name="manual_settings_general_tip2">"Disable apps that optimize battery or memory usage (e.g. task killers)"</string> <!-- TODO translate -->
-    <string name="manual_settings_general_tips_info">"If your device requires changing other options, please let us know using \"Report problem\" option."</string> <!-- TODO translate -->
-    <string name="manual_settings_suggest_report_problem">"If after trying above tips you would still have issues with the app, please report the problem."</string> <!-- TODO translate -->
-    <string name="manual_settings_do_not_show_again">"Do not show again"</string> <!-- TODO translate -->
+    <string name="manual_settings_title">"Configurações manuais necessárias"</string> <!-- TODO validate "Manual settings needed" -->
+    <string name="manual_settings_summary">"Algumas configurações manuais podem ser necessárias para o BlipBlip funcionar corretamente."</string> <!-- TODO validate "Some manual settings may be needed for BlipBlip to function properly." -->
+    <string name="manual_settings_tips_subtitle">"Por favor, tente dicas abaixo"</string> <!-- TODO validate "Please try tips below" -->
+    <string name="manual_settings_tip_settings_description">"Abrir configurações"</string> <!-- TODO validate "Open settings" -->
+    <string name="manual_settings_snackbar">"Analise as configurações manuais que podem ser necessárias para o aplicativo funcionar corretamente"</string> <!-- TODO validate "Please review manual settings which may be needed for app to function properly" -->
+    <string name="manual_settings_show">"exposição"</string> <!-- TODO validate "Show" -->
+    <string name="manual_settings_permanent_notification_description">"Ativar notificação permanente (recomendado)"</string> <!-- TODO validate "Enable permanent notification (recommended)" -->
+    <string name="manual_settings_permanent_notification_info">"O aplicativo mostrará uma notificação permanentemente visível, o que pode impedir que o aplicativo seja eliminado."</string> <!-- TODO validate "App will show permanently visible notification, which may prevent app from being killed." -->
+    <string name="manual_settings_general_tips_button">"Mostrar dicas gerais"</string> <!-- TODO validate "Show general tips" -->
+    <string name="manual_settings_general_tips">"Dicas gerais"</string> <!-- TODO validate "General tips" -->
+    <string name="manual_settings_general_tip1">"Desativar os modos de economia de energia nas configurações do dispositivo"</string> <!-- TODO validate "Disable power saving modes in device settings" -->
+    <string name="manual_settings_general_tip2">"Desativar aplicativos que otimizam o uso da bateria ou da memória (por exemplo, matadores de tarefas)"</string> <!-- TODO validate "Disable apps that optimize battery or memory usage (e.g. task killers)" -->
+    <string name="manual_settings_general_tips_info">"Se o seu dispositivo exigir a alteração de outras opções, informe-nos usando a opção \ \"Informar problema \\"."</string> <!-- TODO validate "If your device requires changing other options, please let us know using \"Report problem\" option." -->
+    <string name="manual_settings_suggest_report_problem">"Se, depois de tentar as dicas acima, você ainda tiver problemas com o aplicativo, denuncie o problema."</string> <!-- TODO validate "If after trying above tips you would still have issues with the app, please report the problem." -->
+    <string name="manual_settings_do_not_show_again">"Não mostre novamente"</string> <!-- TODO validate "Do not show again" -->
 
     <!-- Tips -->
-    <string name="tip1">"Add the app to Un-monitored Apps."</string> <!-- TODO translate -->
-    <string name="tip2">"Add the app to Protected Apps."</string> <!-- TODO translate -->
-    <string name="tip3">"Exclude app from lock screen cleanup."</string> <!-- TODO translate -->
-    <string name="tip4">"Disable Stamina mode."</string> <!-- TODO translate -->
-    <string name="tip5">"Disable battery usage restrictions."</string> <!-- TODO translate -->
-    <string name="tip6">"Add app to auto-run."</string> <!-- TODO translate -->
-    <string name="tip7">"Disable background task cleaner."</string> <!-- TODO translate -->
-    <string name="tip8">"Add app to auto-start."</string> <!-- TODO translate -->
-    <string name="tip9">"Add app to auto-start."</string> <!-- TODO translate -->
-    <string name="tip10">"Lock the app on recent apps screen."</string> <!-- TODO translate -->
-    <string name="tip11">"Allow the app to work in Standby Mode."</string> <!-- TODO translate -->
-    <string name="tip12">"Add the app to auto-launch."</string> <!-- TODO translate -->
-    <string name="tip14">"Add the app to Background protection whitelist."</string> <!-- TODO translate -->
+    <string name="tip1">"Adicione o aplicativo a aplicativos não monitorados."</string> <!-- TODO validate "Add the app to Un-monitored Apps." -->
+    <string name="tip2">"Adicione o aplicativo aos Aplicativos Protegidos."</string> <!-- TODO validate "Add the app to Protected Apps." -->
+    <string name="tip3">"Excluir o aplicativo da limpeza da tela de bloqueio."</string> <!-- TODO validate "Exclude app from lock screen cleanup." -->
+    <string name="tip4">"Desative o modo Stamina."</string> <!-- TODO validate "Disable Stamina mode." -->
+    <string name="tip5">"Desative as restrições de uso da bateria."</string> <!-- TODO validate "Disable battery usage restrictions." -->
+    <string name="tip6">"Adicionar aplicativo para execução automática."</string> <!-- TODO validate "Add app to auto-run." -->
+    <string name="tip7">"Desativar o limpador de tarefas em segundo plano."</string> <!-- TODO validate "Disable background task cleaner." -->
+    <string name="tip8">"Adicionar aplicativo ao início automático."</string> <!-- TODO validate "Add app to auto-start." -->
+    <string name="tip9">"Adicionar aplicativo ao início automático."</string> <!-- TODO validate "Add app to auto-start." -->
+    <string name="tip10">"Bloqueie o aplicativo na tela de aplicativos recentes."</string> <!-- TODO validate "Lock the app on recent apps screen." -->
+    <string name="tip11">"Permitir que o aplicativo funcione no modo de espera."</string> <!-- TODO validate "Allow the app to work in Standby Mode." -->
+    <string name="tip12">"Adicione o aplicativo ao lançamento automático."</string> <!-- TODO validate "Add the app to auto-launch." -->
+    <string name="tip14">"Adicione o aplicativo à lista de permissões de proteção em segundo plano."</string> <!-- TODO validate "Add the app to Background protection whitelist." -->
 
     <!-- Tips detailed instructions -->
-    <string name="tip1_settings">"Settings &gt; Device maintenance &gt; Battery &gt; Unmonitored apps list"</string> <!-- TODO translate -->
-    <string name="tip2_settings">"Settings &gt; Advanced Settings &gt; Battery Manager &gt; Protected Apps or Settings &gt; Privacy and Security &gt; Protected Apps"</string> <!-- TODO translate -->
-    <string name="tip3_settings">"Phone Manager &gt; Lock screen cleanup &gt; un-check the app (don't close) or Settings &gt; Battery &gt; Lock screen cleanup &gt; un-check the app (don't close)"</string> <!-- TODO translate -->
-    <string name="tip4_settings">"Settings &gt; Power management &gt; STAMINA mode &gt; Apps active in standby &gt; Add BlipBlip"</string> <!-- TODO translate -->
-    <string name="tip5_settings">"Settings &gt; Additional Settings &gt; Battery &amp; Performance &gt; Manage Apps Battery Usage &gt; Choose Apps &gt; BlipBlip &gt; No restrictions"</string> <!-- TODO translate -->
-    <string name="tip6_settings">"Settings &gt; Permissions &gt; Auto-run management"</string> <!-- TODO translate -->
-    <string name="tip7_settings">"Settings &gt; Background task clear &gt; White list"</string> <!-- TODO translate -->
-    <string name="tip8_settings">"Asus Mobile Manager &gt; Auto-start Manager"</string> <!-- TODO translate -->
-    <string name="tip9_settings">"Phone Manager &gt; Privacy Permissions &gt; Startup Manager"</string> <!-- TODO translate -->
-    <string name="tip10_settings">"Recent apps &gt; tap BlipBlip and pull it down"</string> <!-- TODO translate -->
-    <string name="tip11_settings">"Security &gt; Power &gt; Standby Management &gt; Set BlipBlip to run in Standby Mode"</string> <!-- TODO translate -->
-    <string name="tip12_settings">"Security &gt; Permission &gt; Auto-Launched apps &gt; enable auto-launch"</string> <!-- TODO translate -->
-    <string name="tip13_settings">"Long press red circle &gt; swipe down BlipBlip"</string> <!-- TODO translate -->
-    <string name="tip14_settings">"NeoSafe app &gt; Power &gt; right top settings icon &gt; Background protection whitelist &gt; add BlipBLip"</string> <!-- TODO translate -->
-    <string name="tip15_settings">"NeoSafe app &gt; Permission &gt; Power-on speedup &gt; Enable BlipBlip"</string> <!-- TODO translate -->
+    <string name="tip1_settings">"Configurações&gt; Manutenção de dispositivos&gt; Bateria&gt; Lista de aplicativos não monitorados"</string> <!-- TODO validate "Settings > Device maintenance > Battery > Unmonitored apps list" -->
+    <string name="tip2_settings">"Configurações&gt; Configurações avançadas&gt; Gerenciador de bateria&gt; Aplicativos ou configurações protegidos&gt; Privacidade e segurança&gt; Aplicativos protegidos"</string> <!-- TODO validate "Settings > Advanced Settings > Battery Manager > Protected Apps or Settings > Privacy and Security > Protected Apps" -->
+    <string name="tip3_settings">"Gerenciador de telefone&gt; Bloquear a limpeza da tela&gt; desmarque o aplicativo (não feche) ou Configurações&gt; Bateria&gt; Bloquear a limpeza da tela&gt; desmarque o aplicativo (não feche)"</string> <!-- TODO validate "Phone Manager > Lock screen cleanup > un-check the app (don't close) or Settings > Battery > Lock screen cleanup > un-check the app (don't close)" -->
+    <string name="tip4_settings">"Configurações&gt; Gerenciamento de energia&gt; Modo STAMINA&gt; Aplicativos ativos em espera&gt; Adicionar BlipBlip"</string> <!-- TODO validate "Settings > Power management > STAMINA mode > Apps active in standby > Add BlipBlip" -->
+    <string name="tip5_settings">"Configurações&gt; Configurações adicionais&gt; Bateria e desempenho&gt; Gerenciar aplicativos Uso da bateria&gt; Escolher aplicativos&gt; BlipBlip&gt; Sem restrições"</string> <!-- TODO validate "Settings > Additional Settings > Battery & Performance > Manage Apps Battery Usage > Choose Apps > BlipBlip > No restrictions" -->
+    <string name="tip6_settings">"Configurações&gt; Permissões&gt; Gerenciamento de execução automática"</string> <!-- TODO validate "Settings > Permissions > Auto-run management" -->
+    <string name="tip7_settings">"Configurações&gt; Limpar tarefa em segundo plano&gt; Lista branca"</string> <!-- TODO validate "Settings > Background task clear > White list" -->
+    <string name="tip8_settings">"Asus Mobile Manager&gt; Gerenciador de Início Automático"</string> <!-- TODO validate "Asus Mobile Manager > Auto-start Manager" -->
+    <string name="tip9_settings">"Gerenciador de telefone&gt; Permissões de privacidade&gt; Gerenciador de inicialização"</string> <!-- TODO validate "Phone Manager > Privacy Permissions > Startup Manager" -->
+    <string name="tip10_settings">"Aplicativos recentes&gt; toque em BlipBlip e puxe-o para baixo"</string> <!-- TODO validate "Recent apps > tap BlipBlip and pull it down" -->
+    <string name="tip11_settings">"Segurança&gt; Energia&gt; Gerenciamento em Standby&gt; Definir o BlipBlip para ser executado no modo de espera"</string> <!-- TODO validate "Security > Power > Standby Management > Set BlipBlip to run in Standby Mode" -->
+    <string name="tip12_settings">"Segurança&gt; Permissão&gt; Aplicativos Auto-Lançados&gt; ativar o lançamento automático"</string> <!-- TODO validate "Security > Permission > Auto-Launched apps > enable auto-launch" -->
+    <string name="tip13_settings">"Pressione e segure o círculo vermelho&gt; deslize para baixo BlipBlip"</string> <!-- TODO validate "Long press red circle > swipe down BlipBlip" -->
+    <string name="tip14_settings">"Aplicativo NeoSafe&gt; Energia&gt; ícone de configurações superior direito&gt; Lista de permissões de proteção de plano de fundo&gt; adicionar BlipBLip"</string> <!-- TODO validate "NeoSafe app > Power > right top settings icon > Background protection whitelist > add BlipBLip" -->
+    <string name="tip15_settings">"Aplicativo NeoSafe&gt; Permissão&gt; Velocidade máxima de ativação&gt; Ativar BlipBlip"</string> <!-- TODO validate "NeoSafe app > Permission > Power-on speedup > Enable BlipBlip" -->
 
     <!-- UI Settings -->
     <string name="pref_user_interface">"Interface do utilizador"</string>
     <!-- edit button -->
-    <string name="edit_button_title">"Editing button"</string> <!-- TODO translate -->
-    <string name="edit_button_on">"Show edit button"</string> <!-- TODO translate -->
-    <string name="edit_button_off">"Hide edit button. To enter edit mode use edit action from menu."</string> <!-- TODO translate -->
+    <string name="edit_button_title">"Botão de edição"</string> <!-- TODO validate "Editing button" -->
+    <string name="edit_button_on">"Mostrar botão de edição"</string> <!-- TODO validate "Show edit button" -->
+    <string name="edit_button_off">"Esconder botão de edição. Para entrar no modo de edição, use a ação editar no menu."</string> <!-- TODO validate "Hide edit button. To enter edit mode use edit action from menu." -->
     <!-- changelog -->
-    <string name="version_history">"Version history"</string> <!-- TODO translate -->
-    <string name="changelog_title">"What's new?"</string> <!-- TODO translate -->
-    <string name="show_changelog_title">"Show changelog"</string> <!-- TODO translate -->
-    <string name="show_changelog_on">"Show recent changes on startup."</string> <!-- TODO translate -->
-    <string name="show_changelog_off">"Do not show recent changes on startup."</string> <!-- TODO translate -->
+    <string name="version_history">"Histórico da versão"</string> <!-- TODO validate "Version history" -->
+    <string name="changelog_title">"O que há de novo?"</string> <!-- TODO validate "What's new?" -->
+    <string name="show_changelog_title">"Mostrar changelog"</string> <!-- TODO validate "Show changelog" -->
+    <string name="show_changelog_on">"Mostrar alterações recentes na inicialização."</string> <!-- TODO validate "Show recent changes on startup." -->
+    <string name="show_changelog_off">"Não mostre alterações recentes na inicialização."</string> <!-- TODO validate "Do not show recent changes on startup." -->
     <!-- inclusive -->
     <string name="show_inclusive_title">"Mudar o fim do período de tempo"</string>
     <string name="show_inclusive_on">"Ao definir o período de tempo mostrar botões para configurar se os limites devem ser incluídos no período de tempo."</string>
@@ -742,88 +742,88 @@
     <string name="show_actions_switches_on">"Mostrar comutadores para ativar ou desativar ações."</string>
     <string name="show_actions_switches_off">"Ocultar comutadores para ativar ou desativar ações."</string>
     <!-- Show kill dialog -->
-    <string name="show_kill_dialog_title">"Notify if app was killed"</string> <!-- TODO translate -->
-    <string name="show_kill_dialog_on">"Display message when opening the app if it was detected that the app was killed."</string> <!-- TODO translate -->
-    <string name="show_kill_dialog_off">"Do not display message when it was detected that the app was killed."</string> <!-- TODO translate -->
+    <string name="show_kill_dialog_title">"Notificar se o aplicativo foi morto"</string> <!-- TODO validate "Notify if app was killed" -->
+    <string name="show_kill_dialog_on">"Exibir mensagem ao abrir o aplicativo, caso tenha sido detectado que o aplicativo foi morto."</string> <!-- TODO validate "Display message when opening the app if it was detected that the app was killed." -->
+    <string name="show_kill_dialog_off">"Não exibe mensagens quando foi detectado que o aplicativo foi morto."</string> <!-- TODO validate "Do not display message when it was detected that the app was killed." -->
 
     <!-- examples -->
-    <string name="double_sound_every_hour">"Double sound every hour"</string> <!-- TODO translate -->
-    <string name="single_sound_half_past">"Sound half past every hour"</string> <!-- TODO translate -->
-    <string name="speak_time_every_hour">"Speak current time every hour"</string> <!-- TODO translate -->
+    <string name="double_sound_every_hour">"Som duplo a cada hora"</string> <!-- TODO validate "Double sound every hour" -->
+    <string name="single_sound_half_past">"Som meio passado a cada hora"</string> <!-- TODO validate "Sound half past every hour" -->
+    <string name="speak_time_every_hour">"Fale a hora atual a cada hora"</string> <!-- TODO validate "Speak current time every hour" -->
 
     <!-- ads -->
-    <string name="remove_ads">"Remove ads"</string> <!-- TODO translate -->
-    <string name="channel_name_watch_ads">"Watch ads"</string> <!-- TODO translate -->
-    <string name="channel_name_premium_end_description">"You will get notified when you need to watch an ad to enjoy all Premium features for free"</string> <!-- TODO translate -->
+    <string name="remove_ads">"Remover propagandas"</string> <!-- TODO validate "Remove ads" -->
+    <string name="channel_name_watch_ads">"Visualizar anúncios"</string> <!-- TODO validate "Watch ads" -->
+    <string name="channel_name_premium_end_description">"Você será notificado quando precisar assistir a um anúncio para aproveitar todos os recursos Premium gratuitamente"</string> <!-- TODO validate "You will get notified when you need to watch an ad to enjoy all Premium features for free" -->
 
-    <string name="watch_ads">"Watch ads"</string> <!-- TODO translate -->
-    <string name="watch_video">"Watch video ad"</string> <!-- TODO translate -->
-    <string name="subscribe_without_ads">"Subscribe without ads"</string> <!-- TODO translate -->
-    <string name="start_free_trial">"Start a free trial"</string> <!-- TODO translate -->
-    <string name="tooltip_accept_privacy_policy">"Please check the box."</string> <!-- TODO translate -->
-    <string name="welcome_to_blipBlip">"Welcome to BlipBlip!"</string> <!-- TODO translate -->
-    <string name="blipblip_free_description_short">"This app is free in exchange for watching ads."</string> <!-- TODO translate -->
-    <string name="blipblip_free_description">"This app is free in exchange for watching ads. You can access all Blip Blip Premium features and sounds for specified time period after watching an ad. The more you watch the longer you can use the app."</string> <!-- TODO translate -->
-    <string name="blipblip_free_description2">"There are no ads in user interface. There are no ads popping up unexpectedly. You always choose when you want to watch an ad."</string> <!-- TODO translate -->
-    <string name="watch_ad">"View ad"</string> <!-- TODO translate -->
-    <string name="ad">"Ad"</string> <!-- TODO translate --> <!-- Short label of button for watching ads -->
-    <string name="accept_privacy_policy">"I accept privacy policy."</string> <!-- TODO translate -->
-    <string name="get_blipblip">"Want free app without ads and without Premium features? Tap here."</string> <!-- TODO translate -->
-    <string name="privacy_policy">"Privacy policy."</string> <!-- TODO translate -->
-    <string name="get_time_of_premium">"Get %1$s of Premium"</string> <!-- TODO translate -->
-    <string name="get_time_of_premium_more">"View ad to use the app for additional time: %s."</string> <!-- TODO translate -->
-    <string name="premium_time_left">"Time left for using the app: %s"</string> <!-- TODO translate -->
-    <string name="app_was_enabled">"App has been enabled!"</string> <!-- TODO translate -->
-    <string name="failed_loading_ad">"Failed to load ad. Check your internet connection and try again."</string> <!-- TODO translate -->
-    <string name="continue_with_ads">"Continue with ads"</string> <!-- TODO translate -->
-    <string name="continue_with_relevant_question">"Can we use your data to tailor ads for you?"</string> <!-- TODO translate -->
-    <string name="continue_with_relevant_ads">"Yes, continue with relevant ads"</string> <!-- TODO translate -->
-    <string name="continue_with_less_relevant_ads">"No, continue with less relevant ads"</string> <!-- TODO translate -->
-    <string name="watch_ads_to_get_next_notification">"View ads to get next notification"</string> <!-- TODO translate -->
-    <string name="watch_ad_to_enable_app">"View ad to enable app"</string> <!-- TODO translate -->
-    <string name="popup_watch_more_ads_to_get_notification">"Watch more ads to get this notification"</string> <!-- TODO translate -->
+    <string name="watch_ads">"Visualizar anúncios"</string> <!-- TODO validate "Watch ads" -->
+    <string name="watch_video">"Assista ao anúncio em vídeo"</string> <!-- TODO validate "Watch video ad" -->
+    <string name="subscribe_without_ads">"Inscreva-se sem anúncios"</string> <!-- TODO validate "Subscribe without ads" -->
+    <string name="start_free_trial">"Inicie uma avaliação gratuita"</string> <!-- TODO validate "Start a free trial" -->
+    <string name="tooltip_accept_privacy_policy">"Por favor, marque a caixa."</string> <!-- TODO validate "Please check the box." -->
+    <string name="welcome_to_blipBlip">"Bem vindo ao BlipBlip!"</string> <!-- TODO validate "Welcome to BlipBlip!" -->
+    <string name="blipblip_free_description_short">"Este aplicativo é gratuito em troca de assistir anúncios."</string> <!-- TODO validate "This app is free in exchange for watching ads." -->
+    <string name="blipblip_free_description">"Este aplicativo é gratuito em troca de assistir anúncios. Você pode acessar todos os recursos e sons do Blip Blip Premium por um período especificado após assistir a um anúncio. Quanto mais você assiste, mais tempo você pode usar o aplicativo."</string> <!-- TODO validate "This app is free in exchange for watching ads. You can access all Blip Blip Premium features and sounds for specified time period after watching an ad. The more you watch the longer you can use the app." -->
+    <string name="blipblip_free_description2">"Não há anúncios na interface do usuário. Não há anúncios aparecendo inesperadamente. Você sempre escolhe quando quer assistir a um anúncio."</string> <!-- TODO validate "There are no ads in user interface. There are no ads popping up unexpectedly. You always choose when you want to watch an ad." -->
+    <string name="watch_ad">"Ver anúncio"</string> <!-- TODO validate "View ad" -->
+    <string name="ad">"de Anúncios"</string> <!-- TODO validate "Ad" --> <!-- Short label of button for watching ads -->
+    <string name="accept_privacy_policy">"Eu aceito a política de privacidade."</string> <!-- TODO validate "I accept privacy policy." -->
+    <string name="get_blipblip">"Quer aplicativo gratuito sem anúncios e sem recursos Premium? Toque aqui."</string> <!-- TODO validate "Want free app without ads and without Premium features? Tap here." -->
+    <string name="privacy_policy">"Política de Privacidade."</string> <!-- TODO validate "Privacy policy." -->
+    <string name="get_time_of_premium">"Obtenha %1$s de Premium"</string> <!-- TODO validate "Get %1$s of Premium" -->
+    <string name="get_time_of_premium_more">"Visualize o anúncio para usar o aplicativo por mais tempo: %s ."</string> <!-- TODO validate "View ad to use the app for additional time: %s." -->
+    <string name="premium_time_left">"Tempo restante para usar o aplicativo: %s"</string> <!-- TODO validate "Time left for using the app: %s" -->
+    <string name="app_was_enabled">"App foi ativado!"</string> <!-- TODO validate "App has been enabled!" -->
+    <string name="failed_loading_ad">"Falha ao carregar o anúncio. Verifique sua conexão com a Internet e tente novamente."</string> <!-- TODO validate "Failed to load ad. Check your internet connection and try again." -->
+    <string name="continue_with_ads">"Continue com anúncios"</string> <!-- TODO validate "Continue with ads" -->
+    <string name="continue_with_relevant_question">"Podemos usar seus dados para adaptar anúncios para você?"</string> <!-- TODO validate "Can we use your data to tailor ads for you?" -->
+    <string name="continue_with_relevant_ads">"Sim, continue com anúncios relevantes"</string> <!-- TODO validate "Yes, continue with relevant ads" -->
+    <string name="continue_with_less_relevant_ads">"Não, continue com anúncios menos relevantes"</string> <!-- TODO validate "No, continue with less relevant ads" -->
+    <string name="watch_ads_to_get_next_notification">"Visualizar anúncios para receber a próxima notificação"</string> <!-- TODO validate "View ads to get next notification" -->
+    <string name="watch_ad_to_enable_app">"Visualizar anúncio para ativar o aplicativo"</string> <!-- TODO validate "View ad to enable app" -->
+    <string name="popup_watch_more_ads_to_get_notification">"Veja mais anúncios para receber esta notificação"</string> <!-- TODO validate "Watch more ads to get this notification" -->
 
     <!-- ads notifications -->
-    <string name="notif_premium_ended">"Application disabled"</string> <!-- TODO translate -->
-    <string name="notif_premium_ended_description">"Watch ad to enable it again."</string> <!-- TODO translate -->
-    <string name="notif_stop_warn">"Next notification won't be played"</string> <!-- TODO translate -->
-    <string name="notif_stop_warn_description">"Watch ad to extend time for using the app"</string> <!-- TODO translate -->
+    <string name="notif_premium_ended">"Aplicativo desativado"</string> <!-- TODO validate "Application disabled" -->
+    <string name="notif_premium_ended_description">"Veja o anúncio para ativá-lo novamente."</string> <!-- TODO validate "Watch ad to enable it again." -->
+    <string name="notif_stop_warn">"A próxima notificação não será reproduzida"</string> <!-- TODO validate "Next notification won't be played" -->
+    <string name="notif_stop_warn_description">"Assista ao anúncio para prolongar o tempo de uso do aplicativo"</string> <!-- TODO validate "Watch ad to extend time for using the app" -->
 
     <!-- ads settings -->
-    <string name="ads_notifications">"Need of viewing ads"</string> <!-- TODO translate -->
-    <string name="ads_notifications_on">"You will get notifications about the need of viewing ads"</string> <!-- TODO translate -->
-    <string name="ads_notifications_off">"You won't get any notifications about the need of viewing ads"</string> <!-- TODO translate -->
-    <string name="ads_warn_app_disabled">"Application disabling"</string> <!-- TODO translate -->
-    <string name="ads_warn_app_disabled_on">"Notify when app is disabled because not enough ads were watched"</string> <!-- TODO translate -->
-    <string name="ads_warn_app_disabled_off">"Do not notify when app will be disabled because not enough ads were watched"</string> <!-- TODO translate -->
-    <string name="ads_warn_next_notification">"Next notification"</string> <!-- TODO translate -->
-    <string name="ads_warn_next_notification_on">"Notify when next notification won't be played because not enough ads were watched"</string> <!-- TODO translate -->
-    <string name="ads_warn_next_notification_off">"Do not notify when next notification won't be played because not enough ads were watched"</string> <!-- TODO translate -->
+    <string name="ads_notifications">"Necessidade de visualizar anúncios"</string> <!-- TODO validate "Need of viewing ads" -->
+    <string name="ads_notifications_on">"Você receberá notificações sobre a necessidade de visualizar anúncios"</string> <!-- TODO validate "You will get notifications about the need of viewing ads" -->
+    <string name="ads_notifications_off">"Você não receberá nenhuma notificação sobre a necessidade de visualizar anúncios"</string> <!-- TODO validate "You won't get any notifications about the need of viewing ads" -->
+    <string name="ads_warn_app_disabled">"Desativação de aplicativos"</string> <!-- TODO validate "Application disabling" -->
+    <string name="ads_warn_app_disabled_on">"Notificar quando o aplicativo está desativado porque não foram exibidos anúncios suficientes"</string> <!-- TODO validate "Notify when app is disabled because not enough ads were watched" -->
+    <string name="ads_warn_app_disabled_off">"Não notificar quando o aplicativo for desativado porque não foram exibidos anúncios suficientes"</string> <!-- TODO validate "Do not notify when app will be disabled because not enough ads were watched" -->
+    <string name="ads_warn_next_notification">"Próxima notificação"</string> <!-- TODO validate "Next notification" -->
+    <string name="ads_warn_next_notification_on">"Avisar quando a próxima notificação não for reproduzida porque não foram visualizados anúncios suficientes"</string> <!-- TODO validate "Notify when next notification won't be played because not enough ads were watched" -->
+    <string name="ads_warn_next_notification_off">"Não notificar quando a próxima notificação não for reproduzida porque não foram visualizados anúncios suficientes"</string> <!-- TODO validate "Do not notify when next notification won't be played because not enough ads were watched" -->
 
     <!-- Privacy settings -->
-    <string name="privacy">"Privacy"</string> <!-- TODO translate -->
-    <string name="ads">"Ads"</string> <!-- TODO translate -->
-    <string name="pref_personalized_ads">"Personalized ads"</string> <!-- TODO translate -->
-    <string name="pref_personalized_ads_on">"Ads will be personalized."</string> <!-- TODO translate -->
-    <string name="pref_personalized_ads_off">"Your data will not be used to personalize ads."</string> <!-- TODO translate -->
-    <string name="pref_analytics">"Analytics"</string> <!-- TODO translate -->
-    <string name="pref_collect_analytics">"Collect anonymous data"</string> <!-- TODO translate -->
-    <string name="pref_collect_analytics_on">"Collect anonymous, aggregated data to help improve the app."</string> <!-- TODO translate -->
-    <string name="pref_collect_analytics_off">"Do not collect any data."</string> <!-- TODO translate -->
-    <string name="pref_analytics_anonymize_ip">"Anonymize location"</string> <!-- TODO translate -->
-    <string name="pref_analytics_anonymize_ip_on">"Anonymize IP address sent to determine user location."</string> <!-- TODO translate -->
-    <string name="pref_analytics_anonymize_ip_off">"Use full IP address only for detemining user's general location (country, city)."</string> <!-- TODO translate -->
+    <string name="privacy">"Privacidade"</string> <!-- TODO validate "Privacy" -->
+    <string name="ads">"Publicidades"</string> <!-- TODO validate "Ads" -->
+    <string name="pref_personalized_ads">"Anúncios personalizados"</string> <!-- TODO validate "Personalized ads" -->
+    <string name="pref_personalized_ads_on">"Os anúncios serão personalizados."</string> <!-- TODO validate "Ads will be personalized." -->
+    <string name="pref_personalized_ads_off">"Seus dados não serão usados para personalizar anúncios."</string> <!-- TODO validate "Your data will not be used to personalize ads." -->
+    <string name="pref_analytics">"Analytics"</string> <!-- TODO validate "Analytics" -->
+    <string name="pref_collect_analytics">"Colete dados anônimos"</string> <!-- TODO validate "Collect anonymous data" -->
+    <string name="pref_collect_analytics_on">"Colete dados agregados e anônimos para ajudar a melhorar o aplicativo."</string> <!-- TODO validate "Collect anonymous, aggregated data to help improve the app." -->
+    <string name="pref_collect_analytics_off">"Não colete nenhum dado."</string> <!-- TODO validate "Do not collect any data." -->
+    <string name="pref_analytics_anonymize_ip">"Anonimizar localização"</string> <!-- TODO validate "Anonymize location" -->
+    <string name="pref_analytics_anonymize_ip_on">"Anonimiza o endereço IP enviado para determinar a localização do usuário."</string> <!-- TODO validate "Anonymize IP address sent to determine user location." -->
+    <string name="pref_analytics_anonymize_ip_off">"Use o endereço IP completo apenas para determinar a localização geral do usuário (país, cidade)."</string> <!-- TODO validate "Use full IP address only for detemining user's general location (country, city)." -->
 
     <!-- install BlipBlip free -->
-    <string name="dialog_free_premium_title">"Want Premium free?"</string> <!-- TODO translate -->
-    <string name="dialog_free_premium_description">"Watch ads in exchange for Premium features in %1$s app."</string> <!-- TODO translate -->
-    <string name="open_app">"Open app"</string> <!-- TODO translate -->
-    <string name="install_app">"Install app"</string> <!-- TODO translate -->
-    <string name="maybe_later">"Maybe later"</string> <!-- TODO translate -->
+    <string name="dialog_free_premium_title">"Deseja Premium grátis?"</string> <!-- TODO validate "Want Premium free?" -->
+    <string name="dialog_free_premium_description">"Veja anúncios em troca de recursos Premium no aplicativo %1$s ."</string> <!-- TODO validate "Watch ads in exchange for Premium features in %1$s app." -->
+    <string name="open_app">"App aberto"</string> <!-- TODO validate "Open app" -->
+    <string name="install_app">"Instalar aplicativo"</string> <!-- TODO validate "Install app" -->
+    <string name="maybe_later">"Talvez mais tarde"</string> <!-- TODO validate "Maybe later" -->
 
     <!-- tooltips -->
-    <string name="tooltip_play_next_button">"Playback next notification"</string> <!-- TODO translate -->
-    <string name="tooltip_upcoming_notifications">"See and playback upcoming notifications"</string> <!-- TODO translate -->
-    <string name="tooltip_upcoming_notification">"Press time to playback upcoming notifications"</string> <!-- TODO translate -->
+    <string name="tooltip_play_next_button">"Reprodução na próxima notificação"</string> <!-- TODO validate "Playback next notification" -->
+    <string name="tooltip_upcoming_notifications">"Veja e reproduza as próximas notificações"</string> <!-- TODO validate "See and playback upcoming notifications" -->
+    <string name="tooltip_upcoming_notification">"Pressione o tempo para reproduzir as próximas notificações"</string> <!-- TODO validate "Press time to playback upcoming notifications" -->
 
 </resources>

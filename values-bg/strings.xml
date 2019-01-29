@@ -15,7 +15,7 @@
     <string name="allow_while_idle_title">"Разрешаване при падаща батерия"</string>
     <string name="allow_while_idle_off">"Когато телефонът влезе в режим на падаща батерия, някои известия може да бъдат пропуснати."</string>
     <string name="allow_while_idle_on">"Разрешаване при падаща батерия (Doze/Idle). Може да не работи при известия по-чести от 15 минути. Настройката може леко да повлияе на използването на батерията."</string>
-    <string name="app_killed_title">"App was killed"</string> <!-- TODO translate -->
+    <string name="app_killed_title">"App беше убит"</string> <!-- TODO validate "App was killed" -->
 
     <!-- Next Notification -->
     <string name="next_notification_off">"Изкл."</string>
@@ -29,14 +29,14 @@
     <string name="day_friday">"Петък"</string>
     <string name="day_saturday">"Събота"</string>
     <string name="day_sunday">"Неделя"</string>
-    <string name="preview_upcoming_notifications">"Preview upcoming notifications"</string> <!-- TODO translate -->
-    <string name="disable_premium_notifications">"Disable Premium notifications"</string> <!-- TODO translate -->
+    <string name="preview_upcoming_notifications">"Визуализация на предстоящите известия"</string> <!-- TODO validate "Preview upcoming notifications" -->
+    <string name="disable_premium_notifications">"Деактивирайте известията за премиум"</string> <!-- TODO validate "Disable Premium notifications" -->
 
     <!-- Sound -->
     <string name="sound_text">"Мелодия"</string>
     <string name="sound_blipblip">"BlipBlip"</string> <!-- translated -->
     <string name="sound_casio_watch">"Casio"</string>
-    <string name="sound_casio_watch_single">"Casio watch (single)"</string> <!-- TODO translate -->
+    <string name="sound_casio_watch_single">"Часовник Casio (единичен)"</string> <!-- TODO validate "Casio watch (single)" -->
     <string name="sound_gong">"Гонг"</string>
     <string name="sound_ships_bell">"Корабна камбана"</string>
     <string name="sound_double_ships_bell">"Двойна корабна камбана"</string>
@@ -46,26 +46,26 @@
     <string name="sound_big_ben_strikes">"Биг Бен кръгъл час"</string>
     <string name="sound_bubble">"Мехурче"</string>
     <string name="sound_bird">"Птица %1$s"</string>
-    <string name="sound_cartoon">"Cartoon %1$s"</string> <!-- TODO translate -->
+    <string name="sound_cartoon">"Карикатура %1$s"</string> <!-- TODO validate "Cartoon %1$s" -->
     <string name="sound_cat">"Котка %1$s"</string>
     <string name="sound_dog">"Куче %1$s"</string>
     <string name="sound_rooster">"Петел"</string>
-    <string name="sound_guitar_strum">"Guitar strum %1$s"</string> <!-- TODO translate -->
-    <string name="sound_water_drop">"Water drop %1$s"</string> <!-- TODO translate -->
-    <string name="sound_water_pouring">"Water pouring %1$s"</string> <!-- TODO translate -->
-    <string name="sound_sonar_ping">"Sonar ping %1$s"</string> <!-- TODO translate -->
-    <string name="sound_inception">"Inception %1$s"</string> <!-- TODO translate -->
-    <string name="sound_the_pips">"The pips"</string> <!-- TODO translate -->
-    <string name="sound_short_pip">"Short pip"</string> <!-- TODO translate -->
-    <string name="sound_long_pip">"Long pip"</string> <!-- TODO translate -->
-    <string name="sound_crystal_glass">"Crystal glass"</string> <!-- TODO translate -->
-    <string name="sound_ping">"Ping"</string> <!-- TODO translate -->
-    <string name="sound_gong_num">"Gong %1$s"</string> <!-- TODO translate -->
-    <string name="sound_boxing_bell">"Boxing bell"</string> <!-- TODO translate -->
-    <string name="sound_singing_bowl">"Singing bowl %1$s"</string> <!-- TODO translate -->
-    <string name="sound_ekg">"Heart monitor %1$s"</string> <!-- TODO translate -->
-    <string name="sound_got_item">"Got item"</string> <!-- TODO translate -->
-    <string name="sound_guitar">"Guitar"</string> <!-- TODO translate -->
+    <string name="sound_guitar_strum">"Изтриване на китара %1$s"</string> <!-- TODO validate "Guitar strum %1$s" -->
+    <string name="sound_water_drop">"Капка вода %1$s"</string> <!-- TODO validate "Water drop %1$s" -->
+    <string name="sound_water_pouring">"Изливаща се вода %1$s"</string> <!-- TODO validate "Water pouring %1$s" -->
+    <string name="sound_sonar_ping">"Ping сонар %1$s"</string> <!-- TODO validate "Sonar ping %1$s" -->
+    <string name="sound_inception">"Начално %1$s"</string> <!-- TODO validate "Inception %1$s" -->
+    <string name="sound_the_pips">"Пипсите"</string> <!-- TODO validate "The pips" -->
+    <string name="sound_short_pip">"Кратък пип"</string> <!-- TODO validate "Short pip" -->
+    <string name="sound_long_pip">"Дълъг пип"</string> <!-- TODO validate "Long pip" -->
+    <string name="sound_crystal_glass">"Кристално стъкло"</string> <!-- TODO validate "Crystal glass" -->
+    <string name="sound_ping">"Ping"</string> <!-- TODO validate "Ping" -->
+    <string name="sound_gong_num">"Гонг %1$s"</string> <!-- TODO validate "Gong %1$s" -->
+    <string name="sound_boxing_bell">"Боксер"</string> <!-- TODO validate "Boxing bell" -->
+    <string name="sound_singing_bowl">"Пееща купа %1$s"</string> <!-- TODO validate "Singing bowl %1$s" -->
+    <string name="sound_ekg">"Сърдечен монитор %1$s"</string> <!-- TODO validate "Heart monitor %1$s" -->
+    <string name="sound_got_item">"Получихте елемент"</string> <!-- TODO validate "Got item" -->
+    <string name="sound_guitar">"китара"</string> <!-- TODO validate "Guitar" -->
 
     <!-- Volume -->
     <string name="text_seek_volume">"Сила на звука"</string>
@@ -153,9 +153,9 @@
     <string name="pref_choose_audio_stream">"Вид звуково известяване"</string>
     <string name="audio_stream_phone_ring">"Телефонно позвъняване"</string>
     <string name="audio_stream_alarm">"Аларма"</string>
-    <string name="audio_stream_alarm2">"Alarm clock"</string> <!-- TODO translate -->
+    <string name="audio_stream_alarm2">"Будилник"</string> <!-- TODO validate "Alarm clock" -->
     <string name="audio_stream_media">"Медия"</string>
-    <string name="audio_stream_media2">"Music, Videos, Games"</string> <!-- TODO translate -->
+    <string name="audio_stream_media2">"Музика, видеоклипове, игри"</string> <!-- TODO validate "Music, Videos, Games" -->
     <string name="audio_stream_notification">"Известие"</string>
 
     <!-- Notifications -->
@@ -167,7 +167,7 @@
     <string name="pref_notification_always_on">"Показвай известие без значение дали е разрешено"</string>
     <string name="pref_notification_always_off">"Показвай известие само ако е разрешено"</string>
     <string name="notification_settings_updated">"Обновени са настройки на известието"</string> <!-- message displayed when one of notification settings is updated without user interacting with these options -->
-    <string name="permanent_notification">"Permanent notification"</string> <!-- TODO translate -->
+    <string name="permanent_notification">"Постоянна нотификация"</string> <!-- TODO validate "Permanent notification" -->
 
     <!-- Notification Priority -->
     <string name="pref_notification_priority">"Предимство на известието"</string>
@@ -180,9 +180,9 @@
     <!-- Dismissible Notification -->
 
     <!-- Auto dismiss -->
-    <string name="auto_dismiss_notification_title">"Auto dismiss notification"</string> <!-- TODO translate -->
-    <string name="auto_dismiss_notification_on">"Dismiss notification automatically after some time."</string> <!-- TODO translate -->
-    <string name="auto_dismiss_notification_off">"Notification will not be dismissed automatically."</string> <!-- TODO translate -->
+    <string name="auto_dismiss_notification_title">"Уведомление за автоматично отхвърляне"</string> <!-- TODO validate "Auto dismiss notification" -->
+    <string name="auto_dismiss_notification_on">"Отхвърля известието автоматично след известно време."</string> <!-- TODO validate "Dismiss notification automatically after some time." -->
+    <string name="auto_dismiss_notification_off">"Уведомлението няма да бъде отхвърлено автоматично."</string> <!-- TODO validate "Notification will not be dismissed automatically." -->
 
     <!-- Vibrate on Wear -->
     <string name="pref_vibrate_wearable_title">"Вибриране на свързано устройство"</string>
@@ -248,7 +248,7 @@
     <string name="pref_experimental">"Тестови настройки"</string>
     <string name="experimental_warning">"Това са пробни настройки и може да бъдат премахнати в бъдеще."</string>
     <string name="title_experimental_settings">"Тестови настройки"</string>
-    <string name="huawei_fix">"Huawei fix"</string> <!-- TODO translate -->
+    <string name="huawei_fix">"Huawei поправя"</string> <!-- TODO validate "Huawei fix" -->
 
     <!-- Menu - Share -->
     <string name="action_share">"Споделяне на приложението"</string>
@@ -262,9 +262,9 @@
     <string name="rate_us_message">"Благодарим Ви за отделеното време."</string>
     <string name="rate_us_onetofourstars">"от 1 до 4 звезди"</string>
     <string name="rate_us_fivestars">"5 звезди!"</string>
-    <string name="five_stars_description">"Five stars"</string> <!-- TODO translate -->
-    <string name="five_stars_title">"Love BlipBlip?"</string> <!-- TODO translate -->
-    <string name="five_stars_text">"Rate us 5 stars to help make BlipBlip even more awesome. Thanks!"</string> <!-- TODO translate -->
+    <string name="five_stars_description">"Пет звезди"</string> <!-- TODO validate "Five stars" -->
+    <string name="five_stars_title">"Любовта BlipBlip?"</string> <!-- TODO validate "Love BlipBlip?" -->
+    <string name="five_stars_text">"Оценете ни 5 звезди, за да направите BlipBlip още по-страхотно. Благодаря!"</string> <!-- TODO validate "Rate us 5 stars to help make BlipBlip even more awesome. Thanks!" -->
 
     <!-- Menu - Error -->
     <string name="action_send_logs">"Докладване на нередност"</string>
@@ -284,10 +284,10 @@
     <string name="about_graphics">"Дизайн"</string>
     <string name="about_translations">"Преводи"</string>
     <string name="about_thank_you">"Благодаря"</string>
-    <string name="about_images">"Images"</string> <!-- TODO translate -->
+    <string name="about_images">"Снимки"</string> <!-- TODO validate "Images" -->
     <string name="about_libraries">"Библиотеки"</string> <!-- title of screen showing licenses of programming libraries used by the app -->
     <string name="about_acknowledgements">"Благодарности"</string> <!-- name of screen with authors, translators and other people who have helped -->
-    <string name="about_translators_thank_you">"BlipBlip is translated by our users voluntarily and hereby we thank you for your support and contribution."</string> <!-- TODO translate -->
+    <string name="about_translators_thank_you">"BlipBlip се превежда доброволно от нашите потребители и с това Ви благодарим за вашата подкрепа и принос."</string> <!-- TODO validate "BlipBlip is translated by our users voluntarily and hereby we thank you for your support and contribution." -->
 
     <!-- Visual -->
     <string name="pref_visual">"Графични настройки"</string>
@@ -359,8 +359,8 @@
     <string name="theme_blue_gray">"Синьо-сива"</string>
     <string name="theme_orange">"Оранжева"</string>
     <string name="theme_indigo">"Индиго"</string>
-    <string name="theme_cyan">"Cyan"</string> <!-- TODO translate -->
-    <string name="theme_teal">"Teal"</string> <!-- TODO translate -->
+    <string name="theme_cyan">"Циан"</string> <!-- TODO validate "Cyan" -->
+    <string name="theme_teal">"примкар"</string> <!-- TODO validate "Teal" -->
 
     <string name="pref_color_theme">"Тема"</string>
     <string name="cycle_themes_message">"Превключвайте темите чрез копчетата за звука."</string>
@@ -370,11 +370,11 @@
     <string name="color_next_notification_bar">"Оцветяване на полето на следващото известие"</string>
     <string name="color_next_notification_bar_on">"Използвай цветен фон за следващото известие."</string>
     <string name="color_next_notification_bar_off">"Използвай сив фон за следващото известие."</string>
-    <string name="night_mode">"Night mode"</string> <!-- TODO translate -->
-    <string name="night_mode_on">"Enabled"</string> <!-- TODO translate -->
-    <string name="night_mode_off">"Disabled"</string> <!-- TODO translate -->
-    <string name="night_mode_auto">"Auto"</string> <!-- TODO translate -->
-    <string name="night_mode_system">"System setting"</string> <!-- TODO translate -->
+    <string name="night_mode">"Нощен режим"</string> <!-- TODO validate "Night mode" -->
+    <string name="night_mode_on">"Enabled"</string> <!-- TODO validate "Enabled" -->
+    <string name="night_mode_off">"хора с увреждания"</string> <!-- TODO validate "Disabled" -->
+    <string name="night_mode_auto">"Автоматичен"</string> <!-- TODO validate "Auto" -->
+    <string name="night_mode_system">"Настройка на системата"</string> <!-- TODO validate "System setting" -->
 
     <string name="title_activity_sounds">"Звуци"</string>
     <string name="title_activity_sound">"Мелодия"</string>
@@ -391,20 +391,20 @@
     <string name="edit">"Редактирай"</string> <!-- Name of action to edit list of sounds or list of vibrations, should be short -->
     <string name="editing">"Редактиране"</string> <!-- Displayed in edit mode -->
     <string name="error_file_open_failed">"Неуспешно отваряне на файла."</string>
-    <string name="error_file_open_no_permission">"No permission to open the file."</string> <!-- TODO translate -->
-    <string name="error_file_open_failed_no_permission_title">"Grant permission manually"</string> <!-- TODO translate -->
-    <string name="error_file_open_failed_no_permission">"No permission to open the file. Please open Settings and give permission to access storage."</string> <!-- TODO translate -->
-    <string name="error_file_open_failed_settings">"Open Settings"</string> <!-- TODO translate -->
+    <string name="error_file_open_no_permission">"Няма разрешение за отваряне на файла."</string> <!-- TODO validate "No permission to open the file." -->
+    <string name="error_file_open_failed_no_permission_title">"Дайте разрешение ръчно"</string> <!-- TODO validate "Grant permission manually" -->
+    <string name="error_file_open_failed_no_permission">"Няма разрешение за отваряне на файла. Моля, отворете „Настройки“ и дайте разрешение за достъп до хранилището."</string> <!-- TODO validate "No permission to open the file. Please open Settings and give permission to access storage." -->
+    <string name="error_file_open_failed_settings">"Отворете Настройки"</string> <!-- TODO validate "Open Settings" -->
     <string name="play_vibration">"Вибрирай"</string> <!-- description of action of a button to perform vibration -->
     <string name="play_sound">"Изпълни звука"</string> <!-- description of action of a button to play sound -->
-    <string name="drag_handle">"Handle for dragging"</string> <!-- TODO translate -->
+    <string name="drag_handle">"Дръжка за влачене"</string> <!-- TODO validate "Handle for dragging" -->
     <string name="select_audio_file">"Избор на звуков файл"</string>
     <string name="add_sound_to_blipblip">"Добави в BlipBlip"</string>
     <string name="permission_denied">"Отказан достъп"</string>
     <string name="permission_denied_message_no_addon">"BlipBlip няма права за четене на този файл."</string>
     <string name="permission_denied_message_no_addon_part2">"Моля, използвайте друго приложение, което споделя файлове без нужда от допълнителни права (напр. Гугъл Диск)."</string>
-    <string name="permission_denied_rationale_title">"Permission needed"</string> <!-- TODO translate -->
-    <string name="permission_denied_rationale">"Application does not have permission to read the file. Please grant the app permission to access the file. You can also share the file using other app which does not need using this permission."</string> <!-- TODO translate -->
+    <string name="permission_denied_rationale_title">"Необходимо е разрешение"</string> <!-- TODO validate "Permission needed" -->
+    <string name="permission_denied_rationale">"Приложението няма разрешение да чете файла. Моля, дайте разрешение на приложението за достъп до файла. Можете също да споделите файла с друго приложение, което не се нуждае от това разрешение."</string> <!-- TODO validate "Application does not have permission to read the file. Please grant the app permission to access the file. You can also share the file using other app which does not need using this permission." -->
 
     <!-- Menu drawer strings -->
 
@@ -412,7 +412,7 @@
     <string name="start_time">"Начален час"</string>
     <string name="end_time">"Краен час"</string>
     <string name="whole_day">"Целия ден"</string>
-    <string name="enable_screen">"Enable screen"</string> <!-- TODO translate -->
+    <string name="enable_screen">"Разреши екран"</string> <!-- TODO validate "Enable screen" -->
     <string name="action_rename">"Преименувай"</string>
     <string name="pref_accessibility">"Достъпност"</string>
     <string name="pref_swipe">"Замахване"</string>
@@ -446,7 +446,7 @@
     <string name="disable_when_headset_off">"Всички известия са включени"</string>
     <string name="disable_when_headset_toast">"Известията от BlipBlip са изключени, понеже сте свързали слушалки."</string>
 
-    <string name="add">"Add"</string> <!-- TODO translate -->
+    <string name="add">"Добави"</string> <!-- TODO validate "Add" -->
     <string name="add_item">"Добавяне"</string>
     <string name="action_add_condition">"Добавяне на условие"</string>
     <string name="dialog_title_days_of_week">"Дни от седмицата"</string>
@@ -468,7 +468,7 @@
     <string name="no_valid_condition_added">"Не бяха описани действителни условия"</string>
     <string name="no_upcoming_notifications">"Няма предстоящи известия"</string>
     <string name="error_indicator">"Показател за грешка"</string>
-    <string name="next_notification_app_off">"Off (app disabled)"</string> <!-- TODO translate -->
+    <string name="next_notification_app_off">"Изключено (приложението е деактивирано)"</string> <!-- TODO validate "Off (app disabled)" -->
     <string name="next_day">"на следващия ден"</string> <!-- Used in: "22:00 - 6:00 next day" -->
     <string name="notifications">"Известия"</string>
     <string name="warning_no_email_app">"Не бе открито приложение за пращане на ел. писмо с доклада."</string>
@@ -514,7 +514,7 @@
     <string name="inclusive_time">"включително"</string> <!-- used in the time range dialog to determine if edge value should be included -->
 
     <string name="pref_user_notifications">"Потребителски известия"</string>
-    <string name="user_notification">"User notification"</string> <!-- TODO translate -->
+    <string name="user_notification">"Уведомление на потребителя"</string> <!-- TODO validate "User notification" -->
 
     <string name="action_set_as_home_screens">"Задай като начален екран"</string>
 
@@ -525,7 +525,7 @@
     <string name="mode_vibration_title">"Разрешаване на вибрации"</string>
     <string name="mode_vibration_on">"Вибрациите са разрешени в този режим"</string>
     <string name="mode_vibration_off">"Вибрациите са забранени в този режим"</string>
-    <string name="mode_screen_title">"Enabling screen allowed"</string> <!-- TODO translate -->
+    <string name="mode_screen_title">"Разрешеният екран е разрешен"</string> <!-- TODO validate "Enabling screen allowed" -->
     <string name="mode_screen_on">"Screen is allowed to be enabled в този режим"</string>
     <string name="mode_screen_off">"Screen will not be enabled в този режим"</string>
     <string name="battery_saver_preferences_warning">"Тези функци може да не работят на всички устройства."</string>
@@ -556,20 +556,20 @@
     <string name="action_say_time">"Изречи време"</string>
     <string name="feature_say_text">"Изречи текст"</string>
     <string name="feature_say_time">"Изречи време"</string>
-    <string name="pref_text_to_speech_engine">"Engine"</string> <!-- TODO translate -->
-    <string name="pref_text_to_speech_voice">"Voice"</string> <!-- TODO translate -->
+    <string name="pref_text_to_speech_engine">"двигател"</string> <!-- TODO validate "Engine" -->
+    <string name="pref_text_to_speech_voice">"глас"</string> <!-- TODO validate "Voice" -->
     <string name="pref_text_to_speech">"Текст за произнасяне"</string>
-    <string name="system_default_audio_stream">"System default"</string> <!-- TODO translate -->
+    <string name="system_default_audio_stream">"Система по подразбиране"</string> <!-- TODO validate "System default" -->
     <string name="application_default">"По подразбиране"</string>
     <string name="speak_time_format_with_minutes">"Прочети часа с минутите"</string>
     <string name="speak_time_on_the_hour">"Произнасяне на кръглия час"</string>
     <string name="tts_not_initialized">"TTS engine not yet initialized"</string>
-    <string name="tts_test_say_time_title">"Test saying time"</string> <!-- TODO translate -->
-    <string name="tts_system_settings_title">"System settings"</string> <!-- TODO translate -->
-    <string name="tts_system_settings_summary">"Open system text-to-speech settings"</string> <!-- TODO translate -->
-    <string name="pref_tts_overlaps_sounds">"Voice and sound overlap"</string> <!-- TODO translate -->
-    <string name="pref_tts_overlaps_sounds_on">"Speaking will overlap sounds"</string> <!-- TODO translate -->
-    <string name="pref_tts_overlaps_sounds_off">"Speaking will not overlap sounds (sound will play before or after voice)"</string> <!-- TODO translate -->
+    <string name="tts_test_say_time_title">"Време за тестване"</string> <!-- TODO validate "Test saying time" -->
+    <string name="tts_system_settings_title">"Системни настройки"</string> <!-- TODO validate "System settings" -->
+    <string name="tts_system_settings_summary">"Отворете настройките за текст в реч"</string> <!-- TODO validate "Open system text-to-speech settings" -->
+    <string name="pref_tts_overlaps_sounds">"Гласът и звукът се припокриват"</string> <!-- TODO validate "Voice and sound overlap" -->
+    <string name="pref_tts_overlaps_sounds_on">"Говоренето ще припокрива звуците"</string> <!-- TODO validate "Speaking will overlap sounds" -->
+    <string name="pref_tts_overlaps_sounds_off">"Говоренето няма да се припокрива със звуци (звукът ще се възпроизвежда преди или след глас)"</string> <!-- TODO validate "Speaking will not overlap sounds (sound will play before or after voice)" -->
 
     <string name="operating_modes_settings">"Режими на действие"</string> <!-- name of menu with different mode settings e.g. Do Not Disturb, vibrate mode -->
     <string name="operating_modes_settings_summary">"Не безпокой, Само вибрация и т.н."</string>
@@ -594,145 +594,145 @@
     <string name="premium_sound_lock">"Това е платен звук, който изисква отключване, преди да бъде използван."</string>
     <string name="premium_feature_lock">"Това е допълнителна платена възможност, която изисква отключване преди употреба."</string>
     <string name="change_subscription">"Смяна на абонамента"</string>
-    <string name="upgrade_to_pro">"Upgrade"</string> <!-- TODO translate -->
-    <string name="loading_failed">"Error"</string> <!-- TODO translate -->
-    <string name="month_very_short">"month"</string> <!-- TODO translate -->
-    <string name="discount_save_money">"Save"</string> <!-- TODO translate --> <!-- percent saved will be displayed below this text -->
-    <string name="premium_settings">"Upgrade to Premium to unlock all settings"</string> <!-- TODO translate -->
-    <string name="buy_premium">"Buy Premium"</string> <!-- TODO translate -->
-    <string name="already_bought">"Already bought"</string> <!-- TODO translate -->
-    <string name="get_all_features">"Get all features"</string> <!-- TODO translate -->
-    <string name="get_all_sounds">"Get all sounds"</string> <!-- TODO translate -->
-    <string name="premium_what_you_get">"What you will get:"</string> <!-- TODO translate -->
-    <string name="feature1">"Unlimited active notifications"</string> <!-- TODO translate -->
-    <string name="feature2">"Strike the hours"</string> <!-- TODO translate -->
-    <string name="feature3">"Custom repeat interval"</string> <!-- TODO translate -->
-    <string name="feature4">"Say text or time"</string> <!-- TODO translate -->
-    <string name="feature5">"Add your own sounds"</string> <!-- TODO translate -->
-    <string name="feature6">"Priority support"</string> <!-- TODO translate -->
-    <string name="feature7">"Night mode (dark theme)"</string> <!-- TODO translate -->
-    <string name="feature_all_sounds">"All sounds in the app"</string> <!-- TODO translate -->
-    <string name="yearly_payment">"Yearly payment."</string> <!-- TODO translate -->
-    <string name="free_trial">"Free trial."</string> <!-- TODO translate -->
-    <string name="cancel_anytime">"Cancel anytime."</string> <!-- TODO translate -->
-    <string name="premium_helps_support">"By upgrading BlipBlip you not only get all features or sounds but you also support its continuous and independent development."</string> <!-- TODO translate -->
-    <string name="loading">"Loading…"</string> <!-- TODO translate -->
-    <string name="notification_has_premium_features">"This notification uses Premium features"</string> <!-- TODO translate -->
+    <string name="upgrade_to_pro">"Подобряване на"</string> <!-- TODO validate "Upgrade" -->
+    <string name="loading_failed">"грешка"</string> <!-- TODO validate "Error" -->
+    <string name="month_very_short">"месец"</string> <!-- TODO validate "month" -->
+    <string name="discount_save_money">"Запази"</string> <!-- TODO validate "Save" --> <!-- percent saved will be displayed below this text -->
+    <string name="premium_settings">"Надстройте до Premium, за да отключите всички настройки"</string> <!-- TODO validate "Upgrade to Premium to unlock all settings" -->
+    <string name="buy_premium">"Купете Premium"</string> <!-- TODO validate "Buy Premium" -->
+    <string name="already_bought">"Вече си купих"</string> <!-- TODO validate "Already bought" -->
+    <string name="get_all_features">"Вземи всички функции"</string> <!-- TODO validate "Get all features" -->
+    <string name="get_all_sounds">"Вземи всички звуци"</string> <!-- TODO validate "Get all sounds" -->
+    <string name="premium_what_you_get">"Какво ще получите:"</string> <!-- TODO validate "What you will get:" -->
+    <string name="feature1">"Неограничени активни известия"</string> <!-- TODO validate "Unlimited active notifications" -->
+    <string name="feature2">"Удари часовете"</string> <!-- TODO validate "Strike the hours" -->
+    <string name="feature3">"Потребителски интервал за повтаряне"</string> <!-- TODO validate "Custom repeat interval" -->
+    <string name="feature4">"Кажете текст или време"</string> <!-- TODO validate "Say text or time" -->
+    <string name="feature5">"Добавете свои собствени звуци"</string> <!-- TODO validate "Add your own sounds" -->
+    <string name="feature6">"Приоритетна подкрепа"</string> <!-- TODO validate "Priority support" -->
+    <string name="feature7">"Нощен режим (тъмна тема)"</string> <!-- TODO validate "Night mode (dark theme)" -->
+    <string name="feature_all_sounds">"Всички звуци в приложението"</string> <!-- TODO validate "All sounds in the app" -->
+    <string name="yearly_payment">"Годишно плащане."</string> <!-- TODO validate "Yearly payment." -->
+    <string name="free_trial">"Безплатен пробен период."</string> <!-- TODO validate "Free trial." -->
+    <string name="cancel_anytime">"Отказ по всяко време."</string> <!-- TODO validate "Cancel anytime." -->
+    <string name="premium_helps_support">"Чрез обновяване на BlipBlip вие получавате не само всички функции или звуци, но и поддържате непрекъснатото и независимо развитие."</string> <!-- TODO validate "By upgrading BlipBlip you not only get all features or sounds but you also support its continuous and independent development." -->
+    <string name="loading">"Зареждане…"</string> <!-- TODO validate "Loading…" -->
+    <string name="notification_has_premium_features">"Това уведомление използва функции на Premium"</string> <!-- TODO validate "This notification uses Premium features" -->
 
     <!-- Premium Bar -->
-    <string name="bar_upgrade_to_enable_app">"Upgrade to Premium"</string> <!-- TODO translate -->
-    <string name="bar_upgrade_to_enable_notification">"Upgrade to Premium"</string> <!-- TODO translate -->
-    <string name="bar_upgrade">"Buy now"</string> <!-- TODO translate -->
-    <string name="bar_uses_premium_features">"Notification uses Premium features"</string> <!-- TODO translate -->
+    <string name="bar_upgrade_to_enable_app">"Надстройте до Premium"</string> <!-- TODO validate "Upgrade to Premium" -->
+    <string name="bar_upgrade_to_enable_notification">"Надстройте до Premium"</string> <!-- TODO validate "Upgrade to Premium" -->
+    <string name="bar_upgrade">"Купи сега"</string> <!-- TODO validate "Buy now" -->
+    <string name="bar_uses_premium_features">"Уведомлението използва функции на Premium"</string> <!-- TODO validate "Notification uses Premium features" -->
 
     <!-- Premium dialog -->
-    <string name="premium_dialog_title">"Premium"</string> <!-- TODO translate -->
-    <string name="premium_dialog_upgrade_now">"Buy now"</string> <!-- TODO translate -->
-    <string name="premium_dialog_later">"Later"</string> <!-- TODO translate -->
-    <string name="premium_icon_description">"Premium star icon"</string> <!-- TODO translate -->
-    <string name="feature_user_sounds_title">"User added sounds is a Premium feature"</string> <!-- TODO translate -->
-    <string name="feature_user_sounds_description">"Make BlipBlip app yours by adding your own sounds."</string> <!-- TODO translate -->
-    <string name="feature_premium_sounds_title">"All sounds available in the app is a Premium feature"</string> <!-- TODO translate -->
-    <string name="feature_premium_sounds_description">"Customize your notification with many built-in sounds."</string> <!-- TODO translate -->
-    <string name="feature_strike_the_hour_title">"Strike the hours is a Premium feature"</string> <!-- TODO translate -->
-    <string name="feature_strike_the_hour_description">"Create your own grandfather clock (e.g. plays 3 times at three o'clock)"</string> <!-- TODO translate -->
-    <string name="feature_say_text_title">"Saying text is a Premium feature"</string> <!-- TODO translate -->
-    <string name="feature_say_text_description">"Use text-to-speech in your notifications."</string> <!-- TODO translate -->
-    <string name="feature_say_time_title">"Saying time is a Premium feature"</string> <!-- TODO translate -->
-    <string name="feature_say_time_description">"Speak current time using text to speech."</string> <!-- TODO translate -->
-    <string name="feature_custom_repeat_interval_title">"Custom repeat interval is a Premium feature"</string> <!-- TODO translate -->
-    <string name="feature_custom_repeat_interval_description">"Set any time interval (other than standard 1, 5, 10, 15, 20, 30 and 60 minutes)."</string> <!-- TODO translate -->
-    <string name="feature_general_title">"Notification uses Premium functions"</string> <!-- TODO translate -->
-    <string name="feature_general_description">"Upgrade to enable notification and enjoy all Premium features."</string> <!-- TODO translate -->
-    <string name="feature_multiple_active_notifications_title">"Unlimited active notifications is a Premium feature"</string> <!-- TODO translate -->
-    <string name="feature_multiple_active_notifications_description">"Use many notifications with different settings at the same time (e.g. play twice at 12:00, play once at 12:30). In free version you can have one active notification."</string> <!-- TODO translate -->
-    <string name="feature_unlimited_silent_time_title">"Unlimited silent time configurations is a Premium feature"</string> <!-- TODO translate -->
-    <string name="feature_unlimited_silent_time_description">"In free version you can activate 5 silent time configurations."</string> <!-- TODO translate -->
+    <string name="premium_dialog_title">"Premium"</string> <!-- TODO validate "Premium" -->
+    <string name="premium_dialog_upgrade_now">"Купи сега"</string> <!-- TODO validate "Buy now" -->
+    <string name="premium_dialog_later">"По късно"</string> <!-- TODO validate "Later" -->
+    <string name="premium_icon_description">"Икона със звезда за премия"</string> <!-- TODO validate "Premium star icon" -->
+    <string name="feature_user_sounds_title">"Добавените от потребителя звуци са функция Premium"</string> <!-- TODO validate "User added sounds is a Premium feature" -->
+    <string name="feature_user_sounds_description">"Направете BlipBlip приложение твое, като добавите свои собствени звуци."</string> <!-- TODO validate "Make BlipBlip app yours by adding your own sounds." -->
+    <string name="feature_premium_sounds_title">"Всички звуци, налични в приложението, са функция Premium"</string> <!-- TODO validate "All sounds available in the app is a Premium feature" -->
+    <string name="feature_premium_sounds_description">"Персонализирайте известието си с много вградени звуци."</string> <!-- TODO validate "Customize your notification with many built-in sounds." -->
+    <string name="feature_strike_the_hour_title">"Удари часовете е функция Premium"</string> <!-- TODO validate "Strike the hours is a Premium feature" -->
+    <string name="feature_strike_the_hour_description">"Създайте свой собствен часовник за дядо (напр. Три пъти в три часа)"</string> <!-- TODO validate "Create your own grandfather clock (e.g. plays 3 times at three o'clock)" -->
+    <string name="feature_say_text_title">"Изказването на текст е функция Premium"</string> <!-- TODO validate "Saying text is a Premium feature" -->
+    <string name="feature_say_text_description">"Използвайте текст в реч в известията си."</string> <!-- TODO validate "Use text-to-speech in your notifications." -->
+    <string name="feature_say_time_title">"Времето за изразяване е функция Premium"</string> <!-- TODO validate "Saying time is a Premium feature" -->
+    <string name="feature_say_time_description">"Говори сегашното време, като използваш текст в реч."</string> <!-- TODO validate "Speak current time using text to speech." -->
+    <string name="feature_custom_repeat_interval_title">"Индивидуалният интервал за повтаряне е функция Premium"</string> <!-- TODO validate "Custom repeat interval is a Premium feature" -->
+    <string name="feature_custom_repeat_interval_description">"Задайте всеки интервал от време (различен от стандартните 1, 5, 10, 15, 20, 30 и 60 минути)."</string> <!-- TODO validate "Set any time interval (other than standard 1, 5, 10, 15, 20, 30 and 60 minutes)." -->
+    <string name="feature_general_title">"Известяването използва функции Premium"</string> <!-- TODO validate "Notification uses Premium functions" -->
+    <string name="feature_general_description">"Надстройка, за да активирате известяването и да се насладите на всички функции на Premium."</string> <!-- TODO validate "Upgrade to enable notification and enjoy all Premium features." -->
+    <string name="feature_multiple_active_notifications_title">"Неограничени активни известия е функция Premium"</string> <!-- TODO validate "Unlimited active notifications is a Premium feature" -->
+    <string name="feature_multiple_active_notifications_description">"Използвайте много съобщения с различни настройки едновременно (напр. Играйте два пъти в 12:00, играйте веднъж в 12:30). В безплатната версия можете да имате едно активно уведомление."</string> <!-- TODO validate "Use many notifications with different settings at the same time (e.g. play twice at 12:00, play once at 12:30). In free version you can have one active notification." -->
+    <string name="feature_unlimited_silent_time_title">"Неограничените конфигурации за безшумно време са функция Premium"</string> <!-- TODO validate "Unlimited silent time configurations is a Premium feature" -->
+    <string name="feature_unlimited_silent_time_description">"В безплатната версия можете да активирате 5 безшумни конфигурации."</string> <!-- TODO validate "In free version you can activate 5 silent time configurations." -->
 
     <string name="vibrate_seconds">"Вибрирай %sсек."</string> <!-- s at the end is for seconds, %s will be replaced by value e.g. "Vibrate 1.2s" -->
     <string name="wait_and_vibrate_seconds">"Изчакай %1$sсек., вибрирай %2$sсек."</string> <!-- s at the end is for seconds, "%1$s" and "%2$s" will be replaced by value e.g. "Vibrate 1.2s" -->
 
     <!-- button descriptions -->
-    <string name="add_new_sound">"Add new sound from external app"</string> <!-- TODO translate -->
-    <string name="create_new_vibration">"Create new vibration"</string> <!-- TODO translate -->
-    <string name="create_new_notification">"Create new notification"</string> <!-- TODO translate -->
-    <string name="create_new_silent_time">"Create new silent time"</string> <!-- TODO translate -->
-    <string name="additional_info_button">"Additional information"</string> <!-- TODO translate -->
-    <string name="start_playing">"Start playing"</string> <!-- TODO translate -->
-    <string name="stop_playing">"Stop playing"</string> <!-- TODO translate -->
-    <string name="edit_mode">"Edit mode"</string> <!-- TODO translate -->
+    <string name="add_new_sound">"Добавете нов звук от външно приложение"</string> <!-- TODO validate "Add new sound from external app" -->
+    <string name="create_new_vibration">"Създайте нова вибрация"</string> <!-- TODO validate "Create new vibration" -->
+    <string name="create_new_notification">"Създайте ново известие"</string> <!-- TODO validate "Create new notification" -->
+    <string name="create_new_silent_time">"Създайте ново тихо време"</string> <!-- TODO validate "Create new silent time" -->
+    <string name="additional_info_button">"Допълнителна информация"</string> <!-- TODO validate "Additional information" -->
+    <string name="start_playing">"Започнете да играете"</string> <!-- TODO validate "Start playing" -->
+    <string name="stop_playing">"Спри да играеш"</string> <!-- TODO validate "Stop playing" -->
+    <string name="edit_mode">"Режим на редактиране"</string> <!-- TODO validate "Edit mode" -->
 
     <!-- widget -->
-    <string name="app_enabled">"App enabled"</string> <!-- TODO translate -->
-    <string name="app_disabled">"App disabled"</string> <!-- TODO translate -->
+    <string name="app_enabled">"Приложението е активирано"</string> <!-- TODO validate "App enabled" -->
+    <string name="app_disabled">"Приложението е деактивирано"</string> <!-- TODO validate "App disabled" -->
 
-    <string name="warning_volume_dnd">"Cannot show volume slider because Do Not Disturb mode is enabled"</string> <!-- TODO translate -->
+    <string name="warning_volume_dnd">"Не може да се покаже плъзгач за силата на звука, защото режимът „Не ме безпокойте“ е активиран"</string> <!-- TODO validate "Cannot show volume slider because Do Not Disturb mode is enabled" -->
 
     <!-- auto start failed dialog -->
-    <string name="auto_start_fail_title">"Auto-start failed"</string> <!-- TODO translate -->
-    <string name="auto_start_fail_message">"Automatic start of the app failed. Please check your settings."</string> <!-- TODO translate -->
+    <string name="auto_start_fail_title">"Автоматичното стартиране е неуспешно"</string> <!-- TODO validate "Auto-start failed" -->
+    <string name="auto_start_fail_message">"Автоматичното стартиране на приложението не бе успешно. Моля, проверете настройките си."</string> <!-- TODO validate "Automatic start of the app failed. Please check your settings." -->
 
     <!-- manual settings dialog -->
-    <string name="manual_settings_title">"Manual settings needed"</string> <!-- TODO translate -->
-    <string name="manual_settings_summary">"Some manual settings may be needed for BlipBlip to function properly."</string> <!-- TODO translate -->
-    <string name="manual_settings_tips_subtitle">"Please try tips below"</string> <!-- TODO translate -->
-    <string name="manual_settings_tip_settings_description">"Open settings"</string> <!-- TODO translate -->
-    <string name="manual_settings_snackbar">"Please review manual settings which may be needed for app to function properly"</string> <!-- TODO translate -->
-    <string name="manual_settings_show">"Show"</string> <!-- TODO translate -->
-    <string name="manual_settings_permanent_notification_description">"Enable permanent notification (recommended)"</string> <!-- TODO translate -->
-    <string name="manual_settings_permanent_notification_info">"App will show permanently visible notification, which may prevent app from being killed."</string> <!-- TODO translate -->
-    <string name="manual_settings_general_tips_button">"Show general tips"</string> <!-- TODO translate -->
-    <string name="manual_settings_general_tips">"General tips"</string> <!-- TODO translate -->
-    <string name="manual_settings_general_tip1">"Disable power saving modes in device settings"</string> <!-- TODO translate -->
-    <string name="manual_settings_general_tip2">"Disable apps that optimize battery or memory usage (e.g. task killers)"</string> <!-- TODO translate -->
-    <string name="manual_settings_general_tips_info">"If your device requires changing other options, please let us know using \"Report problem\" option."</string> <!-- TODO translate -->
-    <string name="manual_settings_suggest_report_problem">"If after trying above tips you would still have issues with the app, please report the problem."</string> <!-- TODO translate -->
-    <string name="manual_settings_do_not_show_again">"Do not show again"</string> <!-- TODO translate -->
+    <string name="manual_settings_title">"Необходими са ръчни настройки"</string> <!-- TODO validate "Manual settings needed" -->
+    <string name="manual_settings_summary">"За правилното функциониране на BlipBlip може да са необходими ръчни настройки."</string> <!-- TODO validate "Some manual settings may be needed for BlipBlip to function properly." -->
+    <string name="manual_settings_tips_subtitle">"Моля, опитайте съветите по-долу"</string> <!-- TODO validate "Please try tips below" -->
+    <string name="manual_settings_tip_settings_description">"Отворете настройките"</string> <!-- TODO validate "Open settings" -->
+    <string name="manual_settings_snackbar">"Моля, прегледайте ръчните настройки, които може да са необходими за правилното функциониране на приложението"</string> <!-- TODO validate "Please review manual settings which may be needed for app to function properly" -->
+    <string name="manual_settings_show">"шоу"</string> <!-- TODO validate "Show" -->
+    <string name="manual_settings_permanent_notification_description">"Активиране на постоянно уведомяване (препоръчително)"</string> <!-- TODO validate "Enable permanent notification (recommended)" -->
+    <string name="manual_settings_permanent_notification_info">"Приложението ще показва постоянно известяване, което може да попречи на приложението да бъде убито."</string> <!-- TODO validate "App will show permanently visible notification, which may prevent app from being killed." -->
+    <string name="manual_settings_general_tips_button">"Показване на общи съвети"</string> <!-- TODO validate "Show general tips" -->
+    <string name="manual_settings_general_tips">"Общи съвети"</string> <!-- TODO validate "General tips" -->
+    <string name="manual_settings_general_tip1">"Деактивирайте режимите за пестене на енергия в настройките на устройството"</string> <!-- TODO validate "Disable power saving modes in device settings" -->
+    <string name="manual_settings_general_tip2">"Деактивирайте приложенията, които оптимизират използването на батерията или паметта (напр. Убийци на задачи)"</string> <!-- TODO validate "Disable apps that optimize battery or memory usage (e.g. task killers)" -->
+    <string name="manual_settings_general_tips_info">"Ако устройството ви изисква промяна на други опции, моля да ни уведомите с помощта на опцията \"Съобщете за проблем\"."</string> <!-- TODO validate "If your device requires changing other options, please let us know using \"Report problem\" option." -->
+    <string name="manual_settings_suggest_report_problem">"Ако след изпробването на горните съвети все още имате проблеми с приложението, моля, подайте сигнал за проблема."</string> <!-- TODO validate "If after trying above tips you would still have issues with the app, please report the problem." -->
+    <string name="manual_settings_do_not_show_again">"Не показвай отново"</string> <!-- TODO validate "Do not show again" -->
 
     <!-- Tips -->
-    <string name="tip1">"Add the app to Un-monitored Apps."</string> <!-- TODO translate -->
-    <string name="tip2">"Add the app to Protected Apps."</string> <!-- TODO translate -->
-    <string name="tip3">"Exclude app from lock screen cleanup."</string> <!-- TODO translate -->
-    <string name="tip4">"Disable Stamina mode."</string> <!-- TODO translate -->
-    <string name="tip5">"Disable battery usage restrictions."</string> <!-- TODO translate -->
-    <string name="tip6">"Add app to auto-run."</string> <!-- TODO translate -->
-    <string name="tip7">"Disable background task cleaner."</string> <!-- TODO translate -->
-    <string name="tip8">"Add app to auto-start."</string> <!-- TODO translate -->
-    <string name="tip9">"Add app to auto-start."</string> <!-- TODO translate -->
-    <string name="tip10">"Lock the app on recent apps screen."</string> <!-- TODO translate -->
-    <string name="tip11">"Allow the app to work in Standby Mode."</string> <!-- TODO translate -->
-    <string name="tip12">"Add the app to auto-launch."</string> <!-- TODO translate -->
-    <string name="tip14">"Add the app to Background protection whitelist."</string> <!-- TODO translate -->
+    <string name="tip1">"Добавете приложението към неопростени приложения."</string> <!-- TODO validate "Add the app to Un-monitored Apps." -->
+    <string name="tip2">"Добавете приложението към защитени приложения."</string> <!-- TODO validate "Add the app to Protected Apps." -->
+    <string name="tip3">"Изключване на приложението от почистването на заключващия екран."</string> <!-- TODO validate "Exclude app from lock screen cleanup." -->
+    <string name="tip4">"Деактивирайте режима на издръжливост."</string> <!-- TODO validate "Disable Stamina mode." -->
+    <string name="tip5">"Деактивирайте ограниченията за използване на батерията."</string> <!-- TODO validate "Disable battery usage restrictions." -->
+    <string name="tip6">"Добавете приложение за автоматично пускане."</string> <!-- TODO validate "Add app to auto-run." -->
+    <string name="tip7">"Деактивирайте по-чистата задача за фон."</string> <!-- TODO validate "Disable background task cleaner." -->
+    <string name="tip8">"Добавяне на приложение за автоматично стартиране."</string> <!-- TODO validate "Add app to auto-start." -->
+    <string name="tip9">"Добавяне на приложение за автоматично стартиране."</string> <!-- TODO validate "Add app to auto-start." -->
+    <string name="tip10">"Заключете приложението на последния екран с приложения."</string> <!-- TODO validate "Lock the app on recent apps screen." -->
+    <string name="tip11">"Оставете приложението да работи в режим на готовност."</string> <!-- TODO validate "Allow the app to work in Standby Mode." -->
+    <string name="tip12">"Добавете приложението, за да стартирате автоматично."</string> <!-- TODO validate "Add the app to auto-launch." -->
+    <string name="tip14">"Добавете приложението в бял списък за защита на фона."</string> <!-- TODO validate "Add the app to Background protection whitelist." -->
 
     <!-- Tips detailed instructions -->
-    <string name="tip1_settings">"Settings &gt; Device maintenance &gt; Battery &gt; Unmonitored apps list"</string> <!-- TODO translate -->
-    <string name="tip2_settings">"Settings &gt; Advanced Settings &gt; Battery Manager &gt; Protected Apps or Settings &gt; Privacy and Security &gt; Protected Apps"</string> <!-- TODO translate -->
-    <string name="tip3_settings">"Phone Manager &gt; Lock screen cleanup &gt; un-check the app (don't close) or Settings &gt; Battery &gt; Lock screen cleanup &gt; un-check the app (don't close)"</string> <!-- TODO translate -->
-    <string name="tip4_settings">"Settings &gt; Power management &gt; STAMINA mode &gt; Apps active in standby &gt; Add BlipBlip"</string> <!-- TODO translate -->
-    <string name="tip5_settings">"Settings &gt; Additional Settings &gt; Battery &amp; Performance &gt; Manage Apps Battery Usage &gt; Choose Apps &gt; BlipBlip &gt; No restrictions"</string> <!-- TODO translate -->
-    <string name="tip6_settings">"Settings &gt; Permissions &gt; Auto-run management"</string> <!-- TODO translate -->
-    <string name="tip7_settings">"Settings &gt; Background task clear &gt; White list"</string> <!-- TODO translate -->
-    <string name="tip8_settings">"Asus Mobile Manager &gt; Auto-start Manager"</string> <!-- TODO translate -->
-    <string name="tip9_settings">"Phone Manager &gt; Privacy Permissions &gt; Startup Manager"</string> <!-- TODO translate -->
-    <string name="tip10_settings">"Recent apps &gt; tap BlipBlip and pull it down"</string> <!-- TODO translate -->
-    <string name="tip11_settings">"Security &gt; Power &gt; Standby Management &gt; Set BlipBlip to run in Standby Mode"</string> <!-- TODO translate -->
-    <string name="tip12_settings">"Security &gt; Permission &gt; Auto-Launched apps &gt; enable auto-launch"</string> <!-- TODO translate -->
-    <string name="tip13_settings">"Long press red circle &gt; swipe down BlipBlip"</string> <!-- TODO translate -->
-    <string name="tip14_settings">"NeoSafe app &gt; Power &gt; right top settings icon &gt; Background protection whitelist &gt; add BlipBLip"</string> <!-- TODO translate -->
-    <string name="tip15_settings">"NeoSafe app &gt; Permission &gt; Power-on speedup &gt; Enable BlipBlip"</string> <!-- TODO translate -->
+    <string name="tip1_settings">"Настройки&gt; Поддръжка на устройството&gt; Батерия&gt; Списък без наблюдение на приложения"</string> <!-- TODO validate "Settings > Device maintenance > Battery > Unmonitored apps list" -->
+    <string name="tip2_settings">"Настройки&gt; Разширени настройки&gt; Мениджър батерии&gt; Защитени приложения или Настройки&gt; Поверителност и защита&gt; Защитени приложения"</string> <!-- TODO validate "Settings > Advanced Settings > Battery Manager > Protected Apps or Settings > Privacy and Security > Protected Apps" -->
+    <string name="tip3_settings">"Телефонният мениджър&gt; Заключване на почистването на екрана&gt; премахнете отметката на приложението (не затваряйте) или Настройки&gt; Батерия&gt; Заключване на екрана&gt; премахване на проверката на приложението (не затваряйте)"</string> <!-- TODO validate "Phone Manager > Lock screen cleanup > un-check the app (don't close) or Settings > Battery > Lock screen cleanup > un-check the app (don't close)" -->
+    <string name="tip4_settings">"Настройки&gt; Управление на захранването&gt; Режим НАЧАЛО&gt; Приложения, активни в режим готовност&gt; Добавяне на клип"</string> <!-- TODO validate "Settings > Power management > STAMINA mode > Apps active in standby > Add BlipBlip" -->
+    <string name="tip5_settings">"Настройки&gt; Допълнителни настройки&gt; Батерия и производителност&gt; Управление на приложенията Използване на батерията&gt; Изберете Приложения&gt; BlipBlip&gt; Няма ограничения"</string> <!-- TODO validate "Settings > Additional Settings > Battery & Performance > Manage Apps Battery Usage > Choose Apps > BlipBlip > No restrictions" -->
+    <string name="tip6_settings">"Настройки&gt; Разрешения&gt; Управление на автоматичното изпълнение"</string> <!-- TODO validate "Settings > Permissions > Auto-run management" -->
+    <string name="tip7_settings">"Настройки&gt; Фонова задача изчисти&gt; Бял списък"</string> <!-- TODO validate "Settings > Background task clear > White list" -->
+    <string name="tip8_settings">"Asus Mobile Manager&gt; Мениджър за автоматично стартиране"</string> <!-- TODO validate "Asus Mobile Manager > Auto-start Manager" -->
+    <string name="tip9_settings">"Телефонният мениджър&gt; Разрешения за поверителност&gt; Мениджър на стартирането"</string> <!-- TODO validate "Phone Manager > Privacy Permissions > Startup Manager" -->
+    <string name="tip10_settings">"Последни приложения&gt; докоснете BlipBlip и го изтеглете надолу"</string> <!-- TODO validate "Recent apps > tap BlipBlip and pull it down" -->
+    <string name="tip11_settings">"Защита&gt; Захранване&gt; Режим на готовност&gt; Задайте BlipBlip да се изпълнява в режим на готовност"</string> <!-- TODO validate "Security > Power > Standby Management > Set BlipBlip to run in Standby Mode" -->
+    <string name="tip12_settings">"Защита&gt; Разрешение&gt; Автоматично стартирани приложения&gt; активиране на автоматичното стартиране"</string> <!-- TODO validate "Security > Permission > Auto-Launched apps > enable auto-launch" -->
+    <string name="tip13_settings">"Натиснете дълго червения кръг&gt; плъзнете надолу BlipBlip"</string> <!-- TODO validate "Long press red circle > swipe down BlipBlip" -->
+    <string name="tip14_settings">"Приложение NeoSafe&gt; Захранване&gt; икона за настройки вдясно горе&gt; Бял списък за защита на фона&gt; добавяне на BlipBLip"</string> <!-- TODO validate "NeoSafe app > Power > right top settings icon > Background protection whitelist > add BlipBLip" -->
+    <string name="tip15_settings">"Приложение NeoSafe&gt; Разрешение&gt; Ускоряване при включване&gt; Активиране на BlipBlip"</string> <!-- TODO validate "NeoSafe app > Permission > Power-on speedup > Enable BlipBlip" -->
 
     <!-- UI Settings -->
     <string name="pref_user_interface">"Потребителски интерфейс"</string>
     <!-- edit button -->
-    <string name="edit_button_title">"Editing button"</string> <!-- TODO translate -->
-    <string name="edit_button_on">"Show edit button"</string> <!-- TODO translate -->
-    <string name="edit_button_off">"Hide edit button. To enter edit mode use edit action from menu."</string> <!-- TODO translate -->
+    <string name="edit_button_title">"Бутон за редактиране"</string> <!-- TODO validate "Editing button" -->
+    <string name="edit_button_on">"Показване на бутона за редактиране"</string> <!-- TODO validate "Show edit button" -->
+    <string name="edit_button_off">"Скриване на бутона за редактиране. За да влезете в режим на редактиране, използвайте редактиране от менюто."</string> <!-- TODO validate "Hide edit button. To enter edit mode use edit action from menu." -->
     <!-- changelog -->
-    <string name="version_history">"Version history"</string> <!-- TODO translate -->
-    <string name="changelog_title">"What's new?"</string> <!-- TODO translate -->
-    <string name="show_changelog_title">"Show changelog"</string> <!-- TODO translate -->
-    <string name="show_changelog_on">"Show recent changes on startup."</string> <!-- TODO translate -->
-    <string name="show_changelog_off">"Do not show recent changes on startup."</string> <!-- TODO translate -->
+    <string name="version_history">"История на версиите"</string> <!-- TODO validate "Version history" -->
+    <string name="changelog_title">"Какво ново?"</string> <!-- TODO validate "What's new?" -->
+    <string name="show_changelog_title">"Показване на списъка с промените"</string> <!-- TODO validate "Show changelog" -->
+    <string name="show_changelog_on">"Показване на последните промени при стартиране."</string> <!-- TODO validate "Show recent changes on startup." -->
+    <string name="show_changelog_off">"Не показвайте скорошни промени при стартиране."</string> <!-- TODO validate "Do not show recent changes on startup." -->
     <!-- inclusive -->
     <string name="show_inclusive_title">"Промяна на границите на времевия обхват"</string>
     <string name="show_inclusive_on">"При избиране на времеви обхват покажи бутони за уточняване дали времето да бъде включено в обхвата."</string>
@@ -742,88 +742,88 @@
     <string name="show_actions_switches_on">"Покажи шалтери за забраняване на действия"</string>
     <string name="show_actions_switches_off">"Скрий шалтерите за забраняване на действия"</string>
     <!-- Show kill dialog -->
-    <string name="show_kill_dialog_title">"Notify if app was killed"</string> <!-- TODO translate -->
-    <string name="show_kill_dialog_on">"Display message when opening the app if it was detected that the app was killed."</string> <!-- TODO translate -->
-    <string name="show_kill_dialog_off">"Do not display message when it was detected that the app was killed."</string> <!-- TODO translate -->
+    <string name="show_kill_dialog_title">"Уведомете дали приложението е убито"</string> <!-- TODO validate "Notify if app was killed" -->
+    <string name="show_kill_dialog_on">"Показване на съобщение при отваряне на приложението, ако е установено, че приложението е убито."</string> <!-- TODO validate "Display message when opening the app if it was detected that the app was killed." -->
+    <string name="show_kill_dialog_off">"Не показвайте съобщение, когато е установено, че приложението е било убито."</string> <!-- TODO validate "Do not display message when it was detected that the app was killed." -->
 
     <!-- examples -->
-    <string name="double_sound_every_hour">"Double sound every hour"</string> <!-- TODO translate -->
-    <string name="single_sound_half_past">"Sound half past every hour"</string> <!-- TODO translate -->
-    <string name="speak_time_every_hour">"Speak current time every hour"</string> <!-- TODO translate -->
+    <string name="double_sound_every_hour">"Двоен звук на всеки час"</string> <!-- TODO validate "Double sound every hour" -->
+    <string name="single_sound_half_past">"Звучи половин час всеки час"</string> <!-- TODO validate "Sound half past every hour" -->
+    <string name="speak_time_every_hour">"Говорете текущото време на всеки час"</string> <!-- TODO validate "Speak current time every hour" -->
 
     <!-- ads -->
-    <string name="remove_ads">"Remove ads"</string> <!-- TODO translate -->
-    <string name="channel_name_watch_ads">"Watch ads"</string> <!-- TODO translate -->
-    <string name="channel_name_premium_end_description">"You will get notified when you need to watch an ad to enjoy all Premium features for free"</string> <!-- TODO translate -->
+    <string name="remove_ads">"Премахни рекламите"</string> <!-- TODO validate "Remove ads" -->
+    <string name="channel_name_watch_ads">"Гледайте реклами"</string> <!-- TODO validate "Watch ads" -->
+    <string name="channel_name_premium_end_description">"Ще получите известие, когато трябва да гледате реклама, за да ползвате безплатно всички функции на Premium"</string> <!-- TODO validate "You will get notified when you need to watch an ad to enjoy all Premium features for free" -->
 
-    <string name="watch_ads">"Watch ads"</string> <!-- TODO translate -->
-    <string name="watch_video">"Watch video ad"</string> <!-- TODO translate -->
-    <string name="subscribe_without_ads">"Subscribe without ads"</string> <!-- TODO translate -->
-    <string name="start_free_trial">"Start a free trial"</string> <!-- TODO translate -->
-    <string name="tooltip_accept_privacy_policy">"Please check the box."</string> <!-- TODO translate -->
-    <string name="welcome_to_blipBlip">"Welcome to BlipBlip!"</string> <!-- TODO translate -->
-    <string name="blipblip_free_description_short">"This app is free in exchange for watching ads."</string> <!-- TODO translate -->
-    <string name="blipblip_free_description">"This app is free in exchange for watching ads. You can access all Blip Blip Premium features and sounds for specified time period after watching an ad. The more you watch the longer you can use the app."</string> <!-- TODO translate -->
-    <string name="blipblip_free_description2">"There are no ads in user interface. There are no ads popping up unexpectedly. You always choose when you want to watch an ad."</string> <!-- TODO translate -->
-    <string name="watch_ad">"View ad"</string> <!-- TODO translate -->
-    <string name="ad">"Ad"</string> <!-- TODO translate --> <!-- Short label of button for watching ads -->
-    <string name="accept_privacy_policy">"I accept privacy policy."</string> <!-- TODO translate -->
-    <string name="get_blipblip">"Want free app without ads and without Premium features? Tap here."</string> <!-- TODO translate -->
-    <string name="privacy_policy">"Privacy policy."</string> <!-- TODO translate -->
-    <string name="get_time_of_premium">"Get %1$s of Premium"</string> <!-- TODO translate -->
-    <string name="get_time_of_premium_more">"View ad to use the app for additional time: %s."</string> <!-- TODO translate -->
-    <string name="premium_time_left">"Time left for using the app: %s"</string> <!-- TODO translate -->
-    <string name="app_was_enabled">"App has been enabled!"</string> <!-- TODO translate -->
-    <string name="failed_loading_ad">"Failed to load ad. Check your internet connection and try again."</string> <!-- TODO translate -->
-    <string name="continue_with_ads">"Continue with ads"</string> <!-- TODO translate -->
-    <string name="continue_with_relevant_question">"Can we use your data to tailor ads for you?"</string> <!-- TODO translate -->
-    <string name="continue_with_relevant_ads">"Yes, continue with relevant ads"</string> <!-- TODO translate -->
-    <string name="continue_with_less_relevant_ads">"No, continue with less relevant ads"</string> <!-- TODO translate -->
-    <string name="watch_ads_to_get_next_notification">"View ads to get next notification"</string> <!-- TODO translate -->
-    <string name="watch_ad_to_enable_app">"View ad to enable app"</string> <!-- TODO translate -->
-    <string name="popup_watch_more_ads_to_get_notification">"Watch more ads to get this notification"</string> <!-- TODO translate -->
+    <string name="watch_ads">"Гледайте реклами"</string> <!-- TODO validate "Watch ads" -->
+    <string name="watch_video">"Гледайте видеореклама"</string> <!-- TODO validate "Watch video ad" -->
+    <string name="subscribe_without_ads">"Абонирайте се без реклами"</string> <!-- TODO validate "Subscribe without ads" -->
+    <string name="start_free_trial">"Започнете безплатен пробен период"</string> <!-- TODO validate "Start a free trial" -->
+    <string name="tooltip_accept_privacy_policy">"Моля, поставете отметка в квадратчето."</string> <!-- TODO validate "Please check the box." -->
+    <string name="welcome_to_blipBlip">"Добре дошли в BlipBlip!"</string> <!-- TODO validate "Welcome to BlipBlip!" -->
+    <string name="blipblip_free_description_short">"Това приложение е безплатно в замяна на гледане на реклами."</string> <!-- TODO validate "This app is free in exchange for watching ads." -->
+    <string name="blipblip_free_description">"Това приложение е безплатно в замяна на гледане на реклами. Можете да получите достъп до всички функции и звуци на Blip Blip Premium за определен период от време след гледане на реклама. Колкото повече гледате, толкова по-дълго можете да използвате приложението."</string> <!-- TODO validate "This app is free in exchange for watching ads. You can access all Blip Blip Premium features and sounds for specified time period after watching an ad. The more you watch the longer you can use the app." -->
+    <string name="blipblip_free_description2">"В потребителския интерфейс няма реклами. Не се появяват неочаквано реклами. Винаги избирате кога искате да гледате реклама."</string> <!-- TODO validate "There are no ads in user interface. There are no ads popping up unexpectedly. You always choose when you want to watch an ad." -->
+    <string name="watch_ad">"Преглед на рекламата"</string> <!-- TODO validate "View ad" -->
+    <string name="ad">"реклама"</string> <!-- TODO validate "Ad" --> <!-- Short label of button for watching ads -->
+    <string name="accept_privacy_policy">"Приемам Декларация за поверителност."</string> <!-- TODO validate "I accept privacy policy." -->
+    <string name="get_blipblip">"Искате безплатно приложение без реклами и без функциите на Premium? Докоснете тук."</string> <!-- TODO validate "Want free app without ads and without Premium features? Tap here." -->
+    <string name="privacy_policy">"Декларация за поверителност."</string> <!-- TODO validate "Privacy policy." -->
+    <string name="get_time_of_premium">"Получете %1$s от Premium"</string> <!-- TODO validate "Get %1$s of Premium" -->
+    <string name="get_time_of_premium_more">"Преглед на рекламата, за да използвате приложението за допълнително време: %s ."</string> <!-- TODO validate "View ad to use the app for additional time: %s." -->
+    <string name="premium_time_left">"Оставащо време за използване на приложението: %s"</string> <!-- TODO validate "Time left for using the app: %s" -->
+    <string name="app_was_enabled">"Приложението бе активирано!"</string> <!-- TODO validate "App has been enabled!" -->
+    <string name="failed_loading_ad">"Неуспешно зареждане на рекламата. Проверете връзката си с интернет и опитайте отново."</string> <!-- TODO validate "Failed to load ad. Check your internet connection and try again." -->
+    <string name="continue_with_ads">"Продължете с рекламите"</string> <!-- TODO validate "Continue with ads" -->
+    <string name="continue_with_relevant_question">"Можем ли да използваме данните ви, за да адаптираме рекламите за вас?"</string> <!-- TODO validate "Can we use your data to tailor ads for you?" -->
+    <string name="continue_with_relevant_ads">"Да, продължете със съответните реклами"</string> <!-- TODO validate "Yes, continue with relevant ads" -->
+    <string name="continue_with_less_relevant_ads">"Не, продължете с по-малко подходящи реклами"</string> <!-- TODO validate "No, continue with less relevant ads" -->
+    <string name="watch_ads_to_get_next_notification">"Преглеждайте реклами, за да получите следващото известие"</string> <!-- TODO validate "View ads to get next notification" -->
+    <string name="watch_ad_to_enable_app">"Вижте рекламата, за да активирате приложението"</string> <!-- TODO validate "View ad to enable app" -->
+    <string name="popup_watch_more_ads_to_get_notification">"Вижте още реклами, за да получите това известие"</string> <!-- TODO validate "Watch more ads to get this notification" -->
 
     <!-- ads notifications -->
-    <string name="notif_premium_ended">"Application disabled"</string> <!-- TODO translate -->
-    <string name="notif_premium_ended_description">"Watch ad to enable it again."</string> <!-- TODO translate -->
-    <string name="notif_stop_warn">"Next notification won't be played"</string> <!-- TODO translate -->
-    <string name="notif_stop_warn_description">"Watch ad to extend time for using the app"</string> <!-- TODO translate -->
+    <string name="notif_premium_ended">"Приложението е деактивирано"</string> <!-- TODO validate "Application disabled" -->
+    <string name="notif_premium_ended_description">"Гледайте рекламата, за да я активирате отново."</string> <!-- TODO validate "Watch ad to enable it again." -->
+    <string name="notif_stop_warn">"Следващото известие няма да се възпроизведе"</string> <!-- TODO validate "Next notification won't be played" -->
+    <string name="notif_stop_warn_description">"Гледайте рекламата, за да удължите времето за използване на приложението"</string> <!-- TODO validate "Watch ad to extend time for using the app" -->
 
     <!-- ads settings -->
-    <string name="ads_notifications">"Need of viewing ads"</string> <!-- TODO translate -->
-    <string name="ads_notifications_on">"You will get notifications about the need of viewing ads"</string> <!-- TODO translate -->
-    <string name="ads_notifications_off">"You won't get any notifications about the need of viewing ads"</string> <!-- TODO translate -->
-    <string name="ads_warn_app_disabled">"Application disabling"</string> <!-- TODO translate -->
-    <string name="ads_warn_app_disabled_on">"Notify when app is disabled because not enough ads were watched"</string> <!-- TODO translate -->
-    <string name="ads_warn_app_disabled_off">"Do not notify when app will be disabled because not enough ads were watched"</string> <!-- TODO translate -->
-    <string name="ads_warn_next_notification">"Next notification"</string> <!-- TODO translate -->
-    <string name="ads_warn_next_notification_on">"Notify when next notification won't be played because not enough ads were watched"</string> <!-- TODO translate -->
-    <string name="ads_warn_next_notification_off">"Do not notify when next notification won't be played because not enough ads were watched"</string> <!-- TODO translate -->
+    <string name="ads_notifications">"Необходимост от гледане на реклами"</string> <!-- TODO validate "Need of viewing ads" -->
+    <string name="ads_notifications_on">"Ще получавате известия за необходимостта от гледане на реклами"</string> <!-- TODO validate "You will get notifications about the need of viewing ads" -->
+    <string name="ads_notifications_off">"Няма да получавате известия за необходимостта от гледане на реклами"</string> <!-- TODO validate "You won't get any notifications about the need of viewing ads" -->
+    <string name="ads_warn_app_disabled">"Деактивирането на приложението"</string> <!-- TODO validate "Application disabling" -->
+    <string name="ads_warn_app_disabled_on">"Уведомяване, когато приложението е деактивирано, защото не е гледано достатъчно реклами"</string> <!-- TODO validate "Notify when app is disabled because not enough ads were watched" -->
+    <string name="ads_warn_app_disabled_off">"Не уведомявайте, когато приложението ще бъде деактивирано, защото не е гледано достатъчно реклами"</string> <!-- TODO validate "Do not notify when app will be disabled because not enough ads were watched" -->
+    <string name="ads_warn_next_notification">"Следващо известие"</string> <!-- TODO validate "Next notification" -->
+    <string name="ads_warn_next_notification_on">"Уведомете кога следващото известие няма да бъде пуснато, защото не е гледано достатъчно реклами"</string> <!-- TODO validate "Notify when next notification won't be played because not enough ads were watched" -->
+    <string name="ads_warn_next_notification_off">"Не уведомявайте, когато следващото известие няма да бъде пуснато, тъй като не е гледано достатъчно реклами"</string> <!-- TODO validate "Do not notify when next notification won't be played because not enough ads were watched" -->
 
     <!-- Privacy settings -->
-    <string name="privacy">"Privacy"</string> <!-- TODO translate -->
-    <string name="ads">"Ads"</string> <!-- TODO translate -->
-    <string name="pref_personalized_ads">"Personalized ads"</string> <!-- TODO translate -->
-    <string name="pref_personalized_ads_on">"Ads will be personalized."</string> <!-- TODO translate -->
-    <string name="pref_personalized_ads_off">"Your data will not be used to personalize ads."</string> <!-- TODO translate -->
-    <string name="pref_analytics">"Analytics"</string> <!-- TODO translate -->
-    <string name="pref_collect_analytics">"Collect anonymous data"</string> <!-- TODO translate -->
-    <string name="pref_collect_analytics_on">"Collect anonymous, aggregated data to help improve the app."</string> <!-- TODO translate -->
-    <string name="pref_collect_analytics_off">"Do not collect any data."</string> <!-- TODO translate -->
-    <string name="pref_analytics_anonymize_ip">"Anonymize location"</string> <!-- TODO translate -->
-    <string name="pref_analytics_anonymize_ip_on">"Anonymize IP address sent to determine user location."</string> <!-- TODO translate -->
-    <string name="pref_analytics_anonymize_ip_off">"Use full IP address only for detemining user's general location (country, city)."</string> <!-- TODO translate -->
+    <string name="privacy">"поверителност"</string> <!-- TODO validate "Privacy" -->
+    <string name="ads">"Обяви"</string> <!-- TODO validate "Ads" -->
+    <string name="pref_personalized_ads">"Персонализирани реклами"</string> <!-- TODO validate "Personalized ads" -->
+    <string name="pref_personalized_ads_on">"Рекламите ще бъдат персонализирани."</string> <!-- TODO validate "Ads will be personalized." -->
+    <string name="pref_personalized_ads_off">"Данните ви няма да се използват за персонализиране на рекламите."</string> <!-- TODO validate "Your data will not be used to personalize ads." -->
+    <string name="pref_analytics">"анализ"</string> <!-- TODO validate "Analytics" -->
+    <string name="pref_collect_analytics">"Събиране на анонимни данни"</string> <!-- TODO validate "Collect anonymous data" -->
+    <string name="pref_collect_analytics_on">"Съберете анонимни, обобщени данни, за да подобрите приложението."</string> <!-- TODO validate "Collect anonymous, aggregated data to help improve the app." -->
+    <string name="pref_collect_analytics_off">"Не събирайте никакви данни."</string> <!-- TODO validate "Do not collect any data." -->
+    <string name="pref_analytics_anonymize_ip">"Анонимно местоположение"</string> <!-- TODO validate "Anonymize location" -->
+    <string name="pref_analytics_anonymize_ip_on">"Анонимният IP адрес, изпратен за определяне на местоположението на потребителя."</string> <!-- TODO validate "Anonymize IP address sent to determine user location." -->
+    <string name="pref_analytics_anonymize_ip_off">"Използвайте пълен IP адрес само за определяне на общото местоположение на потребителя (държава, град)."</string> <!-- TODO validate "Use full IP address only for detemining user's general location (country, city)." -->
 
     <!-- install BlipBlip free -->
-    <string name="dialog_free_premium_title">"Want Premium free?"</string> <!-- TODO translate -->
-    <string name="dialog_free_premium_description">"Watch ads in exchange for Premium features in %1$s app."</string> <!-- TODO translate -->
-    <string name="open_app">"Open app"</string> <!-- TODO translate -->
-    <string name="install_app">"Install app"</string> <!-- TODO translate -->
-    <string name="maybe_later">"Maybe later"</string> <!-- TODO translate -->
+    <string name="dialog_free_premium_title">"Искате премия безплатно?"</string> <!-- TODO validate "Want Premium free?" -->
+    <string name="dialog_free_premium_description">"Гледайте реклами в замяна на премиум функции в приложението %1$s ."</string> <!-- TODO validate "Watch ads in exchange for Premium features in %1$s app." -->
+    <string name="open_app">"Отваряне на приложение"</string> <!-- TODO validate "Open app" -->
+    <string name="install_app">"Инсталирай приложението"</string> <!-- TODO validate "Install app" -->
+    <string name="maybe_later">"Може би по-късно"</string> <!-- TODO validate "Maybe later" -->
 
     <!-- tooltips -->
-    <string name="tooltip_play_next_button">"Playback next notification"</string> <!-- TODO translate -->
-    <string name="tooltip_upcoming_notifications">"See and playback upcoming notifications"</string> <!-- TODO translate -->
-    <string name="tooltip_upcoming_notification">"Press time to playback upcoming notifications"</string> <!-- TODO translate -->
+    <string name="tooltip_play_next_button">"Възпроизвеждане на следващото известие"</string> <!-- TODO validate "Playback next notification" -->
+    <string name="tooltip_upcoming_notifications">"Вижте и възпроизведете предстоящите известия"</string> <!-- TODO validate "See and playback upcoming notifications" -->
+    <string name="tooltip_upcoming_notification">"Натиснете време, за да възпроизведете предстоящите известия"</string> <!-- TODO validate "Press time to playback upcoming notifications" -->
 
 </resources>
