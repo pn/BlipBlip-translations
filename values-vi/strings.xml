@@ -373,9 +373,9 @@
     <string name="night_mode_system">"System setting"</string> <!-- TODO translate -->
 
     <string name="title_activity_sounds">"Âm thanh"</string>
-    <string name="title_activity_sound">"Âm thanh"</string> <!-- TODO validate -->
+    <string name="title_activity_sound">"Âm thanh"</string> <!-- TODO validate "Sound" -->
     <string name="title_activity_vibrations">"Rung"</string>
-    <string name="title_activity_vibration">"Rung"</string> <!-- TODO validate -->
+    <string name="title_activity_vibration">"Rung"</string> <!-- TODO validate "Vibration" -->
     <string name="action_delete">"Xóa"</string>
     <string name="action_add_vibration_pattern">"Thêm mục nhập"</string>
     <string name="dialog_title_deletion">"Xác nhận xóa"</string>
@@ -555,7 +555,7 @@
     <string name="pref_text_to_speech_engine">"Engine"</string> <!-- TODO translate -->
     <string name="pref_text_to_speech_voice">"Voice"</string> <!-- TODO translate -->
     <string name="pref_text_to_speech">"Văn bản để nói"</string>
-    <string name="system_default_audio_stream">"Mặc định hệ thống"</string> <!-- TODO validate -->
+    <string name="system_default_audio_stream">"Mặc định hệ thống"</string> <!-- TODO validate "System default" -->
     <string name="application_default">"Ứng dụng mặc định"</string>
     <string name="speak_time_format_with_minutes">"Nói thời gian với phút"</string>
     <string name="speak_time_on_the_hour">"Nói thời gian trong giờ"</string>

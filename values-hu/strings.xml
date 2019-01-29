@@ -377,9 +377,9 @@
     <string name="night_mode_system">"System setting"</string> <!-- TODO translate -->
 
     <string name="title_activity_sounds">"Hangok"</string>
-    <string name="title_activity_sound">"Hang"</string> <!-- TODO validate -->
+    <string name="title_activity_sound">"Hang"</string> <!-- TODO validate "Sound" -->
     <string name="title_activity_vibrations">"Vibrálások"</string>
-    <string name="title_activity_vibration">"Vibrálás"</string> <!-- TODO validate -->
+    <string name="title_activity_vibration">"Vibrálás"</string> <!-- TODO validate "Vibration" -->
     <string name="action_delete">"Törlés"</string>
     <string name="action_add_vibration_pattern">"Bejegyzés hozzáadása"</string>
     <string name="dialog_title_deletion">"Törlés megerősítése"</string>
@@ -559,7 +559,7 @@
     <string name="pref_text_to_speech_engine">"Engine"</string> <!-- TODO translate -->
     <string name="pref_text_to_speech_voice">"Voice"</string> <!-- TODO translate -->
     <string name="pref_text_to_speech">"Szöveg beszéddé"</string>
-    <string name="system_default_audio_stream">"Rendszer alapbeállítás"</string> <!-- TODO validate -->
+    <string name="system_default_audio_stream">"Rendszer alapbeállítás"</string> <!-- TODO validate "System default" -->
     <string name="application_default">"Alkalmazás alapbeállítás"</string>
     <string name="speak_time_format_with_minutes">"Kimondott idő percekkel"</string>
     <string name="speak_time_on_the_hour">"Kimondott idő, minden órakor"</string>

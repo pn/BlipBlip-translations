@@ -379,7 +379,7 @@
     <string name="title_activity_sounds">"Sounds"</string> <!-- TODO translate -->
     <string name="title_activity_sound">"Sound"</string> <!-- TODO translate -->
     <string name="title_activity_vibrations">"Vibrations"</string> <!-- TODO translate -->
-    <string name="title_activity_vibration">"Vibració"</string> <!-- TODO validate -->
+    <string name="title_activity_vibration">"Vibració"</string> <!-- TODO validate "Vibration" -->
     <string name="action_delete">"Delete"</string> <!-- TODO translate -->
     <string name="action_add_vibration_pattern">"Add entry"</string> <!-- TODO translate -->
     <string name="dialog_title_deletion">"Confirm deletion"</string> <!-- TODO translate -->

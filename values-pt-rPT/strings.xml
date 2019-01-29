@@ -377,9 +377,9 @@
     <string name="night_mode_system">"System setting"</string> <!-- TODO translate -->
 
     <string name="title_activity_sounds">"Sons"</string>
-    <string name="title_activity_sound">"Som"</string> <!-- TODO validate -->
+    <string name="title_activity_sound">"Som"</string> <!-- TODO validate "Sound" -->
     <string name="title_activity_vibrations">"Bibrações"</string>
-    <string name="title_activity_vibration">"Vibração"</string> <!-- TODO validate -->
+    <string name="title_activity_vibration">"Vibração"</string> <!-- TODO validate "Vibration" -->
     <string name="action_delete">"Eliminar"</string>
     <string name="action_add_vibration_pattern">"Adicionar"</string>
     <string name="dialog_title_deletion">"Pergunta"</string>
@@ -559,7 +559,7 @@
     <string name="pref_text_to_speech_engine">"Motor de TTS"</string>
     <string name="pref_text_to_speech_voice">"Voz"</string>
     <string name="pref_text_to_speech">"Texto para voz"</string>
-    <string name="system_default_audio_stream">"Predefinido pelo sistema"</string> <!-- TODO validate -->
+    <string name="system_default_audio_stream">"Predefinido pelo sistema"</string> <!-- TODO validate "System default" -->
     <string name="application_default">"Predefinido da aplicação"</string>
     <string name="speak_time_format_with_minutes">"Falar as horas e minutos"</string>
     <string name="speak_time_on_the_hour">"Falar nas horas certas"</string>
