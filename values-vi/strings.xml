@@ -568,7 +568,7 @@
     <string name="pref_tts_overlaps_sounds_off">"Nói sẽ không chồng chéo âm thanh (âm thanh sẽ phát trước hoặc sau giọng nói)"</string> <!-- TODO validate "Speaking will not overlap sounds (sound will play before or after voice)" -->
 
     <string name="operating_modes_settings">"Chế độ điều hành"</string> <!-- name of menu with different mode settings e.g. Do Not Disturb, vibrate mode -->
-    <string name="operating_modes_settings_summary">"Đừng làm phiền, chế độ rung, v.v..."</string>
+    <string name="operating_modes_settings_summary">"Đừng làm phiền, chế độ rung, v.v…"</string>
     <string name="time_settings">"Thời gian"</string>
     <string name="sound_settings">"Âm thanh"</string>
 

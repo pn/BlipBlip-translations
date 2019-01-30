@@ -260,7 +260,7 @@
     <string name="action_rate">"ให้คะแนนเรา"</string> <!-- TODO validate "Rate us" -->
     <string name="rate_us_title">"ให้คะแนนเรา!"</string> <!-- TODO validate "Rate Us!" -->
     <string name="rate_us_message">"ขอบคุณที่สละเวลาในการตรวจสอบแอป"</string> <!-- TODO validate "Thank you for taking time to review the app." -->
-    <string name="rate_us_onetofourstars">"1-4 ดาว"</string> <!-- TODO validate "1–4 stars" -->
+    <string name="rate_us_onetofourstars">"1–4 ดาว"</string> <!-- TODO validate "1–4 stars" -->
     <string name="rate_us_fivestars">"5 ดาว!"</string> <!-- TODO validate "5 stars!" -->
     <string name="five_stars_description">"ห้าดาว"</string> <!-- TODO validate "Five stars" -->
     <string name="five_stars_title">"รัก BlipBlip?"</string> <!-- TODO validate "Love BlipBlip?" -->
@@ -320,20 +320,16 @@
     <!-- check which quantities and how should be used for given language here http://www.unicode.org/cldr/charts/29/supplemental/language_plural_rules.html -->
     <!-- Uncomment or add proper "zero", "two", "few" or "many" item if needed for your language -->
     <plurals name="repeat_every_x_hours"> <!-- "X hours" as in "Repeat every X hours" is different in some languages (e.g. Polish) from regular "X hours" -->
-        <item quantity="one">"%d ชั่วโมง"</item>
-        <item quantity="other">"%d ชั่วโมง"</item>
+        <item quantity="other">"%d ชั่วโมง"</item> <!-- TODO verify -->
     </plurals>
     <plurals name="repeat_every_x_minutes">
-        <item quantity="one">"%d นาที"</item>
-        <item quantity="other">"%d นาที"</item>
+        <item quantity="other">"%d นาที"</item> <!-- TODO verify -->
     </plurals>
     <plurals name="repeat_every_x_seconds">
-        <item quantity="one">"%d วินาที"</item>
-        <item quantity="other">"%d วินาที"</item>
+        <item quantity="other">"%d วินาที"</item> <!-- TODO verify -->
     </plurals>
     <plurals name="repeat_number_of_times">
-        <item quantity="one">"%d time"</item>
-        <item quantity="other">"%d times"</item>
+        <item quantity="other">"% d ครั้ง"</item> <!-- TODO verify -->
     </plurals>
 
     <string name="pref_reset_accuracy_params">"รีเซ็ตพารามิเตอร์"</string> <!-- TODO validate "Reset parameters" -->
@@ -616,7 +612,7 @@
     <string name="free_trial">"ทดลองฟรี."</string> <!-- TODO validate "Free trial." -->
     <string name="cancel_anytime">"ยกเลิกได้ตลอดเวลา"</string> <!-- TODO validate "Cancel anytime." -->
     <string name="premium_helps_support">"ด้วยการอัปเกรด BlipBlip ไม่เพียง แต่คุณจะได้รับคุณสมบัติหรือเสียงทั้งหมด แต่ยังสนับสนุนการพัฒนาอย่างต่อเนื่อง"</string> <!-- TODO validate "By upgrading BlipBlip you not only get all features or sounds but you also support its continuous and independent development." -->
-    <string name="loading">"กำลังโหลด ..."</string> <!-- TODO validate "Loading…" -->
+    <string name="loading">"กำลังโหลด …"</string> <!-- TODO validate "Loading…" -->
     <string name="notification_has_premium_features">"การแจ้งเตือนนี้ใช้คุณสมบัติพรีเมียม"</string> <!-- TODO validate "This notification uses Premium features" -->
 
     <!-- Premium Bar -->

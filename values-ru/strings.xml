@@ -320,22 +320,28 @@
     <!-- check which quantities and how should be used for given language here http://www.unicode.org/cldr/charts/29/supplemental/language_plural_rules.html -->
     <!-- Uncomment or add proper "zero", "two", "few" or "many" item if needed for your language -->
     <plurals name="repeat_every_x_hours"> <!-- "X hours" as in "Repeat every X hours" is different in some languages (e.g. Polish) from regular "X hours" -->
-        <item quantity="one">"%d час"</item>
-        <item quantity="other">"%d часов"</item>
+        <item quantity="one">"%d час"</item> <!-- TODO verify -->
+        <item quantity="few">"%d часов"</item> <!-- TODO verify -->
+        <item quantity="many">"%d часов"</item> <!-- TODO verify -->
+        <item quantity="other">"%d часов"</item> <!-- TODO verify -->
     </plurals>
     <plurals name="repeat_every_x_minutes">
-        <item quantity="one">"%d минута"</item>
-        <item quantity="other">"%d минут"</item>
+        <item quantity="one">"%d минута"</item> <!-- TODO verify -->
+        <item quantity="few">"%d минут"</item> <!-- TODO verify -->
+        <item quantity="many">"%d минут"</item> <!-- TODO verify -->
+        <item quantity="other">"%d минут"</item> <!-- TODO verify -->
     </plurals>
     <plurals name="repeat_every_x_seconds">
-        <item quantity="one">"%d секунда"</item>
-        <item quantity="other">"%d секунд"</item>
+        <item quantity="one">"%d секунда"</item> <!-- TODO verify -->
+        <item quantity="few">"%d секунд"</item> <!-- TODO verify -->
+        <item quantity="many">"%d секунд"</item> <!-- TODO verify -->
+        <item quantity="other">"%d секунд"</item> <!-- TODO verify -->
     </plurals>
     <plurals name="repeat_number_of_times">
-        <item quantity="one">"%d time"</item>
-        <item quantity="few">"%d times"</item>
-        <item quantity="many">"%d times"</item>
-        <item quantity="other">"%d times"</item>
+        <item quantity="one">"%d time"</item> <!-- TODO translate -->
+        <item quantity="few">"%d times"</item> <!-- TODO translate -->
+        <item quantity="many">"%d times"</item> <!-- TODO translate -->
+        <item quantity="other">"%d times"</item> <!-- TODO translate -->
     </plurals>
 
     <string name="pref_reset_accuracy_params">"Сбросить параметры"</string> <!-- TODO validate "Reset parameters" -->
@@ -618,7 +624,7 @@
     <string name="free_trial">"Бесплатная пробная версия."</string> <!-- TODO validate "Free trial." -->
     <string name="cancel_anytime">"Отменить в любое время."</string> <!-- TODO validate "Cancel anytime." -->
     <string name="premium_helps_support">"Обновляя BlipBlip, вы не только получаете все функции или звуки, но также поддерживаете его непрерывное и независимое развитие."</string> <!-- TODO validate "By upgrading BlipBlip you not only get all features or sounds but you also support its continuous and independent development." -->
-    <string name="loading">"Loading ..."</string> <!-- TODO validate "Loading…" -->
+    <string name="loading">"Loading …"</string> <!-- TODO validate "Loading…" -->
     <string name="notification_has_premium_features">"Это уведомление использует премиум-функции"</string> <!-- TODO validate "This notification uses Premium features" -->
 
     <!-- Premium Bar -->

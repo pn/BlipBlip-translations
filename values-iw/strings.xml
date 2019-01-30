@@ -210,7 +210,7 @@
     <!-- Alarm Mode -->
     <string name="notif_as_alarm_title">"מצב אזעקה"</string> <!-- TODO validate "Alarm mode" -->
     <string name="notif_as_alarm_off">"הודעות רגילות"</string> <!-- TODO validate "Regular notifications" -->
-    <string name="notif_as_alarm_on">"הודעות לשמש אזעקות - תיקונים 3-5 דקות עיכובים בהתראה על כמה מכשירי סמסונג"</string> <!-- TODO validate "Notifications act as alarms – fixes 3–5 minute notification delays on some Samsung devices" -->
+    <string name="notif_as_alarm_on">"הודעות לשמש אזעקות – תיקונים 3–5 דקות עיכובים בהתראה על כמה מכשירי סמסונג"</string> <!-- TODO validate "Notifications act as alarms – fixes 3–5 minute notification delays on some Samsung devices" -->
     <string name="late_notif_title">"מצב האזעקה מופעל"</string> <!-- TODO validate "Alarm mode enabled" -->
     <string name="late_notif_message">"זה כבר זיהה כי ההודעה התעכבה על ידי כמה דקות אשר קורה על כמה מכשירים סמסונג. כדי למנוע זאת, אפשרות \ \"מצב אזעקה \\" מופעלת, שעליה לתקן את הבעיה. ניתן להשבית אפשרות זו והפעלה אוטומטית של אפשרות זו בהגדרות המתקדמות. אם יימצא פתרון טוב יותר לתיקון הבעיה שבה האפליקציה תעודכן. אם יש לך בעיות נוספות, דווח עליהן בדוא\"ל."</string> <!-- TODO validate "It has been detected that notification was delayed by several minutes which happens on some Samsung devices. To prevent this, an \"Alarm mode\" option has been enabled, which should fix this issue. You can disable this option and automatic enabling of this option in the Advanced Settings. If there will be better solution found to fix the issue the app will be updated. If you have any more problems please report them via email." -->
 
@@ -260,7 +260,7 @@
     <string name="action_rate">"דרג אותנו"</string> <!-- TODO validate "Rate us" -->
     <string name="rate_us_title">"דרג אותנו!"</string> <!-- TODO validate "Rate Us!" -->
     <string name="rate_us_message">"תודה שהקדשת זמן לבדיקת האפליקציה."</string> <!-- TODO validate "Thank you for taking time to review the app." -->
-    <string name="rate_us_onetofourstars">"1-4 כוכבים"</string> <!-- TODO validate "1–4 stars" -->
+    <string name="rate_us_onetofourstars">"1–4 כוכבים"</string> <!-- TODO validate "1–4 stars" -->
     <string name="rate_us_fivestars">"5 כוכבים!"</string> <!-- TODO validate "5 stars!" -->
     <string name="five_stars_description">"חמישה כוכבים"</string> <!-- TODO validate "Five stars" -->
     <string name="five_stars_title">"אהבה BlipBlip?"</string> <!-- TODO validate "Love BlipBlip?" -->
@@ -320,20 +320,28 @@
     <!-- check which quantities and how should be used for given language here http://www.unicode.org/cldr/charts/29/supplemental/language_plural_rules.html -->
     <!-- Uncomment or add proper "zero", "two", "few" or "many" item if needed for your language -->
     <plurals name="repeat_every_x_hours"> <!-- "X hours" as in "Repeat every X hours" is different in some languages (e.g. Polish) from regular "X hours" -->
-        <item quantity="one">"שעה %d"</item>
-        <item quantity="other">"%d שעות"</item>
+        <item quantity="one">"שעה %d"</item> <!-- TODO validate -->
+        <item quantity="two">"%d שעות"</item> <!-- TODO validate -->
+        <item quantity="many">"%d שעות"</item> <!-- TODO validate -->
+        <item quantity="other">"%d שעות"</item> <!-- TODO validate -->
     </plurals>
     <plurals name="repeat_every_x_minutes">
-        <item quantity="one">"%d דקות"</item>
-        <item quantity="other">"%d דקות"</item>
+        <item quantity="one">"%d דקות"</item> <!-- TODO validate -->
+        <item quantity="two">"%d דקות"</item> <!-- TODO validate -->
+        <item quantity="many">"%d דקות"</item> <!-- TODO validate -->
+        <item quantity="other">"%d דקות"</item> <!-- TODO validate -->
     </plurals>
     <plurals name="repeat_every_x_seconds">
-        <item quantity="one">"%d שנייה"</item>
-        <item quantity="other">"%d שניות"</item>
+        <item quantity="one">"%d שנייה"</item> <!-- TODO validate -->
+        <item quantity="two">"%d שניות"</item> <!-- TODO validate -->
+        <item quantity="many">"%d שניות"</item> <!-- TODO validate -->
+        <item quantity="other">"%d שניות"</item> <!-- TODO validate -->
     </plurals>
     <plurals name="repeat_number_of_times">
-        <item quantity="one">"%d time"</item>
-        <item quantity="other">"%d times"</item>
+        <item quantity="one">"%d time"</item> <!-- TODO translate -->
+        <item quantity="two">"%d times"</item> <!-- TODO translate -->
+        <item quantity="many">"%d times"</item> <!-- TODO translate -->
+        <item quantity="other">"%d times"</item> <!-- TODO translate -->
     </plurals>
 
     <string name="pref_reset_accuracy_params">"אפס פרמטרים"</string> <!-- TODO validate "Reset parameters" -->

@@ -260,7 +260,7 @@
     <string name="action_rate">"قيمنا"</string> <!-- TODO validate "Rate us" -->
     <string name="rate_us_title">"قيمنا!"</string> <!-- TODO validate "Rate Us!" -->
     <string name="rate_us_message">"شكرا لأخذ الوقت لمراجعة التطبيق."</string> <!-- TODO validate "Thank you for taking time to review the app." -->
-    <string name="rate_us_onetofourstars">"1-4 نجوم"</string> <!-- TODO validate "1–4 stars" -->
+    <string name="rate_us_onetofourstars">"1–4 نجوم"</string> <!-- TODO validate "1–4 stars" -->
     <string name="rate_us_fivestars">"5 نجوم!"</string> <!-- TODO validate "5 stars!" -->
     <string name="five_stars_description">"خمس نجوم"</string> <!-- TODO validate "Five stars" -->
     <string name="five_stars_title">"الحب BlipBlip؟"</string> <!-- TODO validate "Love BlipBlip?" -->
@@ -320,20 +320,36 @@
     <!-- check which quantities and how should be used for given language here http://www.unicode.org/cldr/charts/29/supplemental/language_plural_rules.html -->
     <!-- Uncomment or add proper "zero", "two", "few" or "many" item if needed for your language -->
     <plurals name="repeat_every_x_hours"> <!-- "X hours" as in "Repeat every X hours" is different in some languages (e.g. Polish) from regular "X hours" -->
-        <item quantity="one">"%d ساعة"</item>
-        <item quantity="other">"%d ساعة"</item>
+        <item quantity="zero">"%d hours"</item> <!-- TODO translate -->
+        <item quantity="one">"%d ساعة"</item> <!-- TODO validate -->
+        <item quantity="two">"%d hours"</item> <!-- TODO translate -->
+        <item quantity="few">"%d hours"</item> <!-- TODO translate -->
+        <item quantity="many">"%d hours"</item> <!-- TODO translate -->
+        <item quantity="other">"%d ساعة"</item> <!-- TODO validate -->
     </plurals>
     <plurals name="repeat_every_x_minutes">
-        <item quantity="one">"%d دقيقة"</item>
-        <item quantity="other">"%d دقيقة"</item>
+        <item quantity="zero">"%d minutes"</item> <!-- TODO translate -->
+        <item quantity="one">"%d دقيقة"</item> <!-- TODO validate -->
+        <item quantity="two">"%d minutes"</item> <!-- TODO translate -->
+        <item quantity="few">"%d minutes"</item> <!-- TODO translate -->
+        <item quantity="many">"%d minutes"</item> <!-- TODO translate -->
+        <item quantity="other">"%d دقيقة"</item> <!-- TODO validate -->
     </plurals>
     <plurals name="repeat_every_x_seconds">
-        <item quantity="one">"%d ثانية"</item>
-        <item quantity="other">"%d ثانية"</item>
+        <item quantity="zero">"%d seconds"</item> <!-- TODO translate -->
+        <item quantity="one">"%d ثانية"</item> <!-- TODO validate -->
+        <item quantity="two">"%d seconds"</item> <!-- TODO translate -->
+        <item quantity="few">"%d seconds"</item> <!-- TODO translate -->
+        <item quantity="many">"%d seconds"</item> <!-- TODO translate -->
+        <item quantity="other">"%d ثانية"</item> <!-- TODO validate -->
     </plurals>
     <plurals name="repeat_number_of_times">
-        <item quantity="one">"%d time"</item>
-        <item quantity="other">"%d times"</item>
+        <item quantity="zero">"%d times"</item> <!-- TODO translate -->
+        <item quantity="one">"%d time"</item> <!-- TODO translate -->
+        <item quantity="two">"%d times"</item> <!-- TODO translate -->
+        <item quantity="few">"%d times"</item> <!-- TODO translate -->
+        <item quantity="many">"%d times"</item> <!-- TODO translate -->
+        <item quantity="other">"%d times"</item> <!-- TODO translate -->
     </plurals>
 
     <string name="pref_reset_accuracy_params">"إعادة تعيين المعلمات"</string> <!-- TODO validate "Reset parameters" -->

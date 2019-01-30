@@ -320,20 +320,20 @@
     <!-- check which quantities and how should be used for given language here http://www.unicode.org/cldr/charts/29/supplemental/language_plural_rules.html -->
     <!-- Uncomment or add proper "zero", "two", "few" or "many" item if needed for your language -->
     <plurals name="repeat_every_x_hours"> <!-- "X hours" as in "Repeat every X hours" is different in some languages (e.g. Polish) from regular "X hours" -->
-        <item quantity="one">"%d hour"</item>
-        <item quantity="other">"%d hours"</item>
+        <item quantity="one">"%d hour"</item> <!-- TODO validate -->
+        <item quantity="other">"%d hours"</item> <!-- TODO validate -->
     </plurals>
     <plurals name="repeat_every_x_minutes">
-        <item quantity="one">"%d minute"</item>
-        <item quantity="other">"%d minutes"</item>
+        <item quantity="one">"%d minute"</item> <!-- TODO validate -->
+        <item quantity="other">"%d minutes"</item> <!-- TODO validate -->
     </plurals>
     <plurals name="repeat_every_x_seconds">
-        <item quantity="one">"%d second"</item>
-        <item quantity="other">"%d seconds"</item>
+        <item quantity="one">"%d second"</item> <!-- TODO validate -->
+        <item quantity="other">"%d seconds"</item> <!-- TODO validate -->
     </plurals>
     <plurals name="repeat_number_of_times">
-        <item quantity="one">"%d time"</item>
-        <item quantity="other">"%d times"</item>
+        <item quantity="one">"%d time"</item> <!-- TODO validate -->
+        <item quantity="other">"%d times"</item> <!-- TODO validate -->
     </plurals>
 
     <string name="pref_reset_accuracy_params">"Reajustar parametros"</string> <!-- TODO validate "Reset parameters" -->
@@ -411,7 +411,7 @@
     <string name="more_actions">"Mas acciones"</string> <!-- TODO validate "More actions" -->
     <string name="start_time">"Hora de inicio"</string> <!-- TODO validate "Start time" -->
     <string name="end_time">"Hora de finalización"</string> <!-- TODO validate "End time" -->
-    <string name="whole_day">"Todo el dia"</string> <!-- TODO validate "Whole day" -->
+    <string name="whole_day">"Todo el día"</string> <!-- TODO validate "Whole day" -->
     <string name="enable_screen">"Habilitar pantalla"</string> <!-- TODO validate "Enable screen" -->
     <string name="action_rename">"Rebautizar"</string> <!-- TODO validate "Rename" -->
     <string name="pref_accessibility">"Accesibilidad"</string> <!-- TODO validate "Accessibility" -->
@@ -819,7 +819,7 @@
     <string name="dialog_free_premium_description">"Mira anuncios a cambio de funciones Premium en la aplicación %1$s ."</string> <!-- TODO validate "Watch ads in exchange for Premium features in %1$s app." -->
     <string name="open_app">"Abre la app"</string> <!-- TODO validate "Open app" -->
     <string name="install_app">"Instalar aplicación"</string> <!-- TODO validate "Install app" -->
-    <string name="maybe_later">"Quizas mas tarde"</string> <!-- TODO validate "Maybe later" -->
+    <string name="maybe_later">"Quizás mas tarde"</string> <!-- TODO validate "Maybe later" -->
 
     <!-- tooltips -->
     <string name="tooltip_play_next_button">"Reproducción siguiente notificación"</string> <!-- TODO validate "Playback next notification" -->

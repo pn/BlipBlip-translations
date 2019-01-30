@@ -320,20 +320,20 @@
     <!-- check which quantities and how should be used for given language here http://www.unicode.org/cldr/charts/29/supplemental/language_plural_rules.html -->
     <!-- Uncomment or add proper "zero", "two", "few" or "many" item if needed for your language -->
     <plurals name="repeat_every_x_hours"> <!-- "X hours" as in "Repeat every X hours" is different in some languages (e.g. Polish) from regular "X hours" -->
-        <item quantity="one">"%d ساعت"</item>
-        <item quantity="other">"%d ساعت"</item>
+        <item quantity="one">"%d ساعت"</item> <!-- TODO validate -->
+        <item quantity="other">"%d ساعت"</item> <!-- TODO validate -->
     </plurals>
     <plurals name="repeat_every_x_minutes">
-        <item quantity="one">"%d دقیقه"</item>
-        <item quantity="other">"%d دقیقه"</item>
+        <item quantity="one">"%d دقیقه"</item> <!-- TODO validate -->
+        <item quantity="other">"%d دقیقه"</item> <!-- TODO validate -->
     </plurals>
     <plurals name="repeat_every_x_seconds">
-        <item quantity="one">"%d دوم"</item>
-        <item quantity="other">"%d ثانیه"</item>
+        <item quantity="one">"%d دوم"</item> <!-- TODO validate -->
+        <item quantity="other">"%d ثانیه"</item> <!-- TODO validate -->
     </plurals>
     <plurals name="repeat_number_of_times">
-        <item quantity="one">"%d time"</item>
-        <item quantity="other">"%d times"</item>
+        <item quantity="one">"%d time"</item> <!-- TODO translate -->
+        <item quantity="other">"%d times"</item> <!-- TODO translate -->
     </plurals>
 
     <string name="pref_reset_accuracy_params">"پارامترهای بازنشانی"</string> <!-- TODO validate "Reset parameters" -->

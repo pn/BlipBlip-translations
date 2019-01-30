@@ -332,8 +332,8 @@
         <item quantity="other">"%d segons"</item>
     </plurals>
     <plurals name="repeat_number_of_times">
-        <item quantity="one">"%d time"</item>
-        <item quantity="other">"%d times"</item>
+        <item quantity="one">"%d time"</item> <!-- TODO translate -->
+        <item quantity="other">"%d times"</item> <!-- TODO translate -->
     </plurals>
 
     <string name="pref_reset_accuracy_params">"Restableix els paràmetres"</string>
@@ -616,7 +616,7 @@
     <string name="free_trial">"Prova gratuïta."</string> <!-- TODO validate "Free trial." -->
     <string name="cancel_anytime">"Cancel·la en qualsevol moment."</string> <!-- TODO validate "Cancel anytime." -->
     <string name="premium_helps_support">"Si actualitzeu BlipBlip, no només obtindreu totes les funcions o sons, però també admet el seu desenvolupament continu i independent."</string> <!-- TODO validate "By upgrading BlipBlip you not only get all features or sounds but you also support its continuous and independent development." -->
-    <string name="loading">"S'està carregant ..."</string> <!-- TODO validate "Loading…" -->
+    <string name="loading">"S'està carregant …"</string> <!-- TODO validate "Loading…" -->
     <string name="notification_has_premium_features">"Aquesta notificació utilitza funcions Premium"</string> <!-- TODO validate "This notification uses Premium features" -->
 
     <!-- Premium Bar -->

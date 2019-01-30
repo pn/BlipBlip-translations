@@ -210,7 +210,7 @@
     <!-- Alarm Mode -->
     <string name="notif_as_alarm_title">"Modul de alarmă"</string> <!-- TODO validate "Alarm mode" -->
     <string name="notif_as_alarm_off">"Notificări regulate"</string> <!-- TODO validate "Regular notifications" -->
-    <string name="notif_as_alarm_on">"Notificările funcționează ca alarme - stabilește întârzieri de notificare de 3-5 minute pe unele dispozitive Samsung"</string> <!-- TODO validate "Notifications act as alarms – fixes 3–5 minute notification delays on some Samsung devices" -->
+    <string name="notif_as_alarm_on">"Notificările funcționează ca alarme – stabilește întârzieri de notificare de 3–5 minute pe unele dispozitive Samsung"</string> <!-- TODO validate "Notifications act as alarms – fixes 3–5 minute notification delays on some Samsung devices" -->
     <string name="late_notif_title">"Modul de alarmă este activat"</string> <!-- TODO validate "Alarm mode enabled" -->
     <string name="late_notif_message">"S-a constatat că notificarea a fost amânată cu câteva minute, ceea ce se întâmplă pe unele dispozitive Samsung. Pentru a preveni acest lucru, a fost activată o opțiune \ \"Mod de alarmă \\", care ar trebui să remedieze această problemă. Puteți dezactiva această opțiune și activați automat această opțiune în setările avansate. Dacă va fi o soluție mai bună găsită pentru a remedia problema, aplicația va fi actualizată. Dacă aveți alte probleme, vă rugăm să le raportați prin e-mail."</string> <!-- TODO validate "It has been detected that notification was delayed by several minutes which happens on some Samsung devices. To prevent this, an \"Alarm mode\" option has been enabled, which should fix this issue. You can disable this option and automatic enabling of this option in the Advanced Settings. If there will be better solution found to fix the issue the app will be updated. If you have any more problems please report them via email." -->
 
@@ -260,7 +260,7 @@
     <string name="action_rate">"Ne evalua"</string> <!-- TODO validate "Rate us" -->
     <string name="rate_us_title">"Ne evalua!"</string> <!-- TODO validate "Rate Us!" -->
     <string name="rate_us_message">"Vă mulțumim că ați luat timp pentru a examina aplicația."</string> <!-- TODO validate "Thank you for taking time to review the app." -->
-    <string name="rate_us_onetofourstars">"1-4 stele"</string> <!-- TODO validate "1–4 stars" -->
+    <string name="rate_us_onetofourstars">"1–4 stele"</string> <!-- TODO validate "1–4 stars" -->
     <string name="rate_us_fivestars">"5 stele!"</string> <!-- TODO validate "5 stars!" -->
     <string name="five_stars_description">"Cinci stele"</string> <!-- TODO validate "Five stars" -->
     <string name="five_stars_title">"Dragoste BlipBlip?"</string> <!-- TODO validate "Love BlipBlip?" -->
@@ -320,20 +320,24 @@
     <!-- check which quantities and how should be used for given language here http://www.unicode.org/cldr/charts/29/supplemental/language_plural_rules.html -->
     <!-- Uncomment or add proper "zero", "two", "few" or "many" item if needed for your language -->
     <plurals name="repeat_every_x_hours"> <!-- "X hours" as in "Repeat every X hours" is different in some languages (e.g. Polish) from regular "X hours" -->
-        <item quantity="one">"%d oră"</item>
-        <item quantity="other">"%d ore"</item>
+        <item quantity="one">"%d oră"</item> <!-- TODO verify -->
+        <item quantity="few">"%d ore"</item> <!-- TODO verify -->
+        <item quantity="other">"%d ore"</item> <!-- TODO verify -->
     </plurals>
     <plurals name="repeat_every_x_minutes">
-        <item quantity="one">"%d minut"</item>
-        <item quantity="other">"%d minute"</item>
+        <item quantity="one">"%d minut"</item> <!-- TODO verify -->
+        <item quantity="few">"%d minute"</item> <!-- TODO verify -->
+        <item quantity="other">"%d minute"</item> <!-- TODO verify -->
     </plurals>
     <plurals name="repeat_every_x_seconds">
-        <item quantity="one">"%d secundă"</item>
-        <item quantity="other">"%d secunde"</item>
+        <item quantity="one">"%d secundă"</item> <!-- TODO verify -->
+        <item quantity="few">"%d secunde"</item> <!-- TODO verify -->
+        <item quantity="other">"%d secunde"</item> <!-- TODO verify -->
     </plurals>
     <plurals name="repeat_number_of_times">
-        <item quantity="one">"%d time"</item>
-        <item quantity="other">"%d times"</item>
+        <item quantity="one">"%d time"</item> <!-- TODO translate -->
+        <item quantity="few">"%d times"</item> <!-- TODO translate -->
+        <item quantity="other">"%d times"</item> <!-- TODO translate -->
     </plurals>
 
     <string name="pref_reset_accuracy_params">"Resetați parametrii"</string> <!-- TODO validate "Reset parameters" -->

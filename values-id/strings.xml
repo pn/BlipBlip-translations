@@ -210,7 +210,7 @@
     <!-- Alarm Mode -->
     <string name="notif_as_alarm_title">"Mode alarm"</string> <!-- TODO validate "Alarm mode" -->
     <string name="notif_as_alarm_off">"Pemberitahuan reguler"</string> <!-- TODO validate "Regular notifications" -->
-    <string name="notif_as_alarm_on">"Pemberitahuan bertindak sebagai alarm - memperbaiki keterlambatan pemberitahuan 3-5 menit pada beberapa perangkat Samsung"</string> <!-- TODO validate "Notifications act as alarms – fixes 3–5 minute notification delays on some Samsung devices" -->
+    <string name="notif_as_alarm_on">"Pemberitahuan bertindak sebagai alarm – memperbaiki keterlambatan pemberitahuan 3–5 menit pada beberapa perangkat Samsung"</string> <!-- TODO validate "Notifications act as alarms – fixes 3–5 minute notification delays on some Samsung devices" -->
     <string name="late_notif_title">"Mode alarm diaktifkan"</string> <!-- TODO validate "Alarm mode enabled" -->
     <string name="late_notif_message">"Telah terdeteksi bahwa notifikasi tertunda beberapa menit yang terjadi pada beberapa perangkat Samsung. Untuk mencegah hal ini, opsi \ \"Mode alarm \\" telah diaktifkan, yang seharusnya memperbaiki masalah ini. Anda dapat menonaktifkan opsi ini dan mengaktifkan otomatis opsi ini di Pengaturan Lanjut. Jika akan ditemukan solusi yang lebih baik untuk memperbaiki masalah, aplikasi akan diperbarui. Jika Anda memiliki masalah lagi, harap laporkan melalui email."</string> <!-- TODO validate "It has been detected that notification was delayed by several minutes which happens on some Samsung devices. To prevent this, an \"Alarm mode\" option has been enabled, which should fix this issue. You can disable this option and automatic enabling of this option in the Advanced Settings. If there will be better solution found to fix the issue the app will be updated. If you have any more problems please report them via email." -->
 
@@ -260,7 +260,7 @@
     <string name="action_rate">"Nilai kami"</string> <!-- TODO validate "Rate us" -->
     <string name="rate_us_title">"Beri Nilai Kami!"</string> <!-- TODO validate "Rate Us!" -->
     <string name="rate_us_message">"Terima kasih telah meluangkan waktu untuk meninjau aplikasi."</string> <!-- TODO validate "Thank you for taking time to review the app." -->
-    <string name="rate_us_onetofourstars">"1-4 bintang"</string> <!-- TODO validate "1–4 stars" -->
+    <string name="rate_us_onetofourstars">"1–4 bintang"</string> <!-- TODO validate "1–4 stars" -->
     <string name="rate_us_fivestars">"5 bintang!"</string> <!-- TODO validate "5 stars!" -->
     <string name="five_stars_description">"Bintang lima"</string> <!-- TODO validate "Five stars" -->
     <string name="five_stars_title">"Suka BlipBlip?"</string> <!-- TODO validate "Love BlipBlip?" -->
@@ -320,20 +320,16 @@
     <!-- check which quantities and how should be used for given language here http://www.unicode.org/cldr/charts/29/supplemental/language_plural_rules.html -->
     <!-- Uncomment or add proper "zero", "two", "few" or "many" item if needed for your language -->
     <plurals name="repeat_every_x_hours"> <!-- "X hours" as in "Repeat every X hours" is different in some languages (e.g. Polish) from regular "X hours" -->
-        <item quantity="one">"%d jam"</item>
-        <item quantity="other">"%d jam"</item>
+        <item quantity="other">"%d jam"</item> <!-- TODO validate -->
     </plurals>
     <plurals name="repeat_every_x_minutes">
-        <item quantity="one">"%d menit"</item>
-        <item quantity="other">"%d menit"</item>
+        <item quantity="other">"%d menit"</item> <!-- TODO validate -->
     </plurals>
     <plurals name="repeat_every_x_seconds">
-        <item quantity="one">"%d detik"</item>
-        <item quantity="other">"%d detik"</item>
+        <item quantity="other">"%d detik"</item> <!-- TODO validate -->
     </plurals>
     <plurals name="repeat_number_of_times">
-        <item quantity="one">"%d time"</item>
-        <item quantity="other">"%d times"</item>
+        <item quantity="other">"%d times"</item> <!-- TODO translate -->
     </plurals>
 
     <string name="pref_reset_accuracy_params">"Setel ulang parameter"</string> <!-- TODO validate "Reset parameters" -->

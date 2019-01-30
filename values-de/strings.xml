@@ -413,7 +413,7 @@
     <string name="end_time">"Endzeit"</string>
     <string name="whole_day">"Ganzer Tag"</string>
     <string name="enable_screen">"Schalte Bildschirm ein"</string>
-    <string name="action_rename">"Umbennen"</string>
+    <string name="action_rename">"Umbenennen"</string> <!-- TODO validate -->
     <string name="pref_accessibility">"Zugänglichkeit"</string>
     <string name="pref_swipe">"Wischen"</string>
     <string name="pref_swipe_on">"Wischen für die Listeninhalte eingeschaltet"</string>
@@ -497,7 +497,7 @@
 
     <string name="play">"Abspielen"</string>
 
-    <string name="cannot_perform_operation">"Diese Tätigkeit kann jetzt nicht ausgeführt werden. Bitte versuche später nocheinmal."</string>
+    <string name="cannot_perform_operation">"Diese Tätigkeit kann jetzt nicht ausgeführt werden. Bitte versuche später noch einmal."</string> <!-- TODO validate -->
 
     <string name="add_to_favorites">"Zu den Favoriten hinzufügen"</string>
     <string name="open_favorites">"Őffne Favoriten"</string>
@@ -684,7 +684,7 @@
     <string name="manual_settings_general_tips_button">"Allgemeine Tipps anzeigen"</string> <!-- TODO validate "Show general tips" -->
     <string name="manual_settings_general_tips">"Allgemeine Hinweise"</string> <!-- TODO validate "General tips" -->
     <string name="manual_settings_general_tip1">"Deaktivieren Sie den Energiesparmodus in den Geräteeinstellungen"</string> <!-- TODO validate "Disable power saving modes in device settings" -->
-    <string name="manual_settings_general_tip2">"Deaktivieren Sie Apps, die die Akku- oder Speicherauslastung optimieren (z. B. Task-Killers)"</string> <!-- TODO validate "Disable apps that optimize battery or memory usage (e.g. task killers)" -->
+    <string name="manual_settings_general_tip2">"Deaktivieren Sie Apps, die Akku- oder Speicherauslastung optimieren (z. B. Task-Killers)"</string> <!-- TODO validate "Disable apps that optimize battery or memory usage (e.g. task killers)" -->
     <string name="manual_settings_general_tips_info">"Wenn für Ihr Gerät andere Optionen geändert werden müssen, teilen Sie uns dies bitte mit der Option \"Problem melden\" mit."</string> <!-- TODO validate "If your device requires changing other options, please let us know using \"Report problem\" option." -->
     <string name="manual_settings_suggest_report_problem">"Wenn Sie nach dem Ausprobieren der obigen Tipps weiterhin Probleme mit der App haben, melden Sie das Problem bitte."</string> <!-- TODO validate "If after trying above tips you would still have issues with the app, please report the problem." -->
     <string name="manual_settings_do_not_show_again">"Nicht mehr anzeigen"</string> <!-- TODO validate "Do not show again" -->

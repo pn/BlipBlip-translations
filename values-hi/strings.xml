@@ -260,7 +260,7 @@
     <string name="action_rate">"हमें रेटिंग दें"</string> <!-- TODO validate "Rate us" -->
     <string name="rate_us_title">"हमें रेटिंग दें!"</string> <!-- TODO validate "Rate Us!" -->
     <string name="rate_us_message">"एप्लिकेशन की समीक्षा करने के लिए समय निकालने के लिए धन्यवाद।"</string> <!-- TODO validate "Thank you for taking time to review the app." -->
-    <string name="rate_us_onetofourstars">"1-4 सितारे"</string> <!-- TODO validate "1–4 stars" -->
+    <string name="rate_us_onetofourstars">"1–4 सितारे"</string> <!-- TODO validate "1–4 stars" -->
     <string name="rate_us_fivestars">"5 सितारे!"</string> <!-- TODO validate "5 stars!" -->
     <string name="five_stars_description">"पांच सितारे"</string> <!-- TODO validate "Five stars" -->
     <string name="five_stars_title">"लव ब्लिपब्लिप?"</string> <!-- TODO validate "Love BlipBlip?" -->
@@ -320,20 +320,20 @@
     <!-- check which quantities and how should be used for given language here http://www.unicode.org/cldr/charts/29/supplemental/language_plural_rules.html -->
     <!-- Uncomment or add proper "zero", "two", "few" or "many" item if needed for your language -->
     <plurals name="repeat_every_x_hours"> <!-- "X hours" as in "Repeat every X hours" is different in some languages (e.g. Polish) from regular "X hours" -->
-        <item quantity="one">"%d घंटा"</item>
-        <item quantity="other">"%d घंटे"</item>
+        <item quantity="one">"%d घंटा"</item> <!-- TODO validate -->
+        <item quantity="other">"%d घंटे"</item> <!-- TODO validate -->
     </plurals>
     <plurals name="repeat_every_x_minutes">
-        <item quantity="one">"%d मिनट"</item>
-        <item quantity="other">"%d मिनट"</item>
+        <item quantity="one">"%d मिनट"</item> <!-- TODO validate -->
+        <item quantity="other">"%d मिनट"</item> <!-- TODO validate -->
     </plurals>
     <plurals name="repeat_every_x_seconds">
-        <item quantity="one">"%d दूसरा"</item>
-        <item quantity="other">"%d सेकंड"</item>
+        <item quantity="one">"%d दूसरा"</item> <!-- TODO validate -->
+        <item quantity="other">"%d सेकंड"</item> <!-- TODO validate -->
     </plurals>
     <plurals name="repeat_number_of_times">
-        <item quantity="one">"%d time"</item>
-        <item quantity="other">"%d times"</item>
+        <item quantity="one">"%d time"</item> <!-- TODO translate -->
+        <item quantity="other">"%d times"</item> <!-- TODO translate -->
     </plurals>
 
     <string name="pref_reset_accuracy_params">"पैरामीटर रीसेट करें"</string> <!-- TODO validate "Reset parameters" -->

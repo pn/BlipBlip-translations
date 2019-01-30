@@ -761,7 +761,7 @@
     <string name="subscribe_without_ads">"Inscreva-se sem anúncios"</string> <!-- TODO validate "Subscribe without ads" -->
     <string name="start_free_trial">"Inicie uma avaliação gratuita"</string> <!-- TODO validate "Start a free trial" -->
     <string name="tooltip_accept_privacy_policy">"Por favor, marque a caixa."</string> <!-- TODO validate "Please check the box." -->
-    <string name="welcome_to_blipBlip">"Bem vindo ao BlipBlip!"</string> <!-- TODO validate "Welcome to BlipBlip!" -->
+    <string name="welcome_to_blipBlip">"Bem-vindo ao BlipBlip!"</string> <!-- TODO validate "Welcome to BlipBlip!" -->
     <string name="blipblip_free_description_short">"Este aplicativo é gratuito em troca de assistir anúncios."</string> <!-- TODO validate "This app is free in exchange for watching ads." -->
     <string name="blipblip_free_description">"Este aplicativo é gratuito em troca de assistir anúncios. Você pode acessar todos os recursos e sons do Blip Blip Premium por um período especificado após assistir a um anúncio. Quanto mais você assiste, mais tempo você pode usar o aplicativo."</string> <!-- TODO validate "This app is free in exchange for watching ads. You can access all Blip Blip Premium features and sounds for specified time period after watching an ad. The more you watch the longer you can use the app." -->
     <string name="blipblip_free_description2">"Não há anúncios na interface do usuário. Não há anúncios aparecendo inesperadamente. Você sempre escolhe quando quer assistir a um anúncio."</string> <!-- TODO validate "There are no ads in user interface. There are no ads popping up unexpectedly. You always choose when you want to watch an ad." -->
