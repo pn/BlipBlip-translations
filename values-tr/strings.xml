@@ -320,16 +320,16 @@
     <!-- check which quantities and how should be used for given language here http://www.unicode.org/cldr/charts/29/supplemental/language_plural_rules.html -->
     <!-- Uncomment or add proper "zero", "two", "few" or "many" item if needed for your language -->
     <plurals name="repeat_every_x_hours"> <!-- "X hours" as in "Repeat every X hours" is different in some languages (e.g. Polish) from regular "X hours" -->
-        <item quantity="one">"%d hour"</item>
-        <item quantity="other">"%d hours"</item>
+        <item quantity="one">"%d saat"</item>
+        <item quantity="other">"%d saat"</item>
     </plurals>
     <plurals name="repeat_every_x_minutes">
-        <item quantity="one">"%d minute"</item>
-        <item quantity="other">"%d minutes"</item>
+        <item quantity="one">"%d dakika"</item>
+        <item quantity="other">"%d dakika"</item>
     </plurals>
     <plurals name="repeat_every_x_seconds">
-        <item quantity="one">"%d second"</item>
-        <item quantity="other">"%d seconds"</item>
+        <item quantity="one">"%d saniye"</item>
+        <item quantity="other">"%d saniye"</item>
     </plurals>
     <plurals name="repeat_number_of_times">
         <item quantity="one">"%d time"</item>

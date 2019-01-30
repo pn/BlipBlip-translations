@@ -320,16 +320,16 @@
     <!-- check which quantities and how should be used for given language here http://www.unicode.org/cldr/charts/29/supplemental/language_plural_rules.html -->
     <!-- Uncomment or add proper "zero", "two", "few" or "many" item if needed for your language -->
     <plurals name="repeat_every_x_hours"> <!-- "X hours" as in "Repeat every X hours" is different in some languages (e.g. Polish) from regular "X hours" -->
-        <item quantity="one">"%d óránként"</item>
-        <item quantity="other">"%d óránként"</item>
+        <item quantity="one">"%d óra"</item>
+        <item quantity="other">"%d óra"</item>
     </plurals>
     <plurals name="repeat_every_x_minutes">
-        <item quantity="one">"%d percenként"</item>
-        <item quantity="other">"%d percenként"</item>
+        <item quantity="one">"%d perc"</item>
+        <item quantity="other">"%d perc"</item>
     </plurals>
     <plurals name="repeat_every_x_seconds">
-        <item quantity="one">"%d másodpercenként"</item>
-        <item quantity="other">"%d másodpercenként"</item>
+        <item quantity="one">"%d másodperc"</item>
+        <item quantity="other">"%d másodperc"</item>
     </plurals>
     <plurals name="repeat_number_of_times">
         <item quantity="one">"%d alkalommal"</item>
